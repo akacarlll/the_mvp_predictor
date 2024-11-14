@@ -1,0 +1,15 @@
+name: web_scraping_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - requests
+  - randomgen  # pour la génération aléatoire
+  - tqdm
+  - beautifulsoup4
+  - pandas
+  - lxml  # nécessaire pour le parsing HTML avec pandas
+  - pip  # pour installer des paquets supplémentaires si besoin
+  - pip:
+      - html5lib  # parser HTML alternatif, utile pour certaines pages
+      - urllib3  # pour le support HTTP
