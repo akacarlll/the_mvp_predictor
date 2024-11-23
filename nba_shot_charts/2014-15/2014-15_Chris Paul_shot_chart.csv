@@ -1,0 +1,569 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0021400020,42,101108,Chris Paul,1610612746,Los Angeles Clippers,1,7,19,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,147,-10,1,1,20141030,LAC,OKC
+Shot Chart Detail,0021400020,97,101108,Chris Paul,1610612746,Los Angeles Clippers,1,3,14,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2,20,1,1,20141030,LAC,OKC
+Shot Chart Detail,0021400020,268,101108,Chris Paul,1610612746,Los Angeles Clippers,2,0,26,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,26,19,1,1,20141030,LAC,OKC
+Shot Chart Detail,0021400020,320,101108,Chris Paul,1610612746,Los Angeles Clippers,3,7,20,Made Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,40,126,1,1,20141030,LAC,OKC
+Shot Chart Detail,0021400020,350,101108,Chris Paul,1610612746,Los Angeles Clippers,3,4,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-111,-2,1,1,20141030,LAC,OKC
+Shot Chart Detail,0021400020,371,101108,Chris Paul,1610612746,Los Angeles Clippers,3,2,41,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,100,91,1,1,20141030,LAC,OKC
+Shot Chart Detail,0021400020,456,101108,Chris Paul,1610612746,Los Angeles Clippers,4,7,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,53,257,1,1,20141030,LAC,OKC
+Shot Chart Detail,0021400020,469,101108,Chris Paul,1610612746,Los Angeles Clippers,4,6,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,4,1,1,20141030,LAC,OKC
+Shot Chart Detail,0021400020,490,101108,Chris Paul,1610612746,Los Angeles Clippers,4,4,44,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,6,44,1,1,20141030,LAC,OKC
+Shot Chart Detail,0021400026,10,101108,Chris Paul,1610612746,Los Angeles Clippers,1,10,49,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-8,74,1,1,20141031,LAL,LAC
+Shot Chart Detail,0021400026,100,101108,Chris Paul,1610612746,Los Angeles Clippers,1,1,19,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-239,-6,1,1,20141031,LAL,LAC
+Shot Chart Detail,0021400039,34,101108,Chris Paul,1610612746,Los Angeles Clippers,1,7,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-90,168,1,1,20141102,LAC,SAC
+Shot Chart Detail,0021400039,295,101108,Chris Paul,1610612746,Los Angeles Clippers,3,10,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-174,186,1,1,20141102,LAC,SAC
+Shot Chart Detail,0021400039,302,101108,Chris Paul,1610612746,Los Angeles Clippers,3,9,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,-2,1,1,20141102,LAC,SAC
+Shot Chart Detail,0021400039,316,101108,Chris Paul,1610612746,Los Angeles Clippers,3,8,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-157,37,1,1,20141102,LAC,SAC
+Shot Chart Detail,0021400039,320,101108,Chris Paul,1610612746,Los Angeles Clippers,3,7,52,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,20,88,1,1,20141102,LAC,SAC
+Shot Chart Detail,0021400039,345,101108,Chris Paul,1610612746,Los Angeles Clippers,3,4,37,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,-22,1,1,20141102,LAC,SAC
+Shot Chart Detail,0021400048,30,101108,Chris Paul,1610612746,Los Angeles Clippers,1,8,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,78,170,1,1,20141103,LAC,UTA
+Shot Chart Detail,0021400048,90,101108,Chris Paul,1610612746,Los Angeles Clippers,1,0,5,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,129,96,1,1,20141103,LAC,UTA
+Shot Chart Detail,0021400048,192,101108,Chris Paul,1610612746,Los Angeles Clippers,2,0,50,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,236,-22,1,1,20141103,LAC,UTA
+Shot Chart Detail,0021400048,207,101108,Chris Paul,1610612746,Los Angeles Clippers,3,11,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-15,205,1,1,20141103,LAC,UTA
+Shot Chart Detail,0021400048,490,101108,Chris Paul,1610612746,Los Angeles Clippers,4,0,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,12,1,1,20141103,LAC,UTA
+Shot Chart Detail,0021400068,202,101108,Chris Paul,1610612746,Los Angeles Clippers,2,0,46,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,30,133,276,1,1,20141105,GSW,LAC
+Shot Chart Detail,0021400068,204,101108,Chris Paul,1610612746,Los Angeles Clippers,2,0,3,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,13,73,113,1,1,20141105,GSW,LAC
+Shot Chart Detail,0021400068,214,101108,Chris Paul,1610612746,Los Angeles Clippers,3,11,0,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,39,189,1,1,20141105,GSW,LAC
+Shot Chart Detail,0021400068,227,101108,Chris Paul,1610612746,Los Angeles Clippers,3,9,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-57,181,1,1,20141105,GSW,LAC
+Shot Chart Detail,0021400068,241,101108,Chris Paul,1610612746,Los Angeles Clippers,3,8,0,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,7,86,1,1,20141105,GSW,LAC
+Shot Chart Detail,0021400068,267,101108,Chris Paul,1610612746,Los Angeles Clippers,3,5,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,108,112,1,1,20141105,GSW,LAC
+Shot Chart Detail,0021400082,67,101108,Chris Paul,1610612746,Los Angeles Clippers,1,5,11,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,86,140,1,1,20141108,LAC,POR
+Shot Chart Detail,0021400082,71,101108,Chris Paul,1610612746,Los Angeles Clippers,1,4,37,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-86,143,1,1,20141108,LAC,POR
+Shot Chart Detail,0021400082,78,101108,Chris Paul,1610612746,Los Angeles Clippers,1,3,27,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-4,145,1,1,20141108,LAC,POR
+Shot Chart Detail,0021400082,270,101108,Chris Paul,1610612746,Los Angeles Clippers,2,0,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-116,145,1,1,20141108,LAC,POR
+Shot Chart Detail,0021400082,312,101108,Chris Paul,1610612746,Los Angeles Clippers,3,9,7,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,14,-79,124,1,1,20141108,LAC,POR
+Shot Chart Detail,0021400082,356,101108,Chris Paul,1610612746,Los Angeles Clippers,3,5,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,102,96,1,1,20141108,LAC,POR
+Shot Chart Detail,0021400082,497,101108,Chris Paul,1610612746,Los Angeles Clippers,4,4,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-114,119,1,1,20141108,LAC,POR
+Shot Chart Detail,0021400082,500,101108,Chris Paul,1610612746,Los Angeles Clippers,4,3,23,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,103,142,1,1,20141108,LAC,POR
+Shot Chart Detail,0021400082,504,101108,Chris Paul,1610612746,Los Angeles Clippers,4,2,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,81,47,1,1,20141108,LAC,POR
+Shot Chart Detail,0021400102,34,101108,Chris Paul,1610612746,Los Angeles Clippers,1,7,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,136,113,1,1,20141110,LAC,SAS
+Shot Chart Detail,0021400102,61,101108,Chris Paul,1610612746,Los Angeles Clippers,1,4,48,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-56,104,1,1,20141110,LAC,SAS
+Shot Chart Detail,0021400102,270,101108,Chris Paul,1610612746,Los Angeles Clippers,3,9,29,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,29,121,1,1,20141110,LAC,SAS
+Shot Chart Detail,0021400102,275,101108,Chris Paul,1610612746,Los Angeles Clippers,3,8,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-7,157,1,1,20141110,LAC,SAS
+Shot Chart Detail,0021400102,291,101108,Chris Paul,1610612746,Los Angeles Clippers,3,6,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,89,94,1,1,20141110,LAC,SAS
+Shot Chart Detail,0021400102,450,101108,Chris Paul,1610612746,Los Angeles Clippers,4,5,49,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,7,74,1,1,20141110,LAC,SAS
+Shot Chart Detail,0021400141,22,101108,Chris Paul,1610612746,Los Angeles Clippers,1,8,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,37,192,1,1,20141115,LAC,PHX
+Shot Chart Detail,0021400141,255,101108,Chris Paul,1610612746,Los Angeles Clippers,2,2,55,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,59,105,1,1,20141115,LAC,PHX
+Shot Chart Detail,0021400141,288,101108,Chris Paul,1610612746,Los Angeles Clippers,2,0,7,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,7,1,1,20141115,LAC,PHX
+Shot Chart Detail,0021400141,298,101108,Chris Paul,1610612746,Los Angeles Clippers,3,11,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-103,225,1,1,20141115,LAC,PHX
+Shot Chart Detail,0021400141,301,101108,Chris Paul,1610612746,Los Angeles Clippers,3,11,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-11,265,1,1,20141115,LAC,PHX
+Shot Chart Detail,0021400141,316,101108,Chris Paul,1610612746,Los Angeles Clippers,3,9,32,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,-3,1,1,20141115,LAC,PHX
+Shot Chart Detail,0021400141,538,101108,Chris Paul,1610612746,Los Angeles Clippers,4,5,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,10,19,1,1,20141115,LAC,PHX
+Shot Chart Detail,0021400141,557,101108,Chris Paul,1610612746,Los Angeles Clippers,4,4,45,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,236,22,1,1,20141115,LAC,PHX
+Shot Chart Detail,0021400141,602,101108,Chris Paul,1610612746,Los Angeles Clippers,4,2,27,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-144,206,1,1,20141115,LAC,PHX
+Shot Chart Detail,0021400141,604,101108,Chris Paul,1610612746,Los Angeles Clippers,4,1,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-119,116,1,1,20141115,LAC,PHX
+Shot Chart Detail,0021400154,64,101108,Chris Paul,1610612746,Los Angeles Clippers,1,5,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,94,86,1,1,20141117,LAC,CHI
+Shot Chart Detail,0021400154,211,101108,Chris Paul,1610612746,Los Angeles Clippers,2,5,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,103,97,1,1,20141117,LAC,CHI
+Shot Chart Detail,0021400154,222,101108,Chris Paul,1610612746,Los Angeles Clippers,2,4,26,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-87,138,1,1,20141117,LAC,CHI
+Shot Chart Detail,0021400154,229,101108,Chris Paul,1610612746,Los Angeles Clippers,2,3,44,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,129,149,1,1,20141117,LAC,CHI
+Shot Chart Detail,0021400154,453,101108,Chris Paul,1610612746,Los Angeles Clippers,4,6,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,77,250,1,1,20141117,LAC,CHI
+Shot Chart Detail,0021400161,5,101108,Chris Paul,1610612746,Los Angeles Clippers,1,11,22,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,70,159,1,1,20141119,ORL,LAC
+Shot Chart Detail,0021400161,33,101108,Chris Paul,1610612746,Los Angeles Clippers,1,8,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,78,192,1,1,20141119,ORL,LAC
+Shot Chart Detail,0021400161,108,101108,Chris Paul,1610612746,Los Angeles Clippers,1,0,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,12,1,1,20141119,ORL,LAC
+Shot Chart Detail,0021400161,272,101108,Chris Paul,1610612746,Los Angeles Clippers,3,10,50,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,141,118,1,1,20141119,ORL,LAC
+Shot Chart Detail,0021400161,281,101108,Chris Paul,1610612746,Los Angeles Clippers,3,9,8,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,179,48,1,1,20141119,ORL,LAC
+Shot Chart Detail,0021400161,339,101108,Chris Paul,1610612746,Los Angeles Clippers,3,4,53,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,69,121,1,1,20141119,ORL,LAC
+Shot Chart Detail,0021400161,369,101108,Chris Paul,1610612746,Los Angeles Clippers,3,1,40,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,45,151,1,1,20141119,ORL,LAC
+Shot Chart Detail,0021400161,381,101108,Chris Paul,1610612746,Los Angeles Clippers,3,0,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,118,121,1,1,20141119,ORL,LAC
+Shot Chart Detail,0021400170,21,101108,Chris Paul,1610612746,Los Angeles Clippers,1,9,7,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,6,1,1,20141120,MIA,LAC
+Shot Chart Detail,0021400170,47,101108,Chris Paul,1610612746,Los Angeles Clippers,1,5,50,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,56,58,1,1,20141120,MIA,LAC
+Shot Chart Detail,0021400170,85,101108,Chris Paul,1610612746,Los Angeles Clippers,1,2,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-204,142,1,1,20141120,MIA,LAC
+Shot Chart Detail,0021400170,92,101108,Chris Paul,1610612746,Los Angeles Clippers,1,1,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-136,127,1,1,20141120,MIA,LAC
+Shot Chart Detail,0021400170,187,101108,Chris Paul,1610612746,Los Angeles Clippers,2,3,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,28,249,1,1,20141120,MIA,LAC
+Shot Chart Detail,0021400170,242,101108,Chris Paul,1610612746,Los Angeles Clippers,3,9,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-67,241,1,1,20141120,MIA,LAC
+Shot Chart Detail,0021400170,263,101108,Chris Paul,1610612746,Los Angeles Clippers,3,7,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,6,1,1,20141120,MIA,LAC
+Shot Chart Detail,0021400170,316,101108,Chris Paul,1610612746,Los Angeles Clippers,3,3,15,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,152,83,1,1,20141120,MIA,LAC
+Shot Chart Detail,0021400193,242,101108,Chris Paul,1610612746,Los Angeles Clippers,2,2,43,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,7,1,1,20141123,MEM,LAC
+Shot Chart Detail,0021400193,300,101108,Chris Paul,1610612746,Los Angeles Clippers,2,0,1,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,69,121,1,1,20141123,MEM,LAC
+Shot Chart Detail,0021400193,312,101108,Chris Paul,1610612746,Los Angeles Clippers,3,11,9,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,7,1,1,20141123,MEM,LAC
+Shot Chart Detail,0021400193,314,101108,Chris Paul,1610612746,Los Angeles Clippers,3,10,39,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,94,138,1,1,20141123,MEM,LAC
+Shot Chart Detail,0021400193,339,101108,Chris Paul,1610612746,Los Angeles Clippers,3,8,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-23,252,1,1,20141123,MEM,LAC
+Shot Chart Detail,0021400193,363,101108,Chris Paul,1610612746,Los Angeles Clippers,3,5,24,Made Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,67,129,1,1,20141123,MEM,LAC
+Shot Chart Detail,0021400193,396,101108,Chris Paul,1610612746,Los Angeles Clippers,3,1,47,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,4,1,1,20141123,MEM,LAC
+Shot Chart Detail,0021400198,90,101108,Chris Paul,1610612746,Los Angeles Clippers,1,1,43,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-71,37,1,1,20141124,CHA,LAC
+Shot Chart Detail,0021400198,100,101108,Chris Paul,1610612746,Los Angeles Clippers,1,0,58,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-78,60,1,1,20141124,CHA,LAC
+Shot Chart Detail,0021400198,111,101108,Chris Paul,1610612746,Los Angeles Clippers,1,0,1,Made Shot,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,50,77,1,1,20141124,CHA,LAC
+Shot Chart Detail,0021400198,213,101108,Chris Paul,1610612746,Los Angeles Clippers,2,3,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-15,192,1,1,20141124,CHA,LAC
+Shot Chart Detail,0021400198,225,101108,Chris Paul,1610612746,Los Angeles Clippers,2,1,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-127,132,1,1,20141124,CHA,LAC
+Shot Chart Detail,0021400198,281,101108,Chris Paul,1610612746,Los Angeles Clippers,3,7,25,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,116,121,1,1,20141124,CHA,LAC
+Shot Chart Detail,0021400198,318,101108,Chris Paul,1610612746,Los Angeles Clippers,3,2,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,61,183,1,1,20141124,CHA,LAC
+Shot Chart Detail,0021400198,408,101108,Chris Paul,1610612746,Los Angeles Clippers,4,8,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-187,179,1,1,20141124,CHA,LAC
+Shot Chart Detail,0021400198,438,101108,Chris Paul,1610612746,Los Angeles Clippers,4,4,53,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,19,1,1,20141124,CHA,LAC
+Shot Chart Detail,0021400198,483,101108,Chris Paul,1610612746,Los Angeles Clippers,4,0,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,20,265,1,1,20141124,CHA,LAC
+Shot Chart Detail,0021400216,101,101108,Chris Paul,1610612746,Los Angeles Clippers,1,2,1,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,6,1,1,20141126,DET,LAC
+Shot Chart Detail,0021400216,207,101108,Chris Paul,1610612746,Los Angeles Clippers,2,4,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-98,244,1,1,20141126,DET,LAC
+Shot Chart Detail,0021400216,303,101108,Chris Paul,1610612746,Los Angeles Clippers,3,7,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-150,131,1,1,20141126,DET,LAC
+Shot Chart Detail,0021400216,306,101108,Chris Paul,1610612746,Los Angeles Clippers,3,6,38,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-57,19,1,1,20141126,DET,LAC
+Shot Chart Detail,0021400216,320,101108,Chris Paul,1610612746,Los Angeles Clippers,3,4,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-98,258,1,1,20141126,DET,LAC
+Shot Chart Detail,0021400216,336,101108,Chris Paul,1610612746,Los Angeles Clippers,3,2,23,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,4,67,1,1,20141126,DET,LAC
+Shot Chart Detail,0021400216,342,101108,Chris Paul,1610612746,Los Angeles Clippers,3,1,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-134,105,1,1,20141126,DET,LAC
+Shot Chart Detail,0021400216,351,101108,Chris Paul,1610612746,Los Angeles Clippers,3,0,7,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,168,64,1,1,20141126,DET,LAC
+Shot Chart Detail,0021400216,441,101108,Chris Paul,1610612746,Los Angeles Clippers,4,1,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-144,220,1,1,20141126,DET,LAC
+Shot Chart Detail,0021400228,87,101108,Chris Paul,1610612746,Los Angeles Clippers,1,1,45,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,51,172,1,1,20141128,HOU,LAC
+Shot Chart Detail,0021400228,277,101108,Chris Paul,1610612746,Los Angeles Clippers,3,9,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,0,1,1,20141128,HOU,LAC
+Shot Chart Detail,0021400228,284,101108,Chris Paul,1610612746,Los Angeles Clippers,3,8,25,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,83,235,1,1,20141128,HOU,LAC
+Shot Chart Detail,0021400239,4,101108,Chris Paul,1610612746,Los Angeles Clippers,1,11,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-97,222,1,1,20141129,UTA,LAC
+Shot Chart Detail,0021400239,39,101108,Chris Paul,1610612746,Los Angeles Clippers,1,6,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-168,-17,1,1,20141129,UTA,LAC
+Shot Chart Detail,0021400239,198,101108,Chris Paul,1610612746,Los Angeles Clippers,2,4,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,95,142,1,1,20141129,UTA,LAC
+Shot Chart Detail,0021400239,235,101108,Chris Paul,1610612746,Los Angeles Clippers,2,0,55,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,2,48,1,1,20141129,UTA,LAC
+Shot Chart Detail,0021400239,238,101108,Chris Paul,1610612746,Los Angeles Clippers,2,0,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,163,132,1,1,20141129,UTA,LAC
+Shot Chart Detail,0021400239,290,101108,Chris Paul,1610612746,Los Angeles Clippers,3,6,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-130,148,1,1,20141129,UTA,LAC
+Shot Chart Detail,0021400239,299,101108,Chris Paul,1610612746,Los Angeles Clippers,3,5,53,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,92,110,1,1,20141129,UTA,LAC
+Shot Chart Detail,0021400252,105,101108,Chris Paul,1610612746,Los Angeles Clippers,1,3,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-60,178,1,1,20141201,LAC,MIN
+Shot Chart Detail,0021400252,349,101108,Chris Paul,1610612746,Los Angeles Clippers,3,7,35,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,15,1,1,20141201,LAC,MIN
+Shot Chart Detail,0021400252,382,101108,Chris Paul,1610612746,Los Angeles Clippers,3,5,13,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-7,83,1,1,20141201,LAC,MIN
+Shot Chart Detail,0021400272,79,101108,Chris Paul,1610612746,Los Angeles Clippers,1,3,32,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,84,66,1,1,20141203,LAC,ORL
+Shot Chart Detail,0021400272,208,101108,Chris Paul,1610612746,Los Angeles Clippers,2,4,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,196,156,1,1,20141203,LAC,ORL
+Shot Chart Detail,0021400272,211,101108,Chris Paul,1610612746,Los Angeles Clippers,2,4,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,154,66,1,1,20141203,LAC,ORL
+Shot Chart Detail,0021400272,308,101108,Chris Paul,1610612746,Los Angeles Clippers,3,9,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,105,0,1,1,20141203,LAC,ORL
+Shot Chart Detail,0021400272,318,101108,Chris Paul,1610612746,Los Angeles Clippers,3,8,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-73,252,1,1,20141203,LAC,ORL
+Shot Chart Detail,0021400272,347,101108,Chris Paul,1610612746,Los Angeles Clippers,3,5,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-109,104,1,1,20141203,LAC,ORL
+Shot Chart Detail,0021400272,395,101108,Chris Paul,1610612746,Los Angeles Clippers,3,0,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,215,160,1,1,20141203,LAC,ORL
+Shot Chart Detail,0021400293,20,101108,Chris Paul,1610612746,Los Angeles Clippers,1,9,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,84,238,1,1,20141206,LAC,NOP
+Shot Chart Detail,0021400293,28,101108,Chris Paul,1610612746,Los Angeles Clippers,1,8,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-24,249,1,1,20141206,LAC,NOP
+Shot Chart Detail,0021400293,87,101108,Chris Paul,1610612746,Los Angeles Clippers,1,1,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-187,12,1,1,20141206,LAC,NOP
+Shot Chart Detail,0021400293,220,101108,Chris Paul,1610612746,Los Angeles Clippers,2,1,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-92,101,1,1,20141206,LAC,NOP
+Shot Chart Detail,0021400293,286,101108,Chris Paul,1610612746,Los Angeles Clippers,3,5,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,166,181,1,1,20141206,LAC,NOP
+Shot Chart Detail,0021400293,314,101108,Chris Paul,1610612746,Los Angeles Clippers,3,2,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-179,173,1,1,20141206,LAC,NOP
+Shot Chart Detail,0021400293,350,101108,Chris Paul,1610612746,Los Angeles Clippers,3,0,4,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,0,1,1,20141206,LAC,NOP
+Shot Chart Detail,0021400307,61,101108,Chris Paul,1610612746,Los Angeles Clippers,1,5,38,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,67,127,1,1,20141208,LAC,PHX
+Shot Chart Detail,0021400307,203,101108,Chris Paul,1610612746,Los Angeles Clippers,2,4,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,86,82,1,1,20141208,LAC,PHX
+Shot Chart Detail,0021400307,268,101108,Chris Paul,1610612746,Los Angeles Clippers,3,11,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-5,25,1,1,20141208,LAC,PHX
+Shot Chart Detail,0021400307,302,101108,Chris Paul,1610612746,Los Angeles Clippers,3,8,23,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,1,1,1,20141208,LAC,PHX
+Shot Chart Detail,0021400307,377,101108,Chris Paul,1610612746,Los Angeles Clippers,3,1,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,6,1,1,20141208,LAC,PHX
+Shot Chart Detail,0021400307,382,101108,Chris Paul,1610612746,Los Angeles Clippers,3,0,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,28,165,1,1,20141208,LAC,PHX
+Shot Chart Detail,0021400307,449,101108,Chris Paul,1610612746,Los Angeles Clippers,4,8,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,83,126,1,1,20141208,LAC,PHX
+Shot Chart Detail,0021400307,544,101108,Chris Paul,1610612746,Los Angeles Clippers,4,1,42,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,77,142,1,1,20141208,LAC,PHX
+Shot Chart Detail,0021400317,16,101108,Chris Paul,1610612746,Los Angeles Clippers,1,9,17,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-108,83,1,1,20141210,IND,LAC
+Shot Chart Detail,0021400317,18,101108,Chris Paul,1610612746,Los Angeles Clippers,1,8,52,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-125,80,1,1,20141210,IND,LAC
+Shot Chart Detail,0021400317,239,101108,Chris Paul,1610612746,Los Angeles Clippers,2,1,1,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,34,33,1,1,20141210,IND,LAC
+Shot Chart Detail,0021400317,257,101108,Chris Paul,1610612746,Los Angeles Clippers,3,10,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,111,162,1,1,20141210,IND,LAC
+Shot Chart Detail,0021400317,277,101108,Chris Paul,1610612746,Los Angeles Clippers,3,8,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,152,-8,1,1,20141210,IND,LAC
+Shot Chart Detail,0021400317,424,101108,Chris Paul,1610612746,Los Angeles Clippers,4,6,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,4,151,1,1,20141210,IND,LAC
+Shot Chart Detail,0021400317,463,101108,Chris Paul,1610612746,Los Angeles Clippers,4,4,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,54,146,1,1,20141210,IND,LAC
+Shot Chart Detail,0021400329,203,101108,Chris Paul,1610612746,Los Angeles Clippers,2,6,58,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-119,53,1,1,20141212,WAS,LAC
+Shot Chart Detail,0021400329,219,101108,Chris Paul,1610612746,Los Angeles Clippers,2,5,26,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,113,94,1,1,20141212,WAS,LAC
+Shot Chart Detail,0021400329,231,101108,Chris Paul,1610612746,Los Angeles Clippers,2,4,10,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,144,25,1,1,20141212,WAS,LAC
+Shot Chart Detail,0021400329,268,101108,Chris Paul,1610612746,Los Angeles Clippers,2,0,47,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,92,105,1,1,20141212,WAS,LAC
+Shot Chart Detail,0021400329,357,101108,Chris Paul,1610612746,Los Angeles Clippers,3,5,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-158,115,1,1,20141212,WAS,LAC
+Shot Chart Detail,0021400329,489,101108,Chris Paul,1610612746,Los Angeles Clippers,4,5,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-171,198,1,1,20141212,WAS,LAC
+Shot Chart Detail,0021400329,529,101108,Chris Paul,1610612746,Los Angeles Clippers,4,2,22,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,47,187,1,1,20141212,WAS,LAC
+Shot Chart Detail,0021400344,24,101108,Chris Paul,1610612746,Los Angeles Clippers,1,8,23,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,2,135,1,1,20141213,MIL,LAC
+Shot Chart Detail,0021400344,287,101108,Chris Paul,1610612746,Los Angeles Clippers,3,8,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,89,123,1,1,20141213,MIL,LAC
+Shot Chart Detail,0021400344,320,101108,Chris Paul,1610612746,Los Angeles Clippers,3,4,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-7,142,1,1,20141213,MIL,LAC
+Shot Chart Detail,0021400344,438,101108,Chris Paul,1610612746,Los Angeles Clippers,4,4,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-161,80,1,1,20141213,MIL,LAC
+Shot Chart Detail,0021400344,461,101108,Chris Paul,1610612746,Los Angeles Clippers,4,3,21,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,15,80,131,1,1,20141213,MIL,LAC
+Shot Chart Detail,0021400362,286,101108,Chris Paul,1610612746,Los Angeles Clippers,3,10,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,136,25,1,1,20141215,LAC,DET
+Shot Chart Detail,0021400362,303,101108,Chris Paul,1610612746,Los Angeles Clippers,3,8,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-155,197,1,1,20141215,LAC,DET
+Shot Chart Detail,0021400362,349,101108,Chris Paul,1610612746,Los Angeles Clippers,3,4,5,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,67,23,1,1,20141215,LAC,DET
+Shot Chart Detail,0021400362,351,101108,Chris Paul,1610612746,Los Angeles Clippers,3,3,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-191,164,1,1,20141215,LAC,DET
+Shot Chart Detail,0021400377,24,101108,Chris Paul,1610612746,Los Angeles Clippers,1,8,50,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,45,118,1,1,20141217,LAC,IND
+Shot Chart Detail,0021400377,27,101108,Chris Paul,1610612746,Los Angeles Clippers,1,8,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,135,225,1,1,20141217,LAC,IND
+Shot Chart Detail,0021400377,362,101108,Chris Paul,1610612746,Los Angeles Clippers,3,4,54,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-112,160,1,1,20141217,LAC,IND
+Shot Chart Detail,0021400377,427,101108,Chris Paul,1610612746,Los Angeles Clippers,3,0,12,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-100,183,1,1,20141217,LAC,IND
+Shot Chart Detail,0021400377,475,101108,Chris Paul,1610612746,Los Angeles Clippers,4,8,33,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,108,82,1,1,20141217,LAC,IND
+Shot Chart Detail,0021400377,502,101108,Chris Paul,1610612746,Los Angeles Clippers,4,6,29,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,1,1,1,20141217,LAC,IND
+Shot Chart Detail,0021400377,547,101108,Chris Paul,1610612746,Los Angeles Clippers,4,2,57,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,118,82,1,1,20141217,LAC,IND
+Shot Chart Detail,0021400391,7,101108,Chris Paul,1610612746,Los Angeles Clippers,1,11,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-128,104,1,1,20141219,DEN,LAC
+Shot Chart Detail,0021400391,181,101108,Chris Paul,1610612746,Los Angeles Clippers,2,8,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,127,102,1,1,20141219,DEN,LAC
+Shot Chart Detail,0021400391,188,101108,Chris Paul,1610612746,Los Angeles Clippers,2,7,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,113,94,1,1,20141219,DEN,LAC
+Shot Chart Detail,0021400391,191,101108,Chris Paul,1610612746,Los Angeles Clippers,2,6,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-153,198,1,1,20141219,DEN,LAC
+Shot Chart Detail,0021400391,241,101108,Chris Paul,1610612746,Los Angeles Clippers,2,2,10,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-75,22,1,1,20141219,DEN,LAC
+Shot Chart Detail,0021400391,461,101108,Chris Paul,1610612746,Los Angeles Clippers,4,8,10,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,0,1,1,20141219,DEN,LAC
+Shot Chart Detail,0021400391,508,101108,Chris Paul,1610612746,Los Angeles Clippers,4,5,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-131,97,1,1,20141219,DEN,LAC
+Shot Chart Detail,0021400391,597,101108,Chris Paul,1610612746,Los Angeles Clippers,4,0,13,Made Shot,Fadeaway Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,48,9,1,1,20141219,DEN,LAC
+Shot Chart Detail,0021400399,11,101108,Chris Paul,1610612746,Los Angeles Clippers,1,10,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-133,219,1,1,20141220,LAC,MIL
+Shot Chart Detail,0021400399,139,101108,Chris Paul,1610612746,Los Angeles Clippers,1,0,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,6,1,1,20141220,LAC,MIL
+Shot Chart Detail,0021400399,241,101108,Chris Paul,1610612746,Los Angeles Clippers,2,2,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,67,246,1,1,20141220,LAC,MIL
+Shot Chart Detail,0021400399,252,101108,Chris Paul,1610612746,Los Angeles Clippers,2,0,38,Made Shot,Running Bank shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,14,1,1,20141220,LAC,MIL
+Shot Chart Detail,0021400399,330,101108,Chris Paul,1610612746,Los Angeles Clippers,3,5,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,77,236,1,1,20141220,LAC,MIL
+Shot Chart Detail,0021400399,465,101108,Chris Paul,1610612746,Los Angeles Clippers,4,4,4,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,4,1,1,20141220,LAC,MIL
+Shot Chart Detail,0021400414,23,101108,Chris Paul,1610612746,Los Angeles Clippers,1,9,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-109,67,1,1,20141222,SAS,LAC
+Shot Chart Detail,0021400414,36,101108,Chris Paul,1610612746,Los Angeles Clippers,1,8,27,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,-5,1,1,20141222,SAS,LAC
+Shot Chart Detail,0021400414,232,101108,Chris Paul,1610612746,Los Angeles Clippers,2,1,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,29,0,1,1,20141222,SAS,LAC
+Shot Chart Detail,0021400414,237,101108,Chris Paul,1610612746,Los Angeles Clippers,2,1,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-155,184,1,1,20141222,SAS,LAC
+Shot Chart Detail,0021400414,278,101108,Chris Paul,1610612746,Los Angeles Clippers,3,9,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-27,172,1,1,20141222,SAS,LAC
+Shot Chart Detail,0021400414,313,101108,Chris Paul,1610612746,Los Angeles Clippers,3,6,1,Made Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,37,20,1,1,20141222,SAS,LAC
+Shot Chart Detail,0021400414,336,101108,Chris Paul,1610612746,Los Angeles Clippers,3,3,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,182,181,1,1,20141222,SAS,LAC
+Shot Chart Detail,0021400414,473,101108,Chris Paul,1610612746,Los Angeles Clippers,4,1,13,Made Shot,Running Bank shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,36,6,1,1,20141222,SAS,LAC
+Shot Chart Detail,0021400420,3,101108,Chris Paul,1610612746,Los Angeles Clippers,1,11,45,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,89,151,1,1,20141223,ATL,LAC
+Shot Chart Detail,0021400420,52,101108,Chris Paul,1610612746,Los Angeles Clippers,1,5,50,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,29,78,1,1,20141223,ATL,LAC
+Shot Chart Detail,0021400420,98,101108,Chris Paul,1610612746,Los Angeles Clippers,1,2,7,Made Shot,Driving Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,58,36,1,1,20141223,ATL,LAC
+Shot Chart Detail,0021400420,242,101108,Chris Paul,1610612746,Los Angeles Clippers,2,2,24,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,13,94,1,1,20141223,ATL,LAC
+Shot Chart Detail,0021400420,282,101108,Chris Paul,1610612746,Los Angeles Clippers,3,11,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-86,236,1,1,20141223,ATL,LAC
+Shot Chart Detail,0021400420,285,101108,Chris Paul,1610612746,Los Angeles Clippers,3,10,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,1,252,1,1,20141223,ATL,LAC
+Shot Chart Detail,0021400420,510,101108,Chris Paul,1610612746,Los Angeles Clippers,4,6,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,159,190,1,1,20141223,ATL,LAC
+Shot Chart Detail,0021400431,188,101108,Chris Paul,1610612746,Los Angeles Clippers,2,6,53,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,0,58,1,1,20141225,LAC,GSW
+Shot Chart Detail,0021400431,239,101108,Chris Paul,1610612746,Los Angeles Clippers,2,2,32,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,130,115,1,1,20141225,LAC,GSW
+Shot Chart Detail,0021400431,357,101108,Chris Paul,1610612746,Los Angeles Clippers,3,4,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,-2,1,1,20141225,LAC,GSW
+Shot Chart Detail,0021400431,362,101108,Chris Paul,1610612746,Los Angeles Clippers,3,3,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,136,216,1,1,20141225,LAC,GSW
+Shot Chart Detail,0021400431,420,101108,Chris Paul,1610612746,Los Angeles Clippers,3,0,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,-10,1,1,20141225,LAC,GSW
+Shot Chart Detail,0021400431,488,101108,Chris Paul,1610612746,Los Angeles Clippers,4,5,57,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,50,113,1,1,20141225,LAC,GSW
+Shot Chart Detail,0021400431,514,101108,Chris Paul,1610612746,Los Angeles Clippers,4,4,19,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-114,75,1,1,20141225,LAC,GSW
+Shot Chart Detail,0021400443,246,101108,Chris Paul,1610612746,Los Angeles Clippers,2,2,35,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-7,82,1,1,20141227,LAC,TOR
+Shot Chart Detail,0021400443,306,101108,Chris Paul,1610612746,Los Angeles Clippers,3,10,0,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,9,1,1,20141227,LAC,TOR
+Shot Chart Detail,0021400443,353,101108,Chris Paul,1610612746,Los Angeles Clippers,3,3,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,95,149,1,1,20141227,LAC,TOR
+Shot Chart Detail,0021400464,16,101108,Chris Paul,1610612746,Los Angeles Clippers,1,9,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,114,93,1,1,20141229,LAC,UTA
+Shot Chart Detail,0021400464,71,101108,Chris Paul,1610612746,Los Angeles Clippers,1,3,44,Made Shot,Fadeaway Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-49,238,1,1,20141229,LAC,UTA
+Shot Chart Detail,0021400464,193,101108,Chris Paul,1610612746,Los Angeles Clippers,2,4,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,122,93,1,1,20141229,LAC,UTA
+Shot Chart Detail,0021400464,251,101108,Chris Paul,1610612746,Los Angeles Clippers,3,10,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-87,110,1,1,20141229,LAC,UTA
+Shot Chart Detail,0021400464,291,101108,Chris Paul,1610612746,Los Angeles Clippers,3,8,20,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,12,1,1,20141229,LAC,UTA
+Shot Chart Detail,0021400464,313,101108,Chris Paul,1610612746,Los Angeles Clippers,3,5,58,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-160,4,1,1,20141229,LAC,UTA
+Shot Chart Detail,0021400464,383,101108,Chris Paul,1610612746,Los Angeles Clippers,3,0,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-57,252,1,1,20141229,LAC,UTA
+Shot Chart Detail,0021400477,282,101108,Chris Paul,1610612746,Los Angeles Clippers,3,8,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,23,261,1,1,20141231,LAC,NYK
+Shot Chart Detail,0021400477,349,101108,Chris Paul,1610612746,Los Angeles Clippers,3,2,12,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-90,-2,1,1,20141231,LAC,NYK
+Shot Chart Detail,0021400502,3,101108,Chris Paul,1610612746,Los Angeles Clippers,1,11,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-105,233,1,1,20150103,LAC,PHI
+Shot Chart Detail,0021400502,20,101108,Chris Paul,1610612746,Los Angeles Clippers,1,8,39,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,105,36,1,1,20150103,LAC,PHI
+Shot Chart Detail,0021400502,62,101108,Chris Paul,1610612746,Los Angeles Clippers,1,3,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-90,250,1,1,20150103,LAC,PHI
+Shot Chart Detail,0021400502,255,101108,Chris Paul,1610612746,Los Angeles Clippers,2,0,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-139,214,1,1,20150103,LAC,PHI
+Shot Chart Detail,0021400502,257,101108,Chris Paul,1610612746,Los Angeles Clippers,2,0,11,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,32,11,1,1,20150103,LAC,PHI
+Shot Chart Detail,0021400502,313,101108,Chris Paul,1610612746,Los Angeles Clippers,3,7,14,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,39,200,1,1,20150103,LAC,PHI
+Shot Chart Detail,0021400502,356,101108,Chris Paul,1610612746,Los Angeles Clippers,3,3,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-100,6,1,1,20150103,LAC,PHI
+Shot Chart Detail,0021400519,17,101108,Chris Paul,1610612746,Los Angeles Clippers,1,9,15,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-86,74,1,1,20150105,LAC,ATL
+Shot Chart Detail,0021400519,474,101108,Chris Paul,1610612746,Los Angeles Clippers,4,10,30,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,132,33,1,1,20150105,LAC,ATL
+Shot Chart Detail,0021400519,547,101108,Chris Paul,1610612746,Los Angeles Clippers,4,4,23,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,42,135,1,1,20150105,LAC,ATL
+Shot Chart Detail,0021400519,576,101108,Chris Paul,1610612746,Los Angeles Clippers,4,2,11,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,-2,1,1,20150105,LAC,ATL
+Shot Chart Detail,0021400534,31,101108,Chris Paul,1610612746,Los Angeles Clippers,1,8,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,86,127,1,1,20150107,LAC,LAL
+Shot Chart Detail,0021400534,51,101108,Chris Paul,1610612746,Los Angeles Clippers,1,6,35,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,14,-78,119,1,1,20150107,LAC,LAL
+Shot Chart Detail,0021400534,54,101108,Chris Paul,1610612746,Los Angeles Clippers,1,6,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-133,9,1,1,20150107,LAC,LAL
+Shot Chart Detail,0021400534,76,101108,Chris Paul,1610612746,Los Angeles Clippers,1,3,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-228,93,1,1,20150107,LAC,LAL
+Shot Chart Detail,0021400534,215,101108,Chris Paul,1610612746,Los Angeles Clippers,2,4,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-128,216,1,1,20150107,LAC,LAL
+Shot Chart Detail,0021400534,229,101108,Chris Paul,1610612746,Los Angeles Clippers,2,2,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,190,170,1,1,20150107,LAC,LAL
+Shot Chart Detail,0021400534,232,101108,Chris Paul,1610612746,Los Angeles Clippers,2,1,30,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,15,80,129,1,1,20150107,LAC,LAL
+Shot Chart Detail,0021400534,273,101108,Chris Paul,1610612746,Los Angeles Clippers,3,9,58,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,17,75,1,1,20150107,LAC,LAL
+Shot Chart Detail,0021400534,368,101108,Chris Paul,1610612746,Los Angeles Clippers,3,1,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-199,137,1,1,20150107,LAC,LAL
+Shot Chart Detail,0021400550,216,101108,Chris Paul,1610612746,Los Angeles Clippers,2,3,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,77,247,1,1,20150110,LAC,DAL
+Shot Chart Detail,0021400550,233,101108,Chris Paul,1610612746,Los Angeles Clippers,2,2,30,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,20,101,1,1,20150110,LAC,DAL
+Shot Chart Detail,0021400550,243,101108,Chris Paul,1610612746,Los Angeles Clippers,2,0,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,116,105,1,1,20150110,LAC,DAL
+Shot Chart Detail,0021400550,273,101108,Chris Paul,1610612746,Los Angeles Clippers,3,9,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,127,74,1,1,20150110,LAC,DAL
+Shot Chart Detail,0021400550,319,101108,Chris Paul,1610612746,Los Angeles Clippers,3,5,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-202,149,1,1,20150110,LAC,DAL
+Shot Chart Detail,0021400559,16,101108,Chris Paul,1610612746,Los Angeles Clippers,1,9,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-105,235,1,1,20150111,LAC,MIA
+Shot Chart Detail,0021400559,18,101108,Chris Paul,1610612746,Los Angeles Clippers,1,8,54,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,77,75,1,1,20150111,LAC,MIA
+Shot Chart Detail,0021400559,31,101108,Chris Paul,1610612746,Los Angeles Clippers,1,7,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-41,244,1,1,20150111,LAC,MIA
+Shot Chart Detail,0021400559,42,101108,Chris Paul,1610612746,Los Angeles Clippers,1,6,40,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,124,91,1,1,20150111,LAC,MIA
+Shot Chart Detail,0021400559,223,101108,Chris Paul,1610612746,Los Angeles Clippers,2,3,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-62,176,1,1,20150111,LAC,MIA
+Shot Chart Detail,0021400559,301,101108,Chris Paul,1610612746,Los Angeles Clippers,3,7,26,Made Shot,Running Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,6,1,1,20150111,LAC,MIA
+Shot Chart Detail,0021400559,328,101108,Chris Paul,1610612746,Los Angeles Clippers,3,4,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,34,176,1,1,20150111,LAC,MIA
+Shot Chart Detail,0021400559,358,101108,Chris Paul,1610612746,Los Angeles Clippers,3,1,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-111,227,1,1,20150111,LAC,MIA
+Shot Chart Detail,0021400559,444,101108,Chris Paul,1610612746,Los Angeles Clippers,4,4,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-141,83,1,1,20150111,LAC,MIA
+Shot Chart Detail,0021400583,51,101108,Chris Paul,1610612746,Los Angeles Clippers,1,5,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-111,108,1,1,20150114,POR,LAC
+Shot Chart Detail,0021400583,64,101108,Chris Paul,1610612746,Los Angeles Clippers,1,4,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-139,129,1,1,20150114,POR,LAC
+Shot Chart Detail,0021400583,120,101108,Chris Paul,1610612746,Los Angeles Clippers,2,10,18,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,97,146,1,1,20150114,POR,LAC
+Shot Chart Detail,0021400583,174,101108,Chris Paul,1610612746,Los Angeles Clippers,2,4,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,129,143,1,1,20150114,POR,LAC
+Shot Chart Detail,0021400583,245,101108,Chris Paul,1610612746,Los Angeles Clippers,3,10,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,155,194,1,1,20150114,POR,LAC
+Shot Chart Detail,0021400583,445,101108,Chris Paul,1610612746,Los Angeles Clippers,4,6,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-149,131,1,1,20150114,POR,LAC
+Shot Chart Detail,0021400599,195,101108,Chris Paul,1610612746,Los Angeles Clippers,2,5,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-60,249,1,1,20150116,LAC,CLE
+Shot Chart Detail,0021400599,277,101108,Chris Paul,1610612746,Los Angeles Clippers,3,9,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-95,63,1,1,20150116,LAC,CLE
+Shot Chart Detail,0021400599,578,101108,Chris Paul,1610612746,Los Angeles Clippers,4,0,57,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,69,131,1,1,20150116,LAC,CLE
+Shot Chart Detail,0021400599,605,101108,Chris Paul,1610612746,Los Angeles Clippers,4,0,11,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,4,1,1,20150116,LAC,CLE
+Shot Chart Detail,0021400607,226,101108,Chris Paul,1610612746,Los Angeles Clippers,2,2,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,127,19,1,1,20150117,SAC,LAC
+Shot Chart Detail,0021400607,354,101108,Chris Paul,1610612746,Los Angeles Clippers,3,3,36,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,2,72,1,1,20150117,SAC,LAC
+Shot Chart Detail,0021400607,543,101108,Chris Paul,1610612746,Los Angeles Clippers,4,2,38,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,29,7,1,1,20150117,SAC,LAC
+Shot Chart Detail,0021400607,556,101108,Chris Paul,1610612746,Los Angeles Clippers,4,1,38,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,11,1,1,20150117,SAC,LAC
+Shot Chart Detail,0021400614,114,101108,Chris Paul,1610612746,Los Angeles Clippers,1,1,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-8,19,1,1,20150119,LAC,BOS
+Shot Chart Detail,0021400614,228,101108,Chris Paul,1610612746,Los Angeles Clippers,2,2,14,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,226,9,1,1,20150119,LAC,BOS
+Shot Chart Detail,0021400614,514,101108,Chris Paul,1610612746,Los Angeles Clippers,4,0,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,53,241,1,1,20150119,LAC,BOS
+Shot Chart Detail,0021400640,203,101108,Chris Paul,1610612746,Los Angeles Clippers,2,3,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,181,162,1,1,20150122,LAC,BKN
+Shot Chart Detail,0021400640,293,101108,Chris Paul,1610612746,Los Angeles Clippers,3,6,30,Made Shot,Floating Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,17,1,1,20150122,LAC,BKN
+Shot Chart Detail,0021400659,44,101108,Chris Paul,1610612746,Los Angeles Clippers,1,6,33,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-86,140,1,1,20150125,PHX,LAC
+Shot Chart Detail,0021400659,82,101108,Chris Paul,1610612746,Los Angeles Clippers,1,2,13,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-24,64,1,1,20150125,PHX,LAC
+Shot Chart Detail,0021400659,196,101108,Chris Paul,1610612746,Los Angeles Clippers,2,3,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-106,225,1,1,20150125,PHX,LAC
+Shot Chart Detail,0021400659,301,101108,Chris Paul,1610612746,Los Angeles Clippers,3,6,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-105,228,1,1,20150125,PHX,LAC
+Shot Chart Detail,0021400659,315,101108,Chris Paul,1610612746,Los Angeles Clippers,3,5,8,Made Shot,Running Bank shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,92,30,1,1,20150125,PHX,LAC
+Shot Chart Detail,0021400659,425,101108,Chris Paul,1610612746,Los Angeles Clippers,4,8,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,88,231,1,1,20150125,PHX,LAC
+Shot Chart Detail,0021400659,463,101108,Chris Paul,1610612746,Los Angeles Clippers,4,5,0,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,84,71,1,1,20150125,PHX,LAC
+Shot Chart Detail,0021400674,33,101108,Chris Paul,1610612746,Los Angeles Clippers,1,7,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,122,91,1,1,20150126,LAC,DEN
+Shot Chart Detail,0021400674,60,101108,Chris Paul,1610612746,Los Angeles Clippers,1,4,51,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,9,1,1,20150126,LAC,DEN
+Shot Chart Detail,0021400674,95,101108,Chris Paul,1610612746,Los Angeles Clippers,1,1,43,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,17,1,1,20150126,LAC,DEN
+Shot Chart Detail,0021400674,195,101108,Chris Paul,1610612746,Los Angeles Clippers,2,2,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,0,249,1,1,20150126,LAC,DEN
+Shot Chart Detail,0021400674,295,101108,Chris Paul,1610612746,Los Angeles Clippers,3,6,15,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-120,14,1,1,20150126,LAC,DEN
+Shot Chart Detail,0021400674,319,101108,Chris Paul,1610612746,Los Angeles Clippers,3,3,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-127,58,1,1,20150126,LAC,DEN
+Shot Chart Detail,0021400674,405,101108,Chris Paul,1610612746,Los Angeles Clippers,4,6,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,114,143,1,1,20150126,LAC,DEN
+Shot Chart Detail,0021400690,41,101108,Chris Paul,1610612746,Los Angeles Clippers,1,5,2,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,7,108,1,1,20150128,UTA,LAC
+Shot Chart Detail,0021400690,185,101108,Chris Paul,1610612746,Los Angeles Clippers,2,4,15,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,67,61,1,1,20150128,UTA,LAC
+Shot Chart Detail,0021400690,193,101108,Chris Paul,1610612746,Los Angeles Clippers,2,3,26,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,40,129,1,1,20150128,UTA,LAC
+Shot Chart Detail,0021400690,206,101108,Chris Paul,1610612746,Los Angeles Clippers,2,1,39,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,-6,1,1,20150128,UTA,LAC
+Shot Chart Detail,0021400690,236,101108,Chris Paul,1610612746,Los Angeles Clippers,3,10,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-161,183,1,1,20150128,UTA,LAC
+Shot Chart Detail,0021400690,247,101108,Chris Paul,1610612746,Los Angeles Clippers,3,9,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,84,165,1,1,20150128,UTA,LAC
+Shot Chart Detail,0021400690,304,101108,Chris Paul,1610612746,Los Angeles Clippers,3,4,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,103,135,1,1,20150128,UTA,LAC
+Shot Chart Detail,0021400690,440,101108,Chris Paul,1610612746,Los Angeles Clippers,4,3,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,121,121,1,1,20150128,UTA,LAC
+Shot Chart Detail,0021400701,213,101108,Chris Paul,1610612746,Los Angeles Clippers,2,3,48,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-128,112,1,1,20150130,NOP,LAC
+Shot Chart Detail,0021400701,251,101108,Chris Paul,1610612746,Los Angeles Clippers,2,1,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-68,246,1,1,20150130,NOP,LAC
+Shot Chart Detail,0021400701,268,101108,Chris Paul,1610612746,Los Angeles Clippers,2,0,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,7,1,1,20150130,NOP,LAC
+Shot Chart Detail,0021400701,307,101108,Chris Paul,1610612746,Los Angeles Clippers,3,6,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,9,1,1,20150130,NOP,LAC
+Shot Chart Detail,0021400701,414,101108,Chris Paul,1610612746,Los Angeles Clippers,4,10,13,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,43,31,1,1,20150130,NOP,LAC
+Shot Chart Detail,0021400701,457,101108,Chris Paul,1610612746,Los Angeles Clippers,4,7,8,Made Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-52,96,1,1,20150130,NOP,LAC
+Shot Chart Detail,0021400701,460,101108,Chris Paul,1610612746,Los Angeles Clippers,4,6,27,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,92,4,1,1,20150130,NOP,LAC
+Shot Chart Detail,0021400701,465,101108,Chris Paul,1610612746,Los Angeles Clippers,4,5,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,89,239,1,1,20150130,NOP,LAC
+Shot Chart Detail,0021400701,476,101108,Chris Paul,1610612746,Los Angeles Clippers,4,5,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-183,167,1,1,20150130,NOP,LAC
+Shot Chart Detail,0021400701,511,101108,Chris Paul,1610612746,Los Angeles Clippers,4,1,16,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-24,132,1,1,20150130,NOP,LAC
+Shot Chart Detail,0021400714,14,101108,Chris Paul,1610612746,Los Angeles Clippers,1,10,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,1,1,1,20150131,SAS,LAC
+Shot Chart Detail,0021400714,17,101108,Chris Paul,1610612746,Los Angeles Clippers,1,10,5,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-226,-22,1,1,20150131,SAS,LAC
+Shot Chart Detail,0021400714,231,101108,Chris Paul,1610612746,Los Angeles Clippers,2,0,34,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150131,SAS,LAC
+Shot Chart Detail,0021400714,234,101108,Chris Paul,1610612746,Los Angeles Clippers,2,0,0,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,190,209,1,1,20150131,SAS,LAC
+Shot Chart Detail,0021400714,314,101108,Chris Paul,1610612746,Los Angeles Clippers,3,5,46,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,47,99,1,1,20150131,SAS,LAC
+Shot Chart Detail,0021400714,316,101108,Chris Paul,1610612746,Los Angeles Clippers,3,5,15,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,116,153,1,1,20150131,SAS,LAC
+Shot Chart Detail,0021400714,454,101108,Chris Paul,1610612746,Los Angeles Clippers,4,7,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-168,41,1,1,20150131,SAS,LAC
+Shot Chart Detail,0021400714,460,101108,Chris Paul,1610612746,Los Angeles Clippers,4,6,59,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,181,67,1,1,20150131,SAS,LAC
+Shot Chart Detail,0021400714,492,101108,Chris Paul,1610612746,Los Angeles Clippers,4,3,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-139,75,1,1,20150131,SAS,LAC
+Shot Chart Detail,0021400720,102,101108,Chris Paul,1610612746,Los Angeles Clippers,1,3,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,23,-175,162,1,1,20150202,BKN,LAC
+Shot Chart Detail,0021400720,236,101108,Chris Paul,1610612746,Los Angeles Clippers,2,0,15,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,-2,1,1,20150202,BKN,LAC
+Shot Chart Detail,0021400720,258,101108,Chris Paul,1610612746,Los Angeles Clippers,3,9,28,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,45,129,1,1,20150202,BKN,LAC
+Shot Chart Detail,0021400720,277,101108,Chris Paul,1610612746,Los Angeles Clippers,3,8,10,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,132,77,1,1,20150202,BKN,LAC
+Shot Chart Detail,0021400720,334,101108,Chris Paul,1610612746,Los Angeles Clippers,3,3,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-7,255,1,1,20150202,BKN,LAC
+Shot Chart Detail,0021400720,428,101108,Chris Paul,1610612746,Los Angeles Clippers,4,8,1,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,7,1,1,20150202,BKN,LAC
+Shot Chart Detail,0021400720,467,101108,Chris Paul,1610612746,Los Angeles Clippers,4,3,0,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,0,67,1,1,20150202,BKN,LAC
+Shot Chart Detail,0021400720,535,101108,Chris Paul,1610612746,Los Angeles Clippers,4,0,8,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,0,1,1,20150202,BKN,LAC
+Shot Chart Detail,0021400743,13,101108,Chris Paul,1610612746,Los Angeles Clippers,1,9,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-171,0,1,1,20150205,CLE,LAC
+Shot Chart Detail,0021400743,49,101108,Chris Paul,1610612746,Los Angeles Clippers,1,5,49,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,17,52,1,1,20150205,CLE,LAC
+Shot Chart Detail,0021400743,255,101108,Chris Paul,1610612746,Los Angeles Clippers,2,1,36,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,61,119,1,1,20150205,CLE,LAC
+Shot Chart Detail,0021400743,292,101108,Chris Paul,1610612746,Los Angeles Clippers,3,10,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-213,116,1,1,20150205,CLE,LAC
+Shot Chart Detail,0021400752,21,101108,Chris Paul,1610612746,Los Angeles Clippers,1,9,28,Made Shot,Driving Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,14,1,1,20150206,TOR,LAC
+Shot Chart Detail,0021400752,208,101108,Chris Paul,1610612746,Los Angeles Clippers,2,5,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-153,0,1,1,20150206,TOR,LAC
+Shot Chart Detail,0021400752,254,101108,Chris Paul,1610612746,Los Angeles Clippers,2,1,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-23,254,1,1,20150206,TOR,LAC
+Shot Chart Detail,0021400752,289,101108,Chris Paul,1610612746,Los Angeles Clippers,3,10,42,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-35,72,1,1,20150206,TOR,LAC
+Shot Chart Detail,0021400752,349,101108,Chris Paul,1610612746,Los Angeles Clippers,3,5,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-155,26,1,1,20150206,TOR,LAC
+Shot Chart Detail,0021400752,434,101108,Chris Paul,1610612746,Los Angeles Clippers,4,11,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,39,190,1,1,20150206,TOR,LAC
+Shot Chart Detail,0021400752,437,101108,Chris Paul,1610612746,Los Angeles Clippers,4,10,35,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,89,165,1,1,20150206,TOR,LAC
+Shot Chart Detail,0021400752,467,101108,Chris Paul,1610612746,Los Angeles Clippers,4,8,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,140,217,1,1,20150206,TOR,LAC
+Shot Chart Detail,0021400765,52,101108,Chris Paul,1610612746,Los Angeles Clippers,1,7,55,Made Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,40,121,1,1,20150208,OKC,LAC
+Shot Chart Detail,0021400765,109,101108,Chris Paul,1610612746,Los Angeles Clippers,1,1,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,6,1,1,20150208,OKC,LAC
+Shot Chart Detail,0021400765,114,101108,Chris Paul,1610612746,Los Angeles Clippers,1,1,22,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,133,85,1,1,20150208,OKC,LAC
+Shot Chart Detail,0021400765,263,101108,Chris Paul,1610612746,Los Angeles Clippers,2,2,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,99,149,1,1,20150208,OKC,LAC
+Shot Chart Detail,0021400765,292,101108,Chris Paul,1610612746,Los Angeles Clippers,2,0,31,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,1,1,1,20150208,OKC,LAC
+Shot Chart Detail,0021400765,364,101108,Chris Paul,1610612746,Los Angeles Clippers,3,5,5,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,37,119,1,1,20150208,OKC,LAC
+Shot Chart Detail,0021400765,403,101108,Chris Paul,1610612746,Los Angeles Clippers,3,2,14,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-139,77,1,1,20150208,OKC,LAC
+Shot Chart Detail,0021400781,125,101108,Chris Paul,1610612746,Los Angeles Clippers,1,1,21,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-6,8,1,1,20150209,DAL,LAC
+Shot Chart Detail,0021400781,212,101108,Chris Paul,1610612746,Los Angeles Clippers,2,6,5,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-95,88,1,1,20150209,DAL,LAC
+Shot Chart Detail,0021400781,249,101108,Chris Paul,1610612746,Los Angeles Clippers,2,2,49,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-29,192,1,1,20150209,DAL,LAC
+Shot Chart Detail,0021400781,270,101108,Chris Paul,1610612746,Los Angeles Clippers,2,0,32,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,64,119,1,1,20150209,DAL,LAC
+Shot Chart Detail,0021400781,278,101108,Chris Paul,1610612746,Los Angeles Clippers,2,0,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,-13,1,1,20150209,DAL,LAC
+Shot Chart Detail,0021400781,301,101108,Chris Paul,1610612746,Los Angeles Clippers,3,9,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,92,227,1,1,20150209,DAL,LAC
+Shot Chart Detail,0021400781,356,101108,Chris Paul,1610612746,Los Angeles Clippers,3,5,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,86,192,1,1,20150209,DAL,LAC
+Shot Chart Detail,0021400799,50,101108,Chris Paul,1610612746,Los Angeles Clippers,1,5,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-70,236,1,1,20150211,LAC,HOU
+Shot Chart Detail,0021400799,84,101108,Chris Paul,1610612746,Los Angeles Clippers,1,2,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-106,148,1,1,20150211,LAC,HOU
+Shot Chart Detail,0021400799,190,101108,Chris Paul,1610612746,Los Angeles Clippers,2,6,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,113,97,1,1,20150211,LAC,HOU
+Shot Chart Detail,0021400799,284,101108,Chris Paul,1610612746,Los Angeles Clippers,3,11,21,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,78,86,1,1,20150211,LAC,HOU
+Shot Chart Detail,0021400802,2,101108,Chris Paul,1610612746,Los Angeles Clippers,1,11,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-30,140,1,1,20150219,LAC,SAS
+Shot Chart Detail,0021400802,10,101108,Chris Paul,1610612746,Los Angeles Clippers,1,10,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-152,205,1,1,20150219,LAC,SAS
+Shot Chart Detail,0021400802,22,101108,Chris Paul,1610612746,Los Angeles Clippers,1,8,28,Made Shot,Floating Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,4,39,1,1,20150219,LAC,SAS
+Shot Chart Detail,0021400802,280,101108,Chris Paul,1610612746,Los Angeles Clippers,3,11,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,105,159,1,1,20150219,LAC,SAS
+Shot Chart Detail,0021400802,300,101108,Chris Paul,1610612746,Los Angeles Clippers,3,9,8,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,26,1,1,20150219,LAC,SAS
+Shot Chart Detail,0021400802,314,101108,Chris Paul,1610612746,Los Angeles Clippers,3,7,43,Made Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,70,48,1,1,20150219,LAC,SAS
+Shot Chart Detail,0021400802,323,101108,Chris Paul,1610612746,Los Angeles Clippers,3,6,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-79,265,1,1,20150219,LAC,SAS
+Shot Chart Detail,0021400802,580,101108,Chris Paul,1610612746,Los Angeles Clippers,4,1,11,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,0,85,1,1,20150219,LAC,SAS
+Shot Chart Detail,0021400802,588,101108,Chris Paul,1610612746,Los Angeles Clippers,4,0,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,7,160,1,1,20150219,LAC,SAS
+Shot Chart Detail,0021400820,269,101108,Chris Paul,1610612746,Los Angeles Clippers,2,2,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-43,194,1,1,20150221,LAC,SAC
+Shot Chart Detail,0021400820,295,101108,Chris Paul,1610612746,Los Angeles Clippers,2,0,30,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-70,179,1,1,20150221,LAC,SAC
+Shot Chart Detail,0021400820,305,101108,Chris Paul,1610612746,Los Angeles Clippers,3,11,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-97,126,1,1,20150221,LAC,SAC
+Shot Chart Detail,0021400820,334,101108,Chris Paul,1610612746,Los Angeles Clippers,3,8,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,31,173,1,1,20150221,LAC,SAC
+Shot Chart Detail,0021400820,387,101108,Chris Paul,1610612746,Los Angeles Clippers,3,5,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,105,34,1,1,20150221,LAC,SAC
+Shot Chart Detail,0021400837,31,101108,Chris Paul,1610612746,Los Angeles Clippers,1,8,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,157,112,1,1,20150223,LAC,MEM
+Shot Chart Detail,0021400837,40,101108,Chris Paul,1610612746,Los Angeles Clippers,1,6,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-65,165,1,1,20150223,LAC,MEM
+Shot Chart Detail,0021400837,60,101108,Chris Paul,1610612746,Los Angeles Clippers,1,4,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,135,83,1,1,20150223,LAC,MEM
+Shot Chart Detail,0021400837,75,101108,Chris Paul,1610612746,Los Angeles Clippers,1,2,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,15,1,1,20150223,LAC,MEM
+Shot Chart Detail,0021400837,154,101108,Chris Paul,1610612746,Los Angeles Clippers,2,6,33,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,106,129,1,1,20150223,LAC,MEM
+Shot Chart Detail,0021400837,179,101108,Chris Paul,1610612746,Los Angeles Clippers,2,4,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-7,201,1,1,20150223,LAC,MEM
+Shot Chart Detail,0021400837,185,101108,Chris Paul,1610612746,Los Angeles Clippers,2,3,35,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,25,248,36,1,1,20150223,LAC,MEM
+Shot Chart Detail,0021400837,187,101108,Chris Paul,1610612746,Los Angeles Clippers,2,3,4,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-22,25,1,1,20150223,LAC,MEM
+Shot Chart Detail,0021400837,197,101108,Chris Paul,1610612746,Los Angeles Clippers,2,2,16,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,111,55,1,1,20150223,LAC,MEM
+Shot Chart Detail,0021400837,236,101108,Chris Paul,1610612746,Los Angeles Clippers,3,11,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,81,238,1,1,20150223,LAC,MEM
+Shot Chart Detail,0021400837,434,101108,Chris Paul,1610612746,Los Angeles Clippers,4,4,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,105,75,1,1,20150223,LAC,MEM
+Shot Chart Detail,0021400837,446,101108,Chris Paul,1610612746,Los Angeles Clippers,4,3,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,3,1,1,20150223,LAC,MEM
+Shot Chart Detail,0021400837,465,101108,Chris Paul,1610612746,Los Angeles Clippers,4,1,10,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-71,126,1,1,20150223,LAC,MEM
+Shot Chart Detail,0021400846,208,101108,Chris Paul,1610612746,Los Angeles Clippers,2,5,38,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-105,145,1,1,20150225,HOU,LAC
+Shot Chart Detail,0021400846,227,101108,Chris Paul,1610612746,Los Angeles Clippers,2,4,56,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,53,189,1,1,20150225,HOU,LAC
+Shot Chart Detail,0021400846,242,101108,Chris Paul,1610612746,Los Angeles Clippers,2,3,32,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-98,160,1,1,20150225,HOU,LAC
+Shot Chart Detail,0021400846,324,101108,Chris Paul,1610612746,Los Angeles Clippers,3,7,56,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-168,189,1,1,20150225,HOU,LAC
+Shot Chart Detail,0021400846,339,101108,Chris Paul,1610612746,Los Angeles Clippers,3,6,24,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-100,123,1,1,20150225,HOU,LAC
+Shot Chart Detail,0021400846,413,101108,Chris Paul,1610612746,Los Angeles Clippers,3,0,37,Made Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,13,70,115,1,1,20150225,HOU,LAC
+Shot Chart Detail,0021400846,520,101108,Chris Paul,1610612746,Los Angeles Clippers,4,3,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-24,252,1,1,20150225,HOU,LAC
+Shot Chart Detail,0021400846,527,101108,Chris Paul,1610612746,Los Angeles Clippers,4,1,45,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,26,137,1,1,20150225,HOU,LAC
+Shot Chart Detail,0021400864,69,101108,Chris Paul,1610612746,Los Angeles Clippers,1,4,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-138,140,1,1,20150227,MEM,LAC
+Shot Chart Detail,0021400864,244,101108,Chris Paul,1610612746,Los Angeles Clippers,2,1,24,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-130,124,1,1,20150227,MEM,LAC
+Shot Chart Detail,0021400864,247,101108,Chris Paul,1610612746,Los Angeles Clippers,2,0,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,125,-2,1,1,20150227,MEM,LAC
+Shot Chart Detail,0021400864,250,101108,Chris Paul,1610612746,Los Angeles Clippers,2,0,19,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,12,101,1,1,20150227,MEM,LAC
+Shot Chart Detail,0021400864,431,101108,Chris Paul,1610612746,Los Angeles Clippers,4,6,45,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,53,101,1,1,20150227,MEM,LAC
+Shot Chart Detail,0021400864,451,101108,Chris Paul,1610612746,Los Angeles Clippers,4,5,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,118,140,1,1,20150227,MEM,LAC
+Shot Chart Detail,0021400864,473,101108,Chris Paul,1610612746,Los Angeles Clippers,4,4,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-105,231,1,1,20150227,MEM,LAC
+Shot Chart Detail,0021400877,4,101108,Chris Paul,1610612746,Los Angeles Clippers,1,11,9,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,13,-70,115,1,1,20150301,CHI,LAC
+Shot Chart Detail,0021400877,63,101108,Chris Paul,1610612746,Los Angeles Clippers,1,5,12,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-43,194,1,1,20150301,CHI,LAC
+Shot Chart Detail,0021400877,94,101108,Chris Paul,1610612746,Los Angeles Clippers,1,2,1,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-89,186,1,1,20150301,CHI,LAC
+Shot Chart Detail,0021400877,110,101108,Chris Paul,1610612746,Los Angeles Clippers,1,0,30,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-82,134,1,1,20150301,CHI,LAC
+Shot Chart Detail,0021400877,209,101108,Chris Paul,1610612746,Los Angeles Clippers,2,3,22,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,99,127,1,1,20150301,CHI,LAC
+Shot Chart Detail,0021400877,230,101108,Chris Paul,1610612746,Los Angeles Clippers,2,1,31,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,127,83,1,1,20150301,CHI,LAC
+Shot Chart Detail,0021400877,245,101108,Chris Paul,1610612746,Los Angeles Clippers,2,0,40,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,3,1,1,20150301,CHI,LAC
+Shot Chart Detail,0021400877,318,101108,Chris Paul,1610612746,Los Angeles Clippers,3,7,7,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,64,112,1,1,20150301,CHI,LAC
+Shot Chart Detail,0021400877,323,101108,Chris Paul,1610612746,Los Angeles Clippers,3,6,6,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,170,55,1,1,20150301,CHI,LAC
+Shot Chart Detail,0021400877,329,101108,Chris Paul,1610612746,Los Angeles Clippers,3,5,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-57,179,1,1,20150301,CHI,LAC
+Shot Chart Detail,0021400877,451,101108,Chris Paul,1610612746,Los Angeles Clippers,4,5,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,83,165,1,1,20150301,CHI,LAC
+Shot Chart Detail,0021400877,510,101108,Chris Paul,1610612746,Los Angeles Clippers,4,1,50,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,40,198,1,1,20150301,CHI,LAC
+Shot Chart Detail,0021400888,54,101108,Chris Paul,1610612746,Los Angeles Clippers,1,4,49,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,32,200,1,1,20150302,MIN,LAC
+Shot Chart Detail,0021400888,56,101108,Chris Paul,1610612746,Los Angeles Clippers,1,4,17,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-43,53,1,1,20150302,MIN,LAC
+Shot Chart Detail,0021400888,62,101108,Chris Paul,1610612746,Los Angeles Clippers,1,3,23,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-64,156,1,1,20150302,MIN,LAC
+Shot Chart Detail,0021400888,64,101108,Chris Paul,1610612746,Los Angeles Clippers,1,3,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,0,1,1,20150302,MIN,LAC
+Shot Chart Detail,0021400888,96,101108,Chris Paul,1610612746,Los Angeles Clippers,1,0,50,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-2,124,1,1,20150302,MIN,LAC
+Shot Chart Detail,0021400888,196,101108,Chris Paul,1610612746,Los Angeles Clippers,2,5,3,Made Shot,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-51,22,1,1,20150302,MIN,LAC
+Shot Chart Detail,0021400888,222,101108,Chris Paul,1610612746,Los Angeles Clippers,2,3,10,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,15,-67,137,1,1,20150302,MIN,LAC
+Shot Chart Detail,0021400888,225,101108,Chris Paul,1610612746,Los Angeles Clippers,2,2,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-97,236,1,1,20150302,MIN,LAC
+Shot Chart Detail,0021400888,238,101108,Chris Paul,1610612746,Los Angeles Clippers,2,0,56,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,95,143,1,1,20150302,MIN,LAC
+Shot Chart Detail,0021400888,321,101108,Chris Paul,1610612746,Los Angeles Clippers,3,5,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,143,201,1,1,20150302,MIN,LAC
+Shot Chart Detail,0021400888,467,101108,Chris Paul,1610612746,Los Angeles Clippers,4,4,22,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,155,80,1,1,20150302,MIN,LAC
+Shot Chart Detail,0021400888,537,101108,Chris Paul,1610612746,Los Angeles Clippers,4,0,38,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,119,149,1,1,20150302,MIN,LAC
+Shot Chart Detail,0021400908,60,101108,Chris Paul,1610612746,Los Angeles Clippers,1,4,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,176,19,1,1,20150304,LAC,POR
+Shot Chart Detail,0021400908,76,101108,Chris Paul,1610612746,Los Angeles Clippers,1,3,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-108,134,1,1,20150304,LAC,POR
+Shot Chart Detail,0021400908,109,101108,Chris Paul,1610612746,Los Angeles Clippers,1,1,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-163,194,1,1,20150304,LAC,POR
+Shot Chart Detail,0021400908,192,101108,Chris Paul,1610612746,Los Angeles Clippers,2,5,25,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-2,47,1,1,20150304,LAC,POR
+Shot Chart Detail,0021400908,209,101108,Chris Paul,1610612746,Los Angeles Clippers,2,3,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,162,67,1,1,20150304,LAC,POR
+Shot Chart Detail,0021400908,220,101108,Chris Paul,1610612746,Los Angeles Clippers,2,2,30,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,14,75,129,1,1,20150304,LAC,POR
+Shot Chart Detail,0021400908,229,101108,Chris Paul,1610612746,Los Angeles Clippers,2,1,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-37,173,1,1,20150304,LAC,POR
+Shot Chart Detail,0021400908,328,101108,Chris Paul,1610612746,Los Angeles Clippers,3,4,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-108,233,1,1,20150304,LAC,POR
+Shot Chart Detail,0021400908,429,101108,Chris Paul,1610612746,Los Angeles Clippers,4,8,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-136,39,1,1,20150304,LAC,POR
+Shot Chart Detail,0021400908,448,101108,Chris Paul,1610612746,Los Angeles Clippers,4,6,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,70,149,1,1,20150304,LAC,POR
+Shot Chart Detail,0021400908,459,101108,Chris Paul,1610612746,Los Angeles Clippers,4,5,3,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-41,61,1,1,20150304,LAC,POR
+Shot Chart Detail,0021400908,461,101108,Chris Paul,1610612746,Los Angeles Clippers,4,4,26,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-62,131,1,1,20150304,LAC,POR
+Shot Chart Detail,0021400908,598,101108,Chris Paul,1610612746,Los Angeles Clippers,5,1,51,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,0,45,1,1,20150304,LAC,POR
+Shot Chart Detail,0021400908,601,101108,Chris Paul,1610612746,Los Angeles Clippers,5,1,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-134,69,1,1,20150304,LAC,POR
+Shot Chart Detail,0021400932,16,101108,Chris Paul,1610612746,Los Angeles Clippers,1,9,32,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-106,145,1,1,20150308,GSW,LAC
+Shot Chart Detail,0021400932,32,101108,Chris Paul,1610612746,Los Angeles Clippers,1,7,49,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-87,39,1,1,20150308,GSW,LAC
+Shot Chart Detail,0021400932,68,101108,Chris Paul,1610612746,Los Angeles Clippers,1,3,3,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,144,96,1,1,20150308,GSW,LAC
+Shot Chart Detail,0021400932,222,101108,Chris Paul,1610612746,Los Angeles Clippers,2,1,4,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,132,138,1,1,20150308,GSW,LAC
+Shot Chart Detail,0021400932,278,101108,Chris Paul,1610612746,Los Angeles Clippers,3,7,22,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,11,-71,96,1,1,20150308,GSW,LAC
+Shot Chart Detail,0021400932,287,101108,Chris Paul,1610612746,Los Angeles Clippers,3,6,11,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-134,118,1,1,20150308,GSW,LAC
+Shot Chart Detail,0021400932,371,101108,Chris Paul,1610612746,Los Angeles Clippers,4,10,20,Made Shot,Running Bank shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,95,116,1,1,20150308,GSW,LAC
+Shot Chart Detail,0021400945,47,101108,Chris Paul,1610612746,Los Angeles Clippers,1,6,37,Made Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,0,113,1,1,20150309,LAC,MIN
+Shot Chart Detail,0021400957,2,101108,Chris Paul,1610612746,Los Angeles Clippers,1,11,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-139,213,1,1,20150311,OKC,LAC
+Shot Chart Detail,0021400957,40,101108,Chris Paul,1610612746,Los Angeles Clippers,1,8,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-139,96,1,1,20150311,OKC,LAC
+Shot Chart Detail,0021400957,48,101108,Chris Paul,1610612746,Los Angeles Clippers,1,7,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,11,1,1,20150311,OKC,LAC
+Shot Chart Detail,0021400957,136,101108,Chris Paul,1610612746,Los Angeles Clippers,1,0,55,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,4,175,1,1,20150311,OKC,LAC
+Shot Chart Detail,0021400957,217,101108,Chris Paul,1610612746,Los Angeles Clippers,2,5,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,23,242,1,1,20150311,OKC,LAC
+Shot Chart Detail,0021400957,228,101108,Chris Paul,1610612746,Los Angeles Clippers,2,4,18,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,21,247,1,1,20150311,OKC,LAC
+Shot Chart Detail,0021400957,231,101108,Chris Paul,1610612746,Los Angeles Clippers,2,3,49,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,127,41,1,1,20150311,OKC,LAC
+Shot Chart Detail,0021400957,246,101108,Chris Paul,1610612746,Los Angeles Clippers,2,1,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-34,242,1,1,20150311,OKC,LAC
+Shot Chart Detail,0021400957,302,101108,Chris Paul,1610612746,Los Angeles Clippers,3,9,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,138,97,1,1,20150311,OKC,LAC
+Shot Chart Detail,0021400957,322,101108,Chris Paul,1610612746,Los Angeles Clippers,3,6,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-7,247,1,1,20150311,OKC,LAC
+Shot Chart Detail,0021400957,328,101108,Chris Paul,1610612746,Los Angeles Clippers,3,6,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,29,0,1,1,20150311,OKC,LAC
+Shot Chart Detail,0021400972,28,101108,Chris Paul,1610612746,Los Angeles Clippers,1,8,29,Made Shot,Running Bank shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,29,22,1,1,20150313,DAL,LAC
+Shot Chart Detail,0021400972,35,101108,Chris Paul,1610612746,Los Angeles Clippers,1,7,23,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-179,41,1,1,20150313,DAL,LAC
+Shot Chart Detail,0021400972,276,101108,Chris Paul,1610612746,Los Angeles Clippers,3,8,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,80,239,1,1,20150313,DAL,LAC
+Shot Chart Detail,0021400972,306,101108,Chris Paul,1610612746,Los Angeles Clippers,3,5,55,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,53,33,1,1,20150313,DAL,LAC
+Shot Chart Detail,0021400972,351,101108,Chris Paul,1610612746,Los Angeles Clippers,3,0,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-119,135,1,1,20150313,DAL,LAC
+Shot Chart Detail,0021400983,238,101108,Chris Paul,1610612746,Los Angeles Clippers,2,5,19,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,124,127,1,1,20150315,LAC,HOU
+Shot Chart Detail,0021400983,276,101108,Chris Paul,1610612746,Los Angeles Clippers,2,2,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,22,47,217,1,1,20150315,LAC,HOU
+Shot Chart Detail,0021400983,314,101108,Chris Paul,1610612746,Los Angeles Clippers,3,11,46,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,7,1,1,20150315,LAC,HOU
+Shot Chart Detail,0021400983,397,101108,Chris Paul,1610612746,Los Angeles Clippers,3,4,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,51,190,1,1,20150315,LAC,HOU
+Shot Chart Detail,0021400983,533,101108,Chris Paul,1610612746,Los Angeles Clippers,4,5,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,110,94,1,1,20150315,LAC,HOU
+Shot Chart Detail,0021400983,556,101108,Chris Paul,1610612746,Los Angeles Clippers,4,3,56,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-7,42,1,1,20150315,LAC,HOU
+Shot Chart Detail,0021400983,564,101108,Chris Paul,1610612746,Los Angeles Clippers,4,3,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,0,269,1,1,20150315,LAC,HOU
+Shot Chart Detail,0021401004,47,101108,Chris Paul,1610612746,Los Angeles Clippers,1,6,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,185,99,1,1,20150317,LAC,CHA
+Shot Chart Detail,0021401004,229,101108,Chris Paul,1610612746,Los Angeles Clippers,2,2,27,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,-21,1,1,20150317,LAC,CHA
+Shot Chart Detail,0021401004,250,101108,Chris Paul,1610612746,Los Angeles Clippers,2,0,30,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,32,89,1,1,20150317,LAC,CHA
+Shot Chart Detail,0021401004,280,101108,Chris Paul,1610612746,Los Angeles Clippers,3,10,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-147,205,1,1,20150317,LAC,CHA
+Shot Chart Detail,0021401004,305,101108,Chris Paul,1610612746,Los Angeles Clippers,3,6,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-101,236,1,1,20150317,LAC,CHA
+Shot Chart Detail,0021401004,446,101108,Chris Paul,1610612746,Los Angeles Clippers,4,6,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-81,255,1,1,20150317,LAC,CHA
+Shot Chart Detail,0021401013,38,101108,Chris Paul,1610612746,Los Angeles Clippers,1,7,40,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,122,154,1,1,20150318,SAC,LAC
+Shot Chart Detail,0021401013,73,101108,Chris Paul,1610612746,Los Angeles Clippers,1,2,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-125,127,1,1,20150318,SAC,LAC
+Shot Chart Detail,0021401013,95,101108,Chris Paul,1610612746,Los Angeles Clippers,1,1,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,103,176,1,1,20150318,SAC,LAC
+Shot Chart Detail,0021401013,196,101108,Chris Paul,1610612746,Los Angeles Clippers,2,3,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-175,41,1,1,20150318,SAC,LAC
+Shot Chart Detail,0021401013,240,101108,Chris Paul,1610612746,Los Angeles Clippers,2,0,1,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-146,22,1,1,20150318,SAC,LAC
+Shot Chart Detail,0021401013,251,101108,Chris Paul,1610612746,Los Angeles Clippers,3,11,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-133,131,1,1,20150318,SAC,LAC
+Shot Chart Detail,0021401013,253,101108,Chris Paul,1610612746,Los Angeles Clippers,3,10,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-152,200,1,1,20150318,SAC,LAC
+Shot Chart Detail,0021401013,255,101108,Chris Paul,1610612746,Los Angeles Clippers,3,10,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,99,149,1,1,20150318,SAC,LAC
+Shot Chart Detail,0021401013,330,101108,Chris Paul,1610612746,Los Angeles Clippers,3,2,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-16,254,1,1,20150318,SAC,LAC
+Shot Chart Detail,0021401013,341,101108,Chris Paul,1610612746,Los Angeles Clippers,3,1,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-73,165,1,1,20150318,SAC,LAC
+Shot Chart Detail,0021401013,353,101108,Chris Paul,1610612746,Los Angeles Clippers,3,0,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-57,211,1,1,20150318,SAC,LAC
+Shot Chart Detail,0021401013,437,101108,Chris Paul,1610612746,Los Angeles Clippers,4,5,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,1,254,1,1,20150318,SAC,LAC
+Shot Chart Detail,0021401013,476,101108,Chris Paul,1610612746,Los Angeles Clippers,4,3,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,37,250,1,1,20150318,SAC,LAC
+Shot Chart Detail,0021401031,29,101108,Chris Paul,1610612746,Los Angeles Clippers,1,8,21,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-5,123,1,1,20150320,LAC,WAS
+Shot Chart Detail,0021401031,76,101108,Chris Paul,1610612746,Los Angeles Clippers,1,4,21,Made Shot,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,73,7,1,1,20150320,LAC,WAS
+Shot Chart Detail,0021401031,104,101108,Chris Paul,1610612746,Los Angeles Clippers,1,2,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,140,148,1,1,20150320,LAC,WAS
+Shot Chart Detail,0021401031,222,101108,Chris Paul,1610612746,Los Angeles Clippers,2,3,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-103,104,1,1,20150320,LAC,WAS
+Shot Chart Detail,0021401031,229,101108,Chris Paul,1610612746,Los Angeles Clippers,2,2,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,144,203,1,1,20150320,LAC,WAS
+Shot Chart Detail,0021401031,325,101108,Chris Paul,1610612746,Los Angeles Clippers,3,5,14,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,14,1,1,20150320,LAC,WAS
+Shot Chart Detail,0021401031,369,101108,Chris Paul,1610612746,Los Angeles Clippers,3,1,18,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,6,1,1,20150320,LAC,WAS
+Shot Chart Detail,0021401031,372,101108,Chris Paul,1610612746,Los Angeles Clippers,3,0,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,100,88,1,1,20150320,LAC,WAS
+Shot Chart Detail,0021401031,450,101108,Chris Paul,1610612746,Los Angeles Clippers,4,6,30,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-90,146,1,1,20150320,LAC,WAS
+Shot Chart Detail,0021401031,477,101108,Chris Paul,1610612746,Los Angeles Clippers,4,3,51,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,42,145,1,1,20150320,LAC,WAS
+Shot Chart Detail,0021401031,482,101108,Chris Paul,1610612746,Los Angeles Clippers,4,3,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,127,172,1,1,20150320,LAC,WAS
+Shot Chart Detail,0021401031,495,101108,Chris Paul,1610612746,Los Angeles Clippers,4,1,40,Made Shot,Floating Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-4,37,1,1,20150320,LAC,WAS
+Shot Chart Detail,0021401040,35,101108,Chris Paul,1610612746,Los Angeles Clippers,1,5,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-131,94,1,1,20150322,LAC,NOP
+Shot Chart Detail,0021401040,175,101108,Chris Paul,1610612746,Los Angeles Clippers,2,3,45,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-168,118,1,1,20150322,LAC,NOP
+Shot Chart Detail,0021401040,180,101108,Chris Paul,1610612746,Los Angeles Clippers,2,3,14,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,58,97,1,1,20150322,LAC,NOP
+Shot Chart Detail,0021401040,198,101108,Chris Paul,1610612746,Los Angeles Clippers,2,2,26,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,106,131,1,1,20150322,LAC,NOP
+Shot Chart Detail,0021401040,278,101108,Chris Paul,1610612746,Los Angeles Clippers,3,7,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,106,102,1,1,20150322,LAC,NOP
+Shot Chart Detail,0021401040,291,101108,Chris Paul,1610612746,Los Angeles Clippers,3,5,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,81,131,1,1,20150322,LAC,NOP
+Shot Chart Detail,0021401040,299,101108,Chris Paul,1610612746,Los Angeles Clippers,3,4,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,6,1,1,20150322,LAC,NOP
+Shot Chart Detail,0021401040,315,101108,Chris Paul,1610612746,Los Angeles Clippers,3,3,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-15,159,1,1,20150322,LAC,NOP
+Shot Chart Detail,0021401061,197,101108,Chris Paul,1610612746,Los Angeles Clippers,2,4,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-51,142,1,1,20150325,NYK,LAC
+Shot Chart Detail,0021401061,246,101108,Chris Paul,1610612746,Los Angeles Clippers,2,1,14,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-54,69,1,1,20150325,NYK,LAC
+Shot Chart Detail,0021401061,320,101108,Chris Paul,1610612746,Los Angeles Clippers,3,6,5,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,69,131,1,1,20150325,NYK,LAC
+Shot Chart Detail,0021401061,326,101108,Chris Paul,1610612746,Los Angeles Clippers,3,4,52,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-10,39,1,1,20150325,NYK,LAC
+Shot Chart Detail,0021401061,350,101108,Chris Paul,1610612746,Los Angeles Clippers,3,3,44,Made Shot,Step Back Jump shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,-5,1,1,20150325,NYK,LAC
+Shot Chart Detail,0021401075,32,101108,Chris Paul,1610612746,Los Angeles Clippers,1,8,46,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,6,1,1,20150327,PHI,LAC
+Shot Chart Detail,0021401075,58,101108,Chris Paul,1610612746,Los Angeles Clippers,1,5,50,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-229,47,1,1,20150327,PHI,LAC
+Shot Chart Detail,0021401075,96,101108,Chris Paul,1610612746,Los Angeles Clippers,1,2,15,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,124,140,1,1,20150327,PHI,LAC
+Shot Chart Detail,0021401075,115,101108,Chris Paul,1610612746,Los Angeles Clippers,1,0,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-116,236,1,1,20150327,PHI,LAC
+Shot Chart Detail,0021401075,118,101108,Chris Paul,1610612746,Los Angeles Clippers,1,0,34,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,4,1,1,20150327,PHI,LAC
+Shot Chart Detail,0021401075,229,101108,Chris Paul,1610612746,Los Angeles Clippers,2,3,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,138,216,1,1,20150327,PHI,LAC
+Shot Chart Detail,0021401075,316,101108,Chris Paul,1610612746,Los Angeles Clippers,3,10,39,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,114,156,1,1,20150327,PHI,LAC
+Shot Chart Detail,0021401075,321,101108,Chris Paul,1610612746,Los Angeles Clippers,3,9,54,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-26,9,1,1,20150327,PHI,LAC
+Shot Chart Detail,0021401075,355,101108,Chris Paul,1610612746,Los Angeles Clippers,3,5,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,19,1,1,20150327,PHI,LAC
+Shot Chart Detail,0021401095,109,101108,Chris Paul,1610612746,Los Angeles Clippers,1,1,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,106,94,1,1,20150329,BOS,LAC
+Shot Chart Detail,0021401095,122,101108,Chris Paul,1610612746,Los Angeles Clippers,1,0,4,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,105,42,1,1,20150329,BOS,LAC
+Shot Chart Detail,0021401095,265,101108,Chris Paul,1610612746,Los Angeles Clippers,2,0,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-125,220,1,1,20150329,BOS,LAC
+Shot Chart Detail,0021401095,301,101108,Chris Paul,1610612746,Los Angeles Clippers,3,10,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,152,205,1,1,20150329,BOS,LAC
+Shot Chart Detail,0021401095,303,101108,Chris Paul,1610612746,Los Angeles Clippers,3,9,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-152,219,1,1,20150329,BOS,LAC
+Shot Chart Detail,0021401111,58,101108,Chris Paul,1610612746,Los Angeles Clippers,1,5,43,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,0,1,1,20150331,LAC,GSW
+Shot Chart Detail,0021401111,69,101108,Chris Paul,1610612746,Los Angeles Clippers,1,3,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,32,244,1,1,20150331,LAC,GSW
+Shot Chart Detail,0021401111,211,101108,Chris Paul,1610612746,Los Angeles Clippers,2,4,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,146,94,1,1,20150331,LAC,GSW
+Shot Chart Detail,0021401111,375,101108,Chris Paul,1610612746,Los Angeles Clippers,3,3,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,100,140,1,1,20150331,LAC,GSW
+Shot Chart Detail,0021401111,392,101108,Chris Paul,1610612746,Los Angeles Clippers,3,1,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,4,1,1,20150331,LAC,GSW
+Shot Chart Detail,0021401111,585,101108,Chris Paul,1610612746,Los Angeles Clippers,4,0,12,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,3,1,1,20150331,LAC,GSW
+Shot Chart Detail,0021401111,607,101108,Chris Paul,1610612746,Los Angeles Clippers,4,0,4,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,13,20,1,1,20150331,LAC,GSW
+Shot Chart Detail,0021401122,40,101108,Chris Paul,1610612746,Los Angeles Clippers,1,6,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,1,246,1,1,20150401,POR,LAC
+Shot Chart Detail,0021401122,98,101108,Chris Paul,1610612746,Los Angeles Clippers,1,0,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,29,186,1,1,20150401,POR,LAC
+Shot Chart Detail,0021401122,100,101108,Chris Paul,1610612746,Los Angeles Clippers,1,0,8,Made Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,9,127,1,1,20150401,POR,LAC
+Shot Chart Detail,0021401122,161,101108,Chris Paul,1610612746,Los Angeles Clippers,2,6,30,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-73,146,1,1,20150401,POR,LAC
+Shot Chart Detail,0021401122,195,101108,Chris Paul,1610612746,Los Angeles Clippers,2,2,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-116,217,1,1,20150401,POR,LAC
+Shot Chart Detail,0021401122,205,101108,Chris Paul,1610612746,Los Angeles Clippers,2,1,17,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,4,157,1,1,20150401,POR,LAC
+Shot Chart Detail,0021401122,269,101108,Chris Paul,1610612746,Los Angeles Clippers,3,5,46,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-7,153,1,1,20150401,POR,LAC
+Shot Chart Detail,0021401122,277,101108,Chris Paul,1610612746,Los Angeles Clippers,3,4,44,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,23,91,222,1,1,20150401,POR,LAC
+Shot Chart Detail,0021401122,284,101108,Chris Paul,1610612746,Los Angeles Clippers,3,4,11,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,7,44,1,1,20150401,POR,LAC
+Shot Chart Detail,0021401122,310,101108,Chris Paul,1610612746,Los Angeles Clippers,3,0,49,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-16,200,1,1,20150401,POR,LAC
+Shot Chart Detail,0021401122,406,101108,Chris Paul,1610612746,Los Angeles Clippers,4,5,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-201,140,1,1,20150401,POR,LAC
+Shot Chart Detail,0021401122,433,101108,Chris Paul,1610612746,Los Angeles Clippers,4,3,4,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,69,233,1,1,20150401,POR,LAC
+Shot Chart Detail,0021401122,475,101108,Chris Paul,1610612746,Los Angeles Clippers,4,0,55,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-169,108,1,1,20150401,POR,LAC
+Shot Chart Detail,0021401144,2,101108,Chris Paul,1610612746,Los Angeles Clippers,1,11,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,36,250,1,1,20150404,DEN,LAC
+Shot Chart Detail,0021401144,41,101108,Chris Paul,1610612746,Los Angeles Clippers,1,6,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-122,208,1,1,20150404,DEN,LAC
+Shot Chart Detail,0021401144,284,101108,Chris Paul,1610612746,Los Angeles Clippers,2,1,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-127,113,1,1,20150404,DEN,LAC
+Shot Chart Detail,0021401144,362,101108,Chris Paul,1610612746,Los Angeles Clippers,3,7,5,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,12,75,97,1,1,20150404,DEN,LAC
+Shot Chart Detail,0021401144,410,101108,Chris Paul,1610612746,Los Angeles Clippers,3,3,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,81,272,1,1,20150404,DEN,LAC
+Shot Chart Detail,0021401144,590,101108,Chris Paul,1610612746,Los Angeles Clippers,4,3,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-199,149,1,1,20150404,DEN,LAC
+Shot Chart Detail,0021401153,168,101108,Chris Paul,1610612746,Los Angeles Clippers,2,6,34,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,11,24,1,1,20150405,LAL,LAC
+Shot Chart Detail,0021401153,175,101108,Chris Paul,1610612746,Los Angeles Clippers,2,6,7,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-3,18,1,1,20150405,LAL,LAC
+Shot Chart Detail,0021401153,285,101108,Chris Paul,1610612746,Los Angeles Clippers,3,6,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-190,161,1,1,20150405,LAL,LAC
+Shot Chart Detail,0021401159,312,101108,Chris Paul,1610612746,Los Angeles Clippers,3,6,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-68,153,1,1,20150407,LAC,LAL
+Shot Chart Detail,0021401159,314,101108,Chris Paul,1610612746,Los Angeles Clippers,3,6,30,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,73,88,1,1,20150407,LAC,LAL
+Shot Chart Detail,0021401159,334,101108,Chris Paul,1610612746,Los Angeles Clippers,3,4,36,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,15,28,1,1,20150407,LAC,LAL
+Shot Chart Detail,0021401159,355,101108,Chris Paul,1610612746,Los Angeles Clippers,3,3,14,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,7,1,1,20150407,LAC,LAL
+Shot Chart Detail,0021401159,361,101108,Chris Paul,1610612746,Los Angeles Clippers,3,2,49,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,11,1,1,20150407,LAC,LAL
+Shot Chart Detail,0021401190,40,101108,Chris Paul,1610612746,Los Angeles Clippers,1,6,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,83,140,1,1,20150411,LAC,MEM
+Shot Chart Detail,0021401190,234,101108,Chris Paul,1610612746,Los Angeles Clippers,2,2,33,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,92,131,1,1,20150411,LAC,MEM
+Shot Chart Detail,0021401190,322,101108,Chris Paul,1610612746,Los Angeles Clippers,3,6,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,171,9,1,1,20150411,LAC,MEM
+Shot Chart Detail,0021401190,341,101108,Chris Paul,1610612746,Los Angeles Clippers,3,4,37,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,12,-75,94,1,1,20150411,LAC,MEM
+Shot Chart Detail,0021401190,485,101108,Chris Paul,1610612746,Los Angeles Clippers,4,4,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,51,249,1,1,20150411,LAC,MEM
+Shot Chart Detail,0021401190,489,101108,Chris Paul,1610612746,Los Angeles Clippers,4,3,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,174,99,1,1,20150411,LAC,MEM
+Shot Chart Detail,0021401213,74,101108,Chris Paul,1610612746,Los Angeles Clippers,1,3,37,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-8,208,1,1,20150413,LAC,DEN
+Shot Chart Detail,0021401213,200,101108,Chris Paul,1610612746,Los Angeles Clippers,2,4,13,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,17,44,1,1,20150413,LAC,DEN
+Shot Chart Detail,0021401213,247,101108,Chris Paul,1610612746,Los Angeles Clippers,2,0,33,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,118,126,1,1,20150413,LAC,DEN
+Shot Chart Detail,0021401213,257,101108,Chris Paul,1610612746,Los Angeles Clippers,3,11,26,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,97,153,1,1,20150413,LAC,DEN
+Shot Chart Detail,0021401213,532,101108,Chris Paul,1610612746,Los Angeles Clippers,4,2,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,133,231,1,1,20150413,LAC,DEN
+Shot Chart Detail,0021401213,544,101108,Chris Paul,1610612746,Los Angeles Clippers,4,1,41,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,7,19,1,1,20150413,LAC,DEN
+Shot Chart Detail,0021401216,77,101108,Chris Paul,1610612746,Los Angeles Clippers,1,3,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-226,105,1,1,20150414,PHX,LAC
+Shot Chart Detail,0021401216,96,101108,Chris Paul,1610612746,Los Angeles Clippers,1,1,29,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,92,231,1,1,20150414,PHX,LAC
+Shot Chart Detail,0021401216,180,101108,Chris Paul,1610612746,Los Angeles Clippers,2,4,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,18,255,1,1,20150414,PHX,LAC
+Shot Chart Detail,0021401216,182,101108,Chris Paul,1610612746,Los Angeles Clippers,2,3,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-116,235,1,1,20150414,PHX,LAC
+Shot Chart Detail,0021401216,205,101108,Chris Paul,1610612746,Los Angeles Clippers,2,2,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,141,34,1,1,20150414,PHX,LAC
+Shot Chart Detail,0021401216,264,101108,Chris Paul,1610612746,Los Angeles Clippers,3,8,50,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,10,78,1,1,20150414,PHX,LAC
+Shot Chart Detail,0021401216,276,101108,Chris Paul,1610612746,Los Angeles Clippers,3,8,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-163,187,1,1,20150414,PHX,LAC
+Shot Chart Detail,0021401216,285,101108,Chris Paul,1610612746,Los Angeles Clippers,3,6,47,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,1,1,1,20150414,PHX,LAC

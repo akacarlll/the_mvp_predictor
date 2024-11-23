@@ -1,0 +1,752 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0022300015,57,201142,Kevin Durant,1610612756,Phoenix Suns,1,6,30,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,11,22,1,1,20231110,PHX,LAL
+Shot Chart Detail,0022300015,70,201142,Kevin Durant,1610612756,Phoenix Suns,1,5,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-1,173,1,1,20231110,PHX,LAL
+Shot Chart Detail,0022300015,109,201142,Kevin Durant,1610612756,Phoenix Suns,1,3,22,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-195,180,1,1,20231110,PHX,LAL
+Shot Chart Detail,0022300015,158,201142,Kevin Durant,1610612756,Phoenix Suns,1,0,22,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-34,17,1,1,20231110,PHX,LAL
+Shot Chart Detail,0022300015,283,201142,Kevin Durant,1610612756,Phoenix Suns,2,6,23,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,48,79,1,1,20231110,PHX,LAL
+Shot Chart Detail,0022300015,431,201142,Kevin Durant,1610612756,Phoenix Suns,3,7,14,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,66,90,1,1,20231110,PHX,LAL
+Shot Chart Detail,0022300015,495,201142,Kevin Durant,1610612756,Phoenix Suns,3,3,39,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,23,25,1,1,20231110,PHX,LAL
+Shot Chart Detail,0022300015,515,201142,Kevin Durant,1610612756,Phoenix Suns,3,2,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,10,262,1,1,20231110,PHX,LAL
+Shot Chart Detail,0022300015,519,201142,Kevin Durant,1610612756,Phoenix Suns,3,2,7,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-72,260,1,1,20231110,PHX,LAL
+Shot Chart Detail,0022300015,522,201142,Kevin Durant,1610612756,Phoenix Suns,3,1,29,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-59,130,1,1,20231110,PHX,LAL
+Shot Chart Detail,0022300015,641,201142,Kevin Durant,1610612756,Phoenix Suns,4,6,12,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-203,164,1,1,20231110,PHX,LAL
+Shot Chart Detail,0022300015,678,201142,Kevin Durant,1610612756,Phoenix Suns,4,3,45,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-70,127,1,1,20231110,PHX,LAL
+Shot Chart Detail,0022300015,680,201142,Kevin Durant,1610612756,Phoenix Suns,4,3,10,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-33,19,1,1,20231110,PHX,LAL
+Shot Chart Detail,0022300035,7,201142,Kevin Durant,1610612756,Phoenix Suns,1,11,46,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-224,24,1,1,20231117,UTA,PHX
+Shot Chart Detail,0022300035,42,201142,Kevin Durant,1610612756,Phoenix Suns,1,9,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-2,251,1,1,20231117,UTA,PHX
+Shot Chart Detail,0022300035,85,201142,Kevin Durant,1610612756,Phoenix Suns,1,5,49,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,85,89,1,1,20231117,UTA,PHX
+Shot Chart Detail,0022300035,106,201142,Kevin Durant,1610612756,Phoenix Suns,1,3,40,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,0,78,1,1,20231117,UTA,PHX
+Shot Chart Detail,0022300035,224,201142,Kevin Durant,1610612756,Phoenix Suns,2,7,41,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,6,255,1,1,20231117,UTA,PHX
+Shot Chart Detail,0022300035,249,201142,Kevin Durant,1610612756,Phoenix Suns,2,6,24,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-94,146,1,1,20231117,UTA,PHX
+Shot Chart Detail,0022300035,256,201142,Kevin Durant,1610612756,Phoenix Suns,2,5,50,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-121,93,1,1,20231117,UTA,PHX
+Shot Chart Detail,0022300035,309,201142,Kevin Durant,1610612756,Phoenix Suns,2,2,30,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-33,10,1,1,20231117,UTA,PHX
+Shot Chart Detail,0022300035,322,201142,Kevin Durant,1610612756,Phoenix Suns,2,1,5,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-58,117,1,1,20231117,UTA,PHX
+Shot Chart Detail,0022300035,326,201142,Kevin Durant,1610612756,Phoenix Suns,2,0,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,80,257,1,1,20231117,UTA,PHX
+Shot Chart Detail,0022300035,420,201142,Kevin Durant,1610612756,Phoenix Suns,3,4,58,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,112,115,1,1,20231117,UTA,PHX
+Shot Chart Detail,0022300035,435,201142,Kevin Durant,1610612756,Phoenix Suns,3,3,59,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,9,55,1,1,20231117,UTA,PHX
+Shot Chart Detail,0022300035,611,201142,Kevin Durant,1610612756,Phoenix Suns,4,4,1,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-71,152,1,1,20231117,UTA,PHX
+Shot Chart Detail,0022300035,618,201142,Kevin Durant,1610612756,Phoenix Suns,4,3,11,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,238,68,1,1,20231117,UTA,PHX
+Shot Chart Detail,0022300035,652,201142,Kevin Durant,1610612756,Phoenix Suns,4,0,18,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-123,243,1,1,20231117,UTA,PHX
+Shot Chart Detail,0022300041,19,201142,Kevin Durant,1610612756,Phoenix Suns,1,10,34,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-80,57,1,1,20231121,PHX,POR
+Shot Chart Detail,0022300041,26,201142,Kevin Durant,1610612756,Phoenix Suns,1,9,51,Made Shot,Running Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,10,1,1,20231121,PHX,POR
+Shot Chart Detail,0022300041,45,201142,Kevin Durant,1610612756,Phoenix Suns,1,8,5,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,13,125,1,1,20231121,PHX,POR
+Shot Chart Detail,0022300041,49,201142,Kevin Durant,1610612756,Phoenix Suns,1,7,44,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-238,20,1,1,20231121,PHX,POR
+Shot Chart Detail,0022300041,96,201142,Kevin Durant,1610612756,Phoenix Suns,1,4,8,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-11,86,1,1,20231121,PHX,POR
+Shot Chart Detail,0022300041,116,201142,Kevin Durant,1610612756,Phoenix Suns,1,2,58,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-40,137,1,1,20231121,PHX,POR
+Shot Chart Detail,0022300041,356,201142,Kevin Durant,1610612756,Phoenix Suns,3,10,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-143,72,1,1,20231121,PHX,POR
+Shot Chart Detail,0022300041,389,201142,Kevin Durant,1610612756,Phoenix Suns,3,7,10,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,6,1,1,20231121,PHX,POR
+Shot Chart Detail,0022300041,403,201142,Kevin Durant,1610612756,Phoenix Suns,3,6,24,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,3,1,1,20231121,PHX,POR
+Shot Chart Detail,0022300041,420,201142,Kevin Durant,1610612756,Phoenix Suns,3,5,1,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,17,1,1,20231121,PHX,POR
+Shot Chart Detail,0022300041,465,201142,Kevin Durant,1610612756,Phoenix Suns,3,1,29,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,4,1,1,20231121,PHX,POR
+Shot Chart Detail,0022300041,556,201142,Kevin Durant,1610612756,Phoenix Suns,4,7,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,150,209,1,1,20231121,PHX,POR
+Shot Chart Detail,0022300041,565,201142,Kevin Durant,1610612756,Phoenix Suns,4,6,37,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,-4,1,1,20231121,PHX,POR
+Shot Chart Detail,0022300062,28,201142,Kevin Durant,1610612756,Phoenix Suns,1,10,2,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-58,56,1,1,20231024,GSW,PHX
+Shot Chart Detail,0022300062,50,201142,Kevin Durant,1610612756,Phoenix Suns,1,7,46,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-82,51,1,1,20231024,GSW,PHX
+Shot Chart Detail,0022300062,254,201142,Kevin Durant,1610612756,Phoenix Suns,2,7,28,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,108,147,1,1,20231024,GSW,PHX
+Shot Chart Detail,0022300062,347,201142,Kevin Durant,1610612756,Phoenix Suns,2,1,1,Made Shot,Putback Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,40,27,1,1,20231024,GSW,PHX
+Shot Chart Detail,0022300062,360,201142,Kevin Durant,1610612756,Phoenix Suns,2,0,5,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-87,263,1,1,20231024,GSW,PHX
+Shot Chart Detail,0022300062,578,201142,Kevin Durant,1610612756,Phoenix Suns,4,11,22,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-42,139,1,1,20231024,GSW,PHX
+Shot Chart Detail,0022300062,592,201142,Kevin Durant,1610612756,Phoenix Suns,4,10,7,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-11,55,1,1,20231024,GSW,PHX
+Shot Chart Detail,0022300076,43,201142,Kevin Durant,1610612756,Phoenix Suns,1,9,19,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-135,62,1,1,20231026,LAL,PHX
+Shot Chart Detail,0022300076,112,201142,Kevin Durant,1610612756,Phoenix Suns,1,3,45,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,20,32,1,1,20231026,LAL,PHX
+Shot Chart Detail,0022300076,158,201142,Kevin Durant,1610612756,Phoenix Suns,1,0,27,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,107,16,1,1,20231026,LAL,PHX
+Shot Chart Detail,0022300076,280,201142,Kevin Durant,1610612756,Phoenix Suns,2,4,35,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-20,174,1,1,20231026,LAL,PHX
+Shot Chart Detail,0022300076,315,201142,Kevin Durant,1610612756,Phoenix Suns,2,2,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-115,115,1,1,20231026,LAL,PHX
+Shot Chart Detail,0022300076,360,201142,Kevin Durant,1610612756,Phoenix Suns,3,11,6,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,161,92,1,1,20231026,LAL,PHX
+Shot Chart Detail,0022300076,368,201142,Kevin Durant,1610612756,Phoenix Suns,3,10,2,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,125,121,1,1,20231026,LAL,PHX
+Shot Chart Detail,0022300076,485,201142,Kevin Durant,1610612756,Phoenix Suns,3,1,46,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-20,116,1,1,20231026,LAL,PHX
+Shot Chart Detail,0022300076,498,201142,Kevin Durant,1610612756,Phoenix Suns,3,0,30,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-67,79,1,1,20231026,LAL,PHX
+Shot Chart Detail,0022300076,501,201142,Kevin Durant,1610612756,Phoenix Suns,3,0,1,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-136,146,1,1,20231026,LAL,PHX
+Shot Chart Detail,0022300076,553,201142,Kevin Durant,1610612756,Phoenix Suns,4,8,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-94,250,1,1,20231026,LAL,PHX
+Shot Chart Detail,0022300076,651,201142,Kevin Durant,1610612756,Phoenix Suns,4,1,55,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,26,137,1,1,20231026,LAL,PHX
+Shot Chart Detail,0022300076,654,201142,Kevin Durant,1610612756,Phoenix Suns,4,1,30,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,15,40,1,1,20231026,LAL,PHX
+Shot Chart Detail,0022300076,679,201142,Kevin Durant,1610612756,Phoenix Suns,4,0,2,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,15,1,1,20231026,LAL,PHX
+Shot Chart Detail,0022300094,42,201142,Kevin Durant,1610612756,Phoenix Suns,1,8,7,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,-4,1,1,20231028,PHX,UTA
+Shot Chart Detail,0022300094,81,201142,Kevin Durant,1610612756,Phoenix Suns,1,4,52,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-7,80,1,1,20231028,PHX,UTA
+Shot Chart Detail,0022300094,91,201142,Kevin Durant,1610612756,Phoenix Suns,1,4,13,Made Shot,Fadeaway Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-55,1,1,1,20231028,PHX,UTA
+Shot Chart Detail,0022300094,287,201142,Kevin Durant,1610612756,Phoenix Suns,2,1,25,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,5,1,1,20231028,PHX,UTA
+Shot Chart Detail,0022300094,354,201142,Kevin Durant,1610612756,Phoenix Suns,3,10,56,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-103,50,1,1,20231028,PHX,UTA
+Shot Chart Detail,0022300094,373,201142,Kevin Durant,1610612756,Phoenix Suns,3,9,29,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,0,92,1,1,20231028,PHX,UTA
+Shot Chart Detail,0022300094,392,201142,Kevin Durant,1610612756,Phoenix Suns,3,8,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-78,265,1,1,20231028,PHX,UTA
+Shot Chart Detail,0022300094,463,201142,Kevin Durant,1610612756,Phoenix Suns,3,3,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-91,149,1,1,20231028,PHX,UTA
+Shot Chart Detail,0022300113,12,201142,Kevin Durant,1610612756,Phoenix Suns,1,11,12,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,15,1,1,20231031,PHX,SAS
+Shot Chart Detail,0022300113,18,201142,Kevin Durant,1610612756,Phoenix Suns,1,10,39,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-140,64,1,1,20231031,PHX,SAS
+Shot Chart Detail,0022300113,40,201142,Kevin Durant,1610612756,Phoenix Suns,1,8,43,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,81,-1,1,1,20231031,PHX,SAS
+Shot Chart Detail,0022300113,124,201142,Kevin Durant,1610612756,Phoenix Suns,1,3,45,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-40,36,1,1,20231031,PHX,SAS
+Shot Chart Detail,0022300113,170,201142,Kevin Durant,1610612756,Phoenix Suns,1,0,2,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,115,2,1,1,20231031,PHX,SAS
+Shot Chart Detail,0022300113,302,201142,Kevin Durant,1610612756,Phoenix Suns,2,3,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-36,169,1,1,20231031,PHX,SAS
+Shot Chart Detail,0022300113,342,201142,Kevin Durant,1610612756,Phoenix Suns,2,0,21,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-22,32,1,1,20231031,PHX,SAS
+Shot Chart Detail,0022300113,449,201142,Kevin Durant,1610612756,Phoenix Suns,3,3,33,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,53,1,1,20231031,PHX,SAS
+Shot Chart Detail,0022300113,586,201142,Kevin Durant,1610612756,Phoenix Suns,4,6,42,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,39,101,1,1,20231031,PHX,SAS
+Shot Chart Detail,0022300113,596,201142,Kevin Durant,1610612756,Phoenix Suns,4,5,56,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-48,25,1,1,20231031,PHX,SAS
+Shot Chart Detail,0022300113,639,201142,Kevin Durant,1610612756,Phoenix Suns,4,2,26,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,15,-65,136,1,1,20231031,PHX,SAS
+Shot Chart Detail,0022300113,658,201142,Kevin Durant,1610612756,Phoenix Suns,4,1,3,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,9,1,1,20231031,PHX,SAS
+Shot Chart Detail,0022300131,45,201142,Kevin Durant,1610612756,Phoenix Suns,1,8,4,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,1,154,1,1,20231102,PHX,SAS
+Shot Chart Detail,0022300131,57,201142,Kevin Durant,1610612756,Phoenix Suns,1,6,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,176,193,1,1,20231102,PHX,SAS
+Shot Chart Detail,0022300131,65,201142,Kevin Durant,1610612756,Phoenix Suns,1,6,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,0,37,1,1,20231102,PHX,SAS
+Shot Chart Detail,0022300131,73,201142,Kevin Durant,1610612756,Phoenix Suns,1,5,48,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,98,109,1,1,20231102,PHX,SAS
+Shot Chart Detail,0022300131,132,201142,Kevin Durant,1610612756,Phoenix Suns,1,1,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,123,83,1,1,20231102,PHX,SAS
+Shot Chart Detail,0022300131,443,201142,Kevin Durant,1610612756,Phoenix Suns,3,3,46,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-113,82,1,1,20231102,PHX,SAS
+Shot Chart Detail,0022300131,472,201142,Kevin Durant,1610612756,Phoenix Suns,3,2,0,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,-20,1,1,20231102,PHX,SAS
+Shot Chart Detail,0022300131,479,201142,Kevin Durant,1610612756,Phoenix Suns,3,1,38,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,0,1,1,20231102,PHX,SAS
+Shot Chart Detail,0022300131,598,201142,Kevin Durant,1610612756,Phoenix Suns,4,5,6,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,17,251,1,1,20231102,PHX,SAS
+Shot Chart Detail,0022300131,647,201142,Kevin Durant,1610612756,Phoenix Suns,4,0,45,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-48,53,1,1,20231102,PHX,SAS
+Shot Chart Detail,0022300132,46,201142,Kevin Durant,1610612756,Phoenix Suns,1,9,0,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,7,20,1,1,20231104,PHI,PHX
+Shot Chart Detail,0022300132,74,201142,Kevin Durant,1610612756,Phoenix Suns,1,6,8,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-13,54,1,1,20231104,PHI,PHX
+Shot Chart Detail,0022300132,281,201142,Kevin Durant,1610612756,Phoenix Suns,2,4,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-188,172,1,1,20231104,PHI,PHX
+Shot Chart Detail,0022300132,311,201142,Kevin Durant,1610612756,Phoenix Suns,2,3,28,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,1,1,1,20231104,PHI,PHX
+Shot Chart Detail,0022300132,421,201142,Kevin Durant,1610612756,Phoenix Suns,3,5,57,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,14,1,1,20231104,PHI,PHX
+Shot Chart Detail,0022300132,426,201142,Kevin Durant,1610612756,Phoenix Suns,3,5,9,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,-1,1,1,20231104,PHI,PHX
+Shot Chart Detail,0022300132,466,201142,Kevin Durant,1610612756,Phoenix Suns,3,3,9,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-88,26,1,1,20231104,PHI,PHX
+Shot Chart Detail,0022300132,476,201142,Kevin Durant,1610612756,Phoenix Suns,3,2,46,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,9,24,1,1,20231104,PHI,PHX
+Shot Chart Detail,0022300132,547,201142,Kevin Durant,1610612756,Phoenix Suns,4,10,4,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20231104,PHI,PHX
+Shot Chart Detail,0022300140,23,201142,Kevin Durant,1610612756,Phoenix Suns,1,10,10,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-59,-23,1,1,20231105,DET,PHX
+Shot Chart Detail,0022300140,50,201142,Kevin Durant,1610612756,Phoenix Suns,1,6,32,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,62,-6,1,1,20231105,DET,PHX
+Shot Chart Detail,0022300140,67,201142,Kevin Durant,1610612756,Phoenix Suns,1,5,30,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,5,1,1,20231105,DET,PHX
+Shot Chart Detail,0022300140,105,201142,Kevin Durant,1610612756,Phoenix Suns,1,4,55,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-8,29,1,1,20231105,DET,PHX
+Shot Chart Detail,0022300140,102,201142,Kevin Durant,1610612756,Phoenix Suns,1,3,16,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,-7,1,1,20231105,DET,PHX
+Shot Chart Detail,0022300140,337,201142,Kevin Durant,1610612756,Phoenix Suns,2,0,39,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,82,125,1,1,20231105,DET,PHX
+Shot Chart Detail,0022300140,367,201142,Kevin Durant,1610612756,Phoenix Suns,3,11,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,229,105,1,1,20231105,DET,PHX
+Shot Chart Detail,0022300140,383,201142,Kevin Durant,1610612756,Phoenix Suns,3,10,8,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-48,73,1,1,20231105,DET,PHX
+Shot Chart Detail,0022300140,408,201142,Kevin Durant,1610612756,Phoenix Suns,3,7,13,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,115,175,1,1,20231105,DET,PHX
+Shot Chart Detail,0022300140,416,201142,Kevin Durant,1610612756,Phoenix Suns,3,6,29,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-10,102,1,1,20231105,DET,PHX
+Shot Chart Detail,0022300140,475,201142,Kevin Durant,1610612756,Phoenix Suns,3,2,37,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,43,106,1,1,20231105,DET,PHX
+Shot Chart Detail,0022300140,501,201142,Kevin Durant,1610612756,Phoenix Suns,3,0,3,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-27,199,1,1,20231105,DET,PHX
+Shot Chart Detail,0022300140,624,201142,Kevin Durant,1610612756,Phoenix Suns,4,4,33,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,13,1,1,20231105,DET,PHX
+Shot Chart Detail,0022300140,649,201142,Kevin Durant,1610612756,Phoenix Suns,4,2,35,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,11,1,1,20231105,DET,PHX
+Shot Chart Detail,0022300162,25,201142,Kevin Durant,1610612756,Phoenix Suns,1,10,4,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,2,1,1,20231108,CHI,PHX
+Shot Chart Detail,0022300162,114,201142,Kevin Durant,1610612756,Phoenix Suns,1,3,43,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-137,226,1,1,20231108,CHI,PHX
+Shot Chart Detail,0022300162,273,201142,Kevin Durant,1610612756,Phoenix Suns,2,3,43,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,1,20,1,1,20231108,CHI,PHX
+Shot Chart Detail,0022300162,313,201142,Kevin Durant,1610612756,Phoenix Suns,2,0,51,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,7,1,1,20231108,CHI,PHX
+Shot Chart Detail,0022300162,351,201142,Kevin Durant,1610612756,Phoenix Suns,3,10,25,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-82,57,1,1,20231108,CHI,PHX
+Shot Chart Detail,0022300162,384,201142,Kevin Durant,1610612756,Phoenix Suns,3,7,18,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,5,1,1,20231108,CHI,PHX
+Shot Chart Detail,0022300162,438,201142,Kevin Durant,1610612756,Phoenix Suns,3,2,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,158,210,1,1,20231108,CHI,PHX
+Shot Chart Detail,0022300185,11,201142,Kevin Durant,1610612756,Phoenix Suns,1,11,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,15,169,1,1,20231112,PHX,OKC
+Shot Chart Detail,0022300185,60,201142,Kevin Durant,1610612756,Phoenix Suns,1,8,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,146,225,1,1,20231112,PHX,OKC
+Shot Chart Detail,0022300185,105,201142,Kevin Durant,1610612756,Phoenix Suns,1,4,36,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,13,-74,112,1,1,20231112,PHX,OKC
+Shot Chart Detail,0022300185,303,201142,Kevin Durant,1610612756,Phoenix Suns,2,2,51,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,-6,1,1,20231112,PHX,OKC
+Shot Chart Detail,0022300185,361,201142,Kevin Durant,1610612756,Phoenix Suns,3,11,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,153,71,1,1,20231112,PHX,OKC
+Shot Chart Detail,0022300185,409,201142,Kevin Durant,1610612756,Phoenix Suns,3,6,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-167,198,1,1,20231112,PHX,OKC
+Shot Chart Detail,0022300185,520,201142,Kevin Durant,1610612756,Phoenix Suns,4,10,42,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,8,1,1,20231112,PHX,OKC
+Shot Chart Detail,0022300197,63,201142,Kevin Durant,1610612756,Phoenix Suns,1,4,48,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,33,95,1,1,20231115,PHX,MIN
+Shot Chart Detail,0022300197,67,201142,Kevin Durant,1610612756,Phoenix Suns,1,4,15,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,124,76,1,1,20231115,PHX,MIN
+Shot Chart Detail,0022300197,196,201142,Kevin Durant,1610612756,Phoenix Suns,2,8,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-83,247,1,1,20231115,PHX,MIN
+Shot Chart Detail,0022300197,221,201142,Kevin Durant,1610612756,Phoenix Suns,2,6,18,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,9,84,1,1,20231115,PHX,MIN
+Shot Chart Detail,0022300197,245,201142,Kevin Durant,1610612756,Phoenix Suns,2,4,43,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-120,58,1,1,20231115,PHX,MIN
+Shot Chart Detail,0022300197,249,201142,Kevin Durant,1610612756,Phoenix Suns,2,4,4,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,8,1,1,20231115,PHX,MIN
+Shot Chart Detail,0022300197,397,201142,Kevin Durant,1610612756,Phoenix Suns,3,5,35,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-39,92,1,1,20231115,PHX,MIN
+Shot Chart Detail,0022300197,440,201142,Kevin Durant,1610612756,Phoenix Suns,3,2,7,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,104,106,1,1,20231115,PHX,MIN
+Shot Chart Detail,0022300197,451,201142,Kevin Durant,1610612756,Phoenix Suns,3,0,53,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-38,263,1,1,20231115,PHX,MIN
+Shot Chart Detail,0022300197,457,201142,Kevin Durant,1610612756,Phoenix Suns,3,0,2,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,146,117,1,1,20231115,PHX,MIN
+Shot Chart Detail,0022300197,544,201142,Kevin Durant,1610612756,Phoenix Suns,4,5,42,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,69,96,1,1,20231115,PHX,MIN
+Shot Chart Detail,0022300214,27,201142,Kevin Durant,1610612756,Phoenix Suns,1,10,3,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-110,43,1,1,20231119,UTA,PHX
+Shot Chart Detail,0022300214,46,201142,Kevin Durant,1610612756,Phoenix Suns,1,8,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,36,3,1,1,20231119,UTA,PHX
+Shot Chart Detail,0022300214,57,201142,Kevin Durant,1610612756,Phoenix Suns,1,7,43,Made Shot,Running Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,1,57,1,1,20231119,UTA,PHX
+Shot Chart Detail,0022300214,250,201142,Kevin Durant,1610612756,Phoenix Suns,2,6,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,140,66,1,1,20231119,UTA,PHX
+Shot Chart Detail,0022300214,262,201142,Kevin Durant,1610612756,Phoenix Suns,2,5,31,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,135,35,1,1,20231119,UTA,PHX
+Shot Chart Detail,0022300214,273,201142,Kevin Durant,1610612756,Phoenix Suns,2,4,43,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-85,9,1,1,20231119,UTA,PHX
+Shot Chart Detail,0022300214,297,201142,Kevin Durant,1610612756,Phoenix Suns,2,3,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-21,256,1,1,20231119,UTA,PHX
+Shot Chart Detail,0022300214,387,201142,Kevin Durant,1610612756,Phoenix Suns,3,9,29,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-88,65,1,1,20231119,UTA,PHX
+Shot Chart Detail,0022300214,628,201142,Kevin Durant,1610612756,Phoenix Suns,4,5,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-88,251,1,1,20231119,UTA,PHX
+Shot Chart Detail,0022300214,637,201142,Kevin Durant,1610612756,Phoenix Suns,4,5,12,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-36,36,1,1,20231119,UTA,PHX
+Shot Chart Detail,0022300214,676,201142,Kevin Durant,1610612756,Phoenix Suns,4,1,6,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-47,155,1,1,20231119,UTA,PHX
+Shot Chart Detail,0022300214,741,201142,Kevin Durant,1610612756,Phoenix Suns,5,0,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-213,183,1,1,20231119,UTA,PHX
+Shot Chart Detail,0022300214,808,201142,Kevin Durant,1610612756,Phoenix Suns,6,4,3,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-48,111,1,1,20231119,UTA,PHX
+Shot Chart Detail,0022300214,811,201142,Kevin Durant,1610612756,Phoenix Suns,6,3,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-76,248,1,1,20231119,UTA,PHX
+Shot Chart Detail,0022300236,21,201142,Kevin Durant,1610612756,Phoenix Suns,1,10,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,123,221,1,1,20231122,PHX,GSW
+Shot Chart Detail,0022300236,116,201142,Kevin Durant,1610612756,Phoenix Suns,1,3,41,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-92,-2,1,1,20231122,PHX,GSW
+Shot Chart Detail,0022300236,287,201142,Kevin Durant,1610612756,Phoenix Suns,2,5,34,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-65,77,1,1,20231122,PHX,GSW
+Shot Chart Detail,0022300236,322,201142,Kevin Durant,1610612756,Phoenix Suns,2,3,26,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,-12,1,1,20231122,PHX,GSW
+Shot Chart Detail,0022300236,420,201142,Kevin Durant,1610612756,Phoenix Suns,3,10,26,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-126,226,1,1,20231122,PHX,GSW
+Shot Chart Detail,0022300236,426,201142,Kevin Durant,1610612756,Phoenix Suns,3,9,54,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,11,1,1,20231122,PHX,GSW
+Shot Chart Detail,0022300236,491,201142,Kevin Durant,1610612756,Phoenix Suns,3,5,28,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,26,113,1,1,20231122,PHX,GSW
+Shot Chart Detail,0022300260,18,201142,Kevin Durant,1610612756,Phoenix Suns,1,10,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,129,220,1,1,20231129,TOR,PHX
+Shot Chart Detail,0022300260,60,201142,Kevin Durant,1610612756,Phoenix Suns,1,6,42,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-102,43,1,1,20231129,TOR,PHX
+Shot Chart Detail,0022300260,209,201142,Kevin Durant,1610612756,Phoenix Suns,2,7,50,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,8,1,1,20231129,TOR,PHX
+Shot Chart Detail,0022300260,298,201142,Kevin Durant,1610612756,Phoenix Suns,2,1,59,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,10,1,1,20231129,TOR,PHX
+Shot Chart Detail,0022300260,353,201142,Kevin Durant,1610612756,Phoenix Suns,3,10,41,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20231129,TOR,PHX
+Shot Chart Detail,0022300260,429,201142,Kevin Durant,1610612756,Phoenix Suns,3,5,31,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,126,15,1,1,20231129,TOR,PHX
+Shot Chart Detail,0022300260,435,201142,Kevin Durant,1610612756,Phoenix Suns,3,4,30,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,10,1,1,20231129,TOR,PHX
+Shot Chart Detail,0022300260,575,201142,Kevin Durant,1610612756,Phoenix Suns,4,7,52,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-146,42,1,1,20231129,TOR,PHX
+Shot Chart Detail,0022300260,579,201142,Kevin Durant,1610612756,Phoenix Suns,4,7,25,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,38,258,1,1,20231129,TOR,PHX
+Shot Chart Detail,0022300260,597,201142,Kevin Durant,1610612756,Phoenix Suns,4,6,28,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,1,1,1,20231129,TOR,PHX
+Shot Chart Detail,0022300260,623,201142,Kevin Durant,1610612756,Phoenix Suns,4,4,24,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-13,115,1,1,20231129,TOR,PHX
+Shot Chart Detail,0022300279,15,201142,Kevin Durant,1610612756,Phoenix Suns,1,10,46,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-130,228,1,1,20231201,PHX,DEN
+Shot Chart Detail,0022300279,19,201142,Kevin Durant,1610612756,Phoenix Suns,1,10,15,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,78,86,1,1,20231201,PHX,DEN
+Shot Chart Detail,0022300279,28,201142,Kevin Durant,1610612756,Phoenix Suns,1,9,11,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-18,12,1,1,20231201,PHX,DEN
+Shot Chart Detail,0022300279,38,201142,Kevin Durant,1610612756,Phoenix Suns,1,7,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-9,158,1,1,20231201,PHX,DEN
+Shot Chart Detail,0022300279,264,201142,Kevin Durant,1610612756,Phoenix Suns,2,3,4,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,34,95,1,1,20231201,PHX,DEN
+Shot Chart Detail,0022300279,296,201142,Kevin Durant,1610612756,Phoenix Suns,2,0,50,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,-5,1,1,20231201,PHX,DEN
+Shot Chart Detail,0022300279,299,201142,Kevin Durant,1610612756,Phoenix Suns,2,0,28,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-91,162,1,1,20231201,PHX,DEN
+Shot Chart Detail,0022300279,302,201142,Kevin Durant,1610612756,Phoenix Suns,2,0,7,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,10,1,1,20231201,PHX,DEN
+Shot Chart Detail,0022300288,12,201142,Kevin Durant,1610612756,Phoenix Suns,1,10,43,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-44,58,1,1,20231202,PHX,MEM
+Shot Chart Detail,0022300288,109,201142,Kevin Durant,1610612756,Phoenix Suns,1,4,23,Made Shot,Fadeaway Bank shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-107,-13,1,1,20231202,PHX,MEM
+Shot Chart Detail,0022300288,115,201142,Kevin Durant,1610612756,Phoenix Suns,1,3,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-91,27,1,1,20231202,PHX,MEM
+Shot Chart Detail,0022300288,310,201142,Kevin Durant,1610612756,Phoenix Suns,2,3,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,228,163,1,1,20231202,PHX,MEM
+Shot Chart Detail,0022300288,406,201142,Kevin Durant,1610612756,Phoenix Suns,3,9,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-178,211,1,1,20231202,PHX,MEM
+Shot Chart Detail,0022300288,428,201142,Kevin Durant,1610612756,Phoenix Suns,3,8,17,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-85,165,1,1,20231202,PHX,MEM
+Shot Chart Detail,0022300288,513,201142,Kevin Durant,1610612756,Phoenix Suns,3,3,7,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,8,1,1,20231202,PHX,MEM
+Shot Chart Detail,0022300288,649,201142,Kevin Durant,1610612756,Phoenix Suns,4,6,19,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-129,15,1,1,20231202,PHX,MEM
+Shot Chart Detail,0022300288,684,201142,Kevin Durant,1610612756,Phoenix Suns,4,3,56,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-25,151,1,1,20231202,PHX,MEM
+Shot Chart Detail,0022300288,712,201142,Kevin Durant,1610612756,Phoenix Suns,4,2,4,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,2,1,1,20231202,PHX,MEM
+Shot Chart Detail,0022300317,93,201142,Kevin Durant,1610612756,Phoenix Suns,1,4,45,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,-5,1,1,20231213,PHX,BKN
+Shot Chart Detail,0022300317,114,201142,Kevin Durant,1610612756,Phoenix Suns,1,3,41,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,115,90,1,1,20231213,PHX,BKN
+Shot Chart Detail,0022300317,125,201142,Kevin Durant,1610612756,Phoenix Suns,1,2,48,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,16,53,1,1,20231213,PHX,BKN
+Shot Chart Detail,0022300317,266,201142,Kevin Durant,1610612756,Phoenix Suns,2,5,56,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,94,235,1,1,20231213,PHX,BKN
+Shot Chart Detail,0022300317,373,201142,Kevin Durant,1610612756,Phoenix Suns,3,11,0,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,28,118,1,1,20231213,PHX,BKN
+Shot Chart Detail,0022300317,381,201142,Kevin Durant,1610612756,Phoenix Suns,3,9,58,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,44,4,1,1,20231213,PHX,BKN
+Shot Chart Detail,0022300317,491,201142,Kevin Durant,1610612756,Phoenix Suns,3,1,15,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,7,1,1,20231213,PHX,BKN
+Shot Chart Detail,0022300317,569,201142,Kevin Durant,1610612756,Phoenix Suns,4,7,14,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-55,113,1,1,20231213,PHX,BKN
+Shot Chart Detail,0022300317,598,201142,Kevin Durant,1610612756,Phoenix Suns,4,4,19,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,80,158,1,1,20231213,PHX,BKN
+Shot Chart Detail,0022300333,117,201142,Kevin Durant,1610612756,Phoenix Suns,1,2,8,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,4,113,1,1,20231215,PHX,NYK
+Shot Chart Detail,0022300333,240,201142,Kevin Durant,1610612756,Phoenix Suns,2,5,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-162,197,1,1,20231215,PHX,NYK
+Shot Chart Detail,0022300333,277,201142,Kevin Durant,1610612756,Phoenix Suns,2,2,53,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,1,1,1,20231215,PHX,NYK
+Shot Chart Detail,0022300333,280,201142,Kevin Durant,1610612756,Phoenix Suns,2,2,25,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,229,16,1,1,20231215,PHX,NYK
+Shot Chart Detail,0022300333,283,201142,Kevin Durant,1610612756,Phoenix Suns,2,1,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,72,260,1,1,20231215,PHX,NYK
+Shot Chart Detail,0022300333,294,201142,Kevin Durant,1610612756,Phoenix Suns,2,1,26,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-11,112,1,1,20231215,PHX,NYK
+Shot Chart Detail,0022300333,323,201142,Kevin Durant,1610612756,Phoenix Suns,3,10,45,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,12,99,1,1,20231215,PHX,NYK
+Shot Chart Detail,0022300333,371,201142,Kevin Durant,1610612756,Phoenix Suns,3,6,6,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-37,30,1,1,20231215,PHX,NYK
+Shot Chart Detail,0022300333,418,201142,Kevin Durant,1610612756,Phoenix Suns,3,2,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-147,87,1,1,20231215,PHX,NYK
+Shot Chart Detail,0022300333,593,201142,Kevin Durant,1610612756,Phoenix Suns,4,3,14,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,-1,1,1,20231215,PHX,NYK
+Shot Chart Detail,0022300347,22,201142,Kevin Durant,1610612756,Phoenix Suns,1,10,12,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,3,1,1,20231217,PHX,WAS
+Shot Chart Detail,0022300347,45,201142,Kevin Durant,1610612756,Phoenix Suns,1,8,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,36,147,1,1,20231217,PHX,WAS
+Shot Chart Detail,0022300347,77,201142,Kevin Durant,1610612756,Phoenix Suns,1,5,36,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-6,1,1,20231217,PHX,WAS
+Shot Chart Detail,0022300347,88,201142,Kevin Durant,1610612756,Phoenix Suns,1,5,5,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,6,1,1,20231217,PHX,WAS
+Shot Chart Detail,0022300347,124,201142,Kevin Durant,1610612756,Phoenix Suns,1,2,36,Made Shot,Fadeaway Bank shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-114,37,1,1,20231217,PHX,WAS
+Shot Chart Detail,0022300347,254,201142,Kevin Durant,1610612756,Phoenix Suns,2,4,59,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,115,152,1,1,20231217,PHX,WAS
+Shot Chart Detail,0022300347,357,201142,Kevin Durant,1610612756,Phoenix Suns,3,9,36,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20231217,PHX,WAS
+Shot Chart Detail,0022300347,414,201142,Kevin Durant,1610612756,Phoenix Suns,3,6,29,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-126,169,1,1,20231217,PHX,WAS
+Shot Chart Detail,0022300347,417,201142,Kevin Durant,1610612756,Phoenix Suns,3,5,50,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,71,141,1,1,20231217,PHX,WAS
+Shot Chart Detail,0022300347,467,201142,Kevin Durant,1610612756,Phoenix Suns,3,3,23,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-168,27,1,1,20231217,PHX,WAS
+Shot Chart Detail,0022300347,675,201142,Kevin Durant,1610612756,Phoenix Suns,4,0,27,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,11,1,1,20231217,PHX,WAS
+Shot Chart Detail,0022300363,18,201142,Kevin Durant,1610612756,Phoenix Suns,1,10,10,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,78,157,1,1,20231219,POR,PHX
+Shot Chart Detail,0022300363,132,201142,Kevin Durant,1610612756,Phoenix Suns,1,2,36,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,58,34,1,1,20231219,POR,PHX
+Shot Chart Detail,0022300363,149,201142,Kevin Durant,1610612756,Phoenix Suns,1,0,56,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-11,26,1,1,20231219,POR,PHX
+Shot Chart Detail,0022300363,161,201142,Kevin Durant,1610612756,Phoenix Suns,1,0,0,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-16,140,1,1,20231219,POR,PHX
+Shot Chart Detail,0022300363,296,201142,Kevin Durant,1610612756,Phoenix Suns,2,2,59,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,15,1,1,20231219,POR,PHX
+Shot Chart Detail,0022300363,314,201142,Kevin Durant,1610612756,Phoenix Suns,2,2,15,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,6,1,1,20231219,POR,PHX
+Shot Chart Detail,0022300363,329,201142,Kevin Durant,1610612756,Phoenix Suns,2,1,23,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,16,1,1,20231219,POR,PHX
+Shot Chart Detail,0022300363,344,201142,Kevin Durant,1610612756,Phoenix Suns,2,0,59,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-192,164,1,1,20231219,POR,PHX
+Shot Chart Detail,0022300363,441,201142,Kevin Durant,1610612756,Phoenix Suns,3,4,39,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,8,1,1,20231219,POR,PHX
+Shot Chart Detail,0022300363,447,201142,Kevin Durant,1610612756,Phoenix Suns,3,4,20,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,2,1,1,20231219,POR,PHX
+Shot Chart Detail,0022300363,495,201142,Kevin Durant,1610612756,Phoenix Suns,3,0,53,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,17,159,1,1,20231219,POR,PHX
+Shot Chart Detail,0022300363,499,201142,Kevin Durant,1610612756,Phoenix Suns,3,0,23,Made Shot,Running Pull-Up Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-56,123,1,1,20231219,POR,PHX
+Shot Chart Detail,0022300363,563,201142,Kevin Durant,1610612756,Phoenix Suns,4,7,30,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,47,107,1,1,20231219,POR,PHX
+Shot Chart Detail,0022300363,609,201142,Kevin Durant,1610612756,Phoenix Suns,4,4,14,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,1,1,1,20231219,POR,PHX
+Shot Chart Detail,0022300363,624,201142,Kevin Durant,1610612756,Phoenix Suns,4,2,53,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,48,121,1,1,20231219,POR,PHX
+Shot Chart Detail,0022300363,641,201142,Kevin Durant,1610612756,Phoenix Suns,4,0,52,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,5,1,1,20231219,POR,PHX
+Shot Chart Detail,0022300387,29,201142,Kevin Durant,1610612756,Phoenix Suns,1,9,32,Made Shot,Fadeaway Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-49,53,1,1,20231222,SAC,PHX
+Shot Chart Detail,0022300387,316,201142,Kevin Durant,1610612756,Phoenix Suns,2,4,25,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,38,16,1,1,20231222,SAC,PHX
+Shot Chart Detail,0022300387,341,201142,Kevin Durant,1610612756,Phoenix Suns,2,2,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,5,265,1,1,20231222,SAC,PHX
+Shot Chart Detail,0022300387,407,201142,Kevin Durant,1610612756,Phoenix Suns,3,8,37,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,129,96,1,1,20231222,SAC,PHX
+Shot Chart Detail,0022300387,430,201142,Kevin Durant,1610612756,Phoenix Suns,3,7,27,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,0,82,1,1,20231222,SAC,PHX
+Shot Chart Detail,0022300387,438,201142,Kevin Durant,1610612756,Phoenix Suns,3,6,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,163,192,1,1,20231222,SAC,PHX
+Shot Chart Detail,0022300387,489,201142,Kevin Durant,1610612756,Phoenix Suns,3,3,25,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,6,1,1,20231222,SAC,PHX
+Shot Chart Detail,0022300387,528,201142,Kevin Durant,1610612756,Phoenix Suns,3,0,51,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,27,36,1,1,20231222,SAC,PHX
+Shot Chart Detail,0022300387,622,201142,Kevin Durant,1610612756,Phoenix Suns,4,6,55,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,61,129,1,1,20231222,SAC,PHX
+Shot Chart Detail,0022300405,31,201142,Kevin Durant,1610612756,Phoenix Suns,1,9,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-157,205,1,1,20231225,PHX,DAL
+Shot Chart Detail,0022300405,43,201142,Kevin Durant,1610612756,Phoenix Suns,1,8,41,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,92,102,1,1,20231225,PHX,DAL
+Shot Chart Detail,0022300405,354,201142,Kevin Durant,1610612756,Phoenix Suns,3,11,25,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,47,172,1,1,20231225,PHX,DAL
+Shot Chart Detail,0022300405,542,201142,Kevin Durant,1610612756,Phoenix Suns,4,11,40,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,43,31,1,1,20231225,PHX,DAL
+Shot Chart Detail,0022300418,247,201142,Kevin Durant,1610612756,Phoenix Suns,2,7,14,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-33,260,1,1,20231227,HOU,PHX
+Shot Chart Detail,0022300418,250,201142,Kevin Durant,1610612756,Phoenix Suns,2,6,38,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,10,24,1,1,20231227,HOU,PHX
+Shot Chart Detail,0022300418,271,201142,Kevin Durant,1610612756,Phoenix Suns,2,4,40,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,32,8,1,1,20231227,HOU,PHX
+Shot Chart Detail,0022300418,405,201142,Kevin Durant,1610612756,Phoenix Suns,3,7,8,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-80,159,1,1,20231227,HOU,PHX
+Shot Chart Detail,0022300418,452,201142,Kevin Durant,1610612756,Phoenix Suns,3,3,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-64,146,1,1,20231227,HOU,PHX
+Shot Chart Detail,0022300418,535,201142,Kevin Durant,1610612756,Phoenix Suns,4,10,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-203,185,1,1,20231227,HOU,PHX
+Shot Chart Detail,0022300418,608,201142,Kevin Durant,1610612756,Phoenix Suns,4,5,12,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,114,17,1,1,20231227,HOU,PHX
+Shot Chart Detail,0022300418,623,201142,Kevin Durant,1610612756,Phoenix Suns,4,2,45,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,124,107,1,1,20231227,HOU,PHX
+Shot Chart Detail,0022300418,626,201142,Kevin Durant,1610612756,Phoenix Suns,4,2,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,120,232,1,1,20231227,HOU,PHX
+Shot Chart Detail,0022300436,11,201142,Kevin Durant,1610612756,Phoenix Suns,1,11,10,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,6,147,1,1,20231229,PHX,CHA
+Shot Chart Detail,0022300436,18,201142,Kevin Durant,1610612756,Phoenix Suns,1,10,31,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,228,51,1,1,20231229,PHX,CHA
+Shot Chart Detail,0022300436,94,201142,Kevin Durant,1610612756,Phoenix Suns,1,3,33,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,102,27,1,1,20231229,PHX,CHA
+Shot Chart Detail,0022300436,184,201142,Kevin Durant,1610612756,Phoenix Suns,2,9,18,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-100,129,1,1,20231229,PHX,CHA
+Shot Chart Detail,0022300436,472,201142,Kevin Durant,1610612756,Phoenix Suns,4,11,41,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-81,104,1,1,20231229,PHX,CHA
+Shot Chart Detail,0022300436,475,201142,Kevin Durant,1610612756,Phoenix Suns,4,11,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-34,265,1,1,20231229,PHX,CHA
+Shot Chart Detail,0022300436,517,201142,Kevin Durant,1610612756,Phoenix Suns,4,7,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,47,256,1,1,20231229,PHX,CHA
+Shot Chart Detail,0022300436,526,201142,Kevin Durant,1610612756,Phoenix Suns,4,7,21,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,91,79,1,1,20231229,PHX,CHA
+Shot Chart Detail,0022300450,12,201142,Kevin Durant,1610612756,Phoenix Suns,1,11,13,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-51,88,1,1,20231231,PHX,ORL
+Shot Chart Detail,0022300450,18,201142,Kevin Durant,1610612756,Phoenix Suns,1,10,23,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-75,36,1,1,20231231,PHX,ORL
+Shot Chart Detail,0022300450,171,201142,Kevin Durant,1610612756,Phoenix Suns,2,10,10,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,23,84,1,1,20231231,PHX,ORL
+Shot Chart Detail,0022300450,183,201142,Kevin Durant,1610612756,Phoenix Suns,2,9,10,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1,10,1,1,20231231,PHX,ORL
+Shot Chart Detail,0022300450,219,201142,Kevin Durant,1610612756,Phoenix Suns,2,6,39,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,7,1,1,20231231,PHX,ORL
+Shot Chart Detail,0022300450,374,201142,Kevin Durant,1610612756,Phoenix Suns,3,9,43,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-238,-23,1,1,20231231,PHX,ORL
+Shot Chart Detail,0022300450,395,201142,Kevin Durant,1610612756,Phoenix Suns,3,7,23,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,5,1,1,20231231,PHX,ORL
+Shot Chart Detail,0022300450,420,201142,Kevin Durant,1610612756,Phoenix Suns,3,5,18,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,6,168,1,1,20231231,PHX,ORL
+Shot Chart Detail,0022300450,430,201142,Kevin Durant,1610612756,Phoenix Suns,3,4,16,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-42,99,1,1,20231231,PHX,ORL
+Shot Chart Detail,0022300450,497,201142,Kevin Durant,1610612756,Phoenix Suns,4,11,44,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,173,26,1,1,20231231,PHX,ORL
+Shot Chart Detail,0022300450,502,201142,Kevin Durant,1610612756,Phoenix Suns,4,10,28,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,10,153,1,1,20231231,PHX,ORL
+Shot Chart Detail,0022300450,559,201142,Kevin Durant,1610612756,Phoenix Suns,4,5,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,123,219,1,1,20231231,PHX,ORL
+Shot Chart Detail,0022300503,36,201142,Kevin Durant,1610612756,Phoenix Suns,1,10,1,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,4,1,1,20240107,PHX,MEM
+Shot Chart Detail,0022300503,99,201142,Kevin Durant,1610612756,Phoenix Suns,1,5,45,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-21,98,1,1,20240107,PHX,MEM
+Shot Chart Detail,0022300503,256,201142,Kevin Durant,1610612756,Phoenix Suns,2,7,3,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,110,141,1,1,20240107,PHX,MEM
+Shot Chart Detail,0022300503,260,201142,Kevin Durant,1610612756,Phoenix Suns,2,6,46,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,31,115,1,1,20240107,PHX,MEM
+Shot Chart Detail,0022300503,363,201142,Kevin Durant,1610612756,Phoenix Suns,2,0,20,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,1,22,1,1,20240107,PHX,MEM
+Shot Chart Detail,0022300503,381,201142,Kevin Durant,1610612756,Phoenix Suns,3,10,52,Made Shot,Turnaround Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,36,17,1,1,20240107,PHX,MEM
+Shot Chart Detail,0022300503,423,201142,Kevin Durant,1610612756,Phoenix Suns,3,7,13,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,89,17,1,1,20240107,PHX,MEM
+Shot Chart Detail,0022300503,642,201142,Kevin Durant,1610612756,Phoenix Suns,4,7,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-191,29,1,1,20240107,PHX,MEM
+Shot Chart Detail,0022300503,652,201142,Kevin Durant,1610612756,Phoenix Suns,4,7,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,2,1,1,20240107,PHX,MEM
+Shot Chart Detail,0022300503,661,201142,Kevin Durant,1610612756,Phoenix Suns,4,6,20,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,82,86,1,1,20240107,PHX,MEM
+Shot Chart Detail,0022300503,711,201142,Kevin Durant,1610612756,Phoenix Suns,4,2,49,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-28,125,1,1,20240107,PHX,MEM
+Shot Chart Detail,0022300511,50,201142,Kevin Durant,1610612756,Phoenix Suns,1,7,55,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,118,130,1,1,20240108,LAC,PHX
+Shot Chart Detail,0022300511,62,201142,Kevin Durant,1610612756,Phoenix Suns,1,6,38,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-4,109,1,1,20240108,LAC,PHX
+Shot Chart Detail,0022300511,92,201142,Kevin Durant,1610612756,Phoenix Suns,1,3,14,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-45,278,1,1,20240108,LAC,PHX
+Shot Chart Detail,0022300511,197,201142,Kevin Durant,1610612756,Phoenix Suns,2,8,15,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,14,77,123,1,1,20240108,LAC,PHX
+Shot Chart Detail,0022300511,208,201142,Kevin Durant,1610612756,Phoenix Suns,2,7,35,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-12,34,1,1,20240108,LAC,PHX
+Shot Chart Detail,0022300511,210,201142,Kevin Durant,1610612756,Phoenix Suns,2,7,2,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-87,275,1,1,20240108,LAC,PHX
+Shot Chart Detail,0022300511,283,201142,Kevin Durant,1610612756,Phoenix Suns,2,1,17,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,21,69,1,1,20240108,LAC,PHX
+Shot Chart Detail,0022300511,375,201142,Kevin Durant,1610612756,Phoenix Suns,3,5,35,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,18,82,1,1,20240108,LAC,PHX
+Shot Chart Detail,0022300511,477,201142,Kevin Durant,1610612756,Phoenix Suns,4,11,19,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-2,262,1,1,20240108,LAC,PHX
+Shot Chart Detail,0022300511,531,201142,Kevin Durant,1610612756,Phoenix Suns,4,7,1,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,13,1,1,20240108,LAC,PHX
+Shot Chart Detail,0022300531,12,201142,Kevin Durant,1610612756,Phoenix Suns,1,11,13,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-180,178,1,1,20240111,LAL,PHX
+Shot Chart Detail,0022300531,63,201142,Kevin Durant,1610612756,Phoenix Suns,1,5,53,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,23,84,1,1,20240111,LAL,PHX
+Shot Chart Detail,0022300531,202,201142,Kevin Durant,1610612756,Phoenix Suns,2,9,8,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,123,126,1,1,20240111,LAL,PHX
+Shot Chart Detail,0022300531,347,201142,Kevin Durant,1610612756,Phoenix Suns,2,0,2,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-71,149,1,1,20240111,LAL,PHX
+Shot Chart Detail,0022300531,374,201142,Kevin Durant,1610612756,Phoenix Suns,3,10,45,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-195,168,1,1,20240111,LAL,PHX
+Shot Chart Detail,0022300531,424,201142,Kevin Durant,1610612756,Phoenix Suns,3,6,39,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,10,1,1,20240111,LAL,PHX
+Shot Chart Detail,0022300531,543,201142,Kevin Durant,1610612756,Phoenix Suns,4,9,53,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,13,38,1,1,20240111,LAL,PHX
+Shot Chart Detail,0022300554,83,201142,Kevin Durant,1610612756,Phoenix Suns,1,5,15,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-36,43,1,1,20240114,POR,PHX
+Shot Chart Detail,0022300554,170,201142,Kevin Durant,1610612756,Phoenix Suns,2,11,26,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,-10,1,1,20240114,POR,PHX
+Shot Chart Detail,0022300554,191,201142,Kevin Durant,1610612756,Phoenix Suns,2,9,18,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,10,1,1,20240114,POR,PHX
+Shot Chart Detail,0022300554,222,201142,Kevin Durant,1610612756,Phoenix Suns,2,7,23,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-91,114,1,1,20240114,POR,PHX
+Shot Chart Detail,0022300554,512,201142,Kevin Durant,1610612756,Phoenix Suns,4,10,31,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,26,155,1,1,20240114,POR,PHX
+Shot Chart Detail,0022300554,544,201142,Kevin Durant,1610612756,Phoenix Suns,4,8,17,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-17,12,1,1,20240114,POR,PHX
+Shot Chart Detail,0022300554,589,201142,Kevin Durant,1610612756,Phoenix Suns,4,4,29,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,39,1,1,20240114,POR,PHX
+Shot Chart Detail,0022300554,622,201142,Kevin Durant,1610612756,Phoenix Suns,4,1,19,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,87,138,1,1,20240114,POR,PHX
+Shot Chart Detail,0022300567,155,201142,Kevin Durant,1610612756,Phoenix Suns,2,11,40,Made Shot,Running Pull-Up Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,1,169,1,1,20240116,PHX,SAC
+Shot Chart Detail,0022300567,343,201142,Kevin Durant,1610612756,Phoenix Suns,3,11,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-121,218,1,1,20240116,PHX,SAC
+Shot Chart Detail,0022300567,396,201142,Kevin Durant,1610612756,Phoenix Suns,3,6,14,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,116,129,1,1,20240116,PHX,SAC
+Shot Chart Detail,0022300567,508,201142,Kevin Durant,1610612756,Phoenix Suns,4,10,37,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-94,250,1,1,20240116,PHX,SAC
+Shot Chart Detail,0022300567,593,201142,Kevin Durant,1610612756,Phoenix Suns,4,4,39,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,1,1,1,20240116,PHX,SAC
+Shot Chart Detail,0022300567,600,201142,Kevin Durant,1610612756,Phoenix Suns,4,4,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,150,248,1,1,20240116,PHX,SAC
+Shot Chart Detail,0022300567,619,201142,Kevin Durant,1610612756,Phoenix Suns,4,2,33,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,223,132,1,1,20240116,PHX,SAC
+Shot Chart Detail,0022300588,39,201142,Kevin Durant,1610612756,Phoenix Suns,1,9,7,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,141,48,1,1,20240119,NOP,PHX
+Shot Chart Detail,0022300588,68,201142,Kevin Durant,1610612756,Phoenix Suns,1,6,23,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-36,155,1,1,20240119,NOP,PHX
+Shot Chart Detail,0022300588,85,201142,Kevin Durant,1610612756,Phoenix Suns,1,4,47,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-4,61,1,1,20240119,NOP,PHX
+Shot Chart Detail,0022300588,224,201142,Kevin Durant,1610612756,Phoenix Suns,2,7,21,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,28,96,1,1,20240119,NOP,PHX
+Shot Chart Detail,0022300588,351,201142,Kevin Durant,1610612756,Phoenix Suns,2,0,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,146,205,1,1,20240119,NOP,PHX
+Shot Chart Detail,0022300588,378,201142,Kevin Durant,1610612756,Phoenix Suns,3,10,56,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,4,1,1,20240119,NOP,PHX
+Shot Chart Detail,0022300588,388,201142,Kevin Durant,1610612756,Phoenix Suns,3,9,49,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-61,160,1,1,20240119,NOP,PHX
+Shot Chart Detail,0022300588,417,201142,Kevin Durant,1610612756,Phoenix Suns,3,8,10,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,151,1,1,1,20240119,NOP,PHX
+Shot Chart Detail,0022300588,474,201142,Kevin Durant,1610612756,Phoenix Suns,3,3,14,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,123,106,1,1,20240119,NOP,PHX
+Shot Chart Detail,0022300588,536,201142,Kevin Durant,1610612756,Phoenix Suns,4,10,32,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-6,133,1,1,20240119,NOP,PHX
+Shot Chart Detail,0022300588,584,201142,Kevin Durant,1610612756,Phoenix Suns,4,6,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,54,251,1,1,20240119,NOP,PHX
+Shot Chart Detail,0022300604,10,201142,Kevin Durant,1610612756,Phoenix Suns,1,11,10,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,92,7,1,1,20240121,PHX,IND
+Shot Chart Detail,0022300604,80,201142,Kevin Durant,1610612756,Phoenix Suns,1,6,28,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,-5,1,1,20240121,PHX,IND
+Shot Chart Detail,0022300604,110,201142,Kevin Durant,1610612756,Phoenix Suns,1,4,10,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,4,1,1,20240121,PHX,IND
+Shot Chart Detail,0022300604,216,201142,Kevin Durant,1610612756,Phoenix Suns,2,9,34,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-1,23,1,1,20240121,PHX,IND
+Shot Chart Detail,0022300604,265,201142,Kevin Durant,1610612756,Phoenix Suns,2,7,14,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,0,1,1,20240121,PHX,IND
+Shot Chart Detail,0022300604,273,201142,Kevin Durant,1610612756,Phoenix Suns,2,6,20,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-3,1,1,20240121,PHX,IND
+Shot Chart Detail,0022300604,280,201142,Kevin Durant,1610612756,Phoenix Suns,2,5,28,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,12,1,1,20240121,PHX,IND
+Shot Chart Detail,0022300604,284,201142,Kevin Durant,1610612756,Phoenix Suns,2,5,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,77,249,1,1,20240121,PHX,IND
+Shot Chart Detail,0022300604,333,201142,Kevin Durant,1610612756,Phoenix Suns,2,2,50,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,2,1,1,20240121,PHX,IND
+Shot Chart Detail,0022300604,395,201142,Kevin Durant,1610612756,Phoenix Suns,3,9,46,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,74,129,1,1,20240121,PHX,IND
+Shot Chart Detail,0022300604,455,201142,Kevin Durant,1610612756,Phoenix Suns,3,5,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-173,171,1,1,20240121,PHX,IND
+Shot Chart Detail,0022300604,459,201142,Kevin Durant,1610612756,Phoenix Suns,3,4,54,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,39,171,1,1,20240121,PHX,IND
+Shot Chart Detail,0022300604,528,201142,Kevin Durant,1610612756,Phoenix Suns,4,11,46,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-108,19,1,1,20240121,PHX,IND
+Shot Chart Detail,0022300604,535,201142,Kevin Durant,1610612756,Phoenix Suns,4,10,29,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,153,135,1,1,20240121,PHX,IND
+Shot Chart Detail,0022300604,550,201142,Kevin Durant,1610612756,Phoenix Suns,4,8,58,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-13,114,1,1,20240121,PHX,IND
+Shot Chart Detail,0022300604,556,201142,Kevin Durant,1610612756,Phoenix Suns,4,8,11,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,61,100,1,1,20240121,PHX,IND
+Shot Chart Detail,0022300604,570,201142,Kevin Durant,1610612756,Phoenix Suns,4,7,29,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-97,26,1,1,20240121,PHX,IND
+Shot Chart Detail,0022300604,632,201142,Kevin Durant,1610612756,Phoenix Suns,4,2,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-208,143,1,1,20240121,PHX,IND
+Shot Chart Detail,0022300612,25,201142,Kevin Durant,1610612756,Phoenix Suns,1,9,33,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,21,184,1,1,20240122,PHX,CHI
+Shot Chart Detail,0022300612,51,201142,Kevin Durant,1610612756,Phoenix Suns,1,6,47,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,86,117,1,1,20240122,PHX,CHI
+Shot Chart Detail,0022300612,155,201142,Kevin Durant,1610612756,Phoenix Suns,2,10,49,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-1,87,1,1,20240122,PHX,CHI
+Shot Chart Detail,0022300612,170,201142,Kevin Durant,1610612756,Phoenix Suns,2,9,57,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,1,34,1,1,20240122,PHX,CHI
+Shot Chart Detail,0022300612,366,201142,Kevin Durant,1610612756,Phoenix Suns,3,6,34,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,-6,1,1,20240122,PHX,CHI
+Shot Chart Detail,0022300612,393,201142,Kevin Durant,1610612756,Phoenix Suns,3,4,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,210,175,1,1,20240122,PHX,CHI
+Shot Chart Detail,0022300612,397,201142,Kevin Durant,1610612756,Phoenix Suns,3,4,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,25,258,1,1,20240122,PHX,CHI
+Shot Chart Detail,0022300612,444,201142,Kevin Durant,1610612756,Phoenix Suns,3,1,18,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-51,128,1,1,20240122,PHX,CHI
+Shot Chart Detail,0022300612,461,201142,Kevin Durant,1610612756,Phoenix Suns,3,0,7,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,127,153,1,1,20240122,PHX,CHI
+Shot Chart Detail,0022300612,517,201142,Kevin Durant,1610612756,Phoenix Suns,4,8,8,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,120,239,1,1,20240122,PHX,CHI
+Shot Chart Detail,0022300612,521,201142,Kevin Durant,1610612756,Phoenix Suns,4,7,25,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,141,47,1,1,20240122,PHX,CHI
+Shot Chart Detail,0022300612,533,201142,Kevin Durant,1610612756,Phoenix Suns,4,6,56,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,138,22,1,1,20240122,PHX,CHI
+Shot Chart Detail,0022300612,544,201142,Kevin Durant,1610612756,Phoenix Suns,4,5,54,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,11,1,1,20240122,PHX,CHI
+Shot Chart Detail,0022300612,563,201142,Kevin Durant,1610612756,Phoenix Suns,4,4,1,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-165,212,1,1,20240122,PHX,CHI
+Shot Chart Detail,0022300612,590,201142,Kevin Durant,1610612756,Phoenix Suns,4,0,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,22,273,1,1,20240122,PHX,CHI
+Shot Chart Detail,0022300612,602,201142,Kevin Durant,1610612756,Phoenix Suns,4,0,1,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-105,139,1,1,20240122,PHX,CHI
+Shot Chart Detail,0022300625,52,201142,Kevin Durant,1610612756,Phoenix Suns,1,7,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,17,1,1,20240124,DAL,PHX
+Shot Chart Detail,0022300625,79,201142,Kevin Durant,1610612756,Phoenix Suns,1,6,3,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,83,153,1,1,20240124,DAL,PHX
+Shot Chart Detail,0022300625,388,201142,Kevin Durant,1610612756,Phoenix Suns,3,10,38,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,27,0,1,1,20240124,DAL,PHX
+Shot Chart Detail,0022300625,563,201142,Kevin Durant,1610612756,Phoenix Suns,4,9,42,Made Shot,Running Pull-Up Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-77,21,1,1,20240124,DAL,PHX
+Shot Chart Detail,0022300636,55,201142,Kevin Durant,1610612756,Phoenix Suns,1,6,46,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,15,67,136,1,1,20240126,IND,PHX
+Shot Chart Detail,0022300636,61,201142,Kevin Durant,1610612756,Phoenix Suns,1,5,34,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-51,121,1,1,20240126,IND,PHX
+Shot Chart Detail,0022300636,193,201142,Kevin Durant,1610612756,Phoenix Suns,2,8,45,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-103,61,1,1,20240126,IND,PHX
+Shot Chart Detail,0022300636,214,201142,Kevin Durant,1610612756,Phoenix Suns,2,8,2,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-43,87,1,1,20240126,IND,PHX
+Shot Chart Detail,0022300636,356,201142,Kevin Durant,1610612756,Phoenix Suns,3,11,29,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,11,1,1,20240126,IND,PHX
+Shot Chart Detail,0022300636,400,201142,Kevin Durant,1610612756,Phoenix Suns,3,7,51,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-175,20,1,1,20240126,IND,PHX
+Shot Chart Detail,0022300636,420,201142,Kevin Durant,1610612756,Phoenix Suns,3,5,43,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,16,158,1,1,20240126,IND,PHX
+Shot Chart Detail,0022300636,509,201142,Kevin Durant,1610612756,Phoenix Suns,4,11,40,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,131,58,1,1,20240126,IND,PHX
+Shot Chart Detail,0022300636,561,201142,Kevin Durant,1610612756,Phoenix Suns,4,6,57,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,125,215,1,1,20240126,IND,PHX
+Shot Chart Detail,0022300655,56,201142,Kevin Durant,1610612756,Phoenix Suns,1,6,53,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-1,211,1,1,20240128,ORL,PHX
+Shot Chart Detail,0022300655,178,201142,Kevin Durant,1610612756,Phoenix Suns,2,11,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-48,167,1,1,20240128,ORL,PHX
+Shot Chart Detail,0022300655,312,201142,Kevin Durant,1610612756,Phoenix Suns,2,1,5,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-36,144,1,1,20240128,ORL,PHX
+Shot Chart Detail,0022300655,353,201142,Kevin Durant,1610612756,Phoenix Suns,3,9,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-146,72,1,1,20240128,ORL,PHX
+Shot Chart Detail,0022300655,375,201142,Kevin Durant,1610612756,Phoenix Suns,3,6,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,50,192,1,1,20240128,ORL,PHX
+Shot Chart Detail,0022300655,495,201142,Kevin Durant,1610612756,Phoenix Suns,4,11,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,33,260,1,1,20240128,ORL,PHX
+Shot Chart Detail,0022300655,507,201142,Kevin Durant,1610612756,Phoenix Suns,4,10,10,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,113,155,1,1,20240128,ORL,PHX
+Shot Chart Detail,0022300661,39,201142,Kevin Durant,1610612756,Phoenix Suns,1,8,27,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-2,157,1,1,20240129,MIA,PHX
+Shot Chart Detail,0022300661,198,201142,Kevin Durant,1610612756,Phoenix Suns,2,9,54,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-146,18,1,1,20240129,MIA,PHX
+Shot Chart Detail,0022300661,237,201142,Kevin Durant,1610612756,Phoenix Suns,2,7,6,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,12,70,105,1,1,20240129,MIA,PHX
+Shot Chart Detail,0022300661,309,201142,Kevin Durant,1610612756,Phoenix Suns,2,2,33,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-98,79,1,1,20240129,MIA,PHX
+Shot Chart Detail,0022300661,354,201142,Kevin Durant,1610612756,Phoenix Suns,3,11,25,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,107,106,1,1,20240129,MIA,PHX
+Shot Chart Detail,0022300661,450,201142,Kevin Durant,1610612756,Phoenix Suns,3,4,32,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-134,13,1,1,20240129,MIA,PHX
+Shot Chart Detail,0022300661,560,201142,Kevin Durant,1610612756,Phoenix Suns,4,9,3,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,244,19,1,1,20240129,MIA,PHX
+Shot Chart Detail,0022300661,597,201142,Kevin Durant,1610612756,Phoenix Suns,4,5,27,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,-10,1,1,20240129,MIA,PHX
+Shot Chart Detail,0022300677,100,201142,Kevin Durant,1610612756,Phoenix Suns,1,4,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,6,246,1,1,20240131,BKN,PHX
+Shot Chart Detail,0022300677,183,201142,Kevin Durant,1610612756,Phoenix Suns,2,10,47,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,161,-1,1,1,20240131,BKN,PHX
+Shot Chart Detail,0022300677,205,201142,Kevin Durant,1610612756,Phoenix Suns,2,8,29,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,65,200,1,1,20240131,BKN,PHX
+Shot Chart Detail,0022300677,207,201142,Kevin Durant,1610612756,Phoenix Suns,2,7,55,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-62,47,1,1,20240131,BKN,PHX
+Shot Chart Detail,0022300677,397,201142,Kevin Durant,1610612756,Phoenix Suns,3,5,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,119,153,1,1,20240131,BKN,PHX
+Shot Chart Detail,0022300677,425,201142,Kevin Durant,1610612756,Phoenix Suns,3,4,0,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,16,262,1,1,20240131,BKN,PHX
+Shot Chart Detail,0022300677,428,201142,Kevin Durant,1610612756,Phoenix Suns,3,3,36,Made Shot,Running Pull-Up Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,18,33,1,1,20240131,BKN,PHX
+Shot Chart Detail,0022300677,441,201142,Kevin Durant,1610612756,Phoenix Suns,3,2,24,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-62,48,1,1,20240131,BKN,PHX
+Shot Chart Detail,0022300677,590,201142,Kevin Durant,1610612756,Phoenix Suns,4,5,44,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,17,1,1,20240131,BKN,PHX
+Shot Chart Detail,0022300677,605,201142,Kevin Durant,1610612756,Phoenix Suns,4,4,8,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,9,18,1,1,20240131,BKN,PHX
+Shot Chart Detail,0022300690,44,201142,Kevin Durant,1610612756,Phoenix Suns,1,8,29,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,3,1,1,20240202,ATL,PHX
+Shot Chart Detail,0022300690,54,201142,Kevin Durant,1610612756,Phoenix Suns,1,7,58,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,1,1,1,20240202,ATL,PHX
+Shot Chart Detail,0022300690,90,201142,Kevin Durant,1610612756,Phoenix Suns,1,4,57,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,45,120,1,1,20240202,ATL,PHX
+Shot Chart Detail,0022300690,158,201142,Kevin Durant,1610612756,Phoenix Suns,2,11,7,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-25,250,1,1,20240202,ATL,PHX
+Shot Chart Detail,0022300690,174,201142,Kevin Durant,1610612756,Phoenix Suns,2,9,34,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,12,-70,100,1,1,20240202,ATL,PHX
+Shot Chart Detail,0022300690,207,201142,Kevin Durant,1610612756,Phoenix Suns,2,7,4,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,4,1,1,20240202,ATL,PHX
+Shot Chart Detail,0022300690,285,201142,Kevin Durant,1610612756,Phoenix Suns,2,2,10,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,85,241,1,1,20240202,ATL,PHX
+Shot Chart Detail,0022300690,407,201142,Kevin Durant,1610612756,Phoenix Suns,3,4,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-173,200,1,1,20240202,ATL,PHX
+Shot Chart Detail,0022300690,529,201142,Kevin Durant,1610612756,Phoenix Suns,4,9,12,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,10,1,1,20240202,ATL,PHX
+Shot Chart Detail,0022300690,535,201142,Kevin Durant,1610612756,Phoenix Suns,4,8,22,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-25,260,1,1,20240202,ATL,PHX
+Shot Chart Detail,0022300690,566,201142,Kevin Durant,1610612756,Phoenix Suns,4,5,52,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,17,1,1,20240202,ATL,PHX
+Shot Chart Detail,0022300690,577,201142,Kevin Durant,1610612756,Phoenix Suns,4,4,45,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-28,101,1,1,20240202,ATL,PHX
+Shot Chart Detail,0022300690,597,201142,Kevin Durant,1610612756,Phoenix Suns,4,3,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,78,243,1,1,20240202,ATL,PHX
+Shot Chart Detail,0022300690,607,201142,Kevin Durant,1610612756,Phoenix Suns,4,2,14,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-4,21,1,1,20240202,ATL,PHX
+Shot Chart Detail,0022300705,20,201142,Kevin Durant,1610612756,Phoenix Suns,1,10,29,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,184,194,1,1,20240204,WAS,PHX
+Shot Chart Detail,0022300705,82,201142,Kevin Durant,1610612756,Phoenix Suns,1,4,58,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-129,19,1,1,20240204,WAS,PHX
+Shot Chart Detail,0022300705,165,201142,Kevin Durant,1610612756,Phoenix Suns,2,11,11,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-170,4,1,1,20240204,WAS,PHX
+Shot Chart Detail,0022300705,252,201142,Kevin Durant,1610612756,Phoenix Suns,2,6,10,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-126,125,1,1,20240204,WAS,PHX
+Shot Chart Detail,0022300705,273,201142,Kevin Durant,1610612756,Phoenix Suns,2,4,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-243,124,1,1,20240204,WAS,PHX
+Shot Chart Detail,0022300705,406,201142,Kevin Durant,1610612756,Phoenix Suns,3,8,5,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,167,199,1,1,20240204,WAS,PHX
+Shot Chart Detail,0022300705,461,201142,Kevin Durant,1610612756,Phoenix Suns,3,4,43,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,26,27,1,1,20240204,WAS,PHX
+Shot Chart Detail,0022300725,97,201142,Kevin Durant,1610612756,Phoenix Suns,1,4,26,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-135,27,1,1,20240206,PHX,MIL
+Shot Chart Detail,0022300725,163,201142,Kevin Durant,1610612756,Phoenix Suns,2,11,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,152,41,1,1,20240206,PHX,MIL
+Shot Chart Detail,0022300725,219,201142,Kevin Durant,1610612756,Phoenix Suns,2,7,33,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-11,84,1,1,20240206,PHX,MIL
+Shot Chart Detail,0022300725,304,201142,Kevin Durant,1610612756,Phoenix Suns,2,1,19,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,6,1,1,20240206,PHX,MIL
+Shot Chart Detail,0022300725,327,201142,Kevin Durant,1610612756,Phoenix Suns,3,11,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-108,112,1,1,20240206,PHX,MIL
+Shot Chart Detail,0022300725,501,201142,Kevin Durant,1610612756,Phoenix Suns,4,10,4,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,39,26,1,1,20240206,PHX,MIL
+Shot Chart Detail,0022300725,521,201142,Kevin Durant,1610612756,Phoenix Suns,4,8,51,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,6,26,1,1,20240206,PHX,MIL
+Shot Chart Detail,0022300725,580,201142,Kevin Durant,1610612756,Phoenix Suns,4,5,36,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,138,1,1,1,20240206,PHX,MIL
+Shot Chart Detail,0022300725,588,201142,Kevin Durant,1610612756,Phoenix Suns,4,4,48,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-67,132,1,1,20240206,PHX,MIL
+Shot Chart Detail,0022300725,600,201142,Kevin Durant,1610612756,Phoenix Suns,4,3,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,174,193,1,1,20240206,PHX,MIL
+Shot Chart Detail,0022300725,653,201142,Kevin Durant,1610612756,Phoenix Suns,4,0,22,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,7,1,1,20240206,PHX,MIL
+Shot Chart Detail,0022300739,7,201142,Kevin Durant,1610612756,Phoenix Suns,1,11,41,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-97,98,1,1,20240208,PHX,UTA
+Shot Chart Detail,0022300739,17,201142,Kevin Durant,1610612756,Phoenix Suns,1,10,40,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-115,234,1,1,20240208,PHX,UTA
+Shot Chart Detail,0022300739,21,201142,Kevin Durant,1610612756,Phoenix Suns,1,10,20,Made Shot,Running Alley Oop Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,3,1,1,20240208,PHX,UTA
+Shot Chart Detail,0022300739,47,201142,Kevin Durant,1610612756,Phoenix Suns,1,8,4,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,-6,1,1,20240208,PHX,UTA
+Shot Chart Detail,0022300739,69,201142,Kevin Durant,1610612756,Phoenix Suns,1,6,55,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,3,1,1,20240208,PHX,UTA
+Shot Chart Detail,0022300739,120,201142,Kevin Durant,1610612756,Phoenix Suns,1,3,33,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-58,13,1,1,20240208,PHX,UTA
+Shot Chart Detail,0022300739,132,201142,Kevin Durant,1610612756,Phoenix Suns,1,2,30,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-58,242,1,1,20240208,PHX,UTA
+Shot Chart Detail,0022300739,135,201142,Kevin Durant,1610612756,Phoenix Suns,1,2,3,Made Shot,Running Pull-Up Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,159,36,1,1,20240208,PHX,UTA
+Shot Chart Detail,0022300739,293,201142,Kevin Durant,1610612756,Phoenix Suns,2,3,22,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-98,72,1,1,20240208,PHX,UTA
+Shot Chart Detail,0022300739,308,201142,Kevin Durant,1610612756,Phoenix Suns,2,2,11,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,12,113,1,1,20240208,PHX,UTA
+Shot Chart Detail,0022300739,395,201142,Kevin Durant,1610612756,Phoenix Suns,3,6,53,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-58,62,1,1,20240208,PHX,UTA
+Shot Chart Detail,0022300739,451,201142,Kevin Durant,1610612756,Phoenix Suns,3,2,50,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,12,1,1,20240208,PHX,UTA
+Shot Chart Detail,0022300739,480,201142,Kevin Durant,1610612756,Phoenix Suns,3,0,3,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-131,132,1,1,20240208,PHX,UTA
+Shot Chart Detail,0022300739,631,201142,Kevin Durant,1610612756,Phoenix Suns,4,3,33,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-62,132,1,1,20240208,PHX,UTA
+Shot Chart Detail,0022300757,10,201142,Kevin Durant,1610612756,Phoenix Suns,1,11,14,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,5,1,1,20240210,GSW,PHX
+Shot Chart Detail,0022300757,23,201142,Kevin Durant,1610612756,Phoenix Suns,1,10,27,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-82,232,1,1,20240210,GSW,PHX
+Shot Chart Detail,0022300757,205,201142,Kevin Durant,1610612756,Phoenix Suns,2,10,47,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,64,30,1,1,20240210,GSW,PHX
+Shot Chart Detail,0022300757,224,201142,Kevin Durant,1610612756,Phoenix Suns,2,9,17,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-38,55,1,1,20240210,GSW,PHX
+Shot Chart Detail,0022300757,290,201142,Kevin Durant,1610612756,Phoenix Suns,2,5,45,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,119,117,1,1,20240210,GSW,PHX
+Shot Chart Detail,0022300757,352,201142,Kevin Durant,1610612756,Phoenix Suns,2,1,36,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,13,-70,110,1,1,20240210,GSW,PHX
+Shot Chart Detail,0022300757,605,201142,Kevin Durant,1610612756,Phoenix Suns,4,10,41,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-110,132,1,1,20240210,GSW,PHX
+Shot Chart Detail,0022300757,637,201142,Kevin Durant,1610612756,Phoenix Suns,4,7,42,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-38,29,1,1,20240210,GSW,PHX
+Shot Chart Detail,0022300757,658,201142,Kevin Durant,1610612756,Phoenix Suns,4,7,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,104,254,1,1,20240210,GSW,PHX
+Shot Chart Detail,0022300757,729,201142,Kevin Durant,1610612756,Phoenix Suns,4,4,30,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-124,127,1,1,20240210,GSW,PHX
+Shot Chart Detail,0022300774,23,201142,Kevin Durant,1610612756,Phoenix Suns,1,10,21,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,100,110,1,1,20240213,PHX,SAC
+Shot Chart Detail,0022300774,43,201142,Kevin Durant,1610612756,Phoenix Suns,1,8,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,83,237,1,1,20240213,PHX,SAC
+Shot Chart Detail,0022300774,184,201142,Kevin Durant,1610612756,Phoenix Suns,2,11,21,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-142,22,1,1,20240213,PHX,SAC
+Shot Chart Detail,0022300774,202,201142,Kevin Durant,1610612756,Phoenix Suns,2,9,58,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,123,10,1,1,20240213,PHX,SAC
+Shot Chart Detail,0022300774,353,201142,Kevin Durant,1610612756,Phoenix Suns,2,0,17,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,6,1,1,20240213,PHX,SAC
+Shot Chart Detail,0022300774,401,201142,Kevin Durant,1610612756,Phoenix Suns,3,9,32,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,49,88,1,1,20240213,PHX,SAC
+Shot Chart Detail,0022300774,419,201142,Kevin Durant,1610612756,Phoenix Suns,3,8,26,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-59,63,1,1,20240213,PHX,SAC
+Shot Chart Detail,0022300774,567,201142,Kevin Durant,1610612756,Phoenix Suns,4,11,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-44,251,1,1,20240213,PHX,SAC
+Shot Chart Detail,0022300774,592,201142,Kevin Durant,1610612756,Phoenix Suns,4,9,17,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,173,80,1,1,20240213,PHX,SAC
+Shot Chart Detail,0022300774,648,201142,Kevin Durant,1610612756,Phoenix Suns,4,4,38,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,121,109,1,1,20240213,PHX,SAC
+Shot Chart Detail,0022300774,666,201142,Kevin Durant,1610612756,Phoenix Suns,4,3,6,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,116,121,1,1,20240213,PHX,SAC
+Shot Chart Detail,0022300787,101,201142,Kevin Durant,1610612756,Phoenix Suns,1,6,13,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-69,24,1,1,20240214,PHX,DET
+Shot Chart Detail,0022300787,171,201142,Kevin Durant,1610612756,Phoenix Suns,1,2,30,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,49,100,1,1,20240214,PHX,DET
+Shot Chart Detail,0022300787,374,201142,Kevin Durant,1610612756,Phoenix Suns,2,1,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,40,159,1,1,20240214,PHX,DET
+Shot Chart Detail,0022300787,430,201142,Kevin Durant,1610612756,Phoenix Suns,3,11,37,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,92,236,1,1,20240214,PHX,DET
+Shot Chart Detail,0022300787,463,201142,Kevin Durant,1610612756,Phoenix Suns,3,9,8,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,25,11,1,1,20240214,PHX,DET
+Shot Chart Detail,0022300787,473,201142,Kevin Durant,1610612756,Phoenix Suns,3,7,54,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-29,97,1,1,20240214,PHX,DET
+Shot Chart Detail,0022300787,481,201142,Kevin Durant,1610612756,Phoenix Suns,3,7,31,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-11,44,1,1,20240214,PHX,DET
+Shot Chart Detail,0022300787,585,201142,Kevin Durant,1610612756,Phoenix Suns,3,1,55,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-170,81,1,1,20240214,PHX,DET
+Shot Chart Detail,0022300796,7,201142,Kevin Durant,1610612756,Phoenix Suns,1,11,40,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,13,94,1,1,20240222,DAL,PHX
+Shot Chart Detail,0022300796,61,201142,Kevin Durant,1610612756,Phoenix Suns,1,6,39,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,173,108,1,1,20240222,DAL,PHX
+Shot Chart Detail,0022300796,181,201142,Kevin Durant,1610612756,Phoenix Suns,2,10,16,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,103,138,1,1,20240222,DAL,PHX
+Shot Chart Detail,0022300796,195,201142,Kevin Durant,1610612756,Phoenix Suns,2,8,37,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,107,127,1,1,20240222,DAL,PHX
+Shot Chart Detail,0022300796,244,201142,Kevin Durant,1610612756,Phoenix Suns,2,5,52,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-50,61,1,1,20240222,DAL,PHX
+Shot Chart Detail,0022300796,394,201142,Kevin Durant,1610612756,Phoenix Suns,3,7,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-188,163,1,1,20240222,DAL,PHX
+Shot Chart Detail,0022300796,542,201142,Kevin Durant,1610612756,Phoenix Suns,4,10,16,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-27,86,1,1,20240222,DAL,PHX
+Shot Chart Detail,0022300796,557,201142,Kevin Durant,1610612756,Phoenix Suns,4,9,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,56,246,1,1,20240222,DAL,PHX
+Shot Chart Detail,0022300796,632,201142,Kevin Durant,1610612756,Phoenix Suns,4,3,2,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,7,1,1,20240222,DAL,PHX
+Shot Chart Detail,0022300806,62,201142,Kevin Durant,1610612756,Phoenix Suns,1,7,14,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,25,129,1,1,20240223,HOU,PHX
+Shot Chart Detail,0022300806,210,201142,Kevin Durant,1610612756,Phoenix Suns,2,9,22,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,87,146,1,1,20240223,HOU,PHX
+Shot Chart Detail,0022300806,223,201142,Kevin Durant,1610612756,Phoenix Suns,2,8,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,102,243,1,1,20240223,HOU,PHX
+Shot Chart Detail,0022300806,387,201142,Kevin Durant,1610612756,Phoenix Suns,3,9,15,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-16,39,1,1,20240223,HOU,PHX
+Shot Chart Detail,0022300806,390,201142,Kevin Durant,1610612756,Phoenix Suns,3,8,43,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,-3,1,1,20240223,HOU,PHX
+Shot Chart Detail,0022300806,410,201142,Kevin Durant,1610612756,Phoenix Suns,3,7,25,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-116,8,1,1,20240223,HOU,PHX
+Shot Chart Detail,0022300806,532,201142,Kevin Durant,1610612756,Phoenix Suns,4,11,37,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,4,1,1,20240223,HOU,PHX
+Shot Chart Detail,0022300806,536,201142,Kevin Durant,1610612756,Phoenix Suns,4,11,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-165,58,1,1,20240223,HOU,PHX
+Shot Chart Detail,0022300806,568,201142,Kevin Durant,1610612756,Phoenix Suns,4,8,45,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,108,89,1,1,20240223,HOU,PHX
+Shot Chart Detail,0022300806,575,201142,Kevin Durant,1610612756,Phoenix Suns,4,8,6,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-16,84,1,1,20240223,HOU,PHX
+Shot Chart Detail,0022300818,31,201142,Kevin Durant,1610612756,Phoenix Suns,1,9,28,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,13,26,1,1,20240225,PHX,LAL
+Shot Chart Detail,0022300818,115,201142,Kevin Durant,1610612756,Phoenix Suns,1,4,6,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-89,44,1,1,20240225,PHX,LAL
+Shot Chart Detail,0022300818,336,201142,Kevin Durant,1610612756,Phoenix Suns,3,11,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-173,179,1,1,20240225,PHX,LAL
+Shot Chart Detail,0022300818,343,201142,Kevin Durant,1610612756,Phoenix Suns,3,10,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-185,162,1,1,20240225,PHX,LAL
+Shot Chart Detail,0022300818,408,201142,Kevin Durant,1610612756,Phoenix Suns,3,5,6,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,5,1,1,20240225,PHX,LAL
+Shot Chart Detail,0022300818,506,201142,Kevin Durant,1610612756,Phoenix Suns,4,9,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,145,72,1,1,20240225,PHX,LAL
+Shot Chart Detail,0022300818,549,201142,Kevin Durant,1610612756,Phoenix Suns,4,7,7,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,136,10,1,1,20240225,PHX,LAL
+Shot Chart Detail,0022300854,7,201142,Kevin Durant,1610612756,Phoenix Suns,1,11,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,13,187,1,1,20240229,PHX,HOU
+Shot Chart Detail,0022300854,175,201142,Kevin Durant,1610612756,Phoenix Suns,2,11,17,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-66,51,1,1,20240229,PHX,HOU
+Shot Chart Detail,0022300854,182,201142,Kevin Durant,1610612756,Phoenix Suns,2,10,14,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-100,229,1,1,20240229,PHX,HOU
+Shot Chart Detail,0022300854,377,201142,Kevin Durant,1610612756,Phoenix Suns,3,9,7,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,-1,1,1,20240229,PHX,HOU
+Shot Chart Detail,0022300854,414,201142,Kevin Durant,1610612756,Phoenix Suns,3,7,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-137,132,1,1,20240229,PHX,HOU
+Shot Chart Detail,0022300854,466,201142,Kevin Durant,1610612756,Phoenix Suns,3,3,4,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,10,1,1,20240229,PHX,HOU
+Shot Chart Detail,0022300854,470,201142,Kevin Durant,1610612756,Phoenix Suns,3,2,27,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,142,29,1,1,20240229,PHX,HOU
+Shot Chart Detail,0022300854,573,201142,Kevin Durant,1610612756,Phoenix Suns,4,9,1,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-93,173,1,1,20240229,PHX,HOU
+Shot Chart Detail,0022300870,30,201142,Kevin Durant,1610612756,Phoenix Suns,1,9,21,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,58,79,1,1,20240302,PHX,HOU
+Shot Chart Detail,0022300870,265,201142,Kevin Durant,1610612756,Phoenix Suns,2,5,8,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-72,258,1,1,20240302,PHX,HOU
+Shot Chart Detail,0022300870,370,201142,Kevin Durant,1610612756,Phoenix Suns,3,11,17,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-135,38,1,1,20240302,PHX,HOU
+Shot Chart Detail,0022300870,374,201142,Kevin Durant,1610612756,Phoenix Suns,3,10,38,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,13,1,1,20240302,PHX,HOU
+Shot Chart Detail,0022300870,376,201142,Kevin Durant,1610612756,Phoenix Suns,3,10,7,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,0,1,1,20240302,PHX,HOU
+Shot Chart Detail,0022300870,385,201142,Kevin Durant,1610612756,Phoenix Suns,3,9,12,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-119,-22,1,1,20240302,PHX,HOU
+Shot Chart Detail,0022300870,459,201142,Kevin Durant,1610612756,Phoenix Suns,3,4,56,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-178,-26,1,1,20240302,PHX,HOU
+Shot Chart Detail,0022300870,479,201142,Kevin Durant,1610612756,Phoenix Suns,3,3,4,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,83,142,1,1,20240302,PHX,HOU
+Shot Chart Detail,0022300870,595,201142,Kevin Durant,1610612756,Phoenix Suns,4,10,9,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,-13,1,1,20240302,PHX,HOU
+Shot Chart Detail,0022300870,666,201142,Kevin Durant,1610612756,Phoenix Suns,4,5,4,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,118,110,1,1,20240302,PHX,HOU
+Shot Chart Detail,0022300870,700,201142,Kevin Durant,1610612756,Phoenix Suns,4,3,32,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,142,134,1,1,20240302,PHX,HOU
+Shot Chart Detail,0022300870,713,201142,Kevin Durant,1610612756,Phoenix Suns,4,1,59,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,116,8,1,1,20240302,PHX,HOU
+Shot Chart Detail,0022300878,25,201142,Kevin Durant,1610612756,Phoenix Suns,1,10,38,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,13,1,1,20240303,PHX,OKC
+Shot Chart Detail,0022300878,75,201142,Kevin Durant,1610612756,Phoenix Suns,1,5,50,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,-27,1,1,20240303,PHX,OKC
+Shot Chart Detail,0022300878,360,201142,Kevin Durant,1610612756,Phoenix Suns,3,11,28,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,42,117,1,1,20240303,PHX,OKC
+Shot Chart Detail,0022300878,418,201142,Kevin Durant,1610612756,Phoenix Suns,3,6,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,130,232,1,1,20240303,PHX,OKC
+Shot Chart Detail,0022300878,448,201142,Kevin Durant,1610612756,Phoenix Suns,3,4,45,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-109,138,1,1,20240303,PHX,OKC
+Shot Chart Detail,0022300878,482,201142,Kevin Durant,1610612756,Phoenix Suns,3,3,14,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,115,73,1,1,20240303,PHX,OKC
+Shot Chart Detail,0022300893,24,201142,Kevin Durant,1610612756,Phoenix Suns,1,9,29,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,3,1,1,20240305,DEN,PHX
+Shot Chart Detail,0022300893,54,201142,Kevin Durant,1610612756,Phoenix Suns,1,6,49,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,67,141,1,1,20240305,DEN,PHX
+Shot Chart Detail,0022300893,119,201142,Kevin Durant,1610612756,Phoenix Suns,1,1,56,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,121,94,1,1,20240305,DEN,PHX
+Shot Chart Detail,0022300893,257,201142,Kevin Durant,1610612756,Phoenix Suns,2,6,4,Made Shot,Running Alley Oop Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,-6,1,1,20240305,DEN,PHX
+Shot Chart Detail,0022300893,263,201142,Kevin Durant,1610612756,Phoenix Suns,2,5,42,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,110,125,1,1,20240305,DEN,PHX
+Shot Chart Detail,0022300893,272,201142,Kevin Durant,1610612756,Phoenix Suns,2,5,15,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,4,74,1,1,20240305,DEN,PHX
+Shot Chart Detail,0022300893,303,201142,Kevin Durant,1610612756,Phoenix Suns,2,2,34,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,69,50,1,1,20240305,DEN,PHX
+Shot Chart Detail,0022300893,365,201142,Kevin Durant,1610612756,Phoenix Suns,3,9,58,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-145,146,1,1,20240305,DEN,PHX
+Shot Chart Detail,0022300893,384,201142,Kevin Durant,1610612756,Phoenix Suns,3,8,32,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,93,141,1,1,20240305,DEN,PHX
+Shot Chart Detail,0022300893,586,201142,Kevin Durant,1610612756,Phoenix Suns,4,5,23,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-89,167,1,1,20240305,DEN,PHX
+Shot Chart Detail,0022300893,641,201142,Kevin Durant,1610612756,Phoenix Suns,4,0,26,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-104,242,1,1,20240305,DEN,PHX
+Shot Chart Detail,0022300893,659,201142,Kevin Durant,1610612756,Phoenix Suns,5,3,44,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-126,244,1,1,20240305,DEN,PHX
+Shot Chart Detail,0022300893,680,201142,Kevin Durant,1610612756,Phoenix Suns,5,1,25,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-64,189,1,1,20240305,DEN,PHX
+Shot Chart Detail,0022300893,684,201142,Kevin Durant,1610612756,Phoenix Suns,5,0,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-219,162,1,1,20240305,DEN,PHX
+Shot Chart Detail,0022300905,7,201142,Kevin Durant,1610612756,Phoenix Suns,1,11,43,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,13,70,116,1,1,20240307,PHX,TOR
+Shot Chart Detail,0022300905,53,201142,Kevin Durant,1610612756,Phoenix Suns,1,6,53,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,18,29,1,1,20240307,PHX,TOR
+Shot Chart Detail,0022300905,112,201142,Kevin Durant,1610612756,Phoenix Suns,1,3,0,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,180,190,1,1,20240307,PHX,TOR
+Shot Chart Detail,0022300905,346,201142,Kevin Durant,1610612756,Phoenix Suns,3,9,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-115,225,1,1,20240307,PHX,TOR
+Shot Chart Detail,0022300905,366,201142,Kevin Durant,1610612756,Phoenix Suns,3,7,48,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-25,10,1,1,20240307,PHX,TOR
+Shot Chart Detail,0022300905,390,201142,Kevin Durant,1610612756,Phoenix Suns,3,6,6,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,93,52,1,1,20240307,PHX,TOR
+Shot Chart Detail,0022300905,459,201142,Kevin Durant,1610612756,Phoenix Suns,3,2,0,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,107,104,1,1,20240307,PHX,TOR
+Shot Chart Detail,0022300905,462,201142,Kevin Durant,1610612756,Phoenix Suns,3,1,41,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,17,1,1,20240307,PHX,TOR
+Shot Chart Detail,0022300905,480,201142,Kevin Durant,1610612756,Phoenix Suns,3,0,28,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,0,169,1,1,20240307,PHX,TOR
+Shot Chart Detail,0022300905,581,201142,Kevin Durant,1610612756,Phoenix Suns,4,5,10,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-142,144,1,1,20240307,PHX,TOR
+Shot Chart Detail,0022300905,620,201142,Kevin Durant,1610612756,Phoenix Suns,4,1,28,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-110,123,1,1,20240307,PHX,TOR
+Shot Chart Detail,0022300920,15,201142,Kevin Durant,1610612756,Phoenix Suns,1,11,18,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,9,137,1,1,20240309,PHX,BOS
+Shot Chart Detail,0022300920,35,201142,Kevin Durant,1610612756,Phoenix Suns,1,9,19,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,38,95,1,1,20240309,PHX,BOS
+Shot Chart Detail,0022300920,92,201142,Kevin Durant,1610612756,Phoenix Suns,1,5,40,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,72,95,1,1,20240309,PHX,BOS
+Shot Chart Detail,0022300920,121,201142,Kevin Durant,1610612756,Phoenix Suns,1,3,11,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-82,131,1,1,20240309,PHX,BOS
+Shot Chart Detail,0022300920,158,201142,Kevin Durant,1610612756,Phoenix Suns,1,0,46,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,105,23,1,1,20240309,PHX,BOS
+Shot Chart Detail,0022300920,260,201142,Kevin Durant,1610612756,Phoenix Suns,2,3,8,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,48,105,1,1,20240309,PHX,BOS
+Shot Chart Detail,0022300920,289,201142,Kevin Durant,1610612756,Phoenix Suns,2,0,45,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-31,11,1,1,20240309,PHX,BOS
+Shot Chart Detail,0022300920,291,201142,Kevin Durant,1610612756,Phoenix Suns,2,0,7,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-15,170,1,1,20240309,PHX,BOS
+Shot Chart Detail,0022300920,317,201142,Kevin Durant,1610612756,Phoenix Suns,3,10,34,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-108,235,1,1,20240309,PHX,BOS
+Shot Chart Detail,0022300920,355,201142,Kevin Durant,1610612756,Phoenix Suns,3,7,4,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,0,1,1,20240309,PHX,BOS
+Shot Chart Detail,0022300920,402,201142,Kevin Durant,1610612756,Phoenix Suns,3,4,24,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,0,74,1,1,20240309,PHX,BOS
+Shot Chart Detail,0022300920,407,201142,Kevin Durant,1610612756,Phoenix Suns,3,3,56,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,119,222,1,1,20240309,PHX,BOS
+Shot Chart Detail,0022300920,446,201142,Kevin Durant,1610612756,Phoenix Suns,3,1,16,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,14,77,119,1,1,20240309,PHX,BOS
+Shot Chart Detail,0022300920,515,201142,Kevin Durant,1610612756,Phoenix Suns,4,7,49,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-9,261,1,1,20240309,PHX,BOS
+Shot Chart Detail,0022300920,537,201142,Kevin Durant,1610612756,Phoenix Suns,4,5,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,108,251,1,1,20240309,PHX,BOS
+Shot Chart Detail,0022300920,541,201142,Kevin Durant,1610612756,Phoenix Suns,4,4,38,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,23,158,1,1,20240309,PHX,BOS
+Shot Chart Detail,0022300920,544,201142,Kevin Durant,1610612756,Phoenix Suns,4,3,55,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,153,87,1,1,20240309,PHX,BOS
+Shot Chart Detail,0022300920,576,201142,Kevin Durant,1610612756,Phoenix Suns,4,1,12,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,13,1,1,20240309,PHX,BOS
+Shot Chart Detail,0022300934,29,201142,Kevin Durant,1610612756,Phoenix Suns,1,9,41,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-82,179,1,1,20240311,CLE,PHX
+Shot Chart Detail,0022300934,32,201142,Kevin Durant,1610612756,Phoenix Suns,1,9,2,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-82,101,1,1,20240311,CLE,PHX
+Shot Chart Detail,0022300934,107,201142,Kevin Durant,1610612756,Phoenix Suns,1,3,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-146,41,1,1,20240311,CLE,PHX
+Shot Chart Detail,0022300934,119,201142,Kevin Durant,1610612756,Phoenix Suns,1,1,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-131,222,1,1,20240311,CLE,PHX
+Shot Chart Detail,0022300934,292,201142,Kevin Durant,1610612756,Phoenix Suns,2,1,17,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,161,16,1,1,20240311,CLE,PHX
+Shot Chart Detail,0022300934,310,201142,Kevin Durant,1610612756,Phoenix Suns,2,0,3,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,11,1,1,20240311,CLE,PHX
+Shot Chart Detail,0022300934,357,201142,Kevin Durant,1610612756,Phoenix Suns,3,9,43,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-143,16,1,1,20240311,CLE,PHX
+Shot Chart Detail,0022300934,398,201142,Kevin Durant,1610612756,Phoenix Suns,3,6,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,81,186,1,1,20240311,CLE,PHX
+Shot Chart Detail,0022300934,421,201142,Kevin Durant,1610612756,Phoenix Suns,3,4,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-211,184,1,1,20240311,CLE,PHX
+Shot Chart Detail,0022300934,439,201142,Kevin Durant,1610612756,Phoenix Suns,3,3,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-153,239,1,1,20240311,CLE,PHX
+Shot Chart Detail,0022300934,443,201142,Kevin Durant,1610612756,Phoenix Suns,3,3,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-206,190,1,1,20240311,CLE,PHX
+Shot Chart Detail,0022300934,482,201142,Kevin Durant,1610612756,Phoenix Suns,3,0,10,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,71,159,1,1,20240311,CLE,PHX
+Shot Chart Detail,0022300934,557,201142,Kevin Durant,1610612756,Phoenix Suns,4,5,52,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,15,1,1,20240311,CLE,PHX
+Shot Chart Detail,0022300934,579,201142,Kevin Durant,1610612756,Phoenix Suns,4,3,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-235,130,1,1,20240311,CLE,PHX
+Shot Chart Detail,0022300955,7,201142,Kevin Durant,1610612756,Phoenix Suns,1,11,40,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,96,164,1,1,20240314,BOS,PHX
+Shot Chart Detail,0022300955,32,201142,Kevin Durant,1610612756,Phoenix Suns,1,9,18,Made Shot,Running Pull-Up Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,96,189,1,1,20240314,BOS,PHX
+Shot Chart Detail,0022300955,41,201142,Kevin Durant,1610612756,Phoenix Suns,1,8,34,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,59,43,1,1,20240314,BOS,PHX
+Shot Chart Detail,0022300955,60,201142,Kevin Durant,1610612756,Phoenix Suns,1,6,27,Made Shot,Cutting Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,22,37,1,1,20240314,BOS,PHX
+Shot Chart Detail,0022300955,77,201142,Kevin Durant,1610612756,Phoenix Suns,1,5,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-172,184,1,1,20240314,BOS,PHX
+Shot Chart Detail,0022300955,113,201142,Kevin Durant,1610612756,Phoenix Suns,1,2,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-146,57,1,1,20240314,BOS,PHX
+Shot Chart Detail,0022300955,130,201142,Kevin Durant,1610612756,Phoenix Suns,1,0,38,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,22,36,1,1,20240314,BOS,PHX
+Shot Chart Detail,0022300955,386,201142,Kevin Durant,1610612756,Phoenix Suns,3,5,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,4,184,1,1,20240314,BOS,PHX
+Shot Chart Detail,0022300955,502,201142,Kevin Durant,1610612756,Phoenix Suns,4,9,0,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,11,1,1,20240314,BOS,PHX
+Shot Chart Detail,0022300961,200,201142,Kevin Durant,1610612756,Phoenix Suns,2,8,0,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-107,4,1,1,20240315,CHA,PHX
+Shot Chart Detail,0022300961,225,201142,Kevin Durant,1610612756,Phoenix Suns,2,6,36,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-158,40,1,1,20240315,CHA,PHX
+Shot Chart Detail,0022300961,347,201142,Kevin Durant,1610612756,Phoenix Suns,3,9,54,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,11,17,1,1,20240315,CHA,PHX
+Shot Chart Detail,0022300961,361,201142,Kevin Durant,1610612756,Phoenix Suns,3,8,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-180,191,1,1,20240315,CHA,PHX
+Shot Chart Detail,0022300961,592,201142,Kevin Durant,1610612756,Phoenix Suns,4,4,3,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,127,-5,1,1,20240315,CHA,PHX
+Shot Chart Detail,0022300976,7,201142,Kevin Durant,1610612756,Phoenix Suns,1,11,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,20,151,1,1,20240317,MIL,PHX
+Shot Chart Detail,0022300976,41,201142,Kevin Durant,1610612756,Phoenix Suns,1,8,54,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,75,1,1,1,20240317,MIL,PHX
+Shot Chart Detail,0022300976,180,201142,Kevin Durant,1610612756,Phoenix Suns,2,10,1,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,42,158,1,1,20240317,MIL,PHX
+Shot Chart Detail,0022300976,373,201142,Kevin Durant,1610612756,Phoenix Suns,3,6,46,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,135,235,1,1,20240317,MIL,PHX
+Shot Chart Detail,0022301002,64,201142,Kevin Durant,1610612756,Phoenix Suns,1,7,18,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-107,23,1,1,20240320,PHX,PHI
+Shot Chart Detail,0022301002,101,201142,Kevin Durant,1610612756,Phoenix Suns,1,4,45,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-16,183,1,1,20240320,PHX,PHI
+Shot Chart Detail,0022301002,196,201142,Kevin Durant,1610612756,Phoenix Suns,2,10,26,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,6,1,1,20240320,PHX,PHI
+Shot Chart Detail,0022301002,219,201142,Kevin Durant,1610612756,Phoenix Suns,2,8,19,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,17,1,1,20240320,PHX,PHI
+Shot Chart Detail,0022301002,368,201142,Kevin Durant,1610612756,Phoenix Suns,3,10,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,21,164,1,1,20240320,PHX,PHI
+Shot Chart Detail,0022301002,384,201142,Kevin Durant,1610612756,Phoenix Suns,3,9,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,217,145,1,1,20240320,PHX,PHI
+Shot Chart Detail,0022301002,431,201142,Kevin Durant,1610612756,Phoenix Suns,3,5,4,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-98,21,1,1,20240320,PHX,PHI
+Shot Chart Detail,0022301002,543,201142,Kevin Durant,1610612756,Phoenix Suns,4,10,19,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,6,1,1,20240320,PHX,PHI
+Shot Chart Detail,0022301002,557,201142,Kevin Durant,1610612756,Phoenix Suns,4,9,8,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-67,71,1,1,20240320,PHX,PHI
+Shot Chart Detail,0022301002,618,201142,Kevin Durant,1610612756,Phoenix Suns,4,4,50,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,228,43,1,1,20240320,PHX,PHI
+Shot Chart Detail,0022301010,171,201142,Kevin Durant,1610612756,Phoenix Suns,2,10,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,34,252,1,1,20240321,PHX,ATL
+Shot Chart Detail,0022301010,321,201142,Kevin Durant,1610612756,Phoenix Suns,2,0,56,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-239,54,1,1,20240321,PHX,ATL
+Shot Chart Detail,0022301010,388,201142,Kevin Durant,1610612756,Phoenix Suns,3,7,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,184,31,1,1,20240321,PHX,ATL
+Shot Chart Detail,0022301010,627,201142,Kevin Durant,1610612756,Phoenix Suns,4,5,56,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,82,67,1,1,20240321,PHX,ATL
+Shot Chart Detail,0022301010,654,201142,Kevin Durant,1610612756,Phoenix Suns,4,3,46,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-12,31,1,1,20240321,PHX,ATL
+Shot Chart Detail,0022301025,56,201142,Kevin Durant,1610612756,Phoenix Suns,1,7,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-23,146,1,1,20240323,SAS,PHX
+Shot Chart Detail,0022301025,60,201142,Kevin Durant,1610612756,Phoenix Suns,1,6,46,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,6,1,1,20240323,SAS,PHX
+Shot Chart Detail,0022301025,68,201142,Kevin Durant,1610612756,Phoenix Suns,1,6,9,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,2,67,1,1,20240323,SAS,PHX
+Shot Chart Detail,0022301025,159,201142,Kevin Durant,1610612756,Phoenix Suns,2,11,6,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,86,119,1,1,20240323,SAS,PHX
+Shot Chart Detail,0022301025,187,201142,Kevin Durant,1610612756,Phoenix Suns,2,8,39,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-61,151,1,1,20240323,SAS,PHX
+Shot Chart Detail,0022301025,227,201142,Kevin Durant,1610612756,Phoenix Suns,2,5,19,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,5,25,1,1,20240323,SAS,PHX
+Shot Chart Detail,0022301025,237,201142,Kevin Durant,1610612756,Phoenix Suns,2,4,12,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,0,75,1,1,20240323,SAS,PHX
+Shot Chart Detail,0022301025,275,201142,Kevin Durant,1610612756,Phoenix Suns,2,1,38,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,-7,1,1,20240323,SAS,PHX
+Shot Chart Detail,0022301025,319,201142,Kevin Durant,1610612756,Phoenix Suns,3,10,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-119,122,1,1,20240323,SAS,PHX
+Shot Chart Detail,0022301025,348,201142,Kevin Durant,1610612756,Phoenix Suns,3,7,36,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,2,21,1,1,20240323,SAS,PHX
+Shot Chart Detail,0022301025,378,201142,Kevin Durant,1610612756,Phoenix Suns,3,4,36,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-38,23,1,1,20240323,SAS,PHX
+Shot Chart Detail,0022301025,433,201142,Kevin Durant,1610612756,Phoenix Suns,3,0,30,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,16,1,1,20240323,SAS,PHX
+Shot Chart Detail,0022301039,147,201142,Kevin Durant,1610612756,Phoenix Suns,2,11,16,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,129,6,1,1,20240325,SAS,PHX
+Shot Chart Detail,0022301039,162,201142,Kevin Durant,1610612756,Phoenix Suns,2,9,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-42,245,1,1,20240325,SAS,PHX
+Shot Chart Detail,0022301039,178,201142,Kevin Durant,1610612756,Phoenix Suns,2,7,28,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-71,152,1,1,20240325,SAS,PHX
+Shot Chart Detail,0022301039,205,201142,Kevin Durant,1610612756,Phoenix Suns,2,5,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-42,142,1,1,20240325,SAS,PHX
+Shot Chart Detail,0022301039,320,201142,Kevin Durant,1610612756,Phoenix Suns,3,8,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,1,263,1,1,20240325,SAS,PHX
+Shot Chart Detail,0022301039,329,201142,Kevin Durant,1610612756,Phoenix Suns,3,7,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,88,239,1,1,20240325,SAS,PHX
+Shot Chart Detail,0022301039,339,201142,Kevin Durant,1610612756,Phoenix Suns,3,7,6,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-1,79,1,1,20240325,SAS,PHX
+Shot Chart Detail,0022301039,356,201142,Kevin Durant,1610612756,Phoenix Suns,3,5,52,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-98,-15,1,1,20240325,SAS,PHX
+Shot Chart Detail,0022301039,368,201142,Kevin Durant,1610612756,Phoenix Suns,3,4,54,Made Shot,Running Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,0,1,1,20240325,SAS,PHX
+Shot Chart Detail,0022301039,381,201142,Kevin Durant,1610612756,Phoenix Suns,3,4,17,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-85,73,1,1,20240325,SAS,PHX
+Shot Chart Detail,0022301039,544,201142,Kevin Durant,1610612756,Phoenix Suns,4,4,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,83,239,1,1,20240325,SAS,PHX
+Shot Chart Detail,0022301039,563,201142,Kevin Durant,1610612756,Phoenix Suns,4,3,38,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-33,2,1,1,20240325,SAS,PHX
+Shot Chart Detail,0022301059,37,201142,Kevin Durant,1610612756,Phoenix Suns,1,7,56,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,-17,1,1,20240327,DEN,PHX
+Shot Chart Detail,0022301059,162,201142,Kevin Durant,1610612756,Phoenix Suns,2,10,44,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,11,1,1,20240327,DEN,PHX
+Shot Chart Detail,0022301059,171,201142,Kevin Durant,1610612756,Phoenix Suns,2,10,13,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-36,119,1,1,20240327,DEN,PHX
+Shot Chart Detail,0022301059,280,201142,Kevin Durant,1610612756,Phoenix Suns,2,2,13,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-129,22,1,1,20240327,DEN,PHX
+Shot Chart Detail,0022301059,296,201142,Kevin Durant,1610612756,Phoenix Suns,2,0,46,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-47,103,1,1,20240327,DEN,PHX
+Shot Chart Detail,0022301059,319,201142,Kevin Durant,1610612756,Phoenix Suns,3,11,9,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,13,72,113,1,1,20240327,DEN,PHX
+Shot Chart Detail,0022301059,334,201142,Kevin Durant,1610612756,Phoenix Suns,3,9,57,Made Shot,Running Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,12,1,1,20240327,DEN,PHX
+Shot Chart Detail,0022301059,337,201142,Kevin Durant,1610612756,Phoenix Suns,3,9,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-91,253,1,1,20240327,DEN,PHX
+Shot Chart Detail,0022301059,400,201142,Kevin Durant,1610612756,Phoenix Suns,3,4,16,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-137,88,1,1,20240327,DEN,PHX
+Shot Chart Detail,0022301059,431,201142,Kevin Durant,1610612756,Phoenix Suns,3,1,41,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,126,67,1,1,20240327,DEN,PHX
+Shot Chart Detail,0022301059,532,201142,Kevin Durant,1610612756,Phoenix Suns,4,5,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,112,236,1,1,20240327,DEN,PHX
+Shot Chart Detail,0022301059,542,201142,Kevin Durant,1610612756,Phoenix Suns,4,4,15,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-87,89,1,1,20240327,DEN,PHX
+Shot Chart Detail,0022301069,7,201142,Kevin Durant,1610612756,Phoenix Suns,1,11,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,138,216,1,1,20240329,OKC,PHX
+Shot Chart Detail,0022301069,85,201142,Kevin Durant,1610612756,Phoenix Suns,1,4,46,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,5,101,1,1,20240329,OKC,PHX
+Shot Chart Detail,0022301069,166,201142,Kevin Durant,1610612756,Phoenix Suns,2,11,17,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,70,27,1,1,20240329,OKC,PHX
+Shot Chart Detail,0022301069,176,201142,Kevin Durant,1610612756,Phoenix Suns,2,10,11,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,11,-72,85,1,1,20240329,OKC,PHX
+Shot Chart Detail,0022301069,185,201142,Kevin Durant,1610612756,Phoenix Suns,2,9,1,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,-4,1,1,20240329,OKC,PHX
+Shot Chart Detail,0022301069,220,201142,Kevin Durant,1610612756,Phoenix Suns,2,6,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,16,1,1,20240329,OKC,PHX
+Shot Chart Detail,0022301069,378,201142,Kevin Durant,1610612756,Phoenix Suns,3,7,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-210,138,1,1,20240329,OKC,PHX
+Shot Chart Detail,0022301069,427,201142,Kevin Durant,1610612756,Phoenix Suns,3,3,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,70,245,1,1,20240329,OKC,PHX
+Shot Chart Detail,0022301069,446,201142,Kevin Durant,1610612756,Phoenix Suns,3,2,47,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,1,256,1,1,20240329,OKC,PHX
+Shot Chart Detail,0022301069,554,201142,Kevin Durant,1610612756,Phoenix Suns,4,8,6,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,6,1,1,20240329,OKC,PHX
+Shot Chart Detail,0022301092,25,201142,Kevin Durant,1610612756,Phoenix Suns,1,9,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,121,226,1,1,20240401,NOP,PHX
+Shot Chart Detail,0022301092,29,201142,Kevin Durant,1610612756,Phoenix Suns,1,9,29,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,136,220,1,1,20240401,NOP,PHX
+Shot Chart Detail,0022301092,56,201142,Kevin Durant,1610612756,Phoenix Suns,1,6,36,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,15,135,1,1,20240401,NOP,PHX
+Shot Chart Detail,0022301092,79,201142,Kevin Durant,1610612756,Phoenix Suns,1,5,17,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,11,1,1,20240401,NOP,PHX
+Shot Chart Detail,0022301092,173,201142,Kevin Durant,1610612756,Phoenix Suns,2,9,21,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,87,241,1,1,20240401,NOP,PHX
+Shot Chart Detail,0022301092,222,201142,Kevin Durant,1610612756,Phoenix Suns,2,6,26,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-1,25,1,1,20240401,NOP,PHX
+Shot Chart Detail,0022301092,519,201142,Kevin Durant,1610612756,Phoenix Suns,4,9,6,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-2,107,1,1,20240401,NOP,PHX
+Shot Chart Detail,0022301110,13,201142,Kevin Durant,1610612756,Phoenix Suns,1,10,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,1,160,1,1,20240403,PHX,CLE
+Shot Chart Detail,0022301110,41,201142,Kevin Durant,1610612756,Phoenix Suns,1,7,52,Made Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,12,67,111,1,1,20240403,PHX,CLE
+Shot Chart Detail,0022301110,74,201142,Kevin Durant,1610612756,Phoenix Suns,1,5,26,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-20,85,1,1,20240403,PHX,CLE
+Shot Chart Detail,0022301110,83,201142,Kevin Durant,1610612756,Phoenix Suns,1,4,20,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,1,1,1,20240403,PHX,CLE
+Shot Chart Detail,0022301110,185,201142,Kevin Durant,1610612756,Phoenix Suns,2,10,11,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-13,263,1,1,20240403,PHX,CLE
+Shot Chart Detail,0022301110,193,201142,Kevin Durant,1610612756,Phoenix Suns,2,9,25,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-2,78,1,1,20240403,PHX,CLE
+Shot Chart Detail,0022301110,212,201142,Kevin Durant,1610612756,Phoenix Suns,2,7,52,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,33,105,1,1,20240403,PHX,CLE
+Shot Chart Detail,0022301110,237,201142,Kevin Durant,1610612756,Phoenix Suns,2,5,24,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,45,99,1,1,20240403,PHX,CLE
+Shot Chart Detail,0022301110,313,201142,Kevin Durant,1610612756,Phoenix Suns,3,11,41,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-119,94,1,1,20240403,PHX,CLE
+Shot Chart Detail,0022301110,363,201142,Kevin Durant,1610612756,Phoenix Suns,3,6,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,123,237,1,1,20240403,PHX,CLE
+Shot Chart Detail,0022301110,407,201142,Kevin Durant,1610612756,Phoenix Suns,3,3,35,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,102,137,1,1,20240403,PHX,CLE
+Shot Chart Detail,0022301110,526,201142,Kevin Durant,1610612756,Phoenix Suns,4,7,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,180,189,1,1,20240403,PHX,CLE
+Shot Chart Detail,0022301110,543,201142,Kevin Durant,1610612756,Phoenix Suns,4,6,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,18,25,1,1,20240403,PHX,CLE
+Shot Chart Detail,0022301125,38,201142,Kevin Durant,1610612756,Phoenix Suns,1,9,7,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-53,34,1,1,20240405,PHX,MIN
+Shot Chart Detail,0022301125,70,201142,Kevin Durant,1610612756,Phoenix Suns,1,6,6,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-51,57,1,1,20240405,PHX,MIN
+Shot Chart Detail,0022301125,118,201142,Kevin Durant,1610612756,Phoenix Suns,1,3,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,2,164,1,1,20240405,PHX,MIN
+Shot Chart Detail,0022301125,218,201142,Kevin Durant,1610612756,Phoenix Suns,2,7,57,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,0,1,1,20240405,PHX,MIN
+Shot Chart Detail,0022301125,312,201142,Kevin Durant,1610612756,Phoenix Suns,2,0,14,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,27,1,1,20240405,PHX,MIN
+Shot Chart Detail,0022301125,340,201142,Kevin Durant,1610612756,Phoenix Suns,3,10,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,100,2,1,1,20240405,PHX,MIN
+Shot Chart Detail,0022301125,471,201142,Kevin Durant,1610612756,Phoenix Suns,3,1,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,147,12,1,1,20240405,PHX,MIN
+Shot Chart Detail,0022301125,549,201142,Kevin Durant,1610612756,Phoenix Suns,4,7,58,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-29,163,1,1,20240405,PHX,MIN
+Shot Chart Detail,0022301125,557,201142,Kevin Durant,1610612756,Phoenix Suns,4,6,44,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-11,138,1,1,20240405,PHX,MIN
+Shot Chart Detail,0022301138,73,201142,Kevin Durant,1610612756,Phoenix Suns,1,5,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-71,247,1,1,20240407,PHX,NOP
+Shot Chart Detail,0022301138,100,201142,Kevin Durant,1610612756,Phoenix Suns,1,3,39,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,11,1,1,20240407,PHX,NOP
+Shot Chart Detail,0022301138,258,201142,Kevin Durant,1610612756,Phoenix Suns,2,3,40,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-23,29,1,1,20240407,PHX,NOP
+Shot Chart Detail,0022301138,300,201142,Kevin Durant,1610612756,Phoenix Suns,2,0,7,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,6,1,1,20240407,PHX,NOP
+Shot Chart Detail,0022301138,360,201142,Kevin Durant,1610612756,Phoenix Suns,3,7,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,223,100,1,1,20240407,PHX,NOP
+Shot Chart Detail,0022301138,386,201142,Kevin Durant,1610612756,Phoenix Suns,3,6,2,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,15,1,1,20240407,PHX,NOP
+Shot Chart Detail,0022301138,421,201142,Kevin Durant,1610612756,Phoenix Suns,3,3,45,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-104,48,1,1,20240407,PHX,NOP
+Shot Chart Detail,0022301138,445,201142,Kevin Durant,1610612756,Phoenix Suns,3,1,48,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,235,58,1,1,20240407,PHX,NOP
+Shot Chart Detail,0022301156,215,201142,Kevin Durant,1610612756,Phoenix Suns,2,8,6,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-91,91,1,1,20240409,PHX,LAC
+Shot Chart Detail,0022301156,240,201142,Kevin Durant,1610612756,Phoenix Suns,2,6,13,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,10,1,1,20240409,PHX,LAC
+Shot Chart Detail,0022301156,302,201142,Kevin Durant,1610612756,Phoenix Suns,2,1,18,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,9,1,1,20240409,PHX,LAC
+Shot Chart Detail,0022301156,358,201142,Kevin Durant,1610612756,Phoenix Suns,3,9,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,116,11,1,1,20240409,PHX,LAC
+Shot Chart Detail,0022301156,395,201142,Kevin Durant,1610612756,Phoenix Suns,3,6,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,15,1,1,20240409,PHX,LAC
+Shot Chart Detail,0022301156,424,201142,Kevin Durant,1610612756,Phoenix Suns,3,4,42,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,23,1,1,20240409,PHX,LAC
+Shot Chart Detail,0022301156,523,201142,Kevin Durant,1610612756,Phoenix Suns,4,9,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,83,251,1,1,20240409,PHX,LAC
+Shot Chart Detail,0022301156,618,201142,Kevin Durant,1610612756,Phoenix Suns,4,3,16,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,13,-75,111,1,1,20240409,PHX,LAC
+Shot Chart Detail,0022301165,38,201142,Kevin Durant,1610612756,Phoenix Suns,1,8,34,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-81,28,1,1,20240410,LAC,PHX
+Shot Chart Detail,0022301165,226,201142,Kevin Durant,1610612756,Phoenix Suns,2,5,55,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,138,110,1,1,20240410,LAC,PHX
+Shot Chart Detail,0022301165,275,201142,Kevin Durant,1610612756,Phoenix Suns,2,1,53,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-62,174,1,1,20240410,LAC,PHX
+Shot Chart Detail,0022301165,305,201142,Kevin Durant,1610612756,Phoenix Suns,3,11,29,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,50,111,1,1,20240410,LAC,PHX
+Shot Chart Detail,0022301165,336,201142,Kevin Durant,1610612756,Phoenix Suns,3,8,44,Made Shot,Running Pull-Up Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,181,57,1,1,20240410,LAC,PHX
+Shot Chart Detail,0022301165,374,201142,Kevin Durant,1610612756,Phoenix Suns,3,5,12,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,15,69,135,1,1,20240410,LAC,PHX
+Shot Chart Detail,0022301165,391,201142,Kevin Durant,1610612756,Phoenix Suns,3,4,10,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-238,-17,1,1,20240410,LAC,PHX
+Shot Chart Detail,0022301165,482,201142,Kevin Durant,1610612756,Phoenix Suns,4,8,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,140,40,1,1,20240410,LAC,PHX
+Shot Chart Detail,0022301165,559,201142,Kevin Durant,1610612756,Phoenix Suns,4,3,38,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,13,1,1,20240410,LAC,PHX
+Shot Chart Detail,0022301165,573,201142,Kevin Durant,1610612756,Phoenix Suns,4,2,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-162,209,1,1,20240410,LAC,PHX
+Shot Chart Detail,0022301185,46,201142,Kevin Durant,1610612756,Phoenix Suns,1,7,52,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,11,95,1,1,20240412,SAC,PHX
+Shot Chart Detail,0022301185,109,201142,Kevin Durant,1610612756,Phoenix Suns,1,3,29,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-27,165,1,1,20240412,SAC,PHX
+Shot Chart Detail,0022301185,112,201142,Kevin Durant,1610612756,Phoenix Suns,1,2,46,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-93,89,1,1,20240412,SAC,PHX
+Shot Chart Detail,0022301185,138,201142,Kevin Durant,1610612756,Phoenix Suns,1,0,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,94,110,1,1,20240412,SAC,PHX
+Shot Chart Detail,0022301185,209,201142,Kevin Durant,1610612756,Phoenix Suns,2,7,33,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,23,1,1,20240412,SAC,PHX
+Shot Chart Detail,0022301185,216,201142,Kevin Durant,1610612756,Phoenix Suns,2,6,52,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,88,17,1,1,20240412,SAC,PHX
+Shot Chart Detail,0022301185,278,201142,Kevin Durant,1610612756,Phoenix Suns,2,2,15,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-2,58,1,1,20240412,SAC,PHX
+Shot Chart Detail,0022301185,280,201142,Kevin Durant,1610612756,Phoenix Suns,2,1,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-199,172,1,1,20240412,SAC,PHX
+Shot Chart Detail,0022301185,387,201142,Kevin Durant,1610612756,Phoenix Suns,3,4,40,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,6,1,1,20240412,SAC,PHX
+Shot Chart Detail,0022301185,393,201142,Kevin Durant,1610612756,Phoenix Suns,3,4,16,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,16,1,1,20240412,SAC,PHX
+Shot Chart Detail,0022301185,584,201142,Kevin Durant,1610612756,Phoenix Suns,4,3,17,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-71,71,1,1,20240412,SAC,PHX
+Shot Chart Detail,0022301194,7,201142,Kevin Durant,1610612756,Phoenix Suns,1,11,38,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-150,7,1,1,20240414,MIN,PHX
+Shot Chart Detail,0022301194,105,201142,Kevin Durant,1610612756,Phoenix Suns,1,3,37,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20240414,MIN,PHX
+Shot Chart Detail,0022301194,108,201142,Kevin Durant,1610612756,Phoenix Suns,1,3,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,124,153,1,1,20240414,MIN,PHX
+Shot Chart Detail,0022301194,256,201142,Kevin Durant,1610612756,Phoenix Suns,2,3,25,Made Shot,Running Pull-Up Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,132,21,1,1,20240414,MIN,PHX
+Shot Chart Detail,0022301194,353,201142,Kevin Durant,1610612756,Phoenix Suns,3,9,29,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,30,1,1,20240414,MIN,PHX
+Shot Chart Detail,0022301194,532,201142,Kevin Durant,1610612756,Phoenix Suns,4,8,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-164,19,1,1,20240414,MIN,PHX
+Shot Chart Detail,0022301203,15,201142,Kevin Durant,1610612756,Phoenix Suns,1,10,38,Made Shot,Running Pull-Up Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-115,21,1,1,20231205,LAL,PHX
+Shot Chart Detail,0022301203,79,201142,Kevin Durant,1610612756,Phoenix Suns,1,5,1,Made Shot,Running Pull-Up Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,60,157,1,1,20231205,LAL,PHX
+Shot Chart Detail,0022301203,244,201142,Kevin Durant,1610612756,Phoenix Suns,2,6,45,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-6,13,1,1,20231205,LAL,PHX
+Shot Chart Detail,0022301203,391,201142,Kevin Durant,1610612756,Phoenix Suns,3,9,16,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,17,1,1,20231205,LAL,PHX
+Shot Chart Detail,0022301203,415,201142,Kevin Durant,1610612756,Phoenix Suns,3,7,28,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-16,19,1,1,20231205,LAL,PHX
+Shot Chart Detail,0022301203,435,201142,Kevin Durant,1610612756,Phoenix Suns,3,6,19,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-70,6,1,1,20231205,LAL,PHX
+Shot Chart Detail,0022301203,470,201142,Kevin Durant,1610612756,Phoenix Suns,3,3,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-43,252,1,1,20231205,LAL,PHX
+Shot Chart Detail,0022301203,485,201142,Kevin Durant,1610612756,Phoenix Suns,3,2,13,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,86,252,1,1,20231205,LAL,PHX
+Shot Chart Detail,0022301203,588,201142,Kevin Durant,1610612756,Phoenix Suns,4,7,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,1,264,1,1,20231205,LAL,PHX
+Shot Chart Detail,0022301203,610,201142,Kevin Durant,1610612756,Phoenix Suns,4,5,45,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,232,82,1,1,20231205,LAL,PHX
+Shot Chart Detail,0022301203,653,201142,Kevin Durant,1610612756,Phoenix Suns,4,1,2,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,8,83,1,1,20231205,LAL,PHX
+Shot Chart Detail,0022301203,664,201142,Kevin Durant,1610612756,Phoenix Suns,4,0,11,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,5,1,1,20231205,LAL,PHX
