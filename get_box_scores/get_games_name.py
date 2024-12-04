@@ -1,4 +1,5 @@
 from nba_api.stats.endpoints import leaguegamefinder
+import requests
 import pandas as pd
 
 def get_games_by_season(season):

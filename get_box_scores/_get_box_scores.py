@@ -1,4 +1,5 @@
 from nba_api.stats.endpoints import boxscoretraditionalv2
+import requests
 
 def get_boxscore(game_id):
     boxscore = boxscoretraditionalv2.BoxScoreTraditionalV2(game_id=game_id)

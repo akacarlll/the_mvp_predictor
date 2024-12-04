@@ -4,21 +4,28 @@ channels:
   - defaults
 dependencies:
   - requests
-  - randomgen  # pour la génération aléatoire
+  - randomgen
   - tqdm
   - beautifulsoup4
   - pandas
-  - numpy  # Manipulation efficace des données
-  - matplotlib  # Visualisation des données
-  - seaborn  # Pour des visualisations avancées
-  - scikit-learn  # Pour la modélisation et les algorithmes ML
-  - statsmodels  # Pour l'analyse statistique avancée
-  - lxml  # nécessaire pour le parsing HTML avec pandas
-  - sqlalchemy  # Pour interagir avec des bases de données si besoin
-  - pip  # pour installer des paquets supplémentaires si besoin
+  - numpy
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - statsmodels
+  - lxml
+  - sqlalchemy
+  - pip
+  - scipy  # Souvent utile avec scikit-learn et numpy
+  - ipykernel  # Pour les notebooks Jupyter
+  - notebook  # Support des notebooks
+  - ipywidgets  # Widgets interactifs pour notebooks
+  - openpyxl  # Pour lire/écrire des fichiers Excel
+  - xlrd  # Support pour différents formats Excel
   - pip:
-      - html5lib  # parser HTML alternatif, utile pour certaines pages
-      - urllib3  # pour le support HTTP
-      - nba-api  # Spécifique pour récupérer les données NBA
-      - plotly  # Pour des visualisations interactives
-      - dash  # Si tu utilises Dash pour un tableau de bord
+      - html5lib
+      - urllib3
+      - nba-api
+      - plotly
+      - dash
+      - kaleido  # Pour exporter des figures Plotly statiques
