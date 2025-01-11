@@ -8,9 +8,9 @@ def get_all_boxscores(seasons):
         print(f"Processing season: {season}")
         games = get_games_by_season(season)
         season_boxscores = []
-        
-        for game_id in games['GAME_ID']:
-            print(f"Fetching boxscore for GAME_ID: {game_id}")
+
+        for count, game_id in enumerate(games['GAME_ID'], start=1):
+            #print(f"Fetching boxscore for GAME_ID: {game_id}")
             try:
                 player_stats, team_stats = get_boxscore(game_id)
                 season_boxscores.append({
@@ -20,14 +20,16 @@ def get_all_boxscores(seasons):
                 })
             except Exception as e:
                 print(f"Error fetching boxscore for GAME_ID {game_id}: {e}")
+                
+            if count % 50 == 0:
+                print(f"{count} boxscore have been fetched.") 
         
         all_boxscores[season] = season_boxscores
     return all_boxscores
 
-# Exemple pour les 10 dernières saisons
-seasons = ["2022-23"]
-    # "2013-14", "2014-15", "2015-16", "2016-17", "2017-18", 
-    #        "2018-19", "2019-20", "2020-21", "2021-22", "2022-23"]
+seasons = ["2020-21"]
+    #"2015-16", "2016-17", "2017-18", 
+    #        "2018-19", "2019-20", "2020-21", "2021-22"]
 boxscores = get_all_boxscores(seasons)
 
 output_dir = "nba_boxscores"
