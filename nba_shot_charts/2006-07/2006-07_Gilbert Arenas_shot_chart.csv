@@ -1,0 +1,648 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0020600009,345,2240,Gilbert Arenas,1610612764,Washington Wizards,3,3,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,26,1,1,20061101,CLE,WAS
+Shot Chart Detail,0020600009,477,2240,Gilbert Arenas,1610612764,Washington Wizards,4,3,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,143,210,1,1,20061101,CLE,WAS
+Shot Chart Detail,0020600031,9,2240,Gilbert Arenas,1610612764,Washington Wizards,1,10,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,75,240,1,1,20061104,WAS,BOS
+Shot Chart Detail,0020600031,38,2240,Gilbert Arenas,1610612764,Washington Wizards,1,7,51,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,-1,1,1,20061104,WAS,BOS
+Shot Chart Detail,0020600031,95,2240,Gilbert Arenas,1610612764,Washington Wizards,1,2,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,0,1,1,20061104,WAS,BOS
+Shot Chart Detail,0020600031,117,2240,Gilbert Arenas,1610612764,Washington Wizards,1,0,35,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,3,-3,1,1,20061104,WAS,BOS
+Shot Chart Detail,0020600031,195,2240,Gilbert Arenas,1610612764,Washington Wizards,2,5,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,31,210,1,1,20061104,WAS,BOS
+Shot Chart Detail,0020600031,201,2240,Gilbert Arenas,1610612764,Washington Wizards,2,4,15,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-10,23,1,1,20061104,WAS,BOS
+Shot Chart Detail,0020600031,295,2240,Gilbert Arenas,1610612764,Washington Wizards,3,8,59,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,3,1,1,20061104,WAS,BOS
+Shot Chart Detail,0020600031,317,2240,Gilbert Arenas,1610612764,Washington Wizards,3,6,27,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,-19,1,1,20061104,WAS,BOS
+Shot Chart Detail,0020600031,322,2240,Gilbert Arenas,1610612764,Washington Wizards,3,6,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,10,248,1,1,20061104,WAS,BOS
+Shot Chart Detail,0020600031,329,2240,Gilbert Arenas,1610612764,Washington Wizards,3,5,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,0,1,1,20061104,WAS,BOS
+Shot Chart Detail,0020600031,341,2240,Gilbert Arenas,1610612764,Washington Wizards,3,3,38,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,189,15,1,1,20061104,WAS,BOS
+Shot Chart Detail,0020600031,366,2240,Gilbert Arenas,1610612764,Washington Wizards,3,0,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,0,257,1,1,20061104,WAS,BOS
+Shot Chart Detail,0020600031,432,2240,Gilbert Arenas,1610612764,Washington Wizards,4,5,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,15,250,1,1,20061104,WAS,BOS
+Shot Chart Detail,0020600031,483,2240,Gilbert Arenas,1610612764,Washington Wizards,4,1,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,22,10,220,1,1,20061104,WAS,BOS
+Shot Chart Detail,0020600045,29,2240,Gilbert Arenas,1610612764,Washington Wizards,1,7,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,144,117,1,1,20061106,ORL,WAS
+Shot Chart Detail,0020600045,33,2240,Gilbert Arenas,1610612764,Washington Wizards,1,7,15,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,15,-75,137,1,1,20061106,ORL,WAS
+Shot Chart Detail,0020600045,38,2240,Gilbert Arenas,1610612764,Washington Wizards,1,6,47,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061106,ORL,WAS
+Shot Chart Detail,0020600045,72,2240,Gilbert Arenas,1610612764,Washington Wizards,1,2,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061106,ORL,WAS
+Shot Chart Detail,0020600045,246,2240,Gilbert Arenas,1610612764,Washington Wizards,3,9,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,128,215,1,1,20061106,ORL,WAS
+Shot Chart Detail,0020600045,339,2240,Gilbert Arenas,1610612764,Washington Wizards,3,0,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,177,130,1,1,20061106,ORL,WAS
+Shot Chart Detail,0020600059,3,2240,Gilbert Arenas,1610612764,Washington Wizards,1,11,42,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,-3,1,1,20061108,WAS,IND
+Shot Chart Detail,0020600059,40,2240,Gilbert Arenas,1610612764,Washington Wizards,1,7,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-118,141,1,1,20061108,WAS,IND
+Shot Chart Detail,0020600059,42,2240,Gilbert Arenas,1610612764,Washington Wizards,1,7,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-141,225,1,1,20061108,WAS,IND
+Shot Chart Detail,0020600059,60,2240,Gilbert Arenas,1610612764,Washington Wizards,1,4,31,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-161,20,1,1,20061108,WAS,IND
+Shot Chart Detail,0020600059,78,2240,Gilbert Arenas,1610612764,Washington Wizards,1,2,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-179,91,1,1,20061108,WAS,IND
+Shot Chart Detail,0020600059,147,2240,Gilbert Arenas,1610612764,Washington Wizards,2,7,4,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-92,31,1,1,20061108,WAS,IND
+Shot Chart Detail,0020600059,231,2240,Gilbert Arenas,1610612764,Washington Wizards,2,1,11,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,5,1,1,20061108,WAS,IND
+Shot Chart Detail,0020600059,235,2240,Gilbert Arenas,1610612764,Washington Wizards,2,0,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,10,248,1,1,20061108,WAS,IND
+Shot Chart Detail,0020600059,253,2240,Gilbert Arenas,1610612764,Washington Wizards,2,0,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,186,-8,1,1,20061108,WAS,IND
+Shot Chart Detail,0020600059,259,2240,Gilbert Arenas,1610612764,Washington Wizards,3,11,46,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,47,0,1,1,20061108,WAS,IND
+Shot Chart Detail,0020600059,267,2240,Gilbert Arenas,1610612764,Washington Wizards,3,10,42,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,3,1,1,20061108,WAS,IND
+Shot Chart Detail,0020600059,308,2240,Gilbert Arenas,1610612764,Washington Wizards,3,6,52,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,10,1,1,20061108,WAS,IND
+Shot Chart Detail,0020600059,354,2240,Gilbert Arenas,1610612764,Washington Wizards,3,3,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-16,253,1,1,20061108,WAS,IND
+Shot Chart Detail,0020600059,408,2240,Gilbert Arenas,1610612764,Washington Wizards,4,10,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-21,252,1,1,20061108,WAS,IND
+Shot Chart Detail,0020600074,5,2240,Gilbert Arenas,1610612764,Washington Wizards,1,11,40,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,3,1,1,20061110,WAS,MIL
+Shot Chart Detail,0020600074,39,2240,Gilbert Arenas,1610612764,Washington Wizards,1,7,1,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,8,1,1,20061110,WAS,MIL
+Shot Chart Detail,0020600074,68,2240,Gilbert Arenas,1610612764,Washington Wizards,1,4,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,151,201,1,1,20061110,WAS,MIL
+Shot Chart Detail,0020600074,73,2240,Gilbert Arenas,1610612764,Washington Wizards,1,3,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,153,199,1,1,20061110,WAS,MIL
+Shot Chart Detail,0020600074,118,2240,Gilbert Arenas,1610612764,Washington Wizards,2,11,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,186,174,1,1,20061110,WAS,MIL
+Shot Chart Detail,0020600074,223,2240,Gilbert Arenas,1610612764,Washington Wizards,2,1,51,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,0,1,1,20061110,WAS,MIL
+Shot Chart Detail,0020600074,439,2240,Gilbert Arenas,1610612764,Washington Wizards,4,5,59,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,135,-39,1,1,20061110,WAS,MIL
+Shot Chart Detail,0020600074,503,2240,Gilbert Arenas,1610612764,Washington Wizards,4,0,32,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,0,1,1,20061110,WAS,MIL
+Shot Chart Detail,0020600074,508,2240,Gilbert Arenas,1610612764,Washington Wizards,4,0,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,0,1,1,20061110,WAS,MIL
+Shot Chart Detail,0020600091,58,2240,Gilbert Arenas,1610612764,Washington Wizards,1,4,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,228,123,1,1,20061112,WAS,NJN
+Shot Chart Detail,0020600091,102,2240,Gilbert Arenas,1610612764,Washington Wizards,2,11,20,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,-29,1,1,20061112,WAS,NJN
+Shot Chart Detail,0020600091,239,2240,Gilbert Arenas,1610612764,Washington Wizards,3,8,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,92,245,1,1,20061112,WAS,NJN
+Shot Chart Detail,0020600091,327,2240,Gilbert Arenas,1610612764,Washington Wizards,3,0,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,7,1,1,20061112,WAS,NJN
+Shot Chart Detail,0020600091,435,2240,Gilbert Arenas,1610612764,Washington Wizards,4,0,50,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-179,89,1,1,20061112,WAS,NJN
+Shot Chart Detail,0020600091,468,2240,Gilbert Arenas,1610612764,Washington Wizards,5,4,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,220,125,1,1,20061112,WAS,NJN
+Shot Chart Detail,0020600112,14,2240,Gilbert Arenas,1610612764,Washington Wizards,1,10,2,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061115,NYK,WAS
+Shot Chart Detail,0020600112,96,2240,Gilbert Arenas,1610612764,Washington Wizards,1,1,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061115,NYK,WAS
+Shot Chart Detail,0020600112,233,2240,Gilbert Arenas,1610612764,Washington Wizards,2,1,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061115,NYK,WAS
+Shot Chart Detail,0020600112,261,2240,Gilbert Arenas,1610612764,Washington Wizards,3,10,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,149,0,1,1,20061115,NYK,WAS
+Shot Chart Detail,0020600112,440,2240,Gilbert Arenas,1610612764,Washington Wizards,4,7,36,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061115,NYK,WAS
+Shot Chart Detail,0020600123,59,2240,Gilbert Arenas,1610612764,Washington Wizards,1,4,37,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061117,DET,WAS
+Shot Chart Detail,0020600123,116,2240,Gilbert Arenas,1610612764,Washington Wizards,2,11,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-146,81,1,1,20061117,DET,WAS
+Shot Chart Detail,0020600123,182,2240,Gilbert Arenas,1610612764,Washington Wizards,2,5,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-130,84,1,1,20061117,DET,WAS
+Shot Chart Detail,0020600123,192,2240,Gilbert Arenas,1610612764,Washington Wizards,2,4,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,172,18,1,1,20061117,DET,WAS
+Shot Chart Detail,0020600123,350,2240,Gilbert Arenas,1610612764,Washington Wizards,4,10,49,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061117,DET,WAS
+Shot Chart Detail,0020600123,354,2240,Gilbert Arenas,1610612764,Washington Wizards,4,9,35,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-241,31,1,1,20061117,DET,WAS
+Shot Chart Detail,0020600123,365,2240,Gilbert Arenas,1610612764,Washington Wizards,4,8,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061117,DET,WAS
+Shot Chart Detail,0020600129,71,2240,Gilbert Arenas,1610612764,Washington Wizards,1,3,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-95,240,1,1,20061118,WAS,CLE
+Shot Chart Detail,0020600129,119,2240,Gilbert Arenas,1610612764,Washington Wizards,2,8,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-48,250,1,1,20061118,WAS,CLE
+Shot Chart Detail,0020600129,167,2240,Gilbert Arenas,1610612764,Washington Wizards,2,3,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-191,56,1,1,20061118,WAS,CLE
+Shot Chart Detail,0020600129,172,2240,Gilbert Arenas,1610612764,Washington Wizards,2,2,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,94,179,1,1,20061118,WAS,CLE
+Shot Chart Detail,0020600129,179,2240,Gilbert Arenas,1610612764,Washington Wizards,2,2,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,159,206,1,1,20061118,WAS,CLE
+Shot Chart Detail,0020600129,190,2240,Gilbert Arenas,1610612764,Washington Wizards,2,0,52,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,3,-1,1,1,20061118,WAS,CLE
+Shot Chart Detail,0020600129,237,2240,Gilbert Arenas,1610612764,Washington Wizards,3,10,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-123,128,1,1,20061118,WAS,CLE
+Shot Chart Detail,0020600129,283,2240,Gilbert Arenas,1610612764,Washington Wizards,3,6,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,125,130,1,1,20061118,WAS,CLE
+Shot Chart Detail,0020600129,353,2240,Gilbert Arenas,1610612764,Washington Wizards,3,0,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,141,237,1,1,20061118,WAS,CLE
+Shot Chart Detail,0020600129,363,2240,Gilbert Arenas,1610612764,Washington Wizards,3,0,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,92,242,1,1,20061118,WAS,CLE
+Shot Chart Detail,0020600129,376,2240,Gilbert Arenas,1610612764,Washington Wizards,4,10,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-151,66,1,1,20061118,WAS,CLE
+Shot Chart Detail,0020600129,387,2240,Gilbert Arenas,1610612764,Washington Wizards,4,9,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-33,253,1,1,20061118,WAS,CLE
+Shot Chart Detail,0020600129,393,2240,Gilbert Arenas,1610612764,Washington Wizards,4,8,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,11,245,1,1,20061118,WAS,CLE
+Shot Chart Detail,0020600129,407,2240,Gilbert Arenas,1610612764,Washington Wizards,4,7,6,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,0,1,1,20061118,WAS,CLE
+Shot Chart Detail,0020600155,2,2240,Gilbert Arenas,1610612764,Washington Wizards,1,11,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-18,207,1,1,20061121,DAL,WAS
+Shot Chart Detail,0020600155,4,2240,Gilbert Arenas,1610612764,Washington Wizards,1,11,13,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061121,DAL,WAS
+Shot Chart Detail,0020600155,66,2240,Gilbert Arenas,1610612764,Washington Wizards,1,5,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061121,DAL,WAS
+Shot Chart Detail,0020600155,79,2240,Gilbert Arenas,1610612764,Washington Wizards,1,3,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,169,140,1,1,20061121,DAL,WAS
+Shot Chart Detail,0020600155,85,2240,Gilbert Arenas,1610612764,Washington Wizards,1,3,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061121,DAL,WAS
+Shot Chart Detail,0020600155,110,2240,Gilbert Arenas,1610612764,Washington Wizards,1,1,24,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061121,DAL,WAS
+Shot Chart Detail,0020600155,209,2240,Gilbert Arenas,1610612764,Washington Wizards,2,4,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-141,202,1,1,20061121,DAL,WAS
+Shot Chart Detail,0020600155,278,2240,Gilbert Arenas,1610612764,Washington Wizards,3,11,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,176,43,1,1,20061121,DAL,WAS
+Shot Chart Detail,0020600155,293,2240,Gilbert Arenas,1610612764,Washington Wizards,3,9,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-200,156,1,1,20061121,DAL,WAS
+Shot Chart Detail,0020600165,35,2240,Gilbert Arenas,1610612764,Washington Wizards,1,7,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-113,132,1,1,20061122,HOU,WAS
+Shot Chart Detail,0020600165,55,2240,Gilbert Arenas,1610612764,Washington Wizards,1,5,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-154,122,1,1,20061122,HOU,WAS
+Shot Chart Detail,0020600165,80,2240,Gilbert Arenas,1610612764,Washington Wizards,1,3,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-141,89,1,1,20061122,HOU,WAS
+Shot Chart Detail,0020600165,124,2240,Gilbert Arenas,1610612764,Washington Wizards,2,10,41,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-235,58,1,1,20061122,HOU,WAS
+Shot Chart Detail,0020600165,176,2240,Gilbert Arenas,1610612764,Washington Wizards,2,5,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061122,HOU,WAS
+Shot Chart Detail,0020600165,417,2240,Gilbert Arenas,1610612764,Washington Wizards,4,5,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,161,206,1,1,20061122,HOU,WAS
+Shot Chart Detail,0020600165,464,2240,Gilbert Arenas,1610612764,Washington Wizards,4,1,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,5,257,1,1,20061122,HOU,WAS
+Shot Chart Detail,0020600165,488,2240,Gilbert Arenas,1610612764,Washington Wizards,4,0,3,Made Shot,Jump Bank Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,69,265,1,1,20061122,HOU,WAS
+Shot Chart Detail,0020600177,419,2240,Gilbert Arenas,1610612764,Washington Wizards,4,6,0,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061124,MEM,WAS
+Shot Chart Detail,0020600184,11,2240,Gilbert Arenas,1610612764,Washington Wizards,1,9,57,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,22,1,1,20061125,WAS,DET
+Shot Chart Detail,0020600184,30,2240,Gilbert Arenas,1610612764,Washington Wizards,1,7,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,87,174,1,1,20061125,WAS,DET
+Shot Chart Detail,0020600184,34,2240,Gilbert Arenas,1610612764,Washington Wizards,1,6,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-153,219,1,1,20061125,WAS,DET
+Shot Chart Detail,0020600184,39,2240,Gilbert Arenas,1610612764,Washington Wizards,1,6,7,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,36,36,1,1,20061125,WAS,DET
+Shot Chart Detail,0020600184,83,2240,Gilbert Arenas,1610612764,Washington Wizards,1,2,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,225,143,1,1,20061125,WAS,DET
+Shot Chart Detail,0020600184,173,2240,Gilbert Arenas,1610612764,Washington Wizards,2,6,4,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,3,8,1,1,20061125,WAS,DET
+Shot Chart Detail,0020600184,236,2240,Gilbert Arenas,1610612764,Washington Wizards,2,0,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-191,40,1,1,20061125,WAS,DET
+Shot Chart Detail,0020600184,288,2240,Gilbert Arenas,1610612764,Washington Wizards,3,7,44,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,15,18,1,1,20061125,WAS,DET
+Shot Chart Detail,0020600184,502,2240,Gilbert Arenas,1610612764,Washington Wizards,4,0,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,77,270,1,1,20061125,WAS,DET
+Shot Chart Detail,0020600204,27,2240,Gilbert Arenas,1610612764,Washington Wizards,1,7,51,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,0,1,1,20061128,WAS,ATL
+Shot Chart Detail,0020600204,83,2240,Gilbert Arenas,1610612764,Washington Wizards,1,2,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,138,219,1,1,20061128,WAS,ATL
+Shot Chart Detail,0020600204,284,2240,Gilbert Arenas,1610612764,Washington Wizards,3,9,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-85,238,1,1,20061128,WAS,ATL
+Shot Chart Detail,0020600204,313,2240,Gilbert Arenas,1610612764,Washington Wizards,3,5,47,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,-11,1,1,20061128,WAS,ATL
+Shot Chart Detail,0020600204,339,2240,Gilbert Arenas,1610612764,Washington Wizards,3,3,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,95,183,1,1,20061128,WAS,ATL
+Shot Chart Detail,0020600204,395,2240,Gilbert Arenas,1610612764,Washington Wizards,4,9,50,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,12,1,1,20061128,WAS,ATL
+Shot Chart Detail,0020600204,437,2240,Gilbert Arenas,1610612764,Washington Wizards,4,6,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,0,1,1,20061128,WAS,ATL
+Shot Chart Detail,0020600225,73,2240,Gilbert Arenas,1610612764,Washington Wizards,1,2,28,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-156,66,1,1,20061201,WAS,CHA
+Shot Chart Detail,0020600225,205,2240,Gilbert Arenas,1610612764,Washington Wizards,2,2,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,154,209,1,1,20061201,WAS,CHA
+Shot Chart Detail,0020600225,220,2240,Gilbert Arenas,1610612764,Washington Wizards,2,1,33,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,85,41,1,1,20061201,WAS,CHA
+Shot Chart Detail,0020600225,222,2240,Gilbert Arenas,1610612764,Washington Wizards,2,1,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-82,138,1,1,20061201,WAS,CHA
+Shot Chart Detail,0020600225,237,2240,Gilbert Arenas,1610612764,Washington Wizards,3,11,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,189,163,1,1,20061201,WAS,CHA
+Shot Chart Detail,0020600225,266,2240,Gilbert Arenas,1610612764,Washington Wizards,3,8,19,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,2,1,1,20061201,WAS,CHA
+Shot Chart Detail,0020600225,310,2240,Gilbert Arenas,1610612764,Washington Wizards,3,4,31,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,153,59,1,1,20061201,WAS,CHA
+Shot Chart Detail,0020600225,395,2240,Gilbert Arenas,1610612764,Washington Wizards,4,7,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,149,109,1,1,20061201,WAS,CHA
+Shot Chart Detail,0020600225,423,2240,Gilbert Arenas,1610612764,Washington Wizards,4,5,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,3,-1,1,1,20061201,WAS,CHA
+Shot Chart Detail,0020600225,436,2240,Gilbert Arenas,1610612764,Washington Wizards,4,4,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,2,1,1,20061201,WAS,CHA
+Shot Chart Detail,0020600225,471,2240,Gilbert Arenas,1610612764,Washington Wizards,4,1,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,0,1,1,20061201,WAS,CHA
+Shot Chart Detail,0020600238,5,2240,Gilbert Arenas,1610612764,Washington Wizards,1,11,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,141,54,1,1,20061202,CHI,WAS
+Shot Chart Detail,0020600238,61,2240,Gilbert Arenas,1610612764,Washington Wizards,1,3,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,130,204,1,1,20061202,CHI,WAS
+Shot Chart Detail,0020600238,64,2240,Gilbert Arenas,1610612764,Washington Wizards,1,3,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,144,209,1,1,20061202,CHI,WAS
+Shot Chart Detail,0020600248,27,2240,Gilbert Arenas,1610612764,Washington Wizards,1,8,58,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,49,10,1,1,20061204,WAS,DAL
+Shot Chart Detail,0020600248,32,2240,Gilbert Arenas,1610612764,Washington Wizards,1,8,21,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,169,-34,1,1,20061204,WAS,DAL
+Shot Chart Detail,0020600248,61,2240,Gilbert Arenas,1610612764,Washington Wizards,1,5,41,Made Shot,Running Finger Roll Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,47,10,1,1,20061204,WAS,DAL
+Shot Chart Detail,0020600248,71,2240,Gilbert Arenas,1610612764,Washington Wizards,1,4,20,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-110,33,1,1,20061204,WAS,DAL
+Shot Chart Detail,0020600248,164,2240,Gilbert Arenas,1610612764,Washington Wizards,2,5,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,5,1,1,20061204,WAS,DAL
+Shot Chart Detail,0020600248,190,2240,Gilbert Arenas,1610612764,Washington Wizards,2,3,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,103,141,1,1,20061204,WAS,DAL
+Shot Chart Detail,0020600248,192,2240,Gilbert Arenas,1610612764,Washington Wizards,2,2,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-163,76,1,1,20061204,WAS,DAL
+Shot Chart Detail,0020600248,215,2240,Gilbert Arenas,1610612764,Washington Wizards,2,0,38,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-130,30,1,1,20061204,WAS,DAL
+Shot Chart Detail,0020600248,255,2240,Gilbert Arenas,1610612764,Washington Wizards,3,8,44,Made Shot,Jump Bank Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-177,186,1,1,20061204,WAS,DAL
+Shot Chart Detail,0020600248,361,2240,Gilbert Arenas,1610612764,Washington Wizards,4,11,13,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,-5,1,1,20061204,WAS,DAL
+Shot Chart Detail,0020600248,369,2240,Gilbert Arenas,1610612764,Washington Wizards,4,10,18,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,-6,1,1,20061204,WAS,DAL
+Shot Chart Detail,0020600248,392,2240,Gilbert Arenas,1610612764,Washington Wizards,4,8,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,176,-34,1,1,20061204,WAS,DAL
+Shot Chart Detail,0020600248,429,2240,Gilbert Arenas,1610612764,Washington Wizards,4,6,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,-1,1,1,20061204,WAS,DAL
+Shot Chart Detail,0020600248,451,2240,Gilbert Arenas,1610612764,Washington Wizards,4,3,17,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-57,23,1,1,20061204,WAS,DAL
+Shot Chart Detail,0020600248,460,2240,Gilbert Arenas,1610612764,Washington Wizards,4,2,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,166,79,1,1,20061204,WAS,DAL
+Shot Chart Detail,0020600265,3,2240,Gilbert Arenas,1610612764,Washington Wizards,1,11,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-67,196,1,1,20061206,NYK,WAS
+Shot Chart Detail,0020600265,28,2240,Gilbert Arenas,1610612764,Washington Wizards,1,7,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,153,198,1,1,20061206,NYK,WAS
+Shot Chart Detail,0020600265,89,2240,Gilbert Arenas,1610612764,Washington Wizards,1,1,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061206,NYK,WAS
+Shot Chart Detail,0020600265,100,2240,Gilbert Arenas,1610612764,Washington Wizards,1,0,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-155,204,1,1,20061206,NYK,WAS
+Shot Chart Detail,0020600265,131,2240,Gilbert Arenas,1610612764,Washington Wizards,2,9,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,23,42,236,1,1,20061206,NYK,WAS
+Shot Chart Detail,0020600265,192,2240,Gilbert Arenas,1610612764,Washington Wizards,2,3,2,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061206,NYK,WAS
+Shot Chart Detail,0020600265,194,2240,Gilbert Arenas,1610612764,Washington Wizards,2,2,29,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061206,NYK,WAS
+Shot Chart Detail,0020600265,202,2240,Gilbert Arenas,1610612764,Washington Wizards,2,2,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,94,226,1,1,20061206,NYK,WAS
+Shot Chart Detail,0020600265,231,2240,Gilbert Arenas,1610612764,Washington Wizards,3,10,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,70,202,1,1,20061206,NYK,WAS
+Shot Chart Detail,0020600265,291,2240,Gilbert Arenas,1610612764,Washington Wizards,3,6,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,13,257,1,1,20061206,NYK,WAS
+Shot Chart Detail,0020600265,310,2240,Gilbert Arenas,1610612764,Washington Wizards,3,4,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-14,246,1,1,20061206,NYK,WAS
+Shot Chart Detail,0020600265,384,2240,Gilbert Arenas,1610612764,Washington Wizards,4,10,25,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,3,63,1,1,20061206,NYK,WAS
+Shot Chart Detail,0020600265,443,2240,Gilbert Arenas,1610612764,Washington Wizards,4,5,16,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061206,NYK,WAS
+Shot Chart Detail,0020600278,48,2240,Gilbert Arenas,1610612764,Washington Wizards,1,5,58,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-168,-29,1,1,20061208,PHI,WAS
+Shot Chart Detail,0020600278,100,2240,Gilbert Arenas,1610612764,Washington Wizards,1,0,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,38,120,362,1,1,20061208,PHI,WAS
+Shot Chart Detail,0020600278,112,2240,Gilbert Arenas,1610612764,Washington Wizards,2,10,8,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,89,-8,1,1,20061208,PHI,WAS
+Shot Chart Detail,0020600278,172,2240,Gilbert Arenas,1610612764,Washington Wizards,2,3,38,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061208,PHI,WAS
+Shot Chart Detail,0020600278,182,2240,Gilbert Arenas,1610612764,Washington Wizards,2,2,51,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061208,PHI,WAS
+Shot Chart Detail,0020600278,230,2240,Gilbert Arenas,1610612764,Washington Wizards,2,0,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-141,243,1,1,20061208,PHI,WAS
+Shot Chart Detail,0020600278,260,2240,Gilbert Arenas,1610612764,Washington Wizards,3,8,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061208,PHI,WAS
+Shot Chart Detail,0020600278,273,2240,Gilbert Arenas,1610612764,Washington Wizards,3,7,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-140,240,1,1,20061208,PHI,WAS
+Shot Chart Detail,0020600278,296,2240,Gilbert Arenas,1610612764,Washington Wizards,3,3,26,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061208,PHI,WAS
+Shot Chart Detail,0020600278,397,2240,Gilbert Arenas,1610612764,Washington Wizards,4,5,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,181,84,1,1,20061208,PHI,WAS
+Shot Chart Detail,0020600278,424,2240,Gilbert Arenas,1610612764,Washington Wizards,4,2,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,6,261,1,1,20061208,PHI,WAS
+Shot Chart Detail,0020600286,125,2240,Gilbert Arenas,1610612764,Washington Wizards,2,11,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-172,138,1,1,20061209,WAS,HOU
+Shot Chart Detail,0020600286,193,2240,Gilbert Arenas,1610612764,Washington Wizards,2,5,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,163,197,1,1,20061209,WAS,HOU
+Shot Chart Detail,0020600286,195,2240,Gilbert Arenas,1610612764,Washington Wizards,2,4,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,230,114,1,1,20061209,WAS,HOU
+Shot Chart Detail,0020600286,202,2240,Gilbert Arenas,1610612764,Washington Wizards,2,3,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,205,143,1,1,20061209,WAS,HOU
+Shot Chart Detail,0020600286,211,2240,Gilbert Arenas,1610612764,Washington Wizards,2,2,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-176,68,1,1,20061209,WAS,HOU
+Shot Chart Detail,0020600286,222,2240,Gilbert Arenas,1610612764,Washington Wizards,2,1,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,220,125,1,1,20061209,WAS,HOU
+Shot Chart Detail,0020600286,249,2240,Gilbert Arenas,1610612764,Washington Wizards,3,11,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,233,105,1,1,20061209,WAS,HOU
+Shot Chart Detail,0020600286,277,2240,Gilbert Arenas,1610612764,Washington Wizards,3,8,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,161,-19,1,1,20061209,WAS,HOU
+Shot Chart Detail,0020600286,391,2240,Gilbert Arenas,1610612764,Washington Wizards,4,10,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,200,63,1,1,20061209,WAS,HOU
+Shot Chart Detail,0020600286,410,2240,Gilbert Arenas,1610612764,Washington Wizards,4,8,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,44,253,1,1,20061209,WAS,HOU
+Shot Chart Detail,0020600286,413,2240,Gilbert Arenas,1610612764,Washington Wizards,4,8,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,72,238,1,1,20061209,WAS,HOU
+Shot Chart Detail,0020600286,481,2240,Gilbert Arenas,1610612764,Washington Wizards,4,3,6,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,-6,1,1,20061209,WAS,HOU
+Shot Chart Detail,0020600286,507,2240,Gilbert Arenas,1610612764,Washington Wizards,4,1,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,3,2,1,1,20061209,WAS,HOU
+Shot Chart Detail,0020600314,11,2240,Gilbert Arenas,1610612764,Washington Wizards,1,10,25,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,-1,1,1,20061213,WAS,DEN
+Shot Chart Detail,0020600314,28,2240,Gilbert Arenas,1610612764,Washington Wizards,1,8,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,8,248,1,1,20061213,WAS,DEN
+Shot Chart Detail,0020600314,44,2240,Gilbert Arenas,1610612764,Washington Wizards,1,6,16,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,3,0,1,1,20061213,WAS,DEN
+Shot Chart Detail,0020600314,66,2240,Gilbert Arenas,1610612764,Washington Wizards,1,3,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,140,215,1,1,20061213,WAS,DEN
+Shot Chart Detail,0020600314,68,2240,Gilbert Arenas,1610612764,Washington Wizards,1,3,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,169,197,1,1,20061213,WAS,DEN
+Shot Chart Detail,0020600314,101,2240,Gilbert Arenas,1610612764,Washington Wizards,1,0,23,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-3,10,1,1,20061213,WAS,DEN
+Shot Chart Detail,0020600314,142,2240,Gilbert Arenas,1610612764,Washington Wizards,2,8,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,7,1,1,20061213,WAS,DEN
+Shot Chart Detail,0020600314,178,2240,Gilbert Arenas,1610612764,Washington Wizards,2,5,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-143,-29,1,1,20061213,WAS,DEN
+Shot Chart Detail,0020600314,313,2240,Gilbert Arenas,1610612764,Washington Wizards,3,4,56,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,0,1,1,20061213,WAS,DEN
+Shot Chart Detail,0020600314,324,2240,Gilbert Arenas,1610612764,Washington Wizards,3,4,3,Made Shot,Running Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,11,36,1,1,20061213,WAS,DEN
+Shot Chart Detail,0020600330,8,2240,Gilbert Arenas,1610612764,Washington Wizards,1,10,56,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-16,15,1,1,20061215,WAS,MIA
+Shot Chart Detail,0020600330,28,2240,Gilbert Arenas,1610612764,Washington Wizards,1,7,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,123,109,1,1,20061215,WAS,MIA
+Shot Chart Detail,0020600330,50,2240,Gilbert Arenas,1610612764,Washington Wizards,1,5,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,161,202,1,1,20061215,WAS,MIA
+Shot Chart Detail,0020600330,66,2240,Gilbert Arenas,1610612764,Washington Wizards,1,3,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,7,1,1,20061215,WAS,MIA
+Shot Chart Detail,0020600330,88,2240,Gilbert Arenas,1610612764,Washington Wizards,1,0,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,223,146,1,1,20061215,WAS,MIA
+Shot Chart Detail,0020600330,164,2240,Gilbert Arenas,1610612764,Washington Wizards,2,5,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,195,168,1,1,20061215,WAS,MIA
+Shot Chart Detail,0020600330,206,2240,Gilbert Arenas,1610612764,Washington Wizards,2,1,23,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,3,1,1,20061215,WAS,MIA
+Shot Chart Detail,0020600330,264,2240,Gilbert Arenas,1610612764,Washington Wizards,3,7,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-26,181,1,1,20061215,WAS,MIA
+Shot Chart Detail,0020600330,285,2240,Gilbert Arenas,1610612764,Washington Wizards,3,5,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,77,148,1,1,20061215,WAS,MIA
+Shot Chart Detail,0020600330,357,2240,Gilbert Arenas,1610612764,Washington Wizards,4,9,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,200,164,1,1,20061215,WAS,MIA
+Shot Chart Detail,0020600355,19,2240,Gilbert Arenas,1610612764,Washington Wizards,1,9,30,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061217,LAL,WAS
+Shot Chart Detail,0020600355,28,2240,Gilbert Arenas,1610612764,Washington Wizards,1,8,14,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,141,53,1,1,20061217,LAL,WAS
+Shot Chart Detail,0020600355,46,2240,Gilbert Arenas,1610612764,Washington Wizards,1,6,14,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,163,13,1,1,20061217,LAL,WAS
+Shot Chart Detail,0020600355,50,2240,Gilbert Arenas,1610612764,Washington Wizards,1,5,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,22,-210,66,1,1,20061217,LAL,WAS
+Shot Chart Detail,0020600355,93,2240,Gilbert Arenas,1610612764,Washington Wizards,1,0,37,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061217,LAL,WAS
+Shot Chart Detail,0020600355,95,2240,Gilbert Arenas,1610612764,Washington Wizards,1,0,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-77,206,1,1,20061217,LAL,WAS
+Shot Chart Detail,0020600355,263,2240,Gilbert Arenas,1610612764,Washington Wizards,3,8,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061217,LAL,WAS
+Shot Chart Detail,0020600355,297,2240,Gilbert Arenas,1610612764,Washington Wizards,3,5,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-158,189,1,1,20061217,LAL,WAS
+Shot Chart Detail,0020600355,357,2240,Gilbert Arenas,1610612764,Washington Wizards,3,0,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,179,183,1,1,20061217,LAL,WAS
+Shot Chart Detail,0020600355,366,2240,Gilbert Arenas,1610612764,Washington Wizards,4,11,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-6,245,1,1,20061217,LAL,WAS
+Shot Chart Detail,0020600355,375,2240,Gilbert Arenas,1610612764,Washington Wizards,4,10,44,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061217,LAL,WAS
+Shot Chart Detail,0020600355,381,2240,Gilbert Arenas,1610612764,Washington Wizards,4,10,8,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-10,118,1,1,20061217,LAL,WAS
+Shot Chart Detail,0020600355,454,2240,Gilbert Arenas,1610612764,Washington Wizards,4,4,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,130,150,1,1,20061217,LAL,WAS
+Shot Chart Detail,0020600355,552,2240,Gilbert Arenas,1610612764,Washington Wizards,5,3,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,174,184,1,1,20061217,LAL,WAS
+Shot Chart Detail,0020600355,572,2240,Gilbert Arenas,1610612764,Washington Wizards,5,1,53,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061217,LAL,WAS
+Shot Chart Detail,0020600355,575,2240,Gilbert Arenas,1610612764,Washington Wizards,5,1,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061217,LAL,WAS
+Shot Chart Detail,0020600355,586,2240,Gilbert Arenas,1610612764,Washington Wizards,5,0,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-151,187,1,1,20061217,LAL,WAS
+Shot Chart Detail,0020600360,24,2240,Gilbert Arenas,1610612764,Washington Wizards,1,9,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-204,-8,1,1,20061218,DEN,WAS
+Shot Chart Detail,0020600360,40,2240,Gilbert Arenas,1610612764,Washington Wizards,1,6,58,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061218,DEN,WAS
+Shot Chart Detail,0020600360,115,2240,Gilbert Arenas,1610612764,Washington Wizards,1,0,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-38,247,1,1,20061218,DEN,WAS
+Shot Chart Detail,0020600360,154,2240,Gilbert Arenas,1610612764,Washington Wizards,2,9,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-168,100,1,1,20061218,DEN,WAS
+Shot Chart Detail,0020600360,165,2240,Gilbert Arenas,1610612764,Washington Wizards,2,7,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-202,150,1,1,20061218,DEN,WAS
+Shot Chart Detail,0020600360,180,2240,Gilbert Arenas,1610612764,Washington Wizards,2,6,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061218,DEN,WAS
+Shot Chart Detail,0020600360,219,2240,Gilbert Arenas,1610612764,Washington Wizards,2,3,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-210,138,1,1,20061218,DEN,WAS
+Shot Chart Detail,0020600360,263,2240,Gilbert Arenas,1610612764,Washington Wizards,3,11,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-202,0,1,1,20061218,DEN,WAS
+Shot Chart Detail,0020600360,431,2240,Gilbert Arenas,1610612764,Washington Wizards,4,8,33,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061218,DEN,WAS
+Shot Chart Detail,0020600360,463,2240,Gilbert Arenas,1610612764,Washington Wizards,4,5,36,Made Shot,Finger Roll Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061218,DEN,WAS
+Shot Chart Detail,0020600378,7,2240,Gilbert Arenas,1610612764,Washington Wizards,1,11,18,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,5,1,1,20061221,SAC,WAS
+Shot Chart Detail,0020600378,10,2240,Gilbert Arenas,1610612764,Washington Wizards,1,11,2,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061221,SAC,WAS
+Shot Chart Detail,0020600378,35,2240,Gilbert Arenas,1610612764,Washington Wizards,1,8,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061221,SAC,WAS
+Shot Chart Detail,0020600378,217,2240,Gilbert Arenas,1610612764,Washington Wizards,2,2,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,171,179,1,1,20061221,SAC,WAS
+Shot Chart Detail,0020600378,318,2240,Gilbert Arenas,1610612764,Washington Wizards,3,5,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-41,248,1,1,20061221,SAC,WAS
+Shot Chart Detail,0020600378,373,2240,Gilbert Arenas,1610612764,Washington Wizards,3,0,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,154,189,1,1,20061221,SAC,WAS
+Shot Chart Detail,0020600378,387,2240,Gilbert Arenas,1610612764,Washington Wizards,4,11,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,146,194,1,1,20061221,SAC,WAS
+Shot Chart Detail,0020600378,444,2240,Gilbert Arenas,1610612764,Washington Wizards,4,5,52,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,24,31,1,1,20061221,SAC,WAS
+Shot Chart Detail,0020600378,479,2240,Gilbert Arenas,1610612764,Washington Wizards,4,3,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061221,SAC,WAS
+Shot Chart Detail,0020600391,44,2240,Gilbert Arenas,1610612764,Washington Wizards,1,7,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,23,155,1,1,20061222,PHX,WAS
+Shot Chart Detail,0020600391,50,2240,Gilbert Arenas,1610612764,Washington Wizards,1,6,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,0,196,1,1,20061222,PHX,WAS
+Shot Chart Detail,0020600391,73,2240,Gilbert Arenas,1610612764,Washington Wizards,1,4,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-186,171,1,1,20061222,PHX,WAS
+Shot Chart Detail,0020600391,87,2240,Gilbert Arenas,1610612764,Washington Wizards,1,1,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,154,202,1,1,20061222,PHX,WAS
+Shot Chart Detail,0020600391,96,2240,Gilbert Arenas,1610612764,Washington Wizards,1,0,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,23,121,206,1,1,20061222,PHX,WAS
+Shot Chart Detail,0020600391,105,2240,Gilbert Arenas,1610612764,Washington Wizards,1,0,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,36,174,321,1,1,20061222,PHX,WAS
+Shot Chart Detail,0020600391,145,2240,Gilbert Arenas,1610612764,Washington Wizards,2,7,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061222,PHX,WAS
+Shot Chart Detail,0020600391,166,2240,Gilbert Arenas,1610612764,Washington Wizards,2,5,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-89,153,1,1,20061222,PHX,WAS
+Shot Chart Detail,0020600391,197,2240,Gilbert Arenas,1610612764,Washington Wizards,2,2,18,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,39,66,1,1,20061222,PHX,WAS
+Shot Chart Detail,0020600391,220,2240,Gilbert Arenas,1610612764,Washington Wizards,3,11,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-125,43,1,1,20061222,PHX,WAS
+Shot Chart Detail,0020600391,254,2240,Gilbert Arenas,1610612764,Washington Wizards,3,7,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-11,187,1,1,20061222,PHX,WAS
+Shot Chart Detail,0020600391,258,2240,Gilbert Arenas,1610612764,Washington Wizards,3,7,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,146,232,1,1,20061222,PHX,WAS
+Shot Chart Detail,0020600391,277,2240,Gilbert Arenas,1610612764,Washington Wizards,3,5,23,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061222,PHX,WAS
+Shot Chart Detail,0020600391,306,2240,Gilbert Arenas,1610612764,Washington Wizards,3,3,1,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,140,95,1,1,20061222,PHX,WAS
+Shot Chart Detail,0020600391,334,2240,Gilbert Arenas,1610612764,Washington Wizards,3,0,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-102,164,1,1,20061222,PHX,WAS
+Shot Chart Detail,0020600391,378,2240,Gilbert Arenas,1610612764,Washington Wizards,4,7,51,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061222,PHX,WAS
+Shot Chart Detail,0020600391,434,2240,Gilbert Arenas,1610612764,Washington Wizards,4,2,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,108,150,1,1,20061222,PHX,WAS
+Shot Chart Detail,0020600391,441,2240,Gilbert Arenas,1610612764,Washington Wizards,4,1,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,112,158,1,1,20061222,PHX,WAS
+Shot Chart Detail,0020600391,477,2240,Gilbert Arenas,1610612764,Washington Wizards,4,0,20,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,75,45,1,1,20061222,PHX,WAS
+Shot Chart Detail,0020600391,507,2240,Gilbert Arenas,1610612764,Washington Wizards,5,2,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,22,-11,224,1,1,20061222,PHX,WAS
+Shot Chart Detail,0020600391,527,2240,Gilbert Arenas,1610612764,Washington Wizards,5,0,30,Made Shot,Jump Bank Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,18,270,1,1,20061222,PHX,WAS
+Shot Chart Detail,0020600404,48,2240,Gilbert Arenas,1610612764,Washington Wizards,1,6,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,22,6,227,1,1,20061226,WAS,MEM
+Shot Chart Detail,0020600404,64,2240,Gilbert Arenas,1610612764,Washington Wizards,1,4,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,140,209,1,1,20061226,WAS,MEM
+Shot Chart Detail,0020600404,75,2240,Gilbert Arenas,1610612764,Washington Wizards,1,3,27,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-3,7,1,1,20061226,WAS,MEM
+Shot Chart Detail,0020600404,83,2240,Gilbert Arenas,1610612764,Washington Wizards,1,3,5,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,130,92,1,1,20061226,WAS,MEM
+Shot Chart Detail,0020600404,117,2240,Gilbert Arenas,1610612764,Washington Wizards,1,0,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,-1,1,1,20061226,WAS,MEM
+Shot Chart Detail,0020600404,189,2240,Gilbert Arenas,1610612764,Washington Wizards,2,5,1,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,12,1,1,20061226,WAS,MEM
+Shot Chart Detail,0020600404,195,2240,Gilbert Arenas,1610612764,Washington Wizards,2,4,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,33,-149,298,1,1,20061226,WAS,MEM
+Shot Chart Detail,0020600404,244,2240,Gilbert Arenas,1610612764,Washington Wizards,2,0,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,133,148,1,1,20061226,WAS,MEM
+Shot Chart Detail,0020600404,280,2240,Gilbert Arenas,1610612764,Washington Wizards,3,8,11,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,3,2,1,1,20061226,WAS,MEM
+Shot Chart Detail,0020600416,62,2240,Gilbert Arenas,1610612764,Washington Wizards,1,5,5,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,6,54,1,1,20061227,CHA,WAS
+Shot Chart Detail,0020600416,64,2240,Gilbert Arenas,1610612764,Washington Wizards,1,4,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,161,240,1,1,20061227,CHA,WAS
+Shot Chart Detail,0020600416,126,2240,Gilbert Arenas,1610612764,Washington Wizards,2,10,33,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,5,1,1,20061227,CHA,WAS
+Shot Chart Detail,0020600416,184,2240,Gilbert Arenas,1610612764,Washington Wizards,2,5,6,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061227,CHA,WAS
+Shot Chart Detail,0020600416,347,2240,Gilbert Arenas,1610612764,Washington Wizards,3,3,45,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061227,CHA,WAS
+Shot Chart Detail,0020600416,372,2240,Gilbert Arenas,1610612764,Washington Wizards,3,1,19,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061227,CHA,WAS
+Shot Chart Detail,0020600416,378,2240,Gilbert Arenas,1610612764,Washington Wizards,3,0,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,174,194,1,1,20061227,CHA,WAS
+Shot Chart Detail,0020600416,456,2240,Gilbert Arenas,1610612764,Washington Wizards,4,4,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,233,99,1,1,20061227,CHA,WAS
+Shot Chart Detail,0020600416,472,2240,Gilbert Arenas,1610612764,Washington Wizards,4,3,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-97,237,1,1,20061227,CHA,WAS
+Shot Chart Detail,0020600416,491,2240,Gilbert Arenas,1610612764,Washington Wizards,4,0,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061227,CHA,WAS
+Shot Chart Detail,0020600430,3,2240,Gilbert Arenas,1610612764,Washington Wizards,1,11,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,177,-36,1,1,20061229,WAS,ORL
+Shot Chart Detail,0020600430,61,2240,Gilbert Arenas,1610612764,Washington Wizards,1,4,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,2,1,1,20061229,WAS,ORL
+Shot Chart Detail,0020600430,65,2240,Gilbert Arenas,1610612764,Washington Wizards,1,4,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-186,91,1,1,20061229,WAS,ORL
+Shot Chart Detail,0020600430,85,2240,Gilbert Arenas,1610612764,Washington Wizards,1,1,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,24,214,1,1,20061229,WAS,ORL
+Shot Chart Detail,0020600430,143,2240,Gilbert Arenas,1610612764,Washington Wizards,2,7,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,3,1,1,20061229,WAS,ORL
+Shot Chart Detail,0020600430,190,2240,Gilbert Arenas,1610612764,Washington Wizards,2,2,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,197,171,1,1,20061229,WAS,ORL
+Shot Chart Detail,0020600430,365,2240,Gilbert Arenas,1610612764,Washington Wizards,4,10,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,8,204,1,1,20061229,WAS,ORL
+Shot Chart Detail,0020600430,373,2240,Gilbert Arenas,1610612764,Washington Wizards,4,9,44,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-3,5,1,1,20061229,WAS,ORL
+Shot Chart Detail,0020600430,397,2240,Gilbert Arenas,1610612764,Washington Wizards,4,7,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,-1,1,1,20061229,WAS,ORL
+Shot Chart Detail,0020600430,403,2240,Gilbert Arenas,1610612764,Washington Wizards,4,6,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-2,189,1,1,20061229,WAS,ORL
+Shot Chart Detail,0020600430,407,2240,Gilbert Arenas,1610612764,Washington Wizards,4,5,50,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,0,1,1,20061229,WAS,ORL
+Shot Chart Detail,0020600447,180,2240,Gilbert Arenas,1610612764,Washington Wizards,2,6,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061230,MIL,WAS
+Shot Chart Detail,0020600447,242,2240,Gilbert Arenas,1610612764,Washington Wizards,2,0,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-43,243,1,1,20061230,MIL,WAS
+Shot Chart Detail,0020600447,320,2240,Gilbert Arenas,1610612764,Washington Wizards,3,5,37,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,20,63,1,1,20061230,MIL,WAS
+Shot Chart Detail,0020600447,341,2240,Gilbert Arenas,1610612764,Washington Wizards,3,3,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061230,MIL,WAS
+Shot Chart Detail,0020600447,374,2240,Gilbert Arenas,1610612764,Washington Wizards,3,1,28,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-44,13,1,1,20061230,MIL,WAS
+Shot Chart Detail,0020600447,387,2240,Gilbert Arenas,1610612764,Washington Wizards,3,0,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,33,-212,263,1,1,20061230,MIL,WAS
+Shot Chart Detail,0020600447,411,2240,Gilbert Arenas,1610612764,Washington Wizards,4,9,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-15,25,1,1,20061230,MIL,WAS
+Shot Chart Detail,0020600468,3,2240,Gilbert Arenas,1610612764,Washington Wizards,1,11,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,144,-3,1,1,20070103,WAS,MIL
+Shot Chart Detail,0020600468,16,2240,Gilbert Arenas,1610612764,Washington Wizards,1,9,47,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-141,22,1,1,20070103,WAS,MIL
+Shot Chart Detail,0020600468,35,2240,Gilbert Arenas,1610612764,Washington Wizards,1,7,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,13,26,1,1,20070103,WAS,MIL
+Shot Chart Detail,0020600468,102,2240,Gilbert Arenas,1610612764,Washington Wizards,2,11,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,192,178,1,1,20070103,WAS,MIL
+Shot Chart Detail,0020600468,156,2240,Gilbert Arenas,1610612764,Washington Wizards,2,4,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-171,113,1,1,20070103,WAS,MIL
+Shot Chart Detail,0020600468,269,2240,Gilbert Arenas,1610612764,Washington Wizards,3,5,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-164,100,1,1,20070103,WAS,MIL
+Shot Chart Detail,0020600468,314,2240,Gilbert Arenas,1610612764,Washington Wizards,3,1,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-136,109,1,1,20070103,WAS,MIL
+Shot Chart Detail,0020600468,340,2240,Gilbert Arenas,1610612764,Washington Wizards,4,11,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,156,209,1,1,20070103,WAS,MIL
+Shot Chart Detail,0020600468,351,2240,Gilbert Arenas,1610612764,Washington Wizards,4,10,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,190,194,1,1,20070103,WAS,MIL
+Shot Chart Detail,0020600468,375,2240,Gilbert Arenas,1610612764,Washington Wizards,4,7,40,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-113,102,1,1,20070103,WAS,MIL
+Shot Chart Detail,0020600468,397,2240,Gilbert Arenas,1610612764,Washington Wizards,4,4,58,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,77,204,1,1,20070103,WAS,MIL
+Shot Chart Detail,0020600468,454,2240,Gilbert Arenas,1610612764,Washington Wizards,4,0,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,32,31,322,1,1,20070103,WAS,MIL
+Shot Chart Detail,0020600480,13,2240,Gilbert Arenas,1610612764,Washington Wizards,1,10,20,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-105,59,1,1,20070105,WAS,LAC
+Shot Chart Detail,0020600480,44,2240,Gilbert Arenas,1610612764,Washington Wizards,1,7,26,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,-1,1,1,20070105,WAS,LAC
+Shot Chart Detail,0020600480,95,2240,Gilbert Arenas,1610612764,Washington Wizards,1,2,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-192,-29,1,1,20070105,WAS,LAC
+Shot Chart Detail,0020600480,99,2240,Gilbert Arenas,1610612764,Washington Wizards,1,1,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-163,153,1,1,20070105,WAS,LAC
+Shot Chart Detail,0020600480,144,2240,Gilbert Arenas,1610612764,Washington Wizards,2,8,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,102,145,1,1,20070105,WAS,LAC
+Shot Chart Detail,0020600480,152,2240,Gilbert Arenas,1610612764,Washington Wizards,2,7,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,189,-28,1,1,20070105,WAS,LAC
+Shot Chart Detail,0020600480,160,2240,Gilbert Arenas,1610612764,Washington Wizards,2,6,24,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-3,1,1,20070105,WAS,LAC
+Shot Chart Detail,0020600480,170,2240,Gilbert Arenas,1610612764,Washington Wizards,2,5,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,125,230,1,1,20070105,WAS,LAC
+Shot Chart Detail,0020600480,207,2240,Gilbert Arenas,1610612764,Washington Wizards,2,2,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,146,118,1,1,20070105,WAS,LAC
+Shot Chart Detail,0020600480,216,2240,Gilbert Arenas,1610612764,Washington Wizards,2,1,12,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,0,1,1,20070105,WAS,LAC
+Shot Chart Detail,0020600480,229,2240,Gilbert Arenas,1610612764,Washington Wizards,2,0,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,-5,1,1,20070105,WAS,LAC
+Shot Chart Detail,0020600480,240,2240,Gilbert Arenas,1610612764,Washington Wizards,3,10,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-118,133,1,1,20070105,WAS,LAC
+Shot Chart Detail,0020600480,387,2240,Gilbert Arenas,1610612764,Washington Wizards,4,8,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,123,160,1,1,20070105,WAS,LAC
+Shot Chart Detail,0020600480,397,2240,Gilbert Arenas,1610612764,Washington Wizards,4,7,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,16,171,1,1,20070105,WAS,LAC
+Shot Chart Detail,0020600498,35,2240,Gilbert Arenas,1610612764,Washington Wizards,1,6,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-191,-1,1,1,20070107,TOR,WAS
+Shot Chart Detail,0020600498,164,2240,Gilbert Arenas,1610612764,Washington Wizards,2,5,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,84,164,1,1,20070107,TOR,WAS
+Shot Chart Detail,0020600498,186,2240,Gilbert Arenas,1610612764,Washington Wizards,2,2,54,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070107,TOR,WAS
+Shot Chart Detail,0020600498,223,2240,Gilbert Arenas,1610612764,Washington Wizards,2,0,0,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,35,161,316,1,1,20070107,TOR,WAS
+Shot Chart Detail,0020600498,330,2240,Gilbert Arenas,1610612764,Washington Wizards,3,0,41,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070107,TOR,WAS
+Shot Chart Detail,0020600498,452,2240,Gilbert Arenas,1610612764,Washington Wizards,4,2,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-125,212,1,1,20070107,TOR,WAS
+Shot Chart Detail,0020600498,514,2240,Gilbert Arenas,1610612764,Washington Wizards,4,0,8,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070107,TOR,WAS
+Shot Chart Detail,0020600516,53,2240,Gilbert Arenas,1610612764,Washington Wizards,1,5,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-202,-18,1,1,20070110,WAS,CHI
+Shot Chart Detail,0020600516,70,2240,Gilbert Arenas,1610612764,Washington Wizards,1,2,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,172,196,1,1,20070110,WAS,CHI
+Shot Chart Detail,0020600516,396,2240,Gilbert Arenas,1610612764,Washington Wizards,4,5,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-108,151,1,1,20070110,WAS,CHI
+Shot Chart Detail,0020600516,419,2240,Gilbert Arenas,1610612764,Washington Wizards,4,3,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,164,-29,1,1,20070110,WAS,CHI
+Shot Chart Detail,0020600516,422,2240,Gilbert Arenas,1610612764,Washington Wizards,4,3,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-169,181,1,1,20070110,WAS,CHI
+Shot Chart Detail,0020600536,2,2240,Gilbert Arenas,1610612764,Washington Wizards,1,11,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070112,NOK,WAS
+Shot Chart Detail,0020600536,45,2240,Gilbert Arenas,1610612764,Washington Wizards,1,5,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,143,206,1,1,20070112,NOK,WAS
+Shot Chart Detail,0020600536,197,2240,Gilbert Arenas,1610612764,Washington Wizards,2,0,50,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070112,NOK,WAS
+Shot Chart Detail,0020600536,381,2240,Gilbert Arenas,1610612764,Washington Wizards,4,4,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,156,87,1,1,20070112,NOK,WAS
+Shot Chart Detail,0020600536,386,2240,Gilbert Arenas,1610612764,Washington Wizards,4,3,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,118,212,1,1,20070112,NOK,WAS
+Shot Chart Detail,0020600544,42,2240,Gilbert Arenas,1610612764,Washington Wizards,1,6,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,118,125,1,1,20070113,SAS,WAS
+Shot Chart Detail,0020600544,98,2240,Gilbert Arenas,1610612764,Washington Wizards,1,1,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-145,115,1,1,20070113,SAS,WAS
+Shot Chart Detail,0020600544,100,2240,Gilbert Arenas,1610612764,Washington Wizards,1,0,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-140,161,1,1,20070113,SAS,WAS
+Shot Chart Detail,0020600544,207,2240,Gilbert Arenas,1610612764,Washington Wizards,2,2,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,8,1,1,20070113,SAS,WAS
+Shot Chart Detail,0020600544,254,2240,Gilbert Arenas,1610612764,Washington Wizards,3,10,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,22,1,1,20070113,SAS,WAS
+Shot Chart Detail,0020600544,366,2240,Gilbert Arenas,1610612764,Washington Wizards,4,11,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,210,140,1,1,20070113,SAS,WAS
+Shot Chart Detail,0020600555,11,2240,Gilbert Arenas,1610612764,Washington Wizards,1,10,28,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-164,-28,1,1,20070115,WAS,UTA
+Shot Chart Detail,0020600555,26,2240,Gilbert Arenas,1610612764,Washington Wizards,1,8,47,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,-19,1,1,20070115,WAS,UTA
+Shot Chart Detail,0020600555,32,2240,Gilbert Arenas,1610612764,Washington Wizards,1,7,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-207,153,1,1,20070115,WAS,UTA
+Shot Chart Detail,0020600555,67,2240,Gilbert Arenas,1610612764,Washington Wizards,1,3,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,11,268,1,1,20070115,WAS,UTA
+Shot Chart Detail,0020600555,220,2240,Gilbert Arenas,1610612764,Washington Wizards,2,0,53,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,3,2,1,1,20070115,WAS,UTA
+Shot Chart Detail,0020600555,263,2240,Gilbert Arenas,1610612764,Washington Wizards,3,9,23,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,-8,1,1,20070115,WAS,UTA
+Shot Chart Detail,0020600555,293,2240,Gilbert Arenas,1610612764,Washington Wizards,3,6,11,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-85,10,1,1,20070115,WAS,UTA
+Shot Chart Detail,0020600555,307,2240,Gilbert Arenas,1610612764,Washington Wizards,3,4,27,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,-6,1,1,20070115,WAS,UTA
+Shot Chart Detail,0020600555,311,2240,Gilbert Arenas,1610612764,Washington Wizards,3,4,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-202,145,1,1,20070115,WAS,UTA
+Shot Chart Detail,0020600555,357,2240,Gilbert Arenas,1610612764,Washington Wizards,3,0,9,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,-8,1,1,20070115,WAS,UTA
+Shot Chart Detail,0020600555,451,2240,Gilbert Arenas,1610612764,Washington Wizards,4,3,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,22,-207,86,1,1,20070115,WAS,UTA
+Shot Chart Detail,0020600555,459,2240,Gilbert Arenas,1610612764,Washington Wizards,4,2,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,199,160,1,1,20070115,WAS,UTA
+Shot Chart Detail,0020600555,464,2240,Gilbert Arenas,1610612764,Washington Wizards,4,1,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,169,179,1,1,20070115,WAS,UTA
+Shot Chart Detail,0020600555,487,2240,Gilbert Arenas,1610612764,Washington Wizards,4,0,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,43,243,1,1,20070115,WAS,UTA
+Shot Chart Detail,0020600569,78,2240,Gilbert Arenas,1610612764,Washington Wizards,1,2,19,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,3,-5,1,1,20070117,WAS,NYK
+Shot Chart Detail,0020600569,197,2240,Gilbert Arenas,1610612764,Washington Wizards,2,2,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,100,84,1,1,20070117,WAS,NYK
+Shot Chart Detail,0020600569,275,2240,Gilbert Arenas,1610612764,Washington Wizards,3,4,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,2,1,1,20070117,WAS,NYK
+Shot Chart Detail,0020600569,376,2240,Gilbert Arenas,1610612764,Washington Wizards,4,6,22,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,-8,1,1,20070117,WAS,NYK
+Shot Chart Detail,0020600583,61,2240,Gilbert Arenas,1610612764,Washington Wizards,1,4,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,15,253,1,1,20070119,ORL,WAS
+Shot Chart Detail,0020600583,94,2240,Gilbert Arenas,1610612764,Washington Wizards,1,1,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-48,252,1,1,20070119,ORL,WAS
+Shot Chart Detail,0020600583,144,2240,Gilbert Arenas,1610612764,Washington Wizards,2,7,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,22,197,104,1,1,20070119,ORL,WAS
+Shot Chart Detail,0020600583,205,2240,Gilbert Arenas,1610612764,Washington Wizards,2,1,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-166,72,1,1,20070119,ORL,WAS
+Shot Chart Detail,0020600583,218,2240,Gilbert Arenas,1610612764,Washington Wizards,2,0,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070119,ORL,WAS
+Shot Chart Detail,0020600583,304,2240,Gilbert Arenas,1610612764,Washington Wizards,3,5,18,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070119,ORL,WAS
+Shot Chart Detail,0020600583,306,2240,Gilbert Arenas,1610612764,Washington Wizards,3,4,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,89,232,1,1,20070119,ORL,WAS
+Shot Chart Detail,0020600583,370,2240,Gilbert Arenas,1610612764,Washington Wizards,4,10,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070119,ORL,WAS
+Shot Chart Detail,0020600583,395,2240,Gilbert Arenas,1610612764,Washington Wizards,4,7,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-227,89,1,1,20070119,ORL,WAS
+Shot Chart Detail,0020600583,443,2240,Gilbert Arenas,1610612764,Washington Wizards,4,4,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-192,163,1,1,20070119,ORL,WAS
+Shot Chart Detail,0020600595,14,2240,Gilbert Arenas,1610612764,Washington Wizards,1,10,57,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-138,135,1,1,20070120,WAS,BOS
+Shot Chart Detail,0020600595,24,2240,Gilbert Arenas,1610612764,Washington Wizards,1,9,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-228,158,1,1,20070120,WAS,BOS
+Shot Chart Detail,0020600595,36,2240,Gilbert Arenas,1610612764,Washington Wizards,1,8,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-176,25,1,1,20070120,WAS,BOS
+Shot Chart Detail,0020600595,55,2240,Gilbert Arenas,1610612764,Washington Wizards,1,6,9,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,10,1,1,20070120,WAS,BOS
+Shot Chart Detail,0020600595,104,2240,Gilbert Arenas,1610612764,Washington Wizards,1,0,17,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,179,0,1,1,20070120,WAS,BOS
+Shot Chart Detail,0020600595,277,2240,Gilbert Arenas,1610612764,Washington Wizards,3,9,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,161,201,1,1,20070120,WAS,BOS
+Shot Chart Detail,0020600595,458,2240,Gilbert Arenas,1610612764,Washington Wizards,4,1,46,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-28,196,1,1,20070120,WAS,BOS
+Shot Chart Detail,0020600595,504,2240,Gilbert Arenas,1610612764,Washington Wizards,5,1,58,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,15,18,1,1,20070120,WAS,BOS
+Shot Chart Detail,0020600595,511,2240,Gilbert Arenas,1610612764,Washington Wizards,5,1,22,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-168,0,1,1,20070120,WAS,BOS
+Shot Chart Detail,0020600595,531,2240,Gilbert Arenas,1610612764,Washington Wizards,5,0,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,8,10,1,1,20070120,WAS,BOS
+Shot Chart Detail,0020600616,7,2240,Gilbert Arenas,1610612764,Washington Wizards,1,11,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,130,164,1,1,20070123,WAS,PHX
+Shot Chart Detail,0020600616,186,2240,Gilbert Arenas,1610612764,Washington Wizards,2,4,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-218,141,1,1,20070123,WAS,PHX
+Shot Chart Detail,0020600616,191,2240,Gilbert Arenas,1610612764,Washington Wizards,2,3,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,-200,89,1,1,20070123,WAS,PHX
+Shot Chart Detail,0020600616,197,2240,Gilbert Arenas,1610612764,Washington Wizards,2,2,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,84,240,1,1,20070123,WAS,PHX
+Shot Chart Detail,0020600616,200,2240,Gilbert Arenas,1610612764,Washington Wizards,2,2,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,15,179,1,1,20070123,WAS,PHX
+Shot Chart Detail,0020600616,240,2240,Gilbert Arenas,1610612764,Washington Wizards,3,10,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-62,196,1,1,20070123,WAS,PHX
+Shot Chart Detail,0020600616,258,2240,Gilbert Arenas,1610612764,Washington Wizards,3,8,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-172,-36,1,1,20070123,WAS,PHX
+Shot Chart Detail,0020600616,291,2240,Gilbert Arenas,1610612764,Washington Wizards,3,3,57,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-3,-8,1,1,20070123,WAS,PHX
+Shot Chart Detail,0020600616,297,2240,Gilbert Arenas,1610612764,Washington Wizards,3,3,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,176,89,1,1,20070123,WAS,PHX
+Shot Chart Detail,0020600616,357,2240,Gilbert Arenas,1610612764,Washington Wizards,4,9,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,6,214,1,1,20070123,WAS,PHX
+Shot Chart Detail,0020600616,406,2240,Gilbert Arenas,1610612764,Washington Wizards,4,5,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-187,153,1,1,20070123,WAS,PHX
+Shot Chart Detail,0020600638,60,2240,Gilbert Arenas,1610612764,Washington Wizards,1,3,45,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,6,89,1,1,20070126,DET,WAS
+Shot Chart Detail,0020600638,124,2240,Gilbert Arenas,1610612764,Washington Wizards,2,7,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,159,22,1,1,20070126,DET,WAS
+Shot Chart Detail,0020600638,169,2240,Gilbert Arenas,1610612764,Washington Wizards,2,2,26,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070126,DET,WAS
+Shot Chart Detail,0020600638,182,2240,Gilbert Arenas,1610612764,Washington Wizards,2,1,27,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,6,94,1,1,20070126,DET,WAS
+Shot Chart Detail,0020600638,198,2240,Gilbert Arenas,1610612764,Washington Wizards,2,0,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,32,-210,247,1,1,20070126,DET,WAS
+Shot Chart Detail,0020600638,242,2240,Gilbert Arenas,1610612764,Washington Wizards,3,7,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-195,10,1,1,20070126,DET,WAS
+Shot Chart Detail,0020600638,260,2240,Gilbert Arenas,1610612764,Washington Wizards,3,6,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-140,127,1,1,20070126,DET,WAS
+Shot Chart Detail,0020600638,345,2240,Gilbert Arenas,1610612764,Washington Wizards,4,9,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-174,68,1,1,20070126,DET,WAS
+Shot Chart Detail,0020600638,390,2240,Gilbert Arenas,1610612764,Washington Wizards,4,4,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,29,261,1,1,20070126,DET,WAS
+Shot Chart Detail,0020600638,396,2240,Gilbert Arenas,1610612764,Washington Wizards,4,3,12,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070126,DET,WAS
+Shot Chart Detail,0020600658,69,2240,Gilbert Arenas,1610612764,Washington Wizards,1,3,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-141,118,1,1,20070128,BOS,WAS
+Shot Chart Detail,0020600658,72,2240,Gilbert Arenas,1610612764,Washington Wizards,1,2,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,156,196,1,1,20070128,BOS,WAS
+Shot Chart Detail,0020600658,334,2240,Gilbert Arenas,1610612764,Washington Wizards,3,2,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-92,138,1,1,20070128,BOS,WAS
+Shot Chart Detail,0020600658,342,2240,Gilbert Arenas,1610612764,Washington Wizards,3,1,8,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,2,1,1,20070128,BOS,WAS
+Shot Chart Detail,0020600658,421,2240,Gilbert Arenas,1610612764,Washington Wizards,4,6,15,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,0,1,1,20070128,BOS,WAS
+Shot Chart Detail,0020600658,437,2240,Gilbert Arenas,1610612764,Washington Wizards,4,4,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,144,199,1,1,20070128,BOS,WAS
+Shot Chart Detail,0020600668,24,2240,Gilbert Arenas,1610612764,Washington Wizards,1,8,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,0,1,1,20070130,WAS,DET
+Shot Chart Detail,0020600668,40,2240,Gilbert Arenas,1610612764,Washington Wizards,1,5,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,130,207,1,1,20070130,WAS,DET
+Shot Chart Detail,0020600668,65,2240,Gilbert Arenas,1610612764,Washington Wizards,1,3,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,161,-36,1,1,20070130,WAS,DET
+Shot Chart Detail,0020600668,151,2240,Gilbert Arenas,1610612764,Washington Wizards,2,6,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,1,253,1,1,20070130,WAS,DET
+Shot Chart Detail,0020600668,190,2240,Gilbert Arenas,1610612764,Washington Wizards,2,1,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,8,5,1,1,20070130,WAS,DET
+Shot Chart Detail,0020600668,218,2240,Gilbert Arenas,1610612764,Washington Wizards,3,11,18,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,2,1,1,20070130,WAS,DET
+Shot Chart Detail,0020600668,248,2240,Gilbert Arenas,1610612764,Washington Wizards,3,6,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-2,258,1,1,20070130,WAS,DET
+Shot Chart Detail,0020600668,353,2240,Gilbert Arenas,1610612764,Washington Wizards,4,7,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,29,243,1,1,20070130,WAS,DET
+Shot Chart Detail,0020600668,355,2240,Gilbert Arenas,1610612764,Washington Wizards,4,6,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,16,252,1,1,20070130,WAS,DET
+Shot Chart Detail,0020600668,416,2240,Gilbert Arenas,1610612764,Washington Wizards,4,1,44,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,5,1,1,20070130,WAS,DET
+Shot Chart Detail,0020600674,62,2240,Gilbert Arenas,1610612764,Washington Wizards,1,3,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-67,189,1,1,20070131,TOR,WAS
+Shot Chart Detail,0020600674,191,2240,Gilbert Arenas,1610612764,Washington Wizards,2,1,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-49,194,1,1,20070131,TOR,WAS
+Shot Chart Detail,0020600674,215,2240,Gilbert Arenas,1610612764,Washington Wizards,3,11,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-209,132,1,1,20070131,TOR,WAS
+Shot Chart Detail,0020600674,267,2240,Gilbert Arenas,1610612764,Washington Wizards,3,6,11,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070131,TOR,WAS
+Shot Chart Detail,0020600674,294,2240,Gilbert Arenas,1610612764,Washington Wizards,3,3,37,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070131,TOR,WAS
+Shot Chart Detail,0020600674,352,2240,Gilbert Arenas,1610612764,Washington Wizards,4,9,44,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,52,31,1,1,20070131,TOR,WAS
+Shot Chart Detail,0020600674,380,2240,Gilbert Arenas,1610612764,Washington Wizards,4,7,0,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070131,TOR,WAS
+Shot Chart Detail,0020600674,384,2240,Gilbert Arenas,1610612764,Washington Wizards,4,6,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-130,212,1,1,20070131,TOR,WAS
+Shot Chart Detail,0020600699,51,2240,Gilbert Arenas,1610612764,Washington Wizards,1,5,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,130,120,1,1,20070203,WAS,LAL
+Shot Chart Detail,0020600699,58,2240,Gilbert Arenas,1610612764,Washington Wizards,1,5,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,0,1,1,20070203,WAS,LAL
+Shot Chart Detail,0020600699,108,2240,Gilbert Arenas,1610612764,Washington Wizards,1,0,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,140,212,1,1,20070203,WAS,LAL
+Shot Chart Detail,0020600699,125,2240,Gilbert Arenas,1610612764,Washington Wizards,2,10,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,171,174,1,1,20070203,WAS,LAL
+Shot Chart Detail,0020600699,127,2240,Gilbert Arenas,1610612764,Washington Wizards,2,10,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,2,1,1,20070203,WAS,LAL
+Shot Chart Detail,0020600699,172,2240,Gilbert Arenas,1610612764,Washington Wizards,2,5,49,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,117,146,1,1,20070203,WAS,LAL
+Shot Chart Detail,0020600699,268,2240,Gilbert Arenas,1610612764,Washington Wizards,3,7,56,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,190,-16,1,1,20070203,WAS,LAL
+Shot Chart Detail,0020600699,325,2240,Gilbert Arenas,1610612764,Washington Wizards,3,3,27,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,1,1,1,20070203,WAS,LAL
+Shot Chart Detail,0020600699,439,2240,Gilbert Arenas,1610612764,Washington Wizards,4,5,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-195,156,1,1,20070203,WAS,LAL
+Shot Chart Detail,0020600713,24,2240,Gilbert Arenas,1610612764,Washington Wizards,1,9,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-2,242,1,1,20070205,WAS,SEA
+Shot Chart Detail,0020600713,77,2240,Gilbert Arenas,1610612764,Washington Wizards,1,2,24,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-1,1,1,20070205,WAS,SEA
+Shot Chart Detail,0020600713,345,2240,Gilbert Arenas,1610612764,Washington Wizards,3,3,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-26,255,1,1,20070205,WAS,SEA
+Shot Chart Detail,0020600713,386,2240,Gilbert Arenas,1610612764,Washington Wizards,4,11,33,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-6,-14,1,1,20070205,WAS,SEA
+Shot Chart Detail,0020600727,3,2240,Gilbert Arenas,1610612764,Washington Wizards,1,11,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,190,-16,1,1,20070207,WAS,SAS
+Shot Chart Detail,0020600727,28,2240,Gilbert Arenas,1610612764,Washington Wizards,1,8,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,182,61,1,1,20070207,WAS,SAS
+Shot Chart Detail,0020600727,68,2240,Gilbert Arenas,1610612764,Washington Wizards,1,4,50,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,3,1,1,20070207,WAS,SAS
+Shot Chart Detail,0020600727,76,2240,Gilbert Arenas,1610612764,Washington Wizards,1,4,2,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,130,49,1,1,20070207,WAS,SAS
+Shot Chart Detail,0020600727,153,2240,Gilbert Arenas,1610612764,Washington Wizards,2,8,11,Made Shot,Running Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,21,31,1,1,20070207,WAS,SAS
+Shot Chart Detail,0020600727,210,2240,Gilbert Arenas,1610612764,Washington Wizards,2,2,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,199,-37,1,1,20070207,WAS,SAS
+Shot Chart Detail,0020600727,274,2240,Gilbert Arenas,1610612764,Washington Wizards,3,7,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-75,194,1,1,20070207,WAS,SAS
+Shot Chart Detail,0020600727,279,2240,Gilbert Arenas,1610612764,Washington Wizards,3,6,37,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-3,-6,1,1,20070207,WAS,SAS
+Shot Chart Detail,0020600727,301,2240,Gilbert Arenas,1610612764,Washington Wizards,3,4,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,18,196,1,1,20070207,WAS,SAS
+Shot Chart Detail,0020600727,311,2240,Gilbert Arenas,1610612764,Washington Wizards,3,3,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,36,248,1,1,20070207,WAS,SAS
+Shot Chart Detail,0020600756,143,2240,Gilbert Arenas,1610612764,Washington Wizards,2,7,32,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-79,71,1,1,20070211,WAS,POR
+Shot Chart Detail,0020600756,145,2240,Gilbert Arenas,1610612764,Washington Wizards,2,7,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,22,1,1,20070211,WAS,POR
+Shot Chart Detail,0020600756,285,2240,Gilbert Arenas,1610612764,Washington Wizards,3,5,16,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,29,12,1,1,20070211,WAS,POR
+Shot Chart Detail,0020600776,27,2240,Gilbert Arenas,1610612764,Washington Wizards,1,7,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-112,173,1,1,20070214,PHI,WAS
+Shot Chart Detail,0020600776,39,2240,Gilbert Arenas,1610612764,Washington Wizards,1,6,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-120,240,1,1,20070214,PHI,WAS
+Shot Chart Detail,0020600776,83,2240,Gilbert Arenas,1610612764,Washington Wizards,1,2,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,174,-19,1,1,20070214,PHI,WAS
+Shot Chart Detail,0020600776,205,2240,Gilbert Arenas,1610612764,Washington Wizards,2,3,37,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,15,-80,138,1,1,20070214,PHI,WAS
+Shot Chart Detail,0020600776,268,2240,Gilbert Arenas,1610612764,Washington Wizards,3,9,55,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070214,PHI,WAS
+Shot Chart Detail,0020600776,354,2240,Gilbert Arenas,1610612764,Washington Wizards,3,2,7,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070214,PHI,WAS
+Shot Chart Detail,0020600776,447,2240,Gilbert Arenas,1610612764,Washington Wizards,4,5,15,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070214,PHI,WAS
+Shot Chart Detail,0020600776,466,2240,Gilbert Arenas,1610612764,Washington Wizards,4,2,51,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070214,PHI,WAS
+Shot Chart Detail,0020600790,28,2240,Gilbert Arenas,1610612764,Washington Wizards,1,8,4,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,7,1,1,20070220,WAS,MIN
+Shot Chart Detail,0020600790,35,2240,Gilbert Arenas,1610612764,Washington Wizards,1,6,54,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-110,-28,1,1,20070220,WAS,MIN
+Shot Chart Detail,0020600790,69,2240,Gilbert Arenas,1610612764,Washington Wizards,1,2,14,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,0,1,1,20070220,WAS,MIN
+Shot Chart Detail,0020600790,78,2240,Gilbert Arenas,1610612764,Washington Wizards,1,1,54,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,-13,1,1,20070220,WAS,MIN
+Shot Chart Detail,0020600790,142,2240,Gilbert Arenas,1610612764,Washington Wizards,2,7,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,95,187,1,1,20070220,WAS,MIN
+Shot Chart Detail,0020600790,162,2240,Gilbert Arenas,1610612764,Washington Wizards,2,5,15,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,1,1,1,20070220,WAS,MIN
+Shot Chart Detail,0020600790,213,2240,Gilbert Arenas,1610612764,Washington Wizards,2,3,6,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,-8,1,1,20070220,WAS,MIN
+Shot Chart Detail,0020600790,227,2240,Gilbert Arenas,1610612764,Washington Wizards,2,0,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,172,91,1,1,20070220,WAS,MIN
+Shot Chart Detail,0020600790,254,2240,Gilbert Arenas,1610612764,Washington Wizards,3,10,7,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-136,22,1,1,20070220,WAS,MIN
+Shot Chart Detail,0020600790,348,2240,Gilbert Arenas,1610612764,Washington Wizards,4,11,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,61,253,1,1,20070220,WAS,MIN
+Shot Chart Detail,0020600790,352,2240,Gilbert Arenas,1610612764,Washington Wizards,4,11,9,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-161,-23,1,1,20070220,WAS,MIN
+Shot Chart Detail,0020600790,391,2240,Gilbert Arenas,1610612764,Washington Wizards,4,7,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,10,1,1,20070220,WAS,MIN
+Shot Chart Detail,0020600811,36,2240,Gilbert Arenas,1610612764,Washington Wizards,1,7,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-197,168,1,1,20070222,WAS,SAC
+Shot Chart Detail,0020600811,42,2240,Gilbert Arenas,1610612764,Washington Wizards,1,7,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-128,163,1,1,20070222,WAS,SAC
+Shot Chart Detail,0020600811,59,2240,Gilbert Arenas,1610612764,Washington Wizards,1,5,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-138,222,1,1,20070222,WAS,SAC
+Shot Chart Detail,0020600811,63,2240,Gilbert Arenas,1610612764,Washington Wizards,1,4,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,151,-34,1,1,20070222,WAS,SAC
+Shot Chart Detail,0020600811,74,2240,Gilbert Arenas,1610612764,Washington Wizards,1,3,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,-1,1,1,20070222,WAS,SAC
+Shot Chart Detail,0020600811,91,2240,Gilbert Arenas,1610612764,Washington Wizards,1,2,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,107,229,1,1,20070222,WAS,SAC
+Shot Chart Detail,0020600811,149,2240,Gilbert Arenas,1610612764,Washington Wizards,2,9,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,-3,1,1,20070222,WAS,SAC
+Shot Chart Detail,0020600811,201,2240,Gilbert Arenas,1610612764,Washington Wizards,2,4,58,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-187,72,1,1,20070222,WAS,SAC
+Shot Chart Detail,0020600811,227,2240,Gilbert Arenas,1610612764,Washington Wizards,2,1,59,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,5,-11,1,1,20070222,WAS,SAC
+Shot Chart Detail,0020600811,255,2240,Gilbert Arenas,1610612764,Washington Wizards,3,11,8,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,-11,1,1,20070222,WAS,SAC
+Shot Chart Detail,0020600811,389,2240,Gilbert Arenas,1610612764,Washington Wizards,4,9,32,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,1,1,1,20070222,WAS,SAC
+Shot Chart Detail,0020600811,469,2240,Gilbert Arenas,1610612764,Washington Wizards,4,2,51,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,-5,1,1,20070222,WAS,SAC
+Shot Chart Detail,0020600820,6,2240,Gilbert Arenas,1610612764,Washington Wizards,1,11,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-169,0,1,1,20070223,CHI,WAS
+Shot Chart Detail,0020600820,23,2240,Gilbert Arenas,1610612764,Washington Wizards,1,8,22,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070223,CHI,WAS
+Shot Chart Detail,0020600820,37,2240,Gilbert Arenas,1610612764,Washington Wizards,1,7,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-146,28,1,1,20070223,CHI,WAS
+Shot Chart Detail,0020600820,57,2240,Gilbert Arenas,1610612764,Washington Wizards,1,4,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,140,135,1,1,20070223,CHI,WAS
+Shot Chart Detail,0020600820,191,2240,Gilbert Arenas,1610612764,Washington Wizards,2,2,32,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070223,CHI,WAS
+Shot Chart Detail,0020600820,256,2240,Gilbert Arenas,1610612764,Washington Wizards,3,9,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,90,237,1,1,20070223,CHI,WAS
+Shot Chart Detail,0020600820,355,2240,Gilbert Arenas,1610612764,Washington Wizards,3,1,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,36,248,1,1,20070223,CHI,WAS
+Shot Chart Detail,0020600820,376,2240,Gilbert Arenas,1610612764,Washington Wizards,4,11,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,80,184,1,1,20070223,CHI,WAS
+Shot Chart Detail,0020600820,392,2240,Gilbert Arenas,1610612764,Washington Wizards,4,9,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-146,45,1,1,20070223,CHI,WAS
+Shot Chart Detail,0020600820,394,2240,Gilbert Arenas,1610612764,Washington Wizards,4,9,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070223,CHI,WAS
+Shot Chart Detail,0020600820,445,2240,Gilbert Arenas,1610612764,Washington Wizards,4,4,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070223,CHI,WAS
+Shot Chart Detail,0020600836,36,2240,Gilbert Arenas,1610612764,Washington Wizards,1,7,57,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-126,8,1,1,20070225,MIN,WAS
+Shot Chart Detail,0020600836,241,2240,Gilbert Arenas,1610612764,Washington Wizards,2,1,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070225,MIN,WAS
+Shot Chart Detail,0020600836,409,2240,Gilbert Arenas,1610612764,Washington Wizards,4,7,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,54,245,1,1,20070225,MIN,WAS
+Shot Chart Detail,0020600836,491,2240,Gilbert Arenas,1610612764,Washington Wizards,4,0,57,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070225,MIN,WAS
+Shot Chart Detail,0020600852,97,2240,Gilbert Arenas,1610612764,Washington Wizards,1,0,51,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,22,62,219,1,1,20070227,NJN,WAS
+Shot Chart Detail,0020600852,180,2240,Gilbert Arenas,1610612764,Washington Wizards,2,4,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070227,NJN,WAS
+Shot Chart Detail,0020600852,210,2240,Gilbert Arenas,1610612764,Washington Wizards,2,1,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-66,273,1,1,20070227,NJN,WAS
+Shot Chart Detail,0020600852,223,2240,Gilbert Arenas,1610612764,Washington Wizards,3,11,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-168,132,1,1,20070227,NJN,WAS
+Shot Chart Detail,0020600852,240,2240,Gilbert Arenas,1610612764,Washington Wizards,3,9,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,57,266,1,1,20070227,NJN,WAS
+Shot Chart Detail,0020600852,320,2240,Gilbert Arenas,1610612764,Washington Wizards,3,2,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,115,197,1,1,20070227,NJN,WAS
+Shot Chart Detail,0020600852,322,2240,Gilbert Arenas,1610612764,Washington Wizards,3,1,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,84,255,1,1,20070227,NJN,WAS
+Shot Chart Detail,0020600856,65,2240,Gilbert Arenas,1610612764,Washington Wizards,1,2,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,121,117,1,1,20070228,WAS,MIA
+Shot Chart Detail,0020600856,83,2240,Gilbert Arenas,1610612764,Washington Wizards,1,0,3,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-85,145,1,1,20070228,WAS,MIA
+Shot Chart Detail,0020600856,248,2240,Gilbert Arenas,1610612764,Washington Wizards,3,8,15,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,10,118,1,1,20070228,WAS,MIA
+Shot Chart Detail,0020600870,46,2240,Gilbert Arenas,1610612764,Washington Wizards,1,5,48,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-161,59,1,1,20070302,WAS,ATL
+Shot Chart Detail,0020600870,143,2240,Gilbert Arenas,1610612764,Washington Wizards,2,8,58,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,0,1,1,20070302,WAS,ATL
+Shot Chart Detail,0020600870,167,2240,Gilbert Arenas,1610612764,Washington Wizards,2,6,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,195,-29,1,1,20070302,WAS,ATL
+Shot Chart Detail,0020600870,234,2240,Gilbert Arenas,1610612764,Washington Wizards,3,11,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-128,222,1,1,20070302,WAS,ATL
+Shot Chart Detail,0020600870,241,2240,Gilbert Arenas,1610612764,Washington Wizards,3,10,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,164,192,1,1,20070302,WAS,ATL
+Shot Chart Detail,0020600870,395,2240,Gilbert Arenas,1610612764,Washington Wizards,4,6,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,146,135,1,1,20070302,WAS,ATL
+Shot Chart Detail,0020600870,402,2240,Gilbert Arenas,1610612764,Washington Wizards,4,5,33,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,2,1,1,20070302,WAS,ATL
+Shot Chart Detail,0020600888,3,2240,Gilbert Arenas,1610612764,Washington Wizards,1,11,41,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,8,-16,1,1,20070304,WAS,GSW
+Shot Chart Detail,0020600888,102,2240,Gilbert Arenas,1610612764,Washington Wizards,1,3,14,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-39,22,1,1,20070304,WAS,GSW
+Shot Chart Detail,0020600888,115,2240,Gilbert Arenas,1610612764,Washington Wizards,1,1,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,171,110,1,1,20070304,WAS,GSW
+Shot Chart Detail,0020600888,212,2240,Gilbert Arenas,1610612764,Washington Wizards,2,4,40,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-3,-3,1,1,20070304,WAS,GSW
+Shot Chart Detail,0020600888,238,2240,Gilbert Arenas,1610612764,Washington Wizards,2,2,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,0,1,1,20070304,WAS,GSW
+Shot Chart Detail,0020600888,260,2240,Gilbert Arenas,1610612764,Washington Wizards,2,1,10,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,41,2,1,1,20070304,WAS,GSW
+Shot Chart Detail,0020600888,286,2240,Gilbert Arenas,1610612764,Washington Wizards,3,10,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,146,210,1,1,20070304,WAS,GSW
+Shot Chart Detail,0020600888,305,2240,Gilbert Arenas,1610612764,Washington Wizards,3,8,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,167,191,1,1,20070304,WAS,GSW
+Shot Chart Detail,0020600888,409,2240,Gilbert Arenas,1610612764,Washington Wizards,4,11,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,156,81,1,1,20070304,WAS,GSW
+Shot Chart Detail,0020600900,89,2240,Gilbert Arenas,1610612764,Washington Wizards,1,2,12,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,3,1,1,20070306,WAS,TOR
+Shot Chart Detail,0020600900,180,2240,Gilbert Arenas,1610612764,Washington Wizards,2,4,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-184,184,1,1,20070306,WAS,TOR
+Shot Chart Detail,0020600900,194,2240,Gilbert Arenas,1610612764,Washington Wizards,2,2,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-186,68,1,1,20070306,WAS,TOR
+Shot Chart Detail,0020600900,199,2240,Gilbert Arenas,1610612764,Washington Wizards,2,2,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,146,192,1,1,20070306,WAS,TOR
+Shot Chart Detail,0020600900,244,2240,Gilbert Arenas,1610612764,Washington Wizards,3,10,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,154,206,1,1,20070306,WAS,TOR
+Shot Chart Detail,0020600900,250,2240,Gilbert Arenas,1610612764,Washington Wizards,3,9,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-220,130,1,1,20070306,WAS,TOR
+Shot Chart Detail,0020600900,253,2240,Gilbert Arenas,1610612764,Washington Wizards,3,9,0,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,75,143,1,1,20070306,WAS,TOR
+Shot Chart Detail,0020600900,258,2240,Gilbert Arenas,1610612764,Washington Wizards,3,8,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,140,235,1,1,20070306,WAS,TOR
+Shot Chart Detail,0020600900,384,2240,Gilbert Arenas,1610612764,Washington Wizards,4,9,48,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,133,-16,1,1,20070306,WAS,TOR
+Shot Chart Detail,0020600909,41,2240,Gilbert Arenas,1610612764,Washington Wizards,1,6,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-215,143,1,1,20070307,ATL,WAS
+Shot Chart Detail,0020600909,75,2240,Gilbert Arenas,1610612764,Washington Wizards,1,3,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,166,107,1,1,20070307,ATL,WAS
+Shot Chart Detail,0020600909,80,2240,Gilbert Arenas,1610612764,Washington Wizards,1,2,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,1,255,1,1,20070307,ATL,WAS
+Shot Chart Detail,0020600909,167,2240,Gilbert Arenas,1610612764,Washington Wizards,2,6,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070307,ATL,WAS
+Shot Chart Detail,0020600909,231,2240,Gilbert Arenas,1610612764,Washington Wizards,2,0,20,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070307,ATL,WAS
+Shot Chart Detail,0020600909,243,2240,Gilbert Arenas,1610612764,Washington Wizards,3,10,49,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070307,ATL,WAS
+Shot Chart Detail,0020600909,255,2240,Gilbert Arenas,1610612764,Washington Wizards,3,8,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-163,95,1,1,20070307,ATL,WAS
+Shot Chart Detail,0020600909,467,2240,Gilbert Arenas,1610612764,Washington Wizards,4,1,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070307,ATL,WAS
+Shot Chart Detail,0020600909,490,2240,Gilbert Arenas,1610612764,Washington Wizards,4,0,19,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070307,ATL,WAS
+Shot Chart Detail,0020600927,62,2240,Gilbert Arenas,1610612764,Washington Wizards,1,4,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,209,123,1,1,20070310,WAS,NYK
+Shot Chart Detail,0020600927,137,2240,Gilbert Arenas,1610612764,Washington Wizards,2,8,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,212,135,1,1,20070310,WAS,NYK
+Shot Chart Detail,0020600927,185,2240,Gilbert Arenas,1610612764,Washington Wizards,2,4,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,151,220,1,1,20070310,WAS,NYK
+Shot Chart Detail,0020600927,247,2240,Gilbert Arenas,1610612764,Washington Wizards,3,10,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,-5,1,1,20070310,WAS,NYK
+Shot Chart Detail,0020600927,345,2240,Gilbert Arenas,1610612764,Washington Wizards,4,11,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-69,204,1,1,20070310,WAS,NYK
+Shot Chart Detail,0020600939,31,2240,Gilbert Arenas,1610612764,Washington Wizards,1,9,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-145,137,1,1,20070311,MIA,WAS
+Shot Chart Detail,0020600939,33,2240,Gilbert Arenas,1610612764,Washington Wizards,1,8,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070311,MIA,WAS
+Shot Chart Detail,0020600939,147,2240,Gilbert Arenas,1610612764,Washington Wizards,2,8,38,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070311,MIA,WAS
+Shot Chart Detail,0020600939,254,2240,Gilbert Arenas,1610612764,Washington Wizards,2,0,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-128,204,1,1,20070311,MIA,WAS
+Shot Chart Detail,0020600939,311,2240,Gilbert Arenas,1610612764,Washington Wizards,3,6,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,31,156,273,1,1,20070311,MIA,WAS
+Shot Chart Detail,0020600939,323,2240,Gilbert Arenas,1610612764,Washington Wizards,3,4,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-2,255,1,1,20070311,MIA,WAS
+Shot Chart Detail,0020600939,432,2240,Gilbert Arenas,1610612764,Washington Wizards,4,6,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,141,141,1,1,20070311,MIA,WAS
+Shot Chart Detail,0020600961,60,2240,Gilbert Arenas,1610612764,Washington Wizards,1,3,47,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,23,1,1,20070314,IND,WAS
+Shot Chart Detail,0020600961,68,2240,Gilbert Arenas,1610612764,Washington Wizards,1,3,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,8,192,1,1,20070314,IND,WAS
+Shot Chart Detail,0020600961,218,2240,Gilbert Arenas,1610612764,Washington Wizards,2,0,31,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,128,23,1,1,20070314,IND,WAS
+Shot Chart Detail,0020600961,236,2240,Gilbert Arenas,1610612764,Washington Wizards,3,10,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,10,18,1,1,20070314,IND,WAS
+Shot Chart Detail,0020600961,259,2240,Gilbert Arenas,1610612764,Washington Wizards,3,8,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,163,189,1,1,20070314,IND,WAS
+Shot Chart Detail,0020600961,320,2240,Gilbert Arenas,1610612764,Washington Wizards,3,3,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,225,125,1,1,20070314,IND,WAS
+Shot Chart Detail,0020600961,322,2240,Gilbert Arenas,1610612764,Washington Wizards,3,2,33,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-237,58,1,1,20070314,IND,WAS
+Shot Chart Detail,0020600961,406,2240,Gilbert Arenas,1610612764,Washington Wizards,4,7,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-99,227,1,1,20070314,IND,WAS
+Shot Chart Detail,0020600961,411,2240,Gilbert Arenas,1610612764,Washington Wizards,4,6,30,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-238,41,1,1,20070314,IND,WAS
+Shot Chart Detail,0020600961,434,2240,Gilbert Arenas,1610612764,Washington Wizards,4,4,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,13,1,1,20070314,IND,WAS
+Shot Chart Detail,0020600979,7,2240,Gilbert Arenas,1610612764,Washington Wizards,1,10,57,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,1,1,1,20070317,WAS,NOK
+Shot Chart Detail,0020600979,15,2240,Gilbert Arenas,1610612764,Washington Wizards,1,10,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,-1,1,1,20070317,WAS,NOK
+Shot Chart Detail,0020600979,74,2240,Gilbert Arenas,1610612764,Washington Wizards,1,2,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,171,186,1,1,20070317,WAS,NOK
+Shot Chart Detail,0020600979,92,2240,Gilbert Arenas,1610612764,Washington Wizards,1,0,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,156,217,1,1,20070317,WAS,NOK
+Shot Chart Detail,0020600979,187,2240,Gilbert Arenas,1610612764,Washington Wizards,2,2,43,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,0,1,1,20070317,WAS,NOK
+Shot Chart Detail,0020600979,254,2240,Gilbert Arenas,1610612764,Washington Wizards,3,8,43,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,-13,1,1,20070317,WAS,NOK
+Shot Chart Detail,0020600979,317,2240,Gilbert Arenas,1610612764,Washington Wizards,3,1,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-126,130,1,1,20070317,WAS,NOK
+Shot Chart Detail,0020600979,319,2240,Gilbert Arenas,1610612764,Washington Wizards,3,1,5,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,-16,1,1,20070317,WAS,NOK
+Shot Chart Detail,0020600979,349,2240,Gilbert Arenas,1610612764,Washington Wizards,4,10,33,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,-8,1,1,20070317,WAS,NOK
+Shot Chart Detail,0020600979,356,2240,Gilbert Arenas,1610612764,Washington Wizards,4,9,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,38,253,1,1,20070317,WAS,NOK
+Shot Chart Detail,0020601006,138,2240,Gilbert Arenas,1610612764,Washington Wizards,2,10,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070320,POR,WAS
+Shot Chart Detail,0020601006,372,2240,Gilbert Arenas,1610612764,Washington Wizards,4,10,32,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-6,40,1,1,20070320,POR,WAS
+Shot Chart Detail,0020601006,408,2240,Gilbert Arenas,1610612764,Washington Wizards,4,6,14,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070320,POR,WAS
+Shot Chart Detail,0020601006,495,2240,Gilbert Arenas,1610612764,Washington Wizards,4,0,10,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070320,POR,WAS
+Shot Chart Detail,0020601014,16,2240,Gilbert Arenas,1610612764,Washington Wizards,1,10,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-61,156,1,1,20070321,SEA,WAS
+Shot Chart Detail,0020601014,90,2240,Gilbert Arenas,1610612764,Washington Wizards,1,4,2,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070321,SEA,WAS
+Shot Chart Detail,0020601014,101,2240,Gilbert Arenas,1610612764,Washington Wizards,1,2,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,1,260,1,1,20070321,SEA,WAS
+Shot Chart Detail,0020601014,182,2240,Gilbert Arenas,1610612764,Washington Wizards,2,6,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,66,140,1,1,20070321,SEA,WAS
+Shot Chart Detail,0020601014,209,2240,Gilbert Arenas,1610612764,Washington Wizards,2,4,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-184,184,1,1,20070321,SEA,WAS
+Shot Chart Detail,0020601014,250,2240,Gilbert Arenas,1610612764,Washington Wizards,2,0,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,98,173,1,1,20070321,SEA,WAS
+Shot Chart Detail,0020601014,270,2240,Gilbert Arenas,1610612764,Washington Wizards,3,10,34,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,3,1,1,20070321,SEA,WAS
+Shot Chart Detail,0020601014,287,2240,Gilbert Arenas,1610612764,Washington Wizards,3,8,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,153,225,1,1,20070321,SEA,WAS
+Shot Chart Detail,0020601014,291,2240,Gilbert Arenas,1610612764,Washington Wizards,3,8,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-204,169,1,1,20070321,SEA,WAS
+Shot Chart Detail,0020601014,415,2240,Gilbert Arenas,1610612764,Washington Wizards,4,9,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-230,109,1,1,20070321,SEA,WAS
+Shot Chart Detail,0020601014,425,2240,Gilbert Arenas,1610612764,Washington Wizards,4,8,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-177,-8,1,1,20070321,SEA,WAS
+Shot Chart Detail,0020601014,435,2240,Gilbert Arenas,1610612764,Washington Wizards,4,7,35,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070321,SEA,WAS
+Shot Chart Detail,0020601014,523,2240,Gilbert Arenas,1610612764,Washington Wizards,4,0,0,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070321,SEA,WAS
+Shot Chart Detail,0020601030,64,2240,Gilbert Arenas,1610612764,Washington Wizards,1,4,53,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,133,107,1,1,20070323,GSW,WAS
+Shot Chart Detail,0020601030,106,2240,Gilbert Arenas,1610612764,Washington Wizards,1,0,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-136,235,1,1,20070323,GSW,WAS
+Shot Chart Detail,0020601030,143,2240,Gilbert Arenas,1610612764,Washington Wizards,2,11,8,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,17,1,1,20070323,GSW,WAS
+Shot Chart Detail,0020601030,347,2240,Gilbert Arenas,1610612764,Washington Wizards,3,5,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,154,123,1,1,20070323,GSW,WAS
+Shot Chart Detail,0020601030,349,2240,Gilbert Arenas,1610612764,Washington Wizards,3,5,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,161,237,1,1,20070323,GSW,WAS
+Shot Chart Detail,0020601030,458,2240,Gilbert Arenas,1610612764,Washington Wizards,4,7,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,174,210,1,1,20070323,GSW,WAS
+Shot Chart Detail,0020601030,490,2240,Gilbert Arenas,1610612764,Washington Wizards,4,3,16,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,16,26,1,1,20070323,GSW,WAS
+Shot Chart Detail,0020601030,493,2240,Gilbert Arenas,1610612764,Washington Wizards,4,2,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-146,209,1,1,20070323,GSW,WAS
+Shot Chart Detail,0020601030,521,2240,Gilbert Arenas,1610612764,Washington Wizards,4,0,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,138,209,1,1,20070323,GSW,WAS
+Shot Chart Detail,0020601035,83,2240,Gilbert Arenas,1610612764,Washington Wizards,1,2,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,153,87,1,1,20070324,LAC,WAS
+Shot Chart Detail,0020601035,91,2240,Gilbert Arenas,1610612764,Washington Wizards,1,1,7,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070324,LAC,WAS
+Shot Chart Detail,0020601035,191,2240,Gilbert Arenas,1610612764,Washington Wizards,2,2,37,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070324,LAC,WAS
+Shot Chart Detail,0020601035,232,2240,Gilbert Arenas,1610612764,Washington Wizards,3,10,47,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070324,LAC,WAS
+Shot Chart Detail,0020601035,328,2240,Gilbert Arenas,1610612764,Washington Wizards,3,3,38,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-223,66,1,1,20070324,LAC,WAS
+Shot Chart Detail,0020601035,430,2240,Gilbert Arenas,1610612764,Washington Wizards,4,5,16,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,15,-75,130,1,1,20070324,LAC,WAS
+Shot Chart Detail,0020601035,470,2240,Gilbert Arenas,1610612764,Washington Wizards,4,1,51,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,57,99,1,1,20070324,LAC,WAS
+Shot Chart Detail,0020601035,517,2240,Gilbert Arenas,1610612764,Washington Wizards,4,0,26,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070324,LAC,WAS
+Shot Chart Detail,0020601035,535,2240,Gilbert Arenas,1610612764,Washington Wizards,4,0,4,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070324,LAC,WAS
+Shot Chart Detail,0020601051,217,2240,Gilbert Arenas,1610612764,Washington Wizards,2,1,23,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070326,UTA,WAS
+Shot Chart Detail,0020601051,256,2240,Gilbert Arenas,1610612764,Washington Wizards,3,10,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,192,150,1,1,20070326,UTA,WAS
+Shot Chart Detail,0020601051,264,2240,Gilbert Arenas,1610612764,Washington Wizards,3,9,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070326,UTA,WAS
+Shot Chart Detail,0020601051,294,2240,Gilbert Arenas,1610612764,Washington Wizards,3,6,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070326,UTA,WAS
+Shot Chart Detail,0020601051,351,2240,Gilbert Arenas,1610612764,Washington Wizards,3,2,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,166,186,1,1,20070326,UTA,WAS
+Shot Chart Detail,0020601051,383,2240,Gilbert Arenas,1610612764,Washington Wizards,4,11,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,141,100,1,1,20070326,UTA,WAS
+Shot Chart Detail,0020601051,424,2240,Gilbert Arenas,1610612764,Washington Wizards,4,8,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070326,UTA,WAS
+Shot Chart Detail,0020601051,492,2240,Gilbert Arenas,1610612764,Washington Wizards,4,2,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,22,204,91,1,1,20070326,UTA,WAS
+Shot Chart Detail,0020601059,55,2240,Gilbert Arenas,1610612764,Washington Wizards,1,6,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,7,1,1,20070328,WAS,PHI
+Shot Chart Detail,0020601059,75,2240,Gilbert Arenas,1610612764,Washington Wizards,1,3,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-135,69,1,1,20070328,WAS,PHI
+Shot Chart Detail,0020601059,84,2240,Gilbert Arenas,1610612764,Washington Wizards,1,2,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,1,245,1,1,20070328,WAS,PHI
+Shot Chart Detail,0020601059,295,2240,Gilbert Arenas,1610612764,Washington Wizards,3,7,2,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-3,0,1,1,20070328,WAS,PHI
+Shot Chart Detail,0020601059,297,2240,Gilbert Arenas,1610612764,Washington Wizards,3,6,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-177,-37,1,1,20070328,WAS,PHI
+Shot Chart Detail,0020601059,312,2240,Gilbert Arenas,1610612764,Washington Wizards,3,3,57,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-186,-28,1,1,20070328,WAS,PHI
+Shot Chart Detail,0020601073,5,2240,Gilbert Arenas,1610612764,Washington Wizards,1,10,58,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,-21,1,1,20070330,WAS,TOR
+Shot Chart Detail,0020601073,15,2240,Gilbert Arenas,1610612764,Washington Wizards,1,9,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,97,127,1,1,20070330,WAS,TOR
+Shot Chart Detail,0020601073,72,2240,Gilbert Arenas,1610612764,Washington Wizards,1,2,14,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,2,1,1,20070330,WAS,TOR
+Shot Chart Detail,0020601073,106,2240,Gilbert Arenas,1610612764,Washington Wizards,2,11,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,120,140,1,1,20070330,WAS,TOR
+Shot Chart Detail,0020601073,108,2240,Gilbert Arenas,1610612764,Washington Wizards,2,10,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,103,155,1,1,20070330,WAS,TOR
+Shot Chart Detail,0020601073,238,2240,Gilbert Arenas,1610612764,Washington Wizards,3,10,1,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,8,1,1,20070330,WAS,TOR
+Shot Chart Detail,0020601073,244,2240,Gilbert Arenas,1610612764,Washington Wizards,3,9,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,23,243,1,1,20070330,WAS,TOR
+Shot Chart Detail,0020601073,446,2240,Gilbert Arenas,1610612764,Washington Wizards,4,4,14,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,-11,1,1,20070330,WAS,TOR
+Shot Chart Detail,0020601073,503,2240,Gilbert Arenas,1610612764,Washington Wizards,4,0,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,217,128,1,1,20070330,WAS,TOR
+Shot Chart Detail,0020601091,30,2240,Gilbert Arenas,1610612764,Washington Wizards,1,8,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,159,214,1,1,20070401,MIL,WAS
+Shot Chart Detail,0020601091,66,2240,Gilbert Arenas,1610612764,Washington Wizards,1,3,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070401,MIL,WAS
+Shot Chart Detail,0020601091,159,2240,Gilbert Arenas,1610612764,Washington Wizards,2,5,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,205,145,1,1,20070401,MIL,WAS
+Shot Chart Detail,0020601091,162,2240,Gilbert Arenas,1610612764,Washington Wizards,2,4,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-159,15,1,1,20070401,MIL,WAS
+Shot Chart Detail,0020601091,278,2240,Gilbert Arenas,1610612764,Washington Wizards,3,4,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,167,109,1,1,20070401,MIL,WAS
+Shot Chart Detail,0020601091,300,2240,Gilbert Arenas,1610612764,Washington Wizards,3,2,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-29,265,1,1,20070401,MIL,WAS
+Shot Chart Detail,0020601100,2,2240,Gilbert Arenas,1610612764,Washington Wizards,1,11,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-149,143,1,1,20070403,CHA,WAS
+Shot Chart Detail,0020601100,29,2240,Gilbert Arenas,1610612764,Washington Wizards,1,8,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-123,242,1,1,20070403,CHA,WAS
+Shot Chart Detail,0020601100,53,2240,Gilbert Arenas,1610612764,Washington Wizards,1,5,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,98,229,1,1,20070403,CHA,WAS
+Shot Chart Detail,0020601100,76,2240,Gilbert Arenas,1610612764,Washington Wizards,1,3,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,176,181,1,1,20070403,CHA,WAS
+Shot Chart Detail,0020601100,106,2240,Gilbert Arenas,1610612764,Washington Wizards,1,0,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-8,261,1,1,20070403,CHA,WAS
+Shot Chart Detail,0020601100,124,2240,Gilbert Arenas,1610612764,Washington Wizards,2,10,25,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,11,181,1,1,20070403,CHA,WAS
+Shot Chart Detail,0020601100,229,2240,Gilbert Arenas,1610612764,Washington Wizards,3,11,28,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070403,CHA,WAS
+Shot Chart Detail,0020601100,244,2240,Gilbert Arenas,1610612764,Washington Wizards,3,9,31,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070403,CHA,WAS
+Shot Chart Detail,0020601100,301,2240,Gilbert Arenas,1610612764,Washington Wizards,3,6,9,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070403,CHA,WAS
+Shot Chart Detail,0020601100,332,2240,Gilbert Arenas,1610612764,Washington Wizards,3,3,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070403,CHA,WAS
+Shot Chart Detail,0020601100,415,2240,Gilbert Arenas,1610612764,Washington Wizards,4,6,23,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070403,CHA,WAS

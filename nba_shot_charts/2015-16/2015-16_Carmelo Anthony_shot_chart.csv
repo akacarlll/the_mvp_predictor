@@ -1,0 +1,568 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0021500012,41,2546,Carmelo Anthony,1610612752,New York Knicks,1,8,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,8,1,1,20151028,MIL,NYK
+Shot Chart Detail,0021500012,204,2546,Carmelo Anthony,1610612752,New York Knicks,2,6,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,7,1,1,20151028,MIL,NYK
+Shot Chart Detail,0021500012,331,2546,Carmelo Anthony,1610612752,New York Knicks,3,10,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-243,120,1,1,20151028,MIL,NYK
+Shot Chart Detail,0021500012,551,2546,Carmelo Anthony,1610612752,New York Knicks,4,4,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,30,-10,1,1,20151028,MIL,NYK
+Shot Chart Detail,0021500019,75,2546,Carmelo Anthony,1610612752,New York Knicks,1,4,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,11,1,1,20151029,NYK,ATL
+Shot Chart Detail,0021500019,106,2546,Carmelo Anthony,1610612752,New York Knicks,1,1,49,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-14,7,1,1,20151029,NYK,ATL
+Shot Chart Detail,0021500019,220,2546,Carmelo Anthony,1610612752,New York Knicks,2,1,55,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-19,13,1,1,20151029,NYK,ATL
+Shot Chart Detail,0021500019,259,2546,Carmelo Anthony,1610612752,New York Knicks,3,10,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,19,2,1,1,20151029,NYK,ATL
+Shot Chart Detail,0021500019,262,2546,Carmelo Anthony,1610612752,New York Knicks,3,10,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,132,75,1,1,20151029,NYK,ATL
+Shot Chart Detail,0021500019,292,2546,Carmelo Anthony,1610612752,New York Knicks,3,7,49,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,46,11,1,1,20151029,NYK,ATL
+Shot Chart Detail,0021500019,316,2546,Carmelo Anthony,1610612752,New York Knicks,3,6,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,119,43,1,1,20151029,NYK,ATL
+Shot Chart Detail,0021500019,470,2546,Carmelo Anthony,1610612752,New York Knicks,4,6,12,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-22,7,1,1,20151029,NYK,ATL
+Shot Chart Detail,0021500019,496,2546,Carmelo Anthony,1610612752,New York Knicks,4,4,38,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,19,3,1,1,20151029,NYK,ATL
+Shot Chart Detail,0021500019,530,2546,Carmelo Anthony,1610612752,New York Knicks,4,1,26,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,3,1,1,20151029,NYK,ATL
+Shot Chart Detail,0021500034,78,2546,Carmelo Anthony,1610612752,New York Knicks,1,5,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,189,180,1,1,20151031,WAS,NYK
+Shot Chart Detail,0021500034,94,2546,Carmelo Anthony,1610612752,New York Knicks,1,4,38,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,105,106,1,1,20151031,WAS,NYK
+Shot Chart Detail,0021500034,96,2546,Carmelo Anthony,1610612752,New York Knicks,1,4,19,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,51,1,1,20151031,WAS,NYK
+Shot Chart Detail,0021500034,194,2546,Carmelo Anthony,1610612752,New York Knicks,2,7,43,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,168,31,1,1,20151031,WAS,NYK
+Shot Chart Detail,0021500034,249,2546,Carmelo Anthony,1610612752,New York Knicks,2,4,10,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,169,21,1,1,20151031,WAS,NYK
+Shot Chart Detail,0021500034,296,2546,Carmelo Anthony,1610612752,New York Knicks,2,1,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-130,159,1,1,20151031,WAS,NYK
+Shot Chart Detail,0021500034,324,2546,Carmelo Anthony,1610612752,New York Knicks,3,10,13,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-245,-5,1,1,20151031,WAS,NYK
+Shot Chart Detail,0021500034,326,2546,Carmelo Anthony,1610612752,New York Knicks,3,9,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,30,-178,242,1,1,20151031,WAS,NYK
+Shot Chart Detail,0021500034,568,2546,Carmelo Anthony,1610612752,New York Knicks,4,6,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,69,156,1,1,20151031,WAS,NYK
+Shot Chart Detail,0021500034,575,2546,Carmelo Anthony,1610612752,New York Knicks,4,5,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,137,146,1,1,20151031,WAS,NYK
+Shot Chart Detail,0021500034,611,2546,Carmelo Anthony,1610612752,New York Knicks,4,1,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-140,156,1,1,20151031,WAS,NYK
+Shot Chart Detail,0021500048,10,2546,Carmelo Anthony,1610612752,New York Knicks,1,10,40,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,8,1,1,20151102,NYK,SAS
+Shot Chart Detail,0021500048,184,2546,Carmelo Anthony,1610612752,New York Knicks,2,5,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-114,87,1,1,20151102,NYK,SAS
+Shot Chart Detail,0021500048,283,2546,Carmelo Anthony,1610612752,New York Knicks,3,7,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-140,7,1,1,20151102,NYK,SAS
+Shot Chart Detail,0021500048,313,2546,Carmelo Anthony,1610612752,New York Knicks,3,5,19,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-1,110,1,1,20151102,NYK,SAS
+Shot Chart Detail,0021500063,21,2546,Carmelo Anthony,1610612752,New York Knicks,1,9,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-189,178,1,1,20151104,CLE,NYK
+Shot Chart Detail,0021500063,73,2546,Carmelo Anthony,1610612752,New York Knicks,1,4,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,132,121,1,1,20151104,CLE,NYK
+Shot Chart Detail,0021500063,291,2546,Carmelo Anthony,1610612752,New York Knicks,3,10,32,Made Shot,Jump Bank Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-35,16,1,1,20151104,CLE,NYK
+Shot Chart Detail,0021500063,307,2546,Carmelo Anthony,1610612752,New York Knicks,3,8,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,114,214,1,1,20151104,CLE,NYK
+Shot Chart Detail,0021500063,334,2546,Carmelo Anthony,1610612752,New York Knicks,3,6,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,135,97,1,1,20151104,CLE,NYK
+Shot Chart Detail,0021500063,506,2546,Carmelo Anthony,1610612752,New York Knicks,4,4,50,Made Shot,Turnaround Bank shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,25,18,1,1,20151104,CLE,NYK
+Shot Chart Detail,0021500079,53,2546,Carmelo Anthony,1610612752,New York Knicks,1,5,38,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,38,7,1,1,20151106,NYK,MIL
+Shot Chart Detail,0021500079,55,2546,Carmelo Anthony,1610612752,New York Knicks,1,5,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,179,95,1,1,20151106,NYK,MIL
+Shot Chart Detail,0021500079,199,2546,Carmelo Anthony,1610612752,New York Knicks,2,6,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-112,213,1,1,20151106,NYK,MIL
+Shot Chart Detail,0021500079,284,2546,Carmelo Anthony,1610612752,New York Knicks,2,0,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-110,-11,1,1,20151106,NYK,MIL
+Shot Chart Detail,0021500079,390,2546,Carmelo Anthony,1610612752,New York Knicks,3,3,54,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,-1,1,1,20151106,NYK,MIL
+Shot Chart Detail,0021500079,411,2546,Carmelo Anthony,1610612752,New York Knicks,3,2,11,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,14,-10,1,1,20151106,NYK,MIL
+Shot Chart Detail,0021500095,14,2546,Carmelo Anthony,1610612752,New York Knicks,1,9,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,122,218,1,1,20151108,NYK,LAL
+Shot Chart Detail,0021500095,42,2546,Carmelo Anthony,1610612752,New York Knicks,1,7,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,114,151,1,1,20151108,NYK,LAL
+Shot Chart Detail,0021500095,97,2546,Carmelo Anthony,1610612752,New York Knicks,1,3,14,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20151108,NYK,LAL
+Shot Chart Detail,0021500095,285,2546,Carmelo Anthony,1610612752,New York Knicks,3,9,47,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,84,16,1,1,20151108,NYK,LAL
+Shot Chart Detail,0021500095,288,2546,Carmelo Anthony,1610612752,New York Knicks,3,9,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,146,115,1,1,20151108,NYK,LAL
+Shot Chart Detail,0021500095,347,2546,Carmelo Anthony,1610612752,New York Knicks,3,4,34,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,2,1,1,20151108,NYK,LAL
+Shot Chart Detail,0021500095,456,2546,Carmelo Anthony,1610612752,New York Knicks,4,7,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,194,169,1,1,20151108,NYK,LAL
+Shot Chart Detail,0021500095,489,2546,Carmelo Anthony,1610612752,New York Knicks,4,4,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,32,144,1,1,20151108,NYK,LAL
+Shot Chart Detail,0021500109,33,2546,Carmelo Anthony,1610612752,New York Knicks,1,8,32,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-124,65,1,1,20151110,TOR,NYK
+Shot Chart Detail,0021500109,230,2546,Carmelo Anthony,1610612752,New York Knicks,2,5,9,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,174,46,1,1,20151110,TOR,NYK
+Shot Chart Detail,0021500109,232,2546,Carmelo Anthony,1610612752,New York Knicks,2,4,31,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,4,23,1,1,20151110,TOR,NYK
+Shot Chart Detail,0021500109,239,2546,Carmelo Anthony,1610612752,New York Knicks,2,4,4,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,25,-243,75,1,1,20151110,TOR,NYK
+Shot Chart Detail,0021500109,276,2546,Carmelo Anthony,1610612752,New York Knicks,2,1,4,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-138,33,1,1,20151110,TOR,NYK
+Shot Chart Detail,0021500109,290,2546,Carmelo Anthony,1610612752,New York Knicks,2,0,36,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,150,136,1,1,20151110,TOR,NYK
+Shot Chart Detail,0021500109,292,2546,Carmelo Anthony,1610612752,New York Knicks,2,0,5,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-156,218,1,1,20151110,TOR,NYK
+Shot Chart Detail,0021500109,296,2546,Carmelo Anthony,1610612752,New York Knicks,3,11,46,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,10,164,1,1,20151110,TOR,NYK
+Shot Chart Detail,0021500109,336,2546,Carmelo Anthony,1610612752,New York Knicks,3,7,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,187,92,1,1,20151110,TOR,NYK
+Shot Chart Detail,0021500109,501,2546,Carmelo Anthony,1610612752,New York Knicks,4,5,46,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,50,203,1,1,20151110,TOR,NYK
+Shot Chart Detail,0021500113,83,2546,Carmelo Anthony,1610612752,New York Knicks,1,2,11,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,11,1,1,20151111,CHA,NYK
+Shot Chart Detail,0021500113,200,2546,Carmelo Anthony,1610612752,New York Knicks,2,4,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,11,1,1,20151111,CHA,NYK
+Shot Chart Detail,0021500113,205,2546,Carmelo Anthony,1610612752,New York Knicks,2,3,35,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-19,110,1,1,20151111,CHA,NYK
+Shot Chart Detail,0021500113,244,2546,Carmelo Anthony,1610612752,New York Knicks,2,1,13,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,105,92,1,1,20151111,CHA,NYK
+Shot Chart Detail,0021500113,267,2546,Carmelo Anthony,1610612752,New York Knicks,3,11,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-114,232,1,1,20151111,CHA,NYK
+Shot Chart Detail,0021500113,270,2546,Carmelo Anthony,1610612752,New York Knicks,3,11,17,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-132,124,1,1,20151111,CHA,NYK
+Shot Chart Detail,0021500113,280,2546,Carmelo Anthony,1610612752,New York Knicks,3,9,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,128,90,1,1,20151111,CHA,NYK
+Shot Chart Detail,0021500113,282,2546,Carmelo Anthony,1610612752,New York Knicks,3,9,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,40,242,1,1,20151111,CHA,NYK
+Shot Chart Detail,0021500113,315,2546,Carmelo Anthony,1610612752,New York Knicks,3,5,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-151,75,1,1,20151111,CHA,NYK
+Shot Chart Detail,0021500113,322,2546,Carmelo Anthony,1610612752,New York Knicks,3,3,36,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-102,46,1,1,20151111,CHA,NYK
+Shot Chart Detail,0021500113,434,2546,Carmelo Anthony,1610612752,New York Knicks,4,6,23,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-156,43,1,1,20151111,CHA,NYK
+Shot Chart Detail,0021500113,457,2546,Carmelo Anthony,1610612752,New York Knicks,4,3,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,110,223,1,1,20151111,CHA,NYK
+Shot Chart Detail,0021500130,17,2546,Carmelo Anthony,1610612752,New York Knicks,1,9,32,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-241,-21,1,1,20151113,NYK,CLE
+Shot Chart Detail,0021500130,35,2546,Carmelo Anthony,1610612752,New York Knicks,1,7,54,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,63,21,1,1,20151113,NYK,CLE
+Shot Chart Detail,0021500130,37,2546,Carmelo Anthony,1610612752,New York Knicks,1,7,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,212,129,1,1,20151113,NYK,CLE
+Shot Chart Detail,0021500130,55,2546,Carmelo Anthony,1610612752,New York Knicks,1,4,48,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-130,-5,1,1,20151113,NYK,CLE
+Shot Chart Detail,0021500130,72,2546,Carmelo Anthony,1610612752,New York Knicks,1,3,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,159,146,1,1,20151113,NYK,CLE
+Shot Chart Detail,0021500130,194,2546,Carmelo Anthony,1610612752,New York Knicks,2,6,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-196,154,1,1,20151113,NYK,CLE
+Shot Chart Detail,0021500130,218,2546,Carmelo Anthony,1610612752,New York Knicks,2,4,21,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,163,11,1,1,20151113,NYK,CLE
+Shot Chart Detail,0021500130,258,2546,Carmelo Anthony,1610612752,New York Knicks,2,0,45,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,202,154,1,1,20151113,NYK,CLE
+Shot Chart Detail,0021500130,485,2546,Carmelo Anthony,1610612752,New York Knicks,4,5,24,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20151113,NYK,CLE
+Shot Chart Detail,0021500145,21,2546,Carmelo Anthony,1610612752,New York Knicks,1,9,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-168,193,1,1,20151115,NYK,NOP
+Shot Chart Detail,0021500145,27,2546,Carmelo Anthony,1610612752,New York Knicks,1,9,6,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-147,105,1,1,20151115,NYK,NOP
+Shot Chart Detail,0021500145,84,2546,Carmelo Anthony,1610612752,New York Knicks,1,3,58,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,2,23,1,1,20151115,NYK,NOP
+Shot Chart Detail,0021500145,211,2546,Carmelo Anthony,1610612752,New York Knicks,2,5,37,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20151115,NYK,NOP
+Shot Chart Detail,0021500145,221,2546,Carmelo Anthony,1610612752,New York Knicks,2,4,50,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-32,65,1,1,20151115,NYK,NOP
+Shot Chart Detail,0021500145,225,2546,Carmelo Anthony,1610612752,New York Knicks,2,4,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-32,156,1,1,20151115,NYK,NOP
+Shot Chart Detail,0021500145,282,2546,Carmelo Anthony,1610612752,New York Knicks,3,9,20,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-119,65,1,1,20151115,NYK,NOP
+Shot Chart Detail,0021500145,301,2546,Carmelo Anthony,1610612752,New York Knicks,3,6,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,138,75,1,1,20151115,NYK,NOP
+Shot Chart Detail,0021500145,325,2546,Carmelo Anthony,1610612752,New York Knicks,3,4,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,21,1,1,20151115,NYK,NOP
+Shot Chart Detail,0021500145,399,2546,Carmelo Anthony,1610612752,New York Knicks,4,9,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-107,124,1,1,20151115,NYK,NOP
+Shot Chart Detail,0021500145,439,2546,Carmelo Anthony,1610612752,New York Knicks,4,5,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-11,26,1,1,20151115,NYK,NOP
+Shot Chart Detail,0021500162,35,2546,Carmelo Anthony,1610612752,New York Knicks,1,8,44,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-9,121,1,1,20151117,NYK,CHA
+Shot Chart Detail,0021500162,242,2546,Carmelo Anthony,1610612752,New York Knicks,2,2,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,25,-1,1,1,20151117,NYK,CHA
+Shot Chart Detail,0021500162,298,2546,Carmelo Anthony,1610612752,New York Knicks,3,9,51,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-17,0,1,1,20151117,NYK,CHA
+Shot Chart Detail,0021500162,300,2546,Carmelo Anthony,1610612752,New York Knicks,3,9,25,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,68,139,1,1,20151117,NYK,CHA
+Shot Chart Detail,0021500162,333,2546,Carmelo Anthony,1610612752,New York Knicks,3,5,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,94,129,1,1,20151117,NYK,CHA
+Shot Chart Detail,0021500162,336,2546,Carmelo Anthony,1610612752,New York Knicks,3,4,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,123,210,1,1,20151117,NYK,CHA
+Shot Chart Detail,0021500183,63,2546,Carmelo Anthony,1610612752,New York Knicks,1,5,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,19,-6,1,1,20151120,OKC,NYK
+Shot Chart Detail,0021500183,79,2546,Carmelo Anthony,1610612752,New York Knicks,1,4,0,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-227,41,1,1,20151120,OKC,NYK
+Shot Chart Detail,0021500183,82,2546,Carmelo Anthony,1610612752,New York Knicks,1,3,28,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,40,0,1,1,20151120,OKC,NYK
+Shot Chart Detail,0021500183,194,2546,Carmelo Anthony,1610612752,New York Knicks,2,5,27,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-86,47,1,1,20151120,OKC,NYK
+Shot Chart Detail,0021500183,240,2546,Carmelo Anthony,1610612752,New York Knicks,2,1,51,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-127,110,1,1,20151120,OKC,NYK
+Shot Chart Detail,0021500183,247,2546,Carmelo Anthony,1610612752,New York Knicks,2,1,25,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,28,144,1,1,20151120,OKC,NYK
+Shot Chart Detail,0021500183,301,2546,Carmelo Anthony,1610612752,New York Knicks,3,7,46,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20151120,OKC,NYK
+Shot Chart Detail,0021500183,459,2546,Carmelo Anthony,1610612752,New York Knicks,4,4,27,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-89,16,1,1,20151120,OKC,NYK
+Shot Chart Detail,0021500183,496,2546,Carmelo Anthony,1610612752,New York Knicks,4,1,37,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,122,56,1,1,20151120,OKC,NYK
+Shot Chart Detail,0021500194,52,2546,Carmelo Anthony,1610612752,New York Knicks,1,5,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,104,141,1,1,20151121,HOU,NYK
+Shot Chart Detail,0021500194,241,2546,Carmelo Anthony,1610612752,New York Knicks,2,4,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,3,1,1,20151121,HOU,NYK
+Shot Chart Detail,0021500194,301,2546,Carmelo Anthony,1610612752,New York Knicks,3,11,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,127,115,1,1,20151121,HOU,NYK
+Shot Chart Detail,0021500194,526,2546,Carmelo Anthony,1610612752,New York Knicks,4,2,18,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,114,232,1,1,20151121,HOU,NYK
+Shot Chart Detail,0021500194,565,2546,Carmelo Anthony,1610612752,New York Knicks,4,0,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,-1,1,1,20151121,HOU,NYK
+Shot Chart Detail,0021500204,20,2546,Carmelo Anthony,1610612752,New York Knicks,1,9,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-129,-1,1,1,20151123,MIA,NYK
+Shot Chart Detail,0021500204,208,2546,Carmelo Anthony,1610612752,New York Knicks,2,3,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,146,87,1,1,20151123,MIA,NYK
+Shot Chart Detail,0021500204,277,2546,Carmelo Anthony,1610612752,New York Knicks,3,9,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-92,3,1,1,20151123,MIA,NYK
+Shot Chart Detail,0021500204,334,2546,Carmelo Anthony,1610612752,New York Knicks,3,4,8,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,38,2,1,1,20151123,MIA,NYK
+Shot Chart Detail,0021500204,336,2546,Carmelo Anthony,1610612752,New York Knicks,3,3,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-158,95,1,1,20151123,MIA,NYK
+Shot Chart Detail,0021500204,393,2546,Carmelo Anthony,1610612752,New York Knicks,4,11,42,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-91,80,1,1,20151123,MIA,NYK
+Shot Chart Detail,0021500216,25,2546,Carmelo Anthony,1610612752,New York Knicks,1,9,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-171,-21,1,1,20151125,ORL,NYK
+Shot Chart Detail,0021500216,208,2546,Carmelo Anthony,1610612752,New York Knicks,2,7,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,138,146,1,1,20151125,ORL,NYK
+Shot Chart Detail,0021500216,212,2546,Carmelo Anthony,1610612752,New York Knicks,2,6,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,155,36,1,1,20151125,ORL,NYK
+Shot Chart Detail,0021500216,242,2546,Carmelo Anthony,1610612752,New York Knicks,2,4,7,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,240,-6,1,1,20151125,ORL,NYK
+Shot Chart Detail,0021500216,303,2546,Carmelo Anthony,1610612752,New York Knicks,3,10,15,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-86,18,1,1,20151125,ORL,NYK
+Shot Chart Detail,0021500216,351,2546,Carmelo Anthony,1610612752,New York Knicks,3,5,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,148,214,1,1,20151125,ORL,NYK
+Shot Chart Detail,0021500216,389,2546,Carmelo Anthony,1610612752,New York Knicks,3,1,39,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,-10,1,1,20151125,ORL,NYK
+Shot Chart Detail,0021500216,527,2546,Carmelo Anthony,1610612752,New York Knicks,4,4,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-52,249,1,1,20151125,ORL,NYK
+Shot Chart Detail,0021500216,545,2546,Carmelo Anthony,1610612752,New York Knicks,4,2,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,82,200,1,1,20151125,ORL,NYK
+Shot Chart Detail,0021500230,34,2546,Carmelo Anthony,1610612752,New York Knicks,1,8,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,158,16,1,1,20151127,NYK,MIA
+Shot Chart Detail,0021500230,81,2546,Carmelo Anthony,1610612752,New York Knicks,1,5,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,27,0,1,1,20151127,NYK,MIA
+Shot Chart Detail,0021500230,119,2546,Carmelo Anthony,1610612752,New York Knicks,1,2,57,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20151127,NYK,MIA
+Shot Chart Detail,0021500230,121,2546,Carmelo Anthony,1610612752,New York Knicks,1,2,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,1,252,1,1,20151127,NYK,MIA
+Shot Chart Detail,0021500271,66,2546,Carmelo Anthony,1610612752,New York Knicks,1,4,31,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,7,1,1,20151202,NYK,PHI
+Shot Chart Detail,0021500271,226,2546,Carmelo Anthony,1610612752,New York Knicks,2,3,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,158,164,1,1,20151202,NYK,PHI
+Shot Chart Detail,0021500271,237,2546,Carmelo Anthony,1610612752,New York Knicks,2,2,9,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-56,41,1,1,20151202,NYK,PHI
+Shot Chart Detail,0021500271,258,2546,Carmelo Anthony,1610612752,New York Knicks,2,0,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,105,7,1,1,20151202,NYK,PHI
+Shot Chart Detail,0021500271,320,2546,Carmelo Anthony,1610612752,New York Knicks,3,6,32,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,19,-1,1,1,20151202,NYK,PHI
+Shot Chart Detail,0021500283,24,2546,Carmelo Anthony,1610612752,New York Knicks,1,7,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,23,174,165,1,1,20151204,NYK,BKN
+Shot Chart Detail,0021500283,31,2546,Carmelo Anthony,1610612752,New York Knicks,1,7,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,191,164,1,1,20151204,NYK,BKN
+Shot Chart Detail,0021500283,67,2546,Carmelo Anthony,1610612752,New York Knicks,1,3,49,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,-26,1,1,20151204,NYK,BKN
+Shot Chart Detail,0021500283,214,2546,Carmelo Anthony,1610612752,New York Knicks,2,4,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,27,-1,1,1,20151204,NYK,BKN
+Shot Chart Detail,0021500283,249,2546,Carmelo Anthony,1610612752,New York Knicks,2,1,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,189,156,1,1,20151204,NYK,BKN
+Shot Chart Detail,0021500283,283,2546,Carmelo Anthony,1610612752,New York Knicks,3,10,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,230,92,1,1,20151204,NYK,BKN
+Shot Chart Detail,0021500283,285,2546,Carmelo Anthony,1610612752,New York Knicks,3,10,16,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,-1,1,1,20151204,NYK,BKN
+Shot Chart Detail,0021500283,442,2546,Carmelo Anthony,1610612752,New York Knicks,4,7,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-155,51,1,1,20151204,NYK,BKN
+Shot Chart Detail,0021500283,487,2546,Carmelo Anthony,1610612752,New York Knicks,4,3,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,140,-16,1,1,20151204,NYK,BKN
+Shot Chart Detail,0021500295,97,2546,Carmelo Anthony,1610612752,New York Knicks,1,2,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-158,218,1,1,20151205,MIL,NYK
+Shot Chart Detail,0021500295,118,2546,Carmelo Anthony,1610612752,New York Knicks,1,0,30,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,7,1,1,20151205,MIL,NYK
+Shot Chart Detail,0021500295,126,2546,Carmelo Anthony,1610612752,New York Knicks,1,0,2,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-17,85,1,1,20151205,MIL,NYK
+Shot Chart Detail,0021500295,184,2546,Carmelo Anthony,1610612752,New York Knicks,2,6,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,94,124,1,1,20151205,MIL,NYK
+Shot Chart Detail,0021500295,240,2546,Carmelo Anthony,1610612752,New York Knicks,2,0,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,3,1,1,20151205,MIL,NYK
+Shot Chart Detail,0021500295,442,2546,Carmelo Anthony,1610612752,New York Knicks,4,8,25,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,25,-250,-19,1,1,20151205,MIL,NYK
+Shot Chart Detail,0021500307,27,2546,Carmelo Anthony,1610612752,New York Knicks,1,7,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,7,1,1,20151207,NYK,DAL
+Shot Chart Detail,0021500307,48,2546,Carmelo Anthony,1610612752,New York Knicks,1,5,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,21,1,1,20151207,NYK,DAL
+Shot Chart Detail,0021500307,68,2546,Carmelo Anthony,1610612752,New York Knicks,1,3,45,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,94,23,1,1,20151207,NYK,DAL
+Shot Chart Detail,0021500307,167,2546,Carmelo Anthony,1610612752,New York Knicks,2,5,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,86,13,1,1,20151207,NYK,DAL
+Shot Chart Detail,0021500307,186,2546,Carmelo Anthony,1610612752,New York Knicks,2,3,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-171,175,1,1,20151207,NYK,DAL
+Shot Chart Detail,0021500307,246,2546,Carmelo Anthony,1610612752,New York Knicks,3,10,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,104,159,1,1,20151207,NYK,DAL
+Shot Chart Detail,0021500327,174,2546,Carmelo Anthony,1610612752,New York Knicks,2,6,33,Made Shot,Fadeaway Bank shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-76,46,1,1,20151209,UTA,NYK
+Shot Chart Detail,0021500327,195,2546,Carmelo Anthony,1610612752,New York Knicks,2,4,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,189,154,1,1,20151209,UTA,NYK
+Shot Chart Detail,0021500327,228,2546,Carmelo Anthony,1610612752,New York Knicks,2,0,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-58,160,1,1,20151209,UTA,NYK
+Shot Chart Detail,0021500332,21,2546,Carmelo Anthony,1610612752,New York Knicks,1,8,39,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-112,136,1,1,20151210,SAC,NYK
+Shot Chart Detail,0021500332,136,2546,Carmelo Anthony,1610612752,New York Knicks,2,9,37,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,35,11,1,1,20151210,SAC,NYK
+Shot Chart Detail,0021500332,153,2546,Carmelo Anthony,1610612752,New York Knicks,2,8,19,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,11,1,1,20151210,SAC,NYK
+Shot Chart Detail,0021500332,227,2546,Carmelo Anthony,1610612752,New York Knicks,2,1,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,135,26,1,1,20151210,SAC,NYK
+Shot Chart Detail,0021500332,292,2546,Carmelo Anthony,1610612752,New York Knicks,3,8,35,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,137,62,1,1,20151210,SAC,NYK
+Shot Chart Detail,0021500332,346,2546,Carmelo Anthony,1610612752,New York Knicks,3,2,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,25,2,1,1,20151210,SAC,NYK
+Shot Chart Detail,0021500332,505,2546,Carmelo Anthony,1610612752,New York Knicks,4,1,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,0,262,1,1,20151210,SAC,NYK
+Shot Chart Detail,0021500332,541,2546,Carmelo Anthony,1610612752,New York Knicks,4,0,8,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,10,1,1,20151210,SAC,NYK
+Shot Chart Detail,0021500352,7,2546,Carmelo Anthony,1610612752,New York Knicks,1,11,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-160,16,1,1,20151212,POR,NYK
+Shot Chart Detail,0021500352,29,2546,Carmelo Anthony,1610612752,New York Knicks,1,8,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,171,70,1,1,20151212,POR,NYK
+Shot Chart Detail,0021500352,44,2546,Carmelo Anthony,1610612752,New York Knicks,1,7,5,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-142,16,1,1,20151212,POR,NYK
+Shot Chart Detail,0021500352,98,2546,Carmelo Anthony,1610612752,New York Knicks,1,1,41,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,110,33,1,1,20151212,POR,NYK
+Shot Chart Detail,0021500352,184,2546,Carmelo Anthony,1610612752,New York Knicks,2,6,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-22,-6,1,1,20151212,POR,NYK
+Shot Chart Detail,0021500352,192,2546,Carmelo Anthony,1610612752,New York Knicks,2,5,34,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-99,242,1,1,20151212,POR,NYK
+Shot Chart Detail,0021500352,215,2546,Carmelo Anthony,1610612752,New York Knicks,2,3,52,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,7,1,1,20151212,POR,NYK
+Shot Chart Detail,0021500352,262,2546,Carmelo Anthony,1610612752,New York Knicks,2,0,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,128,7,1,1,20151212,POR,NYK
+Shot Chart Detail,0021500352,273,2546,Carmelo Anthony,1610612752,New York Knicks,3,10,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-171,56,1,1,20151212,POR,NYK
+Shot Chart Detail,0021500352,279,2546,Carmelo Anthony,1610612752,New York Knicks,3,9,40,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-181,188,1,1,20151212,POR,NYK
+Shot Chart Detail,0021500352,321,2546,Carmelo Anthony,1610612752,New York Knicks,3,5,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,132,43,1,1,20151212,POR,NYK
+Shot Chart Detail,0021500352,341,2546,Carmelo Anthony,1610612752,New York Knicks,3,3,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,27,-10,1,1,20151212,POR,NYK
+Shot Chart Detail,0021500352,385,2546,Carmelo Anthony,1610612752,New York Knicks,3,0,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,-10,1,1,20151212,POR,NYK
+Shot Chart Detail,0021500375,73,2546,Carmelo Anthony,1610612752,New York Knicks,1,4,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,94,124,1,1,20151216,NYK,MIN
+Shot Chart Detail,0021500375,265,2546,Carmelo Anthony,1610612752,New York Knicks,2,0,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-104,224,1,1,20151216,NYK,MIN
+Shot Chart Detail,0021500375,271,2546,Carmelo Anthony,1610612752,New York Knicks,2,0,0,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,128,129,1,1,20151216,NYK,MIN
+Shot Chart Detail,0021500375,307,2546,Carmelo Anthony,1610612752,New York Knicks,3,7,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,33,149,1,1,20151216,NYK,MIN
+Shot Chart Detail,0021500375,454,2546,Carmelo Anthony,1610612752,New York Knicks,4,6,44,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,3,1,1,20151216,NYK,MIN
+Shot Chart Detail,0021500375,459,2546,Carmelo Anthony,1610612752,New York Knicks,4,6,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-124,21,1,1,20151216,NYK,MIN
+Shot Chart Detail,0021500388,33,2546,Carmelo Anthony,1610612752,New York Knicks,1,8,28,Made Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-14,70,1,1,20151218,PHI,NYK
+Shot Chart Detail,0021500388,71,2546,Carmelo Anthony,1610612752,New York Knicks,1,5,7,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,123,111,1,1,20151218,PHI,NYK
+Shot Chart Detail,0021500388,111,2546,Carmelo Anthony,1610612752,New York Knicks,1,2,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-32,149,1,1,20151218,PHI,NYK
+Shot Chart Detail,0021500388,282,2546,Carmelo Anthony,1610612752,New York Knicks,2,1,1,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,7,1,1,20151218,PHI,NYK
+Shot Chart Detail,0021500400,10,2546,Carmelo Anthony,1610612752,New York Knicks,1,10,16,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,105,-11,1,1,20151219,NYK,CHI
+Shot Chart Detail,0021500400,40,2546,Carmelo Anthony,1610612752,New York Knicks,1,7,24,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,14,-6,1,1,20151219,NYK,CHI
+Shot Chart Detail,0021500400,66,2546,Carmelo Anthony,1610612752,New York Knicks,1,4,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,14,-5,1,1,20151219,NYK,CHI
+Shot Chart Detail,0021500400,92,2546,Carmelo Anthony,1610612752,New York Knicks,1,2,16,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-24,-6,1,1,20151219,NYK,CHI
+Shot Chart Detail,0021500400,101,2546,Carmelo Anthony,1610612752,New York Knicks,1,0,55,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-14,-1,1,1,20151219,NYK,CHI
+Shot Chart Detail,0021500400,103,2546,Carmelo Anthony,1610612752,New York Knicks,1,0,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-155,198,1,1,20151219,NYK,CHI
+Shot Chart Detail,0021500400,168,2546,Carmelo Anthony,1610612752,New York Knicks,2,6,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,-1,1,1,20151219,NYK,CHI
+Shot Chart Detail,0021500400,198,2546,Carmelo Anthony,1610612752,New York Knicks,2,3,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,163,41,1,1,20151219,NYK,CHI
+Shot Chart Detail,0021500400,210,2546,Carmelo Anthony,1610612752,New York Knicks,2,2,3,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20151219,NYK,CHI
+Shot Chart Detail,0021500400,294,2546,Carmelo Anthony,1610612752,New York Knicks,3,6,39,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,105,-10,1,1,20151219,NYK,CHI
+Shot Chart Detail,0021500400,296,2546,Carmelo Anthony,1610612752,New York Knicks,3,6,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-187,95,1,1,20151219,NYK,CHI
+Shot Chart Detail,0021500400,319,2546,Carmelo Anthony,1610612752,New York Knicks,3,4,11,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,25,8,1,1,20151219,NYK,CHI
+Shot Chart Detail,0021500412,59,2546,Carmelo Anthony,1610612752,New York Knicks,1,4,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,101,141,1,1,20151221,NYK,ORL
+Shot Chart Detail,0021500412,64,2546,Carmelo Anthony,1610612752,New York Knicks,1,3,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,76,232,1,1,20151221,NYK,ORL
+Shot Chart Detail,0021500412,66,2546,Carmelo Anthony,1610612752,New York Knicks,1,3,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-22,2,1,1,20151221,NYK,ORL
+Shot Chart Detail,0021500412,200,2546,Carmelo Anthony,1610612752,New York Knicks,2,2,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,130,178,1,1,20151221,NYK,ORL
+Shot Chart Detail,0021500412,214,2546,Carmelo Anthony,1610612752,New York Knicks,2,0,58,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,58,169,1,1,20151221,NYK,ORL
+Shot Chart Detail,0021500412,224,2546,Carmelo Anthony,1610612752,New York Knicks,2,0,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-68,247,1,1,20151221,NYK,ORL
+Shot Chart Detail,0021500412,257,2546,Carmelo Anthony,1610612752,New York Knicks,3,8,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,155,106,1,1,20151221,NYK,ORL
+Shot Chart Detail,0021500412,283,2546,Carmelo Anthony,1610612752,New York Knicks,3,5,2,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,63,131,1,1,20151221,NYK,ORL
+Shot Chart Detail,0021500412,307,2546,Carmelo Anthony,1610612752,New York Knicks,3,2,1,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,115,80,1,1,20151221,NYK,ORL
+Shot Chart Detail,0021500412,377,2546,Carmelo Anthony,1610612752,New York Knicks,4,6,21,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,120,2,1,1,20151221,NYK,ORL
+Shot Chart Detail,0021500442,2,2546,Carmelo Anthony,1610612752,New York Knicks,1,11,40,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,123,21,1,1,20151226,ATL,NYK
+Shot Chart Detail,0021500442,26,2546,Carmelo Anthony,1610612752,New York Knicks,1,8,17,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,2,1,1,20151226,ATL,NYK
+Shot Chart Detail,0021500442,30,2546,Carmelo Anthony,1610612752,New York Knicks,1,7,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,76,174,1,1,20151226,ATL,NYK
+Shot Chart Detail,0021500442,63,2546,Carmelo Anthony,1610612752,New York Knicks,1,4,37,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,158,92,1,1,20151226,ATL,NYK
+Shot Chart Detail,0021500442,227,2546,Carmelo Anthony,1610612752,New York Knicks,2,1,58,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20151226,ATL,NYK
+Shot Chart Detail,0021500442,311,2546,Carmelo Anthony,1610612752,New York Knicks,3,6,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-151,46,1,1,20151226,ATL,NYK
+Shot Chart Detail,0021500442,428,2546,Carmelo Anthony,1610612752,New York Knicks,4,8,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-14,0,1,1,20151226,ATL,NYK
+Shot Chart Detail,0021500454,24,2546,Carmelo Anthony,1610612752,New York Knicks,1,9,9,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,2,1,1,20151227,BOS,NYK
+Shot Chart Detail,0021500454,77,2546,Carmelo Anthony,1610612752,New York Knicks,1,4,15,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,0,1,1,20151227,BOS,NYK
+Shot Chart Detail,0021500454,89,2546,Carmelo Anthony,1610612752,New York Knicks,1,3,42,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-1,1,1,20151227,BOS,NYK
+Shot Chart Detail,0021500454,191,2546,Carmelo Anthony,1610612752,New York Knicks,2,7,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,2,1,1,20151227,BOS,NYK
+Shot Chart Detail,0021500454,263,2546,Carmelo Anthony,1610612752,New York Knicks,2,1,9,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,-6,1,1,20151227,BOS,NYK
+Shot Chart Detail,0021500454,285,2546,Carmelo Anthony,1610612752,New York Knicks,2,0,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,138,-1,1,1,20151227,BOS,NYK
+Shot Chart Detail,0021500454,350,2546,Carmelo Anthony,1610612752,New York Knicks,3,6,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,101,237,1,1,20151227,BOS,NYK
+Shot Chart Detail,0021500454,362,2546,Carmelo Anthony,1610612752,New York Knicks,3,5,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-201,26,1,1,20151227,BOS,NYK
+Shot Chart Detail,0021500454,385,2546,Carmelo Anthony,1610612752,New York Knicks,3,2,53,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20151227,BOS,NYK
+Shot Chart Detail,0021500454,499,2546,Carmelo Anthony,1610612752,New York Knicks,4,5,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-160,205,1,1,20151227,BOS,NYK
+Shot Chart Detail,0021500454,564,2546,Carmelo Anthony,1610612752,New York Knicks,4,0,41,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,-1,1,1,20151227,BOS,NYK
+Shot Chart Detail,0021500469,28,2546,Carmelo Anthony,1610612752,New York Knicks,1,7,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,105,228,1,1,20151229,NYK,DET
+Shot Chart Detail,0021500469,39,2546,Carmelo Anthony,1610612752,New York Knicks,1,5,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,-1,1,1,20151229,NYK,DET
+Shot Chart Detail,0021500469,196,2546,Carmelo Anthony,1610612752,New York Knicks,2,3,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,87,62,1,1,20151229,NYK,DET
+Shot Chart Detail,0021500469,223,2546,Carmelo Anthony,1610612752,New York Knicks,2,0,59,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,8,1,1,20151229,NYK,DET
+Shot Chart Detail,0021500469,250,2546,Carmelo Anthony,1610612752,New York Knicks,3,10,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-166,105,1,1,20151229,NYK,DET
+Shot Chart Detail,0021500469,275,2546,Carmelo Anthony,1610612752,New York Knicks,3,7,37,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-68,129,1,1,20151229,NYK,DET
+Shot Chart Detail,0021500469,308,2546,Carmelo Anthony,1610612752,New York Knicks,3,3,26,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,145,210,1,1,20151229,NYK,DET
+Shot Chart Detail,0021500469,354,2546,Carmelo Anthony,1610612752,New York Knicks,3,0,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-156,-6,1,1,20151229,NYK,DET
+Shot Chart Detail,0021500469,407,2546,Carmelo Anthony,1610612752,New York Knicks,4,6,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-65,156,1,1,20151229,NYK,DET
+Shot Chart Detail,0021500469,426,2546,Carmelo Anthony,1610612752,New York Knicks,4,4,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-104,80,1,1,20151229,NYK,DET
+Shot Chart Detail,0021500469,459,2546,Carmelo Anthony,1610612752,New York Knicks,4,2,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,161,18,1,1,20151229,NYK,DET
+Shot Chart Detail,0021500493,68,2546,Carmelo Anthony,1610612752,New York Knicks,1,5,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,184,-5,1,1,20160101,CHI,NYK
+Shot Chart Detail,0021500493,83,2546,Carmelo Anthony,1610612752,New York Knicks,1,3,8,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-135,85,1,1,20160101,CHI,NYK
+Shot Chart Detail,0021500493,169,2546,Carmelo Anthony,1610612752,New York Knicks,2,7,3,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160101,CHI,NYK
+Shot Chart Detail,0021500493,175,2546,Carmelo Anthony,1610612752,New York Knicks,2,6,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-183,70,1,1,20160101,CHI,NYK
+Shot Chart Detail,0021500493,197,2546,Carmelo Anthony,1610612752,New York Knicks,2,4,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,101,224,1,1,20160101,CHI,NYK
+Shot Chart Detail,0021500493,283,2546,Carmelo Anthony,1610612752,New York Knicks,3,8,26,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,22,13,1,1,20160101,CHI,NYK
+Shot Chart Detail,0021500493,299,2546,Carmelo Anthony,1610612752,New York Knicks,3,7,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,27,3,1,1,20160101,CHI,NYK
+Shot Chart Detail,0021500493,460,2546,Carmelo Anthony,1610612752,New York Knicks,4,7,12,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-19,7,1,1,20160101,CHI,NYK
+Shot Chart Detail,0021500506,373,2546,Carmelo Anthony,1610612752,New York Knicks,2,6,30,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-1,61,1,1,20160103,NYK,ATL
+Shot Chart Detail,0021500506,218,2546,Carmelo Anthony,1610612752,New York Knicks,3,2,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-16,21,1,1,20160103,NYK,ATL
+Shot Chart Detail,0021500506,306,2546,Carmelo Anthony,1610612752,New York Knicks,4,4,41,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160103,NYK,ATL
+Shot Chart Detail,0021500506,322,2546,Carmelo Anthony,1610612752,New York Knicks,4,3,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-112,165,1,1,20160103,NYK,ATL
+Shot Chart Detail,0021500521,16,2546,Carmelo Anthony,1610612752,New York Knicks,1,10,3,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160105,ATL,NYK
+Shot Chart Detail,0021500521,106,2546,Carmelo Anthony,1610612752,New York Knicks,1,1,58,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,19,7,1,1,20160105,ATL,NYK
+Shot Chart Detail,0021500521,206,2546,Carmelo Anthony,1610612752,New York Knicks,2,7,7,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-1,26,1,1,20160105,ATL,NYK
+Shot Chart Detail,0021500521,251,2546,Carmelo Anthony,1610612752,New York Knicks,2,3,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,14,2,1,1,20160105,ATL,NYK
+Shot Chart Detail,0021500521,374,2546,Carmelo Anthony,1610612752,New York Knicks,3,4,34,Made Shot,Driving Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,73,26,1,1,20160105,ATL,NYK
+Shot Chart Detail,0021500521,401,2546,Carmelo Anthony,1610612752,New York Knicks,3,1,45,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,3,1,1,20160105,ATL,NYK
+Shot Chart Detail,0021500521,512,2546,Carmelo Anthony,1610612752,New York Knicks,4,4,49,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,171,87,1,1,20160105,ATL,NYK
+Shot Chart Detail,0021500521,560,2546,Carmelo Anthony,1610612752,New York Knicks,4,1,22,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,158,115,1,1,20160105,ATL,NYK
+Shot Chart Detail,0021500525,26,2546,Carmelo Anthony,1610612752,New York Knicks,1,8,0,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,12,-65,111,1,1,20160106,MIA,NYK
+Shot Chart Detail,0021500525,150,2546,Carmelo Anthony,1610612752,New York Knicks,2,7,59,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-63,46,1,1,20160106,MIA,NYK
+Shot Chart Detail,0021500525,179,2546,Carmelo Anthony,1610612752,New York Knicks,2,3,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,-212,0,1,1,20160106,MIA,NYK
+Shot Chart Detail,0021500525,190,2546,Carmelo Anthony,1610612752,New York Knicks,2,2,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,45,156,1,1,20160106,MIA,NYK
+Shot Chart Detail,0021500525,217,2546,Carmelo Anthony,1610612752,New York Knicks,2,0,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,7,1,1,20160106,MIA,NYK
+Shot Chart Detail,0021500525,265,2546,Carmelo Anthony,1610612752,New York Knicks,3,6,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,181,-5,1,1,20160106,MIA,NYK
+Shot Chart Detail,0021500525,291,2546,Carmelo Anthony,1610612752,New York Knicks,3,3,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,96,141,1,1,20160106,MIA,NYK
+Shot Chart Detail,0021500525,392,2546,Carmelo Anthony,1610612752,New York Knicks,4,5,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-84,139,1,1,20160106,MIA,NYK
+Shot Chart Detail,0021500525,411,2546,Carmelo Anthony,1610612752,New York Knicks,4,4,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,140,67,1,1,20160106,MIA,NYK
+Shot Chart Detail,0021500546,113,2546,Carmelo Anthony,1610612752,New York Knicks,1,1,14,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-89,234,1,1,20160108,SAS,NYK
+Shot Chart Detail,0021500546,286,2546,Carmelo Anthony,1610612752,New York Knicks,3,9,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,217,136,1,1,20160108,SAS,NYK
+Shot Chart Detail,0021500546,462,2546,Carmelo Anthony,1610612752,New York Knicks,4,3,45,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,8,1,1,20160108,SAS,NYK
+Shot Chart Detail,0021500546,472,2546,Carmelo Anthony,1610612752,New York Knicks,4,2,49,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,92,139,1,1,20160108,SAS,NYK
+Shot Chart Detail,0021500546,482,2546,Carmelo Anthony,1610612752,New York Knicks,4,1,27,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-137,61,1,1,20160108,SAS,NYK
+Shot Chart Detail,0021500562,39,2546,Carmelo Anthony,1610612752,New York Knicks,1,7,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,141,23,1,1,20160110,NYK,MIL
+Shot Chart Detail,0021500562,43,2546,Carmelo Anthony,1610612752,New York Knicks,1,6,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,8,1,1,20160110,NYK,MIL
+Shot Chart Detail,0021500562,81,2546,Carmelo Anthony,1610612752,New York Knicks,1,3,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,7,1,1,20160110,NYK,MIL
+Shot Chart Detail,0021500562,201,2546,Carmelo Anthony,1610612752,New York Knicks,2,4,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-19,2,1,1,20160110,NYK,MIL
+Shot Chart Detail,0021500562,204,2546,Carmelo Anthony,1610612752,New York Knicks,2,4,7,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,14,7,1,1,20160110,NYK,MIL
+Shot Chart Detail,0021500562,289,2546,Carmelo Anthony,1610612752,New York Knicks,3,7,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,92,7,1,1,20160110,NYK,MIL
+Shot Chart Detail,0021500562,295,2546,Carmelo Anthony,1610612752,New York Knicks,3,6,58,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-92,52,1,1,20160110,NYK,MIL
+Shot Chart Detail,0021500562,354,2546,Carmelo Anthony,1610612752,New York Knicks,3,1,38,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,112,13,1,1,20160110,NYK,MIL
+Shot Chart Detail,0021500562,357,2546,Carmelo Anthony,1610612752,New York Knicks,3,1,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,192,164,1,1,20160110,NYK,MIL
+Shot Chart Detail,0021500562,462,2546,Carmelo Anthony,1610612752,New York Knicks,4,3,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,133,62,1,1,20160110,NYK,MIL
+Shot Chart Detail,0021500571,28,2546,Carmelo Anthony,1610612752,New York Knicks,1,9,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,156,198,1,1,20160112,NYK,BOS
+Shot Chart Detail,0021500571,50,2546,Carmelo Anthony,1610612752,New York Knicks,1,6,27,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160112,NYK,BOS
+Shot Chart Detail,0021500571,62,2546,Carmelo Anthony,1610612752,New York Knicks,1,4,52,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,96,174,1,1,20160112,NYK,BOS
+Shot Chart Detail,0021500571,65,2546,Carmelo Anthony,1610612752,New York Knicks,1,4,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-233,106,1,1,20160112,NYK,BOS
+Shot Chart Detail,0021500571,90,2546,Carmelo Anthony,1610612752,New York Knicks,1,2,21,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,15,16,1,1,20160112,NYK,BOS
+Shot Chart Detail,0021500571,195,2546,Carmelo Anthony,1610612752,New York Knicks,2,3,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,79,141,1,1,20160112,NYK,BOS
+Shot Chart Detail,0021500571,205,2546,Carmelo Anthony,1610612752,New York Knicks,2,2,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-133,100,1,1,20160112,NYK,BOS
+Shot Chart Detail,0021500615,52,2546,Carmelo Anthony,1610612752,New York Knicks,1,4,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,110,16,1,1,20160118,NYK,PHI
+Shot Chart Detail,0021500615,167,2546,Carmelo Anthony,1610612752,New York Knicks,2,5,4,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,117,18,1,1,20160118,NYK,PHI
+Shot Chart Detail,0021500615,245,2546,Carmelo Anthony,1610612752,New York Knicks,3,11,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-179,190,1,1,20160118,NYK,PHI
+Shot Chart Detail,0021500615,336,2546,Carmelo Anthony,1610612752,New York Knicks,3,1,14,Made Shot,Fadeaway Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,69,26,1,1,20160118,NYK,PHI
+Shot Chart Detail,0021500615,406,2546,Carmelo Anthony,1610612752,New York Knicks,4,7,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-16,16,1,1,20160118,NYK,PHI
+Shot Chart Detail,0021500615,514,2546,Carmelo Anthony,1610612752,New York Knicks,4,0,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,33,259,1,1,20160118,NYK,PHI
+Shot Chart Detail,0021500615,638,2546,Carmelo Anthony,1610612752,New York Knicks,6,1,1,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-22,47,1,1,20160118,NYK,PHI
+Shot Chart Detail,0021500632,25,2546,Carmelo Anthony,1610612752,New York Knicks,1,7,25,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,16,1,1,20160120,NYK,UTA
+Shot Chart Detail,0021500632,72,2546,Carmelo Anthony,1610612752,New York Knicks,1,1,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,7,1,1,20160120,NYK,UTA
+Shot Chart Detail,0021500632,176,2546,Carmelo Anthony,1610612752,New York Knicks,2,4,38,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,127,-6,1,1,20160120,NYK,UTA
+Shot Chart Detail,0021500632,212,2546,Carmelo Anthony,1610612752,New York Knicks,2,0,23,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,14,0,1,1,20160120,NYK,UTA
+Shot Chart Detail,0021500632,230,2546,Carmelo Anthony,1610612752,New York Knicks,3,11,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,7,1,1,20160120,NYK,UTA
+Shot Chart Detail,0021500632,235,2546,Carmelo Anthony,1610612752,New York Knicks,3,11,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,166,90,1,1,20160120,NYK,UTA
+Shot Chart Detail,0021500632,240,2546,Carmelo Anthony,1610612752,New York Knicks,3,9,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-83,174,1,1,20160120,NYK,UTA
+Shot Chart Detail,0021500632,248,2546,Carmelo Anthony,1610612752,New York Knicks,3,9,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-107,70,1,1,20160120,NYK,UTA
+Shot Chart Detail,0021500632,282,2546,Carmelo Anthony,1610612752,New York Knicks,3,3,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,133,11,1,1,20160120,NYK,UTA
+Shot Chart Detail,0021500632,434,2546,Carmelo Anthony,1610612752,New York Knicks,4,5,11,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160120,NYK,UTA
+Shot Chart Detail,0021500632,436,2546,Carmelo Anthony,1610612752,New York Knicks,4,4,32,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,19,7,1,1,20160120,NYK,UTA
+Shot Chart Detail,0021500632,481,2546,Carmelo Anthony,1610612752,New York Knicks,4,0,15,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160120,NYK,UTA
+Shot Chart Detail,0021500632,531,2546,Carmelo Anthony,1610612752,New York Knicks,5,3,43,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,107,51,1,1,20160120,NYK,UTA
+Shot Chart Detail,0021500648,15,2546,Carmelo Anthony,1610612752,New York Knicks,1,9,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,169,183,1,1,20160122,NYK,LAC
+Shot Chart Detail,0021500648,47,2546,Carmelo Anthony,1610612752,New York Knicks,1,6,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-148,-5,1,1,20160122,NYK,LAC
+Shot Chart Detail,0021500648,76,2546,Carmelo Anthony,1610612752,New York Knicks,1,3,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-169,11,1,1,20160122,NYK,LAC
+Shot Chart Detail,0021500648,287,2546,Carmelo Anthony,1610612752,New York Knicks,3,6,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-1,1,1,20160122,NYK,LAC
+Shot Chart Detail,0021500655,86,2546,Carmelo Anthony,1610612752,New York Knicks,1,3,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,168,101,1,1,20160123,CHA,NYK
+Shot Chart Detail,0021500655,98,2546,Carmelo Anthony,1610612752,New York Knicks,1,2,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,91,149,1,1,20160123,CHA,NYK
+Shot Chart Detail,0021500655,231,2546,Carmelo Anthony,1610612752,New York Knicks,2,5,20,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,11,1,1,20160123,CHA,NYK
+Shot Chart Detail,0021500655,298,2546,Carmelo Anthony,1610612752,New York Knicks,2,0,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,128,134,1,1,20160123,CHA,NYK
+Shot Chart Detail,0021500700,97,2546,Carmelo Anthony,1610612752,New York Knicks,1,3,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,148,11,1,1,20160129,NYK,PHX
+Shot Chart Detail,0021500700,179,2546,Carmelo Anthony,1610612752,New York Knicks,2,7,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-202,136,1,1,20160129,NYK,PHX
+Shot Chart Detail,0021500700,182,2546,Carmelo Anthony,1610612752,New York Knicks,2,7,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,151,33,1,1,20160129,NYK,PHX
+Shot Chart Detail,0021500700,235,2546,Carmelo Anthony,1610612752,New York Knicks,2,2,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,2,1,1,20160129,NYK,PHX
+Shot Chart Detail,0021500700,298,2546,Carmelo Anthony,1610612752,New York Knicks,3,7,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-192,169,1,1,20160129,NYK,PHX
+Shot Chart Detail,0021500718,63,2546,Carmelo Anthony,1610612752,New York Knicks,1,5,41,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,82,41,1,1,20160131,NYK,GSW
+Shot Chart Detail,0021500718,89,2546,Carmelo Anthony,1610612752,New York Knicks,1,3,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,22,-68,210,1,1,20160131,NYK,GSW
+Shot Chart Detail,0021500718,115,2546,Carmelo Anthony,1610612752,New York Knicks,1,0,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,99,124,1,1,20160131,NYK,GSW
+Shot Chart Detail,0021500718,214,2546,Carmelo Anthony,1610612752,New York Knicks,2,2,46,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,-6,1,1,20160131,NYK,GSW
+Shot Chart Detail,0021500718,224,2546,Carmelo Anthony,1610612752,New York Knicks,2,1,58,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-196,23,1,1,20160131,NYK,GSW
+Shot Chart Detail,0021500718,305,2546,Carmelo Anthony,1610612752,New York Knicks,3,7,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,60,139,1,1,20160131,NYK,GSW
+Shot Chart Detail,0021500718,353,2546,Carmelo Anthony,1610612752,New York Knicks,3,2,55,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-17,87,1,1,20160131,NYK,GSW
+Shot Chart Detail,0021500718,418,2546,Carmelo Anthony,1610612752,New York Knicks,4,7,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,125,154,1,1,20160131,NYK,GSW
+Shot Chart Detail,0021500730,186,2546,Carmelo Anthony,1610612752,New York Knicks,2,6,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-109,169,1,1,20160202,NYK,BOS
+Shot Chart Detail,0021500730,256,2546,Carmelo Anthony,1610612752,New York Knicks,2,2,34,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-58,61,1,1,20160202,NYK,BOS
+Shot Chart Detail,0021500730,290,2546,Carmelo Anthony,1610612752,New York Knicks,3,11,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,11,1,1,20160202,NYK,BOS
+Shot Chart Detail,0021500730,348,2546,Carmelo Anthony,1610612752,New York Knicks,3,5,37,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,-21,1,1,20160202,NYK,BOS
+Shot Chart Detail,0021500746,46,2546,Carmelo Anthony,1610612752,New York Knicks,1,6,21,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-153,57,1,1,20160204,DET,NYK
+Shot Chart Detail,0021500746,65,2546,Carmelo Anthony,1610612752,New York Knicks,1,4,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,104,252,1,1,20160204,DET,NYK
+Shot Chart Detail,0021500746,252,2546,Carmelo Anthony,1610612752,New York Knicks,2,1,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,1,208,1,1,20160204,DET,NYK
+Shot Chart Detail,0021500746,297,2546,Carmelo Anthony,1610612752,New York Knicks,3,10,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,-5,1,1,20160204,DET,NYK
+Shot Chart Detail,0021500770,202,2546,Carmelo Anthony,1610612752,New York Knicks,2,5,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,163,11,1,1,20160207,NYK,DEN
+Shot Chart Detail,0021500770,240,2546,Carmelo Anthony,1610612752,New York Knicks,2,1,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-168,-6,1,1,20160207,NYK,DEN
+Shot Chart Detail,0021500770,243,2546,Carmelo Anthony,1610612752,New York Knicks,2,1,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-178,2,1,1,20160207,NYK,DEN
+Shot Chart Detail,0021500770,279,2546,Carmelo Anthony,1610612752,New York Knicks,3,11,6,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-140,90,1,1,20160207,NYK,DEN
+Shot Chart Detail,0021500770,306,2546,Carmelo Anthony,1610612752,New York Knicks,3,8,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-150,154,1,1,20160207,NYK,DEN
+Shot Chart Detail,0021500770,488,2546,Carmelo Anthony,1610612752,New York Knicks,4,2,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,2,1,1,20160207,NYK,DEN
+Shot Chart Detail,0021500770,518,2546,Carmelo Anthony,1610612752,New York Knicks,4,0,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,3,1,1,20160207,NYK,DEN
+Shot Chart Detail,0021500785,36,2546,Carmelo Anthony,1610612752,New York Knicks,1,6,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,87,234,1,1,20160209,NYK,WAS
+Shot Chart Detail,0021500785,99,2546,Carmelo Anthony,1610612752,New York Knicks,1,1,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,163,36,1,1,20160209,NYK,WAS
+Shot Chart Detail,0021500785,112,2546,Carmelo Anthony,1610612752,New York Knicks,1,0,25,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160209,NYK,WAS
+Shot Chart Detail,0021500785,130,2546,Carmelo Anthony,1610612752,New York Knicks,2,10,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,148,-6,1,1,20160209,NYK,WAS
+Shot Chart Detail,0021500785,133,2546,Carmelo Anthony,1610612752,New York Knicks,2,10,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-140,70,1,1,20160209,NYK,WAS
+Shot Chart Detail,0021500785,243,2546,Carmelo Anthony,1610612752,New York Knicks,3,11,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,158,61,1,1,20160209,NYK,WAS
+Shot Chart Detail,0021500785,271,2546,Carmelo Anthony,1610612752,New York Knicks,3,8,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,222,129,1,1,20160209,NYK,WAS
+Shot Chart Detail,0021500785,301,2546,Carmelo Anthony,1610612752,New York Knicks,3,4,31,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-73,16,1,1,20160209,NYK,WAS
+Shot Chart Detail,0021500785,373,2546,Carmelo Anthony,1610612752,New York Knicks,4,8,46,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,137,31,1,1,20160209,NYK,WAS
+Shot Chart Detail,0021500785,407,2546,Carmelo Anthony,1610612752,New York Knicks,4,5,5,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,12,26,1,1,20160209,NYK,WAS
+Shot Chart Detail,0021500785,439,2546,Carmelo Anthony,1610612752,New York Knicks,4,1,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,197,149,1,1,20160209,NYK,WAS
+Shot Chart Detail,0021500785,463,2546,Carmelo Anthony,1610612752,New York Knicks,4,0,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,27,7,1,1,20160209,NYK,WAS
+Shot Chart Detail,0021500807,41,2546,Carmelo Anthony,1610612752,New York Knicks,1,6,48,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,109,218,1,1,20160219,BKN,NYK
+Shot Chart Detail,0021500807,50,2546,Carmelo Anthony,1610612752,New York Knicks,1,5,25,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,23,109,203,1,1,20160219,BKN,NYK
+Shot Chart Detail,0021500807,58,2546,Carmelo Anthony,1610612752,New York Knicks,1,4,34,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-151,-6,1,1,20160219,BKN,NYK
+Shot Chart Detail,0021500807,93,2546,Carmelo Anthony,1610612752,New York Knicks,1,1,0,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-76,178,1,1,20160219,BKN,NYK
+Shot Chart Detail,0021500807,99,2546,Carmelo Anthony,1610612752,New York Knicks,1,0,0,Made Shot,Driving Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,53,26,1,1,20160219,BKN,NYK
+Shot Chart Detail,0021500807,229,2546,Carmelo Anthony,1610612752,New York Knicks,3,11,10,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,89,165,1,1,20160219,BKN,NYK
+Shot Chart Detail,0021500807,427,2546,Carmelo Anthony,1610612752,New York Knicks,4,4,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-205,131,1,1,20160219,BKN,NYK
+Shot Chart Detail,0021500807,466,2546,Carmelo Anthony,1610612752,New York Knicks,4,1,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,25,3,1,1,20160219,BKN,NYK
+Shot Chart Detail,0021500821,126,2546,Carmelo Anthony,1610612752,New York Knicks,1,1,32,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,94,188,1,1,20160220,MIN,NYK
+Shot Chart Detail,0021500821,217,2546,Carmelo Anthony,1610612752,New York Knicks,2,5,40,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-6,11,1,1,20160220,MIN,NYK
+Shot Chart Detail,0021500821,219,2546,Carmelo Anthony,1610612752,New York Knicks,2,5,5,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,186,90,1,1,20160220,MIN,NYK
+Shot Chart Detail,0021500821,241,2546,Carmelo Anthony,1610612752,New York Knicks,2,2,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,156,87,1,1,20160220,MIN,NYK
+Shot Chart Detail,0021500821,243,2546,Carmelo Anthony,1610612752,New York Knicks,2,2,17,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,2,1,1,20160220,MIN,NYK
+Shot Chart Detail,0021500821,317,2546,Carmelo Anthony,1610612752,New York Knicks,3,5,10,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,128,139,1,1,20160220,MIN,NYK
+Shot Chart Detail,0021500821,333,2546,Carmelo Anthony,1610612752,New York Knicks,3,3,32,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,123,175,1,1,20160220,MIN,NYK
+Shot Chart Detail,0021500821,361,2546,Carmelo Anthony,1610612752,New York Knicks,3,0,25,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,2,1,1,20160220,MIN,NYK
+Shot Chart Detail,0021500821,390,2546,Carmelo Anthony,1610612752,New York Knicks,4,8,56,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,145,31,1,1,20160220,MIN,NYK
+Shot Chart Detail,0021500821,420,2546,Carmelo Anthony,1610612752,New York Knicks,4,5,43,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,140,139,1,1,20160220,MIN,NYK
+Shot Chart Detail,0021500821,431,2546,Carmelo Anthony,1610612752,New York Knicks,4,4,30,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-142,95,1,1,20160220,MIN,NYK
+Shot Chart Detail,0021500821,434,2546,Carmelo Anthony,1610612752,New York Knicks,4,3,58,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-160,90,1,1,20160220,MIN,NYK
+Shot Chart Detail,0021500835,27,2546,Carmelo Anthony,1610612752,New York Knicks,1,8,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,104,110,1,1,20160222,NYK,TOR
+Shot Chart Detail,0021500835,97,2546,Carmelo Anthony,1610612752,New York Knicks,1,1,34,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-9,2,1,1,20160222,NYK,TOR
+Shot Chart Detail,0021500835,253,2546,Carmelo Anthony,1610612752,New York Knicks,2,0,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-107,90,1,1,20160222,NYK,TOR
+Shot Chart Detail,0021500835,269,2546,Carmelo Anthony,1610612752,New York Knicks,3,10,26,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,122,129,1,1,20160222,NYK,TOR
+Shot Chart Detail,0021500835,272,2546,Carmelo Anthony,1610612752,New York Knicks,3,9,54,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,138,218,1,1,20160222,NYK,TOR
+Shot Chart Detail,0021500835,334,2546,Carmelo Anthony,1610612752,New York Knicks,3,4,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-84,51,1,1,20160222,NYK,TOR
+Shot Chart Detail,0021500835,373,2546,Carmelo Anthony,1610612752,New York Knicks,3,0,52,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,18,1,1,20160222,NYK,TOR
+Shot Chart Detail,0021500835,377,2546,Carmelo Anthony,1610612752,New York Knicks,3,0,28,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,119,156,1,1,20160222,NYK,TOR
+Shot Chart Detail,0021500846,34,2546,Carmelo Anthony,1610612752,New York Knicks,1,7,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-52,249,1,1,20160224,IND,NYK
+Shot Chart Detail,0021500846,217,2546,Carmelo Anthony,1610612752,New York Knicks,2,2,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,174,21,1,1,20160224,IND,NYK
+Shot Chart Detail,0021500846,435,2546,Carmelo Anthony,1610612752,New York Knicks,4,4,38,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-24,3,1,1,20160224,IND,NYK
+Shot Chart Detail,0021500846,457,2546,Carmelo Anthony,1610612752,New York Knicks,4,2,18,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-124,97,1,1,20160224,IND,NYK
+Shot Chart Detail,0021500846,477,2546,Carmelo Anthony,1610612752,New York Knicks,4,0,29,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,16,1,1,20160224,IND,NYK
+Shot Chart Detail,0021500863,74,2546,Carmelo Anthony,1610612752,New York Knicks,1,4,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,3,1,1,20160226,NYK,ORL
+Shot Chart Detail,0021500863,105,2546,Carmelo Anthony,1610612752,New York Knicks,1,1,50,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160226,NYK,ORL
+Shot Chart Detail,0021500863,220,2546,Carmelo Anthony,1610612752,New York Knicks,2,4,36,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,2,1,1,20160226,NYK,ORL
+Shot Chart Detail,0021500863,258,2546,Carmelo Anthony,1610612752,New York Knicks,2,0,43,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,2,1,1,20160226,NYK,ORL
+Shot Chart Detail,0021500863,273,2546,Carmelo Anthony,1610612752,New York Knicks,3,11,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,158,38,1,1,20160226,NYK,ORL
+Shot Chart Detail,0021500863,371,2546,Carmelo Anthony,1610612752,New York Knicks,3,3,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-101,41,1,1,20160226,NYK,ORL
+Shot Chart Detail,0021500863,454,2546,Carmelo Anthony,1610612752,New York Knicks,4,6,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,86,57,1,1,20160226,NYK,ORL
+Shot Chart Detail,0021500883,85,2546,Carmelo Anthony,1610612752,New York Knicks,1,3,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,101,164,1,1,20160228,NYK,MIA
+Shot Chart Detail,0021500883,96,2546,Carmelo Anthony,1610612752,New York Knicks,1,1,47,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-9,120,1,1,20160228,NYK,MIA
+Shot Chart Detail,0021500883,184,2546,Carmelo Anthony,1610612752,New York Knicks,2,6,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,22,3,1,1,20160228,NYK,MIA
+Shot Chart Detail,0021500883,196,2546,Carmelo Anthony,1610612752,New York Knicks,2,4,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,96,82,1,1,20160228,NYK,MIA
+Shot Chart Detail,0021500883,293,2546,Carmelo Anthony,1610612752,New York Knicks,3,7,57,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,45,47,1,1,20160228,NYK,MIA
+Shot Chart Detail,0021500883,349,2546,Carmelo Anthony,1610612752,New York Knicks,3,3,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,22,217,46,1,1,20160228,NYK,MIA
+Shot Chart Detail,0021500883,356,2546,Carmelo Anthony,1610612752,New York Knicks,3,2,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-19,254,1,1,20160228,NYK,MIA
+Shot Chart Detail,0021500883,404,2546,Carmelo Anthony,1610612752,New York Knicks,4,10,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,27,3,1,1,20160228,NYK,MIA
+Shot Chart Detail,0021500883,499,2546,Carmelo Anthony,1610612752,New York Knicks,4,2,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,11,1,1,20160228,NYK,MIA
+Shot Chart Detail,0021500893,64,2546,Carmelo Anthony,1610612752,New York Knicks,1,4,54,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-78,183,1,1,20160301,NYK,POR
+Shot Chart Detail,0021500893,69,2546,Carmelo Anthony,1610612752,New York Knicks,1,3,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,-1,1,1,20160301,NYK,POR
+Shot Chart Detail,0021500893,117,2546,Carmelo Anthony,1610612752,New York Knicks,1,0,13,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,18,1,1,20160301,NYK,POR
+Shot Chart Detail,0021500893,181,2546,Carmelo Anthony,1610612752,New York Knicks,2,5,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,137,100,1,1,20160301,NYK,POR
+Shot Chart Detail,0021500893,199,2546,Carmelo Anthony,1610612752,New York Knicks,2,3,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,-1,1,1,20160301,NYK,POR
+Shot Chart Detail,0021500893,205,2546,Carmelo Anthony,1610612752,New York Knicks,2,2,52,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,-1,1,1,20160301,NYK,POR
+Shot Chart Detail,0021500893,250,2546,Carmelo Anthony,1610612752,New York Knicks,3,11,8,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-166,26,1,1,20160301,NYK,POR
+Shot Chart Detail,0021500893,283,2546,Carmelo Anthony,1610612752,New York Knicks,3,6,53,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-22,-1,1,1,20160301,NYK,POR
+Shot Chart Detail,0021500893,325,2546,Carmelo Anthony,1610612752,New York Knicks,3,3,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,112,134,1,1,20160301,NYK,POR
+Shot Chart Detail,0021500893,347,2546,Carmelo Anthony,1610612752,New York Knicks,3,2,17,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,22,7,1,1,20160301,NYK,POR
+Shot Chart Detail,0021500915,34,2546,Carmelo Anthony,1610612752,New York Knicks,1,7,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,99,244,1,1,20160304,BOS,NYK
+Shot Chart Detail,0021500915,89,2546,Carmelo Anthony,1610612752,New York Knicks,1,2,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-142,129,1,1,20160304,BOS,NYK
+Shot Chart Detail,0021500915,98,2546,Carmelo Anthony,1610612752,New York Knicks,1,1,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-110,61,1,1,20160304,BOS,NYK
+Shot Chart Detail,0021500915,112,2546,Carmelo Anthony,1610612752,New York Knicks,1,0,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,130,28,1,1,20160304,BOS,NYK
+Shot Chart Detail,0021500915,119,2546,Carmelo Anthony,1610612752,New York Knicks,1,0,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-132,214,1,1,20160304,BOS,NYK
+Shot Chart Detail,0021500915,233,2546,Carmelo Anthony,1610612752,New York Knicks,2,2,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,-1,1,1,20160304,BOS,NYK
+Shot Chart Detail,0021500915,242,2546,Carmelo Anthony,1610612752,New York Knicks,2,1,40,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-2,36,1,1,20160304,BOS,NYK
+Shot Chart Detail,0021500915,259,2546,Carmelo Anthony,1610612752,New York Knicks,3,11,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-129,139,1,1,20160304,BOS,NYK
+Shot Chart Detail,0021500915,313,2546,Carmelo Anthony,1610612752,New York Knicks,3,6,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-1,198,1,1,20160304,BOS,NYK
+Shot Chart Detail,0021500915,359,2546,Carmelo Anthony,1610612752,New York Knicks,3,2,3,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,2,1,1,20160304,BOS,NYK
+Shot Chart Detail,0021500915,434,2546,Carmelo Anthony,1610612752,New York Knicks,4,7,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,96,144,1,1,20160304,BOS,NYK
+Shot Chart Detail,0021500915,496,2546,Carmelo Anthony,1610612752,New York Knicks,4,1,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-99,154,1,1,20160304,BOS,NYK
+Shot Chart Detail,0021500915,507,2546,Carmelo Anthony,1610612752,New York Knicks,4,0,21,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,48,75,1,1,20160304,BOS,NYK
+Shot Chart Detail,0021500923,112,2546,Carmelo Anthony,1610612752,New York Knicks,1,0,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,97,80,1,1,20160305,NYK,DET
+Shot Chart Detail,0021500923,158,2546,Carmelo Anthony,1610612752,New York Knicks,2,7,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,146,70,1,1,20160305,NYK,DET
+Shot Chart Detail,0021500923,194,2546,Carmelo Anthony,1610612752,New York Knicks,2,4,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-2,213,1,1,20160305,NYK,DET
+Shot Chart Detail,0021500923,198,2546,Carmelo Anthony,1610612752,New York Knicks,2,3,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,97,164,1,1,20160305,NYK,DET
+Shot Chart Detail,0021500923,314,2546,Carmelo Anthony,1610612752,New York Knicks,3,5,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-151,200,1,1,20160305,NYK,DET
+Shot Chart Detail,0021500923,352,2546,Carmelo Anthony,1610612752,New York Knicks,3,2,33,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,66,36,1,1,20160305,NYK,DET
+Shot Chart Detail,0021500923,356,2546,Carmelo Anthony,1610612752,New York Knicks,3,2,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-119,131,1,1,20160305,NYK,DET
+Shot Chart Detail,0021500923,414,2546,Carmelo Anthony,1610612752,New York Knicks,4,7,5,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-30,43,1,1,20160305,NYK,DET
+Shot Chart Detail,0021500923,439,2546,Carmelo Anthony,1610612752,New York Knicks,4,3,52,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,8,1,1,20160305,NYK,DET
+Shot Chart Detail,0021500923,449,2546,Carmelo Anthony,1610612752,New York Knicks,4,3,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-107,46,1,1,20160305,NYK,DET
+Shot Chart Detail,0021500923,458,2546,Carmelo Anthony,1610612752,New York Knicks,4,2,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,181,26,1,1,20160305,NYK,DET
+Shot Chart Detail,0021500946,31,2546,Carmelo Anthony,1610612752,New York Knicks,1,8,34,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,119,41,1,1,20160308,DEN,NYK
+Shot Chart Detail,0021500946,82,2546,Carmelo Anthony,1610612752,New York Knicks,1,2,35,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,16,1,1,20160308,DEN,NYK
+Shot Chart Detail,0021500946,171,2546,Carmelo Anthony,1610612752,New York Knicks,2,6,35,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,22,8,1,1,20160308,DEN,NYK
+Shot Chart Detail,0021500946,214,2546,Carmelo Anthony,1610612752,New York Knicks,2,2,8,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160308,DEN,NYK
+Shot Chart Detail,0021500946,270,2546,Carmelo Anthony,1610612752,New York Knicks,3,9,16,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-137,116,1,1,20160308,DEN,NYK
+Shot Chart Detail,0021500946,297,2546,Carmelo Anthony,1610612752,New York Knicks,3,6,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,200,149,1,1,20160308,DEN,NYK
+Shot Chart Detail,0021500946,346,2546,Carmelo Anthony,1610612752,New York Knicks,3,2,54,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-17,3,1,1,20160308,DEN,NYK
+Shot Chart Detail,0021500946,485,2546,Carmelo Anthony,1610612752,New York Knicks,4,4,16,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-14,16,1,1,20160308,DEN,NYK
+Shot Chart Detail,0021500946,512,2546,Carmelo Anthony,1610612752,New York Knicks,4,1,31,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,11,1,1,20160308,DEN,NYK
+Shot Chart Detail,0021500956,53,2546,Carmelo Anthony,1610612752,New York Knicks,1,5,53,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-158,198,1,1,20160309,PHX,NYK
+Shot Chart Detail,0021500956,64,2546,Carmelo Anthony,1610612752,New York Knicks,1,4,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,181,46,1,1,20160309,PHX,NYK
+Shot Chart Detail,0021500956,93,2546,Carmelo Anthony,1610612752,New York Knicks,1,2,26,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-107,144,1,1,20160309,PHX,NYK
+Shot Chart Detail,0021500956,170,2546,Carmelo Anthony,1610612752,New York Knicks,2,8,19,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,14,2,1,1,20160309,PHX,NYK
+Shot Chart Detail,0021500956,172,2546,Carmelo Anthony,1610612752,New York Knicks,2,7,52,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-1,31,1,1,20160309,PHX,NYK
+Shot Chart Detail,0021500956,181,2546,Carmelo Anthony,1610612752,New York Knicks,2,6,43,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-112,0,1,1,20160309,PHX,NYK
+Shot Chart Detail,0021500956,186,2546,Carmelo Anthony,1610612752,New York Knicks,2,6,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,171,198,1,1,20160309,PHX,NYK
+Shot Chart Detail,0021500956,220,2546,Carmelo Anthony,1610612752,New York Knicks,2,2,50,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,119,18,1,1,20160309,PHX,NYK
+Shot Chart Detail,0021500956,346,2546,Carmelo Anthony,1610612752,New York Knicks,3,3,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,22,247,1,1,20160309,PHX,NYK
+Shot Chart Detail,0021500972,32,2546,Carmelo Anthony,1610612752,New York Knicks,1,9,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,173,180,1,1,20160311,LAC,NYK
+Shot Chart Detail,0021500972,34,2546,Carmelo Anthony,1610612752,New York Knicks,1,8,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-78,180,1,1,20160311,LAC,NYK
+Shot Chart Detail,0021500972,45,2546,Carmelo Anthony,1610612752,New York Knicks,1,6,45,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160311,LAC,NYK
+Shot Chart Detail,0021500972,81,2546,Carmelo Anthony,1610612752,New York Knicks,1,3,39,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-65,11,1,1,20160311,LAC,NYK
+Shot Chart Detail,0021500972,263,2546,Carmelo Anthony,1610612752,New York Knicks,2,1,28,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-1,105,1,1,20160311,LAC,NYK
+Shot Chart Detail,0021500972,279,2546,Carmelo Anthony,1610612752,New York Knicks,2,0,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-178,101,1,1,20160311,LAC,NYK
+Shot Chart Detail,0021500972,374,2546,Carmelo Anthony,1610612752,New York Knicks,3,2,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,179,43,1,1,20160311,LAC,NYK
+Shot Chart Detail,0021500972,398,2546,Carmelo Anthony,1610612752,New York Knicks,4,11,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-179,77,1,1,20160311,LAC,NYK
+Shot Chart Detail,0021500987,50,2546,Carmelo Anthony,1610612752,New York Knicks,1,6,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,-6,1,1,20160313,LAL,NYK
+Shot Chart Detail,0021500987,77,2546,Carmelo Anthony,1610612752,New York Knicks,1,5,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,7,1,1,20160313,LAL,NYK
+Shot Chart Detail,0021500987,214,2546,Carmelo Anthony,1610612752,New York Knicks,2,3,52,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,87,65,1,1,20160313,LAL,NYK
+Shot Chart Detail,0021500987,327,2546,Carmelo Anthony,1610612752,New York Knicks,3,6,0,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-119,110,1,1,20160313,LAL,NYK
+Shot Chart Detail,0021500987,352,2546,Carmelo Anthony,1610612752,New York Knicks,3,4,7,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,105,95,1,1,20160313,LAL,NYK
+Shot Chart Detail,0021500987,449,2546,Carmelo Anthony,1610612752,New York Knicks,4,6,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1,18,1,1,20160313,LAL,NYK
+Shot Chart Detail,0021500987,458,2546,Carmelo Anthony,1610612752,New York Knicks,4,5,53,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-122,11,1,1,20160313,LAL,NYK
+Shot Chart Detail,0021500987,486,2546,Carmelo Anthony,1610612752,New York Knicks,4,2,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,117,214,1,1,20160313,LAL,NYK
+Shot Chart Detail,0021500987,494,2546,Carmelo Anthony,1610612752,New York Knicks,4,1,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,122,224,1,1,20160313,LAL,NYK
+Shot Chart Detail,0021500987,497,2546,Carmelo Anthony,1610612752,New York Knicks,4,0,54,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,150,144,1,1,20160313,LAL,NYK
+Shot Chart Detail,0021501011,82,2546,Carmelo Anthony,1610612752,New York Knicks,1,3,38,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,14,18,1,1,20160316,GSW,NYK
+Shot Chart Detail,0021501011,101,2546,Carmelo Anthony,1610612752,New York Knicks,1,1,36,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,135,80,1,1,20160316,GSW,NYK
+Shot Chart Detail,0021501011,170,2546,Carmelo Anthony,1610612752,New York Knicks,2,4,38,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,130,208,1,1,20160316,GSW,NYK
+Shot Chart Detail,0021501011,188,2546,Carmelo Anthony,1610612752,New York Knicks,2,3,1,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-153,208,1,1,20160316,GSW,NYK
+Shot Chart Detail,0021501011,216,2546,Carmelo Anthony,1610612752,New York Knicks,2,0,33,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,60,110,1,1,20160316,GSW,NYK
+Shot Chart Detail,0021501011,278,2546,Carmelo Anthony,1610612752,New York Knicks,3,6,43,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-48,115,1,1,20160316,GSW,NYK
+Shot Chart Detail,0021501011,280,2546,Carmelo Anthony,1610612752,New York Knicks,3,6,10,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,46,257,1,1,20160316,GSW,NYK
+Shot Chart Detail,0021501032,14,2546,Carmelo Anthony,1610612752,New York Knicks,1,9,56,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,159,11,1,1,20160319,WAS,NYK
+Shot Chart Detail,0021501032,20,2546,Carmelo Anthony,1610612752,New York Knicks,1,9,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,42,188,1,1,20160319,WAS,NYK
+Shot Chart Detail,0021501032,64,2546,Carmelo Anthony,1610612752,New York Knicks,1,3,46,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,176,31,1,1,20160319,WAS,NYK
+Shot Chart Detail,0021501032,96,2546,Carmelo Anthony,1610612752,New York Knicks,1,0,19,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160319,WAS,NYK
+Shot Chart Detail,0021501032,195,2546,Carmelo Anthony,1610612752,New York Knicks,2,4,56,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,166,2,1,1,20160319,WAS,NYK
+Shot Chart Detail,0021501032,285,2546,Carmelo Anthony,1610612752,New York Knicks,3,8,22,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,127,229,1,1,20160319,WAS,NYK
+Shot Chart Detail,0021501032,454,2546,Carmelo Anthony,1610612752,New York Knicks,4,4,20,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,166,213,1,1,20160319,WAS,NYK
+Shot Chart Detail,0021501060,26,2546,Carmelo Anthony,1610612752,New York Knicks,1,8,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,94,26,1,1,20160323,CHI,NYK
+Shot Chart Detail,0021501060,66,2546,Carmelo Anthony,1610612752,New York Knicks,1,3,41,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,19,0,1,1,20160323,CHI,NYK
+Shot Chart Detail,0021501060,105,2546,Carmelo Anthony,1610612752,New York Knicks,1,0,55,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-22,-6,1,1,20160323,CHI,NYK
+Shot Chart Detail,0021501060,171,2546,Carmelo Anthony,1610612752,New York Knicks,2,6,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,94,11,1,1,20160323,CHI,NYK
+Shot Chart Detail,0021501060,221,2546,Carmelo Anthony,1610612752,New York Knicks,2,2,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,78,190,1,1,20160323,CHI,NYK
+Shot Chart Detail,0021501060,306,2546,Carmelo Anthony,1610612752,New York Knicks,3,6,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-120,213,1,1,20160323,CHI,NYK
+Shot Chart Detail,0021501060,311,2546,Carmelo Anthony,1610612752,New York Knicks,3,5,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,181,165,1,1,20160323,CHI,NYK
+Shot Chart Detail,0021501060,366,2546,Carmelo Anthony,1610612752,New York Knicks,3,0,45,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,16,1,1,20160323,CHI,NYK
+Shot Chart Detail,0021501060,426,2546,Carmelo Anthony,1610612752,New York Knicks,4,6,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,63,180,1,1,20160323,CHI,NYK
+Shot Chart Detail,0021501060,450,2546,Carmelo Anthony,1610612752,New York Knicks,4,2,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-148,195,1,1,20160323,CHI,NYK
+Shot Chart Detail,0021501070,29,2546,Carmelo Anthony,1610612752,New York Knicks,1,8,18,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,-6,1,1,20160324,NYK,CHI
+Shot Chart Detail,0021501070,38,2546,Carmelo Anthony,1610612752,New York Knicks,1,7,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,146,203,1,1,20160324,NYK,CHI
+Shot Chart Detail,0021501070,53,2546,Carmelo Anthony,1610612752,New York Knicks,1,5,41,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,96,65,1,1,20160324,NYK,CHI
+Shot Chart Detail,0021501070,198,2546,Carmelo Anthony,1610612752,New York Knicks,2,5,18,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,125,139,1,1,20160324,NYK,CHI
+Shot Chart Detail,0021501070,298,2546,Carmelo Anthony,1610612752,New York Knicks,3,6,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,3,1,1,20160324,NYK,CHI
+Shot Chart Detail,0021501070,342,2546,Carmelo Anthony,1610612752,New York Knicks,3,2,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,122,131,1,1,20160324,NYK,CHI
+Shot Chart Detail,0021501070,426,2546,Carmelo Anthony,1610612752,New York Knicks,4,5,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,150,146,1,1,20160324,NYK,CHI
+Shot Chart Detail,0021501070,445,2546,Carmelo Anthony,1610612752,New York Knicks,4,3,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-60,239,1,1,20160324,NYK,CHI
+Shot Chart Detail,0021501070,470,2546,Carmelo Anthony,1610612752,New York Knicks,4,0,26,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-91,46,1,1,20160324,NYK,CHI
+Shot Chart Detail,0021501086,82,2546,Carmelo Anthony,1610612752,New York Knicks,1,3,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,84,3,1,1,20160326,NYK,CLE
+Shot Chart Detail,0021501086,244,2546,Carmelo Anthony,1610612752,New York Knicks,2,2,22,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,11,1,1,20160326,NYK,CLE
+Shot Chart Detail,0021501086,294,2546,Carmelo Anthony,1610612752,New York Knicks,3,9,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,68,242,1,1,20160326,NYK,CLE
+Shot Chart Detail,0021501086,308,2546,Carmelo Anthony,1610612752,New York Knicks,3,8,24,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,26,1,1,20160326,NYK,CLE
+Shot Chart Detail,0021501086,318,2546,Carmelo Anthony,1610612752,New York Knicks,3,6,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-109,224,1,1,20160326,NYK,CLE
+Shot Chart Detail,0021501086,353,2546,Carmelo Anthony,1610612752,New York Knicks,3,2,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-42,247,1,1,20160326,NYK,CLE
+Shot Chart Detail,0021501086,440,2546,Carmelo Anthony,1610612752,New York Knicks,4,9,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-102,154,1,1,20160326,NYK,CLE
+Shot Chart Detail,0021501086,450,2546,Carmelo Anthony,1610612752,New York Knicks,4,7,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,-210,41,1,1,20160326,NYK,CLE
+Shot Chart Detail,0021501086,478,2546,Carmelo Anthony,1610612752,New York Knicks,4,5,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,207,134,1,1,20160326,NYK,CLE
+Shot Chart Detail,0021501102,15,2546,Carmelo Anthony,1610612752,New York Knicks,1,9,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,159,208,1,1,20160328,NOP,NYK
+Shot Chart Detail,0021501102,192,2546,Carmelo Anthony,1610612752,New York Knicks,2,4,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,174,105,1,1,20160328,NOP,NYK
+Shot Chart Detail,0021501102,219,2546,Carmelo Anthony,1610612752,New York Knicks,2,2,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-58,244,1,1,20160328,NOP,NYK
+Shot Chart Detail,0021501102,224,2546,Carmelo Anthony,1610612752,New York Knicks,2,2,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,156,195,1,1,20160328,NOP,NYK
+Shot Chart Detail,0021501102,264,2546,Carmelo Anthony,1610612752,New York Knicks,3,10,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-120,213,1,1,20160328,NOP,NYK
+Shot Chart Detail,0021501102,379,2546,Carmelo Anthony,1610612752,New York Knicks,4,11,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,22,189,115,1,1,20160328,NOP,NYK
+Shot Chart Detail,0021501102,392,2546,Carmelo Anthony,1610612752,New York Knicks,4,10,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,61,183,1,1,20160328,NOP,NYK
+Shot Chart Detail,0021501102,395,2546,Carmelo Anthony,1610612752,New York Knicks,4,9,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-158,46,1,1,20160328,NOP,NYK
+Shot Chart Detail,0021501102,398,2546,Carmelo Anthony,1610612752,New York Knicks,4,9,5,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-184,26,1,1,20160328,NOP,NYK
+Shot Chart Detail,0021501117,11,2546,Carmelo Anthony,1610612752,New York Knicks,1,10,19,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-86,65,1,1,20160330,DAL,NYK
+Shot Chart Detail,0021501117,32,2546,Carmelo Anthony,1610612752,New York Knicks,1,8,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-86,159,1,1,20160330,DAL,NYK
+Shot Chart Detail,0021501117,37,2546,Carmelo Anthony,1610612752,New York Knicks,1,7,24,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,176,11,1,1,20160330,DAL,NYK
+Shot Chart Detail,0021501117,181,2546,Carmelo Anthony,1610612752,New York Knicks,2,4,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-137,75,1,1,20160330,DAL,NYK
+Shot Chart Detail,0021501117,192,2546,Carmelo Anthony,1610612752,New York Knicks,2,3,2,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,112,21,1,1,20160330,DAL,NYK
+Shot Chart Detail,0021501117,250,2546,Carmelo Anthony,1610612752,New York Knicks,3,10,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-174,38,1,1,20160330,DAL,NYK
+Shot Chart Detail,0021501117,252,2546,Carmelo Anthony,1610612752,New York Knicks,3,10,33,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-186,169,1,1,20160330,DAL,NYK
+Shot Chart Detail,0021501117,326,2546,Carmelo Anthony,1610612752,New York Knicks,3,4,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,23,82,224,1,1,20160330,DAL,NYK
+Shot Chart Detail,0021501117,409,2546,Carmelo Anthony,1610612752,New York Knicks,4,10,59,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-107,165,1,1,20160330,DAL,NYK
+Shot Chart Detail,0021501117,434,2546,Carmelo Anthony,1610612752,New York Knicks,4,8,0,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,115,16,1,1,20160330,DAL,NYK
+Shot Chart Detail,0021501117,494,2546,Carmelo Anthony,1610612752,New York Knicks,4,1,1,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-94,105,1,1,20160330,DAL,NYK
+Shot Chart Detail,0021501130,46,2546,Carmelo Anthony,1610612752,New York Knicks,1,6,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,186,46,1,1,20160401,NYK,BKN
+Shot Chart Detail,0021501130,179,2546,Carmelo Anthony,1610612752,New York Knicks,2,5,13,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-17,28,1,1,20160401,NYK,BKN
+Shot Chart Detail,0021501130,191,2546,Carmelo Anthony,1610612752,New York Knicks,2,3,28,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,104,8,1,1,20160401,NYK,BKN
+Shot Chart Detail,0021501130,227,2546,Carmelo Anthony,1610612752,New York Knicks,2,0,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-92,41,1,1,20160401,NYK,BKN
+Shot Chart Detail,0021501130,239,2546,Carmelo Anthony,1610612752,New York Knicks,3,11,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-168,183,1,1,20160401,NYK,BKN
+Shot Chart Detail,0021501130,333,2546,Carmelo Anthony,1610612752,New York Knicks,3,2,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,2,1,1,20160401,NYK,BKN
+Shot Chart Detail,0021501169,117,2546,Carmelo Anthony,1610612752,New York Knicks,2,11,23,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-115,56,1,1,20160406,NYK,CHA
+Shot Chart Detail,0021501169,200,2546,Carmelo Anthony,1610612752,New York Knicks,2,4,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,25,11,1,1,20160406,NYK,CHA
+Shot Chart Detail,0021501169,317,2546,Carmelo Anthony,1610612752,New York Knicks,3,5,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,155,136,1,1,20160406,NYK,CHA
+Shot Chart Detail,0021501169,437,2546,Carmelo Anthony,1610612752,New York Knicks,4,3,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,132,121,1,1,20160406,NYK,CHA
+Shot Chart Detail,0021501169,472,2546,Carmelo Anthony,1610612752,New York Knicks,4,1,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,143,120,1,1,20160406,NYK,CHA
+Shot Chart Detail,0021501180,46,2546,Carmelo Anthony,1610612752,New York Knicks,1,7,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-228,139,1,1,20160408,PHI,NYK
+Shot Chart Detail,0021501180,56,2546,Carmelo Anthony,1610612752,New York Knicks,1,5,45,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-88,52,1,1,20160408,PHI,NYK
+Shot Chart Detail,0021501180,160,2546,Carmelo Anthony,1610612752,New York Knicks,2,10,0,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-102,75,1,1,20160408,PHI,NYK
+Shot Chart Detail,0021501180,174,2546,Carmelo Anthony,1610612752,New York Knicks,2,8,37,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,133,-16,1,1,20160408,PHI,NYK
+Shot Chart Detail,0021501180,178,2546,Carmelo Anthony,1610612752,New York Knicks,2,7,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-140,72,1,1,20160408,PHI,NYK
+Shot Chart Detail,0021501180,187,2546,Carmelo Anthony,1610612752,New York Knicks,2,6,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-133,51,1,1,20160408,PHI,NYK
+Shot Chart Detail,0021501180,232,2546,Carmelo Anthony,1610612752,New York Knicks,2,3,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-171,11,1,1,20160408,PHI,NYK
+Shot Chart Detail,0021501180,321,2546,Carmelo Anthony,1610612752,New York Knicks,3,8,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,117,65,1,1,20160408,PHI,NYK
+Shot Chart Detail,0021501202,31,2546,Carmelo Anthony,1610612752,New York Knicks,1,7,31,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,195,151,1,1,20160410,NYK,TOR
+Shot Chart Detail,0021501202,46,2546,Carmelo Anthony,1610612752,New York Knicks,1,5,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,119,159,1,1,20160410,NYK,TOR
+Shot Chart Detail,0021501202,201,2546,Carmelo Anthony,1610612752,New York Knicks,2,1,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,14,-1,1,1,20160410,NYK,TOR
+Shot Chart Detail,0021501202,237,2546,Carmelo Anthony,1610612752,New York Knicks,3,10,3,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-37,51,1,1,20160410,NYK,TOR
+Shot Chart Detail,0021501202,243,2546,Carmelo Anthony,1610612752,New York Knicks,3,9,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,150,11,1,1,20160410,NYK,TOR
+Shot Chart Detail,0021501202,275,2546,Carmelo Anthony,1610612752,New York Knicks,3,5,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,0,1,1,20160410,NYK,TOR
+Shot Chart Detail,0021501202,303,2546,Carmelo Anthony,1610612752,New York Knicks,3,2,50,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,53,2,1,1,20160410,NYK,TOR

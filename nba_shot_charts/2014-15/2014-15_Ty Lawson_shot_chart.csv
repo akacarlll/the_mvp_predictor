@@ -1,0 +1,405 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0021400011,265,201951,Ty Lawson,1610612743,Denver Nuggets,2,0,6,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-67,159,1,1,20141029,DEN,DET
+Shot Chart Detail,0021400036,222,201951,Ty Lawson,1610612743,Denver Nuggets,2,5,23,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,-2,1,1,20141101,OKC,DEN
+Shot Chart Detail,0021400036,267,201951,Ty Lawson,1610612743,Denver Nuggets,2,0,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,138,66,1,1,20141101,OKC,DEN
+Shot Chart Detail,0021400036,308,201951,Ty Lawson,1610612743,Denver Nuggets,3,8,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,174,14,1,1,20141101,OKC,DEN
+Shot Chart Detail,0021400036,337,201951,Ty Lawson,1610612743,Denver Nuggets,3,4,51,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-87,75,1,1,20141101,OKC,DEN
+Shot Chart Detail,0021400036,453,201951,Ty Lawson,1610612743,Denver Nuggets,4,7,23,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,182,170,1,1,20141101,OKC,DEN
+Shot Chart Detail,0021400036,479,201951,Ty Lawson,1610612743,Denver Nuggets,4,4,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,6,1,1,20141101,OKC,DEN
+Shot Chart Detail,0021400036,489,201951,Ty Lawson,1610612743,Denver Nuggets,4,3,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,0,1,1,20141101,OKC,DEN
+Shot Chart Detail,0021400036,507,201951,Ty Lawson,1610612743,Denver Nuggets,4,2,14,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,53,142,1,1,20141101,OKC,DEN
+Shot Chart Detail,0021400047,500,201951,Ty Lawson,1610612743,Denver Nuggets,3,0,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,7,1,1,20141103,DEN,SAC
+Shot Chart Detail,0021400067,237,201951,Ty Lawson,1610612743,Denver Nuggets,2,3,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,9,1,1,20141105,SAC,DEN
+Shot Chart Detail,0021400067,525,201951,Ty Lawson,1610612743,Denver Nuggets,4,7,19,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,15,1,1,20141105,SAC,DEN
+Shot Chart Detail,0021400067,562,201951,Ty Lawson,1610612743,Denver Nuggets,4,4,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,4,1,1,20141105,SAC,DEN
+Shot Chart Detail,0021400096,74,201951,Ty Lawson,1610612743,Denver Nuggets,1,4,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,-14,1,1,20141109,POR,DEN
+Shot Chart Detail,0021400096,100,201951,Ty Lawson,1610612743,Denver Nuggets,1,2,2,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,-6,1,1,20141109,POR,DEN
+Shot Chart Detail,0021400096,102,201951,Ty Lawson,1610612743,Denver Nuggets,1,1,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,1,1,1,20141109,POR,DEN
+Shot Chart Detail,0021400096,232,201951,Ty Lawson,1610612743,Denver Nuggets,2,3,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,-6,1,1,20141109,POR,DEN
+Shot Chart Detail,0021400096,396,201951,Ty Lawson,1610612743,Denver Nuggets,3,1,20,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,34,14,1,1,20141109,POR,DEN
+Shot Chart Detail,0021400096,398,201951,Ty Lawson,1610612743,Denver Nuggets,3,0,51,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,69,30,1,1,20141109,POR,DEN
+Shot Chart Detail,0021400096,527,201951,Ty Lawson,1610612743,Denver Nuggets,4,3,11,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,-6,1,1,20141109,POR,DEN
+Shot Chart Detail,0021400115,83,201951,Ty Lawson,1610612743,Denver Nuggets,1,4,30,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,11,1,1,20141112,DEN,POR
+Shot Chart Detail,0021400115,100,201951,Ty Lawson,1610612743,Denver Nuggets,1,3,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,147,154,1,1,20141112,DEN,POR
+Shot Chart Detail,0021400115,118,201951,Ty Lawson,1610612743,Denver Nuggets,1,2,34,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,236,-8,1,1,20141112,DEN,POR
+Shot Chart Detail,0021400115,248,201951,Ty Lawson,1610612743,Denver Nuggets,2,4,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,12,149,1,1,20141112,DEN,POR
+Shot Chart Detail,0021400115,304,201951,Ty Lawson,1610612743,Denver Nuggets,2,1,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,-3,1,1,20141112,DEN,POR
+Shot Chart Detail,0021400115,374,201951,Ty Lawson,1610612743,Denver Nuggets,3,6,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,204,160,1,1,20141112,DEN,POR
+Shot Chart Detail,0021400115,390,201951,Ty Lawson,1610612743,Denver Nuggets,3,5,0,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-40,105,1,1,20141112,DEN,POR
+Shot Chart Detail,0021400115,409,201951,Ty Lawson,1610612743,Denver Nuggets,3,3,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,171,176,1,1,20141112,DEN,POR
+Shot Chart Detail,0021400115,465,201951,Ty Lawson,1610612743,Denver Nuggets,4,11,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,125,64,1,1,20141112,DEN,POR
+Shot Chart Detail,0021400115,467,201951,Ty Lawson,1610612743,Denver Nuggets,4,10,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,4,1,1,20141112,DEN,POR
+Shot Chart Detail,0021400115,512,201951,Ty Lawson,1610612743,Denver Nuggets,4,7,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,116,219,1,1,20141112,DEN,POR
+Shot Chart Detail,0021400122,93,201951,Ty Lawson,1610612743,Denver Nuggets,1,3,20,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,0,1,1,20141114,IND,DEN
+Shot Chart Detail,0021400122,306,201951,Ty Lawson,1610612743,Denver Nuggets,3,7,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-142,197,1,1,20141114,IND,DEN
+Shot Chart Detail,0021400122,334,201951,Ty Lawson,1610612743,Denver Nuggets,3,5,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,146,115,1,1,20141114,IND,DEN
+Shot Chart Detail,0021400122,351,201951,Ty Lawson,1610612743,Denver Nuggets,3,3,11,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-128,173,1,1,20141114,IND,DEN
+Shot Chart Detail,0021400142,93,201951,Ty Lawson,1610612743,Denver Nuggets,1,2,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,203,0,1,1,20141116,NYK,DEN
+Shot Chart Detail,0021400142,282,201951,Ty Lawson,1610612743,Denver Nuggets,2,0,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,34,0,1,1,20141116,NYK,DEN
+Shot Chart Detail,0021400142,306,201951,Ty Lawson,1610612743,Denver Nuggets,3,10,11,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,108,162,1,1,20141116,NYK,DEN
+Shot Chart Detail,0021400142,350,201951,Ty Lawson,1610612743,Denver Nuggets,3,3,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-172,179,1,1,20141116,NYK,DEN
+Shot Chart Detail,0021400142,356,201951,Ty Lawson,1610612743,Denver Nuggets,3,2,39,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,4,1,1,20141116,NYK,DEN
+Shot Chart Detail,0021400142,384,201951,Ty Lawson,1610612743,Denver Nuggets,3,0,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-46,246,1,1,20141116,NYK,DEN
+Shot Chart Detail,0021400147,80,201951,Ty Lawson,1610612743,Denver Nuggets,1,4,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,111,151,1,1,20141117,CLE,DEN
+Shot Chart Detail,0021400147,124,201951,Ty Lawson,1610612743,Denver Nuggets,1,0,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,-6,1,1,20141117,CLE,DEN
+Shot Chart Detail,0021400147,200,201951,Ty Lawson,1610612743,Denver Nuggets,2,5,43,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,47,78,1,1,20141117,CLE,DEN
+Shot Chart Detail,0021400147,249,201951,Ty Lawson,1610612743,Denver Nuggets,2,1,51,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,-2,1,1,20141117,CLE,DEN
+Shot Chart Detail,0021400147,309,201951,Ty Lawson,1610612743,Denver Nuggets,3,8,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-86,53,1,1,20141117,CLE,DEN
+Shot Chart Detail,0021400147,335,201951,Ty Lawson,1610612743,Denver Nuggets,3,5,14,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,6,1,1,20141117,CLE,DEN
+Shot Chart Detail,0021400147,344,201951,Ty Lawson,1610612743,Denver Nuggets,3,3,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,17,190,1,1,20141117,CLE,DEN
+Shot Chart Detail,0021400147,447,201951,Ty Lawson,1610612743,Denver Nuggets,4,6,1,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,3,1,1,20141117,CLE,DEN
+Shot Chart Detail,0021400147,457,201951,Ty Lawson,1610612743,Denver Nuggets,4,5,10,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,4,1,1,20141117,CLE,DEN
+Shot Chart Detail,0021400168,4,201951,Ty Lawson,1610612743,Denver Nuggets,1,11,27,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-2,97,1,1,20141119,DEN,OKC
+Shot Chart Detail,0021400168,14,201951,Ty Lawson,1610612743,Denver Nuggets,1,9,18,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,11,1,1,20141119,DEN,OKC
+Shot Chart Detail,0021400168,222,201951,Ty Lawson,1610612743,Denver Nuggets,2,2,37,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,37,97,1,1,20141119,DEN,OKC
+Shot Chart Detail,0021400168,273,201951,Ty Lawson,1610612743,Denver Nuggets,3,9,21,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,0,102,1,1,20141119,DEN,OKC
+Shot Chart Detail,0021400168,277,201951,Ty Lawson,1610612743,Denver Nuggets,3,8,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-179,-3,1,1,20141119,DEN,OKC
+Shot Chart Detail,0021400168,321,201951,Ty Lawson,1610612743,Denver Nuggets,3,4,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,6,1,1,20141119,DEN,OKC
+Shot Chart Detail,0021400181,69,201951,Ty Lawson,1610612743,Denver Nuggets,1,4,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-136,201,1,1,20141121,DEN,NOP
+Shot Chart Detail,0021400181,100,201951,Ty Lawson,1610612743,Denver Nuggets,1,1,9,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,-5,1,1,20141121,DEN,NOP
+Shot Chart Detail,0021400181,245,201951,Ty Lawson,1610612743,Denver Nuggets,2,1,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,7,1,1,20141121,DEN,NOP
+Shot Chart Detail,0021400181,251,201951,Ty Lawson,1610612743,Denver Nuggets,2,0,31,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,13,69,116,1,1,20141121,DEN,NOP
+Shot Chart Detail,0021400181,352,201951,Ty Lawson,1610612743,Denver Nuggets,3,4,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,173,7,1,1,20141121,DEN,NOP
+Shot Chart Detail,0021400197,151,201951,Ty Lawson,1610612743,Denver Nuggets,1,0,3,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,7,1,1,20141123,LAL,DEN
+Shot Chart Detail,0021400197,329,201951,Ty Lawson,1610612743,Denver Nuggets,3,5,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-65,239,1,1,20141123,LAL,DEN
+Shot Chart Detail,0021400197,353,201951,Ty Lawson,1610612743,Denver Nuggets,3,3,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,125,85,1,1,20141123,LAL,DEN
+Shot Chart Detail,0021400197,580,201951,Ty Lawson,1610612743,Denver Nuggets,5,3,0,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,113,94,1,1,20141123,LAL,DEN
+Shot Chart Detail,0021400197,606,201951,Ty Lawson,1610612743,Denver Nuggets,5,1,0,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,75,83,1,1,20141123,LAL,DEN
+Shot Chart Detail,0021400209,8,201951,Ty Lawson,1610612743,Denver Nuggets,1,10,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,3,1,1,20141125,DEN,CHI
+Shot Chart Detail,0021400209,327,201951,Ty Lawson,1610612743,Denver Nuggets,3,6,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-68,183,1,1,20141125,DEN,CHI
+Shot Chart Detail,0021400209,333,201951,Ty Lawson,1610612743,Denver Nuggets,3,5,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-7,246,1,1,20141125,DEN,CHI
+Shot Chart Detail,0021400209,347,201951,Ty Lawson,1610612743,Denver Nuggets,3,3,42,Made Shot,Running Bank shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-38,6,1,1,20141125,DEN,CHI
+Shot Chart Detail,0021400209,379,201951,Ty Lawson,1610612743,Denver Nuggets,3,1,39,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,73,67,1,1,20141125,DEN,CHI
+Shot Chart Detail,0021400209,510,201951,Ty Lawson,1610612743,Denver Nuggets,4,4,2,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-48,112,1,1,20141125,DEN,CHI
+Shot Chart Detail,0021400209,555,201951,Ty Lawson,1610612743,Denver Nuggets,4,0,8,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,163,134,1,1,20141125,DEN,CHI
+Shot Chart Detail,0021400221,106,201951,Ty Lawson,1610612743,Denver Nuggets,1,0,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-133,216,1,1,20141126,PHX,DEN
+Shot Chart Detail,0021400221,261,201951,Ty Lawson,1610612743,Denver Nuggets,2,1,52,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,151,145,1,1,20141126,PHX,DEN
+Shot Chart Detail,0021400221,386,201951,Ty Lawson,1610612743,Denver Nuggets,3,3,52,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,0,1,1,20141126,PHX,DEN
+Shot Chart Detail,0021400221,439,201951,Ty Lawson,1610612743,Denver Nuggets,4,11,42,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,-8,1,1,20141126,PHX,DEN
+Shot Chart Detail,0021400232,19,201951,Ty Lawson,1610612743,Denver Nuggets,1,9,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-128,126,1,1,20141128,DEN,PHX
+Shot Chart Detail,0021400232,83,201951,Ty Lawson,1610612743,Denver Nuggets,1,3,24,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-112,102,1,1,20141128,DEN,PHX
+Shot Chart Detail,0021400232,106,201951,Ty Lawson,1610612743,Denver Nuggets,1,1,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,-5,1,1,20141128,DEN,PHX
+Shot Chart Detail,0021400232,438,201951,Ty Lawson,1610612743,Denver Nuggets,3,2,30,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-15,138,1,1,20141128,DEN,PHX
+Shot Chart Detail,0021400251,35,201951,Ty Lawson,1610612743,Denver Nuggets,1,8,5,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-24,-2,1,1,20141201,UTA,DEN
+Shot Chart Detail,0021400251,49,201951,Ty Lawson,1610612743,Denver Nuggets,1,5,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,9,1,1,20141201,UTA,DEN
+Shot Chart Detail,0021400251,66,201951,Ty Lawson,1610612743,Denver Nuggets,1,4,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,67,151,1,1,20141201,UTA,DEN
+Shot Chart Detail,0021400251,188,201951,Ty Lawson,1610612743,Denver Nuggets,2,4,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,11,1,1,20141201,UTA,DEN
+Shot Chart Detail,0021400251,471,201951,Ty Lawson,1610612743,Denver Nuggets,4,4,54,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,141,31,1,1,20141201,UTA,DEN
+Shot Chart Detail,0021400251,512,201951,Ty Lawson,1610612743,Denver Nuggets,4,0,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,129,83,1,1,20141201,UTA,DEN
+Shot Chart Detail,0021400259,42,201951,Ty Lawson,1610612743,Denver Nuggets,1,7,8,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,7,1,1,20141202,DEN,POR
+Shot Chart Detail,0021400259,60,201951,Ty Lawson,1610612743,Denver Nuggets,1,5,15,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-112,77,1,1,20141202,DEN,POR
+Shot Chart Detail,0021400259,199,201951,Ty Lawson,1610612743,Denver Nuggets,2,4,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,36,146,1,1,20141202,DEN,POR
+Shot Chart Detail,0021400259,238,201951,Ty Lawson,1610612743,Denver Nuggets,2,1,38,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,51,97,1,1,20141202,DEN,POR
+Shot Chart Detail,0021400259,249,201951,Ty Lawson,1610612743,Denver Nuggets,2,0,4,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-43,153,1,1,20141202,DEN,POR
+Shot Chart Detail,0021400259,289,201951,Ty Lawson,1610612743,Denver Nuggets,3,8,17,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,33,1,1,20141202,DEN,POR
+Shot Chart Detail,0021400259,394,201951,Ty Lawson,1610612743,Denver Nuggets,4,9,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,125,241,1,1,20141202,DEN,POR
+Shot Chart Detail,0021400259,422,201951,Ty Lawson,1610612743,Denver Nuggets,4,7,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-152,205,1,1,20141202,DEN,POR
+Shot Chart Detail,0021400259,461,201951,Ty Lawson,1610612743,Denver Nuggets,4,3,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-37,153,1,1,20141202,DEN,POR
+Shot Chart Detail,0021400278,432,201951,Ty Lawson,1610612743,Denver Nuggets,3,1,19,Made Shot,Driving Bank shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-34,0,1,1,20141205,WAS,DEN
+Shot Chart Detail,0021400278,458,201951,Ty Lawson,1610612743,Denver Nuggets,4,11,6,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,1,1,1,20141205,WAS,DEN
+Shot Chart Detail,0021400278,484,201951,Ty Lawson,1610612743,Denver Nuggets,4,9,17,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,100,19,1,1,20141205,WAS,DEN
+Shot Chart Detail,0021400295,176,201951,Ty Lawson,1610612743,Denver Nuggets,2,7,55,Made Shot,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,0,42,1,1,20141207,ATL,DEN
+Shot Chart Detail,0021400304,31,201951,Ty Lawson,1610612743,Denver Nuggets,1,9,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-41,205,1,1,20141208,TOR,DEN
+Shot Chart Detail,0021400304,66,201951,Ty Lawson,1610612743,Denver Nuggets,1,4,30,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-27,11,1,1,20141208,TOR,DEN
+Shot Chart Detail,0021400304,68,201951,Ty Lawson,1610612743,Denver Nuggets,1,4,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-16,261,1,1,20141208,TOR,DEN
+Shot Chart Detail,0021400304,242,201951,Ty Lawson,1610612743,Denver Nuggets,2,1,34,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,0,1,1,20141208,TOR,DEN
+Shot Chart Detail,0021400304,345,201951,Ty Lawson,1610612743,Denver Nuggets,3,3,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,39,258,1,1,20141208,TOR,DEN
+Shot Chart Detail,0021400304,451,201951,Ty Lawson,1610612743,Denver Nuggets,4,7,25,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,133,19,1,1,20141208,TOR,DEN
+Shot Chart Detail,0021400304,492,201951,Ty Lawson,1610612743,Denver Nuggets,4,4,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,0,1,1,20141208,TOR,DEN
+Shot Chart Detail,0021400304,500,201951,Ty Lawson,1610612743,Denver Nuggets,4,3,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,6,1,1,20141208,TOR,DEN
+Shot Chart Detail,0021400325,131,201951,Ty Lawson,1610612743,Denver Nuggets,2,10,29,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-41,14,1,1,20141210,DEN,MIA
+Shot Chart Detail,0021400325,194,201951,Ty Lawson,1610612743,Denver Nuggets,2,5,15,Made Shot,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-41,22,1,1,20141210,DEN,MIA
+Shot Chart Detail,0021400325,271,201951,Ty Lawson,1610612743,Denver Nuggets,3,9,57,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,4,1,1,20141210,DEN,MIA
+Shot Chart Detail,0021400346,117,201951,Ty Lawson,1610612743,Denver Nuggets,1,3,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,129,211,1,1,20141213,HOU,DEN
+Shot Chart Detail,0021400346,126,201951,Ty Lawson,1610612743,Denver Nuggets,1,2,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,6,1,1,20141213,HOU,DEN
+Shot Chart Detail,0021400346,159,201951,Ty Lawson,1610612743,Denver Nuggets,1,0,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-204,4,1,1,20141213,HOU,DEN
+Shot Chart Detail,0021400346,566,201951,Ty Lawson,1610612743,Denver Nuggets,4,6,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,4,1,1,20141213,HOU,DEN
+Shot Chart Detail,0021400346,571,201951,Ty Lawson,1610612743,Denver Nuggets,4,5,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-2,170,1,1,20141213,HOU,DEN
+Shot Chart Detail,0021400346,576,201951,Ty Lawson,1610612743,Denver Nuggets,4,4,39,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-19,4,1,1,20141213,HOU,DEN
+Shot Chart Detail,0021400346,606,201951,Ty Lawson,1610612743,Denver Nuggets,4,2,11,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-183,-3,1,1,20141213,HOU,DEN
+Shot Chart Detail,0021400354,55,201951,Ty Lawson,1610612743,Denver Nuggets,1,6,12,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,4,1,1,20141214,DEN,SAS
+Shot Chart Detail,0021400354,172,201951,Ty Lawson,1610612743,Denver Nuggets,2,7,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,140,37,1,1,20141214,DEN,SAS
+Shot Chart Detail,0021400378,103,201951,Ty Lawson,1610612743,Denver Nuggets,1,2,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,3,1,1,20141217,DEN,HOU
+Shot Chart Detail,0021400378,175,201951,Ty Lawson,1610612743,Denver Nuggets,2,9,32,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,61,55,1,1,20141217,DEN,HOU
+Shot Chart Detail,0021400378,277,201951,Ty Lawson,1610612743,Denver Nuggets,2,1,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,119,69,1,1,20141217,DEN,HOU
+Shot Chart Detail,0021400378,416,201951,Ty Lawson,1610612743,Denver Nuggets,3,1,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,0,1,1,20141217,DEN,HOU
+Shot Chart Detail,0021400391,83,201951,Ty Lawson,1610612743,Denver Nuggets,1,4,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-199,143,1,1,20141219,DEN,LAC
+Shot Chart Detail,0021400391,103,201951,Ty Lawson,1610612743,Denver Nuggets,1,2,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,23,166,173,1,1,20141219,DEN,LAC
+Shot Chart Detail,0021400391,336,201951,Ty Lawson,1610612743,Denver Nuggets,3,4,33,Made Shot,Running Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-29,26,1,1,20141219,DEN,LAC
+Shot Chart Detail,0021400398,3,201951,Ty Lawson,1610612743,Denver Nuggets,1,11,34,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,4,1,1,20141220,DEN,IND
+Shot Chart Detail,0021400398,27,201951,Ty Lawson,1610612743,Denver Nuggets,1,8,24,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,-2,1,1,20141220,DEN,IND
+Shot Chart Detail,0021400398,101,201951,Ty Lawson,1610612743,Denver Nuggets,1,1,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,14,1,1,20141220,DEN,IND
+Shot Chart Detail,0021400398,202,201951,Ty Lawson,1610612743,Denver Nuggets,2,4,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,6,23,1,1,20141220,DEN,IND
+Shot Chart Detail,0021400398,282,201951,Ty Lawson,1610612743,Denver Nuggets,3,9,16,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,22,1,1,20141220,DEN,IND
+Shot Chart Detail,0021400398,333,201951,Ty Lawson,1610612743,Denver Nuggets,3,5,19,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,7,1,1,20141220,DEN,IND
+Shot Chart Detail,0021400409,29,201951,Ty Lawson,1610612743,Denver Nuggets,1,7,49,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,3,1,1,20141222,CHA,DEN
+Shot Chart Detail,0021400409,32,201951,Ty Lawson,1610612743,Denver Nuggets,1,7,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,163,186,1,1,20141222,CHA,DEN
+Shot Chart Detail,0021400409,82,201951,Ty Lawson,1610612743,Denver Nuggets,1,2,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,14,1,1,20141222,CHA,DEN
+Shot Chart Detail,0021400409,173,201951,Ty Lawson,1610612743,Denver Nuggets,2,6,35,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,11,1,1,20141222,CHA,DEN
+Shot Chart Detail,0021400409,184,201951,Ty Lawson,1610612743,Denver Nuggets,2,4,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-130,105,1,1,20141222,CHA,DEN
+Shot Chart Detail,0021400409,236,201951,Ty Lawson,1610612743,Denver Nuggets,2,2,12,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,11,1,1,20141222,CHA,DEN
+Shot Chart Detail,0021400409,278,201951,Ty Lawson,1610612743,Denver Nuggets,3,10,22,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,11,1,1,20141222,CHA,DEN
+Shot Chart Detail,0021400409,302,201951,Ty Lawson,1610612743,Denver Nuggets,3,7,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,30,-98,293,1,1,20141222,CHA,DEN
+Shot Chart Detail,0021400421,4,201951,Ty Lawson,1610612743,Denver Nuggets,1,11,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,0,257,1,1,20141223,BKN,DEN
+Shot Chart Detail,0021400421,25,201951,Ty Lawson,1610612743,Denver Nuggets,1,8,14,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,114,121,1,1,20141223,BKN,DEN
+Shot Chart Detail,0021400421,27,201951,Ty Lawson,1610612743,Denver Nuggets,1,7,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-138,4,1,1,20141223,BKN,DEN
+Shot Chart Detail,0021400421,97,201951,Ty Lawson,1610612743,Denver Nuggets,1,0,4,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,1,1,1,20141223,BKN,DEN
+Shot Chart Detail,0021400421,134,201951,Ty Lawson,1610612743,Denver Nuggets,2,8,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,4,1,1,20141223,BKN,DEN
+Shot Chart Detail,0021400421,201,201951,Ty Lawson,1610612743,Denver Nuggets,2,3,19,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,84,37,1,1,20141223,BKN,DEN
+Shot Chart Detail,0021400421,203,201951,Ty Lawson,1610612743,Denver Nuggets,2,2,41,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-73,203,1,1,20141223,BKN,DEN
+Shot Chart Detail,0021400421,294,201951,Ty Lawson,1610612743,Denver Nuggets,3,6,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,88,233,1,1,20141223,BKN,DEN
+Shot Chart Detail,0021400421,317,201951,Ty Lawson,1610612743,Denver Nuggets,3,3,21,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-224,37,1,1,20141223,BKN,DEN
+Shot Chart Detail,0021400421,502,201951,Ty Lawson,1610612743,Denver Nuggets,4,0,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-73,233,1,1,20141223,BKN,DEN
+Shot Chart Detail,0021400440,7,201951,Ty Lawson,1610612743,Denver Nuggets,1,11,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-26,160,1,1,20141226,DEN,MIN
+Shot Chart Detail,0021400440,23,201951,Ty Lawson,1610612743,Denver Nuggets,1,8,59,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,56,78,1,1,20141226,DEN,MIN
+Shot Chart Detail,0021400440,335,201951,Ty Lawson,1610612743,Denver Nuggets,3,7,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,189,-6,1,1,20141226,DEN,MIN
+Shot Chart Detail,0021400440,376,201951,Ty Lawson,1610612743,Denver Nuggets,3,3,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-128,121,1,1,20141226,DEN,MIN
+Shot Chart Detail,0021400440,378,201951,Ty Lawson,1610612743,Denver Nuggets,3,2,36,Made Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,39,86,1,1,20141226,DEN,MIN
+Shot Chart Detail,0021400440,549,201951,Ty Lawson,1610612743,Denver Nuggets,4,1,37,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,1,1,1,20141226,DEN,MIN
+Shot Chart Detail,0021400457,41,201951,Ty Lawson,1610612743,Denver Nuggets,1,8,16,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,64,127,1,1,20141228,DEN,TOR
+Shot Chart Detail,0021400457,48,201951,Ty Lawson,1610612743,Denver Nuggets,1,7,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-221,115,1,1,20141228,DEN,TOR
+Shot Chart Detail,0021400457,131,201951,Ty Lawson,1610612743,Denver Nuggets,1,1,36,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,165,124,1,1,20141228,DEN,TOR
+Shot Chart Detail,0021400457,181,201951,Ty Lawson,1610612743,Denver Nuggets,2,9,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-5,145,1,1,20141228,DEN,TOR
+Shot Chart Detail,0021400457,275,201951,Ty Lawson,1610612743,Denver Nuggets,2,1,47,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,4,1,1,20141228,DEN,TOR
+Shot Chart Detail,0021400457,351,201951,Ty Lawson,1610612743,Denver Nuggets,3,9,48,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,8,64,48,1,1,20141228,DEN,TOR
+Shot Chart Detail,0021400457,403,201951,Ty Lawson,1610612743,Denver Nuggets,3,4,9,Made Shot,Running Bank shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,36,14,1,1,20141228,DEN,TOR
+Shot Chart Detail,0021400457,534,201951,Ty Lawson,1610612743,Denver Nuggets,4,4,52,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,9,1,1,20141228,DEN,TOR
+Shot Chart Detail,0021400457,561,201951,Ty Lawson,1610612743,Denver Nuggets,4,2,9,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,14,-75,124,1,1,20141228,DEN,TOR
+Shot Chart Detail,0021400471,29,201951,Ty Lawson,1610612743,Denver Nuggets,1,7,15,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,15,131,1,1,20141230,DEN,LAL
+Shot Chart Detail,0021400471,257,201951,Ty Lawson,1610612743,Denver Nuggets,2,0,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,4,1,1,20141230,DEN,LAL
+Shot Chart Detail,0021400471,275,201951,Ty Lawson,1610612743,Denver Nuggets,3,9,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-153,195,1,1,20141230,DEN,LAL
+Shot Chart Detail,0021400471,472,201951,Ty Lawson,1610612743,Denver Nuggets,4,4,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,28,1,1,1,20141230,DEN,LAL
+Shot Chart Detail,0021400471,541,201951,Ty Lawson,1610612743,Denver Nuggets,4,0,44,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,0,1,1,20141230,DEN,LAL
+Shot Chart Detail,0021400482,35,201951,Ty Lawson,1610612743,Denver Nuggets,1,7,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,106,107,1,1,20150101,CHI,DEN
+Shot Chart Detail,0021400482,76,201951,Ty Lawson,1610612743,Denver Nuggets,1,3,46,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-27,93,1,1,20150101,CHI,DEN
+Shot Chart Detail,0021400482,247,201951,Ty Lawson,1610612743,Denver Nuggets,2,1,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-81,230,1,1,20150101,CHI,DEN
+Shot Chart Detail,0021400482,261,201951,Ty Lawson,1610612743,Denver Nuggets,2,0,32,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,129,56,1,1,20150101,CHI,DEN
+Shot Chart Detail,0021400482,276,201951,Ty Lawson,1610612743,Denver Nuggets,3,11,46,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-43,80,1,1,20150101,CHI,DEN
+Shot Chart Detail,0021400482,315,201951,Ty Lawson,1610612743,Denver Nuggets,3,8,56,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,73,146,1,1,20150101,CHI,DEN
+Shot Chart Detail,0021400482,361,201951,Ty Lawson,1610612743,Denver Nuggets,3,3,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-24,176,1,1,20150101,CHI,DEN
+Shot Chart Detail,0021400482,509,201951,Ty Lawson,1610612743,Denver Nuggets,4,4,34,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,15,1,1,20150101,CHI,DEN
+Shot Chart Detail,0021400500,44,201951,Ty Lawson,1610612743,Denver Nuggets,1,5,37,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,88,197,1,1,20150103,DEN,MEM
+Shot Chart Detail,0021400500,46,201951,Ty Lawson,1610612743,Denver Nuggets,1,4,52,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,140,60,1,1,20150103,DEN,MEM
+Shot Chart Detail,0021400500,80,201951,Ty Lawson,1610612743,Denver Nuggets,1,1,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,118,230,1,1,20150103,DEN,MEM
+Shot Chart Detail,0021400500,95,201951,Ty Lawson,1610612743,Denver Nuggets,1,0,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,143,238,1,1,20150103,DEN,MEM
+Shot Chart Detail,0021400500,192,201951,Ty Lawson,1610612743,Denver Nuggets,2,3,59,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-153,11,1,1,20150103,DEN,MEM
+Shot Chart Detail,0021400500,210,201951,Ty Lawson,1610612743,Denver Nuggets,2,1,53,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,159,119,1,1,20150103,DEN,MEM
+Shot Chart Detail,0021400500,249,201951,Ty Lawson,1610612743,Denver Nuggets,3,9,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,154,88,1,1,20150103,DEN,MEM
+Shot Chart Detail,0021400500,286,201951,Ty Lawson,1610612743,Denver Nuggets,3,6,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,116,222,1,1,20150103,DEN,MEM
+Shot Chart Detail,0021400500,355,201951,Ty Lawson,1610612743,Denver Nuggets,3,1,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-141,48,1,1,20150103,DEN,MEM
+Shot Chart Detail,0021400500,406,201951,Ty Lawson,1610612743,Denver Nuggets,4,8,22,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-21,45,1,1,20150103,DEN,MEM
+Shot Chart Detail,0021400514,35,201951,Ty Lawson,1610612743,Denver Nuggets,1,7,39,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-120,146,1,1,20150105,MIN,DEN
+Shot Chart Detail,0021400514,85,201951,Ty Lawson,1610612743,Denver Nuggets,1,2,28,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-147,86,1,1,20150105,MIN,DEN
+Shot Chart Detail,0021400514,276,201951,Ty Lawson,1610612743,Denver Nuggets,3,8,8,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,118,91,1,1,20150105,MIN,DEN
+Shot Chart Detail,0021400514,318,201951,Ty Lawson,1610612743,Denver Nuggets,3,3,57,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,9,1,1,20150105,MIN,DEN
+Shot Chart Detail,0021400530,39,201951,Ty Lawson,1610612743,Denver Nuggets,1,7,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,174,190,1,1,20150107,DEN,ORL
+Shot Chart Detail,0021400530,57,201951,Ty Lawson,1610612743,Denver Nuggets,1,5,54,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,6,119,1,1,20150107,DEN,ORL
+Shot Chart Detail,0021400530,69,201951,Ty Lawson,1610612743,Denver Nuggets,1,4,39,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,7,183,1,1,20150107,DEN,ORL
+Shot Chart Detail,0021400530,89,201951,Ty Lawson,1610612743,Denver Nuggets,1,2,31,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,242,4,1,1,20150107,DEN,ORL
+Shot Chart Detail,0021400530,120,201951,Ty Lawson,1610612743,Denver Nuggets,1,0,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,6,1,1,20150107,DEN,ORL
+Shot Chart Detail,0021400530,265,201951,Ty Lawson,1610612743,Denver Nuggets,3,10,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-175,61,1,1,20150107,DEN,ORL
+Shot Chart Detail,0021400530,280,201951,Ty Lawson,1610612743,Denver Nuggets,3,8,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-150,17,1,1,20150107,DEN,ORL
+Shot Chart Detail,0021400530,340,201951,Ty Lawson,1610612743,Denver Nuggets,3,2,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-48,197,1,1,20150107,DEN,ORL
+Shot Chart Detail,0021400530,483,201951,Ty Lawson,1610612743,Denver Nuggets,4,2,26,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-224,11,1,1,20150107,DEN,ORL
+Shot Chart Detail,0021400546,105,201951,Ty Lawson,1610612743,Denver Nuggets,1,0,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-8,27,1,1,20150109,SAC,DEN
+Shot Chart Detail,0021400546,222,201951,Ty Lawson,1610612743,Denver Nuggets,2,1,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-11,244,1,1,20150109,SAC,DEN
+Shot Chart Detail,0021400546,243,201951,Ty Lawson,1610612743,Denver Nuggets,3,11,6,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,1,26,1,1,20150109,SAC,DEN
+Shot Chart Detail,0021400546,248,201951,Ty Lawson,1610612743,Denver Nuggets,3,10,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,9,1,1,20150109,SAC,DEN
+Shot Chart Detail,0021400546,271,201951,Ty Lawson,1610612743,Denver Nuggets,3,7,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,22,15,222,1,1,20150109,SAC,DEN
+Shot Chart Detail,0021400546,277,201951,Ty Lawson,1610612743,Denver Nuggets,3,7,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,129,131,1,1,20150109,SAC,DEN
+Shot Chart Detail,0021400546,466,201951,Ty Lawson,1610612743,Denver Nuggets,4,4,8,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,39,11,1,1,20150109,SAC,DEN
+Shot Chart Detail,0021400581,49,201951,Ty Lawson,1610612743,Denver Nuggets,1,6,52,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,1,1,1,20150114,DEN,DAL
+Shot Chart Detail,0021400581,143,201951,Ty Lawson,1610612743,Denver Nuggets,2,10,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-49,176,1,1,20150114,DEN,DAL
+Shot Chart Detail,0021400581,147,201951,Ty Lawson,1610612743,Denver Nuggets,2,10,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,3,1,1,20150114,DEN,DAL
+Shot Chart Detail,0021400581,308,201951,Ty Lawson,1610612743,Denver Nuggets,3,8,56,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-89,9,1,1,20150114,DEN,DAL
+Shot Chart Detail,0021400581,311,201951,Ty Lawson,1610612743,Denver Nuggets,3,8,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-43,203,1,1,20150114,DEN,DAL
+Shot Chart Detail,0021400581,346,201951,Ty Lawson,1610612743,Denver Nuggets,3,5,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,136,91,1,1,20150114,DEN,DAL
+Shot Chart Detail,0021400581,355,201951,Ty Lawson,1610612743,Denver Nuggets,3,4,56,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-172,23,1,1,20150114,DEN,DAL
+Shot Chart Detail,0021400581,408,201951,Ty Lawson,1610612743,Denver Nuggets,3,1,0,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-2,143,1,1,20150114,DEN,DAL
+Shot Chart Detail,0021400581,431,201951,Ty Lawson,1610612743,Denver Nuggets,4,10,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-144,119,1,1,20150114,DEN,DAL
+Shot Chart Detail,0021400581,508,201951,Ty Lawson,1610612743,Denver Nuggets,4,3,55,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,111,145,1,1,20150114,DEN,DAL
+Shot Chart Detail,0021400594,401,201951,Ty Lawson,1610612743,Denver Nuggets,3,0,29,Made Shot,Jump Bank Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,61,233,1,1,20150116,DAL,DEN
+Shot Chart Detail,0021400594,499,201951,Ty Lawson,1610612743,Denver Nuggets,4,3,44,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,0,1,1,20150116,DAL,DEN
+Shot Chart Detail,0021400594,501,201951,Ty Lawson,1610612743,Denver Nuggets,4,3,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,16,1,1,20150116,DAL,DEN
+Shot Chart Detail,0021400606,21,201951,Ty Lawson,1610612743,Denver Nuggets,1,9,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-161,187,1,1,20150117,DEN,MIN
+Shot Chart Detail,0021400606,86,201951,Ty Lawson,1610612743,Denver Nuggets,1,3,55,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-38,42,1,1,20150117,DEN,MIN
+Shot Chart Detail,0021400606,216,201951,Ty Lawson,1610612743,Denver Nuggets,2,4,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,37,168,1,1,20150117,DEN,MIN
+Shot Chart Detail,0021400606,245,201951,Ty Lawson,1610612743,Denver Nuggets,2,1,56,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,162,94,1,1,20150117,DEN,MIN
+Shot Chart Detail,0021400606,337,201951,Ty Lawson,1610612743,Denver Nuggets,3,4,52,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,7,1,1,20150117,DEN,MIN
+Shot Chart Detail,0021400606,341,201951,Ty Lawson,1610612743,Denver Nuggets,3,4,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,144,216,1,1,20150117,DEN,MIN
+Shot Chart Detail,0021400606,484,201951,Ty Lawson,1610612743,Denver Nuggets,4,3,44,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,47,45,1,1,20150117,DEN,MIN
+Shot Chart Detail,0021400615,99,201951,Ty Lawson,1610612743,Denver Nuggets,1,1,7,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,0,86,1,1,20150119,GSW,DEN
+Shot Chart Detail,0021400615,179,201951,Ty Lawson,1610612743,Denver Nuggets,2,5,21,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-122,112,1,1,20150119,GSW,DEN
+Shot Chart Detail,0021400615,191,201951,Ty Lawson,1610612743,Denver Nuggets,2,3,32,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-111,146,1,1,20150119,GSW,DEN
+Shot Chart Detail,0021400615,193,201951,Ty Lawson,1610612743,Denver Nuggets,2,3,11,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-119,101,1,1,20150119,GSW,DEN
+Shot Chart Detail,0021400615,198,201951,Ty Lawson,1610612743,Denver Nuggets,2,2,38,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,176,198,1,1,20150119,GSW,DEN
+Shot Chart Detail,0021400615,257,201951,Ty Lawson,1610612743,Denver Nuggets,3,9,8,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-15,93,1,1,20150119,GSW,DEN
+Shot Chart Detail,0021400615,300,201951,Ty Lawson,1610612743,Denver Nuggets,3,5,23,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,11,1,1,20150119,GSW,DEN
+Shot Chart Detail,0021400615,354,201951,Ty Lawson,1610612743,Denver Nuggets,3,1,45,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-158,94,1,1,20150119,GSW,DEN
+Shot Chart Detail,0021400624,250,201951,Ty Lawson,1610612743,Denver Nuggets,2,0,0,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,47,33,1,1,20150120,DEN,SAS
+Shot Chart Detail,0021400624,528,201951,Ty Lawson,1610612743,Denver Nuggets,4,1,50,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,78,69,1,1,20150120,DEN,SAS
+Shot Chart Detail,0021400666,2,201951,Ty Lawson,1610612743,Denver Nuggets,1,11,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,4,1,1,20150125,DEN,WAS
+Shot Chart Detail,0021400666,66,201951,Ty Lawson,1610612743,Denver Nuggets,1,6,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,6,1,1,20150125,DEN,WAS
+Shot Chart Detail,0021400666,119,201951,Ty Lawson,1610612743,Denver Nuggets,1,1,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-193,153,1,1,20150125,DEN,WAS
+Shot Chart Detail,0021400666,275,201951,Ty Lawson,1610612743,Denver Nuggets,3,11,32,Made Shot,Running Bank shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,6,28,1,1,20150125,DEN,WAS
+Shot Chart Detail,0021400666,313,201951,Ty Lawson,1610612743,Denver Nuggets,3,7,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-100,235,1,1,20150125,DEN,WAS
+Shot Chart Detail,0021400666,469,201951,Ty Lawson,1610612743,Denver Nuggets,4,4,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,168,200,1,1,20150125,DEN,WAS
+Shot Chart Detail,0021400666,471,201951,Ty Lawson,1610612743,Denver Nuggets,4,4,3,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,20,86,1,1,20150125,DEN,WAS
+Shot Chart Detail,0021400666,477,201951,Ty Lawson,1610612743,Denver Nuggets,4,3,33,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,136,91,1,1,20150125,DEN,WAS
+Shot Chart Detail,0021400666,568,201951,Ty Lawson,1610612743,Denver Nuggets,5,1,28,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,144,115,1,1,20150125,DEN,WAS
+Shot Chart Detail,0021400666,574,201951,Ty Lawson,1610612743,Denver Nuggets,5,0,55,Made Shot,Running Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,10,30,1,1,20150125,DEN,WAS
+Shot Chart Detail,0021400674,39,201951,Ty Lawson,1610612743,Denver Nuggets,1,7,8,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,12,1,1,20150126,LAC,DEN
+Shot Chart Detail,0021400674,56,201951,Ty Lawson,1610612743,Denver Nuggets,1,5,29,Made Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,77,75,1,1,20150126,LAC,DEN
+Shot Chart Detail,0021400674,194,201951,Ty Lawson,1610612743,Denver Nuggets,2,2,32,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,50,104,1,1,20150126,LAC,DEN
+Shot Chart Detail,0021400674,219,201951,Ty Lawson,1610612743,Denver Nuggets,2,0,4,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,6,1,1,20150126,LAC,DEN
+Shot Chart Detail,0021400674,296,201951,Ty Lawson,1610612743,Denver Nuggets,3,5,57,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,58,160,1,1,20150126,LAC,DEN
+Shot Chart Detail,0021400674,408,201951,Ty Lawson,1610612743,Denver Nuggets,4,6,13,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,26,64,1,1,20150126,LAC,DEN
+Shot Chart Detail,0021400674,418,201951,Ty Lawson,1610612743,Denver Nuggets,4,4,53,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,47,200,1,1,20150126,LAC,DEN
+Shot Chart Detail,0021400687,288,201951,Ty Lawson,1610612743,Denver Nuggets,3,5,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,196,146,1,1,20150128,NOP,DEN
+Shot Chart Detail,0021400687,473,201951,Ty Lawson,1610612743,Denver Nuggets,4,1,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,6,1,1,20150128,NOP,DEN
+Shot Chart Detail,0021400693,203,201951,Ty Lawson,1610612743,Denver Nuggets,2,4,14,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,3,1,1,20150129,MEM,DEN
+Shot Chart Detail,0021400693,295,201951,Ty Lawson,1610612743,Denver Nuggets,3,6,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,9,1,1,20150129,MEM,DEN
+Shot Chart Detail,0021400693,306,201951,Ty Lawson,1610612743,Denver Nuggets,3,5,19,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-38,30,1,1,20150129,MEM,DEN
+Shot Chart Detail,0021400713,34,201951,Ty Lawson,1610612743,Denver Nuggets,1,8,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-188,165,1,1,20150131,DEN,CHA
+Shot Chart Detail,0021400713,155,201951,Ty Lawson,1610612743,Denver Nuggets,2,9,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-130,176,1,1,20150131,DEN,CHA
+Shot Chart Detail,0021400713,257,201951,Ty Lawson,1610612743,Denver Nuggets,2,0,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,0,159,1,1,20150131,DEN,CHA
+Shot Chart Detail,0021400726,570,201951,Ty Lawson,1610612743,Denver Nuggets,4,0,25,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,11,1,1,20150203,PHI,DEN
+Shot Chart Detail,0021400733,36,201951,Ty Lawson,1610612743,Denver Nuggets,1,7,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,0,1,1,20150204,BOS,DEN
+Shot Chart Detail,0021400733,107,201951,Ty Lawson,1610612743,Denver Nuggets,1,0,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,0,1,1,20150204,BOS,DEN
+Shot Chart Detail,0021400733,247,201951,Ty Lawson,1610612743,Denver Nuggets,2,1,25,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-29,148,1,1,20150204,BOS,DEN
+Shot Chart Detail,0021400733,292,201951,Ty Lawson,1610612743,Denver Nuggets,3,8,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,84,96,1,1,20150204,BOS,DEN
+Shot Chart Detail,0021400733,307,201951,Ty Lawson,1610612743,Denver Nuggets,3,7,38,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-27,3,1,1,20150204,BOS,DEN
+Shot Chart Detail,0021400733,348,201951,Ty Lawson,1610612743,Denver Nuggets,3,4,52,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,-3,1,1,20150204,BOS,DEN
+Shot Chart Detail,0021400733,374,201951,Ty Lawson,1610612743,Denver Nuggets,3,2,21,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,9,1,1,20150204,BOS,DEN
+Shot Chart Detail,0021400733,395,201951,Ty Lawson,1610612743,Denver Nuggets,3,0,28,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-93,0,1,1,20150204,BOS,DEN
+Shot Chart Detail,0021400733,462,201951,Ty Lawson,1610612743,Denver Nuggets,4,7,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-101,231,1,1,20150204,BOS,DEN
+Shot Chart Detail,0021400751,11,201951,Ty Lawson,1610612743,Denver Nuggets,1,10,10,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,7,1,1,20150206,DET,DEN
+Shot Chart Detail,0021400751,113,201951,Ty Lawson,1610612743,Denver Nuggets,1,0,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-116,41,1,1,20150206,DET,DEN
+Shot Chart Detail,0021400751,230,201951,Ty Lawson,1610612743,Denver Nuggets,2,0,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,-2,1,1,20150206,DET,DEN
+Shot Chart Detail,0021400751,255,201951,Ty Lawson,1610612743,Denver Nuggets,3,10,30,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,0,1,1,20150206,DET,DEN
+Shot Chart Detail,0021400751,279,201951,Ty Lawson,1610612743,Denver Nuggets,3,7,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-101,242,1,1,20150206,DET,DEN
+Shot Chart Detail,0021400751,509,201951,Ty Lawson,1610612743,Denver Nuggets,4,0,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-179,34,1,1,20150206,DET,DEN
+Shot Chart Detail,0021400782,182,201951,Ty Lawson,1610612743,Denver Nuggets,2,7,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,129,217,1,1,20150209,DEN,OKC
+Shot Chart Detail,0021400782,238,201951,Ty Lawson,1610612743,Denver Nuggets,2,3,29,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-8,20,1,1,20150209,DEN,OKC
+Shot Chart Detail,0021400782,274,201951,Ty Lawson,1610612743,Denver Nuggets,2,0,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-201,143,1,1,20150209,DEN,OKC
+Shot Chart Detail,0021400782,276,201951,Ty Lawson,1610612743,Denver Nuggets,2,0,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-198,9,1,1,20150209,DEN,OKC
+Shot Chart Detail,0021400782,433,201951,Ty Lawson,1610612743,Denver Nuggets,3,0,9,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,26,260,1,1,20150209,DEN,OKC
+Shot Chart Detail,0021400782,503,201951,Ty Lawson,1610612743,Denver Nuggets,4,7,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,160,222,1,1,20150209,DEN,OKC
+Shot Chart Detail,0021400782,518,201951,Ty Lawson,1610612743,Denver Nuggets,4,5,29,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,9,127,1,1,20150209,DEN,OKC
+Shot Chart Detail,0021400782,540,201951,Ty Lawson,1610612743,Denver Nuggets,4,2,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-120,219,1,1,20150209,DEN,OKC
+Shot Chart Detail,0021400787,79,201951,Ty Lawson,1610612743,Denver Nuggets,1,3,38,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,4,1,1,20150210,LAL,DEN
+Shot Chart Detail,0021400787,200,201951,Ty Lawson,1610612743,Denver Nuggets,2,4,39,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,3,1,1,20150210,LAL,DEN
+Shot Chart Detail,0021400787,308,201951,Ty Lawson,1610612743,Denver Nuggets,3,8,11,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,14,1,1,20150210,LAL,DEN
+Shot Chart Detail,0021400787,311,201951,Ty Lawson,1610612743,Denver Nuggets,3,7,38,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-105,94,1,1,20150210,LAL,DEN
+Shot Chart Detail,0021400787,324,201951,Ty Lawson,1610612743,Denver Nuggets,3,6,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,12,1,1,20150210,LAL,DEN
+Shot Chart Detail,0021400787,339,201951,Ty Lawson,1610612743,Denver Nuggets,3,4,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,124,112,1,1,20150210,LAL,DEN
+Shot Chart Detail,0021400787,386,201951,Ty Lawson,1610612743,Denver Nuggets,3,1,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,116,97,1,1,20150210,LAL,DEN
+Shot Chart Detail,0021400787,470,201951,Ty Lawson,1610612743,Denver Nuggets,4,5,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,1,1,1,20150210,LAL,DEN
+Shot Chart Detail,0021400787,515,201951,Ty Lawson,1610612743,Denver Nuggets,4,1,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-112,127,1,1,20150210,LAL,DEN
+Shot Chart Detail,0021400787,517,201951,Ty Lawson,1610612743,Denver Nuggets,4,1,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-97,164,1,1,20150210,LAL,DEN
+Shot Chart Detail,0021400787,526,201951,Ty Lawson,1610612743,Denver Nuggets,4,0,46,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,3,1,1,20150210,LAL,DEN
+Shot Chart Detail,0021400787,532,201951,Ty Lawson,1610612743,Denver Nuggets,4,0,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-79,236,1,1,20150210,LAL,DEN
+Shot Chart Detail,0021400826,38,201951,Ty Lawson,1610612743,Denver Nuggets,1,9,5,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,11,-68,89,1,1,20150222,OKC,DEN
+Shot Chart Detail,0021400826,83,201951,Ty Lawson,1610612743,Denver Nuggets,1,4,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-19,3,1,1,20150222,OKC,DEN
+Shot Chart Detail,0021400826,199,201951,Ty Lawson,1610612743,Denver Nuggets,2,5,6,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,7,1,1,20150222,OKC,DEN
+Shot Chart Detail,0021400826,291,201951,Ty Lawson,1610612743,Denver Nuggets,3,10,30,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,86,112,1,1,20150222,OKC,DEN
+Shot Chart Detail,0021400826,302,201951,Ty Lawson,1610612743,Denver Nuggets,3,9,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,1,1,1,20150222,OKC,DEN
+Shot Chart Detail,0021400826,356,201951,Ty Lawson,1610612743,Denver Nuggets,3,5,4,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,0,1,1,20150222,OKC,DEN
+Shot Chart Detail,0021400834,48,201951,Ty Lawson,1610612743,Denver Nuggets,1,6,4,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,6,1,1,20150223,DEN,BKN
+Shot Chart Detail,0021400834,64,201951,Ty Lawson,1610612743,Denver Nuggets,1,5,11,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,11,1,1,20150223,DEN,BKN
+Shot Chart Detail,0021400834,107,201951,Ty Lawson,1610612743,Denver Nuggets,1,1,25,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,7,1,1,20150223,DEN,BKN
+Shot Chart Detail,0021400850,5,201951,Ty Lawson,1610612743,Denver Nuggets,1,11,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,10,19,1,1,20150225,DEN,PHX
+Shot Chart Detail,0021400850,17,201951,Ty Lawson,1610612743,Denver Nuggets,1,10,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-158,205,1,1,20150225,DEN,PHX
+Shot Chart Detail,0021400850,357,201951,Ty Lawson,1610612743,Denver Nuggets,3,7,49,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,14,1,1,20150225,DEN,PHX
+Shot Chart Detail,0021400850,543,201951,Ty Lawson,1610612743,Denver Nuggets,4,7,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-164,186,1,1,20150225,DEN,PHX
+Shot Chart Detail,0021400850,587,201951,Ty Lawson,1610612743,Denver Nuggets,4,3,6,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-119,42,1,1,20150225,DEN,PHX
+Shot Chart Detail,0021400866,68,201951,Ty Lawson,1610612743,Denver Nuggets,1,5,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-191,160,1,1,20150227,DEN,UTA
+Shot Chart Detail,0021400866,120,201951,Ty Lawson,1610612743,Denver Nuggets,1,1,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,157,203,1,1,20150227,DEN,UTA
+Shot Chart Detail,0021400884,242,201951,Ty Lawson,1610612743,Denver Nuggets,3,10,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-24,0,1,1,20150301,DEN,NOP
+Shot Chart Detail,0021400884,554,201951,Ty Lawson,1610612743,Denver Nuggets,4,0,29,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,9,1,1,20150301,DEN,NOP
+Shot Chart Detail,0021400895,297,201951,Ty Lawson,1610612743,Denver Nuggets,2,0,30,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,9,1,1,20150303,DEN,MIL
+Shot Chart Detail,0021400895,322,201951,Ty Lawson,1610612743,Denver Nuggets,3,9,49,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-146,63,1,1,20150303,DEN,MIL
+Shot Chart Detail,0021400895,334,201951,Ty Lawson,1610612743,Denver Nuggets,3,8,27,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,241,7,1,1,20150303,DEN,MIL
+Shot Chart Detail,0021400895,503,201951,Ty Lawson,1610612743,Denver Nuggets,4,5,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-131,112,1,1,20150303,DEN,MIL
+Shot Chart Detail,0021400895,512,201951,Ty Lawson,1610612743,Denver Nuggets,4,4,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,99,127,1,1,20150303,DEN,MIL
+Shot Chart Detail,0021400895,554,201951,Ty Lawson,1610612743,Denver Nuggets,4,0,38,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,23,1,1,20150303,DEN,MIL
+Shot Chart Detail,0021400921,11,201951,Ty Lawson,1610612743,Denver Nuggets,1,10,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,102,157,1,1,20150306,SAS,DEN
+Shot Chart Detail,0021400921,22,201951,Ty Lawson,1610612743,Denver Nuggets,1,8,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,59,149,1,1,20150306,SAS,DEN
+Shot Chart Detail,0021400921,24,201951,Ty Lawson,1610612743,Denver Nuggets,1,8,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-175,85,1,1,20150306,SAS,DEN
+Shot Chart Detail,0021400921,42,201951,Ty Lawson,1610612743,Denver Nuggets,1,6,39,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-56,108,1,1,20150306,SAS,DEN
+Shot Chart Detail,0021400921,448,201951,Ty Lawson,1610612743,Denver Nuggets,4,7,19,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,14,-76,121,1,1,20150306,SAS,DEN
+Shot Chart Detail,0021400921,450,201951,Ty Lawson,1610612743,Denver Nuggets,4,6,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-157,183,1,1,20150306,SAS,DEN
+Shot Chart Detail,0021400921,458,201951,Ty Lawson,1610612743,Denver Nuggets,4,6,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,1,1,1,20150306,SAS,DEN
+Shot Chart Detail,0021400930,253,201951,Ty Lawson,1610612743,Denver Nuggets,2,3,43,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,15,1,1,20150307,DEN,HOU
+Shot Chart Detail,0021400930,285,201951,Ty Lawson,1610612743,Denver Nuggets,2,1,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-71,172,1,1,20150307,DEN,HOU
+Shot Chart Detail,0021400930,335,201951,Ty Lawson,1610612743,Denver Nuggets,3,7,58,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,3,1,1,20150307,DEN,HOU
+Shot Chart Detail,0021400930,499,201951,Ty Lawson,1610612743,Denver Nuggets,4,8,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,4,162,1,1,20150307,DEN,HOU
+Shot Chart Detail,0021400930,578,201951,Ty Lawson,1610612743,Denver Nuggets,4,1,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-188,160,1,1,20150307,DEN,HOU
+Shot Chart Detail,0021400943,3,201951,Ty Lawson,1610612743,Denver Nuggets,1,11,27,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,40,26,1,1,20150309,DEN,NYK
+Shot Chart Detail,0021400943,107,201951,Ty Lawson,1610612743,Denver Nuggets,1,3,22,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,4,1,1,20150309,DEN,NYK
+Shot Chart Detail,0021400943,323,201951,Ty Lawson,1610612743,Denver Nuggets,3,9,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,200,156,1,1,20150309,DEN,NYK
+Shot Chart Detail,0021400958,71,201951,Ty Lawson,1610612743,Denver Nuggets,1,3,36,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-142,71,1,1,20150311,DEN,ATL
+Shot Chart Detail,0021400984,21,201951,Ty Lawson,1610612743,Denver Nuggets,1,8,47,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,70,48,1,1,20150315,NOP,DEN
+Shot Chart Detail,0021400984,40,201951,Ty Lawson,1610612743,Denver Nuggets,1,7,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-116,224,1,1,20150315,NOP,DEN
+Shot Chart Detail,0021400984,234,201951,Ty Lawson,1610612743,Denver Nuggets,2,0,59,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,4,1,1,20150315,NOP,DEN
+Shot Chart Detail,0021400984,271,201951,Ty Lawson,1610612743,Denver Nuggets,3,10,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,1,1,1,20150315,NOP,DEN
+Shot Chart Detail,0021400984,361,201951,Ty Lawson,1610612743,Denver Nuggets,3,2,47,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,7,1,1,20150315,NOP,DEN
+Shot Chart Detail,0021400984,383,201951,Ty Lawson,1610612743,Denver Nuggets,3,1,9,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,7,22,1,1,20150315,NOP,DEN
+Shot Chart Detail,0021400984,417,201951,Ty Lawson,1610612743,Denver Nuggets,4,8,46,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,3,1,1,20150315,NOP,DEN
+Shot Chart Detail,0021400984,429,201951,Ty Lawson,1610612743,Denver Nuggets,4,7,25,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,7,1,1,20150315,NOP,DEN
+Shot Chart Detail,0021400984,450,201951,Ty Lawson,1610612743,Denver Nuggets,4,5,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,4,1,1,20150315,NOP,DEN
+Shot Chart Detail,0021401017,23,201951,Ty Lawson,1610612743,Denver Nuggets,1,9,18,Made Shot,Driving Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,0,1,1,20150319,HOU,DEN
+Shot Chart Detail,0021401017,364,201951,Ty Lawson,1610612743,Denver Nuggets,3,6,20,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,12,179,1,1,20150319,HOU,DEN
+Shot Chart Detail,0021401017,367,201951,Ty Lawson,1610612743,Denver Nuggets,3,5,53,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,0,216,1,1,20150319,HOU,DEN
+Shot Chart Detail,0021401017,600,201951,Ty Lawson,1610612743,Denver Nuggets,4,0,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,173,189,1,1,20150319,HOU,DEN
+Shot Chart Detail,0021401017,602,201951,Ty Lawson,1610612743,Denver Nuggets,4,0,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-164,195,1,1,20150319,HOU,DEN
+Shot Chart Detail,0021401024,263,201951,Ty Lawson,1610612743,Denver Nuggets,3,10,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,15,17,1,1,20150320,MIA,DEN
+Shot Chart Detail,0021401024,344,201951,Ty Lawson,1610612743,Denver Nuggets,3,1,15,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,0,1,1,20150320,MIA,DEN
+Shot Chart Detail,0021401024,346,201951,Ty Lawson,1610612743,Denver Nuggets,3,0,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-127,148,1,1,20150320,MIA,DEN
+Shot Chart Detail,0021401024,354,201951,Ty Lawson,1610612743,Denver Nuggets,3,0,2,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,6,1,1,20150320,MIA,DEN
+Shot Chart Detail,0021401024,480,201951,Ty Lawson,1610612743,Denver Nuggets,4,1,58,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-54,83,1,1,20150320,MIA,DEN
+Shot Chart Detail,0021401069,61,201951,Ty Lawson,1610612743,Denver Nuggets,1,6,45,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,-3,1,1,20150325,DEN,PHI
+Shot Chart Detail,0021401069,301,201951,Ty Lawson,1610612743,Denver Nuggets,3,11,8,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,0,1,1,20150325,DEN,PHI
+Shot Chart Detail,0021401069,310,201951,Ty Lawson,1610612743,Denver Nuggets,3,9,52,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,62,88,1,1,20150325,DEN,PHI
+Shot Chart Detail,0021401069,389,201951,Ty Lawson,1610612743,Denver Nuggets,3,2,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,92,222,1,1,20150325,DEN,PHI
+Shot Chart Detail,0021401069,411,201951,Ty Lawson,1610612743,Denver Nuggets,3,0,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-177,173,1,1,20150325,DEN,PHI
+Shot Chart Detail,0021401069,564,201951,Ty Lawson,1610612743,Denver Nuggets,4,0,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-120,30,1,1,20150325,DEN,PHI
+Shot Chart Detail,0021401085,25,201951,Ty Lawson,1610612743,Denver Nuggets,1,9,17,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,72,55,1,1,20150327,DEN,UTA
+Shot Chart Detail,0021401085,54,201951,Ty Lawson,1610612743,Denver Nuggets,1,6,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,4,1,1,20150327,DEN,UTA
+Shot Chart Detail,0021401085,161,201951,Ty Lawson,1610612743,Denver Nuggets,2,7,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-161,15,1,1,20150327,DEN,UTA
+Shot Chart Detail,0021401085,211,201951,Ty Lawson,1610612743,Denver Nuggets,2,4,25,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,14,1,1,20150327,DEN,UTA
+Shot Chart Detail,0021401085,304,201951,Ty Lawson,1610612743,Denver Nuggets,3,10,30,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,11,1,1,20150327,DEN,UTA
+Shot Chart Detail,0021401085,339,201951,Ty Lawson,1610612743,Denver Nuggets,3,6,14,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,95,63,1,1,20150327,DEN,UTA
+Shot Chart Detail,0021401085,365,201951,Ty Lawson,1610612743,Denver Nuggets,3,3,6,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,6,1,1,20150327,DEN,UTA
+Shot Chart Detail,0021401091,73,201951,Ty Lawson,1610612743,Denver Nuggets,1,4,20,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,18,138,1,1,20150328,POR,DEN
+Shot Chart Detail,0021401091,318,201951,Ty Lawson,1610612743,Denver Nuggets,3,7,25,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,7,1,1,20150328,POR,DEN
+Shot Chart Detail,0021401091,502,201951,Ty Lawson,1610612743,Denver Nuggets,4,1,23,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,-5,1,1,20150328,POR,DEN
+Shot Chart Detail,0021401121,26,201951,Ty Lawson,1610612743,Denver Nuggets,1,7,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,23,177,148,1,1,20150401,UTA,DEN
+Shot Chart Detail,0021401121,102,201951,Ty Lawson,1610612743,Denver Nuggets,1,1,14,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,15,14,1,1,20150401,UTA,DEN
+Shot Chart Detail,0021401121,177,201951,Ty Lawson,1610612743,Denver Nuggets,2,5,31,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-68,121,1,1,20150401,UTA,DEN
+Shot Chart Detail,0021401121,191,201951,Ty Lawson,1610612743,Denver Nuggets,2,3,58,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,45,154,1,1,20150401,UTA,DEN
+Shot Chart Detail,0021401121,299,201951,Ty Lawson,1610612743,Denver Nuggets,3,7,20,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,7,1,1,20150401,UTA,DEN
+Shot Chart Detail,0021401121,354,201951,Ty Lawson,1610612743,Denver Nuggets,3,2,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,138,198,1,1,20150401,UTA,DEN
+Shot Chart Detail,0021401134,14,201951,Ty Lawson,1610612743,Denver Nuggets,1,10,29,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,78,186,1,1,20150403,SAS,DEN
+Shot Chart Detail,0021401134,60,201951,Ty Lawson,1610612743,Denver Nuggets,1,4,59,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,146,-14,1,1,20150403,SAS,DEN
+Shot Chart Detail,0021401134,252,201951,Ty Lawson,1610612743,Denver Nuggets,3,9,33,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,4,1,1,20150403,SAS,DEN
+Shot Chart Detail,0021401169,13,201951,Ty Lawson,1610612743,Denver Nuggets,1,10,58,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,7,1,1,20150408,DEN,LAL
+Shot Chart Detail,0021401169,104,201951,Ty Lawson,1610612743,Denver Nuggets,1,3,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,4,1,1,20150408,DEN,LAL
+Shot Chart Detail,0021401169,127,201951,Ty Lawson,1610612743,Denver Nuggets,1,1,46,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,4,1,1,20150408,DEN,LAL
+Shot Chart Detail,0021401169,134,201951,Ty Lawson,1610612743,Denver Nuggets,1,1,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-98,126,1,1,20150408,DEN,LAL
+Shot Chart Detail,0021401169,234,201951,Ty Lawson,1610612743,Denver Nuggets,2,5,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-152,119,1,1,20150408,DEN,LAL
+Shot Chart Detail,0021401169,327,201951,Ty Lawson,1610612743,Denver Nuggets,3,8,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,15,1,1,20150408,DEN,LAL
+Shot Chart Detail,0021401169,350,201951,Ty Lawson,1610612743,Denver Nuggets,3,5,44,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,3,1,1,20150408,DEN,LAL
+Shot Chart Detail,0021401184,32,201951,Ty Lawson,1610612743,Denver Nuggets,1,8,22,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,17,1,1,20150410,DEN,DAL
+Shot Chart Detail,0021401184,131,201951,Ty Lawson,1610612743,Denver Nuggets,1,0,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-34,153,1,1,20150410,DEN,DAL
+Shot Chart Detail,0021401184,223,201951,Ty Lawson,1610612743,Denver Nuggets,2,5,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,95,93,1,1,20150410,DEN,DAL
+Shot Chart Detail,0021401184,232,201951,Ty Lawson,1610612743,Denver Nuggets,2,4,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,162,126,1,1,20150410,DEN,DAL
+Shot Chart Detail,0021401184,339,201951,Ty Lawson,1610612743,Denver Nuggets,3,8,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,182,41,1,1,20150410,DEN,DAL
+Shot Chart Detail,0021401184,371,201951,Ty Lawson,1610612743,Denver Nuggets,3,6,4,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,7,1,1,20150410,DEN,DAL
+Shot Chart Detail,0021401184,411,201951,Ty Lawson,1610612743,Denver Nuggets,3,3,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-34,170,1,1,20150410,DEN,DAL
+Shot Chart Detail,0021401184,561,201951,Ty Lawson,1610612743,Denver Nuggets,4,1,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,9,260,1,1,20150410,DEN,DAL
+Shot Chart Detail,0021401196,44,201951,Ty Lawson,1610612743,Denver Nuggets,1,7,22,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,2,82,1,1,20150412,DEN,SAC
+Shot Chart Detail,0021401196,49,201951,Ty Lawson,1610612743,Denver Nuggets,1,6,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,4,1,1,20150412,DEN,SAC
+Shot Chart Detail,0021401196,289,201951,Ty Lawson,1610612743,Denver Nuggets,3,9,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-8,22,1,1,20150412,DEN,SAC
+Shot Chart Detail,0021401196,363,201951,Ty Lawson,1610612743,Denver Nuggets,3,4,26,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,67,52,1,1,20150412,DEN,SAC
+Shot Chart Detail,0021401229,61,201951,Ty Lawson,1610612743,Denver Nuggets,1,5,30,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,11,1,1,20150415,GSW,DEN

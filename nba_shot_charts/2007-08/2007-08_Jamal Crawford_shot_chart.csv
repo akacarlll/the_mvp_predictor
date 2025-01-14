@@ -1,0 +1,571 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0020700020,16,2037,Jamal Crawford,1610612752,New York Knicks,1,10,33,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-158,48,1,1,20071102,CLE,NYK
+Shot Chart Detail,0020700020,68,2037,Jamal Crawford,1610612752,New York Knicks,1,3,22,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-15,48,1,1,20071102,CLE,NYK
+Shot Chart Detail,0020700020,80,2037,Jamal Crawford,1610612752,New York Knicks,1,2,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-97,141,1,1,20071102,CLE,NYK
+Shot Chart Detail,0020700020,191,2037,Jamal Crawford,1610612752,New York Knicks,2,3,10,Made Shot,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-67,26,1,1,20071102,CLE,NYK
+Shot Chart Detail,0020700020,294,2037,Jamal Crawford,1610612752,New York Knicks,3,7,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,36,248,1,1,20071102,CLE,NYK
+Shot Chart Detail,0020700020,307,2037,Jamal Crawford,1610612752,New York Knicks,3,6,7,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,10,1,1,20071102,CLE,NYK
+Shot Chart Detail,0020700020,363,2037,Jamal Crawford,1610612752,New York Knicks,3,0,33,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-71,12,1,1,20071102,CLE,NYK
+Shot Chart Detail,0020700020,533,2037,Jamal Crawford,1610612752,New York Knicks,4,0,15,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,8,1,1,20071102,CLE,NYK
+Shot Chart Detail,0020700037,150,2037,Jamal Crawford,1610612752,New York Knicks,2,7,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,218,128,1,1,20071104,NYK,MIN
+Shot Chart Detail,0020700037,152,2037,Jamal Crawford,1610612752,New York Knicks,2,6,44,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20071104,NYK,MIN
+Shot Chart Detail,0020700037,158,2037,Jamal Crawford,1610612752,New York Knicks,2,6,13,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-20,43,1,1,20071104,NYK,MIN
+Shot Chart Detail,0020700037,194,2037,Jamal Crawford,1610612752,New York Knicks,2,3,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20071104,NYK,MIN
+Shot Chart Detail,0020700037,251,2037,Jamal Crawford,1610612752,New York Knicks,3,8,6,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20071104,NYK,MIN
+Shot Chart Detail,0020700037,383,2037,Jamal Crawford,1610612752,New York Knicks,4,7,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,0,153,1,1,20071104,NYK,MIN
+Shot Chart Detail,0020700037,385,2037,Jamal Crawford,1610612752,New York Knicks,4,6,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,100,137,1,1,20071104,NYK,MIN
+Shot Chart Detail,0020700037,404,2037,Jamal Crawford,1610612752,New York Knicks,4,5,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-92,158,1,1,20071104,NYK,MIN
+Shot Chart Detail,0020700046,37,2037,Jamal Crawford,1610612752,New York Knicks,1,6,4,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,49,1,1,20071106,NYK,DEN
+Shot Chart Detail,0020700046,146,2037,Jamal Crawford,1610612752,New York Knicks,2,7,25,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,34,110,1,1,20071106,NYK,DEN
+Shot Chart Detail,0020700046,166,2037,Jamal Crawford,1610612752,New York Knicks,2,6,4,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,1,56,1,1,20071106,NYK,DEN
+Shot Chart Detail,0020700046,203,2037,Jamal Crawford,1610612752,New York Knicks,2,3,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-118,217,1,1,20071106,NYK,DEN
+Shot Chart Detail,0020700046,293,2037,Jamal Crawford,1610612752,New York Knicks,3,6,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,23,247,1,1,20071106,NYK,DEN
+Shot Chart Detail,0020700046,308,2037,Jamal Crawford,1610612752,New York Knicks,3,4,43,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-151,87,1,1,20071106,NYK,DEN
+Shot Chart Detail,0020700046,311,2037,Jamal Crawford,1610612752,New York Knicks,3,4,15,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-179,87,1,1,20071106,NYK,DEN
+Shot Chart Detail,0020700046,476,2037,Jamal Crawford,1610612752,New York Knicks,4,1,41,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-62,86,1,1,20071106,NYK,DEN
+Shot Chart Detail,0020700069,13,2037,Jamal Crawford,1610612752,New York Knicks,1,10,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-99,168,1,1,20071109,NYK,ORL
+Shot Chart Detail,0020700069,31,2037,Jamal Crawford,1610612752,New York Knicks,1,8,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,126,237,1,1,20071109,NYK,ORL
+Shot Chart Detail,0020700069,252,2037,Jamal Crawford,1610612752,New York Knicks,3,11,36,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,-6,1,1,20071109,NYK,ORL
+Shot Chart Detail,0020700069,328,2037,Jamal Crawford,1610612752,New York Knicks,3,1,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-43,181,1,1,20071109,NYK,ORL
+Shot Chart Detail,0020700069,494,2037,Jamal Crawford,1610612752,New York Knicks,4,0,36,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20071109,NYK,ORL
+Shot Chart Detail,0020700087,38,2037,Jamal Crawford,1610612752,New York Knicks,1,6,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,115,133,1,1,20071111,NYK,MIA
+Shot Chart Detail,0020700087,154,2037,Jamal Crawford,1610612752,New York Knicks,2,4,45,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,10,1,1,20071111,NYK,MIA
+Shot Chart Detail,0020700087,244,2037,Jamal Crawford,1610612752,New York Knicks,3,9,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,121,166,1,1,20071111,NYK,MIA
+Shot Chart Detail,0020700087,288,2037,Jamal Crawford,1610612752,New York Knicks,3,3,23,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-82,53,1,1,20071111,NYK,MIA
+Shot Chart Detail,0020700102,23,2037,Jamal Crawford,1610612752,New York Knicks,1,8,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,138,97,1,1,20071113,PHX,NYK
+Shot Chart Detail,0020700102,46,2037,Jamal Crawford,1610612752,New York Knicks,1,6,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,212,137,1,1,20071113,PHX,NYK
+Shot Chart Detail,0020700102,77,2037,Jamal Crawford,1610612752,New York Knicks,1,3,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-108,143,1,1,20071113,PHX,NYK
+Shot Chart Detail,0020700102,170,2037,Jamal Crawford,1610612752,New York Knicks,2,6,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,192,217,1,1,20071113,PHX,NYK
+Shot Chart Detail,0020700102,245,2037,Jamal Crawford,1610612752,New York Knicks,2,0,33,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,46,84,1,1,20071113,PHX,NYK
+Shot Chart Detail,0020700102,266,2037,Jamal Crawford,1610612752,New York Knicks,3,10,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-128,140,1,1,20071113,PHX,NYK
+Shot Chart Detail,0020700102,281,2037,Jamal Crawford,1610612752,New York Knicks,3,9,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,62,150,1,1,20071113,PHX,NYK
+Shot Chart Detail,0020700102,384,2037,Jamal Crawford,1610612752,New York Knicks,4,10,15,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,12,-72,107,1,1,20071113,PHX,NYK
+Shot Chart Detail,0020700115,135,2037,Jamal Crawford,1610612752,New York Knicks,2,9,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,156,127,1,1,20071114,LAC,NYK
+Shot Chart Detail,0020700115,386,2037,Jamal Crawford,1610612752,New York Knicks,4,11,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,95,192,1,1,20071114,LAC,NYK
+Shot Chart Detail,0020700115,420,2037,Jamal Crawford,1610612752,New York Knicks,4,7,32,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20071114,LAC,NYK
+Shot Chart Detail,0020700115,434,2037,Jamal Crawford,1610612752,New York Knicks,4,6,1,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,112,38,1,1,20071114,LAC,NYK
+Shot Chart Detail,0020700128,59,2037,Jamal Crawford,1610612752,New York Knicks,1,5,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-186,76,1,1,20071116,SAC,NYK
+Shot Chart Detail,0020700128,243,2037,Jamal Crawford,1610612752,New York Knicks,2,3,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,90,61,1,1,20071116,SAC,NYK
+Shot Chart Detail,0020700128,292,2037,Jamal Crawford,1610612752,New York Knicks,3,9,39,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-26,186,1,1,20071116,SAC,NYK
+Shot Chart Detail,0020700128,403,2037,Jamal Crawford,1610612752,New York Knicks,4,11,1,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,46,107,1,1,20071116,SAC,NYK
+Shot Chart Detail,0020700128,411,2037,Jamal Crawford,1610612752,New York Knicks,4,9,59,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,17,1,1,20071116,SAC,NYK
+Shot Chart Detail,0020700128,425,2037,Jamal Crawford,1610612752,New York Knicks,4,8,9,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,223,59,1,1,20071116,SAC,NYK
+Shot Chart Detail,0020700128,460,2037,Jamal Crawford,1610612752,New York Knicks,4,5,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,6,201,1,1,20071116,SAC,NYK
+Shot Chart Detail,0020700128,549,2037,Jamal Crawford,1610612752,New York Knicks,5,2,22,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,77,35,1,1,20071116,SAC,NYK
+Shot Chart Detail,0020700128,566,2037,Jamal Crawford,1610612752,New York Knicks,5,1,25,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,14,-80,118,1,1,20071116,SAC,NYK
+Shot Chart Detail,0020700139,191,2037,Jamal Crawford,1610612752,New York Knicks,2,6,7,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20071117,DEN,NYK
+Shot Chart Detail,0020700139,243,2037,Jamal Crawford,1610612752,New York Knicks,2,2,9,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,-1,1,1,20071117,DEN,NYK
+Shot Chart Detail,0020700153,61,2037,Jamal Crawford,1610612752,New York Knicks,1,7,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,131,82,1,1,20071120,NYK,GSW
+Shot Chart Detail,0020700153,77,2037,Jamal Crawford,1610612752,New York Knicks,1,5,50,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20071120,NYK,GSW
+Shot Chart Detail,0020700153,104,2037,Jamal Crawford,1610612752,New York Knicks,1,4,3,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,28,1,1,20071120,NYK,GSW
+Shot Chart Detail,0020700153,210,2037,Jamal Crawford,1610612752,New York Knicks,2,7,55,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-227,40,1,1,20071120,NYK,GSW
+Shot Chart Detail,0020700153,459,2037,Jamal Crawford,1610612752,New York Knicks,4,9,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-168,5,1,1,20071120,NYK,GSW
+Shot Chart Detail,0020700153,515,2037,Jamal Crawford,1610612752,New York Knicks,4,4,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-207,164,1,1,20071120,NYK,GSW
+Shot Chart Detail,0020700161,7,2037,Jamal Crawford,1610612752,New York Knicks,1,10,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,61,156,1,1,20071121,DET,NYK
+Shot Chart Detail,0020700161,12,2037,Jamal Crawford,1610612752,New York Knicks,1,10,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,151,122,1,1,20071121,DET,NYK
+Shot Chart Detail,0020700161,228,2037,Jamal Crawford,1610612752,New York Knicks,3,9,39,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,23,1,1,20071121,DET,NYK
+Shot Chart Detail,0020700161,244,2037,Jamal Crawford,1610612752,New York Knicks,3,6,47,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,82,25,1,1,20071121,DET,NYK
+Shot Chart Detail,0020700161,265,2037,Jamal Crawford,1610612752,New York Knicks,3,4,17,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,56,1,1,20071121,DET,NYK
+Shot Chart Detail,0020700161,374,2037,Jamal Crawford,1610612752,New York Knicks,4,5,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,140,77,1,1,20071121,DET,NYK
+Shot Chart Detail,0020700182,4,2037,Jamal Crawford,1610612752,New York Knicks,1,11,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,23,176,161,1,1,20071124,NYK,CHI
+Shot Chart Detail,0020700182,351,2037,Jamal Crawford,1610612752,New York Knicks,3,2,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-179,43,1,1,20071124,NYK,CHI
+Shot Chart Detail,0020700197,62,2037,Jamal Crawford,1610612752,New York Knicks,1,3,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,56,196,1,1,20071126,NYK,UTA
+Shot Chart Detail,0020700197,199,2037,Jamal Crawford,1610612752,New York Knicks,2,0,46,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20071126,NYK,UTA
+Shot Chart Detail,0020700197,208,2037,Jamal Crawford,1610612752,New York Knicks,2,0,5,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,238,56,1,1,20071126,NYK,UTA
+Shot Chart Detail,0020700197,241,2037,Jamal Crawford,1610612752,New York Knicks,3,8,54,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,3,64,1,1,20071126,NYK,UTA
+Shot Chart Detail,0020700197,244,2037,Jamal Crawford,1610612752,New York Knicks,3,8,29,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,149,117,1,1,20071126,NYK,UTA
+Shot Chart Detail,0020700197,282,2037,Jamal Crawford,1610612752,New York Knicks,3,4,17,Made Shot,Jump Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20071126,NYK,UTA
+Shot Chart Detail,0020700197,409,2037,Jamal Crawford,1610612752,New York Knicks,4,5,19,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,141,38,1,1,20071126,NYK,UTA
+Shot Chart Detail,0020700221,180,2037,Jamal Crawford,1610612752,New York Knicks,2,4,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-72,161,1,1,20071129,BOS,NYK
+Shot Chart Detail,0020700221,183,2037,Jamal Crawford,1610612752,New York Knicks,2,3,54,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,82,91,1,1,20071129,BOS,NYK
+Shot Chart Detail,0020700221,224,2037,Jamal Crawford,1610612752,New York Knicks,2,0,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-128,153,1,1,20071129,BOS,NYK
+Shot Chart Detail,0020700221,329,2037,Jamal Crawford,1610612752,New York Knicks,3,0,48,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,13,69,112,1,1,20071129,BOS,NYK
+Shot Chart Detail,0020700226,185,2037,Jamal Crawford,1610612752,New York Knicks,2,6,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-94,148,1,1,20071130,NYK,MIL
+Shot Chart Detail,0020700226,280,2037,Jamal Crawford,1610612752,New York Knicks,3,7,18,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,56,196,1,1,20071130,NYK,MIL
+Shot Chart Detail,0020700226,315,2037,Jamal Crawford,1610612752,New York Knicks,3,4,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,103,178,1,1,20071130,NYK,MIL
+Shot Chart Detail,0020700226,317,2037,Jamal Crawford,1610612752,New York Knicks,3,3,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,131,230,1,1,20071130,NYK,MIL
+Shot Chart Detail,0020700226,323,2037,Jamal Crawford,1610612752,New York Knicks,3,3,9,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-79,51,1,1,20071130,NYK,MIL
+Shot Chart Detail,0020700226,338,2037,Jamal Crawford,1610612752,New York Knicks,3,1,20,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20071130,NYK,MIL
+Shot Chart Detail,0020700226,396,2037,Jamal Crawford,1610612752,New York Knicks,4,8,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,82,143,1,1,20071130,NYK,MIL
+Shot Chart Detail,0020700226,439,2037,Jamal Crawford,1610612752,New York Knicks,4,4,37,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20071130,NYK,MIL
+Shot Chart Detail,0020700226,442,2037,Jamal Crawford,1610612752,New York Knicks,4,4,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-184,176,1,1,20071130,NYK,MIL
+Shot Chart Detail,0020700226,479,2037,Jamal Crawford,1610612752,New York Knicks,4,0,28,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,97,40,1,1,20071130,NYK,MIL
+Shot Chart Detail,0020700245,100,2037,Jamal Crawford,1610612752,New York Knicks,2,11,43,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-21,196,1,1,20071202,NYK,PHX
+Shot Chart Detail,0020700245,391,2037,Jamal Crawford,1610612752,New York Knicks,4,5,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,1,148,1,1,20071202,NYK,PHX
+Shot Chart Detail,0020700266,27,2037,Jamal Crawford,1610612752,New York Knicks,1,7,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-130,115,1,1,20071205,NJN,NYK
+Shot Chart Detail,0020700266,30,2037,Jamal Crawford,1610612752,New York Knicks,1,7,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,26,266,1,1,20071205,NJN,NYK
+Shot Chart Detail,0020700266,74,2037,Jamal Crawford,1610612752,New York Knicks,1,2,1,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-38,59,1,1,20071205,NJN,NYK
+Shot Chart Detail,0020700266,97,2037,Jamal Crawford,1610612752,New York Knicks,2,11,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,26,194,1,1,20071205,NJN,NYK
+Shot Chart Detail,0020700266,339,2037,Jamal Crawford,1610612752,New York Knicks,4,11,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-29,242,1,1,20071205,NJN,NYK
+Shot Chart Detail,0020700266,400,2037,Jamal Crawford,1610612752,New York Knicks,4,3,32,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-33,77,1,1,20071205,NJN,NYK
+Shot Chart Detail,0020700266,415,2037,Jamal Crawford,1610612752,New York Knicks,4,1,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-13,263,1,1,20071205,NJN,NYK
+Shot Chart Detail,0020700276,15,2037,Jamal Crawford,1610612752,New York Knicks,1,10,25,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20071207,PHI,NYK
+Shot Chart Detail,0020700276,82,2037,Jamal Crawford,1610612752,New York Knicks,1,2,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-159,215,1,1,20071207,PHI,NYK
+Shot Chart Detail,0020700276,101,2037,Jamal Crawford,1610612752,New York Knicks,1,0,0,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-143,92,1,1,20071207,PHI,NYK
+Shot Chart Detail,0020700276,187,2037,Jamal Crawford,1610612752,New York Knicks,2,3,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-122,79,1,1,20071207,PHI,NYK
+Shot Chart Detail,0020700276,284,2037,Jamal Crawford,1610612752,New York Knicks,3,6,17,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,151,72,1,1,20071207,PHI,NYK
+Shot Chart Detail,0020700276,355,2037,Jamal Crawford,1610612752,New York Knicks,4,11,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-138,204,1,1,20071207,PHI,NYK
+Shot Chart Detail,0020700276,377,2037,Jamal Crawford,1610612752,New York Knicks,4,8,19,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,16,92,1,1,20071207,PHI,NYK
+Shot Chart Detail,0020700276,389,2037,Jamal Crawford,1610612752,New York Knicks,4,7,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-10,214,1,1,20071207,PHI,NYK
+Shot Chart Detail,0020700276,394,2037,Jamal Crawford,1610612752,New York Knicks,4,6,24,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,15,89,1,1,20071207,PHI,NYK
+Shot Chart Detail,0020700276,396,2037,Jamal Crawford,1610612752,New York Knicks,4,5,38,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,34,128,1,1,20071207,PHI,NYK
+Shot Chart Detail,0020700276,425,2037,Jamal Crawford,1610612752,New York Knicks,4,2,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-146,248,1,1,20071207,PHI,NYK
+Shot Chart Detail,0020700289,125,2037,Jamal Crawford,1610612752,New York Knicks,2,9,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,23,184,1,1,20071208,NYK,PHI
+Shot Chart Detail,0020700289,401,2037,Jamal Crawford,1610612752,New York Knicks,4,8,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-159,97,1,1,20071208,NYK,PHI
+Shot Chart Detail,0020700289,439,2037,Jamal Crawford,1610612752,New York Knicks,4,4,31,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,80,59,1,1,20071208,NYK,PHI
+Shot Chart Detail,0020700303,26,2037,Jamal Crawford,1610612752,New York Knicks,1,8,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,23,-72,227,1,1,20071210,NYK,DAL
+Shot Chart Detail,0020700303,102,2037,Jamal Crawford,1610612752,New York Knicks,2,11,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20071210,NYK,DAL
+Shot Chart Detail,0020700303,192,2037,Jamal Crawford,1610612752,New York Knicks,2,3,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20071210,NYK,DAL
+Shot Chart Detail,0020700303,256,2037,Jamal Crawford,1610612752,New York Knicks,3,8,34,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,98,28,1,1,20071210,NYK,DAL
+Shot Chart Detail,0020700303,260,2037,Jamal Crawford,1610612752,New York Knicks,3,8,15,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,66,128,1,1,20071210,NYK,DAL
+Shot Chart Detail,0020700303,395,2037,Jamal Crawford,1610612752,New York Knicks,4,5,22,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,-1,1,1,20071210,NYK,DAL
+Shot Chart Detail,0020700319,26,2037,Jamal Crawford,1610612752,New York Knicks,1,9,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,113,219,1,1,20071212,NYK,SEA
+Shot Chart Detail,0020700319,41,2037,Jamal Crawford,1610612752,New York Knicks,1,6,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,90,240,1,1,20071212,NYK,SEA
+Shot Chart Detail,0020700319,243,2037,Jamal Crawford,1610612752,New York Knicks,2,0,2,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20071212,NYK,SEA
+Shot Chart Detail,0020700319,273,2037,Jamal Crawford,1610612752,New York Knicks,3,8,34,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,46,5,1,1,20071212,NYK,SEA
+Shot Chart Detail,0020700319,279,2037,Jamal Crawford,1610612752,New York Knicks,3,7,49,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20071212,NYK,SEA
+Shot Chart Detail,0020700319,320,2037,Jamal Crawford,1610612752,New York Knicks,3,3,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,135,210,1,1,20071212,NYK,SEA
+Shot Chart Detail,0020700319,379,2037,Jamal Crawford,1610612752,New York Knicks,4,9,48,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-133,-5,1,1,20071212,NYK,SEA
+Shot Chart Detail,0020700319,381,2037,Jamal Crawford,1610612752,New York Knicks,4,9,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20071212,NYK,SEA
+Shot Chart Detail,0020700319,393,2037,Jamal Crawford,1610612752,New York Knicks,4,7,39,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-62,43,1,1,20071212,NYK,SEA
+Shot Chart Detail,0020700319,450,2037,Jamal Crawford,1610612752,New York Knicks,4,1,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20071212,NYK,SEA
+Shot Chart Detail,0020700319,458,2037,Jamal Crawford,1610612752,New York Knicks,4,0,39,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20071212,NYK,SEA
+Shot Chart Detail,0020700335,40,2037,Jamal Crawford,1610612752,New York Knicks,1,7,29,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20071214,CHI,NYK
+Shot Chart Detail,0020700335,79,2037,Jamal Crawford,1610612752,New York Knicks,1,2,11,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20071214,CHI,NYK
+Shot Chart Detail,0020700335,154,2037,Jamal Crawford,1610612752,New York Knicks,2,6,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,113,166,1,1,20071214,CHI,NYK
+Shot Chart Detail,0020700335,158,2037,Jamal Crawford,1610612752,New York Knicks,2,5,47,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,1,63,1,1,20071214,CHI,NYK
+Shot Chart Detail,0020700335,160,2037,Jamal Crawford,1610612752,New York Knicks,2,5,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-205,0,1,1,20071214,CHI,NYK
+Shot Chart Detail,0020700335,291,2037,Jamal Crawford,1610612752,New York Knicks,3,3,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,57,252,1,1,20071214,CHI,NYK
+Shot Chart Detail,0020700335,434,2037,Jamal Crawford,1610612752,New York Knicks,4,2,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-13,247,1,1,20071214,CHI,NYK
+Shot Chart Detail,0020700342,27,2037,Jamal Crawford,1610612752,New York Knicks,1,8,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-145,45,1,1,20071215,NYK,NJN
+Shot Chart Detail,0020700342,120,2037,Jamal Crawford,1610612752,New York Knicks,2,10,29,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20071215,NYK,NJN
+Shot Chart Detail,0020700342,130,2037,Jamal Crawford,1610612752,New York Knicks,2,10,0,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,233,58,1,1,20071215,NYK,NJN
+Shot Chart Detail,0020700342,151,2037,Jamal Crawford,1610612752,New York Knicks,2,8,20,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-238,10,1,1,20071215,NYK,NJN
+Shot Chart Detail,0020700342,185,2037,Jamal Crawford,1610612752,New York Knicks,2,5,51,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20071215,NYK,NJN
+Shot Chart Detail,0020700342,315,2037,Jamal Crawford,1610612752,New York Knicks,3,2,50,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-238,17,1,1,20071215,NYK,NJN
+Shot Chart Detail,0020700342,334,2037,Jamal Crawford,1610612752,New York Knicks,3,0,24,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20071215,NYK,NJN
+Shot Chart Detail,0020700342,338,2037,Jamal Crawford,1610612752,New York Knicks,3,0,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,34,-6,342,1,1,20071215,NYK,NJN
+Shot Chart Detail,0020700342,347,2037,Jamal Crawford,1610612752,New York Knicks,4,11,0,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20071215,NYK,NJN
+Shot Chart Detail,0020700342,401,2037,Jamal Crawford,1610612752,New York Knicks,4,5,11,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,98,127,1,1,20071215,NYK,NJN
+Shot Chart Detail,0020700342,436,2037,Jamal Crawford,1610612752,New York Knicks,4,2,23,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,11,56,1,1,20071215,NYK,NJN
+Shot Chart Detail,0020700356,10,2037,Jamal Crawford,1610612752,New York Knicks,1,10,42,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,238,13,1,1,20071217,NYK,IND
+Shot Chart Detail,0020700356,48,2037,Jamal Crawford,1610612752,New York Knicks,1,5,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-95,191,1,1,20071217,NYK,IND
+Shot Chart Detail,0020700356,94,2037,Jamal Crawford,1610612752,New York Knicks,2,11,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,22,-18,225,1,1,20071217,NYK,IND
+Shot Chart Detail,0020700356,282,2037,Jamal Crawford,1610612752,New York Knicks,3,6,9,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-5,94,1,1,20071217,NYK,IND
+Shot Chart Detail,0020700370,9,2037,Jamal Crawford,1610612752,New York Knicks,1,10,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-136,199,1,1,20071219,NYK,CLE
+Shot Chart Detail,0020700370,85,2037,Jamal Crawford,1610612752,New York Knicks,1,0,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,95,166,1,1,20071219,NYK,CLE
+Shot Chart Detail,0020700370,136,2037,Jamal Crawford,1610612752,New York Knicks,2,6,55,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-174,30,1,1,20071219,NYK,CLE
+Shot Chart Detail,0020700370,183,2037,Jamal Crawford,1610612752,New York Knicks,2,2,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,75,209,1,1,20071219,NYK,CLE
+Shot Chart Detail,0020700370,229,2037,Jamal Crawford,1610612752,New York Knicks,3,11,15,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,-39,1,1,20071219,NYK,CLE
+Shot Chart Detail,0020700370,238,2037,Jamal Crawford,1610612752,New York Knicks,3,9,42,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,-28,1,1,20071219,NYK,CLE
+Shot Chart Detail,0020700370,247,2037,Jamal Crawford,1610612752,New York Knicks,3,8,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,153,110,1,1,20071219,NYK,CLE
+Shot Chart Detail,0020700384,27,2037,Jamal Crawford,1610612752,New York Knicks,1,8,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,153,215,1,1,20071221,CHA,NYK
+Shot Chart Detail,0020700384,36,2037,Jamal Crawford,1610612752,New York Knicks,1,7,11,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,75,40,1,1,20071221,CHA,NYK
+Shot Chart Detail,0020700384,39,2037,Jamal Crawford,1610612752,New York Knicks,1,6,51,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,22,1,1,20071221,CHA,NYK
+Shot Chart Detail,0020700384,299,2037,Jamal Crawford,1610612752,New York Knicks,3,3,47,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-46,51,1,1,20071221,CHA,NYK
+Shot Chart Detail,0020700384,392,2037,Jamal Crawford,1610612752,New York Knicks,4,6,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-179,26,1,1,20071221,CHA,NYK
+Shot Chart Detail,0020700384,404,2037,Jamal Crawford,1610612752,New York Knicks,4,4,53,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20071221,CHA,NYK
+Shot Chart Detail,0020700400,270,2037,Jamal Crawford,1610612752,New York Knicks,3,10,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-6,155,1,1,20071223,NYK,LAL
+Shot Chart Detail,0020700400,278,2037,Jamal Crawford,1610612752,New York Knicks,3,9,27,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,14,-79,117,1,1,20071223,NYK,LAL
+Shot Chart Detail,0020700400,327,2037,Jamal Crawford,1610612752,New York Knicks,3,4,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-169,191,1,1,20071223,NYK,LAL
+Shot Chart Detail,0020700400,336,2037,Jamal Crawford,1610612752,New York Knicks,3,4,22,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,6,105,1,1,20071223,NYK,LAL
+Shot Chart Detail,0020700400,343,2037,Jamal Crawford,1610612752,New York Knicks,3,3,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-187,161,1,1,20071223,NYK,LAL
+Shot Chart Detail,0020700400,362,2037,Jamal Crawford,1610612752,New York Knicks,3,2,24,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,84,183,1,1,20071223,NYK,LAL
+Shot Chart Detail,0020700400,383,2037,Jamal Crawford,1610612752,New York Knicks,3,0,0,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20071223,NYK,LAL
+Shot Chart Detail,0020700400,390,2037,Jamal Crawford,1610612752,New York Knicks,4,11,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,107,169,1,1,20071223,NYK,LAL
+Shot Chart Detail,0020700400,451,2037,Jamal Crawford,1610612752,New York Knicks,4,4,6,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,0,181,1,1,20071223,NYK,LAL
+Shot Chart Detail,0020700400,461,2037,Jamal Crawford,1610612752,New York Knicks,4,3,31,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,0,138,1,1,20071223,NYK,LAL
+Shot Chart Detail,0020700400,474,2037,Jamal Crawford,1610612752,New York Knicks,4,2,28,Made Shot,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-29,56,1,1,20071223,NYK,LAL
+Shot Chart Detail,0020700411,10,2037,Jamal Crawford,1610612752,New York Knicks,1,10,48,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-48,130,1,1,20071226,ORL,NYK
+Shot Chart Detail,0020700411,86,2037,Jamal Crawford,1610612752,New York Knicks,1,3,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-163,214,1,1,20071226,ORL,NYK
+Shot Chart Detail,0020700411,103,2037,Jamal Crawford,1610612752,New York Knicks,1,1,16,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20071226,ORL,NYK
+Shot Chart Detail,0020700411,269,2037,Jamal Crawford,1610612752,New York Knicks,3,7,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-51,206,1,1,20071226,ORL,NYK
+Shot Chart Detail,0020700411,309,2037,Jamal Crawford,1610612752,New York Knicks,3,3,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,107,164,1,1,20071226,ORL,NYK
+Shot Chart Detail,0020700411,365,2037,Jamal Crawford,1610612752,New York Knicks,3,0,35,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-8,82,1,1,20071226,ORL,NYK
+Shot Chart Detail,0020700411,398,2037,Jamal Crawford,1610612752,New York Knicks,4,9,12,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,62,45,1,1,20071226,ORL,NYK
+Shot Chart Detail,0020700411,434,2037,Jamal Crawford,1610612752,New York Knicks,4,5,12,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20071226,ORL,NYK
+Shot Chart Detail,0020700411,456,2037,Jamal Crawford,1610612752,New York Knicks,4,2,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,67,237,1,1,20071226,ORL,NYK
+Shot Chart Detail,0020700463,381,2037,Jamal Crawford,1610612752,New York Knicks,3,2,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-2,255,1,1,20080102,NYK,SAC
+Shot Chart Detail,0020700463,537,2037,Jamal Crawford,1610612752,New York Knicks,4,0,56,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-71,18,1,1,20080102,NYK,SAC
+Shot Chart Detail,0020700480,61,2037,Jamal Crawford,1610612752,New York Knicks,1,3,58,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,67,79,1,1,20080104,SAS,NYK
+Shot Chart Detail,0020700480,79,2037,Jamal Crawford,1610612752,New York Knicks,1,2,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,125,117,1,1,20080104,SAS,NYK
+Shot Chart Detail,0020700480,127,2037,Jamal Crawford,1610612752,New York Knicks,2,9,56,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,110,146,1,1,20080104,SAS,NYK
+Shot Chart Detail,0020700480,232,2037,Jamal Crawford,1610612752,New York Knicks,3,9,5,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-238,0,1,1,20080104,SAS,NYK
+Shot Chart Detail,0020700480,252,2037,Jamal Crawford,1610612752,New York Knicks,3,5,50,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-15,145,1,1,20080104,SAS,NYK
+Shot Chart Detail,0020700480,266,2037,Jamal Crawford,1610612752,New York Knicks,3,4,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-110,227,1,1,20080104,SAS,NYK
+Shot Chart Detail,0020700480,268,2037,Jamal Crawford,1610612752,New York Knicks,3,4,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-100,166,1,1,20080104,SAS,NYK
+Shot Chart Detail,0020700480,273,2037,Jamal Crawford,1610612752,New York Knicks,3,3,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-89,184,1,1,20080104,SAS,NYK
+Shot Chart Detail,0020700480,287,2037,Jamal Crawford,1610612752,New York Knicks,3,1,22,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,3,26,1,1,20080104,SAS,NYK
+Shot Chart Detail,0020700487,19,2037,Jamal Crawford,1610612752,New York Knicks,1,9,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-158,141,1,1,20080105,HOU,NYK
+Shot Chart Detail,0020700487,49,2037,Jamal Crawford,1610612752,New York Knicks,1,5,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,46,184,1,1,20080105,HOU,NYK
+Shot Chart Detail,0020700487,148,2037,Jamal Crawford,1610612752,New York Knicks,2,6,7,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-2,186,1,1,20080105,HOU,NYK
+Shot Chart Detail,0020700487,170,2037,Jamal Crawford,1610612752,New York Knicks,2,3,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-11,245,1,1,20080105,HOU,NYK
+Shot Chart Detail,0020700506,15,2037,Jamal Crawford,1610612752,New York Knicks,1,10,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-159,184,1,1,20080108,CHI,NYK
+Shot Chart Detail,0020700506,57,2037,Jamal Crawford,1610612752,New York Knicks,1,5,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,158,114,1,1,20080108,CHI,NYK
+Shot Chart Detail,0020700506,191,2037,Jamal Crawford,1610612752,New York Knicks,2,5,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080108,CHI,NYK
+Shot Chart Detail,0020700506,211,2037,Jamal Crawford,1610612752,New York Knicks,2,3,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-113,138,1,1,20080108,CHI,NYK
+Shot Chart Detail,0020700506,220,2037,Jamal Crawford,1610612752,New York Knicks,2,1,59,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,-6,1,1,20080108,CHI,NYK
+Shot Chart Detail,0020700506,231,2037,Jamal Crawford,1610612752,New York Knicks,2,1,4,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080108,CHI,NYK
+Shot Chart Detail,0020700506,240,2037,Jamal Crawford,1610612752,New York Knicks,2,0,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080108,CHI,NYK
+Shot Chart Detail,0020700506,299,2037,Jamal Crawford,1610612752,New York Knicks,3,4,53,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080108,CHI,NYK
+Shot Chart Detail,0020700506,402,2037,Jamal Crawford,1610612752,New York Knicks,4,7,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,222,109,1,1,20080108,CHI,NYK
+Shot Chart Detail,0020700506,446,2037,Jamal Crawford,1610612752,New York Knicks,4,2,29,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-133,10,1,1,20080108,CHI,NYK
+Shot Chart Detail,0020700513,77,2037,Jamal Crawford,1610612752,New York Knicks,1,2,38,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,6,49,1,1,20080109,NYK,HOU
+Shot Chart Detail,0020700513,187,2037,Jamal Crawford,1610612752,New York Knicks,2,2,16,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,238,-8,1,1,20080109,NYK,HOU
+Shot Chart Detail,0020700513,193,2037,Jamal Crawford,1610612752,New York Knicks,2,1,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,115,176,1,1,20080109,NYK,HOU
+Shot Chart Detail,0020700513,245,2037,Jamal Crawford,1610612752,New York Knicks,3,8,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,75,186,1,1,20080109,NYK,HOU
+Shot Chart Detail,0020700513,288,2037,Jamal Crawford,1610612752,New York Knicks,3,4,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-84,155,1,1,20080109,NYK,HOU
+Shot Chart Detail,0020700513,387,2037,Jamal Crawford,1610612752,New York Knicks,4,8,3,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-33,61,1,1,20080109,NYK,HOU
+Shot Chart Detail,0020700513,413,2037,Jamal Crawford,1610612752,New York Knicks,4,5,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-176,184,1,1,20080109,NYK,HOU
+Shot Chart Detail,0020700513,417,2037,Jamal Crawford,1610612752,New York Knicks,4,5,13,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,245,-8,1,1,20080109,NYK,HOU
+Shot Chart Detail,0020700513,425,2037,Jamal Crawford,1610612752,New York Knicks,4,4,29,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080109,NYK,HOU
+Shot Chart Detail,0020700525,52,2037,Jamal Crawford,1610612752,New York Knicks,1,6,58,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,12,67,102,1,1,20080111,NYK,TOR
+Shot Chart Detail,0020700525,76,2037,Jamal Crawford,1610612752,New York Knicks,1,4,37,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,110,127,1,1,20080111,NYK,TOR
+Shot Chart Detail,0020700525,115,2037,Jamal Crawford,1610612752,New York Knicks,2,11,17,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-33,74,1,1,20080111,NYK,TOR
+Shot Chart Detail,0020700525,175,2037,Jamal Crawford,1610612752,New York Knicks,2,5,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080111,NYK,TOR
+Shot Chart Detail,0020700525,201,2037,Jamal Crawford,1610612752,New York Knicks,2,3,3,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,7,1,1,20080111,NYK,TOR
+Shot Chart Detail,0020700525,224,2037,Jamal Crawford,1610612752,New York Knicks,2,0,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,215,130,1,1,20080111,NYK,TOR
+Shot Chart Detail,0020700525,283,2037,Jamal Crawford,1610612752,New York Knicks,3,6,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,89,158,1,1,20080111,NYK,TOR
+Shot Chart Detail,0020700525,397,2037,Jamal Crawford,1610612752,New York Knicks,4,5,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-90,127,1,1,20080111,NYK,TOR
+Shot Chart Detail,0020700525,416,2037,Jamal Crawford,1610612752,New York Knicks,4,3,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-143,105,1,1,20080111,NYK,TOR
+Shot Chart Detail,0020700544,232,2037,Jamal Crawford,1610612752,New York Knicks,3,7,42,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,-9,1,1,20080113,NYK,DET
+Shot Chart Detail,0020700544,236,2037,Jamal Crawford,1610612752,New York Knicks,3,6,53,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,238,13,1,1,20080113,NYK,DET
+Shot Chart Detail,0020700544,241,2037,Jamal Crawford,1610612752,New York Knicks,3,6,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-179,176,1,1,20080113,NYK,DET
+Shot Chart Detail,0020700544,266,2037,Jamal Crawford,1610612752,New York Knicks,3,3,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080113,NYK,DET
+Shot Chart Detail,0020700556,3,2037,Jamal Crawford,1610612752,New York Knicks,1,11,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-122,238,1,1,20080115,NYK,WAS
+Shot Chart Detail,0020700556,55,2037,Jamal Crawford,1610612752,New York Knicks,1,4,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,92,235,1,1,20080115,NYK,WAS
+Shot Chart Detail,0020700556,202,2037,Jamal Crawford,1610612752,New York Knicks,2,2,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-154,94,1,1,20080115,NYK,WAS
+Shot Chart Detail,0020700556,220,2037,Jamal Crawford,1610612752,New York Knicks,2,0,13,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,3,49,1,1,20080115,NYK,WAS
+Shot Chart Detail,0020700556,245,2037,Jamal Crawford,1610612752,New York Knicks,3,8,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,20,255,1,1,20080115,NYK,WAS
+Shot Chart Detail,0020700556,286,2037,Jamal Crawford,1610612752,New York Knicks,3,3,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-49,283,1,1,20080115,NYK,WAS
+Shot Chart Detail,0020700556,296,2037,Jamal Crawford,1610612752,New York Knicks,3,1,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080115,NYK,WAS
+Shot Chart Detail,0020700556,309,2037,Jamal Crawford,1610612752,New York Knicks,3,1,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-113,153,1,1,20080115,NYK,WAS
+Shot Chart Detail,0020700556,346,2037,Jamal Crawford,1610612752,New York Knicks,4,9,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-138,214,1,1,20080115,NYK,WAS
+Shot Chart Detail,0020700556,348,2037,Jamal Crawford,1610612752,New York Knicks,4,8,52,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,225,71,1,1,20080115,NYK,WAS
+Shot Chart Detail,0020700556,416,2037,Jamal Crawford,1610612752,New York Knicks,4,4,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,163,115,1,1,20080115,NYK,WAS
+Shot Chart Detail,0020700567,18,2037,Jamal Crawford,1610612752,New York Knicks,1,9,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,167,196,1,1,20080116,NJN,NYK
+Shot Chart Detail,0020700567,84,2037,Jamal Crawford,1610612752,New York Knicks,1,1,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,189,160,1,1,20080116,NJN,NYK
+Shot Chart Detail,0020700567,180,2037,Jamal Crawford,1610612752,New York Knicks,2,3,59,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-61,178,1,1,20080116,NJN,NYK
+Shot Chart Detail,0020700567,198,2037,Jamal Crawford,1610612752,New York Knicks,2,1,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-99,222,1,1,20080116,NJN,NYK
+Shot Chart Detail,0020700567,200,2037,Jamal Crawford,1610612752,New York Knicks,2,1,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-49,192,1,1,20080116,NJN,NYK
+Shot Chart Detail,0020700567,267,2037,Jamal Crawford,1610612752,New York Knicks,3,7,4,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080116,NJN,NYK
+Shot Chart Detail,0020700567,272,2037,Jamal Crawford,1610612752,New York Knicks,3,6,20,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,222,0,1,1,20080116,NJN,NYK
+Shot Chart Detail,0020700567,332,2037,Jamal Crawford,1610612752,New York Knicks,3,0,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-171,199,1,1,20080116,NJN,NYK
+Shot Chart Detail,0020700567,390,2037,Jamal Crawford,1610612752,New York Knicks,4,7,22,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-23,138,1,1,20080116,NJN,NYK
+Shot Chart Detail,0020700567,472,2037,Jamal Crawford,1610612752,New York Knicks,4,1,19,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-75,176,1,1,20080116,NJN,NYK
+Shot Chart Detail,0020700567,476,2037,Jamal Crawford,1610612752,New York Knicks,4,0,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,113,212,1,1,20080116,NJN,NYK
+Shot Chart Detail,0020700574,32,2037,Jamal Crawford,1610612752,New York Knicks,1,7,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-148,109,1,1,20080118,WAS,NYK
+Shot Chart Detail,0020700574,37,2037,Jamal Crawford,1610612752,New York Knicks,1,6,43,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-95,35,1,1,20080118,WAS,NYK
+Shot Chart Detail,0020700574,94,2037,Jamal Crawford,1610612752,New York Knicks,1,0,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,97,89,1,1,20080118,WAS,NYK
+Shot Chart Detail,0020700574,166,2037,Jamal Crawford,1610612752,New York Knicks,2,5,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-77,238,1,1,20080118,WAS,NYK
+Shot Chart Detail,0020700574,243,2037,Jamal Crawford,1610612752,New York Knicks,3,10,38,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-133,49,1,1,20080118,WAS,NYK
+Shot Chart Detail,0020700574,246,2037,Jamal Crawford,1610612752,New York Knicks,3,10,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-128,92,1,1,20080118,WAS,NYK
+Shot Chart Detail,0020700574,276,2037,Jamal Crawford,1610612752,New York Knicks,3,5,29,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-80,148,1,1,20080118,WAS,NYK
+Shot Chart Detail,0020700574,421,2037,Jamal Crawford,1610612752,New York Knicks,4,4,14,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,-1,1,1,20080118,WAS,NYK
+Shot Chart Detail,0020700587,66,2037,Jamal Crawford,1610612752,New York Knicks,1,5,21,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,10,105,1,1,20080119,MIA,NYK
+Shot Chart Detail,0020700587,244,2037,Jamal Crawford,1610612752,New York Knicks,2,1,35,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080119,MIA,NYK
+Shot Chart Detail,0020700587,252,2037,Jamal Crawford,1610612752,New York Knicks,2,0,30,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,59,132,1,1,20080119,MIA,NYK
+Shot Chart Detail,0020700587,274,2037,Jamal Crawford,1610612752,New York Knicks,3,11,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,85,132,1,1,20080119,MIA,NYK
+Shot Chart Detail,0020700587,314,2037,Jamal Crawford,1610612752,New York Knicks,3,6,8,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080119,MIA,NYK
+Shot Chart Detail,0020700587,355,2037,Jamal Crawford,1610612752,New York Knicks,3,2,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-140,158,1,1,20080119,MIA,NYK
+Shot Chart Detail,0020700587,441,2037,Jamal Crawford,1610612752,New York Knicks,4,4,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-164,184,1,1,20080119,MIA,NYK
+Shot Chart Detail,0020700595,7,2037,Jamal Crawford,1610612752,New York Knicks,1,11,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,128,125,1,1,20080121,NYK,BOS
+Shot Chart Detail,0020700595,25,2037,Jamal Crawford,1610612752,New York Knicks,1,9,7,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-46,191,1,1,20080121,NYK,BOS
+Shot Chart Detail,0020700595,86,2037,Jamal Crawford,1610612752,New York Knicks,1,1,52,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,39,76,1,1,20080121,NYK,BOS
+Shot Chart Detail,0020700595,102,2037,Jamal Crawford,1610612752,New York Knicks,1,0,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080121,NYK,BOS
+Shot Chart Detail,0020700595,184,2037,Jamal Crawford,1610612752,New York Knicks,2,4,59,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,92,92,1,1,20080121,NYK,BOS
+Shot Chart Detail,0020700595,240,2037,Jamal Crawford,1610612752,New York Knicks,3,11,14,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,10,112,1,1,20080121,NYK,BOS
+Shot Chart Detail,0020700595,395,2037,Jamal Crawford,1610612752,New York Knicks,4,9,7,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,-26,1,1,20080121,NYK,BOS
+Shot Chart Detail,0020700595,455,2037,Jamal Crawford,1610612752,New York Knicks,4,2,37,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,110,86,1,1,20080121,NYK,BOS
+Shot Chart Detail,0020700629,80,2037,Jamal Crawford,1610612752,New York Knicks,1,2,54,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,-5,1,1,20080125,NYK,PHI
+Shot Chart Detail,0020700629,106,2037,Jamal Crawford,1610612752,New York Knicks,1,0,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,195,168,1,1,20080125,NYK,PHI
+Shot Chart Detail,0020700629,318,2037,Jamal Crawford,1610612752,New York Knicks,3,3,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,41,178,1,1,20080125,NYK,PHI
+Shot Chart Detail,0020700629,334,2037,Jamal Crawford,1610612752,New York Knicks,3,2,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-202,148,1,1,20080125,NYK,PHI
+Shot Chart Detail,0020700629,424,2037,Jamal Crawford,1610612752,New York Knicks,4,3,11,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080125,NYK,PHI
+Shot Chart Detail,0020700629,449,2037,Jamal Crawford,1610612752,New York Knicks,4,0,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-89,187,1,1,20080125,NYK,PHI
+Shot Chart Detail,0020700650,50,2037,Jamal Crawford,1610612752,New York Knicks,1,7,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-2,214,1,1,20080127,GSW,NYK
+Shot Chart Detail,0020700650,63,2037,Jamal Crawford,1610612752,New York Knicks,1,6,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080127,GSW,NYK
+Shot Chart Detail,0020700650,194,2037,Jamal Crawford,1610612752,New York Knicks,2,6,35,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,15,36,1,1,20080127,GSW,NYK
+Shot Chart Detail,0020700650,253,2037,Jamal Crawford,1610612752,New York Knicks,2,1,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080127,GSW,NYK
+Shot Chart Detail,0020700650,248,2037,Jamal Crawford,1610612752,New York Knicks,2,0,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,3,7,1,1,20080127,GSW,NYK
+Shot Chart Detail,0020700650,305,2037,Jamal Crawford,1610612752,New York Knicks,3,5,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-172,-3,1,1,20080127,GSW,NYK
+Shot Chart Detail,0020700650,340,2037,Jamal Crawford,1610612752,New York Knicks,3,2,45,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-8,56,1,1,20080127,GSW,NYK
+Shot Chart Detail,0020700650,399,2037,Jamal Crawford,1610612752,New York Knicks,4,10,1,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-33,58,1,1,20080127,GSW,NYK
+Shot Chart Detail,0020700650,418,2037,Jamal Crawford,1610612752,New York Knicks,4,8,35,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-133,-8,1,1,20080127,GSW,NYK
+Shot Chart Detail,0020700664,63,2037,Jamal Crawford,1610612752,New York Knicks,1,4,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-140,197,1,1,20080129,LAL,NYK
+Shot Chart Detail,0020700664,79,2037,Jamal Crawford,1610612752,New York Knicks,1,2,58,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080129,LAL,NYK
+Shot Chart Detail,0020700664,177,2037,Jamal Crawford,1610612752,New York Knicks,2,6,15,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,69,61,1,1,20080129,LAL,NYK
+Shot Chart Detail,0020700664,212,2037,Jamal Crawford,1610612752,New York Knicks,2,3,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-143,58,1,1,20080129,LAL,NYK
+Shot Chart Detail,0020700664,267,2037,Jamal Crawford,1610612752,New York Knicks,3,10,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-133,81,1,1,20080129,LAL,NYK
+Shot Chart Detail,0020700664,291,2037,Jamal Crawford,1610612752,New York Knicks,3,7,54,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-222,2,1,1,20080129,LAL,NYK
+Shot Chart Detail,0020700664,338,2037,Jamal Crawford,1610612752,New York Knicks,3,3,30,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,2,1,1,20080129,LAL,NYK
+Shot Chart Detail,0020700664,385,2037,Jamal Crawford,1610612752,New York Knicks,4,11,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-11,197,1,1,20080129,LAL,NYK
+Shot Chart Detail,0020700671,56,2037,Jamal Crawford,1610612752,New York Knicks,1,4,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,140,141,1,1,20080130,UTA,NYK
+Shot Chart Detail,0020700671,141,2037,Jamal Crawford,1610612752,New York Knicks,2,6,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,130,133,1,1,20080130,UTA,NYK
+Shot Chart Detail,0020700671,152,2037,Jamal Crawford,1610612752,New York Knicks,2,4,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-61,194,1,1,20080130,UTA,NYK
+Shot Chart Detail,0020700671,192,2037,Jamal Crawford,1610612752,New York Knicks,2,0,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-125,161,1,1,20080130,UTA,NYK
+Shot Chart Detail,0020700671,203,2037,Jamal Crawford,1610612752,New York Knicks,3,11,9,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-228,74,1,1,20080130,UTA,NYK
+Shot Chart Detail,0020700671,250,2037,Jamal Crawford,1610612752,New York Knicks,3,5,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,169,171,1,1,20080130,UTA,NYK
+Shot Chart Detail,0020700671,263,2037,Jamal Crawford,1610612752,New York Knicks,3,3,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,176,174,1,1,20080130,UTA,NYK
+Shot Chart Detail,0020700671,292,2037,Jamal Crawford,1610612752,New York Knicks,3,0,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,49,163,1,1,20080130,UTA,NYK
+Shot Chart Detail,0020700687,50,2037,Jamal Crawford,1610612752,New York Knicks,1,5,18,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-149,102,1,1,20080201,POR,NYK
+Shot Chart Detail,0020700687,143,2037,Jamal Crawford,1610612752,New York Knicks,2,7,44,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080201,POR,NYK
+Shot Chart Detail,0020700687,180,2037,Jamal Crawford,1610612752,New York Knicks,2,3,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-18,201,1,1,20080201,POR,NYK
+Shot Chart Detail,0020700687,194,2037,Jamal Crawford,1610612752,New York Knicks,2,1,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,141,197,1,1,20080201,POR,NYK
+Shot Chart Detail,0020700687,240,2037,Jamal Crawford,1610612752,New York Knicks,3,7,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,23,-169,158,1,1,20080201,POR,NYK
+Shot Chart Detail,0020700687,245,2037,Jamal Crawford,1610612752,New York Knicks,3,6,28,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,13,69,115,1,1,20080201,POR,NYK
+Shot Chart Detail,0020700695,124,2037,Jamal Crawford,1610612752,New York Knicks,2,10,28,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-123,125,1,1,20080202,SEA,NYK
+Shot Chart Detail,0020700695,131,2037,Jamal Crawford,1610612752,New York Knicks,2,9,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-131,123,1,1,20080202,SEA,NYK
+Shot Chart Detail,0020700695,172,2037,Jamal Crawford,1610612752,New York Knicks,2,6,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,6,179,1,1,20080202,SEA,NYK
+Shot Chart Detail,0020700695,203,2037,Jamal Crawford,1610612752,New York Knicks,2,3,58,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,22,1,1,20080202,SEA,NYK
+Shot Chart Detail,0020700695,206,2037,Jamal Crawford,1610612752,New York Knicks,2,3,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-61,189,1,1,20080202,SEA,NYK
+Shot Chart Detail,0020700695,285,2037,Jamal Crawford,1610612752,New York Knicks,3,8,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-146,212,1,1,20080202,SEA,NYK
+Shot Chart Detail,0020700695,318,2037,Jamal Crawford,1610612752,New York Knicks,3,4,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-6,186,1,1,20080202,SEA,NYK
+Shot Chart Detail,0020700695,352,2037,Jamal Crawford,1610612752,New York Knicks,3,1,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,167,30,1,1,20080202,SEA,NYK
+Shot Chart Detail,0020700695,505,2037,Jamal Crawford,1610612752,New York Knicks,4,0,44,Made Shot,Running Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-29,26,1,1,20080202,SEA,NYK
+Shot Chart Detail,0020700700,300,2037,Jamal Crawford,1610612752,New York Knicks,3,0,41,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080204,NYK,LAC
+Shot Chart Detail,0020700700,333,2037,Jamal Crawford,1610612752,New York Knicks,4,10,36,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,235,53,1,1,20080204,NYK,LAC
+Shot Chart Detail,0020700700,335,2037,Jamal Crawford,1610612752,New York Knicks,4,9,47,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-39,68,1,1,20080204,NYK,LAC
+Shot Chart Detail,0020700700,388,2037,Jamal Crawford,1610612752,New York Knicks,4,5,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,112,171,1,1,20080204,NYK,LAC
+Shot Chart Detail,0020700700,393,2037,Jamal Crawford,1610612752,New York Knicks,4,4,40,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080204,NYK,LAC
+Shot Chart Detail,0020700700,401,2037,Jamal Crawford,1610612752,New York Knicks,4,3,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,115,174,1,1,20080204,NYK,LAC
+Shot Chart Detail,0020700700,432,2037,Jamal Crawford,1610612752,New York Knicks,4,0,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,130,222,1,1,20080204,NYK,LAC
+Shot Chart Detail,0020700716,255,2037,Jamal Crawford,1610612752,New York Knicks,3,10,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-110,160,1,1,20080206,NYK,IND
+Shot Chart Detail,0020700716,261,2037,Jamal Crawford,1610612752,New York Knicks,3,9,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-171,184,1,1,20080206,NYK,IND
+Shot Chart Detail,0020700716,288,2037,Jamal Crawford,1610612752,New York Knicks,3,6,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,144,209,1,1,20080206,NYK,IND
+Shot Chart Detail,0020700716,369,2037,Jamal Crawford,1610612752,New York Knicks,4,11,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-159,-8,1,1,20080206,NYK,IND
+Shot Chart Detail,0020700716,379,2037,Jamal Crawford,1610612752,New York Knicks,4,10,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-120,243,1,1,20080206,NYK,IND
+Shot Chart Detail,0020700729,64,2037,Jamal Crawford,1610612752,New York Knicks,1,4,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,23,57,225,1,1,20080208,NYK,SAS
+Shot Chart Detail,0020700729,108,2037,Jamal Crawford,1610612752,New York Knicks,2,11,8,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080208,NYK,SAS
+Shot Chart Detail,0020700729,300,2037,Jamal Crawford,1610612752,New York Knicks,3,3,1,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-74,140,1,1,20080208,NYK,SAS
+Shot Chart Detail,0020700729,354,2037,Jamal Crawford,1610612752,New York Knicks,4,9,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,100,230,1,1,20080208,NYK,SAS
+Shot Chart Detail,0020700729,356,2037,Jamal Crawford,1610612752,New York Knicks,4,9,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-23,243,1,1,20080208,NYK,SAS
+Shot Chart Detail,0020700729,390,2037,Jamal Crawford,1610612752,New York Knicks,4,5,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-103,220,1,1,20080208,NYK,SAS
+Shot Chart Detail,0020700729,500,2037,Jamal Crawford,1610612752,New York Knicks,5,0,29,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,56,100,1,1,20080208,NYK,SAS
+Shot Chart Detail,0020700729,513,2037,Jamal Crawford,1610612752,New York Knicks,5,0,18,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,-18,1,1,20080208,NYK,SAS
+Shot Chart Detail,0020700740,75,2037,Jamal Crawford,1610612752,New York Knicks,1,3,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,61,141,1,1,20080209,MIL,NYK
+Shot Chart Detail,0020700740,78,2037,Jamal Crawford,1610612752,New York Knicks,1,2,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-82,151,1,1,20080209,MIL,NYK
+Shot Chart Detail,0020700740,105,2037,Jamal Crawford,1610612752,New York Knicks,1,0,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,167,204,1,1,20080209,MIL,NYK
+Shot Chart Detail,0020700740,108,2037,Jamal Crawford,1610612752,New York Knicks,1,0,28,Made Shot,Running Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080209,MIL,NYK
+Shot Chart Detail,0020700740,119,2037,Jamal Crawford,1610612752,New York Knicks,2,11,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080209,MIL,NYK
+Shot Chart Detail,0020700740,204,2037,Jamal Crawford,1610612752,New York Knicks,2,2,45,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-128,59,1,1,20080209,MIL,NYK
+Shot Chart Detail,0020700740,363,2037,Jamal Crawford,1610612752,New York Knicks,3,0,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-82,118,1,1,20080209,MIL,NYK
+Shot Chart Detail,0020700740,391,2037,Jamal Crawford,1610612752,New York Knicks,4,10,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,74,173,1,1,20080209,MIL,NYK
+Shot Chart Detail,0020700740,397,2037,Jamal Crawford,1610612752,New York Knicks,4,10,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,74,146,1,1,20080209,MIL,NYK
+Shot Chart Detail,0020700740,402,2037,Jamal Crawford,1610612752,New York Knicks,4,8,36,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,15,-80,135,1,1,20080209,MIL,NYK
+Shot Chart Detail,0020700740,445,2037,Jamal Crawford,1610612752,New York Knicks,4,3,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,149,199,1,1,20080209,MIL,NYK
+Shot Chart Detail,0020700769,30,2037,Jamal Crawford,1610612752,New York Knicks,1,8,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-177,2,1,1,20080213,BOS,NYK
+Shot Chart Detail,0020700769,112,2037,Jamal Crawford,1610612752,New York Knicks,1,0,13,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,-1,1,1,20080213,BOS,NYK
+Shot Chart Detail,0020700769,202,2037,Jamal Crawford,1610612752,New York Knicks,2,2,12,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,6,28,1,1,20080213,BOS,NYK
+Shot Chart Detail,0020700769,204,2037,Jamal Crawford,1610612752,New York Knicks,2,1,31,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-13,127,1,1,20080213,BOS,NYK
+Shot Chart Detail,0020700769,209,2037,Jamal Crawford,1610612752,New York Knicks,2,0,29,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,0,1,1,20080213,BOS,NYK
+Shot Chart Detail,0020700769,338,2037,Jamal Crawford,1610612752,New York Knicks,3,0,1,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-13,217,1,1,20080213,BOS,NYK
+Shot Chart Detail,0020700769,345,2037,Jamal Crawford,1610612752,New York Knicks,4,11,38,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,144,82,1,1,20080213,BOS,NYK
+Shot Chart Detail,0020700769,483,2037,Jamal Crawford,1610612752,New York Knicks,4,1,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-66,176,1,1,20080213,BOS,NYK
+Shot Chart Detail,0020700780,197,2037,Jamal Crawford,1610612752,New York Knicks,2,1,41,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,115,118,1,1,20080219,WAS,NYK
+Shot Chart Detail,0020700780,233,2037,Jamal Crawford,1610612752,New York Knicks,3,10,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,187,168,1,1,20080219,WAS,NYK
+Shot Chart Detail,0020700780,277,2037,Jamal Crawford,1610612752,New York Knicks,3,4,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-199,171,1,1,20080219,WAS,NYK
+Shot Chart Detail,0020700780,326,2037,Jamal Crawford,1610612752,New York Knicks,3,0,1,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,12,1,1,20080219,WAS,NYK
+Shot Chart Detail,0020700780,373,2037,Jamal Crawford,1610612752,New York Knicks,4,7,8,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,31,86,1,1,20080219,WAS,NYK
+Shot Chart Detail,0020700780,498,2037,Jamal Crawford,1610612752,New York Knicks,5,1,23,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,-24,1,1,20080219,WAS,NYK
+Shot Chart Detail,0020700791,48,2037,Jamal Crawford,1610612752,New York Knicks,1,5,57,Made Shot,Fadeaway Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,67,8,1,1,20080220,PHI,NYK
+Shot Chart Detail,0020700791,128,2037,Jamal Crawford,1610612752,New York Knicks,2,9,13,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,6,145,1,1,20080220,PHI,NYK
+Shot Chart Detail,0020700791,217,2037,Jamal Crawford,1610612752,New York Knicks,2,0,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,154,187,1,1,20080220,PHI,NYK
+Shot Chart Detail,0020700791,264,2037,Jamal Crawford,1610612752,New York Knicks,3,7,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-94,230,1,1,20080220,PHI,NYK
+Shot Chart Detail,0020700791,371,2037,Jamal Crawford,1610612752,New York Knicks,4,8,23,Made Shot,Running Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,21,31,1,1,20080220,PHI,NYK
+Shot Chart Detail,0020700791,375,2037,Jamal Crawford,1610612752,New York Knicks,4,7,23,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080220,PHI,NYK
+Shot Chart Detail,0020700806,22,2037,Jamal Crawford,1610612752,New York Knicks,1,9,21,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-117,107,1,1,20080222,NYK,TOR
+Shot Chart Detail,0020700806,30,2037,Jamal Crawford,1610612752,New York Knicks,1,8,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-94,89,1,1,20080222,NYK,TOR
+Shot Chart Detail,0020700806,162,2037,Jamal Crawford,1610612752,New York Knicks,2,8,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-105,171,1,1,20080222,NYK,TOR
+Shot Chart Detail,0020700806,164,2037,Jamal Crawford,1610612752,New York Knicks,2,7,36,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,95,130,1,1,20080222,NYK,TOR
+Shot Chart Detail,0020700806,168,2037,Jamal Crawford,1610612752,New York Knicks,2,7,13,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080222,NYK,TOR
+Shot Chart Detail,0020700806,173,2037,Jamal Crawford,1610612752,New York Knicks,2,6,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-72,191,1,1,20080222,NYK,TOR
+Shot Chart Detail,0020700806,190,2037,Jamal Crawford,1610612752,New York Knicks,2,5,16,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,232,63,1,1,20080222,NYK,TOR
+Shot Chart Detail,0020700806,205,2037,Jamal Crawford,1610612752,New York Knicks,2,3,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,164,186,1,1,20080222,NYK,TOR
+Shot Chart Detail,0020700806,242,2037,Jamal Crawford,1610612752,New York Knicks,2,0,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,197,143,1,1,20080222,NYK,TOR
+Shot Chart Detail,0020700806,260,2037,Jamal Crawford,1610612752,New York Knicks,3,10,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-154,202,1,1,20080222,NYK,TOR
+Shot Chart Detail,0020700806,307,2037,Jamal Crawford,1610612752,New York Knicks,3,5,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-158,20,1,1,20080222,NYK,TOR
+Shot Chart Detail,0020700806,338,2037,Jamal Crawford,1610612752,New York Knicks,3,2,48,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,-8,1,1,20080222,NYK,TOR
+Shot Chart Detail,0020700806,364,2037,Jamal Crawford,1610612752,New York Knicks,3,0,0,Made Shot,Running Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080222,NYK,TOR
+Shot Chart Detail,0020700806,414,2037,Jamal Crawford,1610612752,New York Knicks,4,8,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,98,125,1,1,20080222,NYK,TOR
+Shot Chart Detail,0020700806,448,2037,Jamal Crawford,1610612752,New York Knicks,4,3,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-218,125,1,1,20080222,NYK,TOR
+Shot Chart Detail,0020700824,13,2037,Jamal Crawford,1610612752,New York Knicks,1,10,19,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,41,56,1,1,20080224,TOR,NYK
+Shot Chart Detail,0020700824,25,2037,Jamal Crawford,1610612752,New York Knicks,1,8,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-164,196,1,1,20080224,TOR,NYK
+Shot Chart Detail,0020700824,112,2037,Jamal Crawford,1610612752,New York Knicks,2,10,54,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,21,92,1,1,20080224,TOR,NYK
+Shot Chart Detail,0020700824,149,2037,Jamal Crawford,1610612752,New York Knicks,2,8,11,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,64,26,1,1,20080224,TOR,NYK
+Shot Chart Detail,0020700824,160,2037,Jamal Crawford,1610612752,New York Knicks,2,7,10,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,138,66,1,1,20080224,TOR,NYK
+Shot Chart Detail,0020700824,167,2037,Jamal Crawford,1610612752,New York Knicks,2,6,40,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,241,-1,1,1,20080224,TOR,NYK
+Shot Chart Detail,0020700824,251,2037,Jamal Crawford,1610612752,New York Knicks,3,10,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-186,164,1,1,20080224,TOR,NYK
+Shot Chart Detail,0020700824,274,2037,Jamal Crawford,1610612752,New York Knicks,3,7,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-117,217,1,1,20080224,TOR,NYK
+Shot Chart Detail,0020700850,24,2037,Jamal Crawford,1610612752,New York Knicks,1,9,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080227,NYK,CHA
+Shot Chart Detail,0020700850,160,2037,Jamal Crawford,1610612752,New York Knicks,2,6,39,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,240,-26,1,1,20080227,NYK,CHA
+Shot Chart Detail,0020700850,163,2037,Jamal Crawford,1610612752,New York Knicks,2,6,16,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080227,NYK,CHA
+Shot Chart Detail,0020700850,171,2037,Jamal Crawford,1610612752,New York Knicks,2,5,11,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-67,46,1,1,20080227,NYK,CHA
+Shot Chart Detail,0020700850,190,2037,Jamal Crawford,1610612752,New York Knicks,2,3,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-169,183,1,1,20080227,NYK,CHA
+Shot Chart Detail,0020700850,231,2037,Jamal Crawford,1610612752,New York Knicks,2,0,48,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-36,36,1,1,20080227,NYK,CHA
+Shot Chart Detail,0020700850,263,2037,Jamal Crawford,1610612752,New York Knicks,3,9,42,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080227,NYK,CHA
+Shot Chart Detail,0020700860,60,2037,Jamal Crawford,1610612752,New York Knicks,1,4,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-117,161,1,1,20080229,ATL,NYK
+Shot Chart Detail,0020700860,86,2037,Jamal Crawford,1610612752,New York Knicks,1,1,42,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,25,248,53,1,1,20080229,ATL,NYK
+Shot Chart Detail,0020700860,106,2037,Jamal Crawford,1610612752,New York Knicks,2,11,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-209,194,1,1,20080229,ATL,NYK
+Shot Chart Detail,0020700860,221,2037,Jamal Crawford,1610612752,New York Knicks,2,0,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,11,164,1,1,20080229,ATL,NYK
+Shot Chart Detail,0020700860,228,2037,Jamal Crawford,1610612752,New York Knicks,2,0,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,131,156,1,1,20080229,ATL,NYK
+Shot Chart Detail,0020700860,276,2037,Jamal Crawford,1610612752,New York Knicks,3,7,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,11,171,1,1,20080229,ATL,NYK
+Shot Chart Detail,0020700860,317,2037,Jamal Crawford,1610612752,New York Knicks,3,2,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,102,143,1,1,20080229,ATL,NYK
+Shot Chart Detail,0020700870,14,2037,Jamal Crawford,1610612752,New York Knicks,1,10,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-161,105,1,1,20080301,ORL,NYK
+Shot Chart Detail,0020700870,25,2037,Jamal Crawford,1610612752,New York Knicks,1,8,48,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,11,89,1,1,20080301,ORL,NYK
+Shot Chart Detail,0020700870,40,2037,Jamal Crawford,1610612752,New York Knicks,1,6,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,1,271,1,1,20080301,ORL,NYK
+Shot Chart Detail,0020700870,50,2037,Jamal Crawford,1610612752,New York Knicks,1,5,11,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,13,69,114,1,1,20080301,ORL,NYK
+Shot Chart Detail,0020700870,60,2037,Jamal Crawford,1610612752,New York Knicks,1,3,58,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-102,118,1,1,20080301,ORL,NYK
+Shot Chart Detail,0020700870,106,2037,Jamal Crawford,1610612752,New York Knicks,2,11,36,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,0,1,1,20080301,ORL,NYK
+Shot Chart Detail,0020700870,321,2037,Jamal Crawford,1610612752,New York Knicks,3,5,29,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-51,91,1,1,20080301,ORL,NYK
+Shot Chart Detail,0020700870,330,2037,Jamal Crawford,1610612752,New York Knicks,3,4,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080301,ORL,NYK
+Shot Chart Detail,0020700886,51,2037,Jamal Crawford,1610612752,New York Knicks,1,5,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-107,145,1,1,20080303,NYK,NOH
+Shot Chart Detail,0020700886,86,2037,Jamal Crawford,1610612752,New York Knicks,1,2,14,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,3,1,1,20080303,NYK,NOH
+Shot Chart Detail,0020700886,256,2037,Jamal Crawford,1610612752,New York Knicks,3,8,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,112,220,1,1,20080303,NYK,NOH
+Shot Chart Detail,0020700886,269,2037,Jamal Crawford,1610612752,New York Knicks,3,6,38,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080303,NYK,NOH
+Shot Chart Detail,0020700886,367,2037,Jamal Crawford,1610612752,New York Knicks,4,11,26,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080303,NYK,NOH
+Shot Chart Detail,0020700886,403,2037,Jamal Crawford,1610612752,New York Knicks,4,7,7,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080303,NYK,NOH
+Shot Chart Detail,0020700886,440,2037,Jamal Crawford,1610612752,New York Knicks,4,4,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-128,127,1,1,20080303,NYK,NOH
+Shot Chart Detail,0020700900,5,2037,Jamal Crawford,1610612752,New York Knicks,1,11,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-15,252,1,1,20080305,NYK,CLE
+Shot Chart Detail,0020700900,194,2037,Jamal Crawford,1610612752,New York Knicks,2,4,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,102,233,1,1,20080305,NYK,CLE
+Shot Chart Detail,0020700900,209,2037,Jamal Crawford,1610612752,New York Knicks,2,2,49,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080305,NYK,CLE
+Shot Chart Detail,0020700900,230,2037,Jamal Crawford,1610612752,New York Knicks,2,0,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,13,215,1,1,20080305,NYK,CLE
+Shot Chart Detail,0020700900,305,2037,Jamal Crawford,1610612752,New York Knicks,3,5,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-41,275,1,1,20080305,NYK,CLE
+Shot Chart Detail,0020700900,312,2037,Jamal Crawford,1610612752,New York Knicks,3,4,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,113,191,1,1,20080305,NYK,CLE
+Shot Chart Detail,0020700900,439,2037,Jamal Crawford,1610612752,New York Knicks,4,4,29,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,29,66,1,1,20080305,NYK,CLE
+Shot Chart Detail,0020700900,466,2037,Jamal Crawford,1610612752,New York Knicks,4,1,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,75,158,1,1,20080305,NYK,CLE
+Shot Chart Detail,0020700900,482,2037,Jamal Crawford,1610612752,New York Knicks,4,0,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-169,183,1,1,20080305,NYK,CLE
+Shot Chart Detail,0020700915,26,2037,Jamal Crawford,1610612752,New York Knicks,1,8,28,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080307,NYK,DET
+Shot Chart Detail,0020700915,37,2037,Jamal Crawford,1610612752,New York Knicks,1,7,16,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,158,8,1,1,20080307,NYK,DET
+Shot Chart Detail,0020700915,86,2037,Jamal Crawford,1610612752,New York Knicks,1,1,19,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,156,127,1,1,20080307,NYK,DET
+Shot Chart Detail,0020700915,109,2037,Jamal Crawford,1610612752,New York Knicks,2,10,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,102,230,1,1,20080307,NYK,DET
+Shot Chart Detail,0020700915,146,2037,Jamal Crawford,1610612752,New York Knicks,2,7,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,153,-29,1,1,20080307,NYK,DET
+Shot Chart Detail,0020700915,198,2037,Jamal Crawford,1610612752,New York Knicks,2,2,55,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080307,NYK,DET
+Shot Chart Detail,0020700944,47,2037,Jamal Crawford,1610612752,New York Knicks,1,7,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,23,252,1,1,20080310,DAL,NYK
+Shot Chart Detail,0020700944,251,2037,Jamal Crawford,1610612752,New York Knicks,3,10,51,Made Shot,Floating Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-15,35,1,1,20080310,DAL,NYK
+Shot Chart Detail,0020700944,263,2037,Jamal Crawford,1610612752,New York Knicks,3,9,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-172,41,1,1,20080310,DAL,NYK
+Shot Chart Detail,0020700944,275,2037,Jamal Crawford,1610612752,New York Knicks,3,7,29,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-146,150,1,1,20080310,DAL,NYK
+Shot Chart Detail,0020700944,307,2037,Jamal Crawford,1610612752,New York Knicks,3,3,40,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-28,99,1,1,20080310,DAL,NYK
+Shot Chart Detail,0020700956,64,2037,Jamal Crawford,1610612752,New York Knicks,1,4,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-107,145,1,1,20080312,MIA,NYK
+Shot Chart Detail,0020700956,117,2037,Jamal Crawford,1610612752,New York Knicks,1,0,3,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,49,112,1,1,20080312,MIA,NYK
+Shot Chart Detail,0020700956,211,2037,Jamal Crawford,1610612752,New York Knicks,2,1,11,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,12,-77,94,1,1,20080312,MIA,NYK
+Shot Chart Detail,0020700956,217,2037,Jamal Crawford,1610612752,New York Knicks,2,0,5,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,12,61,104,1,1,20080312,MIA,NYK
+Shot Chart Detail,0020700956,297,2037,Jamal Crawford,1610612752,New York Knicks,3,2,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,87,58,1,1,20080312,MIA,NYK
+Shot Chart Detail,0020700956,340,2037,Jamal Crawford,1610612752,New York Knicks,4,9,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,159,191,1,1,20080312,MIA,NYK
+Shot Chart Detail,0020700956,393,2037,Jamal Crawford,1610612752,New York Knicks,4,4,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-191,166,1,1,20080312,MIA,NYK
+Shot Chart Detail,0020700985,156,2037,Jamal Crawford,1610612752,New York Knicks,2,9,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,43,184,1,1,20080316,NYK,ATL
+Shot Chart Detail,0020700993,25,2037,Jamal Crawford,1610612752,New York Knicks,1,8,46,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,143,214,1,1,20080317,IND,NYK
+Shot Chart Detail,0020700993,101,2037,Jamal Crawford,1610612752,New York Knicks,1,2,24,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,0,158,1,1,20080317,IND,NYK
+Shot Chart Detail,0020700993,103,2037,Jamal Crawford,1610612752,New York Knicks,1,1,56,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-34,128,1,1,20080317,IND,NYK
+Shot Chart Detail,0020700993,222,2037,Jamal Crawford,1610612752,New York Knicks,2,4,25,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-141,30,1,1,20080317,IND,NYK
+Shot Chart Detail,0020700993,324,2037,Jamal Crawford,1610612752,New York Knicks,3,6,50,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,240,5,1,1,20080317,IND,NYK
+Shot Chart Detail,0020701022,52,2037,Jamal Crawford,1610612752,New York Knicks,1,5,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,89,202,1,1,20080321,NYK,MEM
+Shot Chart Detail,0020701022,61,2037,Jamal Crawford,1610612752,New York Knicks,1,4,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-164,181,1,1,20080321,NYK,MEM
+Shot Chart Detail,0020701022,66,2037,Jamal Crawford,1610612752,New York Knicks,1,4,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,59,145,1,1,20080321,NYK,MEM
+Shot Chart Detail,0020701022,79,2037,Jamal Crawford,1610612752,New York Knicks,1,2,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,23,125,194,1,1,20080321,NYK,MEM
+Shot Chart Detail,0020701022,223,2037,Jamal Crawford,1610612752,New York Knicks,2,0,58,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-241,2,1,1,20080321,NYK,MEM
+Shot Chart Detail,0020701022,256,2037,Jamal Crawford,1610612752,New York Knicks,3,9,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,54,191,1,1,20080321,NYK,MEM
+Shot Chart Detail,0020701022,328,2037,Jamal Crawford,1610612752,New York Knicks,3,1,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,49,199,1,1,20080321,NYK,MEM
+Shot Chart Detail,0020701034,38,2037,Jamal Crawford,1610612752,New York Knicks,1,7,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-51,245,1,1,20080322,MIN,NYK
+Shot Chart Detail,0020701034,60,2037,Jamal Crawford,1610612752,New York Knicks,1,4,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,90,171,1,1,20080322,MIN,NYK
+Shot Chart Detail,0020701034,91,2037,Jamal Crawford,1610612752,New York Knicks,1,0,38,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-100,163,1,1,20080322,MIN,NYK
+Shot Chart Detail,0020701034,209,2037,Jamal Crawford,1610612752,New York Knicks,3,11,21,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,61,1,1,20080322,MIN,NYK
+Shot Chart Detail,0020701034,213,2037,Jamal Crawford,1610612752,New York Knicks,3,10,10,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-3,141,1,1,20080322,MIN,NYK
+Shot Chart Detail,0020701034,224,2037,Jamal Crawford,1610612752,New York Knicks,3,8,47,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080322,MIN,NYK
+Shot Chart Detail,0020701045,83,2037,Jamal Crawford,1610612752,New York Knicks,1,2,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-153,69,1,1,20080324,NYK,NJN
+Shot Chart Detail,0020701045,141,2037,Jamal Crawford,1610612752,New York Knicks,2,7,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-84,164,1,1,20080324,NYK,NJN
+Shot Chart Detail,0020701045,153,2037,Jamal Crawford,1610612752,New York Knicks,2,6,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,123,110,1,1,20080324,NYK,NJN
+Shot Chart Detail,0020701045,198,2037,Jamal Crawford,1610612752,New York Knicks,2,2,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-187,38,1,1,20080324,NYK,NJN
+Shot Chart Detail,0020701045,201,2037,Jamal Crawford,1610612752,New York Knicks,2,1,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,140,122,1,1,20080324,NYK,NJN
+Shot Chart Detail,0020701045,315,2037,Jamal Crawford,1610612752,New York Knicks,3,1,45,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080324,NYK,NJN
+Shot Chart Detail,0020701045,354,2037,Jamal Crawford,1610612752,New York Knicks,4,9,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,161,194,1,1,20080324,NYK,NJN
+Shot Chart Detail,0020701045,383,2037,Jamal Crawford,1610612752,New York Knicks,4,7,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,167,201,1,1,20080324,NYK,NJN
+Shot Chart Detail,0020701059,16,2037,Jamal Crawford,1610612752,New York Knicks,1,9,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,138,174,1,1,20080326,NYK,MIA
+Shot Chart Detail,0020701059,160,2037,Jamal Crawford,1610612752,New York Knicks,2,7,15,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080326,NYK,MIA
+Shot Chart Detail,0020701059,216,2037,Jamal Crawford,1610612752,New York Knicks,2,1,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-115,214,1,1,20080326,NYK,MIA
+Shot Chart Detail,0020701059,337,2037,Jamal Crawford,1610612752,New York Knicks,3,1,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,202,138,1,1,20080326,NYK,MIA
+Shot Chart Detail,0020701059,349,2037,Jamal Crawford,1610612752,New York Knicks,4,11,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-77,181,1,1,20080326,NYK,MIA
+Shot Chart Detail,0020701059,386,2037,Jamal Crawford,1610612752,New York Knicks,4,8,44,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,10,1,1,20080326,NYK,MIA
+Shot Chart Detail,0020701059,403,2037,Jamal Crawford,1610612752,New York Knicks,4,6,23,Made Shot,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,62,10,1,1,20080326,NYK,MIA
+Shot Chart Detail,0020701059,510,2037,Jamal Crawford,1610612752,New York Knicks,5,2,28,Made Shot,Floating Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,15,35,1,1,20080326,NYK,MIA
+Shot Chart Detail,0020701073,7,2037,Jamal Crawford,1610612752,New York Knicks,1,11,17,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,90,72,1,1,20080328,TOR,NYK
+Shot Chart Detail,0020701073,12,2037,Jamal Crawford,1610612752,New York Knicks,1,9,54,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,3,1,1,20080328,TOR,NYK
+Shot Chart Detail,0020701073,132,2037,Jamal Crawford,1610612752,New York Knicks,2,10,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-107,215,1,1,20080328,TOR,NYK
+Shot Chart Detail,0020701073,205,2037,Jamal Crawford,1610612752,New York Knicks,2,2,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,176,183,1,1,20080328,TOR,NYK
+Shot Chart Detail,0020701073,218,2037,Jamal Crawford,1610612752,New York Knicks,2,1,12,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-225,64,1,1,20080328,TOR,NYK
+Shot Chart Detail,0020701073,379,2037,Jamal Crawford,1610612752,New York Knicks,4,10,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-204,36,1,1,20080328,TOR,NYK
+Shot Chart Detail,0020701073,387,2037,Jamal Crawford,1610612752,New York Knicks,4,9,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,181,81,1,1,20080328,TOR,NYK
+Shot Chart Detail,0020701073,461,2037,Jamal Crawford,1610612752,New York Knicks,4,1,49,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-13,77,1,1,20080328,TOR,NYK
+Shot Chart Detail,0020701092,16,2037,Jamal Crawford,1610612752,New York Knicks,1,9,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,181,215,1,1,20080330,ATL,NYK
+Shot Chart Detail,0020701092,25,2037,Jamal Crawford,1610612752,New York Knicks,1,8,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,144,225,1,1,20080330,ATL,NYK
+Shot Chart Detail,0020701092,87,2037,Jamal Crawford,1610612752,New York Knicks,1,1,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-169,215,1,1,20080330,ATL,NYK
+Shot Chart Detail,0020701092,208,2037,Jamal Crawford,1610612752,New York Knicks,2,0,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-34,266,1,1,20080330,ATL,NYK
+Shot Chart Detail,0020701092,219,2037,Jamal Crawford,1610612752,New York Knicks,3,11,26,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,232,64,1,1,20080330,ATL,NYK
+Shot Chart Detail,0020701092,224,2037,Jamal Crawford,1610612752,New York Knicks,3,10,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,153,104,1,1,20080330,ATL,NYK
+Shot Chart Detail,0020701092,226,2037,Jamal Crawford,1610612752,New York Knicks,3,10,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-146,229,1,1,20080330,ATL,NYK
+Shot Chart Detail,0020701092,251,2037,Jamal Crawford,1610612752,New York Knicks,3,8,30,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-228,58,1,1,20080330,ATL,NYK
+Shot Chart Detail,0020701092,300,2037,Jamal Crawford,1610612752,New York Knicks,3,3,9,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080330,ATL,NYK
+Shot Chart Detail,0020701092,306,2037,Jamal Crawford,1610612752,New York Knicks,3,2,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,156,114,1,1,20080330,ATL,NYK
+Shot Chart Detail,0020701092,308,2037,Jamal Crawford,1610612752,New York Knicks,3,2,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-122,155,1,1,20080330,ATL,NYK
+Shot Chart Detail,0020701092,322,2037,Jamal Crawford,1610612752,New York Knicks,3,0,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,0,155,1,1,20080330,ATL,NYK
+Shot Chart Detail,0020701092,433,2037,Jamal Crawford,1610612752,New York Knicks,4,1,30,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,11,59,1,1,20080330,ATL,NYK
+Shot Chart Detail,0020701092,471,2037,Jamal Crawford,1610612752,New York Knicks,4,0,2,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080330,ATL,NYK
+Shot Chart Detail,0020701107,36,2037,Jamal Crawford,1610612752,New York Knicks,1,8,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-140,153,1,1,20080401,MIL,NYK
+Shot Chart Detail,0020701107,65,2037,Jamal Crawford,1610612752,New York Knicks,1,4,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-228,89,1,1,20080401,MIL,NYK
+Shot Chart Detail,0020701107,254,2037,Jamal Crawford,1610612752,New York Knicks,3,8,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080401,MIL,NYK
+Shot Chart Detail,0020701107,284,2037,Jamal Crawford,1610612752,New York Knicks,3,4,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-166,86,1,1,20080401,MIL,NYK
+Shot Chart Detail,0020701107,288,2037,Jamal Crawford,1610612752,New York Knicks,3,4,28,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-43,137,1,1,20080401,MIL,NYK
+Shot Chart Detail,0020701107,442,2037,Jamal Crawford,1610612752,New York Knicks,4,0,44,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,33,49,1,1,20080401,MIL,NYK
+Shot Chart Detail,0020701118,35,2037,Jamal Crawford,1610612752,New York Knicks,1,7,49,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080402,MEM,NYK
+Shot Chart Detail,0020701118,140,2037,Jamal Crawford,1610612752,New York Knicks,2,9,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,77,240,1,1,20080402,MEM,NYK
+Shot Chart Detail,0020701118,143,2037,Jamal Crawford,1610612752,New York Knicks,2,9,32,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,75,178,1,1,20080402,MEM,NYK
+Shot Chart Detail,0020701118,145,2037,Jamal Crawford,1610612752,New York Knicks,2,9,6,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-3,186,1,1,20080402,MEM,NYK
+Shot Chart Detail,0020701118,283,2037,Jamal Crawford,1610612752,New York Knicks,3,8,29,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080402,MEM,NYK
+Shot Chart Detail,0020701118,376,2037,Jamal Crawford,1610612752,New York Knicks,3,0,28,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,25,1,1,20080402,MEM,NYK
+Shot Chart Detail,0020701118,379,2037,Jamal Crawford,1610612752,New York Knicks,3,0,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-197,15,1,1,20080402,MEM,NYK
+Shot Chart Detail,0020701118,398,2037,Jamal Crawford,1610612752,New York Knicks,4,10,2,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,103,43,1,1,20080402,MEM,NYK
+Shot Chart Detail,0020701131,48,2037,Jamal Crawford,1610612752,New York Knicks,1,5,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-176,169,1,1,20080404,NOH,NYK
+Shot Chart Detail,0020701131,68,2037,Jamal Crawford,1610612752,New York Knicks,1,2,47,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,43,63,1,1,20080404,NOH,NYK
+Shot Chart Detail,0020701131,83,2037,Jamal Crawford,1610612752,New York Knicks,1,1,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-158,13,1,1,20080404,NOH,NYK
+Shot Chart Detail,0020701131,118,2037,Jamal Crawford,1610612752,New York Knicks,2,8,50,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,43,56,1,1,20080404,NOH,NYK
+Shot Chart Detail,0020701131,145,2037,Jamal Crawford,1610612752,New York Knicks,2,6,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,82,135,1,1,20080404,NOH,NYK
+Shot Chart Detail,0020701131,183,2037,Jamal Crawford,1610612752,New York Knicks,2,2,46,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,18,1,1,20080404,NOH,NYK
+Shot Chart Detail,0020701131,270,2037,Jamal Crawford,1610612752,New York Knicks,3,5,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-135,169,1,1,20080404,NOH,NYK
+Shot Chart Detail,0020701131,276,2037,Jamal Crawford,1610612752,New York Knicks,3,4,41,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-103,117,1,1,20080404,NOH,NYK
+Shot Chart Detail,0020701131,325,2037,Jamal Crawford,1610612752,New York Knicks,4,11,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,123,138,1,1,20080404,NOH,NYK
+Shot Chart Detail,0020701131,377,2037,Jamal Crawford,1610612752,New York Knicks,4,6,55,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-171,71,1,1,20080404,NOH,NYK
+Shot Chart Detail,0020701131,435,2037,Jamal Crawford,1610612752,New York Knicks,4,1,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080404,NOH,NYK
+Shot Chart Detail,0020701145,19,2037,Jamal Crawford,1610612752,New York Knicks,1,8,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,23,-117,209,1,1,20080406,NYK,ORL
+Shot Chart Detail,0020701145,108,2037,Jamal Crawford,1610612752,New York Knicks,1,1,2,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080406,NYK,ORL
+Shot Chart Detail,0020701145,238,2037,Jamal Crawford,1610612752,New York Knicks,3,11,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-92,227,1,1,20080406,NYK,ORL
+Shot Chart Detail,0020701156,20,2037,Jamal Crawford,1610612752,New York Knicks,1,9,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-169,79,1,1,20080408,DET,NYK
+Shot Chart Detail,0020701156,22,2037,Jamal Crawford,1610612752,New York Knicks,1,9,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-138,153,1,1,20080408,DET,NYK
+Shot Chart Detail,0020701156,34,2037,Jamal Crawford,1610612752,New York Knicks,1,8,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080408,DET,NYK
+Shot Chart Detail,0020701156,95,2037,Jamal Crawford,1610612752,New York Knicks,1,1,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-172,69,1,1,20080408,DET,NYK
+Shot Chart Detail,0020701156,244,2037,Jamal Crawford,1610612752,New York Knicks,3,8,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,44,266,1,1,20080408,DET,NYK
+Shot Chart Detail,0020701156,259,2037,Jamal Crawford,1610612752,New York Knicks,3,6,16,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,238,35,1,1,20080408,DET,NYK
+Shot Chart Detail,0020701156,313,2037,Jamal Crawford,1610612752,New York Knicks,3,0,11,Made Shot,Running Bank shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,158,26,1,1,20080408,DET,NYK
+Shot Chart Detail,0020701169,29,2037,Jamal Crawford,1610612752,New York Knicks,1,8,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,41,238,1,1,20080409,NYK,CHA
+Shot Chart Detail,0020701169,34,2037,Jamal Crawford,1610612752,New York Knicks,1,7,36,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080409,NYK,CHA
+Shot Chart Detail,0020701169,53,2037,Jamal Crawford,1610612752,New York Knicks,1,4,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,128,87,1,1,20080409,NYK,CHA
+Shot Chart Detail,0020701169,57,2037,Jamal Crawford,1610612752,New York Knicks,1,3,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,13,247,1,1,20080409,NYK,CHA
+Shot Chart Detail,0020701169,267,2037,Jamal Crawford,1610612752,New York Knicks,3,6,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,98,150,1,1,20080409,NYK,CHA
+Shot Chart Detail,0020701169,273,2037,Jamal Crawford,1610612752,New York Knicks,3,5,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-28,215,1,1,20080409,NYK,CHA
+Shot Chart Detail,0020701169,305,2037,Jamal Crawford,1610612752,New York Knicks,3,1,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-128,68,1,1,20080409,NYK,CHA
+Shot Chart Detail,0020701181,29,2037,Jamal Crawford,1610612752,New York Knicks,1,8,55,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,38,1,1,20080411,NYK,ATL
+Shot Chart Detail,0020701181,46,2037,Jamal Crawford,1610612752,New York Knicks,1,6,43,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,117,-3,1,1,20080411,NYK,ATL
+Shot Chart Detail,0020701181,95,2037,Jamal Crawford,1610612752,New York Knicks,1,0,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,169,214,1,1,20080411,NYK,ATL
+Shot Chart Detail,0020701181,267,2037,Jamal Crawford,1610612752,New York Knicks,3,5,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,184,155,1,1,20080411,NYK,ATL
+Shot Chart Detail,0020701181,274,2037,Jamal Crawford,1610612752,New York Knicks,3,5,35,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-228,-36,1,1,20080411,NYK,ATL
+Shot Chart Detail,0020701181,363,2037,Jamal Crawford,1610612752,New York Knicks,4,8,49,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,-34,1,1,20080411,NYK,ATL
+Shot Chart Detail,0020701181,446,2037,Jamal Crawford,1610612752,New York Knicks,4,0,42,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080411,NYK,ATL
+Shot Chart Detail,0020701206,17,2037,Jamal Crawford,1610612752,New York Knicks,1,9,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-156,202,1,1,20080414,NYK,BOS
+Shot Chart Detail,0020701206,113,2037,Jamal Crawford,1610612752,New York Knicks,1,0,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,61,247,1,1,20080414,NYK,BOS
+Shot Chart Detail,0020701206,291,2037,Jamal Crawford,1610612752,New York Knicks,3,9,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-181,81,1,1,20080414,NYK,BOS
+Shot Chart Detail,0020701220,7,2037,Jamal Crawford,1610612752,New York Knicks,1,10,52,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,-5,1,1,20080416,IND,NYK
+Shot Chart Detail,0020701220,87,2037,Jamal Crawford,1610612752,New York Knicks,1,3,26,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,3,1,1,20080416,IND,NYK
+Shot Chart Detail,0020701220,95,2037,Jamal Crawford,1610612752,New York Knicks,1,3,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,26,257,1,1,20080416,IND,NYK
+Shot Chart Detail,0020701220,111,2037,Jamal Crawford,1610612752,New York Knicks,1,2,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-158,120,1,1,20080416,IND,NYK
+Shot Chart Detail,0020701220,119,2037,Jamal Crawford,1610612752,New York Knicks,1,0,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,21,204,1,1,20080416,IND,NYK
+Shot Chart Detail,0020701220,122,2037,Jamal Crawford,1610612752,New York Knicks,1,0,29,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-169,8,1,1,20080416,IND,NYK
+Shot Chart Detail,0020701220,240,2037,Jamal Crawford,1610612752,New York Knicks,2,3,20,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,184,82,1,1,20080416,IND,NYK

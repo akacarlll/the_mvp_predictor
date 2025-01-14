@@ -1,0 +1,579 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0022100001,29,201142,Kevin Durant,1610612751,Brooklyn Nets,1,9,42,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-21,125,1,1,20211019,MIL,BKN
+Shot Chart Detail,0022100001,54,201142,Kevin Durant,1610612751,Brooklyn Nets,1,7,49,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,15,1,1,20211019,MIL,BKN
+Shot Chart Detail,0022100001,276,201142,Kevin Durant,1610612751,Brooklyn Nets,2,3,50,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-70,17,1,1,20211019,MIL,BKN
+Shot Chart Detail,0022100001,279,201142,Kevin Durant,1610612751,Brooklyn Nets,2,3,22,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,89,248,1,1,20211019,MIL,BKN
+Shot Chart Detail,0022100001,285,201142,Kevin Durant,1610612751,Brooklyn Nets,2,2,45,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-60,32,1,1,20211019,MIL,BKN
+Shot Chart Detail,0022100001,339,201142,Kevin Durant,1610612751,Brooklyn Nets,3,11,22,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-124,96,1,1,20211019,MIL,BKN
+Shot Chart Detail,0022100001,377,201142,Kevin Durant,1610612751,Brooklyn Nets,3,8,52,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-83,124,1,1,20211019,MIL,BKN
+Shot Chart Detail,0022100001,396,201142,Kevin Durant,1610612751,Brooklyn Nets,3,7,8,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-1,211,1,1,20211019,MIL,BKN
+Shot Chart Detail,0022100001,408,201142,Kevin Durant,1610612751,Brooklyn Nets,3,6,41,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,1,274,1,1,20211019,MIL,BKN
+Shot Chart Detail,0022100001,470,201142,Kevin Durant,1610612751,Brooklyn Nets,3,3,23,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-64,115,1,1,20211019,MIL,BKN
+Shot Chart Detail,0022100001,582,201142,Kevin Durant,1610612751,Brooklyn Nets,4,7,24,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,4,1,1,20211019,MIL,BKN
+Shot Chart Detail,0022100001,624,201142,Kevin Durant,1610612751,Brooklyn Nets,4,4,39,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,12,132,1,1,20211019,MIL,BKN
+Shot Chart Detail,0022100001,627,201142,Kevin Durant,1610612751,Brooklyn Nets,4,3,57,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-60,257,1,1,20211019,MIL,BKN
+Shot Chart Detail,0022100021,23,201142,Kevin Durant,1610612751,Brooklyn Nets,1,10,18,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-71,43,1,1,20211022,PHI,BKN
+Shot Chart Detail,0022100021,29,201142,Kevin Durant,1610612751,Brooklyn Nets,1,9,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,4,1,1,20211022,PHI,BKN
+Shot Chart Detail,0022100021,60,201142,Kevin Durant,1610612751,Brooklyn Nets,1,6,40,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-118,160,1,1,20211022,PHI,BKN
+Shot Chart Detail,0022100021,83,201142,Kevin Durant,1610612751,Brooklyn Nets,1,5,3,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-10,111,1,1,20211022,PHI,BKN
+Shot Chart Detail,0022100021,306,201142,Kevin Durant,1610612751,Brooklyn Nets,2,2,15,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-9,50,1,1,20211022,PHI,BKN
+Shot Chart Detail,0022100021,333,201142,Kevin Durant,1610612751,Brooklyn Nets,2,0,2,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,12,263,1,1,20211022,PHI,BKN
+Shot Chart Detail,0022100021,352,201142,Kevin Durant,1610612751,Brooklyn Nets,3,11,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,89,145,1,1,20211022,PHI,BKN
+Shot Chart Detail,0022100021,425,201142,Kevin Durant,1610612751,Brooklyn Nets,3,4,22,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,61,38,1,1,20211022,PHI,BKN
+Shot Chart Detail,0022100021,577,201142,Kevin Durant,1610612751,Brooklyn Nets,4,4,41,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-116,104,1,1,20211022,PHI,BKN
+Shot Chart Detail,0022100035,40,201142,Kevin Durant,1610612751,Brooklyn Nets,1,8,37,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-36,36,1,1,20211024,BKN,CHA
+Shot Chart Detail,0022100035,62,201142,Kevin Durant,1610612751,Brooklyn Nets,1,6,49,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-50,130,1,1,20211024,BKN,CHA
+Shot Chart Detail,0022100035,74,201142,Kevin Durant,1610612751,Brooklyn Nets,1,6,24,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,12,1,1,20211024,BKN,CHA
+Shot Chart Detail,0022100035,95,201142,Kevin Durant,1610612751,Brooklyn Nets,1,4,52,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,4,1,1,20211024,BKN,CHA
+Shot Chart Detail,0022100035,99,201142,Kevin Durant,1610612751,Brooklyn Nets,1,4,33,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,130,99,1,1,20211024,BKN,CHA
+Shot Chart Detail,0022100035,270,201142,Kevin Durant,1610612751,Brooklyn Nets,2,6,1,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-2,154,1,1,20211024,BKN,CHA
+Shot Chart Detail,0022100035,285,201142,Kevin Durant,1610612751,Brooklyn Nets,2,4,50,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,13,1,1,20211024,BKN,CHA
+Shot Chart Detail,0022100035,304,201142,Kevin Durant,1610612751,Brooklyn Nets,2,3,37,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,13,75,111,1,1,20211024,BKN,CHA
+Shot Chart Detail,0022100035,347,201142,Kevin Durant,1610612751,Brooklyn Nets,2,0,46,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,113,-16,1,1,20211024,BKN,CHA
+Shot Chart Detail,0022100035,352,201142,Kevin Durant,1610612751,Brooklyn Nets,2,0,36,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,126,173,1,1,20211024,BKN,CHA
+Shot Chart Detail,0022100035,390,201142,Kevin Durant,1610612751,Brooklyn Nets,3,10,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-27,247,1,1,20211024,BKN,CHA
+Shot Chart Detail,0022100035,422,201142,Kevin Durant,1610612751,Brooklyn Nets,3,8,8,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,1,1,1,20211024,BKN,CHA
+Shot Chart Detail,0022100035,490,201142,Kevin Durant,1610612751,Brooklyn Nets,3,3,26,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-100,57,1,1,20211024,BKN,CHA
+Shot Chart Detail,0022100035,616,201142,Kevin Durant,1610612751,Brooklyn Nets,4,6,20,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,36,138,1,1,20211024,BKN,CHA
+Shot Chart Detail,0022100035,624,201142,Kevin Durant,1610612751,Brooklyn Nets,4,4,56,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,65,241,1,1,20211024,BKN,CHA
+Shot Chart Detail,0022100035,627,201142,Kevin Durant,1610612751,Brooklyn Nets,4,4,16,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,23,66,1,1,20211024,BKN,CHA
+Shot Chart Detail,0022100035,651,201142,Kevin Durant,1610612751,Brooklyn Nets,4,1,51,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,15,-70,134,1,1,20211024,BKN,CHA
+Shot Chart Detail,0022100044,17,201142,Kevin Durant,1610612751,Brooklyn Nets,1,10,28,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,140,70,1,1,20211025,BKN,WAS
+Shot Chart Detail,0022100044,102,201142,Kevin Durant,1610612751,Brooklyn Nets,1,3,48,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,67,39,1,1,20211025,BKN,WAS
+Shot Chart Detail,0022100044,129,201142,Kevin Durant,1610612751,Brooklyn Nets,1,1,54,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,98,37,1,1,20211025,BKN,WAS
+Shot Chart Detail,0022100044,249,201142,Kevin Durant,1610612751,Brooklyn Nets,2,5,30,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-92,52,1,1,20211025,BKN,WAS
+Shot Chart Detail,0022100044,292,201142,Kevin Durant,1610612751,Brooklyn Nets,2,2,37,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-13,122,1,1,20211025,BKN,WAS
+Shot Chart Detail,0022100044,311,201142,Kevin Durant,1610612751,Brooklyn Nets,2,0,59,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,138,42,1,1,20211025,BKN,WAS
+Shot Chart Detail,0022100044,328,201142,Kevin Durant,1610612751,Brooklyn Nets,2,0,3,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,113,236,1,1,20211025,BKN,WAS
+Shot Chart Detail,0022100044,534,201142,Kevin Durant,1610612751,Brooklyn Nets,4,11,3,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,7,163,1,1,20211025,BKN,WAS
+Shot Chart Detail,0022100044,560,201142,Kevin Durant,1610612751,Brooklyn Nets,4,9,23,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,10,125,1,1,20211025,BKN,WAS
+Shot Chart Detail,0022100057,37,201142,Kevin Durant,1610612751,Brooklyn Nets,1,7,59,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,116,13,1,1,20211027,BKN,MIA
+Shot Chart Detail,0022100057,152,201142,Kevin Durant,1610612751,Brooklyn Nets,1,0,30,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,16,104,1,1,20211027,BKN,MIA
+Shot Chart Detail,0022100057,279,201142,Kevin Durant,1610612751,Brooklyn Nets,2,3,58,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,10,1,1,20211027,BKN,MIA
+Shot Chart Detail,0022100057,301,201142,Kevin Durant,1610612751,Brooklyn Nets,2,2,27,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,-3,1,1,20211027,BKN,MIA
+Shot Chart Detail,0022100057,349,201142,Kevin Durant,1610612751,Brooklyn Nets,3,11,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,131,222,1,1,20211027,BKN,MIA
+Shot Chart Detail,0022100057,400,201142,Kevin Durant,1610612751,Brooklyn Nets,3,7,22,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-77,62,1,1,20211027,BKN,MIA
+Shot Chart Detail,0022100057,448,201142,Kevin Durant,1610612751,Brooklyn Nets,3,3,29,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,4,1,1,20211027,BKN,MIA
+Shot Chart Detail,0022100057,582,201142,Kevin Durant,1610612751,Brooklyn Nets,4,6,8,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-72,256,1,1,20211027,BKN,MIA
+Shot Chart Detail,0022100057,608,201142,Kevin Durant,1610612751,Brooklyn Nets,4,4,35,Made Shot,Running Pull-Up Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-12,115,1,1,20211027,BKN,MIA
+Shot Chart Detail,0022100072,12,201142,Kevin Durant,1610612751,Brooklyn Nets,1,11,15,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-9,170,1,1,20211029,BKN,IND
+Shot Chart Detail,0022100072,69,201142,Kevin Durant,1610612751,Brooklyn Nets,1,6,59,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,125,48,1,1,20211029,BKN,IND
+Shot Chart Detail,0022100072,91,201142,Kevin Durant,1610612751,Brooklyn Nets,1,5,25,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,10,99,1,1,20211029,BKN,IND
+Shot Chart Detail,0022100072,125,201142,Kevin Durant,1610612751,Brooklyn Nets,1,2,59,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,13,1,1,20211029,BKN,IND
+Shot Chart Detail,0022100072,163,201142,Kevin Durant,1610612751,Brooklyn Nets,1,1,0,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-9,75,1,1,20211029,BKN,IND
+Shot Chart Detail,0022100072,166,201142,Kevin Durant,1610612751,Brooklyn Nets,1,0,33,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,92,243,1,1,20211029,BKN,IND
+Shot Chart Detail,0022100072,487,201142,Kevin Durant,1610612751,Brooklyn Nets,3,3,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,124,156,1,1,20211029,BKN,IND
+Shot Chart Detail,0022100092,17,201142,Kevin Durant,1610612751,Brooklyn Nets,1,10,35,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-60,89,1,1,20211031,BKN,DET
+Shot Chart Detail,0022100092,34,201142,Kevin Durant,1610612751,Brooklyn Nets,1,8,42,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,89,236,1,1,20211031,BKN,DET
+Shot Chart Detail,0022100092,43,201142,Kevin Durant,1610612751,Brooklyn Nets,1,7,54,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,-1,1,1,20211031,BKN,DET
+Shot Chart Detail,0022100092,200,201142,Kevin Durant,1610612751,Brooklyn Nets,2,6,30,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,15,194,1,1,20211031,BKN,DET
+Shot Chart Detail,0022100092,228,201142,Kevin Durant,1610612751,Brooklyn Nets,2,3,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,43,157,1,1,20211031,BKN,DET
+Shot Chart Detail,0022100092,245,201142,Kevin Durant,1610612751,Brooklyn Nets,2,2,25,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,4,1,1,20211031,BKN,DET
+Shot Chart Detail,0022100092,250,201142,Kevin Durant,1610612751,Brooklyn Nets,2,2,9,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,105,180,1,1,20211031,BKN,DET
+Shot Chart Detail,0022100092,259,201142,Kevin Durant,1610612751,Brooklyn Nets,2,1,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,20,152,1,1,20211031,BKN,DET
+Shot Chart Detail,0022100092,296,201142,Kevin Durant,1610612751,Brooklyn Nets,3,10,53,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,119,140,1,1,20211031,BKN,DET
+Shot Chart Detail,0022100092,382,201142,Kevin Durant,1610612751,Brooklyn Nets,3,3,38,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,102,95,1,1,20211031,BKN,DET
+Shot Chart Detail,0022100113,41,201142,Kevin Durant,1610612751,Brooklyn Nets,1,8,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,70,174,1,1,20211103,BKN,ATL
+Shot Chart Detail,0022100113,64,201142,Kevin Durant,1610612751,Brooklyn Nets,1,7,24,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,-3,1,1,20211103,BKN,ATL
+Shot Chart Detail,0022100113,90,201142,Kevin Durant,1610612751,Brooklyn Nets,1,4,25,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,32,102,1,1,20211103,BKN,ATL
+Shot Chart Detail,0022100113,112,201142,Kevin Durant,1610612751,Brooklyn Nets,1,3,13,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,113,20,1,1,20211103,BKN,ATL
+Shot Chart Detail,0022100113,130,201142,Kevin Durant,1610612751,Brooklyn Nets,1,2,16,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-9,0,1,1,20211103,BKN,ATL
+Shot Chart Detail,0022100113,144,201142,Kevin Durant,1610612751,Brooklyn Nets,1,0,40,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20211103,BKN,ATL
+Shot Chart Detail,0022100113,288,201142,Kevin Durant,1610612751,Brooklyn Nets,2,2,41,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,12,1,1,20211103,BKN,ATL
+Shot Chart Detail,0022100113,301,201142,Kevin Durant,1610612751,Brooklyn Nets,2,1,44,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,6,117,1,1,20211103,BKN,ATL
+Shot Chart Detail,0022100113,376,201142,Kevin Durant,1610612751,Brooklyn Nets,3,7,33,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,136,134,1,1,20211103,BKN,ATL
+Shot Chart Detail,0022100113,408,201142,Kevin Durant,1610612751,Brooklyn Nets,3,4,0,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-93,93,1,1,20211103,BKN,ATL
+Shot Chart Detail,0022100113,411,201142,Kevin Durant,1610612751,Brooklyn Nets,3,3,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-121,216,1,1,20211103,BKN,ATL
+Shot Chart Detail,0022100113,457,201142,Kevin Durant,1610612751,Brooklyn Nets,3,0,45,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,83,189,1,1,20211103,BKN,ATL
+Shot Chart Detail,0022100113,477,201142,Kevin Durant,1610612751,Brooklyn Nets,3,0,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,169,177,1,1,20211103,BKN,ATL
+Shot Chart Detail,0022100124,31,201142,Kevin Durant,1610612751,Brooklyn Nets,1,9,17,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-28,117,1,1,20211105,DET,BKN
+Shot Chart Detail,0022100124,77,201142,Kevin Durant,1610612751,Brooklyn Nets,1,5,33,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,102,121,1,1,20211105,DET,BKN
+Shot Chart Detail,0022100124,286,201142,Kevin Durant,1610612751,Brooklyn Nets,2,2,40,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,8,1,1,20211105,DET,BKN
+Shot Chart Detail,0022100124,334,201142,Kevin Durant,1610612751,Brooklyn Nets,3,11,34,Made Shot,Pullup Jump shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,234,83,1,1,20211105,DET,BKN
+Shot Chart Detail,0022100124,380,201142,Kevin Durant,1610612751,Brooklyn Nets,3,7,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-116,235,1,1,20211105,DET,BKN
+Shot Chart Detail,0022100124,392,201142,Kevin Durant,1610612751,Brooklyn Nets,3,6,6,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-49,47,1,1,20211105,DET,BKN
+Shot Chart Detail,0022100124,417,201142,Kevin Durant,1610612751,Brooklyn Nets,3,3,45,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,8,1,1,20211105,DET,BKN
+Shot Chart Detail,0022100124,424,201142,Kevin Durant,1610612751,Brooklyn Nets,3,2,47,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,1,106,1,1,20211105,DET,BKN
+Shot Chart Detail,0022100124,558,201142,Kevin Durant,1610612751,Brooklyn Nets,4,5,30,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-48,88,1,1,20211105,DET,BKN
+Shot Chart Detail,0022100124,593,201142,Kevin Durant,1610612751,Brooklyn Nets,4,2,37,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-66,8,1,1,20211105,DET,BKN
+Shot Chart Detail,0022100124,604,201142,Kevin Durant,1610612751,Brooklyn Nets,4,1,13,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-81,57,1,1,20211105,DET,BKN
+Shot Chart Detail,0022100124,615,201142,Kevin Durant,1610612751,Brooklyn Nets,4,0,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,11,1,1,20211105,DET,BKN
+Shot Chart Detail,0022100139,53,201142,Kevin Durant,1610612751,Brooklyn Nets,1,7,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-99,100,1,1,20211107,TOR,BKN
+Shot Chart Detail,0022100139,61,201142,Kevin Durant,1610612751,Brooklyn Nets,1,6,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-69,251,1,1,20211107,TOR,BKN
+Shot Chart Detail,0022100139,97,201142,Kevin Durant,1610612751,Brooklyn Nets,1,3,43,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-9,164,1,1,20211107,TOR,BKN
+Shot Chart Detail,0022100139,124,201142,Kevin Durant,1610612751,Brooklyn Nets,1,0,44,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-50,143,1,1,20211107,TOR,BKN
+Shot Chart Detail,0022100139,248,201142,Kevin Durant,1610612751,Brooklyn Nets,2,3,42,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-64,147,1,1,20211107,TOR,BKN
+Shot Chart Detail,0022100139,288,201142,Kevin Durant,1610612751,Brooklyn Nets,2,0,10,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,26,22,1,1,20211107,TOR,BKN
+Shot Chart Detail,0022100139,321,201142,Kevin Durant,1610612751,Brooklyn Nets,3,10,15,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,10,1,1,20211107,TOR,BKN
+Shot Chart Detail,0022100139,395,201142,Kevin Durant,1610612751,Brooklyn Nets,3,3,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,140,205,1,1,20211107,TOR,BKN
+Shot Chart Detail,0022100139,418,201142,Kevin Durant,1610612751,Brooklyn Nets,3,1,47,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-161,201,1,1,20211107,TOR,BKN
+Shot Chart Detail,0022100139,433,201142,Kevin Durant,1610612751,Brooklyn Nets,3,0,18,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-4,26,1,1,20211107,TOR,BKN
+Shot Chart Detail,0022100139,537,201142,Kevin Durant,1610612751,Brooklyn Nets,4,3,59,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-7,53,1,1,20211107,TOR,BKN
+Shot Chart Detail,0022100148,11,201142,Kevin Durant,1610612751,Brooklyn Nets,1,11,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-108,239,1,1,20211108,CHI,BKN
+Shot Chart Detail,0022100148,83,201142,Kevin Durant,1610612751,Brooklyn Nets,1,4,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-31,189,1,1,20211108,CHI,BKN
+Shot Chart Detail,0022100148,253,201142,Kevin Durant,1610612751,Brooklyn Nets,2,3,27,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,54,84,1,1,20211108,CHI,BKN
+Shot Chart Detail,0022100148,273,201142,Kevin Durant,1610612751,Brooklyn Nets,2,2,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,29,143,1,1,20211108,CHI,BKN
+Shot Chart Detail,0022100148,303,201142,Kevin Durant,1610612751,Brooklyn Nets,2,0,6,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-42,20,1,1,20211108,CHI,BKN
+Shot Chart Detail,0022100148,337,201142,Kevin Durant,1610612751,Brooklyn Nets,3,9,55,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,120,156,1,1,20211108,CHI,BKN
+Shot Chart Detail,0022100148,364,201142,Kevin Durant,1610612751,Brooklyn Nets,3,7,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-163,187,1,1,20211108,CHI,BKN
+Shot Chart Detail,0022100148,413,201142,Kevin Durant,1610612751,Brooklyn Nets,3,3,27,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-17,0,1,1,20211108,CHI,BKN
+Shot Chart Detail,0022100148,455,201142,Kevin Durant,1610612751,Brooklyn Nets,3,0,58,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,114,167,1,1,20211108,CHI,BKN
+Shot Chart Detail,0022100148,538,201142,Kevin Durant,1610612751,Brooklyn Nets,4,7,45,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-80,29,1,1,20211108,CHI,BKN
+Shot Chart Detail,0022100148,565,201142,Kevin Durant,1610612751,Brooklyn Nets,4,5,52,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20211108,CHI,BKN
+Shot Chart Detail,0022100148,578,201142,Kevin Durant,1610612751,Brooklyn Nets,4,5,9,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-137,57,1,1,20211108,CHI,BKN
+Shot Chart Detail,0022100148,586,201142,Kevin Durant,1610612751,Brooklyn Nets,4,4,27,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-208,142,1,1,20211108,CHI,BKN
+Shot Chart Detail,0022100159,23,201142,Kevin Durant,1610612751,Brooklyn Nets,1,10,1,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-206,173,1,1,20211110,ORL,BKN
+Shot Chart Detail,0022100159,49,201142,Kevin Durant,1610612751,Brooklyn Nets,1,7,40,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-61,170,1,1,20211110,ORL,BKN
+Shot Chart Detail,0022100159,74,201142,Kevin Durant,1610612751,Brooklyn Nets,1,6,23,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,113,8,1,1,20211110,ORL,BKN
+Shot Chart Detail,0022100159,112,201142,Kevin Durant,1610612751,Brooklyn Nets,1,3,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-5,265,1,1,20211110,ORL,BKN
+Shot Chart Detail,0022100159,132,201142,Kevin Durant,1610612751,Brooklyn Nets,1,1,42,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-6,167,1,1,20211110,ORL,BKN
+Shot Chart Detail,0022100159,297,201142,Kevin Durant,1610612751,Brooklyn Nets,2,3,10,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2,22,1,1,20211110,ORL,BKN
+Shot Chart Detail,0022100159,382,201142,Kevin Durant,1610612751,Brooklyn Nets,3,9,32,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-43,22,1,1,20211110,ORL,BKN
+Shot Chart Detail,0022100159,395,201142,Kevin Durant,1610612751,Brooklyn Nets,3,8,10,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-55,140,1,1,20211110,ORL,BKN
+Shot Chart Detail,0022100159,450,201142,Kevin Durant,1610612751,Brooklyn Nets,3,4,21,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,12,61,105,1,1,20211110,ORL,BKN
+Shot Chart Detail,0022100159,456,201142,Kevin Durant,1610612751,Brooklyn Nets,3,3,18,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-93,27,1,1,20211110,ORL,BKN
+Shot Chart Detail,0022100159,513,201142,Kevin Durant,1610612751,Brooklyn Nets,3,0,6,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,6,1,1,20211110,ORL,BKN
+Shot Chart Detail,0022100179,26,201142,Kevin Durant,1610612751,Brooklyn Nets,1,10,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,151,103,1,1,20211112,NOP,BKN
+Shot Chart Detail,0022100179,78,201142,Kevin Durant,1610612751,Brooklyn Nets,1,5,9,Made Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-33,99,1,1,20211112,NOP,BKN
+Shot Chart Detail,0022100179,114,201142,Kevin Durant,1610612751,Brooklyn Nets,1,2,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,140,224,1,1,20211112,NOP,BKN
+Shot Chart Detail,0022100179,121,201142,Kevin Durant,1610612751,Brooklyn Nets,1,1,48,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,15,116,1,1,20211112,NOP,BKN
+Shot Chart Detail,0022100179,270,201142,Kevin Durant,1610612751,Brooklyn Nets,2,2,9,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,100,129,1,1,20211112,NOP,BKN
+Shot Chart Detail,0022100179,282,201142,Kevin Durant,1610612751,Brooklyn Nets,2,1,34,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-107,85,1,1,20211112,NOP,BKN
+Shot Chart Detail,0022100179,323,201142,Kevin Durant,1610612751,Brooklyn Nets,3,10,26,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-1,38,1,1,20211112,NOP,BKN
+Shot Chart Detail,0022100179,402,201142,Kevin Durant,1610612751,Brooklyn Nets,3,4,45,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,232,81,1,1,20211112,NOP,BKN
+Shot Chart Detail,0022100179,431,201142,Kevin Durant,1610612751,Brooklyn Nets,3,3,5,Made Shot,Cutting Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,26,36,1,1,20211112,NOP,BKN
+Shot Chart Detail,0022100179,610,201142,Kevin Durant,1610612751,Brooklyn Nets,4,3,11,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,45,109,1,1,20211112,NOP,BKN
+Shot Chart Detail,0022100179,616,201142,Kevin Durant,1610612751,Brooklyn Nets,4,2,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,158,204,1,1,20211112,NOP,BKN
+Shot Chart Detail,0022100196,12,201142,Kevin Durant,1610612751,Brooklyn Nets,1,11,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,176,-6,1,1,20211114,OKC,BKN
+Shot Chart Detail,0022100196,25,201142,Kevin Durant,1610612751,Brooklyn Nets,1,10,9,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,6,1,1,20211114,OKC,BKN
+Shot Chart Detail,0022100196,35,201142,Kevin Durant,1610612751,Brooklyn Nets,1,8,40,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,-10,1,1,20211114,OKC,BKN
+Shot Chart Detail,0022100196,231,201142,Kevin Durant,1610612751,Brooklyn Nets,2,6,2,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,152,201,1,1,20211114,OKC,BKN
+Shot Chart Detail,0022100196,264,201142,Kevin Durant,1610612751,Brooklyn Nets,2,3,23,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,80,47,1,1,20211114,OKC,BKN
+Shot Chart Detail,0022100196,337,201142,Kevin Durant,1610612751,Brooklyn Nets,3,10,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,158,80,1,1,20211114,OKC,BKN
+Shot Chart Detail,0022100196,340,201142,Kevin Durant,1610612751,Brooklyn Nets,3,9,34,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,45,119,1,1,20211114,OKC,BKN
+Shot Chart Detail,0022100196,552,201142,Kevin Durant,1610612751,Brooklyn Nets,4,5,33,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,60,130,1,1,20211114,OKC,BKN
+Shot Chart Detail,0022100196,589,201142,Kevin Durant,1610612751,Brooklyn Nets,4,2,48,Made Shot,Alley Oop Layup shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,47,-10,1,1,20211114,OKC,BKN
+Shot Chart Detail,0022100210,18,201142,Kevin Durant,1610612751,Brooklyn Nets,1,10,33,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,42,54,1,1,20211116,BKN,GSW
+Shot Chart Detail,0022100210,37,201142,Kevin Durant,1610612751,Brooklyn Nets,1,9,4,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,72,145,1,1,20211116,BKN,GSW
+Shot Chart Detail,0022100210,72,201142,Kevin Durant,1610612751,Brooklyn Nets,1,6,10,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,132,241,1,1,20211116,BKN,GSW
+Shot Chart Detail,0022100210,100,201142,Kevin Durant,1610612751,Brooklyn Nets,1,3,10,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,-8,1,1,20211116,BKN,GSW
+Shot Chart Detail,0022100210,324,201142,Kevin Durant,1610612751,Brooklyn Nets,2,1,56,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,6,1,1,20211116,BKN,GSW
+Shot Chart Detail,0022100210,327,201142,Kevin Durant,1610612751,Brooklyn Nets,2,1,35,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-71,52,1,1,20211116,BKN,GSW
+Shot Chart Detail,0022100216,11,201142,Kevin Durant,1610612751,Brooklyn Nets,1,11,26,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,7,1,1,20211117,BKN,CLE
+Shot Chart Detail,0022100216,21,201142,Kevin Durant,1610612751,Brooklyn Nets,1,10,40,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,61,111,1,1,20211117,BKN,CLE
+Shot Chart Detail,0022100216,78,201142,Kevin Durant,1610612751,Brooklyn Nets,1,5,40,Made Shot,Running Alley Oop Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,1,1,1,20211117,BKN,CLE
+Shot Chart Detail,0022100216,105,201142,Kevin Durant,1610612751,Brooklyn Nets,1,4,8,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,229,70,1,1,20211117,BKN,CLE
+Shot Chart Detail,0022100216,154,201142,Kevin Durant,1610612751,Brooklyn Nets,1,0,20,Made Shot,Floating Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-32,15,1,1,20211117,BKN,CLE
+Shot Chart Detail,0022100216,295,201142,Kevin Durant,1610612751,Brooklyn Nets,2,2,15,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-55,71,1,1,20211117,BKN,CLE
+Shot Chart Detail,0022100216,301,201142,Kevin Durant,1610612751,Brooklyn Nets,2,1,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,203,148,1,1,20211117,BKN,CLE
+Shot Chart Detail,0022100216,344,201142,Kevin Durant,1610612751,Brooklyn Nets,3,10,27,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,13,72,120,1,1,20211117,BKN,CLE
+Shot Chart Detail,0022100216,380,201142,Kevin Durant,1610612751,Brooklyn Nets,3,7,16,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,40,3,1,1,20211117,BKN,CLE
+Shot Chart Detail,0022100253,119,201142,Kevin Durant,1610612751,Brooklyn Nets,1,3,30,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,89,242,1,1,20211122,CLE,BKN
+Shot Chart Detail,0022100253,164,201142,Kevin Durant,1610612751,Brooklyn Nets,1,0,1,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-45,113,1,1,20211122,CLE,BKN
+Shot Chart Detail,0022100253,299,201142,Kevin Durant,1610612751,Brooklyn Nets,2,2,40,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,119,52,1,1,20211122,CLE,BKN
+Shot Chart Detail,0022100253,310,201142,Kevin Durant,1610612751,Brooklyn Nets,2,2,1,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-116,3,1,1,20211122,CLE,BKN
+Shot Chart Detail,0022100253,363,201142,Kevin Durant,1610612751,Brooklyn Nets,3,11,6,Made Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-67,80,1,1,20211122,CLE,BKN
+Shot Chart Detail,0022100253,423,201142,Kevin Durant,1610612751,Brooklyn Nets,3,6,5,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,49,67,1,1,20211122,CLE,BKN
+Shot Chart Detail,0022100253,629,201142,Kevin Durant,1610612751,Brooklyn Nets,4,3,11,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,109,25,1,1,20211122,CLE,BKN
+Shot Chart Detail,0022100253,632,201142,Kevin Durant,1610612751,Brooklyn Nets,4,2,51,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,6,1,1,20211122,CLE,BKN
+Shot Chart Detail,0022100270,21,201142,Kevin Durant,1610612751,Brooklyn Nets,1,10,5,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,118,145,1,1,20211124,BOS,BKN
+Shot Chart Detail,0022100270,41,201142,Kevin Durant,1610612751,Brooklyn Nets,1,8,20,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,11,-71,92,1,1,20211124,BOS,BKN
+Shot Chart Detail,0022100270,52,201142,Kevin Durant,1610612751,Brooklyn Nets,1,7,17,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-94,150,1,1,20211124,BOS,BKN
+Shot Chart Detail,0022100270,291,201142,Kevin Durant,1610612751,Brooklyn Nets,2,3,53,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,1,22,1,1,20211124,BOS,BKN
+Shot Chart Detail,0022100270,379,201142,Kevin Durant,1610612751,Brooklyn Nets,3,9,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-62,201,1,1,20211124,BOS,BKN
+Shot Chart Detail,0022100270,425,201142,Kevin Durant,1610612751,Brooklyn Nets,3,5,43,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,94,85,1,1,20211124,BOS,BKN
+Shot Chart Detail,0022100270,582,201142,Kevin Durant,1610612751,Brooklyn Nets,4,6,53,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20211124,BOS,BKN
+Shot Chart Detail,0022100270,585,201142,Kevin Durant,1610612751,Brooklyn Nets,4,6,39,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,2,23,1,1,20211124,BOS,BKN
+Shot Chart Detail,0022100294,55,201142,Kevin Durant,1610612751,Brooklyn Nets,1,7,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,110,166,1,1,20211127,BKN,PHX
+Shot Chart Detail,0022100294,98,201142,Kevin Durant,1610612751,Brooklyn Nets,1,3,22,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,116,136,1,1,20211127,BKN,PHX
+Shot Chart Detail,0022100294,202,201142,Kevin Durant,1610612751,Brooklyn Nets,2,8,29,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-51,92,1,1,20211127,BKN,PHX
+Shot Chart Detail,0022100294,287,201142,Kevin Durant,1610612751,Brooklyn Nets,2,1,59,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,213,131,1,1,20211127,BKN,PHX
+Shot Chart Detail,0022100294,319,201142,Kevin Durant,1610612751,Brooklyn Nets,3,10,48,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,113,95,1,1,20211127,BKN,PHX
+Shot Chart Detail,0022100294,337,201142,Kevin Durant,1610612751,Brooklyn Nets,3,7,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,181,169,1,1,20211127,BKN,PHX
+Shot Chart Detail,0022100294,424,201142,Kevin Durant,1610612751,Brooklyn Nets,3,1,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-64,260,1,1,20211127,BKN,PHX
+Shot Chart Detail,0022100294,435,201142,Kevin Durant,1610612751,Brooklyn Nets,3,0,9,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,53,60,1,1,20211127,BKN,PHX
+Shot Chart Detail,0022100294,473,201142,Kevin Durant,1610612751,Brooklyn Nets,4,10,48,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,109,154,1,1,20211127,BKN,PHX
+Shot Chart Detail,0022100294,511,201142,Kevin Durant,1610612751,Brooklyn Nets,4,8,37,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-15,265,1,1,20211127,BKN,PHX
+Shot Chart Detail,0022100294,514,201142,Kevin Durant,1610612751,Brooklyn Nets,4,8,4,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-60,49,1,1,20211127,BKN,PHX
+Shot Chart Detail,0022100294,596,201142,Kevin Durant,1610612751,Brooklyn Nets,4,0,45,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,11,1,1,20211127,BKN,PHX
+Shot Chart Detail,0022100294,615,201142,Kevin Durant,1610612751,Brooklyn Nets,4,0,16,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-28,91,1,1,20211127,BKN,PHX
+Shot Chart Detail,0022100314,118,201142,Kevin Durant,1610612751,Brooklyn Nets,1,1,48,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,20,170,1,1,20211130,BKN,NYK
+Shot Chart Detail,0022100314,234,201142,Kevin Durant,1610612751,Brooklyn Nets,2,5,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,75,183,1,1,20211130,BKN,NYK
+Shot Chart Detail,0022100314,336,201142,Kevin Durant,1610612751,Brooklyn Nets,3,10,37,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,49,92,1,1,20211130,BKN,NYK
+Shot Chart Detail,0022100314,398,201142,Kevin Durant,1610612751,Brooklyn Nets,3,5,54,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,156,46,1,1,20211130,BKN,NYK
+Shot Chart Detail,0022100314,402,201142,Kevin Durant,1610612751,Brooklyn Nets,3,5,22,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-102,30,1,1,20211130,BKN,NYK
+Shot Chart Detail,0022100314,434,201142,Kevin Durant,1610612751,Brooklyn Nets,3,2,29,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,129,47,1,1,20211130,BKN,NYK
+Shot Chart Detail,0022100314,547,201142,Kevin Durant,1610612751,Brooklyn Nets,4,5,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,147,29,1,1,20211130,BKN,NYK
+Shot Chart Detail,0022100314,577,201142,Kevin Durant,1610612751,Brooklyn Nets,4,3,6,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-114,36,1,1,20211130,BKN,NYK
+Shot Chart Detail,0022100314,585,201142,Kevin Durant,1610612751,Brooklyn Nets,4,1,37,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,92,157,1,1,20211130,BKN,NYK
+Shot Chart Detail,0022100336,63,201142,Kevin Durant,1610612751,Brooklyn Nets,1,7,27,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-10,136,1,1,20211203,BKN,MIN
+Shot Chart Detail,0022100336,68,201142,Kevin Durant,1610612751,Brooklyn Nets,1,7,1,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,56,120,1,1,20211203,BKN,MIN
+Shot Chart Detail,0022100336,372,201142,Kevin Durant,1610612751,Brooklyn Nets,2,1,20,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,15,1,1,20211203,BKN,MIN
+Shot Chart Detail,0022100336,431,201142,Kevin Durant,1610612751,Brooklyn Nets,3,8,33,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20211203,BKN,MIN
+Shot Chart Detail,0022100336,460,201142,Kevin Durant,1610612751,Brooklyn Nets,3,6,7,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,0,1,1,20211203,BKN,MIN
+Shot Chart Detail,0022100336,641,201142,Kevin Durant,1610612751,Brooklyn Nets,4,7,3,Made Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-13,59,1,1,20211203,BKN,MIN
+Shot Chart Detail,0022100336,646,201142,Kevin Durant,1610612751,Brooklyn Nets,4,6,37,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,14,74,124,1,1,20211203,BKN,MIN
+Shot Chart Detail,0022100336,649,201142,Kevin Durant,1610612751,Brooklyn Nets,4,6,2,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,40,125,1,1,20211203,BKN,MIN
+Shot Chart Detail,0022100336,721,201142,Kevin Durant,1610612751,Brooklyn Nets,4,0,11,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,135,67,1,1,20211203,BKN,MIN
+Shot Chart Detail,0022100343,57,201142,Kevin Durant,1610612751,Brooklyn Nets,1,6,27,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-31,199,1,1,20211204,BKN,CHI
+Shot Chart Detail,0022100343,286,201142,Kevin Durant,1610612751,Brooklyn Nets,2,3,48,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,15,119,1,1,20211204,BKN,CHI
+Shot Chart Detail,0022100343,291,201142,Kevin Durant,1610612751,Brooklyn Nets,2,3,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,125,17,1,1,20211204,BKN,CHI
+Shot Chart Detail,0022100343,301,201142,Kevin Durant,1610612751,Brooklyn Nets,2,2,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,89,150,1,1,20211204,BKN,CHI
+Shot Chart Detail,0022100343,323,201142,Kevin Durant,1610612751,Brooklyn Nets,2,0,24,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-100,42,1,1,20211204,BKN,CHI
+Shot Chart Detail,0022100343,335,201142,Kevin Durant,1610612751,Brooklyn Nets,3,11,35,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,118,139,1,1,20211204,BKN,CHI
+Shot Chart Detail,0022100343,364,201142,Kevin Durant,1610612751,Brooklyn Nets,3,9,16,Made Shot,Alley Oop Layup shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-21,86,1,1,20211204,BKN,CHI
+Shot Chart Detail,0022100343,381,201142,Kevin Durant,1610612751,Brooklyn Nets,3,7,2,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,228,55,1,1,20211204,BKN,CHI
+Shot Chart Detail,0022100343,562,201142,Kevin Durant,1610612751,Brooklyn Nets,4,6,45,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,125,91,1,1,20211204,BKN,CHI
+Shot Chart Detail,0022100343,571,201142,Kevin Durant,1610612751,Brooklyn Nets,4,5,40,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-45,68,1,1,20211204,BKN,CHI
+Shot Chart Detail,0022100343,628,201142,Kevin Durant,1610612751,Brooklyn Nets,4,0,39,Made Shot,Turnaround Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-51,247,1,1,20211204,BKN,CHI
+Shot Chart Detail,0022100343,637,201142,Kevin Durant,1610612751,Brooklyn Nets,4,0,13,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,5,1,1,20211204,BKN,CHI
+Shot Chart Detail,0022100363,20,201142,Kevin Durant,1610612751,Brooklyn Nets,1,10,11,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,96,109,1,1,20211207,DAL,BKN
+Shot Chart Detail,0022100363,66,201142,Kevin Durant,1610612751,Brooklyn Nets,1,5,58,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20211207,DAL,BKN
+Shot Chart Detail,0022100363,126,201142,Kevin Durant,1610612751,Brooklyn Nets,1,1,5,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-126,11,1,1,20211207,DAL,BKN
+Shot Chart Detail,0022100363,289,201142,Kevin Durant,1610612751,Brooklyn Nets,2,0,59,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,169,31,1,1,20211207,DAL,BKN
+Shot Chart Detail,0022100363,364,201142,Kevin Durant,1610612751,Brooklyn Nets,3,7,11,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,107,34,1,1,20211207,DAL,BKN
+Shot Chart Detail,0022100363,475,201142,Kevin Durant,1610612751,Brooklyn Nets,4,11,29,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,137,50,1,1,20211207,DAL,BKN
+Shot Chart Detail,0022100363,485,201142,Kevin Durant,1610612751,Brooklyn Nets,4,9,56,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,148,200,1,1,20211207,DAL,BKN
+Shot Chart Detail,0022100363,527,201142,Kevin Durant,1610612751,Brooklyn Nets,4,7,10,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,14,74,126,1,1,20211207,DAL,BKN
+Shot Chart Detail,0022100363,554,201142,Kevin Durant,1610612751,Brooklyn Nets,4,4,49,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-23,146,1,1,20211207,DAL,BKN
+Shot Chart Detail,0022100363,592,201142,Kevin Durant,1610612751,Brooklyn Nets,4,1,1,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-140,21,1,1,20211207,DAL,BKN
+Shot Chart Detail,0022100384,39,201142,Kevin Durant,1610612751,Brooklyn Nets,1,8,31,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-4,103,1,1,20211210,ATL,BKN
+Shot Chart Detail,0022100384,55,201142,Kevin Durant,1610612751,Brooklyn Nets,1,7,12,Made Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-21,106,1,1,20211210,ATL,BKN
+Shot Chart Detail,0022100384,66,201142,Kevin Durant,1610612751,Brooklyn Nets,1,6,20,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,-10,1,1,20211210,ATL,BKN
+Shot Chart Detail,0022100384,91,201142,Kevin Durant,1610612751,Brooklyn Nets,1,4,15,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,16,1,1,20211210,ATL,BKN
+Shot Chart Detail,0022100384,141,201142,Kevin Durant,1610612751,Brooklyn Nets,1,0,31,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,104,14,1,1,20211210,ATL,BKN
+Shot Chart Detail,0022100384,144,201142,Kevin Durant,1610612751,Brooklyn Nets,1,0,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,3,1,1,20211210,ATL,BKN
+Shot Chart Detail,0022100384,293,201142,Kevin Durant,1610612751,Brooklyn Nets,2,2,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,31,253,1,1,20211210,ATL,BKN
+Shot Chart Detail,0022100384,312,201142,Kevin Durant,1610612751,Brooklyn Nets,2,2,4,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-22,120,1,1,20211210,ATL,BKN
+Shot Chart Detail,0022100384,419,201142,Kevin Durant,1610612751,Brooklyn Nets,3,6,23,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,5,1,1,20211210,ATL,BKN
+Shot Chart Detail,0022100384,490,201142,Kevin Durant,1610612751,Brooklyn Nets,3,2,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-156,41,1,1,20211210,ATL,BKN
+Shot Chart Detail,0022100384,586,201142,Kevin Durant,1610612751,Brooklyn Nets,4,7,2,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,96,162,1,1,20211210,ATL,BKN
+Shot Chart Detail,0022100384,633,201142,Kevin Durant,1610612751,Brooklyn Nets,4,2,14,Made Shot,Running Pull-Up Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-126,134,1,1,20211210,ATL,BKN
+Shot Chart Detail,0022100399,67,201142,Kevin Durant,1610612751,Brooklyn Nets,1,6,29,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-109,242,1,1,20211212,DET,BKN
+Shot Chart Detail,0022100399,100,201142,Kevin Durant,1610612751,Brooklyn Nets,1,4,18,Made Shot,Running Pull-Up Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,110,130,1,1,20211212,DET,BKN
+Shot Chart Detail,0022100399,128,201142,Kevin Durant,1610612751,Brooklyn Nets,1,2,44,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-78,67,1,1,20211212,DET,BKN
+Shot Chart Detail,0022100399,288,201142,Kevin Durant,1610612751,Brooklyn Nets,2,5,6,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,89,40,1,1,20211212,DET,BKN
+Shot Chart Detail,0022100399,298,201142,Kevin Durant,1610612751,Brooklyn Nets,2,4,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-86,243,1,1,20211212,DET,BKN
+Shot Chart Detail,0022100399,338,201142,Kevin Durant,1610612751,Brooklyn Nets,2,1,57,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,86,50,1,1,20211212,DET,BKN
+Shot Chart Detail,0022100399,381,201142,Kevin Durant,1610612751,Brooklyn Nets,3,11,15,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,22,5,1,1,20211212,DET,BKN
+Shot Chart Detail,0022100399,389,201142,Kevin Durant,1610612751,Brooklyn Nets,3,10,34,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,83,54,1,1,20211212,DET,BKN
+Shot Chart Detail,0022100399,392,201142,Kevin Durant,1610612751,Brooklyn Nets,3,10,2,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-26,10,1,1,20211212,DET,BKN
+Shot Chart Detail,0022100399,426,201142,Kevin Durant,1610612751,Brooklyn Nets,3,7,28,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,21,1,1,20211212,DET,BKN
+Shot Chart Detail,0022100399,433,201142,Kevin Durant,1610612751,Brooklyn Nets,3,6,29,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,2,1,1,20211212,DET,BKN
+Shot Chart Detail,0022100399,443,201142,Kevin Durant,1610612751,Brooklyn Nets,3,5,52,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-78,260,1,1,20211212,DET,BKN
+Shot Chart Detail,0022100399,473,201142,Kevin Durant,1610612751,Brooklyn Nets,3,3,46,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-143,252,1,1,20211212,DET,BKN
+Shot Chart Detail,0022100399,540,201142,Kevin Durant,1610612751,Brooklyn Nets,4,11,4,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,61,257,1,1,20211212,DET,BKN
+Shot Chart Detail,0022100399,647,201142,Kevin Durant,1610612751,Brooklyn Nets,4,1,47,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,6,1,1,20211212,DET,BKN
+Shot Chart Detail,0022100399,654,201142,Kevin Durant,1610612751,Brooklyn Nets,4,1,20,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,76,6,1,1,20211212,DET,BKN
+Shot Chart Detail,0022100413,41,201142,Kevin Durant,1610612751,Brooklyn Nets,1,9,11,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,74,18,1,1,20211214,BKN,TOR
+Shot Chart Detail,0022100413,110,201142,Kevin Durant,1610612751,Brooklyn Nets,1,4,27,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,91,-8,1,1,20211214,BKN,TOR
+Shot Chart Detail,0022100413,295,201142,Kevin Durant,1610612751,Brooklyn Nets,2,4,26,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,6,1,1,20211214,BKN,TOR
+Shot Chart Detail,0022100413,310,201142,Kevin Durant,1610612751,Brooklyn Nets,2,3,8,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-33,83,1,1,20211214,BKN,TOR
+Shot Chart Detail,0022100413,351,201142,Kevin Durant,1610612751,Brooklyn Nets,2,0,11,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-37,76,1,1,20211214,BKN,TOR
+Shot Chart Detail,0022100413,410,201142,Kevin Durant,1610612751,Brooklyn Nets,3,7,23,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-2,252,1,1,20211214,BKN,TOR
+Shot Chart Detail,0022100413,430,201142,Kevin Durant,1610612751,Brooklyn Nets,3,5,39,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,80,-2,1,1,20211214,BKN,TOR
+Shot Chart Detail,0022100413,485,201142,Kevin Durant,1610612751,Brooklyn Nets,3,1,53,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,17,1,1,20211214,BKN,TOR
+Shot Chart Detail,0022100413,495,201142,Kevin Durant,1610612751,Brooklyn Nets,3,0,17,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,112,129,1,1,20211214,BKN,TOR
+Shot Chart Detail,0022100413,659,201142,Kevin Durant,1610612751,Brooklyn Nets,5,4,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,138,146,1,1,20211214,BKN,TOR
+Shot Chart Detail,0022100413,669,201142,Kevin Durant,1610612751,Brooklyn Nets,5,3,24,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,58,110,1,1,20211214,BKN,TOR
+Shot Chart Detail,0022100413,674,201142,Kevin Durant,1610612751,Brooklyn Nets,5,2,45,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,142,96,1,1,20211214,BKN,TOR
+Shot Chart Detail,0022100429,7,201142,Kevin Durant,1610612751,Brooklyn Nets,1,11,45,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-108,13,1,1,20211216,BKN,PHI
+Shot Chart Detail,0022100429,40,201142,Kevin Durant,1610612751,Brooklyn Nets,1,8,42,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,114,42,1,1,20211216,BKN,PHI
+Shot Chart Detail,0022100429,92,201142,Kevin Durant,1610612751,Brooklyn Nets,1,4,26,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20211216,BKN,PHI
+Shot Chart Detail,0022100429,140,201142,Kevin Durant,1610612751,Brooklyn Nets,1,0,44,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-97,64,1,1,20211216,BKN,PHI
+Shot Chart Detail,0022100429,232,201142,Kevin Durant,1610612751,Brooklyn Nets,2,5,43,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,134,91,1,1,20211216,BKN,PHI
+Shot Chart Detail,0022100429,290,201142,Kevin Durant,1610612751,Brooklyn Nets,2,2,36,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,1,113,1,1,20211216,BKN,PHI
+Shot Chart Detail,0022100429,415,201142,Kevin Durant,1610612751,Brooklyn Nets,3,5,12,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,120,115,1,1,20211216,BKN,PHI
+Shot Chart Detail,0022100429,417,201142,Kevin Durant,1610612751,Brooklyn Nets,3,4,44,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,-4,1,1,20211216,BKN,PHI
+Shot Chart Detail,0022100429,420,201142,Kevin Durant,1610612751,Brooklyn Nets,3,4,13,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-96,64,1,1,20211216,BKN,PHI
+Shot Chart Detail,0022100429,585,201142,Kevin Durant,1610612751,Brooklyn Nets,4,4,44,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-38,253,1,1,20211216,BKN,PHI
+Shot Chart Detail,0022100429,595,201142,Kevin Durant,1610612751,Brooklyn Nets,4,2,54,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,81,134,1,1,20211216,BKN,PHI
+Shot Chart Detail,0022100429,601,201142,Kevin Durant,1610612751,Brooklyn Nets,4,1,46,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-1,250,1,1,20211216,BKN,PHI
+Shot Chart Detail,0022100429,619,201142,Kevin Durant,1610612751,Brooklyn Nets,4,0,35,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-45,34,1,1,20211216,BKN,PHI
+Shot Chart Detail,0022100486,17,201142,Kevin Durant,1610612751,Brooklyn Nets,1,10,50,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,51,64,1,1,20220110,POR,BKN
+Shot Chart Detail,0022100486,156,201142,Kevin Durant,1610612751,Brooklyn Nets,1,1,13,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,164,199,1,1,20220110,POR,BKN
+Shot Chart Detail,0022100486,267,201142,Kevin Durant,1610612751,Brooklyn Nets,2,6,8,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-16,143,1,1,20220110,POR,BKN
+Shot Chart Detail,0022100486,293,201142,Kevin Durant,1610612751,Brooklyn Nets,2,3,56,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-224,117,1,1,20220110,POR,BKN
+Shot Chart Detail,0022100486,330,201142,Kevin Durant,1610612751,Brooklyn Nets,2,1,2,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,2,197,1,1,20220110,POR,BKN
+Shot Chart Detail,0022100486,394,201142,Kevin Durant,1610612751,Brooklyn Nets,3,8,23,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-56,102,1,1,20220110,POR,BKN
+Shot Chart Detail,0022100486,452,201142,Kevin Durant,1610612751,Brooklyn Nets,3,3,28,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,20,121,1,1,20220110,POR,BKN
+Shot Chart Detail,0022100486,556,201142,Kevin Durant,1610612751,Brooklyn Nets,4,7,17,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,92,15,1,1,20220110,POR,BKN
+Shot Chart Detail,0022100486,628,201142,Kevin Durant,1610612751,Brooklyn Nets,4,1,29,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,0,1,1,20220110,POR,BKN
+Shot Chart Detail,0022100525,43,201142,Kevin Durant,1610612751,Brooklyn Nets,1,9,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-163,205,1,1,20211230,BKN,PHI
+Shot Chart Detail,0022100525,65,201142,Kevin Durant,1610612751,Brooklyn Nets,1,7,11,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,8,1,1,20211230,BKN,PHI
+Shot Chart Detail,0022100525,69,201142,Kevin Durant,1610612751,Brooklyn Nets,1,6,45,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-72,48,1,1,20211230,BKN,PHI
+Shot Chart Detail,0022100525,265,201142,Kevin Durant,1610612751,Brooklyn Nets,2,5,14,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,92,57,1,1,20211230,BKN,PHI
+Shot Chart Detail,0022100525,330,201142,Kevin Durant,1610612751,Brooklyn Nets,2,1,27,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,115,-4,1,1,20211230,BKN,PHI
+Shot Chart Detail,0022100525,401,201142,Kevin Durant,1610612751,Brooklyn Nets,3,8,17,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,45,83,1,1,20211230,BKN,PHI
+Shot Chart Detail,0022100525,451,201142,Kevin Durant,1610612751,Brooklyn Nets,3,5,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,47,148,1,1,20211230,BKN,PHI
+Shot Chart Detail,0022100525,461,201142,Kevin Durant,1610612751,Brooklyn Nets,3,4,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-151,194,1,1,20211230,BKN,PHI
+Shot Chart Detail,0022100525,465,201142,Kevin Durant,1610612751,Brooklyn Nets,3,3,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-2,251,1,1,20211230,BKN,PHI
+Shot Chart Detail,0022100525,500,201142,Kevin Durant,1610612751,Brooklyn Nets,3,1,34,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-26,150,1,1,20211230,BKN,PHI
+Shot Chart Detail,0022100525,614,201142,Kevin Durant,1610612751,Brooklyn Nets,4,5,33,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-85,95,1,1,20211230,BKN,PHI
+Shot Chart Detail,0022100525,623,201142,Kevin Durant,1610612751,Brooklyn Nets,4,4,53,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-53,208,1,1,20211230,BKN,PHI
+Shot Chart Detail,0022100525,647,201142,Kevin Durant,1610612751,Brooklyn Nets,4,3,3,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,15,147,1,1,20211230,BKN,PHI
+Shot Chart Detail,0022100542,23,201142,Kevin Durant,1610612751,Brooklyn Nets,1,9,34,Made Shot,Running Pull-Up Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,151,100,1,1,20220101,BKN,LAC
+Shot Chart Detail,0022100542,82,201142,Kevin Durant,1610612751,Brooklyn Nets,1,5,5,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-58,243,1,1,20220101,BKN,LAC
+Shot Chart Detail,0022100542,113,201142,Kevin Durant,1610612751,Brooklyn Nets,1,2,54,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,0,1,1,20220101,BKN,LAC
+Shot Chart Detail,0022100542,273,201142,Kevin Durant,1610612751,Brooklyn Nets,2,4,22,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-44,115,1,1,20220101,BKN,LAC
+Shot Chart Detail,0022100542,295,201142,Kevin Durant,1610612751,Brooklyn Nets,2,2,27,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,145,22,1,1,20220101,BKN,LAC
+Shot Chart Detail,0022100542,317,201142,Kevin Durant,1610612751,Brooklyn Nets,2,0,2,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-45,69,1,1,20220101,BKN,LAC
+Shot Chart Detail,0022100542,341,201142,Kevin Durant,1610612751,Brooklyn Nets,3,10,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,39,159,1,1,20220101,BKN,LAC
+Shot Chart Detail,0022100542,351,201142,Kevin Durant,1610612751,Brooklyn Nets,3,9,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,13,-4,139,1,1,20220101,BKN,LAC
+Shot Chart Detail,0022100542,354,201142,Kevin Durant,1610612751,Brooklyn Nets,3,8,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,7,1,1,20220101,BKN,LAC
+Shot Chart Detail,0022100542,560,201142,Kevin Durant,1610612751,Brooklyn Nets,4,7,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-83,253,1,1,20220101,BKN,LAC
+Shot Chart Detail,0022100542,622,201142,Kevin Durant,1610612751,Brooklyn Nets,4,2,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,102,158,1,1,20220101,BKN,LAC
+Shot Chart Detail,0022100554,39,201142,Kevin Durant,1610612751,Brooklyn Nets,1,9,12,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,-15,1,1,20220103,BKN,MEM
+Shot Chart Detail,0022100554,104,201142,Kevin Durant,1610612751,Brooklyn Nets,1,4,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,146,198,1,1,20220103,BKN,MEM
+Shot Chart Detail,0022100554,125,201142,Kevin Durant,1610612751,Brooklyn Nets,1,2,46,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,6,1,1,20220103,BKN,MEM
+Shot Chart Detail,0022100554,146,201142,Kevin Durant,1610612751,Brooklyn Nets,1,1,30,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-60,72,1,1,20220103,BKN,MEM
+Shot Chart Detail,0022100554,171,201142,Kevin Durant,1610612751,Brooklyn Nets,1,0,4,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,7,134,1,1,20220103,BKN,MEM
+Shot Chart Detail,0022100554,363,201142,Kevin Durant,1610612751,Brooklyn Nets,3,11,21,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-38,117,1,1,20220103,BKN,MEM
+Shot Chart Detail,0022100554,367,201142,Kevin Durant,1610612751,Brooklyn Nets,3,10,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-81,251,1,1,20220103,BKN,MEM
+Shot Chart Detail,0022100554,475,201142,Kevin Durant,1610612751,Brooklyn Nets,3,3,43,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,23,120,1,1,20220103,BKN,MEM
+Shot Chart Detail,0022100571,11,201142,Kevin Durant,1610612751,Brooklyn Nets,1,11,1,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,1,131,1,1,20220105,IND,BKN
+Shot Chart Detail,0022100571,24,201142,Kevin Durant,1610612751,Brooklyn Nets,1,9,50,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,2,78,1,1,20220105,IND,BKN
+Shot Chart Detail,0022100571,41,201142,Kevin Durant,1610612751,Brooklyn Nets,1,8,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,190,155,1,1,20220105,IND,BKN
+Shot Chart Detail,0022100571,114,201142,Kevin Durant,1610612751,Brooklyn Nets,1,3,47,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,186,95,1,1,20220105,IND,BKN
+Shot Chart Detail,0022100571,143,201142,Kevin Durant,1610612751,Brooklyn Nets,1,1,50,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-124,-2,1,1,20220105,IND,BKN
+Shot Chart Detail,0022100571,163,201142,Kevin Durant,1610612751,Brooklyn Nets,1,0,17,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,4,1,1,20220105,IND,BKN
+Shot Chart Detail,0022100571,269,201142,Kevin Durant,1610612751,Brooklyn Nets,2,4,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,98,146,1,1,20220105,IND,BKN
+Shot Chart Detail,0022100571,287,201142,Kevin Durant,1610612751,Brooklyn Nets,2,3,26,Made Shot,Turnaround Fadeaway Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,69,35,1,1,20220105,IND,BKN
+Shot Chart Detail,0022100571,403,201142,Kevin Durant,1610612751,Brooklyn Nets,3,6,38,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,8,1,1,20220105,IND,BKN
+Shot Chart Detail,0022100571,431,201142,Kevin Durant,1610612751,Brooklyn Nets,3,4,10,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,98,75,1,1,20220105,IND,BKN
+Shot Chart Detail,0022100571,433,201142,Kevin Durant,1610612751,Brooklyn Nets,3,3,43,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,91,233,1,1,20220105,IND,BKN
+Shot Chart Detail,0022100571,454,201142,Kevin Durant,1610612751,Brooklyn Nets,3,1,53,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-96,84,1,1,20220105,IND,BKN
+Shot Chart Detail,0022100571,521,201142,Kevin Durant,1610612751,Brooklyn Nets,4,9,31,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,7,74,1,1,20220105,IND,BKN
+Shot Chart Detail,0022100571,602,201142,Kevin Durant,1610612751,Brooklyn Nets,4,3,39,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,18,121,1,1,20220105,IND,BKN
+Shot Chart Detail,0022100571,643,201142,Kevin Durant,1610612751,Brooklyn Nets,4,0,41,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,120,147,1,1,20220105,IND,BKN
+Shot Chart Detail,0022100583,20,201142,Kevin Durant,1610612751,Brooklyn Nets,1,10,24,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-97,21,1,1,20220107,BKN,MIL
+Shot Chart Detail,0022100583,128,201142,Kevin Durant,1610612751,Brooklyn Nets,1,2,44,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,102,137,1,1,20220107,BKN,MIL
+Shot Chart Detail,0022100583,252,201142,Kevin Durant,1610612751,Brooklyn Nets,2,5,44,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-69,52,1,1,20220107,BKN,MIL
+Shot Chart Detail,0022100583,289,201142,Kevin Durant,1610612751,Brooklyn Nets,2,3,26,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,8,1,1,20220107,BKN,MIL
+Shot Chart Detail,0022100583,294,201142,Kevin Durant,1610612751,Brooklyn Nets,2,2,55,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,100,232,1,1,20220107,BKN,MIL
+Shot Chart Detail,0022100583,309,201142,Kevin Durant,1610612751,Brooklyn Nets,2,1,38,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,5,1,1,20220107,BKN,MIL
+Shot Chart Detail,0022100583,352,201142,Kevin Durant,1610612751,Brooklyn Nets,3,10,16,Made Shot,Cutting Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,0,1,1,20220107,BKN,MIL
+Shot Chart Detail,0022100583,398,201142,Kevin Durant,1610612751,Brooklyn Nets,3,6,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,140,59,1,1,20220107,BKN,MIL
+Shot Chart Detail,0022100583,495,201142,Kevin Durant,1610612751,Brooklyn Nets,3,0,3,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,7,1,1,20220107,BKN,MIL
+Shot Chart Detail,0022100583,508,201142,Kevin Durant,1610612751,Brooklyn Nets,4,11,42,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,7,1,1,20220107,BKN,MIL
+Shot Chart Detail,0022100602,14,201142,Kevin Durant,1610612751,Brooklyn Nets,1,11,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-43,258,1,1,20220109,BKN,SAS
+Shot Chart Detail,0022100602,85,201142,Kevin Durant,1610612751,Brooklyn Nets,1,5,43,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,5,1,1,20220109,BKN,SAS
+Shot Chart Detail,0022100602,91,201142,Kevin Durant,1610612751,Brooklyn Nets,1,5,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,1,181,1,1,20220109,BKN,SAS
+Shot Chart Detail,0022100602,123,201142,Kevin Durant,1610612751,Brooklyn Nets,1,3,50,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-145,37,1,1,20220109,BKN,SAS
+Shot Chart Detail,0022100602,166,201142,Kevin Durant,1610612751,Brooklyn Nets,1,0,58,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-59,132,1,1,20220109,BKN,SAS
+Shot Chart Detail,0022100602,295,201142,Kevin Durant,1610612751,Brooklyn Nets,2,4,42,Made Shot,Running Pull-Up Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,119,6,1,1,20220109,BKN,SAS
+Shot Chart Detail,0022100602,328,201142,Kevin Durant,1610612751,Brooklyn Nets,2,2,16,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,8,1,1,20220109,BKN,SAS
+Shot Chart Detail,0022100602,459,201142,Kevin Durant,1610612751,Brooklyn Nets,3,3,47,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,145,95,1,1,20220109,BKN,SAS
+Shot Chart Detail,0022100602,516,201142,Kevin Durant,1610612751,Brooklyn Nets,3,0,27,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-121,3,1,1,20220109,BKN,SAS
+Shot Chart Detail,0022100602,636,201142,Kevin Durant,1610612751,Brooklyn Nets,4,4,1,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,62,113,1,1,20220109,BKN,SAS
+Shot Chart Detail,0022100602,730,201142,Kevin Durant,1610612751,Brooklyn Nets,5,3,46,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20220109,BKN,SAS
+Shot Chart Detail,0022100625,25,201142,Kevin Durant,1610612751,Brooklyn Nets,1,10,3,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,11,1,1,20220112,CHI,BKN
+Shot Chart Detail,0022100625,97,201142,Kevin Durant,1610612751,Brooklyn Nets,1,4,19,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,157,212,1,1,20220112,CHI,BKN
+Shot Chart Detail,0022100625,276,201142,Kevin Durant,1610612751,Brooklyn Nets,2,5,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,12,151,1,1,20220112,CHI,BKN
+Shot Chart Detail,0022100625,347,201142,Kevin Durant,1610612751,Brooklyn Nets,3,11,6,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,35,1,1,20220112,CHI,BKN
+Shot Chart Detail,0022100625,351,201142,Kevin Durant,1610612751,Brooklyn Nets,3,10,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,88,162,1,1,20220112,CHI,BKN
+Shot Chart Detail,0022100625,443,201142,Kevin Durant,1610612751,Brooklyn Nets,3,3,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,134,119,1,1,20220112,CHI,BKN
+Shot Chart Detail,0022100625,477,201142,Kevin Durant,1610612751,Brooklyn Nets,3,1,43,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,151,192,1,1,20220112,CHI,BKN
+Shot Chart Detail,0022100644,9,201142,Kevin Durant,1610612751,Brooklyn Nets,1,11,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,123,103,1,1,20220115,BKN,NOP
+Shot Chart Detail,0022100644,53,201142,Kevin Durant,1610612751,Brooklyn Nets,1,7,3,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-5,164,1,1,20220115,BKN,NOP
+Shot Chart Detail,0022100644,78,201142,Kevin Durant,1610612751,Brooklyn Nets,1,5,25,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-43,245,1,1,20220115,BKN,NOP
+Shot Chart Detail,0022100644,104,201142,Kevin Durant,1610612751,Brooklyn Nets,1,3,8,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,121,111,1,1,20220115,BKN,NOP
+Shot Chart Detail,0022100941,47,201142,Kevin Durant,1610612751,Brooklyn Nets,1,8,15,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-18,206,1,1,20220303,BKN,MIA
+Shot Chart Detail,0022100941,53,201142,Kevin Durant,1610612751,Brooklyn Nets,1,7,46,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-20,167,1,1,20220303,BKN,MIA
+Shot Chart Detail,0022100941,72,201142,Kevin Durant,1610612751,Brooklyn Nets,1,6,28,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,78,-5,1,1,20220303,BKN,MIA
+Shot Chart Detail,0022100941,101,201142,Kevin Durant,1610612751,Brooklyn Nets,1,4,41,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-37,99,1,1,20220303,BKN,MIA
+Shot Chart Detail,0022100941,322,201142,Kevin Durant,1610612751,Brooklyn Nets,2,2,27,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,61,142,1,1,20220303,BKN,MIA
+Shot Chart Detail,0022100941,334,201142,Kevin Durant,1610612751,Brooklyn Nets,2,1,52,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,13,-69,115,1,1,20220303,BKN,MIA
+Shot Chart Detail,0022100941,337,201142,Kevin Durant,1610612751,Brooklyn Nets,2,1,28,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-88,246,1,1,20220303,BKN,MIA
+Shot Chart Detail,0022100941,478,201142,Kevin Durant,1610612751,Brooklyn Nets,3,2,39,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-6,256,1,1,20220303,BKN,MIA
+Shot Chart Detail,0022100941,506,201142,Kevin Durant,1610612751,Brooklyn Nets,3,0,51,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,99,88,1,1,20220303,BKN,MIA
+Shot Chart Detail,0022100941,640,201142,Kevin Durant,1610612751,Brooklyn Nets,4,2,48,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,10,122,1,1,20220303,BKN,MIA
+Shot Chart Detail,0022100960,18,201142,Kevin Durant,1610612751,Brooklyn Nets,1,10,24,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,29,141,1,1,20220306,BOS,BKN
+Shot Chart Detail,0022100960,26,201142,Kevin Durant,1610612751,Brooklyn Nets,1,9,57,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,70,273,1,1,20220306,BOS,BKN
+Shot Chart Detail,0022100960,40,201142,Kevin Durant,1610612751,Brooklyn Nets,1,8,46,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,89,242,1,1,20220306,BOS,BKN
+Shot Chart Detail,0022100960,98,201142,Kevin Durant,1610612751,Brooklyn Nets,1,5,20,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,138,89,1,1,20220306,BOS,BKN
+Shot Chart Detail,0022100960,246,201142,Kevin Durant,1610612751,Brooklyn Nets,2,7,33,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-137,216,1,1,20220306,BOS,BKN
+Shot Chart Detail,0022100960,315,201142,Kevin Durant,1610612751,Brooklyn Nets,2,2,43,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,8,1,1,20220306,BOS,BKN
+Shot Chart Detail,0022100960,386,201142,Kevin Durant,1610612751,Brooklyn Nets,3,8,13,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-16,21,1,1,20220306,BOS,BKN
+Shot Chart Detail,0022100960,455,201142,Kevin Durant,1610612751,Brooklyn Nets,3,3,0,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,80,256,1,1,20220306,BOS,BKN
+Shot Chart Detail,0022100960,483,201142,Kevin Durant,1610612751,Brooklyn Nets,3,1,19,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-71,146,1,1,20220306,BOS,BKN
+Shot Chart Detail,0022100960,594,201142,Kevin Durant,1610612751,Brooklyn Nets,4,6,8,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,102,99,1,1,20220306,BOS,BKN
+Shot Chart Detail,0022100960,596,201142,Kevin Durant,1610612751,Brooklyn Nets,4,5,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,143,136,1,1,20220306,BOS,BKN
+Shot Chart Detail,0022100960,648,201142,Kevin Durant,1610612751,Brooklyn Nets,4,1,3,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-11,136,1,1,20220306,BOS,BKN
+Shot Chart Detail,0022100975,30,201142,Kevin Durant,1610612751,Brooklyn Nets,1,9,48,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,80,190,1,1,20220308,CHA,BKN
+Shot Chart Detail,0022100975,71,201142,Kevin Durant,1610612751,Brooklyn Nets,1,6,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,2,253,1,1,20220308,CHA,BKN
+Shot Chart Detail,0022100975,86,201142,Kevin Durant,1610612751,Brooklyn Nets,1,5,8,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,11,1,1,20220308,CHA,BKN
+Shot Chart Detail,0022100975,315,201142,Kevin Durant,1610612751,Brooklyn Nets,2,0,49,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,8,1,1,20220308,CHA,BKN
+Shot Chart Detail,0022100975,592,201142,Kevin Durant,1610612751,Brooklyn Nets,4,5,38,Made Shot,Turnaround Fadeaway Bank Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-118,55,1,1,20220308,CHA,BKN
+Shot Chart Detail,0022100975,654,201142,Kevin Durant,1610612751,Brooklyn Nets,4,1,36,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,10,1,1,20220308,CHA,BKN
+Shot Chart Detail,0022100993,14,201142,Kevin Durant,1610612751,Brooklyn Nets,1,11,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,81,29,1,1,20220310,PHI,BKN
+Shot Chart Detail,0022100993,27,201142,Kevin Durant,1610612751,Brooklyn Nets,1,10,14,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,5,1,1,20220310,PHI,BKN
+Shot Chart Detail,0022100993,42,201142,Kevin Durant,1610612751,Brooklyn Nets,1,8,46,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,4,168,1,1,20220310,PHI,BKN
+Shot Chart Detail,0022100993,55,201142,Kevin Durant,1610612751,Brooklyn Nets,1,7,42,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,4,164,1,1,20220310,PHI,BKN
+Shot Chart Detail,0022100993,145,201142,Kevin Durant,1610612751,Brooklyn Nets,1,1,49,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-118,252,1,1,20220310,PHI,BKN
+Shot Chart Detail,0022100993,251,201142,Kevin Durant,1610612751,Brooklyn Nets,2,7,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,142,212,1,1,20220310,PHI,BKN
+Shot Chart Detail,0022100993,302,201142,Kevin Durant,1610612751,Brooklyn Nets,2,4,9,Made Shot,Running Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,4,1,1,20220310,PHI,BKN
+Shot Chart Detail,0022100993,396,201142,Kevin Durant,1610612751,Brooklyn Nets,3,10,31,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,31,242,1,1,20220310,PHI,BKN
+Shot Chart Detail,0022100993,428,201142,Kevin Durant,1610612751,Brooklyn Nets,3,7,27,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-29,92,1,1,20220310,PHI,BKN
+Shot Chart Detail,0022100993,498,201142,Kevin Durant,1610612751,Brooklyn Nets,3,0,49,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-94,58,1,1,20220310,PHI,BKN
+Shot Chart Detail,0022101012,18,201142,Kevin Durant,1610612751,Brooklyn Nets,1,11,6,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,66,2,1,1,20220313,BKN,NYK
+Shot Chart Detail,0022101012,44,201142,Kevin Durant,1610612751,Brooklyn Nets,1,8,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,113,91,1,1,20220313,BKN,NYK
+Shot Chart Detail,0022101012,61,201142,Kevin Durant,1610612751,Brooklyn Nets,1,7,22,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,114,2,1,1,20220313,BKN,NYK
+Shot Chart Detail,0022101012,71,201142,Kevin Durant,1610612751,Brooklyn Nets,1,6,35,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-16,262,1,1,20220313,BKN,NYK
+Shot Chart Detail,0022101012,102,201142,Kevin Durant,1610612751,Brooklyn Nets,1,4,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,29,256,1,1,20220313,BKN,NYK
+Shot Chart Detail,0022101012,137,201142,Kevin Durant,1610612751,Brooklyn Nets,1,1,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-62,181,1,1,20220313,BKN,NYK
+Shot Chart Detail,0022101012,225,201142,Kevin Durant,1610612751,Brooklyn Nets,2,7,24,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,28,159,1,1,20220313,BKN,NYK
+Shot Chart Detail,0022101012,244,201142,Kevin Durant,1610612751,Brooklyn Nets,2,5,49,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,110,11,1,1,20220313,BKN,NYK
+Shot Chart Detail,0022101012,319,201142,Kevin Durant,1610612751,Brooklyn Nets,2,1,15,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-50,78,1,1,20220313,BKN,NYK
+Shot Chart Detail,0022101012,353,201142,Kevin Durant,1610612751,Brooklyn Nets,3,10,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-120,120,1,1,20220313,BKN,NYK
+Shot Chart Detail,0022101012,386,201142,Kevin Durant,1610612751,Brooklyn Nets,3,8,36,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-109,138,1,1,20220313,BKN,NYK
+Shot Chart Detail,0022101012,417,201142,Kevin Durant,1610612751,Brooklyn Nets,3,6,23,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,140,19,1,1,20220313,BKN,NYK
+Shot Chart Detail,0022101012,421,201142,Kevin Durant,1610612751,Brooklyn Nets,3,6,3,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,6,1,1,20220313,BKN,NYK
+Shot Chart Detail,0022101012,425,201142,Kevin Durant,1610612751,Brooklyn Nets,3,5,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,88,250,1,1,20220313,BKN,NYK
+Shot Chart Detail,0022101012,459,201142,Kevin Durant,1610612751,Brooklyn Nets,3,2,4,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,169,94,1,1,20220313,BKN,NYK
+Shot Chart Detail,0022101012,562,201142,Kevin Durant,1610612751,Brooklyn Nets,4,6,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,75,172,1,1,20220313,BKN,NYK
+Shot Chart Detail,0022101012,573,201142,Kevin Durant,1610612751,Brooklyn Nets,4,6,3,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,28,8,1,1,20220313,BKN,NYK
+Shot Chart Detail,0022101012,583,201142,Kevin Durant,1610612751,Brooklyn Nets,4,4,54,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,167,13,1,1,20220313,BKN,NYK
+Shot Chart Detail,0022101012,627,201142,Kevin Durant,1610612751,Brooklyn Nets,4,0,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,173,193,1,1,20220313,BKN,NYK
+Shot Chart Detail,0022101030,13,201142,Kevin Durant,1610612751,Brooklyn Nets,1,11,5,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,110,7,1,1,20220315,ORL,BKN
+Shot Chart Detail,0022101030,61,201142,Kevin Durant,1610612751,Brooklyn Nets,1,7,11,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,42,130,1,1,20220315,ORL,BKN
+Shot Chart Detail,0022101030,86,201142,Kevin Durant,1610612751,Brooklyn Nets,1,4,51,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,134,80,1,1,20220315,ORL,BKN
+Shot Chart Detail,0022101030,170,201142,Kevin Durant,1610612751,Brooklyn Nets,1,0,21,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-15,54,1,1,20220315,ORL,BKN
+Shot Chart Detail,0022101030,386,201142,Kevin Durant,1610612751,Brooklyn Nets,3,10,51,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,115,9,1,1,20220315,ORL,BKN
+Shot Chart Detail,0022101030,406,201142,Kevin Durant,1610612751,Brooklyn Nets,3,8,44,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,6,194,1,1,20220315,ORL,BKN
+Shot Chart Detail,0022101036,13,201142,Kevin Durant,1610612751,Brooklyn Nets,1,10,48,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-129,54,1,1,20220316,BKN,DAL
+Shot Chart Detail,0022101036,35,201142,Kevin Durant,1610612751,Brooklyn Nets,1,8,35,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,129,-9,1,1,20220316,BKN,DAL
+Shot Chart Detail,0022101036,65,201142,Kevin Durant,1610612751,Brooklyn Nets,1,5,57,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,156,122,1,1,20220316,BKN,DAL
+Shot Chart Detail,0022101036,92,201142,Kevin Durant,1610612751,Brooklyn Nets,1,3,58,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,141,8,1,1,20220316,BKN,DAL
+Shot Chart Detail,0022101036,386,201142,Kevin Durant,1610612751,Brooklyn Nets,3,7,20,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,130,246,1,1,20220316,BKN,DAL
+Shot Chart Detail,0022101036,491,201142,Kevin Durant,1610612751,Brooklyn Nets,4,11,44,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,115,80,1,1,20220316,BKN,DAL
+Shot Chart Detail,0022101036,552,201142,Kevin Durant,1610612751,Brooklyn Nets,4,6,52,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,42,138,1,1,20220316,BKN,DAL
+Shot Chart Detail,0022101036,618,201142,Kevin Durant,1610612751,Brooklyn Nets,4,0,10,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-141,231,1,1,20220316,BKN,DAL
+Shot Chart Detail,0022101048,7,201142,Kevin Durant,1610612751,Brooklyn Nets,1,11,36,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,112,62,1,1,20220318,BKN,POR
+Shot Chart Detail,0022101048,65,201142,Kevin Durant,1610612751,Brooklyn Nets,1,6,41,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,-4,1,1,20220318,BKN,POR
+Shot Chart Detail,0022101048,74,201142,Kevin Durant,1610612751,Brooklyn Nets,1,5,33,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-44,44,1,1,20220318,BKN,POR
+Shot Chart Detail,0022101048,130,201142,Kevin Durant,1610612751,Brooklyn Nets,1,1,33,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,26,64,1,1,20220318,BKN,POR
+Shot Chart Detail,0022101048,274,201142,Kevin Durant,1610612751,Brooklyn Nets,2,4,49,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-38,90,1,1,20220318,BKN,POR
+Shot Chart Detail,0022101048,308,201142,Kevin Durant,1610612751,Brooklyn Nets,2,2,10,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-82,55,1,1,20220318,BKN,POR
+Shot Chart Detail,0022101048,315,201142,Kevin Durant,1610612751,Brooklyn Nets,2,1,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,118,39,1,1,20220318,BKN,POR
+Shot Chart Detail,0022101048,369,201142,Kevin Durant,1610612751,Brooklyn Nets,3,9,32,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-113,225,1,1,20220318,BKN,POR
+Shot Chart Detail,0022101048,407,201142,Kevin Durant,1610612751,Brooklyn Nets,3,6,40,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,15,38,1,1,20220318,BKN,POR
+Shot Chart Detail,0022101048,439,201142,Kevin Durant,1610612751,Brooklyn Nets,3,4,46,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-11,42,1,1,20220318,BKN,POR
+Shot Chart Detail,0022101048,475,201142,Kevin Durant,1610612751,Brooklyn Nets,3,2,50,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,20,252,1,1,20220318,BKN,POR
+Shot Chart Detail,0022101075,14,201142,Kevin Durant,1610612751,Brooklyn Nets,1,10,46,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,9,110,1,1,20220321,BKN,UTA
+Shot Chart Detail,0022101075,35,201142,Kevin Durant,1610612751,Brooklyn Nets,1,7,36,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,56,110,1,1,20220321,BKN,UTA
+Shot Chart Detail,0022101075,120,201142,Kevin Durant,1610612751,Brooklyn Nets,1,2,46,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,9,61,1,1,20220321,BKN,UTA
+Shot Chart Detail,0022101075,132,201142,Kevin Durant,1610612751,Brooklyn Nets,1,1,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,89,171,1,1,20220321,BKN,UTA
+Shot Chart Detail,0022101075,251,201142,Kevin Durant,1610612751,Brooklyn Nets,2,5,3,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,32,1,1,20220321,BKN,UTA
+Shot Chart Detail,0022101075,276,201142,Kevin Durant,1610612751,Brooklyn Nets,2,2,44,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,61,142,1,1,20220321,BKN,UTA
+Shot Chart Detail,0022101075,285,201142,Kevin Durant,1610612751,Brooklyn Nets,2,1,51,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,3,1,1,20220321,BKN,UTA
+Shot Chart Detail,0022101075,365,201142,Kevin Durant,1610612751,Brooklyn Nets,3,7,31,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,91,99,1,1,20220321,BKN,UTA
+Shot Chart Detail,0022101075,384,201142,Kevin Durant,1610612751,Brooklyn Nets,3,6,24,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-124,6,1,1,20220321,BKN,UTA
+Shot Chart Detail,0022101075,429,201142,Kevin Durant,1610612751,Brooklyn Nets,3,3,17,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,137,212,1,1,20220321,BKN,UTA
+Shot Chart Detail,0022101075,435,201142,Kevin Durant,1610612751,Brooklyn Nets,3,2,52,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-25,259,1,1,20220321,BKN,UTA
+Shot Chart Detail,0022101075,448,201142,Kevin Durant,1610612751,Brooklyn Nets,3,1,33,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,148,121,1,1,20220321,BKN,UTA
+Shot Chart Detail,0022101075,532,201142,Kevin Durant,1610612751,Brooklyn Nets,4,6,38,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-5,111,1,1,20220321,BKN,UTA
+Shot Chart Detail,0022101075,536,201142,Kevin Durant,1610612751,Brooklyn Nets,4,6,9,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-107,233,1,1,20220321,BKN,UTA
+Shot Chart Detail,0022101075,593,201142,Kevin Durant,1610612751,Brooklyn Nets,4,1,19,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,74,76,1,1,20220321,BKN,UTA
+Shot Chart Detail,0022101089,22,201142,Kevin Durant,1610612751,Brooklyn Nets,1,10,13,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,93,-29,1,1,20220323,MEM,BKN
+Shot Chart Detail,0022101089,94,201142,Kevin Durant,1610612751,Brooklyn Nets,1,5,24,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-98,126,1,1,20220323,MEM,BKN
+Shot Chart Detail,0022101089,272,201142,Kevin Durant,1610612751,Brooklyn Nets,2,6,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-103,237,1,1,20220323,MEM,BKN
+Shot Chart Detail,0022101089,309,201142,Kevin Durant,1610612751,Brooklyn Nets,2,4,17,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-87,144,1,1,20220323,MEM,BKN
+Shot Chart Detail,0022101089,351,201142,Kevin Durant,1610612751,Brooklyn Nets,2,1,28,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,114,112,1,1,20220323,MEM,BKN
+Shot Chart Detail,0022101089,396,201142,Kevin Durant,1610612751,Brooklyn Nets,3,10,43,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-21,94,1,1,20220323,MEM,BKN
+Shot Chart Detail,0022101089,417,201142,Kevin Durant,1610612751,Brooklyn Nets,3,9,10,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,130,94,1,1,20220323,MEM,BKN
+Shot Chart Detail,0022101089,467,201142,Kevin Durant,1610612751,Brooklyn Nets,3,5,25,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,59,87,1,1,20220323,MEM,BKN
+Shot Chart Detail,0022101089,485,201142,Kevin Durant,1610612751,Brooklyn Nets,3,3,40,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,28,17,1,1,20220323,MEM,BKN
+Shot Chart Detail,0022101089,510,201142,Kevin Durant,1610612751,Brooklyn Nets,3,2,4,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,65,67,1,1,20220323,MEM,BKN
+Shot Chart Detail,0022101089,513,201142,Kevin Durant,1610612751,Brooklyn Nets,3,1,34,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,134,129,1,1,20220323,MEM,BKN
+Shot Chart Detail,0022101089,658,201142,Kevin Durant,1610612751,Brooklyn Nets,4,3,25,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-65,80,1,1,20220323,MEM,BKN
+Shot Chart Detail,0022101111,28,201142,Kevin Durant,1610612751,Brooklyn Nets,1,9,30,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-114,31,1,1,20220326,MIA,BKN
+Shot Chart Detail,0022101111,48,201142,Kevin Durant,1610612751,Brooklyn Nets,1,7,37,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-21,75,1,1,20220326,MIA,BKN
+Shot Chart Detail,0022101111,52,201142,Kevin Durant,1610612751,Brooklyn Nets,1,6,52,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,69,132,1,1,20220326,MIA,BKN
+Shot Chart Detail,0022101111,95,201142,Kevin Durant,1610612751,Brooklyn Nets,1,3,53,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,65,-4,1,1,20220326,MIA,BKN
+Shot Chart Detail,0022101111,257,201142,Kevin Durant,1610612751,Brooklyn Nets,2,6,1,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-132,25,1,1,20220326,MIA,BKN
+Shot Chart Detail,0022101111,282,201142,Kevin Durant,1610612751,Brooklyn Nets,2,4,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-40,160,1,1,20220326,MIA,BKN
+Shot Chart Detail,0022101111,303,201142,Kevin Durant,1610612751,Brooklyn Nets,2,2,34,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,119,101,1,1,20220326,MIA,BKN
+Shot Chart Detail,0022101120,60,201142,Kevin Durant,1610612751,Brooklyn Nets,1,6,53,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,123,223,1,1,20220327,BKN,CHA
+Shot Chart Detail,0022101120,135,201142,Kevin Durant,1610612751,Brooklyn Nets,1,2,3,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,104,11,1,1,20220327,BKN,CHA
+Shot Chart Detail,0022101120,373,201142,Kevin Durant,1610612751,Brooklyn Nets,2,0,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,18,1,1,20220327,BKN,CHA
+Shot Chart Detail,0022101120,400,201142,Kevin Durant,1610612751,Brooklyn Nets,3,10,35,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,26,1,1,20220327,BKN,CHA
+Shot Chart Detail,0022101120,438,201142,Kevin Durant,1610612751,Brooklyn Nets,3,7,27,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,120,152,1,1,20220327,BKN,CHA
+Shot Chart Detail,0022101120,475,201142,Kevin Durant,1610612751,Brooklyn Nets,3,5,4,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,0,1,1,20220327,BKN,CHA
+Shot Chart Detail,0022101120,508,201142,Kevin Durant,1610612751,Brooklyn Nets,3,3,31,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-4,1,1,20220327,BKN,CHA
+Shot Chart Detail,0022101120,546,201142,Kevin Durant,1610612751,Brooklyn Nets,3,0,32,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-66,240,1,1,20220327,BKN,CHA
+Shot Chart Detail,0022101120,568,201142,Kevin Durant,1610612751,Brooklyn Nets,4,11,17,Made Shot,Running Pull-Up Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,16,168,1,1,20220327,BKN,CHA
+Shot Chart Detail,0022101133,20,201142,Kevin Durant,1610612751,Brooklyn Nets,1,10,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,96,238,1,1,20220329,BKN,DET
+Shot Chart Detail,0022101133,49,201142,Kevin Durant,1610612751,Brooklyn Nets,1,7,42,Made Shot,Driving Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-6,23,1,1,20220329,BKN,DET
+Shot Chart Detail,0022101133,79,201142,Kevin Durant,1610612751,Brooklyn Nets,1,5,10,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-7,118,1,1,20220329,BKN,DET
+Shot Chart Detail,0022101133,91,201142,Kevin Durant,1610612751,Brooklyn Nets,1,4,4,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,116,12,1,1,20220329,BKN,DET
+Shot Chart Detail,0022101133,124,201142,Kevin Durant,1610612751,Brooklyn Nets,1,2,32,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,102,91,1,1,20220329,BKN,DET
+Shot Chart Detail,0022101133,246,201142,Kevin Durant,1610612751,Brooklyn Nets,2,5,47,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-71,248,1,1,20220329,BKN,DET
+Shot Chart Detail,0022101133,302,201142,Kevin Durant,1610612751,Brooklyn Nets,2,1,28,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,25,134,1,1,20220329,BKN,DET
+Shot Chart Detail,0022101133,337,201142,Kevin Durant,1610612751,Brooklyn Nets,3,11,31,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,22,252,1,1,20220329,BKN,DET
+Shot Chart Detail,0022101133,381,201142,Kevin Durant,1610612751,Brooklyn Nets,3,8,15,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-167,187,1,1,20220329,BKN,DET
+Shot Chart Detail,0022101133,424,201142,Kevin Durant,1610612751,Brooklyn Nets,3,4,38,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-58,192,1,1,20220329,BKN,DET
+Shot Chart Detail,0022101133,440,201142,Kevin Durant,1610612751,Brooklyn Nets,3,3,42,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,119,141,1,1,20220329,BKN,DET
+Shot Chart Detail,0022101133,459,201142,Kevin Durant,1610612751,Brooklyn Nets,3,2,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,132,6,1,1,20220329,BKN,DET
+Shot Chart Detail,0022101133,465,201142,Kevin Durant,1610612751,Brooklyn Nets,3,1,23,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,121,51,1,1,20220329,BKN,DET
+Shot Chart Detail,0022101133,581,201142,Kevin Durant,1610612751,Brooklyn Nets,4,4,54,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,6,105,1,1,20220329,BKN,DET
+Shot Chart Detail,0022101148,64,201142,Kevin Durant,1610612751,Brooklyn Nets,1,6,11,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,227,72,1,1,20220331,BKN,MIL
+Shot Chart Detail,0022101148,123,201142,Kevin Durant,1610612751,Brooklyn Nets,1,1,59,Made Shot,Running Pull-Up Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,10,155,1,1,20220331,BKN,MIL
+Shot Chart Detail,0022101148,136,201142,Kevin Durant,1610612751,Brooklyn Nets,1,0,31,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-40,195,1,1,20220331,BKN,MIL
+Shot Chart Detail,0022101148,332,201142,Kevin Durant,1610612751,Brooklyn Nets,3,11,7,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,55,53,1,1,20220331,BKN,MIL
+Shot Chart Detail,0022101148,448,201142,Kevin Durant,1610612751,Brooklyn Nets,3,2,35,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,119,18,1,1,20220331,BKN,MIL
+Shot Chart Detail,0022101148,457,201142,Kevin Durant,1610612751,Brooklyn Nets,3,1,41,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-51,101,1,1,20220331,BKN,MIL
+Shot Chart Detail,0022101148,604,201142,Kevin Durant,1610612751,Brooklyn Nets,4,4,10,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,138,205,1,1,20220331,BKN,MIL
+Shot Chart Detail,0022101148,608,201142,Kevin Durant,1610612751,Brooklyn Nets,4,3,52,Made Shot,Running Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,2,1,1,20220331,BKN,MIL
+Shot Chart Detail,0022101148,645,201142,Kevin Durant,1610612751,Brooklyn Nets,4,2,14,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-47,106,1,1,20220331,BKN,MIL
+Shot Chart Detail,0022101148,714,201142,Kevin Durant,1610612751,Brooklyn Nets,5,4,13,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,30,4,300,1,1,20220331,BKN,MIL
+Shot Chart Detail,0022101163,13,201142,Kevin Durant,1610612751,Brooklyn Nets,1,11,14,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-9,247,1,1,20220402,ATL,BKN
+Shot Chart Detail,0022101163,17,201142,Kevin Durant,1610612751,Brooklyn Nets,1,10,45,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,102,222,1,1,20220402,ATL,BKN
+Shot Chart Detail,0022101163,69,201142,Kevin Durant,1610612751,Brooklyn Nets,1,7,0,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-123,218,1,1,20220402,ATL,BKN
+Shot Chart Detail,0022101163,136,201142,Kevin Durant,1610612751,Brooklyn Nets,1,2,34,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,25,52,1,1,20220402,ATL,BKN
+Shot Chart Detail,0022101163,289,201142,Kevin Durant,1610612751,Brooklyn Nets,2,5,13,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,120,75,1,1,20220402,ATL,BKN
+Shot Chart Detail,0022101163,331,201142,Kevin Durant,1610612751,Brooklyn Nets,2,2,46,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,130,214,1,1,20220402,ATL,BKN
+Shot Chart Detail,0022101163,338,201142,Kevin Durant,1610612751,Brooklyn Nets,2,2,7,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-54,114,1,1,20220402,ATL,BKN
+Shot Chart Detail,0022101163,405,201142,Kevin Durant,1610612751,Brooklyn Nets,3,9,7,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-132,235,1,1,20220402,ATL,BKN
+Shot Chart Detail,0022101163,455,201142,Kevin Durant,1610612751,Brooklyn Nets,3,5,31,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,116,158,1,1,20220402,ATL,BKN
+Shot Chart Detail,0022101163,462,201142,Kevin Durant,1610612751,Brooklyn Nets,3,5,24,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,104,112,1,1,20220402,ATL,BKN
+Shot Chart Detail,0022101163,472,201142,Kevin Durant,1610612751,Brooklyn Nets,3,4,51,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,13,1,1,20220402,ATL,BKN
+Shot Chart Detail,0022101163,474,201142,Kevin Durant,1610612751,Brooklyn Nets,3,4,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-89,172,1,1,20220402,ATL,BKN
+Shot Chart Detail,0022101163,493,201142,Kevin Durant,1610612751,Brooklyn Nets,3,2,31,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,163,196,1,1,20220402,ATL,BKN
+Shot Chart Detail,0022101163,496,201142,Kevin Durant,1610612751,Brooklyn Nets,3,2,3,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-81,246,1,1,20220402,ATL,BKN
+Shot Chart Detail,0022101163,591,201142,Kevin Durant,1610612751,Brooklyn Nets,4,5,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-134,59,1,1,20220402,ATL,BKN
+Shot Chart Detail,0022101163,598,201142,Kevin Durant,1610612751,Brooklyn Nets,4,5,26,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,-19,1,1,20220402,ATL,BKN
+Shot Chart Detail,0022101163,626,201142,Kevin Durant,1610612751,Brooklyn Nets,4,3,45,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,100,149,1,1,20220402,ATL,BKN
+Shot Chart Detail,0022101163,652,201142,Kevin Durant,1610612751,Brooklyn Nets,4,1,25,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,8,1,1,20220402,ATL,BKN
+Shot Chart Detail,0022101163,667,201142,Kevin Durant,1610612751,Brooklyn Nets,4,0,19,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,10,1,1,20220402,ATL,BKN
+Shot Chart Detail,0022101180,298,201142,Kevin Durant,1610612751,Brooklyn Nets,2,3,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-140,68,1,1,20220405,BKN,HOU
+Shot Chart Detail,0022101180,383,201142,Kevin Durant,1610612751,Brooklyn Nets,3,9,45,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,48,113,1,1,20220405,BKN,HOU
+Shot Chart Detail,0022101180,426,201142,Kevin Durant,1610612751,Brooklyn Nets,3,6,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-20,260,1,1,20220405,BKN,HOU
+Shot Chart Detail,0022101180,434,201142,Kevin Durant,1610612751,Brooklyn Nets,3,5,19,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,36,103,1,1,20220405,BKN,HOU
+Shot Chart Detail,0022101191,11,201142,Kevin Durant,1610612751,Brooklyn Nets,1,11,9,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,124,0,1,1,20220406,NYK,BKN
+Shot Chart Detail,0022101191,139,201142,Kevin Durant,1610612751,Brooklyn Nets,1,1,55,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,141,99,1,1,20220406,NYK,BKN
+Shot Chart Detail,0022101191,262,201142,Kevin Durant,1610612751,Brooklyn Nets,2,5,22,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-100,79,1,1,20220406,NYK,BKN
+Shot Chart Detail,0022101191,375,201142,Kevin Durant,1610612751,Brooklyn Nets,3,10,3,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,86,141,1,1,20220406,NYK,BKN
+Shot Chart Detail,0022101191,470,201142,Kevin Durant,1610612751,Brooklyn Nets,3,3,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,141,215,1,1,20220406,NYK,BKN
+Shot Chart Detail,0022101191,496,201142,Kevin Durant,1610612751,Brooklyn Nets,3,0,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,40,259,1,1,20220406,NYK,BKN
+Shot Chart Detail,0022101191,526,201142,Kevin Durant,1610612751,Brooklyn Nets,4,10,30,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,4,1,1,20220406,NYK,BKN
+Shot Chart Detail,0022101191,537,201142,Kevin Durant,1610612751,Brooklyn Nets,4,9,32,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-114,123,1,1,20220406,NYK,BKN
+Shot Chart Detail,0022101191,590,201142,Kevin Durant,1610612751,Brooklyn Nets,4,5,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-157,28,1,1,20220406,NYK,BKN
+Shot Chart Detail,0022101191,600,201142,Kevin Durant,1610612751,Brooklyn Nets,4,4,57,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-53,118,1,1,20220406,NYK,BKN
+Shot Chart Detail,0022101191,607,201142,Kevin Durant,1610612751,Brooklyn Nets,4,4,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,43,172,1,1,20220406,NYK,BKN
+Shot Chart Detail,0022101205,63,201142,Kevin Durant,1610612751,Brooklyn Nets,1,7,14,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,112,47,1,1,20220408,BKN,CLE
+Shot Chart Detail,0022101205,76,201142,Kevin Durant,1610612751,Brooklyn Nets,1,6,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,99,237,1,1,20220408,BKN,CLE
+Shot Chart Detail,0022101205,84,201142,Kevin Durant,1610612751,Brooklyn Nets,1,4,57,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-126,149,1,1,20220408,BKN,CLE
+Shot Chart Detail,0022101205,134,201142,Kevin Durant,1610612751,Brooklyn Nets,1,1,38,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-48,110,1,1,20220408,BKN,CLE
+Shot Chart Detail,0022101205,136,201142,Kevin Durant,1610612751,Brooklyn Nets,1,1,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,134,52,1,1,20220408,BKN,CLE
+Shot Chart Detail,0022101205,145,201142,Kevin Durant,1610612751,Brooklyn Nets,1,0,8,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,224,22,1,1,20220408,BKN,CLE
+Shot Chart Detail,0022101205,347,201142,Kevin Durant,1610612751,Brooklyn Nets,3,11,40,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-28,6,1,1,20220408,BKN,CLE
+Shot Chart Detail,0022101205,412,201142,Kevin Durant,1610612751,Brooklyn Nets,3,6,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,108,94,1,1,20220408,BKN,CLE
+Shot Chart Detail,0022101205,436,201142,Kevin Durant,1610612751,Brooklyn Nets,3,5,21,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,58,153,1,1,20220408,BKN,CLE
+Shot Chart Detail,0022101205,555,201142,Kevin Durant,1610612751,Brooklyn Nets,4,8,52,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,102,225,1,1,20220408,BKN,CLE
+Shot Chart Detail,0022101205,584,201142,Kevin Durant,1610612751,Brooklyn Nets,4,6,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,4,252,1,1,20220408,BKN,CLE
+Shot Chart Detail,0022101216,337,201142,Kevin Durant,1610612751,Brooklyn Nets,2,1,14,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,-3,1,1,20220410,BKN,IND
+Shot Chart Detail,0022101216,403,201142,Kevin Durant,1610612751,Brooklyn Nets,3,8,15,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-43,61,1,1,20220410,BKN,IND
+Shot Chart Detail,0022101216,476,201142,Kevin Durant,1610612751,Brooklyn Nets,3,2,24,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,180,45,1,1,20220410,BKN,IND
+Shot Chart Detail,0022101216,492,201142,Kevin Durant,1610612751,Brooklyn Nets,3,1,14,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,147,17,1,1,20220410,BKN,IND
+Shot Chart Detail,0022101216,592,201142,Kevin Durant,1610612751,Brooklyn Nets,4,7,21,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,12,-77,98,1,1,20220410,BKN,IND

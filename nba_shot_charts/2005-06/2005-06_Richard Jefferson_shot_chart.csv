@@ -1,0 +1,496 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0020500008,35,2210,Richard Jefferson,1610612751,New Jersey Nets,1,8,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051102,NJN,MIL
+Shot Chart Detail,0020500008,90,2210,Richard Jefferson,1610612751,New Jersey Nets,1,4,27,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051102,NJN,MIL
+Shot Chart Detail,0020500008,221,2210,Richard Jefferson,1610612751,New Jersey Nets,2,2,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-199,-14,1,1,20051102,NJN,MIL
+Shot Chart Detail,0020500008,246,2210,Richard Jefferson,1610612751,New Jersey Nets,2,0,36,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051102,NJN,MIL
+Shot Chart Detail,0020500008,420,2210,Richard Jefferson,1610612751,New Jersey Nets,4,6,45,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051102,NJN,MIL
+Shot Chart Detail,0020500020,4,2210,Richard Jefferson,1610612751,New Jersey Nets,1,11,4,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,0,1,1,20051104,TOR,NJN
+Shot Chart Detail,0020500020,53,2210,Richard Jefferson,1610612751,New Jersey Nets,1,5,42,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051104,TOR,NJN
+Shot Chart Detail,0020500020,61,2210,Richard Jefferson,1610612751,New Jersey Nets,1,5,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-169,0,1,1,20051104,TOR,NJN
+Shot Chart Detail,0020500020,93,2210,Richard Jefferson,1610612751,New Jersey Nets,1,2,15,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,71,132,1,1,20051104,TOR,NJN
+Shot Chart Detail,0020500020,103,2210,Richard Jefferson,1610612751,New Jersey Nets,1,0,40,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,-1,1,1,20051104,TOR,NJN
+Shot Chart Detail,0020500020,299,2210,Richard Jefferson,1610612751,New Jersey Nets,3,6,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-97,183,1,1,20051104,TOR,NJN
+Shot Chart Detail,0020500020,431,2210,Richard Jefferson,1610612751,New Jersey Nets,4,6,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-94,230,1,1,20051104,TOR,NJN
+Shot Chart Detail,0020500020,446,2210,Richard Jefferson,1610612751,New Jersey Nets,4,4,50,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,-1,1,1,20051104,TOR,NJN
+Shot Chart Detail,0020500020,474,2210,Richard Jefferson,1610612751,New Jersey Nets,4,2,27,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,12,1,1,20051104,TOR,NJN
+Shot Chart Detail,0020500032,35,2210,Richard Jefferson,1610612751,New Jersey Nets,1,8,37,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051105,NJN,CHI
+Shot Chart Detail,0020500032,67,2210,Richard Jefferson,1610612751,New Jersey Nets,1,4,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051105,NJN,CHI
+Shot Chart Detail,0020500032,242,2210,Richard Jefferson,1610612751,New Jersey Nets,2,2,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051105,NJN,CHI
+Shot Chart Detail,0020500032,278,2210,Richard Jefferson,1610612751,New Jersey Nets,3,10,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,197,-3,1,1,20051105,NJN,CHI
+Shot Chart Detail,0020500032,330,2210,Richard Jefferson,1610612751,New Jersey Nets,3,4,11,Made Shot,Driving Finger Roll Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051105,NJN,CHI
+Shot Chart Detail,0020500032,367,2210,Richard Jefferson,1610612751,New Jersey Nets,3,0,19,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051105,NJN,CHI
+Shot Chart Detail,0020500032,380,2210,Richard Jefferson,1610612751,New Jersey Nets,4,11,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051105,NJN,CHI
+Shot Chart Detail,0020500032,458,2210,Richard Jefferson,1610612751,New Jersey Nets,4,4,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051105,NJN,CHI
+Shot Chart Detail,0020500032,508,2210,Richard Jefferson,1610612751,New Jersey Nets,4,0,22,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051105,NJN,CHI
+Shot Chart Detail,0020500032,522,2210,Richard Jefferson,1610612751,New Jersey Nets,4,0,1,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051105,NJN,CHI
+Shot Chart Detail,0020500048,28,2210,Richard Jefferson,1610612751,New Jersey Nets,1,7,57,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051107,MIA,NJN
+Shot Chart Detail,0020500048,34,2210,Richard Jefferson,1610612751,New Jersey Nets,1,6,43,Made Shot,Driving Finger Roll Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051107,MIA,NJN
+Shot Chart Detail,0020500048,39,2210,Richard Jefferson,1610612751,New Jersey Nets,1,5,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-136,127,1,1,20051107,MIA,NJN
+Shot Chart Detail,0020500048,56,2210,Richard Jefferson,1610612751,New Jersey Nets,1,2,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051107,MIA,NJN
+Shot Chart Detail,0020500048,70,2210,Richard Jefferson,1610612751,New Jersey Nets,1,1,11,Made Shot,Driving Finger Roll Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051107,MIA,NJN
+Shot Chart Detail,0020500048,305,2210,Richard Jefferson,1610612751,New Jersey Nets,3,0,43,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051107,MIA,NJN
+Shot Chart Detail,0020500060,110,2210,Richard Jefferson,1610612751,New Jersey Nets,2,10,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-26,201,1,1,20051109,NJN,UTA
+Shot Chart Detail,0020500060,212,2210,Richard Jefferson,1610612751,New Jersey Nets,2,0,42,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051109,NJN,UTA
+Shot Chart Detail,0020500060,230,2210,Richard Jefferson,1610612751,New Jersey Nets,3,10,39,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,16,81,1,1,20051109,NJN,UTA
+Shot Chart Detail,0020500060,300,2210,Richard Jefferson,1610612751,New Jersey Nets,3,2,46,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051109,NJN,UTA
+Shot Chart Detail,0020500073,65,2210,Richard Jefferson,1610612751,New Jersey Nets,1,2,41,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,236,15,1,1,20051111,IND,NJN
+Shot Chart Detail,0020500073,225,2210,Richard Jefferson,1610612751,New Jersey Nets,3,10,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,189,8,1,1,20051111,IND,NJN
+Shot Chart Detail,0020500073,260,2210,Richard Jefferson,1610612751,New Jersey Nets,3,5,27,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051111,IND,NJN
+Shot Chart Detail,0020500084,19,2210,Richard Jefferson,1610612751,New Jersey Nets,1,8,46,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051112,NJN,HOU
+Shot Chart Detail,0020500084,85,2210,Richard Jefferson,1610612751,New Jersey Nets,1,1,57,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,245,-1,1,1,20051112,NJN,HOU
+Shot Chart Detail,0020500084,171,2210,Richard Jefferson,1610612751,New Jersey Nets,2,4,31,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051112,NJN,HOU
+Shot Chart Detail,0020500101,64,2210,Richard Jefferson,1610612751,New Jersey Nets,1,4,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,131,210,1,1,20051115,NJN,SEA
+Shot Chart Detail,0020500101,87,2210,Richard Jefferson,1610612751,New Jersey Nets,1,2,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-8,194,1,1,20051115,NJN,SEA
+Shot Chart Detail,0020500101,227,2210,Richard Jefferson,1610612751,New Jersey Nets,2,0,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,87,240,1,1,20051115,NJN,SEA
+Shot Chart Detail,0020500101,270,2210,Richard Jefferson,1610612751,New Jersey Nets,3,7,44,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,240,40,1,1,20051115,NJN,SEA
+Shot Chart Detail,0020500101,401,2210,Richard Jefferson,1610612751,New Jersey Nets,4,6,45,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051115,NJN,SEA
+Shot Chart Detail,0020500101,455,2210,Richard Jefferson,1610612751,New Jersey Nets,4,0,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,177,-1,1,1,20051115,NJN,SEA
+Shot Chart Detail,0020500134,55,2210,Richard Jefferson,1610612751,New Jersey Nets,1,4,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,21,204,82,1,1,20051119,NJN,WAS
+Shot Chart Detail,0020500134,117,2210,Richard Jefferson,1610612751,New Jersey Nets,2,10,16,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051119,NJN,WAS
+Shot Chart Detail,0020500134,119,2210,Richard Jefferson,1610612751,New Jersey Nets,2,9,56,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051119,NJN,WAS
+Shot Chart Detail,0020500134,214,2210,Richard Jefferson,1610612751,New Jersey Nets,2,0,46,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051119,NJN,WAS
+Shot Chart Detail,0020500149,95,2210,Richard Jefferson,1610612751,New Jersey Nets,1,1,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,22,-214,59,1,1,20051121,GSW,NJN
+Shot Chart Detail,0020500149,97,2210,Richard Jefferson,1610612751,New Jersey Nets,1,0,19,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-182,-1,1,1,20051121,GSW,NJN
+Shot Chart Detail,0020500149,106,2210,Richard Jefferson,1610612751,New Jersey Nets,2,11,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-131,117,1,1,20051121,GSW,NJN
+Shot Chart Detail,0020500149,252,2210,Richard Jefferson,1610612751,New Jersey Nets,3,8,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,154,141,1,1,20051121,GSW,NJN
+Shot Chart Detail,0020500149,262,2210,Richard Jefferson,1610612751,New Jersey Nets,3,6,57,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-161,77,1,1,20051121,GSW,NJN
+Shot Chart Detail,0020500149,435,2210,Richard Jefferson,1610612751,New Jersey Nets,4,2,57,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051121,GSW,NJN
+Shot Chart Detail,0020500164,34,2210,Richard Jefferson,1610612751,New Jersey Nets,1,8,5,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051123,SAC,NJN
+Shot Chart Detail,0020500164,39,2210,Richard Jefferson,1610612751,New Jersey Nets,1,7,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-177,-1,1,1,20051123,SAC,NJN
+Shot Chart Detail,0020500164,46,2210,Richard Jefferson,1610612751,New Jersey Nets,1,6,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,176,69,1,1,20051123,SAC,NJN
+Shot Chart Detail,0020500164,89,2210,Richard Jefferson,1610612751,New Jersey Nets,1,0,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,166,8,1,1,20051123,SAC,NJN
+Shot Chart Detail,0020500164,201,2210,Richard Jefferson,1610612751,New Jersey Nets,2,2,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,79,156,1,1,20051123,SAC,NJN
+Shot Chart Detail,0020500164,426,2210,Richard Jefferson,1610612751,New Jersey Nets,4,5,30,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051123,SAC,NJN
+Shot Chart Detail,0020500180,30,2210,Richard Jefferson,1610612751,New Jersey Nets,1,8,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,80,166,1,1,20051125,PHX,NJN
+Shot Chart Detail,0020500180,69,2210,Richard Jefferson,1610612751,New Jersey Nets,1,2,50,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051125,PHX,NJN
+Shot Chart Detail,0020500180,142,2210,Richard Jefferson,1610612751,New Jersey Nets,2,8,15,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051125,PHX,NJN
+Shot Chart Detail,0020500180,221,2210,Richard Jefferson,1610612751,New Jersey Nets,3,10,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,143,164,1,1,20051125,PHX,NJN
+Shot Chart Detail,0020500180,333,2210,Richard Jefferson,1610612751,New Jersey Nets,4,10,55,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051125,PHX,NJN
+Shot Chart Detail,0020500192,14,2210,Richard Jefferson,1610612751,New Jersey Nets,1,10,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051127,LAL,NJN
+Shot Chart Detail,0020500192,56,2210,Richard Jefferson,1610612751,New Jersey Nets,1,4,46,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051127,LAL,NJN
+Shot Chart Detail,0020500196,31,2210,Richard Jefferson,1610612751,New Jersey Nets,1,8,42,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,138,59,1,1,20051128,DEN,NJN
+Shot Chart Detail,0020500196,50,2210,Richard Jefferson,1610612751,New Jersey Nets,1,6,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,-215,46,1,1,20051128,DEN,NJN
+Shot Chart Detail,0020500196,71,2210,Richard Jefferson,1610612751,New Jersey Nets,1,3,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,10,210,1,1,20051128,DEN,NJN
+Shot Chart Detail,0020500196,78,2210,Richard Jefferson,1610612751,New Jersey Nets,1,2,32,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,-1,1,1,20051128,DEN,NJN
+Shot Chart Detail,0020500196,85,2210,Richard Jefferson,1610612751,New Jersey Nets,1,1,19,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,2,1,1,20051128,DEN,NJN
+Shot Chart Detail,0020500196,149,2210,Richard Jefferson,1610612751,New Jersey Nets,2,6,45,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,12,1,1,20051128,DEN,NJN
+Shot Chart Detail,0020500196,215,2210,Richard Jefferson,1610612751,New Jersey Nets,2,0,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051128,DEN,NJN
+Shot Chart Detail,0020500196,305,2210,Richard Jefferson,1610612751,New Jersey Nets,3,5,38,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051128,DEN,NJN
+Shot Chart Detail,0020500196,535,2210,Richard Jefferson,1610612751,New Jersey Nets,4,0,48,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051128,DEN,NJN
+Shot Chart Detail,0020500211,90,2210,Richard Jefferson,1610612751,New Jersey Nets,1,0,11,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051130,NJN,DET
+Shot Chart Detail,0020500211,107,2210,Richard Jefferson,1610612751,New Jersey Nets,2,11,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051130,NJN,DET
+Shot Chart Detail,0020500211,177,2210,Richard Jefferson,1610612751,New Jersey Nets,2,2,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,159,74,1,1,20051130,NJN,DET
+Shot Chart Detail,0020500211,211,2210,Richard Jefferson,1610612751,New Jersey Nets,3,11,39,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051130,NJN,DET
+Shot Chart Detail,0020500211,342,2210,Richard Jefferson,1610612751,New Jersey Nets,4,7,52,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051130,NJN,DET
+Shot Chart Detail,0020500211,371,2210,Richard Jefferson,1610612751,New Jersey Nets,4,4,4,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051130,NJN,DET
+Shot Chart Detail,0020500231,27,2210,Richard Jefferson,1610612751,New Jersey Nets,1,8,57,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051203,NJN,TOR
+Shot Chart Detail,0020500231,171,2210,Richard Jefferson,1610612751,New Jersey Nets,2,3,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,39,184,1,1,20051203,NJN,TOR
+Shot Chart Detail,0020500231,264,2210,Richard Jefferson,1610612751,New Jersey Nets,3,6,35,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051203,NJN,TOR
+Shot Chart Detail,0020500231,377,2210,Richard Jefferson,1610612751,New Jersey Nets,4,6,37,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051203,NJN,TOR
+Shot Chart Detail,0020500231,401,2210,Richard Jefferson,1610612751,New Jersey Nets,4,4,11,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051203,NJN,TOR
+Shot Chart Detail,0020500261,52,2210,Richard Jefferson,1610612751,New Jersey Nets,1,6,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,131,123,1,1,20051207,CHA,NJN
+Shot Chart Detail,0020500261,205,2210,Richard Jefferson,1610612751,New Jersey Nets,2,3,28,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-51,53,1,1,20051207,CHA,NJN
+Shot Chart Detail,0020500261,227,2210,Richard Jefferson,1610612751,New Jersey Nets,2,0,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051207,CHA,NJN
+Shot Chart Detail,0020500261,246,2210,Richard Jefferson,1610612751,New Jersey Nets,3,10,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051207,CHA,NJN
+Shot Chart Detail,0020500261,287,2210,Richard Jefferson,1610612751,New Jersey Nets,3,5,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051207,CHA,NJN
+Shot Chart Detail,0020500261,322,2210,Richard Jefferson,1610612751,New Jersey Nets,3,2,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051207,CHA,NJN
+Shot Chart Detail,0020500261,326,2210,Richard Jefferson,1610612751,New Jersey Nets,3,2,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051207,CHA,NJN
+Shot Chart Detail,0020500261,443,2210,Richard Jefferson,1610612751,New Jersey Nets,4,3,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051207,CHA,NJN
+Shot Chart Detail,0020500261,464,2210,Richard Jefferson,1610612751,New Jersey Nets,4,2,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051207,CHA,NJN
+Shot Chart Detail,0020500272,28,2210,Richard Jefferson,1610612751,New Jersey Nets,1,7,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,3,5,1,1,20051209,CLE,NJN
+Shot Chart Detail,0020500272,59,2210,Richard Jefferson,1610612751,New Jersey Nets,1,4,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,0,1,1,20051209,CLE,NJN
+Shot Chart Detail,0020500272,201,2210,Richard Jefferson,1610612751,New Jersey Nets,2,2,57,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,3,0,1,1,20051209,CLE,NJN
+Shot Chart Detail,0020500272,260,2210,Richard Jefferson,1610612751,New Jersey Nets,3,8,25,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,7,1,1,20051209,CLE,NJN
+Shot Chart Detail,0020500272,434,2210,Richard Jefferson,1610612751,New Jersey Nets,4,5,7,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,-3,1,1,20051209,CLE,NJN
+Shot Chart Detail,0020500272,454,2210,Richard Jefferson,1610612751,New Jersey Nets,4,4,12,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,3,1,1,20051209,CLE,NJN
+Shot Chart Detail,0020500272,459,2210,Richard Jefferson,1610612751,New Jersey Nets,4,3,23,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,5,1,1,20051209,CLE,NJN
+Shot Chart Detail,0020500272,481,2210,Richard Jefferson,1610612751,New Jersey Nets,4,1,59,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,2,1,1,20051209,CLE,NJN
+Shot Chart Detail,0020500283,102,2210,Richard Jefferson,1610612751,New Jersey Nets,2,11,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-176,22,1,1,20051210,NJN,PHI
+Shot Chart Detail,0020500283,245,2210,Richard Jefferson,1610612751,New Jersey Nets,3,8,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,10,204,1,1,20051210,NJN,PHI
+Shot Chart Detail,0020500283,247,2210,Richard Jefferson,1610612751,New Jersey Nets,3,8,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,85,235,1,1,20051210,NJN,PHI
+Shot Chart Detail,0020500283,257,2210,Richard Jefferson,1610612751,New Jersey Nets,3,6,52,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051210,NJN,PHI
+Shot Chart Detail,0020500283,280,2210,Richard Jefferson,1610612751,New Jersey Nets,3,3,45,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051210,NJN,PHI
+Shot Chart Detail,0020500283,315,2210,Richard Jefferson,1610612751,New Jersey Nets,3,0,43,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051210,NJN,PHI
+Shot Chart Detail,0020500283,344,2210,Richard Jefferson,1610612751,New Jersey Nets,4,9,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,140,217,1,1,20051210,NJN,PHI
+Shot Chart Detail,0020500283,354,2210,Richard Jefferson,1610612751,New Jersey Nets,4,8,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051210,NJN,PHI
+Shot Chart Detail,0020500300,155,2210,Richard Jefferson,1610612751,New Jersey Nets,2,5,59,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,-5,1,1,20051213,WAS,NJN
+Shot Chart Detail,0020500300,164,2210,Richard Jefferson,1610612751,New Jersey Nets,2,5,10,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,67,-1,1,1,20051213,WAS,NJN
+Shot Chart Detail,0020500300,245,2210,Richard Jefferson,1610612751,New Jersey Nets,3,9,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,182,-42,1,1,20051213,WAS,NJN
+Shot Chart Detail,0020500300,307,2210,Richard Jefferson,1610612751,New Jersey Nets,3,1,31,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,0,1,1,20051213,WAS,NJN
+Shot Chart Detail,0020500310,6,2210,Richard Jefferson,1610612751,New Jersey Nets,1,11,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,190,28,1,1,20051214,NJN,CHA
+Shot Chart Detail,0020500310,43,2210,Richard Jefferson,1610612751,New Jersey Nets,1,6,51,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051214,NJN,CHA
+Shot Chart Detail,0020500310,48,2210,Richard Jefferson,1610612751,New Jersey Nets,1,6,18,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051214,NJN,CHA
+Shot Chart Detail,0020500310,211,2210,Richard Jefferson,1610612751,New Jersey Nets,2,3,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051214,NJN,CHA
+Shot Chart Detail,0020500310,318,2210,Richard Jefferson,1610612751,New Jersey Nets,3,2,45,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051214,NJN,CHA
+Shot Chart Detail,0020500310,449,2210,Richard Jefferson,1610612751,New Jersey Nets,4,2,12,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051214,NJN,CHA
+Shot Chart Detail,0020500310,475,2210,Richard Jefferson,1610612751,New Jersey Nets,4,0,45,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051214,NJN,CHA
+Shot Chart Detail,0020500327,30,2210,Richard Jefferson,1610612751,New Jersey Nets,1,9,5,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051216,NJN,DEN
+Shot Chart Detail,0020500327,60,2210,Richard Jefferson,1610612751,New Jersey Nets,1,4,42,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,20,58,1,1,20051216,NJN,DEN
+Shot Chart Detail,0020500327,241,2210,Richard Jefferson,1610612751,New Jersey Nets,3,9,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,159,125,1,1,20051216,NJN,DEN
+Shot Chart Detail,0020500327,244,2210,Richard Jefferson,1610612751,New Jersey Nets,3,9,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051216,NJN,DEN
+Shot Chart Detail,0020500327,276,2210,Richard Jefferson,1610612751,New Jersey Nets,3,5,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051216,NJN,DEN
+Shot Chart Detail,0020500327,419,2210,Richard Jefferson,1610612751,New Jersey Nets,4,3,40,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051216,NJN,DEN
+Shot Chart Detail,0020500327,468,2210,Richard Jefferson,1610612751,New Jersey Nets,5,4,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051216,NJN,DEN
+Shot Chart Detail,0020500327,481,2210,Richard Jefferson,1610612751,New Jersey Nets,5,2,45,Made Shot,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051216,NJN,DEN
+Shot Chart Detail,0020500343,13,2210,Richard Jefferson,1610612751,New Jersey Nets,1,9,55,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051218,NJN,GSW
+Shot Chart Detail,0020500343,16,2210,Richard Jefferson,1610612751,New Jersey Nets,1,9,37,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051218,NJN,GSW
+Shot Chart Detail,0020500343,98,2210,Richard Jefferson,1610612751,New Jersey Nets,2,11,46,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051218,NJN,GSW
+Shot Chart Detail,0020500343,139,2210,Richard Jefferson,1610612751,New Jersey Nets,2,6,38,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051218,NJN,GSW
+Shot Chart Detail,0020500343,144,2210,Richard Jefferson,1610612751,New Jersey Nets,2,5,43,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051218,NJN,GSW
+Shot Chart Detail,0020500343,156,2210,Richard Jefferson,1610612751,New Jersey Nets,2,4,52,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051218,NJN,GSW
+Shot Chart Detail,0020500343,205,2210,Richard Jefferson,1610612751,New Jersey Nets,2,0,19,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051218,NJN,GSW
+Shot Chart Detail,0020500353,29,2210,Richard Jefferson,1610612751,New Jersey Nets,1,8,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,200,3,1,1,20051220,NJN,LAC
+Shot Chart Detail,0020500353,159,2210,Richard Jefferson,1610612751,New Jersey Nets,2,6,17,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051220,NJN,LAC
+Shot Chart Detail,0020500353,184,2210,Richard Jefferson,1610612751,New Jersey Nets,2,3,40,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051220,NJN,LAC
+Shot Chart Detail,0020500353,219,2210,Richard Jefferson,1610612751,New Jersey Nets,2,0,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051220,NJN,LAC
+Shot Chart Detail,0020500353,221,2210,Richard Jefferson,1610612751,New Jersey Nets,2,0,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051220,NJN,LAC
+Shot Chart Detail,0020500353,417,2210,Richard Jefferson,1610612751,New Jersey Nets,4,4,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,192,43,1,1,20051220,NJN,LAC
+Shot Chart Detail,0020500353,435,2210,Richard Jefferson,1610612751,New Jersey Nets,4,2,57,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051220,NJN,LAC
+Shot Chart Detail,0020500361,4,2210,Richard Jefferson,1610612751,New Jersey Nets,1,11,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-171,20,1,1,20051221,ORL,NJN
+Shot Chart Detail,0020500361,49,2210,Richard Jefferson,1610612751,New Jersey Nets,1,5,54,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051221,ORL,NJN
+Shot Chart Detail,0020500361,181,2210,Richard Jefferson,1610612751,New Jersey Nets,2,4,11,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051221,ORL,NJN
+Shot Chart Detail,0020500361,223,2210,Richard Jefferson,1610612751,New Jersey Nets,2,0,44,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,25,-245,63,1,1,20051221,ORL,NJN
+Shot Chart Detail,0020500361,419,2210,Richard Jefferson,1610612751,New Jersey Nets,4,5,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-125,13,1,1,20051221,ORL,NJN
+Shot Chart Detail,0020500375,80,2210,Richard Jefferson,1610612751,New Jersey Nets,1,3,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051223,MIA,NJN
+Shot Chart Detail,0020500375,256,2210,Richard Jefferson,1610612751,New Jersey Nets,2,0,0,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,2,1,1,20051223,MIA,NJN
+Shot Chart Detail,0020500375,345,2210,Richard Jefferson,1610612751,New Jersey Nets,3,1,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051223,MIA,NJN
+Shot Chart Detail,0020500390,3,2210,Richard Jefferson,1610612751,New Jersey Nets,1,11,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051226,NYK,NJN
+Shot Chart Detail,0020500390,66,2210,Richard Jefferson,1610612751,New Jersey Nets,1,4,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-158,-8,1,1,20051226,NYK,NJN
+Shot Chart Detail,0020500390,93,2210,Richard Jefferson,1610612751,New Jersey Nets,1,1,57,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,-6,1,1,20051226,NYK,NJN
+Shot Chart Detail,0020500390,164,2210,Richard Jefferson,1610612751,New Jersey Nets,2,6,41,Made Shot,Driving Finger Roll Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051226,NYK,NJN
+Shot Chart Detail,0020500390,223,2210,Richard Jefferson,1610612751,New Jersey Nets,2,0,32,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051226,NYK,NJN
+Shot Chart Detail,0020500390,268,2210,Richard Jefferson,1610612751,New Jersey Nets,3,7,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-125,115,1,1,20051226,NYK,NJN
+Shot Chart Detail,0020500390,278,2210,Richard Jefferson,1610612751,New Jersey Nets,3,6,40,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-171,5,1,1,20051226,NYK,NJN
+Shot Chart Detail,0020500390,332,2210,Richard Jefferson,1610612751,New Jersey Nets,3,2,34,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051226,NYK,NJN
+Shot Chart Detail,0020500398,21,2210,Richard Jefferson,1610612751,New Jersey Nets,1,9,24,Made Shot,Running Finger Roll Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051227,NJN,CLE
+Shot Chart Detail,0020500398,23,2210,Richard Jefferson,1610612751,New Jersey Nets,1,8,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,3,140,1,1,20051227,NJN,CLE
+Shot Chart Detail,0020500398,78,2210,Richard Jefferson,1610612751,New Jersey Nets,1,2,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051227,NJN,CLE
+Shot Chart Detail,0020500398,146,2210,Richard Jefferson,1610612751,New Jersey Nets,2,7,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-122,210,1,1,20051227,NJN,CLE
+Shot Chart Detail,0020500398,180,2210,Richard Jefferson,1610612751,New Jersey Nets,2,4,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,82,176,1,1,20051227,NJN,CLE
+Shot Chart Detail,0020500398,207,2210,Richard Jefferson,1610612751,New Jersey Nets,2,1,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051227,NJN,CLE
+Shot Chart Detail,0020500398,230,2210,Richard Jefferson,1610612751,New Jersey Nets,2,0,0,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-3,110,1,1,20051227,NJN,CLE
+Shot Chart Detail,0020500398,293,2210,Richard Jefferson,1610612751,New Jersey Nets,3,5,52,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,-5,1,1,20051227,NJN,CLE
+Shot Chart Detail,0020500398,342,2210,Richard Jefferson,1610612751,New Jersey Nets,3,0,45,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051227,NJN,CLE
+Shot Chart Detail,0020500420,132,2210,Richard Jefferson,1610612751,New Jersey Nets,2,8,31,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051230,NJN,ATL
+Shot Chart Detail,0020500420,328,2210,Richard Jefferson,1610612751,New Jersey Nets,3,0,0,Made Shot,Jump Bank Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-108,252,1,1,20051230,NJN,ATL
+Shot Chart Detail,0020500420,345,2210,Richard Jefferson,1610612751,New Jersey Nets,4,10,2,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051230,NJN,ATL
+Shot Chart Detail,0020500420,412,2210,Richard Jefferson,1610612751,New Jersey Nets,4,1,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-82,233,1,1,20051230,NJN,ATL
+Shot Chart Detail,0020500461,24,2210,Richard Jefferson,1610612751,New Jersey Nets,1,9,51,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060106,NJN,ORL
+Shot Chart Detail,0020500461,100,2210,Richard Jefferson,1610612751,New Jersey Nets,1,1,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,158,28,1,1,20060106,NJN,ORL
+Shot Chart Detail,0020500461,191,2210,Richard Jefferson,1610612751,New Jersey Nets,2,4,34,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060106,NJN,ORL
+Shot Chart Detail,0020500461,268,2210,Richard Jefferson,1610612751,New Jersey Nets,3,8,56,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060106,NJN,ORL
+Shot Chart Detail,0020500461,312,2210,Richard Jefferson,1610612751,New Jersey Nets,3,3,31,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-38,45,1,1,20060106,NJN,ORL
+Shot Chart Detail,0020500461,321,2210,Richard Jefferson,1610612751,New Jersey Nets,3,2,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060106,NJN,ORL
+Shot Chart Detail,0020500541,17,2210,Richard Jefferson,1610612751,New Jersey Nets,1,8,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,169,99,1,1,20060116,NJN,IND
+Shot Chart Detail,0020500541,36,2210,Richard Jefferson,1610612751,New Jersey Nets,1,6,39,Made Shot,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060116,NJN,IND
+Shot Chart Detail,0020500541,194,2210,Richard Jefferson,1610612751,New Jersey Nets,2,1,40,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060116,NJN,IND
+Shot Chart Detail,0020500541,284,2210,Richard Jefferson,1610612751,New Jersey Nets,3,3,33,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060116,NJN,IND
+Shot Chart Detail,0020500550,146,2210,Richard Jefferson,1610612751,New Jersey Nets,2,7,25,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060118,PHI,NJN
+Shot Chart Detail,0020500550,167,2210,Richard Jefferson,1610612751,New Jersey Nets,2,4,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,61,140,1,1,20060118,PHI,NJN
+Shot Chart Detail,0020500550,333,2210,Richard Jefferson,1610612751,New Jersey Nets,4,10,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-153,217,1,1,20060118,PHI,NJN
+Shot Chart Detail,0020500550,406,2210,Richard Jefferson,1610612751,New Jersey Nets,4,2,52,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060118,PHI,NJN
+Shot Chart Detail,0020500567,87,2210,Richard Jefferson,1610612751,New Jersey Nets,1,1,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-126,166,1,1,20060120,BOS,NJN
+Shot Chart Detail,0020500567,186,2210,Richard Jefferson,1610612751,New Jersey Nets,2,2,39,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,8,3,1,1,20060120,BOS,NJN
+Shot Chart Detail,0020500567,228,2210,Richard Jefferson,1610612751,New Jersey Nets,3,10,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,1,1,1,20060120,BOS,NJN
+Shot Chart Detail,0020500567,264,2210,Richard Jefferson,1610612751,New Jersey Nets,3,6,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,6,1,1,20060120,BOS,NJN
+Shot Chart Detail,0020500567,378,2210,Richard Jefferson,1610612751,New Jersey Nets,4,7,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,8,-6,1,1,20060120,BOS,NJN
+Shot Chart Detail,0020500579,163,2210,Richard Jefferson,1610612751,New Jersey Nets,2,6,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,158,10,1,1,20060121,NJN,BOS
+Shot Chart Detail,0020500579,197,2210,Richard Jefferson,1610612751,New Jersey Nets,2,3,37,Made Shot,Driving Finger Roll Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060121,NJN,BOS
+Shot Chart Detail,0020500596,5,2210,Richard Jefferson,1610612751,New Jersey Nets,1,11,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-207,-18,1,1,20060123,UTA,NJN
+Shot Chart Detail,0020500596,61,2210,Richard Jefferson,1610612751,New Jersey Nets,1,4,27,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060123,UTA,NJN
+Shot Chart Detail,0020500596,88,2210,Richard Jefferson,1610612751,New Jersey Nets,1,1,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,174,137,1,1,20060123,UTA,NJN
+Shot Chart Detail,0020500596,105,2210,Richard Jefferson,1610612751,New Jersey Nets,2,11,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060123,UTA,NJN
+Shot Chart Detail,0020500596,220,2210,Richard Jefferson,1610612751,New Jersey Nets,2,0,10,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060123,UTA,NJN
+Shot Chart Detail,0020500596,244,2210,Richard Jefferson,1610612751,New Jersey Nets,3,9,37,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060123,UTA,NJN
+Shot Chart Detail,0020500596,278,2210,Richard Jefferson,1610612751,New Jersey Nets,3,5,18,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060123,UTA,NJN
+Shot Chart Detail,0020500596,312,2210,Richard Jefferson,1610612751,New Jersey Nets,3,1,13,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060123,UTA,NJN
+Shot Chart Detail,0020500596,362,2210,Richard Jefferson,1610612751,New Jersey Nets,4,7,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,110,196,1,1,20060123,UTA,NJN
+Shot Chart Detail,0020500596,415,2210,Richard Jefferson,1610612751,New Jersey Nets,4,1,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060123,UTA,NJN
+Shot Chart Detail,0020500596,432,2210,Richard Jefferson,1610612751,New Jersey Nets,4,1,11,Made Shot,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060123,UTA,NJN
+Shot Chart Detail,0020500614,15,2210,Richard Jefferson,1610612751,New Jersey Nets,1,8,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,21,189,112,1,1,20060125,LAC,NJN
+Shot Chart Detail,0020500614,104,2210,Richard Jefferson,1610612751,New Jersey Nets,2,10,26,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060125,LAC,NJN
+Shot Chart Detail,0020500614,168,2210,Richard Jefferson,1610612751,New Jersey Nets,2,4,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060125,LAC,NJN
+Shot Chart Detail,0020500614,204,2210,Richard Jefferson,1610612751,New Jersey Nets,3,11,46,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060125,LAC,NJN
+Shot Chart Detail,0020500614,299,2210,Richard Jefferson,1610612751,New Jersey Nets,3,1,39,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060125,LAC,NJN
+Shot Chart Detail,0020500630,8,2210,Richard Jefferson,1610612751,New Jersey Nets,1,10,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060127,POR,NJN
+Shot Chart Detail,0020500630,15,2210,Richard Jefferson,1610612751,New Jersey Nets,1,9,51,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060127,POR,NJN
+Shot Chart Detail,0020500630,210,2210,Richard Jefferson,1610612751,New Jersey Nets,3,9,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,144,153,1,1,20060127,POR,NJN
+Shot Chart Detail,0020500630,228,2210,Richard Jefferson,1610612751,New Jersey Nets,3,6,50,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060127,POR,NJN
+Shot Chart Detail,0020500630,292,2210,Richard Jefferson,1610612751,New Jersey Nets,4,11,34,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060127,POR,NJN
+Shot Chart Detail,0020500630,299,2210,Richard Jefferson,1610612751,New Jersey Nets,4,10,45,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060127,POR,NJN
+Shot Chart Detail,0020500630,321,2210,Richard Jefferson,1610612751,New Jersey Nets,4,7,59,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060127,POR,NJN
+Shot Chart Detail,0020500630,341,2210,Richard Jefferson,1610612751,New Jersey Nets,4,5,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-153,81,1,1,20060127,POR,NJN
+Shot Chart Detail,0020500638,21,2210,Richard Jefferson,1610612751,New Jersey Nets,1,10,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-149,168,1,1,20060128,SEA,NJN
+Shot Chart Detail,0020500638,31,2210,Richard Jefferson,1610612751,New Jersey Nets,1,8,47,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,228,41,1,1,20060128,SEA,NJN
+Shot Chart Detail,0020500638,37,2210,Richard Jefferson,1610612751,New Jersey Nets,1,7,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-107,158,1,1,20060128,SEA,NJN
+Shot Chart Detail,0020500638,137,2210,Richard Jefferson,1610612751,New Jersey Nets,2,9,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,141,97,1,1,20060128,SEA,NJN
+Shot Chart Detail,0020500638,171,2210,Richard Jefferson,1610612751,New Jersey Nets,2,5,39,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,-5,1,1,20060128,SEA,NJN
+Shot Chart Detail,0020500638,186,2210,Richard Jefferson,1610612751,New Jersey Nets,2,3,49,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060128,SEA,NJN
+Shot Chart Detail,0020500638,193,2210,Richard Jefferson,1610612751,New Jersey Nets,2,3,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,138,158,1,1,20060128,SEA,NJN
+Shot Chart Detail,0020500638,247,2210,Richard Jefferson,1610612751,New Jersey Nets,3,8,46,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060128,SEA,NJN
+Shot Chart Detail,0020500638,309,2210,Richard Jefferson,1610612751,New Jersey Nets,3,3,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060128,SEA,NJN
+Shot Chart Detail,0020500638,329,2210,Richard Jefferson,1610612751,New Jersey Nets,3,1,39,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-41,10,1,1,20060128,SEA,NJN
+Shot Chart Detail,0020500638,350,2210,Richard Jefferson,1610612751,New Jersey Nets,4,11,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060128,SEA,NJN
+Shot Chart Detail,0020500638,389,2210,Richard Jefferson,1610612751,New Jersey Nets,4,7,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060128,SEA,NJN
+Shot Chart Detail,0020500638,426,2210,Richard Jefferson,1610612751,New Jersey Nets,4,4,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-125,138,1,1,20060128,SEA,NJN
+Shot Chart Detail,0020500657,92,2210,Richard Jefferson,1610612751,New Jersey Nets,1,0,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060131,NJN,DET
+Shot Chart Detail,0020500657,180,2210,Richard Jefferson,1610612751,New Jersey Nets,2,3,6,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060131,NJN,DET
+Shot Chart Detail,0020500657,201,2210,Richard Jefferson,1610612751,New Jersey Nets,2,0,32,Made Shot,Finger Roll Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060131,NJN,DET
+Shot Chart Detail,0020500657,232,2210,Richard Jefferson,1610612751,New Jersey Nets,3,9,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060131,NJN,DET
+Shot Chart Detail,0020500657,325,2210,Richard Jefferson,1610612751,New Jersey Nets,4,11,9,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060131,NJN,DET
+Shot Chart Detail,0020500657,387,2210,Richard Jefferson,1610612751,New Jersey Nets,4,3,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060131,NJN,DET
+Shot Chart Detail,0020500663,143,2210,Richard Jefferson,1610612751,New Jersey Nets,2,5,59,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,0,1,1,20060201,CLE,NJN
+Shot Chart Detail,0020500663,190,2210,Richard Jefferson,1610612751,New Jersey Nets,2,1,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-154,166,1,1,20060201,CLE,NJN
+Shot Chart Detail,0020500663,215,2210,Richard Jefferson,1610612751,New Jersey Nets,3,10,51,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,14,77,125,1,1,20060201,CLE,NJN
+Shot Chart Detail,0020500663,352,2210,Richard Jefferson,1610612751,New Jersey Nets,4,8,14,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,3,1,1,20060201,CLE,NJN
+Shot Chart Detail,0020500663,362,2210,Richard Jefferson,1610612751,New Jersey Nets,4,7,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,-174,120,1,1,20060201,CLE,NJN
+Shot Chart Detail,0020500663,427,2210,Richard Jefferson,1610612751,New Jersey Nets,4,1,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-113,224,1,1,20060201,CLE,NJN
+Shot Chart Detail,0020500684,18,2210,Richard Jefferson,1610612751,New Jersey Nets,1,9,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,164,13,1,1,20060204,NJN,MIA
+Shot Chart Detail,0020500684,27,2210,Richard Jefferson,1610612751,New Jersey Nets,1,8,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060204,NJN,MIA
+Shot Chart Detail,0020500684,46,2210,Richard Jefferson,1610612751,New Jersey Nets,1,5,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060204,NJN,MIA
+Shot Chart Detail,0020500684,131,2210,Richard Jefferson,1610612751,New Jersey Nets,2,8,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060204,NJN,MIA
+Shot Chart Detail,0020500684,141,2210,Richard Jefferson,1610612751,New Jersey Nets,2,8,21,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060204,NJN,MIA
+Shot Chart Detail,0020500684,165,2210,Richard Jefferson,1610612751,New Jersey Nets,2,6,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,174,0,1,1,20060204,NJN,MIA
+Shot Chart Detail,0020500684,245,2210,Richard Jefferson,1610612751,New Jersey Nets,3,9,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060204,NJN,MIA
+Shot Chart Detail,0020500684,249,2210,Richard Jefferson,1610612751,New Jersey Nets,3,9,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,3,168,1,1,20060204,NJN,MIA
+Shot Chart Detail,0020500684,267,2210,Richard Jefferson,1610612751,New Jersey Nets,3,7,23,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060204,NJN,MIA
+Shot Chart Detail,0020500684,366,2210,Richard Jefferson,1610612751,New Jersey Nets,4,8,24,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060204,NJN,MIA
+Shot Chart Detail,0020500684,440,2210,Richard Jefferson,1610612751,New Jersey Nets,4,1,3,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060204,NJN,MIA
+Shot Chart Detail,0020500700,57,2210,Richard Jefferson,1610612751,New Jersey Nets,1,4,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,141,102,1,1,20060206,NJN,NOK
+Shot Chart Detail,0020500700,78,2210,Richard Jefferson,1610612751,New Jersey Nets,1,2,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-113,215,1,1,20060206,NJN,NOK
+Shot Chart Detail,0020500700,268,2210,Richard Jefferson,1610612751,New Jersey Nets,3,6,14,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060206,NJN,NOK
+Shot Chart Detail,0020500700,280,2210,Richard Jefferson,1610612751,New Jersey Nets,3,5,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060206,NJN,NOK
+Shot Chart Detail,0020500700,308,2210,Richard Jefferson,1610612751,New Jersey Nets,3,1,21,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,0,71,1,1,20060206,NJN,NOK
+Shot Chart Detail,0020500700,339,2210,Richard Jefferson,1610612751,New Jersey Nets,4,9,55,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060206,NJN,NOK
+Shot Chart Detail,0020500714,9,2210,Richard Jefferson,1610612751,New Jersey Nets,1,11,16,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060208,NJN,NYK
+Shot Chart Detail,0020500714,114,2210,Richard Jefferson,1610612751,New Jersey Nets,1,1,49,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060208,NJN,NYK
+Shot Chart Detail,0020500714,124,2210,Richard Jefferson,1610612751,New Jersey Nets,1,0,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-146,69,1,1,20060208,NJN,NYK
+Shot Chart Detail,0020500714,257,2210,Richard Jefferson,1610612751,New Jersey Nets,3,11,47,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060208,NJN,NYK
+Shot Chart Detail,0020500714,293,2210,Richard Jefferson,1610612751,New Jersey Nets,3,8,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,18,141,1,1,20060208,NJN,NYK
+Shot Chart Detail,0020500714,330,2210,Richard Jefferson,1610612751,New Jersey Nets,3,4,10,Made Shot,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060208,NJN,NYK
+Shot Chart Detail,0020500728,19,2210,Richard Jefferson,1610612751,New Jersey Nets,1,8,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,107,145,1,1,20060210,NJN,SAS
+Shot Chart Detail,0020500728,192,2210,Richard Jefferson,1610612751,New Jersey Nets,2,0,8,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060210,NJN,SAS
+Shot Chart Detail,0020500728,320,2210,Richard Jefferson,1610612751,New Jersey Nets,4,10,5,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060210,NJN,SAS
+Shot Chart Detail,0020500728,322,2210,Richard Jefferson,1610612751,New Jersey Nets,4,9,26,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060210,NJN,SAS
+Shot Chart Detail,0020500747,120,2210,Richard Jefferson,1610612751,New Jersey Nets,2,9,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,94,155,1,1,20060212,NJN,MIL
+Shot Chart Detail,0020500747,172,2210,Richard Jefferson,1610612751,New Jersey Nets,2,4,46,Made Shot,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060212,NJN,MIL
+Shot Chart Detail,0020500747,362,2210,Richard Jefferson,1610612751,New Jersey Nets,4,5,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,190,-3,1,1,20060212,NJN,MIL
+Shot Chart Detail,0020500760,8,2210,Richard Jefferson,1610612751,New Jersey Nets,1,10,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,167,0,1,1,20060214,DET,NJN
+Shot Chart Detail,0020500760,51,2210,Richard Jefferson,1610612751,New Jersey Nets,1,5,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-189,-3,1,1,20060214,DET,NJN
+Shot Chart Detail,0020500760,115,2210,Richard Jefferson,1610612751,New Jersey Nets,2,10,57,Made Shot,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060214,DET,NJN
+Shot Chart Detail,0020500760,235,2210,Richard Jefferson,1610612751,New Jersey Nets,2,1,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060214,DET,NJN
+Shot Chart Detail,0020500760,272,2210,Richard Jefferson,1610612751,New Jersey Nets,3,8,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060214,DET,NJN
+Shot Chart Detail,0020500760,374,2210,Richard Jefferson,1610612751,New Jersey Nets,4,8,54,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,31,1,1,20060214,DET,NJN
+Shot Chart Detail,0020500769,50,2210,Richard Jefferson,1610612751,New Jersey Nets,1,5,19,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060215,CHA,NJN
+Shot Chart Detail,0020500769,52,2210,Richard Jefferson,1610612751,New Jersey Nets,1,4,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,167,18,1,1,20060215,CHA,NJN
+Shot Chart Detail,0020500769,145,2210,Richard Jefferson,1610612751,New Jersey Nets,2,6,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060215,CHA,NJN
+Shot Chart Detail,0020500769,204,2210,Richard Jefferson,1610612751,New Jersey Nets,2,0,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-3,183,1,1,20060215,CHA,NJN
+Shot Chart Detail,0020500769,240,2210,Richard Jefferson,1610612751,New Jersey Nets,3,8,49,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-2,56,1,1,20060215,CHA,NJN
+Shot Chart Detail,0020500769,244,2210,Richard Jefferson,1610612751,New Jersey Nets,3,8,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,71,235,1,1,20060215,CHA,NJN
+Shot Chart Detail,0020500769,283,2210,Richard Jefferson,1610612751,New Jersey Nets,3,4,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,128,155,1,1,20060215,CHA,NJN
+Shot Chart Detail,0020500769,298,2210,Richard Jefferson,1610612751,New Jersey Nets,3,2,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-90,130,1,1,20060215,CHA,NJN
+Shot Chart Detail,0020500769,308,2210,Richard Jefferson,1610612751,New Jersey Nets,3,0,38,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060215,CHA,NJN
+Shot Chart Detail,0020500783,2,2210,Richard Jefferson,1610612751,New Jersey Nets,1,11,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-118,141,1,1,20060221,MIL,NJN
+Shot Chart Detail,0020500783,127,2210,Richard Jefferson,1610612751,New Jersey Nets,2,9,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,112,94,1,1,20060221,MIL,NJN
+Shot Chart Detail,0020500783,203,2210,Richard Jefferson,1610612751,New Jersey Nets,2,0,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,85,120,1,1,20060221,MIL,NJN
+Shot Chart Detail,0020500783,229,2210,Richard Jefferson,1610612751,New Jersey Nets,3,9,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060221,MIL,NJN
+Shot Chart Detail,0020500783,236,2210,Richard Jefferson,1610612751,New Jersey Nets,3,7,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060221,MIL,NJN
+Shot Chart Detail,0020500783,362,2210,Richard Jefferson,1610612751,New Jersey Nets,4,8,16,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060221,MIL,NJN
+Shot Chart Detail,0020500793,16,2210,Richard Jefferson,1610612751,New Jersey Nets,1,9,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,97,164,1,1,20060222,NJN,ORL
+Shot Chart Detail,0020500793,79,2210,Richard Jefferson,1610612751,New Jersey Nets,1,4,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,128,138,1,1,20060222,NJN,ORL
+Shot Chart Detail,0020500793,178,2210,Richard Jefferson,1610612751,New Jersey Nets,2,6,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-108,229,1,1,20060222,NJN,ORL
+Shot Chart Detail,0020500793,183,2210,Richard Jefferson,1610612751,New Jersey Nets,2,5,32,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060222,NJN,ORL
+Shot Chart Detail,0020500793,295,2210,Richard Jefferson,1610612751,New Jersey Nets,3,5,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-10,187,1,1,20060222,NJN,ORL
+Shot Chart Detail,0020500793,304,2210,Richard Jefferson,1610612751,New Jersey Nets,3,3,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-192,-14,1,1,20060222,NJN,ORL
+Shot Chart Detail,0020500793,348,2210,Richard Jefferson,1610612751,New Jersey Nets,4,11,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,103,148,1,1,20060222,NJN,ORL
+Shot Chart Detail,0020500793,394,2210,Richard Jefferson,1610612751,New Jersey Nets,4,6,50,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060222,NJN,ORL
+Shot Chart Detail,0020500793,441,2210,Richard Jefferson,1610612751,New Jersey Nets,4,1,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,163,5,1,1,20060222,NJN,ORL
+Shot Chart Detail,0020500806,2,2210,Richard Jefferson,1610612751,New Jersey Nets,1,11,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,107,194,1,1,20060224,NYK,NJN
+Shot Chart Detail,0020500806,33,2210,Richard Jefferson,1610612751,New Jersey Nets,1,7,45,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060224,NYK,NJN
+Shot Chart Detail,0020500806,50,2210,Richard Jefferson,1610612751,New Jersey Nets,1,5,30,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060224,NYK,NJN
+Shot Chart Detail,0020500806,65,2210,Richard Jefferson,1610612751,New Jersey Nets,1,3,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060224,NYK,NJN
+Shot Chart Detail,0020500806,189,2210,Richard Jefferson,1610612751,New Jersey Nets,2,4,5,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060224,NYK,NJN
+Shot Chart Detail,0020500806,283,2210,Richard Jefferson,1610612751,New Jersey Nets,3,8,28,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060224,NYK,NJN
+Shot Chart Detail,0020500806,301,2210,Richard Jefferson,1610612751,New Jersey Nets,3,6,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,103,59,1,1,20060224,NYK,NJN
+Shot Chart Detail,0020500806,308,2210,Richard Jefferson,1610612751,New Jersey Nets,3,6,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,121,215,1,1,20060224,NYK,NJN
+Shot Chart Detail,0020500806,468,2210,Richard Jefferson,1610612751,New Jersey Nets,4,3,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,125,184,1,1,20060224,NYK,NJN
+Shot Chart Detail,0020500825,22,2210,Richard Jefferson,1610612751,New Jersey Nets,1,9,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060226,NJN,IND
+Shot Chart Detail,0020500825,36,2210,Richard Jefferson,1610612751,New Jersey Nets,1,7,29,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060226,NJN,IND
+Shot Chart Detail,0020500825,141,2210,Richard Jefferson,1610612751,New Jersey Nets,2,8,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060226,NJN,IND
+Shot Chart Detail,0020500825,184,2210,Richard Jefferson,1610612751,New Jersey Nets,2,3,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,69,183,1,1,20060226,NJN,IND
+Shot Chart Detail,0020500825,211,2210,Richard Jefferson,1610612751,New Jersey Nets,2,0,46,Made Shot,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060226,NJN,IND
+Shot Chart Detail,0020500825,259,2210,Richard Jefferson,1610612751,New Jersey Nets,3,7,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060226,NJN,IND
+Shot Chart Detail,0020500825,315,2210,Richard Jefferson,1610612751,New Jersey Nets,3,1,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060226,NJN,IND
+Shot Chart Detail,0020500828,2,2210,Richard Jefferson,1610612751,New Jersey Nets,1,11,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-192,-3,1,1,20060227,ATL,NJN
+Shot Chart Detail,0020500828,14,2210,Richard Jefferson,1610612751,New Jersey Nets,1,10,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060227,ATL,NJN
+Shot Chart Detail,0020500828,38,2210,Richard Jefferson,1610612751,New Jersey Nets,1,7,9,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060227,ATL,NJN
+Shot Chart Detail,0020500828,85,2210,Richard Jefferson,1610612751,New Jersey Nets,1,0,37,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,-3,1,1,20060227,ATL,NJN
+Shot Chart Detail,0020500828,226,2210,Richard Jefferson,1610612751,New Jersey Nets,3,10,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-186,2,1,1,20060227,ATL,NJN
+Shot Chart Detail,0020500828,322,2210,Richard Jefferson,1610612751,New Jersey Nets,3,1,1,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060227,ATL,NJN
+Shot Chart Detail,0020500828,339,2210,Richard Jefferson,1610612751,New Jersey Nets,4,11,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,98,138,1,1,20060227,ATL,NJN
+Shot Chart Detail,0020500847,27,2210,Richard Jefferson,1610612751,New Jersey Nets,1,7,33,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,39,56,1,1,20060301,MIN,NJN
+Shot Chart Detail,0020500847,39,2210,Richard Jefferson,1610612751,New Jersey Nets,1,6,12,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060301,MIN,NJN
+Shot Chart Detail,0020500847,75,2210,Richard Jefferson,1610612751,New Jersey Nets,1,2,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,146,146,1,1,20060301,MIN,NJN
+Shot Chart Detail,0020500847,78,2210,Richard Jefferson,1610612751,New Jersey Nets,1,1,39,Made Shot,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060301,MIN,NJN
+Shot Chart Detail,0020500847,92,2210,Richard Jefferson,1610612751,New Jersey Nets,1,0,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,190,169,1,1,20060301,MIN,NJN
+Shot Chart Detail,0020500847,179,2210,Richard Jefferson,1610612751,New Jersey Nets,2,1,57,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060301,MIN,NJN
+Shot Chart Detail,0020500847,256,2210,Richard Jefferson,1610612751,New Jersey Nets,3,5,11,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060301,MIN,NJN
+Shot Chart Detail,0020500847,344,2210,Richard Jefferson,1610612751,New Jersey Nets,4,8,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-97,173,1,1,20060301,MIN,NJN
+Shot Chart Detail,0020500847,356,2210,Richard Jefferson,1610612751,New Jersey Nets,4,7,12,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-95,105,1,1,20060301,MIN,NJN
+Shot Chart Detail,0020500867,44,2210,Richard Jefferson,1610612751,New Jersey Nets,1,5,55,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060304,NJN,TOR
+Shot Chart Detail,0020500867,73,2210,Richard Jefferson,1610612751,New Jersey Nets,1,2,43,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060304,NJN,TOR
+Shot Chart Detail,0020500867,104,2210,Richard Jefferson,1610612751,New Jersey Nets,1,0,7,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,236,33,1,1,20060304,NJN,TOR
+Shot Chart Detail,0020500867,137,2210,Richard Jefferson,1610612751,New Jersey Nets,2,8,17,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060304,NJN,TOR
+Shot Chart Detail,0020500867,270,2210,Richard Jefferson,1610612751,New Jersey Nets,3,4,51,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060304,NJN,TOR
+Shot Chart Detail,0020500867,279,2210,Richard Jefferson,1610612751,New Jersey Nets,3,4,3,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060304,NJN,TOR
+Shot Chart Detail,0020500867,361,2210,Richard Jefferson,1610612751,New Jersey Nets,4,7,57,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-11,69,1,1,20060304,NJN,TOR
+Shot Chart Detail,0020500867,409,2210,Richard Jefferson,1610612751,New Jersey Nets,4,2,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,57,250,1,1,20060304,NJN,TOR
+Shot Chart Detail,0020500867,453,2210,Richard Jefferson,1610612751,New Jersey Nets,5,3,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060304,NJN,TOR
+Shot Chart Detail,0020500867,455,2210,Richard Jefferson,1610612751,New Jersey Nets,5,3,31,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060304,NJN,TOR
+Shot Chart Detail,0020500883,9,2210,Richard Jefferson,1610612751,New Jersey Nets,1,10,57,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060306,NJN,SAC
+Shot Chart Detail,0020500883,42,2210,Richard Jefferson,1610612751,New Jersey Nets,1,6,20,Made Shot,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060306,NJN,SAC
+Shot Chart Detail,0020500883,48,2210,Richard Jefferson,1610612751,New Jersey Nets,1,5,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,51,258,1,1,20060306,NJN,SAC
+Shot Chart Detail,0020500883,50,2210,Richard Jefferson,1610612751,New Jersey Nets,1,4,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,66,232,1,1,20060306,NJN,SAC
+Shot Chart Detail,0020500883,152,2210,Richard Jefferson,1610612751,New Jersey Nets,2,7,50,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060306,NJN,SAC
+Shot Chart Detail,0020500883,174,2210,Richard Jefferson,1610612751,New Jersey Nets,2,4,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060306,NJN,SAC
+Shot Chart Detail,0020500883,252,2210,Richard Jefferson,1610612751,New Jersey Nets,3,8,52,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060306,NJN,SAC
+Shot Chart Detail,0020500883,257,2210,Richard Jefferson,1610612751,New Jersey Nets,3,8,23,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060306,NJN,SAC
+Shot Chart Detail,0020500894,72,2210,Richard Jefferson,1610612751,New Jersey Nets,1,3,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,120,-14,1,1,20060307,CHI,NJN
+Shot Chart Detail,0020500894,145,2210,Richard Jefferson,1610612751,New Jersey Nets,2,8,32,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060307,CHI,NJN
+Shot Chart Detail,0020500894,158,2210,Richard Jefferson,1610612751,New Jersey Nets,2,6,55,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,245,-9,1,1,20060307,CHI,NJN
+Shot Chart Detail,0020500894,166,2210,Richard Jefferson,1610612751,New Jersey Nets,2,5,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,181,36,1,1,20060307,CHI,NJN
+Shot Chart Detail,0020500894,252,2210,Richard Jefferson,1610612751,New Jersey Nets,3,6,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060307,CHI,NJN
+Shot Chart Detail,0020500894,423,2210,Richard Jefferson,1610612751,New Jersey Nets,4,3,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060307,CHI,NJN
+Shot Chart Detail,0020500933,7,2210,Richard Jefferson,1610612751,New Jersey Nets,1,10,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,148,79,1,1,20060312,NOK,NJN
+Shot Chart Detail,0020500933,33,2210,Richard Jefferson,1610612751,New Jersey Nets,1,7,16,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060312,NOK,NJN
+Shot Chart Detail,0020500933,35,2210,Richard Jefferson,1610612751,New Jersey Nets,1,6,48,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060312,NOK,NJN
+Shot Chart Detail,0020500933,53,2210,Richard Jefferson,1610612751,New Jersey Nets,1,4,38,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,5,1,1,20060312,NOK,NJN
+Shot Chart Detail,0020500933,371,2210,Richard Jefferson,1610612751,New Jersey Nets,4,6,49,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,-1,1,1,20060312,NOK,NJN
+Shot Chart Detail,0020500939,19,2210,Richard Jefferson,1610612751,New Jersey Nets,1,8,34,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060313,HOU,NJN
+Shot Chart Detail,0020500939,358,2210,Richard Jefferson,1610612751,New Jersey Nets,4,8,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,159,199,1,1,20060313,HOU,NJN
+Shot Chart Detail,0020500939,452,2210,Richard Jefferson,1610612751,New Jersey Nets,4,0,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-163,187,1,1,20060313,HOU,NJN
+Shot Chart Detail,0020500954,8,2210,Richard Jefferson,1610612751,New Jersey Nets,1,10,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,74,230,1,1,20060315,NJN,POR
+Shot Chart Detail,0020500954,14,2210,Richard Jefferson,1610612751,New Jersey Nets,1,9,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,34,199,1,1,20060315,NJN,POR
+Shot Chart Detail,0020500954,26,2210,Richard Jefferson,1610612751,New Jersey Nets,1,7,9,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060315,NJN,POR
+Shot Chart Detail,0020500954,160,2210,Richard Jefferson,1610612751,New Jersey Nets,2,5,26,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060315,NJN,POR
+Shot Chart Detail,0020500954,190,2210,Richard Jefferson,1610612751,New Jersey Nets,2,2,27,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060315,NJN,POR
+Shot Chart Detail,0020500954,262,2210,Richard Jefferson,1610612751,New Jersey Nets,3,6,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-118,122,1,1,20060315,NJN,POR
+Shot Chart Detail,0020500954,278,2210,Richard Jefferson,1610612751,New Jersey Nets,3,4,40,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060315,NJN,POR
+Shot Chart Detail,0020500954,293,2210,Richard Jefferson,1610612751,New Jersey Nets,3,2,27,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060315,NJN,POR
+Shot Chart Detail,0020500954,387,2210,Richard Jefferson,1610612751,New Jersey Nets,4,3,53,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,72,20,1,1,20060315,NJN,POR
+Shot Chart Detail,0020500954,408,2210,Richard Jefferson,1610612751,New Jersey Nets,4,1,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-36,248,1,1,20060315,NJN,POR
+Shot Chart Detail,0020500968,35,2210,Richard Jefferson,1610612751,New Jersey Nets,1,7,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-2,240,1,1,20060317,NJN,LAL
+Shot Chart Detail,0020500968,50,2210,Richard Jefferson,1610612751,New Jersey Nets,1,5,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,8,206,1,1,20060317,NJN,LAL
+Shot Chart Detail,0020500968,161,2210,Richard Jefferson,1610612751,New Jersey Nets,2,3,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060317,NJN,LAL
+Shot Chart Detail,0020500968,205,2210,Richard Jefferson,1610612751,New Jersey Nets,3,11,30,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060317,NJN,LAL
+Shot Chart Detail,0020500968,223,2210,Richard Jefferson,1610612751,New Jersey Nets,3,9,38,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,13,53,1,1,20060317,NJN,LAL
+Shot Chart Detail,0020500979,14,2210,Richard Jefferson,1610612751,New Jersey Nets,1,9,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,154,0,1,1,20060319,NJN,DAL
+Shot Chart Detail,0020500979,44,2210,Richard Jefferson,1610612751,New Jersey Nets,1,7,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-20,189,1,1,20060319,NJN,DAL
+Shot Chart Detail,0020500979,91,2210,Richard Jefferson,1610612751,New Jersey Nets,1,2,25,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060319,NJN,DAL
+Shot Chart Detail,0020500979,105,2210,Richard Jefferson,1610612751,New Jersey Nets,1,0,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,66,183,1,1,20060319,NJN,DAL
+Shot Chart Detail,0020500979,134,2210,Richard Jefferson,1610612751,New Jersey Nets,2,9,18,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-153,3,1,1,20060319,NJN,DAL
+Shot Chart Detail,0020500979,194,2210,Richard Jefferson,1610612751,New Jersey Nets,2,2,52,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,0,1,1,20060319,NJN,DAL
+Shot Chart Detail,0020500979,208,2210,Richard Jefferson,1610612751,New Jersey Nets,2,1,26,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060319,NJN,DAL
+Shot Chart Detail,0020500979,262,2210,Richard Jefferson,1610612751,New Jersey Nets,3,6,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-166,0,1,1,20060319,NJN,DAL
+Shot Chart Detail,0020500979,278,2210,Richard Jefferson,1610612751,New Jersey Nets,3,3,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,110,2,1,1,20060319,NJN,DAL
+Shot Chart Detail,0020500979,303,2210,Richard Jefferson,1610612751,New Jersey Nets,3,2,5,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060319,NJN,DAL
+Shot Chart Detail,0020500979,312,2210,Richard Jefferson,1610612751,New Jersey Nets,3,0,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,140,214,1,1,20060319,NJN,DAL
+Shot Chart Detail,0020500992,30,2210,Richard Jefferson,1610612751,New Jersey Nets,1,7,54,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-28,58,1,1,20060321,WAS,NJN
+Shot Chart Detail,0020500992,161,2210,Richard Jefferson,1610612751,New Jersey Nets,2,4,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-177,95,1,1,20060321,WAS,NJN
+Shot Chart Detail,0020500992,168,2210,Richard Jefferson,1610612751,New Jersey Nets,2,3,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,182,22,1,1,20060321,WAS,NJN
+Shot Chart Detail,0020500992,207,2210,Richard Jefferson,1610612751,New Jersey Nets,3,11,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-25,253,1,1,20060321,WAS,NJN
+Shot Chart Detail,0020500992,211,2210,Richard Jefferson,1610612751,New Jersey Nets,3,10,36,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,-1,1,1,20060321,WAS,NJN
+Shot Chart Detail,0020500992,261,2210,Richard Jefferson,1610612751,New Jersey Nets,3,5,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,23,-90,215,1,1,20060321,WAS,NJN
+Shot Chart Detail,0020500992,289,2210,Richard Jefferson,1610612751,New Jersey Nets,3,1,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-163,99,1,1,20060321,WAS,NJN
+Shot Chart Detail,0020500992,339,2210,Richard Jefferson,1610612751,New Jersey Nets,4,8,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,153,122,1,1,20060321,WAS,NJN
+Shot Chart Detail,0020500992,341,2210,Richard Jefferson,1610612751,New Jersey Nets,4,7,52,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,-1,1,1,20060321,WAS,NJN
+Shot Chart Detail,0020500992,361,2210,Richard Jefferson,1610612751,New Jersey Nets,4,5,43,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,8,-8,1,1,20060321,WAS,NJN
+Shot Chart Detail,0020500992,375,2210,Richard Jefferson,1610612751,New Jersey Nets,4,4,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,13,243,1,1,20060321,WAS,NJN
+Shot Chart Detail,0020501011,5,2210,Richard Jefferson,1610612751,New Jersey Nets,1,11,25,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060323,NJN,MIN
+Shot Chart Detail,0020501011,39,2210,Richard Jefferson,1610612751,New Jersey Nets,1,6,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060323,NJN,MIN
+Shot Chart Detail,0020501011,222,2210,Richard Jefferson,1610612751,New Jersey Nets,2,1,30,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060323,NJN,MIN
+Shot Chart Detail,0020501011,227,2210,Richard Jefferson,1610612751,New Jersey Nets,2,0,42,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060323,NJN,MIN
+Shot Chart Detail,0020501011,274,2210,Richard Jefferson,1610612751,New Jersey Nets,3,7,33,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060323,NJN,MIN
+Shot Chart Detail,0020501011,321,2210,Richard Jefferson,1610612751,New Jersey Nets,3,3,35,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060323,NJN,MIN
+Shot Chart Detail,0020501035,5,2210,Richard Jefferson,1610612751,New Jersey Nets,1,11,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-146,5,1,1,20060326,DET,NJN
+Shot Chart Detail,0020501035,31,2210,Richard Jefferson,1610612751,New Jersey Nets,1,6,58,Made Shot,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060326,DET,NJN
+Shot Chart Detail,0020501035,260,2210,Richard Jefferson,1610612751,New Jersey Nets,3,8,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-156,61,1,1,20060326,DET,NJN
+Shot Chart Detail,0020501035,264,2210,Richard Jefferson,1610612751,New Jersey Nets,3,7,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,117,127,1,1,20060326,DET,NJN
+Shot Chart Detail,0020501035,318,2210,Richard Jefferson,1610612751,New Jersey Nets,3,0,57,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060326,DET,NJN
+Shot Chart Detail,0020501043,29,2210,Richard Jefferson,1610612751,New Jersey Nets,1,9,15,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060327,NJN,PHX
+Shot Chart Detail,0020501043,132,2210,Richard Jefferson,1610612751,New Jersey Nets,2,10,44,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060327,NJN,PHX
+Shot Chart Detail,0020501043,219,2210,Richard Jefferson,1610612751,New Jersey Nets,2,2,27,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060327,NJN,PHX
+Shot Chart Detail,0020501043,258,2210,Richard Jefferson,1610612751,New Jersey Nets,3,9,44,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060327,NJN,PHX
+Shot Chart Detail,0020501043,273,2210,Richard Jefferson,1610612751,New Jersey Nets,3,8,20,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060327,NJN,PHX
+Shot Chart Detail,0020501058,11,2210,Richard Jefferson,1610612751,New Jersey Nets,1,9,23,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060329,NJN,MEM
+Shot Chart Detail,0020501058,27,2210,Richard Jefferson,1610612751,New Jersey Nets,1,6,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,72,235,1,1,20060329,NJN,MEM
+Shot Chart Detail,0020501058,52,2210,Richard Jefferson,1610612751,New Jersey Nets,1,3,58,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060329,NJN,MEM
+Shot Chart Detail,0020501058,174,2210,Richard Jefferson,1610612751,New Jersey Nets,2,3,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-66,252,1,1,20060329,NJN,MEM
+Shot Chart Detail,0020501058,212,2210,Richard Jefferson,1610612751,New Jersey Nets,3,11,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-79,178,1,1,20060329,NJN,MEM
+Shot Chart Detail,0020501058,249,2210,Richard Jefferson,1610612751,New Jersey Nets,3,7,34,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060329,NJN,MEM
+Shot Chart Detail,0020501058,329,2210,Richard Jefferson,1610612751,New Jersey Nets,4,9,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-166,63,1,1,20060329,NJN,MEM
+Shot Chart Detail,0020501058,375,2210,Richard Jefferson,1610612751,New Jersey Nets,4,3,38,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060329,NJN,MEM
+Shot Chart Detail,0020501068,5,2210,Richard Jefferson,1610612751,New Jersey Nets,1,11,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,113,102,1,1,20060331,ATL,NJN
+Shot Chart Detail,0020501068,28,2210,Richard Jefferson,1610612751,New Jersey Nets,1,8,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,164,-3,1,1,20060331,ATL,NJN
+Shot Chart Detail,0020501068,52,2210,Richard Jefferson,1610612751,New Jersey Nets,1,5,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-5,179,1,1,20060331,ATL,NJN
+Shot Chart Detail,0020501068,97,2210,Richard Jefferson,1610612751,New Jersey Nets,1,1,43,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060331,ATL,NJN
+Shot Chart Detail,0020501068,230,2210,Richard Jefferson,1610612751,New Jersey Nets,2,1,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-85,168,1,1,20060331,ATL,NJN
+Shot Chart Detail,0020501068,290,2210,Richard Jefferson,1610612751,New Jersey Nets,3,7,30,Made Shot,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060331,ATL,NJN
+Shot Chart Detail,0020501068,320,2210,Richard Jefferson,1610612751,New Jersey Nets,3,4,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,80,171,1,1,20060331,ATL,NJN
+Shot Chart Detail,0020501068,442,2210,Richard Jefferson,1610612751,New Jersey Nets,4,4,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-120,109,1,1,20060331,ATL,NJN
+Shot Chart Detail,0020501091,20,2210,Richard Jefferson,1610612751,New Jersey Nets,1,8,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-192,-13,1,1,20060402,NJN,MIA
+Shot Chart Detail,0020501091,42,2210,Richard Jefferson,1610612751,New Jersey Nets,1,5,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,187,-8,1,1,20060402,NJN,MIA
+Shot Chart Detail,0020501091,88,2210,Richard Jefferson,1610612751,New Jersey Nets,1,1,13,Made Shot,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060402,NJN,MIA
+Shot Chart Detail,0020501091,216,2210,Richard Jefferson,1610612751,New Jersey Nets,3,11,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060402,NJN,MIA
+Shot Chart Detail,0020501091,246,2210,Richard Jefferson,1610612751,New Jersey Nets,3,7,47,Made Shot,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060402,NJN,MIA
+Shot Chart Detail,0020501091,395,2210,Richard Jefferson,1610612751,New Jersey Nets,4,6,19,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060402,NJN,MIA
+Shot Chart Detail,0020501098,10,2210,Richard Jefferson,1610612751,New Jersey Nets,1,10,42,Made Shot,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060404,NJN,ATL
+Shot Chart Detail,0020501098,34,2210,Richard Jefferson,1610612751,New Jersey Nets,1,8,16,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060404,NJN,ATL
+Shot Chart Detail,0020501098,60,2210,Richard Jefferson,1610612751,New Jersey Nets,1,5,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,31,155,1,1,20060404,NJN,ATL
+Shot Chart Detail,0020501098,189,2210,Richard Jefferson,1610612751,New Jersey Nets,2,5,2,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-20,71,1,1,20060404,NJN,ATL
+Shot Chart Detail,0020501098,195,2210,Richard Jefferson,1610612751,New Jersey Nets,2,4,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-138,215,1,1,20060404,NJN,ATL
+Shot Chart Detail,0020501118,35,2210,Richard Jefferson,1610612751,New Jersey Nets,1,8,29,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060406,NJN,CHA
+Shot Chart Detail,0020501118,42,2210,Richard Jefferson,1610612751,New Jersey Nets,1,7,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-108,155,1,1,20060406,NJN,CHA
+Shot Chart Detail,0020501118,86,2210,Richard Jefferson,1610612751,New Jersey Nets,1,3,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060406,NJN,CHA
+Shot Chart Detail,0020501118,122,2210,Richard Jefferson,1610612751,New Jersey Nets,1,0,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-62,146,1,1,20060406,NJN,CHA
+Shot Chart Detail,0020501118,278,2210,Richard Jefferson,1610612751,New Jersey Nets,3,9,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,141,68,1,1,20060406,NJN,CHA
+Shot Chart Detail,0020501118,282,2210,Richard Jefferson,1610612751,New Jersey Nets,3,8,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060406,NJN,CHA
+Shot Chart Detail,0020501118,293,2210,Richard Jefferson,1610612751,New Jersey Nets,3,7,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060406,NJN,CHA
+Shot Chart Detail,0020501118,342,2210,Richard Jefferson,1610612751,New Jersey Nets,3,1,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-123,110,1,1,20060406,NJN,CHA
+Shot Chart Detail,0020501118,353,2210,Richard Jefferson,1610612751,New Jersey Nets,3,0,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,6,201,1,1,20060406,NJN,CHA
+Shot Chart Detail,0020501118,380,2210,Richard Jefferson,1610612751,New Jersey Nets,4,11,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,120,153,1,1,20060406,NJN,CHA
+Shot Chart Detail,0020501118,387,2210,Richard Jefferson,1610612751,New Jersey Nets,4,10,3,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,0,1,1,20060406,NJN,CHA
+Shot Chart Detail,0020501118,427,2210,Richard Jefferson,1610612751,New Jersey Nets,4,6,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,186,166,1,1,20060406,NJN,CHA
+Shot Chart Detail,0020501118,447,2210,Richard Jefferson,1610612751,New Jersey Nets,4,4,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,128,214,1,1,20060406,NJN,CHA
+Shot Chart Detail,0020501133,85,2210,Richard Jefferson,1610612751,New Jersey Nets,1,1,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060408,NJN,CLE
+Shot Chart Detail,0020501133,103,2210,Richard Jefferson,1610612751,New Jersey Nets,2,11,24,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060408,NJN,CLE
+Shot Chart Detail,0020501133,267,2210,Richard Jefferson,1610612751,New Jersey Nets,3,6,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060408,NJN,CLE
+Shot Chart Detail,0020501133,274,2210,Richard Jefferson,1610612751,New Jersey Nets,3,5,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-146,71,1,1,20060408,NJN,CLE
+Shot Chart Detail,0020501133,276,2210,Richard Jefferson,1610612751,New Jersey Nets,3,5,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,23,-49,225,1,1,20060408,NJN,CLE
+Shot Chart Detail,0020501142,61,2210,Richard Jefferson,1610612751,New Jersey Nets,1,4,4,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,245,38,1,1,20060409,MIL,NJN
+Shot Chart Detail,0020501142,72,2210,Richard Jefferson,1610612751,New Jersey Nets,1,3,2,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060409,MIL,NJN
+Shot Chart Detail,0020501142,86,2210,Richard Jefferson,1610612751,New Jersey Nets,1,2,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-123,86,1,1,20060409,MIL,NJN
+Shot Chart Detail,0020501142,267,2210,Richard Jefferson,1610612751,New Jersey Nets,3,8,5,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060409,MIL,NJN
+Shot Chart Detail,0020501158,98,2210,Richard Jefferson,1610612751,New Jersey Nets,1,2,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,30,-212,222,1,1,20060411,CHI,NJN
+Shot Chart Detail,0020501158,241,2210,Richard Jefferson,1610612751,New Jersey Nets,2,3,27,Made Shot,Finger Roll Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,5,68,1,1,20060411,CHI,NJN
+Shot Chart Detail,0020501158,305,2210,Richard Jefferson,1610612751,New Jersey Nets,3,10,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-164,151,1,1,20060411,CHI,NJN
+Shot Chart Detail,0020501158,321,2210,Richard Jefferson,1610612751,New Jersey Nets,3,8,42,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060411,CHI,NJN
+Shot Chart Detail,0020501158,347,2210,Richard Jefferson,1610612751,New Jersey Nets,3,6,41,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060411,CHI,NJN
+Shot Chart Detail,0020501158,394,2210,Richard Jefferson,1610612751,New Jersey Nets,3,2,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,79,151,1,1,20060411,CHI,NJN
+Shot Chart Detail,0020501158,442,2210,Richard Jefferson,1610612751,New Jersey Nets,4,10,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,120,237,1,1,20060411,CHI,NJN
+Shot Chart Detail,0020501158,513,2210,Richard Jefferson,1610612751,New Jersey Nets,4,3,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,120,169,1,1,20060411,CHI,NJN
+Shot Chart Detail,0020501165,248,2210,Richard Jefferson,1610612751,New Jersey Nets,3,11,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-66,150,1,1,20060412,NJN,PHI
+Shot Chart Detail,0020501165,266,2210,Richard Jefferson,1610612751,New Jersey Nets,3,9,37,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,69,72,1,1,20060412,NJN,PHI
+Shot Chart Detail,0020501179,258,2210,Richard Jefferson,1610612751,New Jersey Nets,3,7,58,Made Shot,Driving Finger Roll Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,8,2,1,1,20060414,BOS,NJN
+Shot Chart Detail,0020501179,297,2210,Richard Jefferson,1610612751,New Jersey Nets,3,5,3,Made Shot,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-1,1,1,20060414,BOS,NJN
+Shot Chart Detail,0020501199,1,2210,Richard Jefferson,1610612751,New Jersey Nets,1,11,40,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060416,NJN,BOS
+Shot Chart Detail,0020501199,31,2210,Richard Jefferson,1610612751,New Jersey Nets,1,6,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060416,NJN,BOS
+Shot Chart Detail,0020501199,65,2210,Richard Jefferson,1610612751,New Jersey Nets,1,3,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060416,NJN,BOS
+Shot Chart Detail,0020501199,88,2210,Richard Jefferson,1610612751,New Jersey Nets,1,1,12,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060416,NJN,BOS
+Shot Chart Detail,0020501199,204,2210,Richard Jefferson,1610612751,New Jersey Nets,2,1,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,156,0,1,1,20060416,NJN,BOS
+Shot Chart Detail,0020501199,238,2210,Richard Jefferson,1610612751,New Jersey Nets,3,8,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-2,258,1,1,20060416,NJN,BOS
+Shot Chart Detail,0020501220,28,2210,Richard Jefferson,1610612751,New Jersey Nets,1,8,36,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,138,105,1,1,20060419,NJN,NYK
+Shot Chart Detail,0020501220,35,2210,Richard Jefferson,1610612751,New Jersey Nets,1,7,18,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060419,NJN,NYK
+Shot Chart Detail,0020501220,64,2210,Richard Jefferson,1610612751,New Jersey Nets,1,2,52,Made Shot,Driving Finger Roll Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060419,NJN,NYK
+Shot Chart Detail,0020501220,68,2210,Richard Jefferson,1610612751,New Jersey Nets,1,2,19,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060419,NJN,NYK
+Shot Chart Detail,0020501220,214,2210,Richard Jefferson,1610612751,New Jersey Nets,3,11,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,149,127,1,1,20060419,NJN,NYK

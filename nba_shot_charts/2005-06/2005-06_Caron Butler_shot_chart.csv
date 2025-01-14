@@ -1,0 +1,495 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0020500004,101,2406,Caron Butler,1610612764,Washington Wizards,1,2,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,22,11,224,1,1,20051102,TOR,WAS
+Shot Chart Detail,0020500004,401,2406,Caron Butler,1610612764,Washington Wizards,4,9,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-182,0,1,1,20051102,TOR,WAS
+Shot Chart Detail,0020500004,404,2406,Caron Butler,1610612764,Washington Wizards,4,8,45,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051102,TOR,WAS
+Shot Chart Detail,0020500057,99,2406,Caron Butler,1610612764,Washington Wizards,1,1,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-51,212,1,1,20051109,WAS,LAC
+Shot Chart Detail,0020500057,338,2406,Caron Butler,1610612764,Washington Wizards,3,0,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,8,-11,1,1,20051109,WAS,LAC
+Shot Chart Detail,0020500057,421,2406,Caron Butler,1610612764,Washington Wizards,4,4,8,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,-3,1,1,20051109,WAS,LAC
+Shot Chart Detail,0020500057,450,2406,Caron Butler,1610612764,Washington Wizards,4,1,31,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,-6,1,1,20051109,WAS,LAC
+Shot Chart Detail,0020500057,456,2406,Caron Butler,1610612764,Washington Wizards,4,1,1,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,154,-28,1,1,20051109,WAS,LAC
+Shot Chart Detail,0020500072,63,2406,Caron Butler,1610612764,Washington Wizards,1,3,14,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,2,1,1,20051111,WAS,SEA
+Shot Chart Detail,0020500072,73,2406,Caron Butler,1610612764,Washington Wizards,1,2,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,8,1,1,20051111,WAS,SEA
+Shot Chart Detail,0020500072,175,2406,Caron Butler,1610612764,Washington Wizards,2,6,50,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,0,1,1,20051111,WAS,SEA
+Shot Chart Detail,0020500072,356,2406,Caron Butler,1610612764,Washington Wizards,3,3,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,-9,1,1,20051111,WAS,SEA
+Shot Chart Detail,0020500072,364,2406,Caron Butler,1610612764,Washington Wizards,3,2,38,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,-1,1,1,20051111,WAS,SEA
+Shot Chart Detail,0020500072,369,2406,Caron Butler,1610612764,Washington Wizards,3,2,4,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,52,49,1,1,20051111,WAS,SEA
+Shot Chart Detail,0020500072,416,2406,Caron Butler,1610612764,Washington Wizards,4,10,42,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,2,1,1,20051111,WAS,SEA
+Shot Chart Detail,0020500072,422,2406,Caron Butler,1610612764,Washington Wizards,4,10,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,15,183,1,1,20051111,WAS,SEA
+Shot Chart Detail,0020500072,449,2406,Caron Butler,1610612764,Washington Wizards,4,8,11,Made Shot,Tip Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,39,-11,1,1,20051111,WAS,SEA
+Shot Chart Detail,0020500081,67,2406,Caron Butler,1610612764,Washington Wizards,1,2,15,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,87,18,1,1,20051112,WAS,SAS
+Shot Chart Detail,0020500081,124,2406,Caron Butler,1610612764,Washington Wizards,2,7,47,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,3,0,1,1,20051112,WAS,SAS
+Shot Chart Detail,0020500081,160,2406,Caron Butler,1610612764,Washington Wizards,2,3,27,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,92,7,1,1,20051112,WAS,SAS
+Shot Chart Detail,0020500081,375,2406,Caron Butler,1610612764,Washington Wizards,4,7,37,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-3,0,1,1,20051112,WAS,SAS
+Shot Chart Detail,0020500081,384,2406,Caron Butler,1610612764,Washington Wizards,4,6,50,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,8,-6,1,1,20051112,WAS,SAS
+Shot Chart Detail,0020500081,450,2406,Caron Butler,1610612764,Washington Wizards,4,1,22,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,8,0,1,1,20051112,WAS,SAS
+Shot Chart Detail,0020500100,86,2406,Caron Butler,1610612764,Washington Wizards,1,1,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,22,16,222,1,1,20051115,CLE,WAS
+Shot Chart Detail,0020500100,201,2406,Caron Butler,1610612764,Washington Wizards,2,4,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,5,1,1,20051115,CLE,WAS
+Shot Chart Detail,0020500100,344,2406,Caron Butler,1610612764,Washington Wizards,3,2,47,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-3,0,1,1,20051115,CLE,WAS
+Shot Chart Detail,0020500100,353,2406,Caron Butler,1610612764,Washington Wizards,3,2,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-87,201,1,1,20051115,CLE,WAS
+Shot Chart Detail,0020500100,395,2406,Caron Butler,1610612764,Washington Wizards,4,10,47,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,2,1,1,20051115,CLE,WAS
+Shot Chart Detail,0020500119,115,2406,Caron Butler,1610612764,Washington Wizards,2,10,16,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051117,MIN,WAS
+Shot Chart Detail,0020500119,283,2406,Caron Butler,1610612764,Washington Wizards,3,2,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,-212,26,1,1,20051117,MIN,WAS
+Shot Chart Detail,0020500119,286,2406,Caron Butler,1610612764,Washington Wizards,3,2,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,95,156,1,1,20051117,MIN,WAS
+Shot Chart Detail,0020500119,343,2406,Caron Butler,1610612764,Washington Wizards,4,9,16,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-113,91,1,1,20051117,MIN,WAS
+Shot Chart Detail,0020500119,349,2406,Caron Butler,1610612764,Washington Wizards,4,8,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,136,18,1,1,20051117,MIN,WAS
+Shot Chart Detail,0020500119,372,2406,Caron Butler,1610612764,Washington Wizards,4,5,1,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051117,MIN,WAS
+Shot Chart Detail,0020500119,380,2406,Caron Butler,1610612764,Washington Wizards,4,4,15,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051117,MIN,WAS
+Shot Chart Detail,0020500134,79,2406,Caron Butler,1610612764,Washington Wizards,1,2,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,149,74,1,1,20051119,NJN,WAS
+Shot Chart Detail,0020500134,100,2406,Caron Butler,1610612764,Washington Wizards,1,0,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,181,13,1,1,20051119,NJN,WAS
+Shot Chart Detail,0020500134,111,2406,Caron Butler,1610612764,Washington Wizards,2,11,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,120,181,1,1,20051119,NJN,WAS
+Shot Chart Detail,0020500134,255,2406,Caron Butler,1610612764,Washington Wizards,3,8,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051119,NJN,WAS
+Shot Chart Detail,0020500134,477,2406,Caron Butler,1610612764,Washington Wizards,4,1,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-172,13,1,1,20051119,NJN,WAS
+Shot Chart Detail,0020500150,101,2406,Caron Butler,1610612764,Washington Wizards,1,2,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,-14,1,1,20051122,WAS,DEN
+Shot Chart Detail,0020500150,112,2406,Caron Butler,1610612764,Washington Wizards,1,1,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,161,-29,1,1,20051122,WAS,DEN
+Shot Chart Detail,0020500150,118,2406,Caron Butler,1610612764,Washington Wizards,1,0,49,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-184,5,1,1,20051122,WAS,DEN
+Shot Chart Detail,0020500150,204,2406,Caron Butler,1610612764,Washington Wizards,2,3,48,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,2,1,1,20051122,WAS,DEN
+Shot Chart Detail,0020500173,93,2406,Caron Butler,1610612764,Washington Wizards,1,1,24,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,33,48,1,1,20051125,DET,WAS
+Shot Chart Detail,0020500173,114,2406,Caron Butler,1610612764,Washington Wizards,2,11,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-166,2,1,1,20051125,DET,WAS
+Shot Chart Detail,0020500173,127,2406,Caron Butler,1610612764,Washington Wizards,2,9,41,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051125,DET,WAS
+Shot Chart Detail,0020500173,137,2406,Caron Butler,1610612764,Washington Wizards,2,8,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051125,DET,WAS
+Shot Chart Detail,0020500173,165,2406,Caron Butler,1610612764,Washington Wizards,2,5,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,190,48,1,1,20051125,DET,WAS
+Shot Chart Detail,0020500173,329,2406,Caron Butler,1610612764,Washington Wizards,3,3,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-59,210,1,1,20051125,DET,WAS
+Shot Chart Detail,0020500173,358,2406,Caron Butler,1610612764,Washington Wizards,3,0,21,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-71,30,1,1,20051125,DET,WAS
+Shot Chart Detail,0020500173,490,2406,Caron Butler,1610612764,Washington Wizards,5,3,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051125,DET,WAS
+Shot Chart Detail,0020500173,507,2406,Caron Butler,1610612764,Washington Wizards,5,1,29,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051125,DET,WAS
+Shot Chart Detail,0020500184,112,2406,Caron Butler,1610612764,Washington Wizards,1,1,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051126,CHA,WAS
+Shot Chart Detail,0020500184,174,2406,Caron Butler,1610612764,Washington Wizards,2,6,2,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051126,CHA,WAS
+Shot Chart Detail,0020500207,173,2406,Caron Butler,1610612764,Washington Wizards,2,8,47,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-1,1,1,20051130,WAS,POR
+Shot Chart Detail,0020500207,188,2406,Caron Butler,1610612764,Washington Wizards,2,6,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,-11,1,1,20051130,WAS,POR
+Shot Chart Detail,0020500207,204,2406,Caron Butler,1610612764,Washington Wizards,2,5,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,10,209,1,1,20051130,WAS,POR
+Shot Chart Detail,0020500207,207,2406,Caron Butler,1610612764,Washington Wizards,2,4,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,22,13,222,1,1,20051130,WAS,POR
+Shot Chart Detail,0020500207,384,2406,Caron Butler,1610612764,Washington Wizards,4,10,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,11,189,1,1,20051130,WAS,POR
+Shot Chart Detail,0020500219,77,2406,Caron Butler,1610612764,Washington Wizards,1,3,43,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,3,1,1,20051202,WAS,MIL
+Shot Chart Detail,0020500219,120,2406,Caron Butler,1610612764,Washington Wizards,2,10,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,197,-6,1,1,20051202,WAS,MIL
+Shot Chart Detail,0020500219,137,2406,Caron Butler,1610612764,Washington Wizards,2,7,58,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,2,1,1,20051202,WAS,MIL
+Shot Chart Detail,0020500219,151,2406,Caron Butler,1610612764,Washington Wizards,2,6,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,0,1,1,20051202,WAS,MIL
+Shot Chart Detail,0020500219,172,2406,Caron Butler,1610612764,Washington Wizards,2,4,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,22,66,219,1,1,20051202,WAS,MIL
+Shot Chart Detail,0020500219,186,2406,Caron Butler,1610612764,Washington Wizards,2,2,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,10,1,1,20051202,WAS,MIL
+Shot Chart Detail,0020500219,191,2406,Caron Butler,1610612764,Washington Wizards,2,1,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,5,-14,1,1,20051202,WAS,MIL
+Shot Chart Detail,0020500219,337,2406,Caron Butler,1610612764,Washington Wizards,4,11,3,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,0,48,1,1,20051202,WAS,MIL
+Shot Chart Detail,0020500219,344,2406,Caron Butler,1610612764,Washington Wizards,4,10,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,195,0,1,1,20051202,WAS,MIL
+Shot Chart Detail,0020500219,369,2406,Caron Butler,1610612764,Washington Wizards,4,7,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-3,-16,1,1,20051202,WAS,MIL
+Shot Chart Detail,0020500219,401,2406,Caron Butler,1610612764,Washington Wizards,4,3,57,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,95,30,1,1,20051202,WAS,MIL
+Shot Chart Detail,0020500249,124,2406,Caron Butler,1610612764,Washington Wizards,2,10,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,22,-33,222,1,1,20051206,WAS,TOR
+Shot Chart Detail,0020500268,115,2406,Caron Butler,1610612764,Washington Wizards,2,11,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,44,148,1,1,20051208,IND,WAS
+Shot Chart Detail,0020500268,132,2406,Caron Butler,1610612764,Washington Wizards,2,9,22,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,1,20,1,1,20051208,IND,WAS
+Shot Chart Detail,0020500268,311,2406,Caron Butler,1610612764,Washington Wizards,3,1,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,2,1,1,20051208,IND,WAS
+Shot Chart Detail,0020500268,360,2406,Caron Butler,1610612764,Washington Wizards,4,7,27,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,5,1,1,20051208,IND,WAS
+Shot Chart Detail,0020500280,115,2406,Caron Butler,1610612764,Washington Wizards,1,0,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,0,1,1,20051210,WAS,CHI
+Shot Chart Detail,0020500280,373,2406,Caron Butler,1610612764,Washington Wizards,4,11,45,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-108,-29,1,1,20051210,WAS,CHI
+Shot Chart Detail,0020500280,376,2406,Caron Butler,1610612764,Washington Wizards,4,11,14,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,108,13,1,1,20051210,WAS,CHI
+Shot Chart Detail,0020500280,404,2406,Caron Butler,1610612764,Washington Wizards,4,9,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,197,-3,1,1,20051210,WAS,CHI
+Shot Chart Detail,0020500280,410,2406,Caron Butler,1610612764,Washington Wizards,4,8,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,8,1,1,20051210,WAS,CHI
+Shot Chart Detail,0020500291,132,2406,Caron Butler,1610612764,Washington Wizards,2,11,44,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-125,15,1,1,20051211,MIA,WAS
+Shot Chart Detail,0020500291,157,2406,Caron Butler,1610612764,Washington Wizards,2,9,15,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051211,MIA,WAS
+Shot Chart Detail,0020500291,160,2406,Caron Butler,1610612764,Washington Wizards,2,8,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,125,153,1,1,20051211,MIA,WAS
+Shot Chart Detail,0020500291,180,2406,Caron Butler,1610612764,Washington Wizards,2,7,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,153,122,1,1,20051211,MIA,WAS
+Shot Chart Detail,0020500291,210,2406,Caron Butler,1610612764,Washington Wizards,2,4,28,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051211,MIA,WAS
+Shot Chart Detail,0020500291,244,2406,Caron Butler,1610612764,Washington Wizards,2,2,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051211,MIA,WAS
+Shot Chart Detail,0020500291,351,2406,Caron Butler,1610612764,Washington Wizards,3,2,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,28,186,1,1,20051211,MIA,WAS
+Shot Chart Detail,0020500291,359,2406,Caron Butler,1610612764,Washington Wizards,3,1,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-115,137,1,1,20051211,MIA,WAS
+Shot Chart Detail,0020500291,364,2406,Caron Butler,1610612764,Washington Wizards,3,1,21,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,62,18,1,1,20051211,MIA,WAS
+Shot Chart Detail,0020500291,395,2406,Caron Butler,1610612764,Washington Wizards,4,11,25,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051211,MIA,WAS
+Shot Chart Detail,0020500291,405,2406,Caron Butler,1610612764,Washington Wizards,4,10,21,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051211,MIA,WAS
+Shot Chart Detail,0020500291,442,2406,Caron Butler,1610612764,Washington Wizards,4,6,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,74,206,1,1,20051211,MIA,WAS
+Shot Chart Detail,0020500291,457,2406,Caron Butler,1610612764,Washington Wizards,4,5,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051211,MIA,WAS
+Shot Chart Detail,0020500291,508,2406,Caron Butler,1610612764,Washington Wizards,4,1,11,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,15,71,135,1,1,20051211,MIA,WAS
+Shot Chart Detail,0020500300,77,2406,Caron Butler,1610612764,Washington Wizards,1,2,35,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,8,-13,1,1,20051213,WAS,NJN
+Shot Chart Detail,0020500300,101,2406,Caron Butler,1610612764,Washington Wizards,1,0,3,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,128,-26,1,1,20051213,WAS,NJN
+Shot Chart Detail,0020500300,418,2406,Caron Butler,1610612764,Washington Wizards,4,2,27,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-64,77,1,1,20051213,WAS,NJN
+Shot Chart Detail,0020500332,339,2406,Caron Butler,1610612764,Washington Wizards,3,1,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,22,38,217,1,1,20051216,LAL,WAS
+Shot Chart Detail,0020500332,436,2406,Caron Butler,1610612764,Washington Wizards,4,3,41,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051216,LAL,WAS
+Shot Chart Detail,0020500332,451,2406,Caron Butler,1610612764,Washington Wizards,4,1,39,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051216,LAL,WAS
+Shot Chart Detail,0020500345,163,2406,Caron Butler,1610612764,Washington Wizards,2,5,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-113,186,1,1,20051218,POR,WAS
+Shot Chart Detail,0020500345,186,2406,Caron Butler,1610612764,Washington Wizards,2,2,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051218,POR,WAS
+Shot Chart Detail,0020500345,197,2406,Caron Butler,1610612764,Washington Wizards,2,0,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-41,184,1,1,20051218,POR,WAS
+Shot Chart Detail,0020500351,119,2406,Caron Butler,1610612764,Washington Wizards,2,8,29,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,13,41,1,1,20051219,SEA,WAS
+Shot Chart Detail,0020500351,129,2406,Caron Butler,1610612764,Washington Wizards,2,7,46,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,74,94,1,1,20051219,SEA,WAS
+Shot Chart Detail,0020500351,174,2406,Caron Butler,1610612764,Washington Wizards,2,2,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-126,171,1,1,20051219,SEA,WAS
+Shot Chart Detail,0020500351,177,2406,Caron Butler,1610612764,Washington Wizards,2,2,8,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051219,SEA,WAS
+Shot Chart Detail,0020500351,252,2406,Caron Butler,1610612764,Washington Wizards,3,4,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-191,30,1,1,20051219,SEA,WAS
+Shot Chart Detail,0020500351,258,2406,Caron Butler,1610612764,Washington Wizards,3,3,21,Made Shot,Jump Hook Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-94,0,1,1,20051219,SEA,WAS
+Shot Chart Detail,0020500351,351,2406,Caron Butler,1610612764,Washington Wizards,4,6,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,23,-135,187,1,1,20051219,SEA,WAS
+Shot Chart Detail,0020500351,354,2406,Caron Butler,1610612764,Washington Wizards,4,6,16,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051219,SEA,WAS
+Shot Chart Detail,0020500368,11,2406,Caron Butler,1610612764,Washington Wizards,1,10,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,125,148,1,1,20051221,DEN,WAS
+Shot Chart Detail,0020500368,119,2406,Caron Butler,1610612764,Washington Wizards,1,0,23,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051221,DEN,WAS
+Shot Chart Detail,0020500368,201,2406,Caron Butler,1610612764,Washington Wizards,2,4,9,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051221,DEN,WAS
+Shot Chart Detail,0020500368,260,2406,Caron Butler,1610612764,Washington Wizards,3,10,50,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,3,68,1,1,20051221,DEN,WAS
+Shot Chart Detail,0020500383,133,2406,Caron Butler,1610612764,Washington Wizards,2,7,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-177,95,1,1,20051223,PHX,WAS
+Shot Chart Detail,0020500383,154,2406,Caron Butler,1610612764,Washington Wizards,2,5,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-89,46,1,1,20051223,PHX,WAS
+Shot Chart Detail,0020500383,176,2406,Caron Butler,1610612764,Washington Wizards,2,2,58,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051223,PHX,WAS
+Shot Chart Detail,0020500383,192,2406,Caron Butler,1610612764,Washington Wizards,2,1,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051223,PHX,WAS
+Shot Chart Detail,0020500383,237,2406,Caron Butler,1610612764,Washington Wizards,3,8,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051223,PHX,WAS
+Shot Chart Detail,0020500383,280,2406,Caron Butler,1610612764,Washington Wizards,3,4,9,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051223,PHX,WAS
+Shot Chart Detail,0020500383,307,2406,Caron Butler,1610612764,Washington Wizards,3,0,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-135,130,1,1,20051223,PHX,WAS
+Shot Chart Detail,0020500383,365,2406,Caron Butler,1610612764,Washington Wizards,4,6,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-158,26,1,1,20051223,PHX,WAS
+Shot Chart Detail,0020500383,387,2406,Caron Butler,1610612764,Washington Wizards,4,5,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-16,199,1,1,20051223,PHX,WAS
+Shot Chart Detail,0020500383,439,2406,Caron Butler,1610612764,Washington Wizards,4,1,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-69,201,1,1,20051223,PHX,WAS
+Shot Chart Detail,0020500387,5,2406,Caron Butler,1610612764,Washington Wizards,1,11,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-172,22,1,1,20051226,WAS,LAL
+Shot Chart Detail,0020500387,200,2406,Caron Butler,1610612764,Washington Wizards,2,4,37,Made Shot,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,0,1,1,20051226,WAS,LAL
+Shot Chart Detail,0020500387,292,2406,Caron Butler,1610612764,Washington Wizards,3,8,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-171,-11,1,1,20051226,WAS,LAL
+Shot Chart Detail,0020500387,343,2406,Caron Butler,1610612764,Washington Wizards,3,3,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-181,13,1,1,20051226,WAS,LAL
+Shot Chart Detail,0020500387,495,2406,Caron Butler,1610612764,Washington Wizards,4,1,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-66,243,1,1,20051226,WAS,LAL
+Shot Chart Detail,0020500406,8,2406,Caron Butler,1610612764,Washington Wizards,1,10,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,103,168,1,1,20051228,WAS,PHX
+Shot Chart Detail,0020500406,50,2406,Caron Butler,1610612764,Washington Wizards,1,5,57,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-39,51,1,1,20051228,WAS,PHX
+Shot Chart Detail,0020500406,62,2406,Caron Butler,1610612764,Washington Wizards,1,4,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-186,-32,1,1,20051228,WAS,PHX
+Shot Chart Detail,0020500406,114,2406,Caron Butler,1610612764,Washington Wizards,2,11,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-176,-8,1,1,20051228,WAS,PHX
+Shot Chart Detail,0020500406,209,2406,Caron Butler,1610612764,Washington Wizards,2,2,10,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,5,127,1,1,20051228,WAS,PHX
+Shot Chart Detail,0020500406,236,2406,Caron Butler,1610612764,Washington Wizards,3,11,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,177,61,1,1,20051228,WAS,PHX
+Shot Chart Detail,0020500406,279,2406,Caron Butler,1610612764,Washington Wizards,3,6,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,151,158,1,1,20051228,WAS,PHX
+Shot Chart Detail,0020500406,286,2406,Caron Butler,1610612764,Washington Wizards,3,5,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,23,44,227,1,1,20051228,WAS,PHX
+Shot Chart Detail,0020500406,303,2406,Caron Butler,1610612764,Washington Wizards,3,4,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,22,15,220,1,1,20051228,WAS,PHX
+Shot Chart Detail,0020500417,10,2406,Caron Butler,1610612764,Washington Wizards,1,10,20,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,-9,1,1,20051230,WAS,MIA
+Shot Chart Detail,0020500417,125,2406,Caron Butler,1610612764,Washington Wizards,2,9,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,159,-18,1,1,20051230,WAS,MIA
+Shot Chart Detail,0020500417,421,2406,Caron Butler,1610612764,Washington Wizards,3,0,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-11,255,1,1,20051230,WAS,MIA
+Shot Chart Detail,0020500417,572,2406,Caron Butler,1610612764,Washington Wizards,4,0,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-182,49,1,1,20051230,WAS,MIA
+Shot Chart Detail,0020500441,42,2406,Caron Butler,1610612764,Washington Wizards,1,6,26,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,-9,1,1,20060103,WAS,HOU
+Shot Chart Detail,0020500441,71,2406,Caron Butler,1610612764,Washington Wizards,1,3,57,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,197,-29,1,1,20060103,WAS,HOU
+Shot Chart Detail,0020500441,131,2406,Caron Butler,1610612764,Washington Wizards,2,10,43,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,3,1,1,20060103,WAS,HOU
+Shot Chart Detail,0020500441,239,2406,Caron Butler,1610612764,Washington Wizards,3,10,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,15,-14,1,1,20060103,WAS,HOU
+Shot Chart Detail,0020500441,343,2406,Caron Butler,1610612764,Washington Wizards,3,0,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,202,-36,1,1,20060103,WAS,HOU
+Shot Chart Detail,0020500441,353,2406,Caron Butler,1610612764,Washington Wizards,4,11,5,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,20,1,1,20060103,WAS,HOU
+Shot Chart Detail,0020500441,419,2406,Caron Butler,1610612764,Washington Wizards,4,5,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,52,253,1,1,20060103,WAS,HOU
+Shot Chart Detail,0020500462,9,2406,Caron Butler,1610612764,Washington Wizards,1,10,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-148,140,1,1,20060106,NYK,WAS
+Shot Chart Detail,0020500462,32,2406,Caron Butler,1610612764,Washington Wizards,1,6,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,186,-9,1,1,20060106,NYK,WAS
+Shot Chart Detail,0020500462,45,2406,Caron Butler,1610612764,Washington Wizards,1,5,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,149,87,1,1,20060106,NYK,WAS
+Shot Chart Detail,0020500462,482,2406,Caron Butler,1610612764,Washington Wizards,4,3,23,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060106,NYK,WAS
+Shot Chart Detail,0020500472,55,2406,Caron Butler,1610612764,Washington Wizards,1,5,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,140,-31,1,1,20060107,WAS,BOS
+Shot Chart Detail,0020500472,180,2406,Caron Butler,1610612764,Washington Wizards,2,5,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-122,227,1,1,20060107,WAS,BOS
+Shot Chart Detail,0020500472,242,2406,Caron Butler,1610612764,Washington Wizards,3,9,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-161,81,1,1,20060107,WAS,BOS
+Shot Chart Detail,0020500472,331,2406,Caron Butler,1610612764,Washington Wizards,3,1,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-151,-1,1,1,20060107,WAS,BOS
+Shot Chart Detail,0020500472,334,2406,Caron Butler,1610612764,Washington Wizards,3,1,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,3,219,1,1,20060107,WAS,BOS
+Shot Chart Detail,0020500472,384,2406,Caron Butler,1610612764,Washington Wizards,4,8,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-79,233,1,1,20060107,WAS,BOS
+Shot Chart Detail,0020500487,126,2406,Caron Butler,1610612764,Washington Wizards,2,9,19,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,7,1,1,20060109,WAS,UTA
+Shot Chart Detail,0020500487,207,2406,Caron Butler,1610612764,Washington Wizards,2,0,46,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,0,1,1,20060109,WAS,UTA
+Shot Chart Detail,0020500487,283,2406,Caron Butler,1610612764,Washington Wizards,3,3,45,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-26,31,1,1,20060109,WAS,UTA
+Shot Chart Detail,0020500487,310,2406,Caron Butler,1610612764,Washington Wizards,3,1,32,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,3,3,1,1,20060109,WAS,UTA
+Shot Chart Detail,0020500502,13,2406,Caron Butler,1610612764,Washington Wizards,1,9,52,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,10,1,1,20060111,WAS,ATL
+Shot Chart Detail,0020500502,24,2406,Caron Butler,1610612764,Washington Wizards,1,8,49,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-186,-29,1,1,20060111,WAS,ATL
+Shot Chart Detail,0020500502,33,2406,Caron Butler,1610612764,Washington Wizards,1,7,38,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,-1,1,1,20060111,WAS,ATL
+Shot Chart Detail,0020500502,50,2406,Caron Butler,1610612764,Washington Wizards,1,5,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,85,123,1,1,20060111,WAS,ATL
+Shot Chart Detail,0020500502,244,2406,Caron Butler,1610612764,Washington Wizards,3,8,46,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,-13,1,1,20060111,WAS,ATL
+Shot Chart Detail,0020500502,252,2406,Caron Butler,1610612764,Washington Wizards,3,7,50,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,-11,1,1,20060111,WAS,ATL
+Shot Chart Detail,0020500502,289,2406,Caron Butler,1610612764,Washington Wizards,3,5,5,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,62,89,1,1,20060111,WAS,ATL
+Shot Chart Detail,0020500513,32,2406,Caron Butler,1610612764,Washington Wizards,1,7,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,102,186,1,1,20060113,IND,WAS
+Shot Chart Detail,0020500513,52,2406,Caron Butler,1610612764,Washington Wizards,1,5,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,97,150,1,1,20060113,IND,WAS
+Shot Chart Detail,0020500513,99,2406,Caron Butler,1610612764,Washington Wizards,1,1,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-15,17,1,1,20060113,IND,WAS
+Shot Chart Detail,0020500513,154,2406,Caron Butler,1610612764,Washington Wizards,2,5,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-138,107,1,1,20060113,IND,WAS
+Shot Chart Detail,0020500513,190,2406,Caron Butler,1610612764,Washington Wizards,2,1,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,17,1,1,20060113,IND,WAS
+Shot Chart Detail,0020500513,203,2406,Caron Butler,1610612764,Washington Wizards,2,0,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,6,289,1,1,20060113,IND,WAS
+Shot Chart Detail,0020500513,213,2406,Caron Butler,1610612764,Washington Wizards,3,11,16,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,245,-1,1,1,20060113,IND,WAS
+Shot Chart Detail,0020500513,253,2406,Caron Butler,1610612764,Washington Wizards,3,7,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,8,1,1,20060113,IND,WAS
+Shot Chart Detail,0020500513,430,2406,Caron Butler,1610612764,Washington Wizards,4,1,4,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,6,63,1,1,20060113,IND,WAS
+Shot Chart Detail,0020500522,109,2406,Caron Butler,1610612764,Washington Wizards,2,10,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,62,192,1,1,20060114,ATL,WAS
+Shot Chart Detail,0020500522,149,2406,Caron Butler,1610612764,Washington Wizards,2,6,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-110,196,1,1,20060114,ATL,WAS
+Shot Chart Detail,0020500522,185,2406,Caron Butler,1610612764,Washington Wizards,2,3,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,143,51,1,1,20060114,ATL,WAS
+Shot Chart Detail,0020500522,203,2406,Caron Butler,1610612764,Washington Wizards,2,1,47,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,34,84,1,1,20060114,ATL,WAS
+Shot Chart Detail,0020500522,315,2406,Caron Butler,1610612764,Washington Wizards,3,3,55,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,38,117,1,1,20060114,ATL,WAS
+Shot Chart Detail,0020500522,321,2406,Caron Butler,1610612764,Washington Wizards,3,3,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060114,ATL,WAS
+Shot Chart Detail,0020500522,370,2406,Caron Butler,1610612764,Washington Wizards,4,11,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060114,ATL,WAS
+Shot Chart Detail,0020500522,413,2406,Caron Butler,1610612764,Washington Wizards,4,7,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060114,ATL,WAS
+Shot Chart Detail,0020500537,37,2406,Caron Butler,1610612764,Washington Wizards,1,8,30,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,-13,1,1,20060116,WAS,PHI
+Shot Chart Detail,0020500537,46,2406,Caron Butler,1610612764,Washington Wizards,1,7,27,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-154,61,1,1,20060116,WAS,PHI
+Shot Chart Detail,0020500537,50,2406,Caron Butler,1610612764,Washington Wizards,1,6,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,189,-14,1,1,20060116,WAS,PHI
+Shot Chart Detail,0020500537,197,2406,Caron Butler,1610612764,Washington Wizards,2,4,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,-8,1,1,20060116,WAS,PHI
+Shot Chart Detail,0020500537,200,2406,Caron Butler,1610612764,Washington Wizards,2,4,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,-3,1,1,20060116,WAS,PHI
+Shot Chart Detail,0020500537,204,2406,Caron Butler,1610612764,Washington Wizards,2,3,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,8,189,1,1,20060116,WAS,PHI
+Shot Chart Detail,0020500537,249,2406,Caron Butler,1610612764,Washington Wizards,3,11,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,154,207,1,1,20060116,WAS,PHI
+Shot Chart Detail,0020500537,273,2406,Caron Butler,1610612764,Washington Wizards,3,8,43,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-57,0,1,1,20060116,WAS,PHI
+Shot Chart Detail,0020500537,365,2406,Caron Butler,1610612764,Washington Wizards,3,0,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-194,-18,1,1,20060116,WAS,PHI
+Shot Chart Detail,0020500552,156,2406,Caron Butler,1610612764,Washington Wizards,2,6,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060118,ORL,WAS
+Shot Chart Detail,0020500552,160,2406,Caron Butler,1610612764,Washington Wizards,2,5,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-39,191,1,1,20060118,ORL,WAS
+Shot Chart Detail,0020500552,177,2406,Caron Butler,1610612764,Washington Wizards,2,4,42,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,51,30,1,1,20060118,ORL,WAS
+Shot Chart Detail,0020500552,257,2406,Caron Butler,1610612764,Washington Wizards,3,8,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-113,227,1,1,20060118,ORL,WAS
+Shot Chart Detail,0020500552,390,2406,Caron Butler,1610612764,Washington Wizards,4,7,47,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060118,ORL,WAS
+Shot Chart Detail,0020500552,480,2406,Caron Butler,1610612764,Washington Wizards,4,0,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,115,222,1,1,20060118,ORL,WAS
+Shot Chart Detail,0020500565,12,2406,Caron Butler,1610612764,Washington Wizards,1,10,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,3,1,1,20060120,WAS,NOK
+Shot Chart Detail,0020500565,26,2406,Caron Butler,1610612764,Washington Wizards,1,8,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-126,115,1,1,20060120,WAS,NOK
+Shot Chart Detail,0020500565,41,2406,Caron Butler,1610612764,Washington Wizards,1,6,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,7,1,1,20060120,WAS,NOK
+Shot Chart Detail,0020500565,80,2406,Caron Butler,1610612764,Washington Wizards,1,1,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,200,-31,1,1,20060120,WAS,NOK
+Shot Chart Detail,0020500565,133,2406,Caron Butler,1610612764,Washington Wizards,2,9,8,Made Shot,Running Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-36,8,1,1,20060120,WAS,NOK
+Shot Chart Detail,0020500565,206,2406,Caron Butler,1610612764,Washington Wizards,2,1,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,-3,1,1,20060120,WAS,NOK
+Shot Chart Detail,0020500565,288,2406,Caron Butler,1610612764,Washington Wizards,3,3,10,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,3,-9,1,1,20060120,WAS,NOK
+Shot Chart Detail,0020500565,329,2406,Caron Butler,1610612764,Washington Wizards,4,11,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,3,145,1,1,20060120,WAS,NOK
+Shot Chart Detail,0020500565,331,2406,Caron Butler,1610612764,Washington Wizards,4,10,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,123,128,1,1,20060120,WAS,NOK
+Shot Chart Detail,0020500565,366,2406,Caron Butler,1610612764,Washington Wizards,4,6,57,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,-6,1,1,20060120,WAS,NOK
+Shot Chart Detail,0020500565,391,2406,Caron Butler,1610612764,Washington Wizards,4,4,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,187,91,1,1,20060120,WAS,NOK
+Shot Chart Detail,0020500584,19,2406,Caron Butler,1610612764,Washington Wizards,1,9,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-92,174,1,1,20060122,WAS,MEM
+Shot Chart Detail,0020500584,52,2406,Caron Butler,1610612764,Washington Wizards,1,6,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,133,71,1,1,20060122,WAS,MEM
+Shot Chart Detail,0020500584,183,2406,Caron Butler,1610612764,Washington Wizards,2,4,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-11,22,1,1,20060122,WAS,MEM
+Shot Chart Detail,0020500584,250,2406,Caron Butler,1610612764,Washington Wizards,3,10,32,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,26,31,1,1,20060122,WAS,MEM
+Shot Chart Detail,0020500584,271,2406,Caron Butler,1610612764,Washington Wizards,3,7,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,120,89,1,1,20060122,WAS,MEM
+Shot Chart Detail,0020500606,92,2406,Caron Butler,1610612764,Washington Wizards,1,0,31,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,15,66,138,1,1,20060125,BOS,WAS
+Shot Chart Detail,0020500606,252,2406,Caron Butler,1610612764,Washington Wizards,3,8,46,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,1,51,1,1,20060125,BOS,WAS
+Shot Chart Detail,0020500626,5,2406,Caron Butler,1610612764,Washington Wizards,1,11,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-135,130,1,1,20060127,CHI,WAS
+Shot Chart Detail,0020500626,109,2406,Caron Butler,1610612764,Washington Wizards,2,11,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,92,161,1,1,20060127,CHI,WAS
+Shot Chart Detail,0020500626,119,2406,Caron Butler,1610612764,Washington Wizards,2,10,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060127,CHI,WAS
+Shot Chart Detail,0020500626,196,2406,Caron Butler,1610612764,Washington Wizards,2,1,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060127,CHI,WAS
+Shot Chart Detail,0020500626,306,2406,Caron Butler,1610612764,Washington Wizards,3,3,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-57,184,1,1,20060127,CHI,WAS
+Shot Chart Detail,0020500626,313,2406,Caron Butler,1610612764,Washington Wizards,3,2,35,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,51,54,1,1,20060127,CHI,WAS
+Shot Chart Detail,0020500632,32,2406,Caron Butler,1610612764,Washington Wizards,1,8,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-189,5,1,1,20060128,WAS,CHA
+Shot Chart Detail,0020500632,269,2406,Caron Butler,1610612764,Washington Wizards,3,8,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-128,63,1,1,20060128,WAS,CHA
+Shot Chart Detail,0020500632,376,2406,Caron Butler,1610612764,Washington Wizards,4,9,31,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,11,112,1,1,20060128,WAS,CHA
+Shot Chart Detail,0020500656,2,2406,Caron Butler,1610612764,Washington Wizards,1,11,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-169,89,1,1,20060131,WAS,IND
+Shot Chart Detail,0020500656,18,2406,Caron Butler,1610612764,Washington Wizards,1,9,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,5,1,1,20060131,WAS,IND
+Shot Chart Detail,0020500656,36,2406,Caron Butler,1610612764,Washington Wizards,1,7,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,2,1,1,20060131,WAS,IND
+Shot Chart Detail,0020500656,199,2406,Caron Butler,1610612764,Washington Wizards,2,5,13,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,8,2,1,1,20060131,WAS,IND
+Shot Chart Detail,0020500656,302,2406,Caron Butler,1610612764,Washington Wizards,3,6,0,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,10,53,1,1,20060131,WAS,IND
+Shot Chart Detail,0020500661,63,2406,Caron Butler,1610612764,Washington Wizards,1,3,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,87,209,1,1,20060201,TOR,WAS
+Shot Chart Detail,0020500661,65,2406,Caron Butler,1610612764,Washington Wizards,1,2,40,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060201,TOR,WAS
+Shot Chart Detail,0020500661,323,2406,Caron Butler,1610612764,Washington Wizards,3,1,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,62,202,1,1,20060201,TOR,WAS
+Shot Chart Detail,0020500661,338,2406,Caron Butler,1610612764,Washington Wizards,4,11,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-205,2,1,1,20060201,TOR,WAS
+Shot Chart Detail,0020500661,342,2406,Caron Butler,1610612764,Washington Wizards,4,10,28,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060201,TOR,WAS
+Shot Chart Detail,0020500661,346,2406,Caron Butler,1610612764,Washington Wizards,4,9,50,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060201,TOR,WAS
+Shot Chart Detail,0020500661,348,2406,Caron Butler,1610612764,Washington Wizards,4,9,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-13,168,1,1,20060201,TOR,WAS
+Shot Chart Detail,0020500661,389,2406,Caron Butler,1610612764,Washington Wizards,4,5,16,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060201,TOR,WAS
+Shot Chart Detail,0020500685,18,2406,Caron Butler,1610612764,Washington Wizards,1,9,27,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-105,15,1,1,20060204,WAS,ATL
+Shot Chart Detail,0020500685,48,2406,Caron Butler,1610612764,Washington Wizards,1,6,23,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,28,10,1,1,20060204,WAS,ATL
+Shot Chart Detail,0020500685,61,2406,Caron Butler,1610612764,Washington Wizards,1,4,30,Made Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,41,25,1,1,20060204,WAS,ATL
+Shot Chart Detail,0020500685,71,2406,Caron Butler,1610612764,Washington Wizards,1,3,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,161,130,1,1,20060204,WAS,ATL
+Shot Chart Detail,0020500685,118,2406,Caron Butler,1610612764,Washington Wizards,2,10,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,163,99,1,1,20060204,WAS,ATL
+Shot Chart Detail,0020500685,265,2406,Caron Butler,1610612764,Washington Wizards,3,9,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,169,59,1,1,20060204,WAS,ATL
+Shot Chart Detail,0020500685,269,2406,Caron Butler,1610612764,Washington Wizards,3,8,37,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-46,104,1,1,20060204,WAS,ATL
+Shot Chart Detail,0020500685,483,2406,Caron Butler,1610612764,Washington Wizards,4,2,5,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,17,1,1,20060204,WAS,ATL
+Shot Chart Detail,0020500699,6,2406,Caron Butler,1610612764,Washington Wizards,1,11,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,169,-34,1,1,20060206,WAS,ORL
+Shot Chart Detail,0020500699,14,2406,Caron Butler,1610612764,Washington Wizards,1,9,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,182,-42,1,1,20060206,WAS,ORL
+Shot Chart Detail,0020500699,24,2406,Caron Butler,1610612764,Washington Wizards,1,8,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-135,76,1,1,20060206,WAS,ORL
+Shot Chart Detail,0020500699,29,2406,Caron Butler,1610612764,Washington Wizards,1,7,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,164,99,1,1,20060206,WAS,ORL
+Shot Chart Detail,0020500699,59,2406,Caron Butler,1610612764,Washington Wizards,1,3,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-136,148,1,1,20060206,WAS,ORL
+Shot Chart Detail,0020500699,341,2406,Caron Butler,1610612764,Washington Wizards,4,8,39,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,52,30,1,1,20060206,WAS,ORL
+Shot Chart Detail,0020500712,9,2406,Caron Butler,1610612764,Washington Wizards,1,10,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,3,183,1,1,20060208,WAS,GSW
+Shot Chart Detail,0020500712,12,2406,Caron Butler,1610612764,Washington Wizards,1,10,22,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,190,17,1,1,20060208,WAS,GSW
+Shot Chart Detail,0020500712,30,2406,Caron Butler,1610612764,Washington Wizards,1,8,6,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-3,-3,1,1,20060208,WAS,GSW
+Shot Chart Detail,0020500712,70,2406,Caron Butler,1610612764,Washington Wizards,1,3,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,128,128,1,1,20060208,WAS,GSW
+Shot Chart Detail,0020500712,121,2406,Caron Butler,1610612764,Washington Wizards,2,10,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,182,36,1,1,20060208,WAS,GSW
+Shot Chart Detail,0020500712,144,2406,Caron Butler,1610612764,Washington Wizards,2,8,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-176,76,1,1,20060208,WAS,GSW
+Shot Chart Detail,0020500712,165,2406,Caron Butler,1610612764,Washington Wizards,2,6,8,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,71,15,1,1,20060208,WAS,GSW
+Shot Chart Detail,0020500712,167,2406,Caron Butler,1610612764,Washington Wizards,2,5,49,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,-1,1,1,20060208,WAS,GSW
+Shot Chart Detail,0020500712,268,2406,Caron Butler,1610612764,Washington Wizards,3,8,20,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-136,22,1,1,20060208,WAS,GSW
+Shot Chart Detail,0020500712,285,2406,Caron Butler,1610612764,Washington Wizards,3,6,47,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,112,54,1,1,20060208,WAS,GSW
+Shot Chart Detail,0020500712,392,2406,Caron Butler,1610612764,Washington Wizards,4,10,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,194,0,1,1,20060208,WAS,GSW
+Shot Chart Detail,0020500712,475,2406,Caron Butler,1610612764,Washington Wizards,4,2,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-3,-6,1,1,20060208,WAS,GSW
+Shot Chart Detail,0020500725,4,2406,Caron Butler,1610612764,Washington Wizards,1,11,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,15,219,1,1,20060210,WAS,CLE
+Shot Chart Detail,0020500725,11,2406,Caron Butler,1610612764,Washington Wizards,1,10,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,22,11,222,1,1,20060210,WAS,CLE
+Shot Chart Detail,0020500725,55,2406,Caron Butler,1610612764,Washington Wizards,1,4,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,110,153,1,1,20060210,WAS,CLE
+Shot Chart Detail,0020500725,92,2406,Caron Butler,1610612764,Washington Wizards,2,11,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,182,35,1,1,20060210,WAS,CLE
+Shot Chart Detail,0020500725,101,2406,Caron Butler,1610612764,Washington Wizards,2,10,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,-8,1,1,20060210,WAS,CLE
+Shot Chart Detail,0020500725,197,2406,Caron Butler,1610612764,Washington Wizards,3,11,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-41,158,1,1,20060210,WAS,CLE
+Shot Chart Detail,0020500725,260,2406,Caron Butler,1610612764,Washington Wizards,3,3,14,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-3,53,1,1,20060210,WAS,CLE
+Shot Chart Detail,0020500725,419,2406,Caron Butler,1610612764,Washington Wizards,4,1,50,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,94,46,1,1,20060210,WAS,CLE
+Shot Chart Detail,0020500743,85,2406,Caron Butler,1610612764,Washington Wizards,1,2,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-77,183,1,1,20060212,WAS,PHI
+Shot Chart Detail,0020500743,109,2406,Caron Butler,1610612764,Washington Wizards,1,0,17,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,10,1,1,20060212,WAS,PHI
+Shot Chart Detail,0020500743,211,2406,Caron Butler,1610612764,Washington Wizards,2,3,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-3,15,1,1,20060212,WAS,PHI
+Shot Chart Detail,0020500743,256,2406,Caron Butler,1610612764,Washington Wizards,3,11,25,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-79,18,1,1,20060212,WAS,PHI
+Shot Chart Detail,0020500743,263,2406,Caron Butler,1610612764,Washington Wizards,3,10,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,80,242,1,1,20060212,WAS,PHI
+Shot Chart Detail,0020500743,329,2406,Caron Butler,1610612764,Washington Wizards,3,3,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-8,20,1,1,20060212,WAS,PHI
+Shot Chart Detail,0020500743,392,2406,Caron Butler,1610612764,Washington Wizards,4,10,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-110,36,1,1,20060212,WAS,PHI
+Shot Chart Detail,0020500743,522,2406,Caron Butler,1610612764,Washington Wizards,4,1,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-20,261,1,1,20060212,WAS,PHI
+Shot Chart Detail,0020500753,8,2406,Caron Butler,1610612764,Washington Wizards,1,10,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-166,0,1,1,20060213,NOK,WAS
+Shot Chart Detail,0020500753,30,2406,Caron Butler,1610612764,Washington Wizards,1,8,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060213,NOK,WAS
+Shot Chart Detail,0020500753,363,2406,Caron Butler,1610612764,Washington Wizards,4,10,28,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-99,-5,1,1,20060213,NOK,WAS
+Shot Chart Detail,0020500753,438,2406,Caron Butler,1610612764,Washington Wizards,4,1,52,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060213,NOK,WAS
+Shot Chart Detail,0020500773,7,2406,Caron Butler,1610612764,Washington Wizards,1,11,11,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-158,35,1,1,20060215,DAL,WAS
+Shot Chart Detail,0020500773,29,2406,Caron Butler,1610612764,Washington Wizards,1,8,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,80,245,1,1,20060215,DAL,WAS
+Shot Chart Detail,0020500773,97,2406,Caron Butler,1610612764,Washington Wizards,1,2,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,182,48,1,1,20060215,DAL,WAS
+Shot Chart Detail,0020500773,111,2406,Caron Butler,1610612764,Washington Wizards,1,0,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,44,197,1,1,20060215,DAL,WAS
+Shot Chart Detail,0020500773,329,2406,Caron Butler,1610612764,Washington Wizards,3,5,31,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060215,DAL,WAS
+Shot Chart Detail,0020500773,339,2406,Caron Butler,1610612764,Washington Wizards,3,4,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-25,212,1,1,20060215,DAL,WAS
+Shot Chart Detail,0020500773,346,2406,Caron Butler,1610612764,Washington Wizards,3,3,19,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-156,38,1,1,20060215,DAL,WAS
+Shot Chart Detail,0020500773,451,2406,Caron Butler,1610612764,Washington Wizards,4,6,28,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060215,DAL,WAS
+Shot Chart Detail,0020500773,455,2406,Caron Butler,1610612764,Washington Wizards,4,5,55,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060215,DAL,WAS
+Shot Chart Detail,0020500773,499,2406,Caron Butler,1610612764,Washington Wizards,4,1,14,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,95,26,1,1,20060215,DAL,WAS
+Shot Chart Detail,0020500779,36,2406,Caron Butler,1610612764,Washington Wizards,1,7,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-10,187,1,1,20060221,WAS,MIN
+Shot Chart Detail,0020500779,99,2406,Caron Butler,1610612764,Washington Wizards,1,1,19,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,5,15,1,1,20060221,WAS,MIN
+Shot Chart Detail,0020500779,126,2406,Caron Butler,1610612764,Washington Wizards,2,9,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,28,17,1,1,20060221,WAS,MIN
+Shot Chart Detail,0020500779,441,2406,Caron Butler,1610612764,Washington Wizards,4,1,9,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-123,0,1,1,20060221,WAS,MIN
+Shot Chart Detail,0020500779,444,2406,Caron Butler,1610612764,Washington Wizards,4,0,28,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-135,64,1,1,20060221,WAS,MIN
+Shot Chart Detail,0020500805,3,2406,Caron Butler,1610612764,Washington Wizards,1,11,25,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-171,0,1,1,20060224,CLE,WAS
+Shot Chart Detail,0020500805,23,2406,Caron Butler,1610612764,Washington Wizards,1,8,25,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,222,-18,1,1,20060224,CLE,WAS
+Shot Chart Detail,0020500805,26,2406,Caron Butler,1610612764,Washington Wizards,1,8,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-145,217,1,1,20060224,CLE,WAS
+Shot Chart Detail,0020500805,48,2406,Caron Butler,1610612764,Washington Wizards,1,5,19,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-246,-21,1,1,20060224,CLE,WAS
+Shot Chart Detail,0020500805,212,2406,Caron Butler,1610612764,Washington Wizards,2,1,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-172,26,1,1,20060224,CLE,WAS
+Shot Chart Detail,0020500805,244,2406,Caron Butler,1610612764,Washington Wizards,3,10,28,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,164,-18,1,1,20060224,CLE,WAS
+Shot Chart Detail,0020500805,249,2406,Caron Butler,1610612764,Washington Wizards,3,9,6,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,5,1,1,20060224,CLE,WAS
+Shot Chart Detail,0020500805,396,2406,Caron Butler,1610612764,Washington Wizards,4,8,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,-184,112,1,1,20060224,CLE,WAS
+Shot Chart Detail,0020500805,481,2406,Caron Butler,1610612764,Washington Wizards,4,0,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,6,250,1,1,20060224,CLE,WAS
+Shot Chart Detail,0020500816,24,2406,Caron Butler,1610612764,Washington Wizards,1,9,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-3,3,1,1,20060225,WAS,NYK
+Shot Chart Detail,0020500816,63,2406,Caron Butler,1610612764,Washington Wizards,1,5,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-177,-24,1,1,20060225,WAS,NYK
+Shot Chart Detail,0020500816,145,2406,Caron Butler,1610612764,Washington Wizards,2,9,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-89,2,1,1,20060225,WAS,NYK
+Shot Chart Detail,0020500816,152,2406,Caron Butler,1610612764,Washington Wizards,2,8,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-99,161,1,1,20060225,WAS,NYK
+Shot Chart Detail,0020500843,17,2406,Caron Butler,1610612764,Washington Wizards,1,9,30,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,0,1,1,20060301,WAS,IND
+Shot Chart Detail,0020500843,115,2406,Caron Butler,1610612764,Washington Wizards,2,10,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-192,-14,1,1,20060301,WAS,IND
+Shot Chart Detail,0020500843,196,2406,Caron Butler,1610612764,Washington Wizards,2,3,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,-5,1,1,20060301,WAS,IND
+Shot Chart Detail,0020500857,3,2406,Caron Butler,1610612764,Washington Wizards,1,11,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-131,160,1,1,20060303,PHI,WAS
+Shot Chart Detail,0020500857,40,2406,Caron Butler,1610612764,Washington Wizards,1,7,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,98,169,1,1,20060303,PHI,WAS
+Shot Chart Detail,0020500857,100,2406,Caron Butler,1610612764,Washington Wizards,2,11,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,-6,1,1,20060303,PHI,WAS
+Shot Chart Detail,0020500857,238,2406,Caron Butler,1610612764,Washington Wizards,3,8,54,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060303,PHI,WAS
+Shot Chart Detail,0020500857,266,2406,Caron Butler,1610612764,Washington Wizards,3,5,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060303,PHI,WAS
+Shot Chart Detail,0020500857,293,2406,Caron Butler,1610612764,Washington Wizards,3,2,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060303,PHI,WAS
+Shot Chart Detail,0020500857,336,2406,Caron Butler,1610612764,Washington Wizards,4,10,27,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060303,PHI,WAS
+Shot Chart Detail,0020500876,10,2406,Caron Butler,1610612764,Washington Wizards,1,10,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,0,1,1,20060305,WAS,SAC
+Shot Chart Detail,0020500876,21,2406,Caron Butler,1610612764,Washington Wizards,1,9,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,92,168,1,1,20060305,WAS,SAC
+Shot Chart Detail,0020500876,37,2406,Caron Butler,1610612764,Washington Wizards,1,7,28,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,1,1,1,20060305,WAS,SAC
+Shot Chart Detail,0020500876,59,2406,Caron Butler,1610612764,Washington Wizards,1,4,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,190,-28,1,1,20060305,WAS,SAC
+Shot Chart Detail,0020500876,94,2406,Caron Butler,1610612764,Washington Wizards,1,0,57,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-36,20,1,1,20060305,WAS,SAC
+Shot Chart Detail,0020500876,250,2406,Caron Butler,1610612764,Washington Wizards,3,9,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,3,252,1,1,20060305,WAS,SAC
+Shot Chart Detail,0020500876,300,2406,Caron Butler,1610612764,Washington Wizards,3,4,26,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,69,90,1,1,20060305,WAS,SAC
+Shot Chart Detail,0020500876,382,2406,Caron Butler,1610612764,Washington Wizards,4,8,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,177,-46,1,1,20060305,WAS,SAC
+Shot Chart Detail,0020500876,397,2406,Caron Butler,1610612764,Washington Wizards,4,6,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-182,49,1,1,20060305,WAS,SAC
+Shot Chart Detail,0020500889,58,2406,Caron Butler,1610612764,Washington Wizards,1,5,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-174,-39,1,1,20060307,WAS,BOS
+Shot Chart Detail,0020500889,60,2406,Caron Butler,1610612764,Washington Wizards,1,4,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-149,117,1,1,20060307,WAS,BOS
+Shot Chart Detail,0020500889,186,2406,Caron Butler,1610612764,Washington Wizards,2,7,2,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,3,1,1,20060307,WAS,BOS
+Shot Chart Detail,0020500889,197,2406,Caron Butler,1610612764,Washington Wizards,2,5,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-217,128,1,1,20060307,WAS,BOS
+Shot Chart Detail,0020500889,211,2406,Caron Butler,1610612764,Washington Wizards,2,4,51,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,-8,1,1,20060307,WAS,BOS
+Shot Chart Detail,0020500889,253,2406,Caron Butler,1610612764,Washington Wizards,2,0,12,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,5,54,1,1,20060307,WAS,BOS
+Shot Chart Detail,0020500889,266,2406,Caron Butler,1610612764,Washington Wizards,3,10,52,Made Shot,Running Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,6,36,1,1,20060307,WAS,BOS
+Shot Chart Detail,0020500889,291,2406,Caron Butler,1610612764,Washington Wizards,3,7,59,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,47,26,1,1,20060307,WAS,BOS
+Shot Chart Detail,0020500889,296,2406,Caron Butler,1610612764,Washington Wizards,3,7,11,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,240,-23,1,1,20060307,WAS,BOS
+Shot Chart Detail,0020500900,90,2406,Caron Butler,1610612764,Washington Wizards,1,1,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,161,0,1,1,20060308,MIA,WAS
+Shot Chart Detail,0020500900,114,2406,Caron Butler,1610612764,Washington Wizards,2,10,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-85,31,1,1,20060308,MIA,WAS
+Shot Chart Detail,0020500900,198,2406,Caron Butler,1610612764,Washington Wizards,2,2,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060308,MIA,WAS
+Shot Chart Detail,0020500900,200,2406,Caron Butler,1610612764,Washington Wizards,2,2,8,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-77,40,1,1,20060308,MIA,WAS
+Shot Chart Detail,0020500900,219,2406,Caron Butler,1610612764,Washington Wizards,2,0,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-174,168,1,1,20060308,MIA,WAS
+Shot Chart Detail,0020500900,299,2406,Caron Butler,1610612764,Washington Wizards,3,4,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060308,MIA,WAS
+Shot Chart Detail,0020500900,312,2406,Caron Butler,1610612764,Washington Wizards,3,3,10,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060308,MIA,WAS
+Shot Chart Detail,0020500919,10,2406,Caron Butler,1610612764,Washington Wizards,1,10,30,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-48,30,1,1,20060311,WAS,DET
+Shot Chart Detail,0020500919,14,2406,Caron Butler,1610612764,Washington Wizards,1,9,52,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,16,186,1,1,20060311,WAS,DET
+Shot Chart Detail,0020500919,43,2406,Caron Butler,1610612764,Washington Wizards,1,5,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-177,-44,1,1,20060311,WAS,DET
+Shot Chart Detail,0020500919,72,2406,Caron Butler,1610612764,Washington Wizards,1,3,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-204,166,1,1,20060311,WAS,DET
+Shot Chart Detail,0020500919,105,2406,Caron Butler,1610612764,Washington Wizards,2,10,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-177,-8,1,1,20060311,WAS,DET
+Shot Chart Detail,0020500919,146,2406,Caron Butler,1610612764,Washington Wizards,2,5,55,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,238,-31,1,1,20060311,WAS,DET
+Shot Chart Detail,0020500919,168,2406,Caron Butler,1610612764,Washington Wizards,2,3,37,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,49,30,1,1,20060311,WAS,DET
+Shot Chart Detail,0020500919,201,2406,Caron Butler,1610612764,Washington Wizards,3,11,35,Made Shot,Fadeaway Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-191,158,1,1,20060311,WAS,DET
+Shot Chart Detail,0020500919,262,2406,Caron Butler,1610612764,Washington Wizards,3,3,24,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,5,1,1,20060311,WAS,DET
+Shot Chart Detail,0020500919,294,2406,Caron Butler,1610612764,Washington Wizards,3,0,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,167,184,1,1,20060311,WAS,DET
+Shot Chart Detail,0020500942,10,2406,Caron Butler,1610612764,Washington Wizards,1,9,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060314,CHA,WAS
+Shot Chart Detail,0020500942,31,2406,Caron Butler,1610612764,Washington Wizards,1,7,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,94,59,1,1,20060314,CHA,WAS
+Shot Chart Detail,0020500942,131,2406,Caron Butler,1610612764,Washington Wizards,2,9,49,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,94,33,1,1,20060314,CHA,WAS
+Shot Chart Detail,0020500942,168,2406,Caron Butler,1610612764,Washington Wizards,2,6,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-6,215,1,1,20060314,CHA,WAS
+Shot Chart Detail,0020500942,223,2406,Caron Butler,1610612764,Washington Wizards,2,1,50,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-23,58,1,1,20060314,CHA,WAS
+Shot Chart Detail,0020500942,234,2406,Caron Butler,1610612764,Washington Wizards,2,0,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,113,155,1,1,20060314,CHA,WAS
+Shot Chart Detail,0020500942,284,2406,Caron Butler,1610612764,Washington Wizards,3,7,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,118,66,1,1,20060314,CHA,WAS
+Shot Chart Detail,0020500942,428,2406,Caron Butler,1610612764,Washington Wizards,4,8,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-71,199,1,1,20060314,CHA,WAS
+Shot Chart Detail,0020500942,474,2406,Caron Butler,1610612764,Washington Wizards,4,4,47,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-66,74,1,1,20060314,CHA,WAS
+Shot Chart Detail,0020500951,116,2406,Caron Butler,1610612764,Washington Wizards,1,3,1,Made Shot,Jump Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,3,1,1,20060315,WAS,CHA
+Shot Chart Detail,0020500951,206,2406,Caron Butler,1610612764,Washington Wizards,2,7,19,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-6,1,1,20060315,WAS,CHA
+Shot Chart Detail,0020500951,329,2406,Caron Butler,1610612764,Washington Wizards,3,6,56,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,7,1,1,20060315,WAS,CHA
+Shot Chart Detail,0020500951,331,2406,Caron Butler,1610612764,Washington Wizards,3,6,43,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,3,1,1,20060315,WAS,CHA
+Shot Chart Detail,0020500951,396,2406,Caron Butler,1610612764,Washington Wizards,4,11,13,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,8,1,1,20060315,WAS,CHA
+Shot Chart Detail,0020500951,440,2406,Caron Butler,1610612764,Washington Wizards,4,6,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,184,23,1,1,20060315,WAS,CHA
+Shot Chart Detail,0020500964,15,2406,Caron Butler,1610612764,Washington Wizards,1,10,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-217,141,1,1,20060317,WAS,DAL
+Shot Chart Detail,0020500964,65,2406,Caron Butler,1610612764,Washington Wizards,1,4,22,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,10,1,1,20060317,WAS,DAL
+Shot Chart Detail,0020500964,77,2406,Caron Butler,1610612764,Washington Wizards,1,3,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-1,1,1,20060317,WAS,DAL
+Shot Chart Detail,0020500964,210,2406,Caron Butler,1610612764,Washington Wizards,2,3,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,205,-36,1,1,20060317,WAS,DAL
+Shot Chart Detail,0020500964,258,2406,Caron Butler,1610612764,Washington Wizards,3,8,47,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,-16,1,1,20060317,WAS,DAL
+Shot Chart Detail,0020500964,378,2406,Caron Butler,1610612764,Washington Wizards,4,6,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-154,84,1,1,20060317,WAS,DAL
+Shot Chart Detail,0020500964,382,2406,Caron Butler,1610612764,Washington Wizards,4,5,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,120,225,1,1,20060317,WAS,DAL
+Shot Chart Detail,0020500964,406,2406,Caron Butler,1610612764,Washington Wizards,4,1,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-158,53,1,1,20060317,WAS,DAL
+Shot Chart Detail,0020500980,15,2406,Caron Butler,1610612764,Washington Wizards,1,9,44,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,148,43,1,1,20060319,WAS,CHI
+Shot Chart Detail,0020500980,20,2406,Caron Butler,1610612764,Washington Wizards,1,8,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,20,263,1,1,20060319,WAS,CHI
+Shot Chart Detail,0020500980,112,2406,Caron Butler,1610612764,Washington Wizards,1,1,12,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,18,1,1,20060319,WAS,CHI
+Shot Chart Detail,0020500980,143,2406,Caron Butler,1610612764,Washington Wizards,2,9,42,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,12,1,1,20060319,WAS,CHI
+Shot Chart Detail,0020500980,271,2406,Caron Butler,1610612764,Washington Wizards,3,10,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,46,280,1,1,20060319,WAS,CHI
+Shot Chart Detail,0020500980,273,2406,Caron Butler,1610612764,Washington Wizards,3,10,4,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,18,1,1,20060319,WAS,CHI
+Shot Chart Detail,0020500980,453,2406,Caron Butler,1610612764,Washington Wizards,4,5,5,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,46,15,1,1,20060319,WAS,CHI
+Shot Chart Detail,0020500992,52,2406,Caron Butler,1610612764,Washington Wizards,1,5,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-174,-47,1,1,20060321,WAS,NJN
+Shot Chart Detail,0020500992,86,2406,Caron Butler,1610612764,Washington Wizards,1,1,3,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-34,10,1,1,20060321,WAS,NJN
+Shot Chart Detail,0020500992,92,2406,Caron Butler,1610612764,Washington Wizards,1,0,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,0,1,1,20060321,WAS,NJN
+Shot Chart Detail,0020500992,143,2406,Caron Butler,1610612764,Washington Wizards,2,6,53,Made Shot,Jump Bank Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,39,5,1,1,20060321,WAS,NJN
+Shot Chart Detail,0020500992,206,2406,Caron Butler,1610612764,Washington Wizards,3,11,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,2,1,1,20060321,WAS,NJN
+Shot Chart Detail,0020500992,260,2406,Caron Butler,1610612764,Washington Wizards,3,5,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-20,166,1,1,20060321,WAS,NJN
+Shot Chart Detail,0020500992,262,2406,Caron Butler,1610612764,Washington Wizards,3,4,49,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,41,23,1,1,20060321,WAS,NJN
+Shot Chart Detail,0020500992,272,2406,Caron Butler,1610612764,Washington Wizards,3,3,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,154,199,1,1,20060321,WAS,NJN
+Shot Chart Detail,0020500992,288,2406,Caron Butler,1610612764,Washington Wizards,3,1,38,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,2,1,1,20060321,WAS,NJN
+Shot Chart Detail,0020500992,359,2406,Caron Butler,1610612764,Washington Wizards,4,5,59,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,11,31,1,1,20060321,WAS,NJN
+Shot Chart Detail,0020500992,385,2406,Caron Butler,1610612764,Washington Wizards,4,3,10,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,-3,1,1,20060321,WAS,NJN
+Shot Chart Detail,0020500992,389,2406,Caron Butler,1610612764,Washington Wizards,4,2,37,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,5,1,1,20060321,WAS,NJN
+Shot Chart Detail,0020501015,31,2406,Caron Butler,1610612764,Washington Wizards,1,8,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-156,128,1,1,20060323,UTA,WAS
+Shot Chart Detail,0020501015,71,2406,Caron Butler,1610612764,Washington Wizards,1,4,15,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060323,UTA,WAS
+Shot Chart Detail,0020501015,272,2406,Caron Butler,1610612764,Washington Wizards,3,10,29,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,59,114,1,1,20060323,UTA,WAS
+Shot Chart Detail,0020501015,291,2406,Caron Butler,1610612764,Washington Wizards,3,8,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-67,201,1,1,20060323,UTA,WAS
+Shot Chart Detail,0020501015,314,2406,Caron Butler,1610612764,Washington Wizards,3,6,18,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-69,5,1,1,20060323,UTA,WAS
+Shot Chart Detail,0020501015,321,2406,Caron Butler,1610612764,Washington Wizards,3,5,27,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-71,132,1,1,20060323,UTA,WAS
+Shot Chart Detail,0020501015,336,2406,Caron Butler,1610612764,Washington Wizards,3,2,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-85,184,1,1,20060323,UTA,WAS
+Shot Chart Detail,0020501015,338,2406,Caron Butler,1610612764,Washington Wizards,3,1,57,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,47,7,1,1,20060323,UTA,WAS
+Shot Chart Detail,0020501015,347,2406,Caron Butler,1610612764,Washington Wizards,3,0,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-159,194,1,1,20060323,UTA,WAS
+Shot Chart Detail,0020501015,414,2406,Caron Butler,1610612764,Washington Wizards,4,6,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060323,UTA,WAS
+Shot Chart Detail,0020501015,422,2406,Caron Butler,1610612764,Washington Wizards,4,5,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,182,163,1,1,20060323,UTA,WAS
+Shot Chart Detail,0020501027,182,2406,Caron Butler,1610612764,Washington Wizards,2,6,9,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060325,LAC,WAS
+Shot Chart Detail,0020501027,199,2406,Caron Butler,1610612764,Washington Wizards,2,3,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,22,39,224,1,1,20060325,LAC,WAS
+Shot Chart Detail,0020501027,217,2406,Caron Butler,1610612764,Washington Wizards,2,1,28,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-92,161,1,1,20060325,LAC,WAS
+Shot Chart Detail,0020501027,253,2406,Caron Butler,1610612764,Washington Wizards,3,11,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060325,LAC,WAS
+Shot Chart Detail,0020501027,263,2406,Caron Butler,1610612764,Washington Wizards,3,10,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060325,LAC,WAS
+Shot Chart Detail,0020501027,303,2406,Caron Butler,1610612764,Washington Wizards,3,7,0,Made Shot,Driving Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060325,LAC,WAS
+Shot Chart Detail,0020501046,16,2406,Caron Butler,1610612764,Washington Wizards,1,10,44,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,5,1,1,20060327,GSW,WAS
+Shot Chart Detail,0020501046,65,2406,Caron Butler,1610612764,Washington Wizards,1,4,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,20,1,1,20060327,GSW,WAS
+Shot Chart Detail,0020501046,97,2406,Caron Butler,1610612764,Washington Wizards,1,1,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,125,222,1,1,20060327,GSW,WAS
+Shot Chart Detail,0020501046,268,2406,Caron Butler,1610612764,Washington Wizards,3,10,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-75,173,1,1,20060327,GSW,WAS
+Shot Chart Detail,0020501046,467,2406,Caron Butler,1610612764,Washington Wizards,4,1,47,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,8,1,1,20060327,GSW,WAS
+Shot Chart Detail,0020501052,59,2406,Caron Butler,1610612764,Washington Wizards,1,5,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060328,SAC,WAS
+Shot Chart Detail,0020501052,89,2406,Caron Butler,1610612764,Washington Wizards,1,1,34,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-57,5,1,1,20060328,SAC,WAS
+Shot Chart Detail,0020501052,92,2406,Caron Butler,1610612764,Washington Wizards,1,1,14,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060328,SAC,WAS
+Shot Chart Detail,0020501052,136,2406,Caron Butler,1610612764,Washington Wizards,2,9,58,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060328,SAC,WAS
+Shot Chart Detail,0020501052,141,2406,Caron Butler,1610612764,Washington Wizards,2,9,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-56,184,1,1,20060328,SAC,WAS
+Shot Chart Detail,0020501052,153,2406,Caron Butler,1610612764,Washington Wizards,2,8,4,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,0,61,1,1,20060328,SAC,WAS
+Shot Chart Detail,0020501052,228,2406,Caron Butler,1610612764,Washington Wizards,2,1,14,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060328,SAC,WAS
+Shot Chart Detail,0020501052,429,2406,Caron Butler,1610612764,Washington Wizards,4,3,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,200,49,1,1,20060328,SAC,WAS
+Shot Chart Detail,0020501074,18,2406,Caron Butler,1610612764,Washington Wizards,1,9,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,0,248,1,1,20060331,HOU,WAS
+Shot Chart Detail,0020501074,38,2406,Caron Butler,1610612764,Washington Wizards,1,6,23,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-62,112,1,1,20060331,HOU,WAS
+Shot Chart Detail,0020501074,238,2406,Caron Butler,1610612764,Washington Wizards,3,8,59,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060331,HOU,WAS
+Shot Chart Detail,0020501082,235,2406,Caron Butler,1610612764,Washington Wizards,3,10,30,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,54,10,1,1,20060401,SAS,WAS
+Shot Chart Detail,0020501082,283,2406,Caron Butler,1610612764,Washington Wizards,3,5,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,5,1,1,20060401,SAS,WAS
+Shot Chart Detail,0020501082,428,2406,Caron Butler,1610612764,Washington Wizards,4,4,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,3,7,1,1,20060401,SAS,WAS
+Shot Chart Detail,0020501082,437,2406,Caron Butler,1610612764,Washington Wizards,4,3,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,8,1,1,20060401,SAS,WAS
+Shot Chart Detail,0020501082,464,2406,Caron Butler,1610612764,Washington Wizards,4,1,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,2,1,1,20060401,SAS,WAS
+Shot Chart Detail,0020501082,470,2406,Caron Butler,1610612764,Washington Wizards,4,0,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,18,140,1,1,20060401,SAS,WAS
+Shot Chart Detail,0020501082,474,2406,Caron Butler,1610612764,Washington Wizards,4,0,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,13,252,1,1,20060401,SAS,WAS
+Shot Chart Detail,0020501096,19,2406,Caron Butler,1610612764,Washington Wizards,1,9,22,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,5,1,1,20060404,WAS,NYK
+Shot Chart Detail,0020501096,40,2406,Caron Butler,1610612764,Washington Wizards,1,7,33,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,-9,1,1,20060404,WAS,NYK
+Shot Chart Detail,0020501096,64,2406,Caron Butler,1610612764,Washington Wizards,1,4,22,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-61,15,1,1,20060404,WAS,NYK
+Shot Chart Detail,0020501096,157,2406,Caron Butler,1610612764,Washington Wizards,2,8,25,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,98,99,1,1,20060404,WAS,NYK
+Shot Chart Detail,0020501096,193,2406,Caron Butler,1610612764,Washington Wizards,2,4,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-189,68,1,1,20060404,WAS,NYK
+Shot Chart Detail,0020501096,309,2406,Caron Butler,1610612764,Washington Wizards,3,6,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,29,242,1,1,20060404,WAS,NYK
+Shot Chart Detail,0020501096,348,2406,Caron Butler,1610612764,Washington Wizards,3,2,25,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,61,86,1,1,20060404,WAS,NYK
+Shot Chart Detail,0020501108,9,2406,Caron Butler,1610612764,Washington Wizards,1,10,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,3,1,1,20060405,BOS,WAS
+Shot Chart Detail,0020501108,16,2406,Caron Butler,1610612764,Washington Wizards,1,9,42,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-136,17,1,1,20060405,BOS,WAS
+Shot Chart Detail,0020501108,32,2406,Caron Butler,1610612764,Washington Wizards,1,8,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-107,173,1,1,20060405,BOS,WAS
+Shot Chart Detail,0020501108,40,2406,Caron Butler,1610612764,Washington Wizards,1,7,13,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,0,1,1,20060405,BOS,WAS
+Shot Chart Detail,0020501108,59,2406,Caron Butler,1610612764,Washington Wizards,1,4,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,21,200,68,1,1,20060405,BOS,WAS
+Shot Chart Detail,0020501108,69,2406,Caron Butler,1610612764,Washington Wizards,1,3,15,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-46,41,1,1,20060405,BOS,WAS
+Shot Chart Detail,0020501108,145,2406,Caron Butler,1610612764,Washington Wizards,2,6,38,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,0,1,1,20060405,BOS,WAS
+Shot Chart Detail,0020501108,150,2406,Caron Butler,1610612764,Washington Wizards,2,6,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,3,1,1,20060405,BOS,WAS
+Shot Chart Detail,0020501108,191,2406,Caron Butler,1610612764,Washington Wizards,2,1,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-151,49,1,1,20060405,BOS,WAS
+Shot Chart Detail,0020501108,351,2406,Caron Butler,1610612764,Washington Wizards,4,8,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,2,1,1,20060405,BOS,WAS
+Shot Chart Detail,0020501108,360,2406,Caron Butler,1610612764,Washington Wizards,4,8,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,192,25,1,1,20060405,BOS,WAS
+Shot Chart Detail,0020501108,413,2406,Caron Butler,1610612764,Washington Wizards,4,2,26,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,141,45,1,1,20060405,BOS,WAS
+Shot Chart Detail,0020501197,24,2406,Caron Butler,1610612764,Washington Wizards,1,9,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-179,133,1,1,20060416,WAS,CLE
+Shot Chart Detail,0020501197,166,2406,Caron Butler,1610612764,Washington Wizards,2,6,45,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-57,20,1,1,20060416,WAS,CLE
+Shot Chart Detail,0020501197,197,2406,Caron Butler,1610612764,Washington Wizards,2,3,22,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,-11,1,1,20060416,WAS,CLE
+Shot Chart Detail,0020501197,257,2406,Caron Butler,1610612764,Washington Wizards,3,9,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,8,-1,1,1,20060416,WAS,CLE
+Shot Chart Detail,0020501197,265,2406,Caron Butler,1610612764,Washington Wizards,3,8,9,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-148,-28,1,1,20060416,WAS,CLE
+Shot Chart Detail,0020501197,342,2406,Caron Butler,1610612764,Washington Wizards,3,0,36,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-52,22,1,1,20060416,WAS,CLE
+Shot Chart Detail,0020501197,345,2406,Caron Butler,1610612764,Washington Wizards,3,0,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,140,210,1,1,20060416,WAS,CLE
+Shot Chart Detail,0020501197,410,2406,Caron Butler,1610612764,Washington Wizards,4,6,47,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,6,54,1,1,20060416,WAS,CLE
+Shot Chart Detail,0020501213,2,2406,Caron Butler,1610612764,Washington Wizards,1,11,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,16,245,1,1,20060418,WAS,MIL
+Shot Chart Detail,0020501213,107,2406,Caron Butler,1610612764,Washington Wizards,2,10,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-168,-46,1,1,20060418,WAS,MIL
+Shot Chart Detail,0020501213,109,2406,Caron Butler,1610612764,Washington Wizards,2,10,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,16,146,1,1,20060418,WAS,MIL
+Shot Chart Detail,0020501213,138,2406,Caron Butler,1610612764,Washington Wizards,2,7,43,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,1,114,1,1,20060418,WAS,MIL
+Shot Chart Detail,0020501213,228,2406,Caron Butler,1610612764,Washington Wizards,3,11,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-200,153,1,1,20060418,WAS,MIL
+Shot Chart Detail,0020501213,232,2406,Caron Butler,1610612764,Washington Wizards,3,10,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-5,1,1,20060418,WAS,MIL
+Shot Chart Detail,0020501213,359,2406,Caron Butler,1610612764,Washington Wizards,4,9,57,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-6,41,1,1,20060418,WAS,MIL
+Shot Chart Detail,0020501213,376,2406,Caron Butler,1610612764,Washington Wizards,4,7,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,120,130,1,1,20060418,WAS,MIL
+Shot Chart Detail,0020501213,434,2406,Caron Butler,1610612764,Washington Wizards,4,2,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,3,1,1,20060418,WAS,MIL
+Shot Chart Detail,0020501222,6,2406,Caron Butler,1610612764,Washington Wizards,1,11,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,164,-1,1,1,20060419,DET,WAS
+Shot Chart Detail,0020501222,60,2406,Caron Butler,1610612764,Washington Wizards,1,5,32,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,120,22,1,1,20060419,DET,WAS
+Shot Chart Detail,0020501222,82,2406,Caron Butler,1610612764,Washington Wizards,1,3,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-108,166,1,1,20060419,DET,WAS
+Shot Chart Detail,0020501222,99,2406,Caron Butler,1610612764,Washington Wizards,1,1,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,29,-99,275,1,1,20060419,DET,WAS
+Shot Chart Detail,0020501222,193,2406,Caron Butler,1610612764,Washington Wizards,2,4,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060419,DET,WAS
+Shot Chart Detail,0020501222,221,2406,Caron Butler,1610612764,Washington Wizards,2,1,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060419,DET,WAS
+Shot Chart Detail,0020501222,266,2406,Caron Butler,1610612764,Washington Wizards,3,8,31,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060419,DET,WAS
+Shot Chart Detail,0020501222,293,2406,Caron Butler,1610612764,Washington Wizards,3,5,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-163,61,1,1,20060419,DET,WAS
+Shot Chart Detail,0020501222,328,2406,Caron Butler,1610612764,Washington Wizards,3,1,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060419,DET,WAS
+Shot Chart Detail,0020501222,381,2406,Caron Butler,1610612764,Washington Wizards,4,7,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060419,DET,WAS
+Shot Chart Detail,0020501222,393,2406,Caron Butler,1610612764,Washington Wizards,4,6,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,166,110,1,1,20060419,DET,WAS
+Shot Chart Detail,0020501222,403,2406,Caron Butler,1610612764,Washington Wizards,4,5,23,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060419,DET,WAS
+Shot Chart Detail,0020501222,417,2406,Caron Butler,1610612764,Washington Wizards,4,3,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,24,260,1,1,20060419,DET,WAS

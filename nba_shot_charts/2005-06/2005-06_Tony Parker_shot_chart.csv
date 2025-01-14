@@ -1,0 +1,624 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0020500002,77,2225,Tony Parker,1610612759,San Antonio Spurs,1,2,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,10,1,1,20051101,SAS,DEN
+Shot Chart Detail,0020500002,179,2225,Tony Parker,1610612759,San Antonio Spurs,2,3,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-143,92,1,1,20051101,SAS,DEN
+Shot Chart Detail,0020500002,181,2225,Tony Parker,1610612759,San Antonio Spurs,2,3,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,7,1,1,20051101,SAS,DEN
+Shot Chart Detail,0020500002,213,2225,Tony Parker,1610612759,San Antonio Spurs,2,1,2,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,13,46,1,1,20051101,SAS,DEN
+Shot Chart Detail,0020500002,237,2225,Tony Parker,1610612759,San Antonio Spurs,3,10,35,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,72,15,1,1,20051101,SAS,DEN
+Shot Chart Detail,0020500002,258,2225,Tony Parker,1610612759,San Antonio Spurs,3,8,32,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,10,43,1,1,20051101,SAS,DEN
+Shot Chart Detail,0020500002,351,2225,Tony Parker,1610612759,San Antonio Spurs,4,11,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,5,1,1,20051101,SAS,DEN
+Shot Chart Detail,0020500002,359,2225,Tony Parker,1610612759,San Antonio Spurs,4,10,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,2,1,1,20051101,SAS,DEN
+Shot Chart Detail,0020500002,363,2225,Tony Parker,1610612759,San Antonio Spurs,4,9,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,110,8,1,1,20051101,SAS,DEN
+Shot Chart Detail,0020500002,396,2225,Tony Parker,1610612759,San Antonio Spurs,4,5,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-169,105,1,1,20051101,SAS,DEN
+Shot Chart Detail,0020500002,399,2225,Tony Parker,1610612759,San Antonio Spurs,4,5,18,Made Shot,Driving Finger Roll Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,10,1,1,20051101,SAS,DEN
+Shot Chart Detail,0020500002,408,2225,Tony Parker,1610612759,San Antonio Spurs,4,3,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,159,100,1,1,20051101,SAS,DEN
+Shot Chart Detail,0020500002,430,2225,Tony Parker,1610612759,San Antonio Spurs,4,1,1,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-3,5,1,1,20051101,SAS,DEN
+Shot Chart Detail,0020500026,21,2225,Tony Parker,1610612759,San Antonio Spurs,1,8,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,10,1,1,20051104,SAS,CLE
+Shot Chart Detail,0020500026,50,2225,Tony Parker,1610612759,San Antonio Spurs,1,5,33,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,8,61,1,1,20051104,SAS,CLE
+Shot Chart Detail,0020500026,58,2225,Tony Parker,1610612759,San Antonio Spurs,1,4,30,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,5,1,1,20051104,SAS,CLE
+Shot Chart Detail,0020500026,84,2225,Tony Parker,1610612759,San Antonio Spurs,1,1,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-13,17,1,1,20051104,SAS,CLE
+Shot Chart Detail,0020500026,89,2225,Tony Parker,1610612759,San Antonio Spurs,1,0,52,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,29,46,1,1,20051104,SAS,CLE
+Shot Chart Detail,0020500026,189,2225,Tony Parker,1610612759,San Antonio Spurs,2,2,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,12,1,1,20051104,SAS,CLE
+Shot Chart Detail,0020500026,191,2225,Tony Parker,1610612759,San Antonio Spurs,2,1,26,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,13,1,1,20051104,SAS,CLE
+Shot Chart Detail,0020500026,284,2225,Tony Parker,1610612759,San Antonio Spurs,3,4,14,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,5,1,1,20051104,SAS,CLE
+Shot Chart Detail,0020500026,287,2225,Tony Parker,1610612759,San Antonio Spurs,3,3,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,7,1,1,20051104,SAS,CLE
+Shot Chart Detail,0020500039,9,2225,Tony Parker,1610612759,San Antonio Spurs,1,11,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051105,DAL,SAS
+Shot Chart Detail,0020500039,79,2225,Tony Parker,1610612759,San Antonio Spurs,1,3,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,202,-16,1,1,20051105,DAL,SAS
+Shot Chart Detail,0020500039,173,2225,Tony Parker,1610612759,San Antonio Spurs,2,7,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-159,89,1,1,20051105,DAL,SAS
+Shot Chart Detail,0020500039,179,2225,Tony Parker,1610612759,San Antonio Spurs,2,6,40,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051105,DAL,SAS
+Shot Chart Detail,0020500039,307,2225,Tony Parker,1610612759,San Antonio Spurs,3,5,30,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051105,DAL,SAS
+Shot Chart Detail,0020500039,403,2225,Tony Parker,1610612759,San Antonio Spurs,4,8,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,135,86,1,1,20051105,DAL,SAS
+Shot Chart Detail,0020500039,414,2225,Tony Parker,1610612759,San Antonio Spurs,4,6,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-54,178,1,1,20051105,DAL,SAS
+Shot Chart Detail,0020500039,417,2225,Tony Parker,1610612759,San Antonio Spurs,4,6,27,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051105,DAL,SAS
+Shot Chart Detail,0020500039,423,2225,Tony Parker,1610612759,San Antonio Spurs,4,5,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051105,DAL,SAS
+Shot Chart Detail,0020500039,446,2225,Tony Parker,1610612759,San Antonio Spurs,4,4,16,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051105,DAL,SAS
+Shot Chart Detail,0020500039,458,2225,Tony Parker,1610612759,San Antonio Spurs,4,2,50,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051105,DAL,SAS
+Shot Chart Detail,0020500050,21,2225,Tony Parker,1610612759,San Antonio Spurs,1,8,8,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051107,CHI,SAS
+Shot Chart Detail,0020500050,180,2225,Tony Parker,1610612759,San Antonio Spurs,2,4,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,165,159,1,1,20051107,CHI,SAS
+Shot Chart Detail,0020500050,290,2225,Tony Parker,1610612759,San Antonio Spurs,3,3,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-153,102,1,1,20051107,CHI,SAS
+Shot Chart Detail,0020500050,403,2225,Tony Parker,1610612759,San Antonio Spurs,4,5,4,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051107,CHI,SAS
+Shot Chart Detail,0020500050,483,2225,Tony Parker,1610612759,San Antonio Spurs,5,3,45,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051107,CHI,SAS
+Shot Chart Detail,0020500050,498,2225,Tony Parker,1610612759,San Antonio Spurs,5,2,6,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051107,CHI,SAS
+Shot Chart Detail,0020500061,18,2225,Tony Parker,1610612759,San Antonio Spurs,1,9,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051109,CHA,SAS
+Shot Chart Detail,0020500061,32,2225,Tony Parker,1610612759,San Antonio Spurs,1,7,12,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051109,CHA,SAS
+Shot Chart Detail,0020500061,71,2225,Tony Parker,1610612759,San Antonio Spurs,1,2,43,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051109,CHA,SAS
+Shot Chart Detail,0020500061,87,2225,Tony Parker,1610612759,San Antonio Spurs,1,1,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,71,174,1,1,20051109,CHA,SAS
+Shot Chart Detail,0020500061,163,2225,Tony Parker,1610612759,San Antonio Spurs,2,5,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051109,CHA,SAS
+Shot Chart Detail,0020500061,194,2225,Tony Parker,1610612759,San Antonio Spurs,2,3,15,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051109,CHA,SAS
+Shot Chart Detail,0020500061,232,2225,Tony Parker,1610612759,San Antonio Spurs,2,0,3,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,18,87,1,1,20051109,CHA,SAS
+Shot Chart Detail,0020500061,269,2225,Tony Parker,1610612759,San Antonio Spurs,3,8,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-87,192,1,1,20051109,CHA,SAS
+Shot Chart Detail,0020500061,414,2225,Tony Parker,1610612759,San Antonio Spurs,4,4,35,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051109,CHA,SAS
+Shot Chart Detail,0020500061,419,2225,Tony Parker,1610612759,San Antonio Spurs,4,4,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051109,CHA,SAS
+Shot Chart Detail,0020500061,447,2225,Tony Parker,1610612759,San Antonio Spurs,4,0,59,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051109,CHA,SAS
+Shot Chart Detail,0020500074,7,2225,Tony Parker,1610612759,San Antonio Spurs,1,11,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-3,15,1,1,20051111,BOS,SAS
+Shot Chart Detail,0020500074,37,2225,Tony Parker,1610612759,San Antonio Spurs,1,7,6,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,0,43,1,1,20051111,BOS,SAS
+Shot Chart Detail,0020500074,48,2225,Tony Parker,1610612759,San Antonio Spurs,1,5,42,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,13,1,1,20051111,BOS,SAS
+Shot Chart Detail,0020500074,66,2225,Tony Parker,1610612759,San Antonio Spurs,1,3,12,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,29,7,1,1,20051111,BOS,SAS
+Shot Chart Detail,0020500074,68,2225,Tony Parker,1610612759,San Antonio Spurs,1,2,32,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-10,64,1,1,20051111,BOS,SAS
+Shot Chart Detail,0020500074,146,2225,Tony Parker,1610612759,San Antonio Spurs,2,5,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-187,33,1,1,20051111,BOS,SAS
+Shot Chart Detail,0020500074,182,2225,Tony Parker,1610612759,San Antonio Spurs,2,0,43,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,3,1,1,20051111,BOS,SAS
+Shot Chart Detail,0020500074,184,2225,Tony Parker,1610612759,San Antonio Spurs,2,0,26,Made Shot,Running Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,8,38,1,1,20051111,BOS,SAS
+Shot Chart Detail,0020500074,277,2225,Tony Parker,1610612759,San Antonio Spurs,3,3,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,117,166,1,1,20051111,BOS,SAS
+Shot Chart Detail,0020500074,356,2225,Tony Parker,1610612759,San Antonio Spurs,4,6,34,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,7,1,1,20051111,BOS,SAS
+Shot Chart Detail,0020500081,20,2225,Tony Parker,1610612759,San Antonio Spurs,1,9,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,-3,1,1,20051112,WAS,SAS
+Shot Chart Detail,0020500081,39,2225,Tony Parker,1610612759,San Antonio Spurs,1,5,49,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,-5,1,1,20051112,WAS,SAS
+Shot Chart Detail,0020500081,42,2225,Tony Parker,1610612759,San Antonio Spurs,1,5,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,-3,1,1,20051112,WAS,SAS
+Shot Chart Detail,0020500081,131,2225,Tony Parker,1610612759,San Antonio Spurs,2,6,57,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,46,40,1,1,20051112,WAS,SAS
+Shot Chart Detail,0020500081,186,2225,Tony Parker,1610612759,San Antonio Spurs,2,1,43,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,3,5,1,1,20051112,WAS,SAS
+Shot Chart Detail,0020500081,188,2225,Tony Parker,1610612759,San Antonio Spurs,2,1,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,3,10,1,1,20051112,WAS,SAS
+Shot Chart Detail,0020500081,253,2225,Tony Parker,1610612759,San Antonio Spurs,3,5,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,-3,1,1,20051112,WAS,SAS
+Shot Chart Detail,0020500081,271,2225,Tony Parker,1610612759,San Antonio Spurs,3,4,9,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,146,81,1,1,20051112,WAS,SAS
+Shot Chart Detail,0020500081,321,2225,Tony Parker,1610612759,San Antonio Spurs,3,0,2,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,2,1,1,20051112,WAS,SAS
+Shot Chart Detail,0020500081,425,2225,Tony Parker,1610612759,San Antonio Spurs,4,3,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,3,-18,1,1,20051112,WAS,SAS
+Shot Chart Detail,0020500106,6,2225,Tony Parker,1610612759,San Antonio Spurs,1,11,3,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,31,48,1,1,20051115,SAS,ATL
+Shot Chart Detail,0020500106,134,2225,Tony Parker,1610612759,San Antonio Spurs,2,7,34,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-1,1,1,20051115,SAS,ATL
+Shot Chart Detail,0020500106,148,2225,Tony Parker,1610612759,San Antonio Spurs,2,6,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,23,23,1,1,20051115,SAS,ATL
+Shot Chart Detail,0020500106,176,2225,Tony Parker,1610612759,San Antonio Spurs,2,4,6,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,7,1,1,20051115,SAS,ATL
+Shot Chart Detail,0020500106,222,2225,Tony Parker,1610612759,San Antonio Spurs,3,10,38,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-84,2,1,1,20051115,SAS,ATL
+Shot Chart Detail,0020500106,237,2225,Tony Parker,1610612759,San Antonio Spurs,3,9,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,7,1,1,20051115,SAS,ATL
+Shot Chart Detail,0020500106,311,2225,Tony Parker,1610612759,San Antonio Spurs,3,0,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-3,8,1,1,20051115,SAS,ATL
+Shot Chart Detail,0020500117,13,2225,Tony Parker,1610612759,San Antonio Spurs,1,10,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-3,8,1,1,20051117,SAS,HOU
+Shot Chart Detail,0020500117,92,2225,Tony Parker,1610612759,San Antonio Spurs,1,0,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,5,1,1,20051117,SAS,HOU
+Shot Chart Detail,0020500117,161,2225,Tony Parker,1610612759,San Antonio Spurs,2,3,37,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,5,1,1,20051117,SAS,HOU
+Shot Chart Detail,0020500117,170,2225,Tony Parker,1610612759,San Antonio Spurs,2,2,22,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,8,1,1,20051117,SAS,HOU
+Shot Chart Detail,0020500117,227,2225,Tony Parker,1610612759,San Antonio Spurs,3,8,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-3,8,1,1,20051117,SAS,HOU
+Shot Chart Detail,0020500117,394,2225,Tony Parker,1610612759,San Antonio Spurs,4,2,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-102,123,1,1,20051117,SAS,HOU
+Shot Chart Detail,0020500137,5,2225,Tony Parker,1610612759,San Antonio Spurs,1,11,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-5,1,1,20051119,SAS,PHX
+Shot Chart Detail,0020500137,43,2225,Tony Parker,1610612759,San Antonio Spurs,1,6,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-140,137,1,1,20051119,SAS,PHX
+Shot Chart Detail,0020500137,57,2225,Tony Parker,1610612759,San Antonio Spurs,1,5,30,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,12,1,1,20051119,SAS,PHX
+Shot Chart Detail,0020500137,184,2225,Tony Parker,1610612759,San Antonio Spurs,2,4,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,7,1,1,20051119,SAS,PHX
+Shot Chart Detail,0020500137,277,2225,Tony Parker,1610612759,San Antonio Spurs,3,9,13,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,52,17,1,1,20051119,SAS,PHX
+Shot Chart Detail,0020500137,304,2225,Tony Parker,1610612759,San Antonio Spurs,3,5,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,8,22,1,1,20051119,SAS,PHX
+Shot Chart Detail,0020500137,447,2225,Tony Parker,1610612759,San Antonio Spurs,4,5,34,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,5,1,1,20051119,SAS,PHX
+Shot Chart Detail,0020500137,497,2225,Tony Parker,1610612759,San Antonio Spurs,4,0,35,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,36,56,1,1,20051119,SAS,PHX
+Shot Chart Detail,0020500148,3,2225,Tony Parker,1610612759,San Antonio Spurs,1,11,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,21,177,128,1,1,20051121,SAC,SAS
+Shot Chart Detail,0020500148,5,2225,Tony Parker,1610612759,San Antonio Spurs,1,11,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,125,171,1,1,20051121,SAC,SAS
+Shot Chart Detail,0020500148,73,2225,Tony Parker,1610612759,San Antonio Spurs,1,2,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051121,SAC,SAS
+Shot Chart Detail,0020500148,206,2225,Tony Parker,1610612759,San Antonio Spurs,2,2,55,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051121,SAC,SAS
+Shot Chart Detail,0020500148,236,2225,Tony Parker,1610612759,San Antonio Spurs,3,11,43,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-26,51,1,1,20051121,SAC,SAS
+Shot Chart Detail,0020500148,255,2225,Tony Parker,1610612759,San Antonio Spurs,3,9,16,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051121,SAC,SAS
+Shot Chart Detail,0020500148,284,2225,Tony Parker,1610612759,San Antonio Spurs,3,7,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051121,SAC,SAS
+Shot Chart Detail,0020500148,299,2225,Tony Parker,1610612759,San Antonio Spurs,3,5,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-176,15,1,1,20051121,SAC,SAS
+Shot Chart Detail,0020500148,318,2225,Tony Parker,1610612759,San Antonio Spurs,3,4,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051121,SAC,SAS
+Shot Chart Detail,0020500166,5,2225,Tony Parker,1610612759,San Antonio Spurs,1,11,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,125,151,1,1,20051123,GSW,SAS
+Shot Chart Detail,0020500166,9,2225,Tony Parker,1610612759,San Antonio Spurs,1,10,37,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,2,1,1,20051123,GSW,SAS
+Shot Chart Detail,0020500166,23,2225,Tony Parker,1610612759,San Antonio Spurs,1,8,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-18,22,1,1,20051123,GSW,SAS
+Shot Chart Detail,0020500166,39,2225,Tony Parker,1610612759,San Antonio Spurs,1,6,18,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,5,1,1,20051123,GSW,SAS
+Shot Chart Detail,0020500166,69,2225,Tony Parker,1610612759,San Antonio Spurs,1,2,58,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,10,26,1,1,20051123,GSW,SAS
+Shot Chart Detail,0020500166,193,2225,Tony Parker,1610612759,San Antonio Spurs,2,1,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,10,1,1,20051123,GSW,SAS
+Shot Chart Detail,0020500166,232,2225,Tony Parker,1610612759,San Antonio Spurs,3,10,59,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,5,13,1,1,20051123,GSW,SAS
+Shot Chart Detail,0020500166,238,2225,Tony Parker,1610612759,San Antonio Spurs,3,9,57,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,15,1,1,20051123,GSW,SAS
+Shot Chart Detail,0020500166,254,2225,Tony Parker,1610612759,San Antonio Spurs,3,7,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,5,1,1,20051123,GSW,SAS
+Shot Chart Detail,0020500166,265,2225,Tony Parker,1610612759,San Antonio Spurs,3,7,4,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-8,20,1,1,20051123,GSW,SAS
+Shot Chart Detail,0020500166,300,2225,Tony Parker,1610612759,San Antonio Spurs,3,3,18,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,5,1,1,20051123,GSW,SAS
+Shot Chart Detail,0020500176,50,2225,Tony Parker,1610612759,San Antonio Spurs,1,5,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-145,102,1,1,20051125,SAS,CHI
+Shot Chart Detail,0020500176,255,2225,Tony Parker,1610612759,San Antonio Spurs,3,8,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,7,1,1,20051125,SAS,CHI
+Shot Chart Detail,0020500176,285,2225,Tony Parker,1610612759,San Antonio Spurs,3,5,2,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-16,64,1,1,20051125,SAS,CHI
+Shot Chart Detail,0020500176,332,2225,Tony Parker,1610612759,San Antonio Spurs,3,2,14,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-82,8,1,1,20051125,SAS,CHI
+Shot Chart Detail,0020500176,481,2225,Tony Parker,1610612759,San Antonio Spurs,4,0,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,204,156,1,1,20051125,SAS,CHI
+Shot Chart Detail,0020500203,3,2225,Tony Parker,1610612759,San Antonio Spurs,1,11,26,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,7,1,1,20051129,SAS,LAL
+Shot Chart Detail,0020500203,8,2225,Tony Parker,1610612759,San Antonio Spurs,1,10,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,5,1,1,20051129,SAS,LAL
+Shot Chart Detail,0020500203,302,2225,Tony Parker,1610612759,San Antonio Spurs,3,5,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,5,1,1,20051129,SAS,LAL
+Shot Chart Detail,0020500203,419,2225,Tony Parker,1610612759,San Antonio Spurs,4,3,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,7,1,1,20051129,SAS,LAL
+Shot Chart Detail,0020500217,15,2225,Tony Parker,1610612759,San Antonio Spurs,1,10,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051201,DAL,SAS
+Shot Chart Detail,0020500217,18,2225,Tony Parker,1610612759,San Antonio Spurs,1,9,38,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051201,DAL,SAS
+Shot Chart Detail,0020500217,55,2225,Tony Parker,1610612759,San Antonio Spurs,1,5,58,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051201,DAL,SAS
+Shot Chart Detail,0020500217,106,2225,Tony Parker,1610612759,San Antonio Spurs,1,1,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-171,145,1,1,20051201,DAL,SAS
+Shot Chart Detail,0020500217,256,2225,Tony Parker,1610612759,San Antonio Spurs,3,8,2,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051201,DAL,SAS
+Shot Chart Detail,0020500217,273,2225,Tony Parker,1610612759,San Antonio Spurs,3,5,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-84,156,1,1,20051201,DAL,SAS
+Shot Chart Detail,0020500217,290,2225,Tony Parker,1610612759,San Antonio Spurs,3,4,25,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051201,DAL,SAS
+Shot Chart Detail,0020500217,324,2225,Tony Parker,1610612759,San Antonio Spurs,3,0,41,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,46,17,1,1,20051201,DAL,SAS
+Shot Chart Detail,0020500217,380,2225,Tony Parker,1610612759,San Antonio Spurs,4,7,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,87,132,1,1,20051201,DAL,SAS
+Shot Chart Detail,0020500217,382,2225,Tony Parker,1610612759,San Antonio Spurs,4,6,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051201,DAL,SAS
+Shot Chart Detail,0020500217,395,2225,Tony Parker,1610612759,San Antonio Spurs,4,5,35,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051201,DAL,SAS
+Shot Chart Detail,0020500217,446,2225,Tony Parker,1610612759,San Antonio Spurs,4,1,51,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,105,5,1,1,20051201,DAL,SAS
+Shot Chart Detail,0020500217,460,2225,Tony Parker,1610612759,San Antonio Spurs,4,0,35,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051201,DAL,SAS
+Shot Chart Detail,0020500236,24,2225,Tony Parker,1610612759,San Antonio Spurs,1,9,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,12,1,1,20051203,SAS,PHI
+Shot Chart Detail,0020500236,35,2225,Tony Parker,1610612759,San Antonio Spurs,1,7,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,8,1,1,20051203,SAS,PHI
+Shot Chart Detail,0020500236,152,2225,Tony Parker,1610612759,San Antonio Spurs,2,7,9,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,33,3,1,1,20051203,SAS,PHI
+Shot Chart Detail,0020500236,175,2225,Tony Parker,1610612759,San Antonio Spurs,2,5,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,0,1,1,20051203,SAS,PHI
+Shot Chart Detail,0020500236,182,2225,Tony Parker,1610612759,San Antonio Spurs,2,4,30,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,3,1,1,20051203,SAS,PHI
+Shot Chart Detail,0020500236,199,2225,Tony Parker,1610612759,San Antonio Spurs,2,2,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,8,1,1,20051203,SAS,PHI
+Shot Chart Detail,0020500236,302,2225,Tony Parker,1610612759,San Antonio Spurs,3,2,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,33,5,1,1,20051203,SAS,PHI
+Shot Chart Detail,0020500236,314,2225,Tony Parker,1610612759,San Antonio Spurs,3,1,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-28,5,1,1,20051203,SAS,PHI
+Shot Chart Detail,0020500245,45,2225,Tony Parker,1610612759,San Antonio Spurs,1,5,57,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051205,ORL,SAS
+Shot Chart Detail,0020500245,47,2225,Tony Parker,1610612759,San Antonio Spurs,1,5,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-138,174,1,1,20051205,ORL,SAS
+Shot Chart Detail,0020500245,299,2225,Tony Parker,1610612759,San Antonio Spurs,3,5,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-71,233,1,1,20051205,ORL,SAS
+Shot Chart Detail,0020500245,305,2225,Tony Parker,1610612759,San Antonio Spurs,3,4,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-169,-1,1,1,20051205,ORL,SAS
+Shot Chart Detail,0020500245,413,2225,Tony Parker,1610612759,San Antonio Spurs,4,5,58,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051205,ORL,SAS
+Shot Chart Detail,0020500245,433,2225,Tony Parker,1610612759,San Antonio Spurs,4,4,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051205,ORL,SAS
+Shot Chart Detail,0020500245,441,2225,Tony Parker,1610612759,San Antonio Spurs,4,3,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,61,187,1,1,20051205,ORL,SAS
+Shot Chart Detail,0020500263,6,2225,Tony Parker,1610612759,San Antonio Spurs,1,11,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,10,1,1,20051207,SAS,MIA
+Shot Chart Detail,0020500263,51,2225,Tony Parker,1610612759,San Antonio Spurs,1,5,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,5,1,1,20051207,SAS,MIA
+Shot Chart Detail,0020500263,201,2225,Tony Parker,1610612759,San Antonio Spurs,2,1,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,5,1,1,20051207,SAS,MIA
+Shot Chart Detail,0020500263,230,2225,Tony Parker,1610612759,San Antonio Spurs,3,10,15,Made Shot,Jump Bank Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,39,0,1,1,20051207,SAS,MIA
+Shot Chart Detail,0020500263,295,2225,Tony Parker,1610612759,San Antonio Spurs,3,4,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,-5,1,1,20051207,SAS,MIA
+Shot Chart Detail,0020500275,21,2225,Tony Parker,1610612759,San Antonio Spurs,1,9,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,5,1,1,20051209,SAS,BOS
+Shot Chart Detail,0020500275,108,2225,Tony Parker,1610612759,San Antonio Spurs,1,0,28,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,71,86,1,1,20051209,SAS,BOS
+Shot Chart Detail,0020500275,213,2225,Tony Parker,1610612759,San Antonio Spurs,2,1,33,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,0,64,1,1,20051209,SAS,BOS
+Shot Chart Detail,0020500275,239,2225,Tony Parker,1610612759,San Antonio Spurs,3,10,11,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,0,1,1,20051209,SAS,BOS
+Shot Chart Detail,0020500275,273,2225,Tony Parker,1610612759,San Antonio Spurs,3,5,36,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,8,13,1,1,20051209,SAS,BOS
+Shot Chart Detail,0020500281,34,2225,Tony Parker,1610612759,San Antonio Spurs,1,8,32,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051210,ATL,SAS
+Shot Chart Detail,0020500281,58,2225,Tony Parker,1610612759,San Antonio Spurs,1,6,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-112,191,1,1,20051210,ATL,SAS
+Shot Chart Detail,0020500281,82,2225,Tony Parker,1610612759,San Antonio Spurs,1,3,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-110,181,1,1,20051210,ATL,SAS
+Shot Chart Detail,0020500281,167,2225,Tony Parker,1610612759,San Antonio Spurs,2,7,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051210,ATL,SAS
+Shot Chart Detail,0020500281,185,2225,Tony Parker,1610612759,San Antonio Spurs,2,3,57,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051210,ATL,SAS
+Shot Chart Detail,0020500281,348,2225,Tony Parker,1610612759,San Antonio Spurs,3,1,23,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051210,ATL,SAS
+Shot Chart Detail,0020500281,359,2225,Tony Parker,1610612759,San Antonio Spurs,3,0,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051210,ATL,SAS
+Shot Chart Detail,0020500281,409,2225,Tony Parker,1610612759,San Antonio Spurs,4,6,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,149,87,1,1,20051210,ATL,SAS
+Shot Chart Detail,0020500305,9,2225,Tony Parker,1610612759,San Antonio Spurs,1,9,59,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,10,1,1,20051213,SAS,LAC
+Shot Chart Detail,0020500305,11,2225,Tony Parker,1610612759,San Antonio Spurs,1,9,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-135,89,1,1,20051213,SAS,LAC
+Shot Chart Detail,0020500305,34,2225,Tony Parker,1610612759,San Antonio Spurs,1,6,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,12,1,1,20051213,SAS,LAC
+Shot Chart Detail,0020500305,59,2225,Tony Parker,1610612759,San Antonio Spurs,1,4,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,176,40,1,1,20051213,SAS,LAC
+Shot Chart Detail,0020500305,92,2225,Tony Parker,1610612759,San Antonio Spurs,1,0,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,10,1,1,20051213,SAS,LAC
+Shot Chart Detail,0020500305,183,2225,Tony Parker,1610612759,San Antonio Spurs,2,2,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,5,1,1,20051213,SAS,LAC
+Shot Chart Detail,0020500305,206,2225,Tony Parker,1610612759,San Antonio Spurs,2,0,27,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,47,69,1,1,20051213,SAS,LAC
+Shot Chart Detail,0020500305,290,2225,Tony Parker,1610612759,San Antonio Spurs,3,3,50,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-54,13,1,1,20051213,SAS,LAC
+Shot Chart Detail,0020500305,319,2225,Tony Parker,1610612759,San Antonio Spurs,3,0,54,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-33,46,1,1,20051213,SAS,LAC
+Shot Chart Detail,0020500305,330,2225,Tony Parker,1610612759,San Antonio Spurs,3,0,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,7,1,1,20051213,SAS,LAC
+Shot Chart Detail,0020500305,339,2225,Tony Parker,1610612759,San Antonio Spurs,4,11,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-59,186,1,1,20051213,SAS,LAC
+Shot Chart Detail,0020500305,427,2225,Tony Parker,1610612759,San Antonio Spurs,4,2,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,149,140,1,1,20051213,SAS,LAC
+Shot Chart Detail,0020500320,17,2225,Tony Parker,1610612759,San Antonio Spurs,1,8,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051215,MIN,SAS
+Shot Chart Detail,0020500320,177,2225,Tony Parker,1610612759,San Antonio Spurs,2,1,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051215,MIN,SAS
+Shot Chart Detail,0020500320,254,2225,Tony Parker,1610612759,San Antonio Spurs,3,3,39,Made Shot,Running Finger Roll Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,66,59,1,1,20051215,MIN,SAS
+Shot Chart Detail,0020500320,270,2225,Tony Parker,1610612759,San Antonio Spurs,3,1,38,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051215,MIN,SAS
+Shot Chart Detail,0020500320,343,2225,Tony Parker,1610612759,San Antonio Spurs,4,6,8,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-11,61,1,1,20051215,MIN,SAS
+Shot Chart Detail,0020500340,35,2225,Tony Parker,1610612759,San Antonio Spurs,1,7,18,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,7,1,1,20051217,SAS,SAC
+Shot Chart Detail,0020500340,43,2225,Tony Parker,1610612759,San Antonio Spurs,1,6,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,12,1,1,20051217,SAS,SAC
+Shot Chart Detail,0020500340,82,2225,Tony Parker,1610612759,San Antonio Spurs,1,2,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,5,1,1,20051217,SAS,SAC
+Shot Chart Detail,0020500340,94,2225,Tony Parker,1610612759,San Antonio Spurs,1,1,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,8,7,1,1,20051217,SAS,SAC
+Shot Chart Detail,0020500340,179,2225,Tony Parker,1610612759,San Antonio Spurs,2,4,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,151,49,1,1,20051217,SAS,SAC
+Shot Chart Detail,0020500340,185,2225,Tony Parker,1610612759,San Antonio Spurs,2,4,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,3,1,1,20051217,SAS,SAC
+Shot Chart Detail,0020500340,219,2225,Tony Parker,1610612759,San Antonio Spurs,2,0,28,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,100,59,1,1,20051217,SAS,SAC
+Shot Chart Detail,0020500340,254,2225,Tony Parker,1610612759,San Antonio Spurs,3,8,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,148,99,1,1,20051217,SAS,SAC
+Shot Chart Detail,0020500340,300,2225,Tony Parker,1610612759,San Antonio Spurs,3,1,31,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-1,1,1,20051217,SAS,SAC
+Shot Chart Detail,0020500340,302,2225,Tony Parker,1610612759,San Antonio Spurs,3,0,55,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,8,41,1,1,20051217,SAS,SAC
+Shot Chart Detail,0020500340,389,2225,Tony Parker,1610612759,San Antonio Spurs,4,5,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,8,8,1,1,20051217,SAS,SAC
+Shot Chart Detail,0020500356,160,2225,Tony Parker,1610612759,San Antonio Spurs,2,5,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051220,MIL,SAS
+Shot Chart Detail,0020500356,175,2225,Tony Parker,1610612759,San Antonio Spurs,2,3,36,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051220,MIL,SAS
+Shot Chart Detail,0020500356,201,2225,Tony Parker,1610612759,San Antonio Spurs,2,0,50,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051220,MIL,SAS
+Shot Chart Detail,0020500356,234,2225,Tony Parker,1610612759,San Antonio Spurs,3,7,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051220,MIL,SAS
+Shot Chart Detail,0020500356,282,2225,Tony Parker,1610612759,San Antonio Spurs,3,1,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,74,160,1,1,20051220,MIL,SAS
+Shot Chart Detail,0020500356,365,2225,Tony Parker,1610612759,San Antonio Spurs,4,4,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-126,95,1,1,20051220,MIL,SAS
+Shot Chart Detail,0020500356,369,2225,Tony Parker,1610612759,San Antonio Spurs,4,4,22,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,15,38,1,1,20051220,MIL,SAS
+Shot Chart Detail,0020500356,385,2225,Tony Parker,1610612759,San Antonio Spurs,4,2,45,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051220,MIL,SAS
+Shot Chart Detail,0020500356,402,2225,Tony Parker,1610612759,San Antonio Spurs,4,1,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,108,132,1,1,20051220,MIL,SAS
+Shot Chart Detail,0020500364,17,2225,Tony Parker,1610612759,San Antonio Spurs,1,8,52,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051221,NYK,SAS
+Shot Chart Detail,0020500364,66,2225,Tony Parker,1610612759,San Antonio Spurs,1,3,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,22,-10,220,1,1,20051221,NYK,SAS
+Shot Chart Detail,0020500364,145,2225,Tony Parker,1610612759,San Antonio Spurs,2,6,40,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051221,NYK,SAS
+Shot Chart Detail,0020500364,157,2225,Tony Parker,1610612759,San Antonio Spurs,2,5,31,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051221,NYK,SAS
+Shot Chart Detail,0020500364,185,2225,Tony Parker,1610612759,San Antonio Spurs,2,2,12,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051221,NYK,SAS
+Shot Chart Detail,0020500364,223,2225,Tony Parker,1610612759,San Antonio Spurs,3,10,4,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051221,NYK,SAS
+Shot Chart Detail,0020500364,230,2225,Tony Parker,1610612759,San Antonio Spurs,3,9,15,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,71,54,1,1,20051221,NYK,SAS
+Shot Chart Detail,0020500381,9,2225,Tony Parker,1610612759,San Antonio Spurs,1,10,36,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-6,12,1,1,20051223,SAS,TOR
+Shot Chart Detail,0020500381,35,2225,Tony Parker,1610612759,San Antonio Spurs,1,6,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,2,1,1,20051223,SAS,TOR
+Shot Chart Detail,0020500381,64,2225,Tony Parker,1610612759,San Antonio Spurs,1,3,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,7,1,1,20051223,SAS,TOR
+Shot Chart Detail,0020500381,191,2225,Tony Parker,1610612759,San Antonio Spurs,2,1,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-3,0,1,1,20051223,SAS,TOR
+Shot Chart Detail,0020500381,225,2225,Tony Parker,1610612759,San Antonio Spurs,3,10,29,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,8,1,1,20051223,SAS,TOR
+Shot Chart Detail,0020500381,255,2225,Tony Parker,1610612759,San Antonio Spurs,3,5,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,5,1,1,20051223,SAS,TOR
+Shot Chart Detail,0020500385,5,2225,Tony Parker,1610612759,San Antonio Spurs,1,11,4,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051225,DET,SAS
+Shot Chart Detail,0020500385,8,2225,Tony Parker,1610612759,San Antonio Spurs,1,10,45,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051225,DET,SAS
+Shot Chart Detail,0020500385,26,2225,Tony Parker,1610612759,San Antonio Spurs,1,8,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,148,99,1,1,20051225,DET,SAS
+Shot Chart Detail,0020500385,60,2225,Tony Parker,1610612759,San Antonio Spurs,1,4,55,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051225,DET,SAS
+Shot Chart Detail,0020500385,112,2225,Tony Parker,1610612759,San Antonio Spurs,2,10,56,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,82,23,1,1,20051225,DET,SAS
+Shot Chart Detail,0020500385,248,2225,Tony Parker,1610612759,San Antonio Spurs,3,7,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051225,DET,SAS
+Shot Chart Detail,0020500385,398,2225,Tony Parker,1610612759,San Antonio Spurs,4,3,58,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051225,DET,SAS
+Shot Chart Detail,0020500402,33,2225,Tony Parker,1610612759,San Antonio Spurs,1,8,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,-5,1,1,20051227,SAS,IND
+Shot Chart Detail,0020500402,42,2225,Tony Parker,1610612759,San Antonio Spurs,1,6,19,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,43,30,1,1,20051227,SAS,IND
+Shot Chart Detail,0020500402,53,2225,Tony Parker,1610612759,San Antonio Spurs,1,5,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,7,1,1,20051227,SAS,IND
+Shot Chart Detail,0020500402,67,2225,Tony Parker,1610612759,San Antonio Spurs,1,4,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,7,1,1,20051227,SAS,IND
+Shot Chart Detail,0020500402,222,2225,Tony Parker,1610612759,San Antonio Spurs,2,0,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,10,1,1,20051227,SAS,IND
+Shot Chart Detail,0020500402,253,2225,Tony Parker,1610612759,San Antonio Spurs,3,9,59,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,13,1,1,20051227,SAS,IND
+Shot Chart Detail,0020500402,264,2225,Tony Parker,1610612759,San Antonio Spurs,3,8,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,11,17,1,1,20051227,SAS,IND
+Shot Chart Detail,0020500402,338,2225,Tony Parker,1610612759,San Antonio Spurs,3,0,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,13,1,1,20051227,SAS,IND
+Shot Chart Detail,0020500415,21,2225,Tony Parker,1610612759,San Antonio Spurs,1,9,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,5,1,1,20051229,SAS,NOK
+Shot Chart Detail,0020500415,43,2225,Tony Parker,1610612759,San Antonio Spurs,1,6,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,3,1,1,20051229,SAS,NOK
+Shot Chart Detail,0020500415,45,2225,Tony Parker,1610612759,San Antonio Spurs,1,5,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-3,1,1,20051229,SAS,NOK
+Shot Chart Detail,0020500415,61,2225,Tony Parker,1610612759,San Antonio Spurs,1,4,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,-3,1,1,20051229,SAS,NOK
+Shot Chart Detail,0020500415,185,2225,Tony Parker,1610612759,San Antonio Spurs,2,2,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,21,25,1,1,20051229,SAS,NOK
+Shot Chart Detail,0020500415,252,2225,Tony Parker,1610612759,San Antonio Spurs,3,7,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,5,1,1,20051229,SAS,NOK
+Shot Chart Detail,0020500415,286,2225,Tony Parker,1610612759,San Antonio Spurs,3,4,19,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051229,SAS,NOK
+Shot Chart Detail,0020500431,225,2225,Tony Parker,1610612759,San Antonio Spurs,2,3,57,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051231,DEN,SAS
+Shot Chart Detail,0020500431,290,2225,Tony Parker,1610612759,San Antonio Spurs,3,9,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051231,DEN,SAS
+Shot Chart Detail,0020500431,488,2225,Tony Parker,1610612759,San Antonio Spurs,4,3,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051231,DEN,SAS
+Shot Chart Detail,0020500454,49,2225,Tony Parker,1610612759,San Antonio Spurs,1,4,51,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,3,12,1,1,20060104,SAS,POR
+Shot Chart Detail,0020500454,51,2225,Tony Parker,1610612759,San Antonio Spurs,1,4,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,3,0,1,1,20060104,SAS,POR
+Shot Chart Detail,0020500454,70,2225,Tony Parker,1610612759,San Antonio Spurs,1,2,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,133,163,1,1,20060104,SAS,POR
+Shot Chart Detail,0020500454,199,2225,Tony Parker,1610612759,San Antonio Spurs,2,1,2,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,12,1,1,20060104,SAS,POR
+Shot Chart Detail,0020500454,219,2225,Tony Parker,1610612759,San Antonio Spurs,3,11,34,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,23,76,1,1,20060104,SAS,POR
+Shot Chart Detail,0020500454,259,2225,Tony Parker,1610612759,San Antonio Spurs,3,6,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,7,1,1,20060104,SAS,POR
+Shot Chart Detail,0020500454,281,2225,Tony Parker,1610612759,San Antonio Spurs,3,4,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-187,82,1,1,20060104,SAS,POR
+Shot Chart Detail,0020500454,300,2225,Tony Parker,1610612759,San Antonio Spurs,3,2,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,13,1,1,20060104,SAS,POR
+Shot Chart Detail,0020500466,16,2225,Tony Parker,1610612759,San Antonio Spurs,1,10,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,7,1,1,20060106,SAS,MIN
+Shot Chart Detail,0020500466,23,2225,Tony Parker,1610612759,San Antonio Spurs,1,8,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,2,1,1,20060106,SAS,MIN
+Shot Chart Detail,0020500466,31,2225,Tony Parker,1610612759,San Antonio Spurs,1,7,33,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,8,46,1,1,20060106,SAS,MIN
+Shot Chart Detail,0020500466,43,2225,Tony Parker,1610612759,San Antonio Spurs,1,5,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,0,1,1,20060106,SAS,MIN
+Shot Chart Detail,0020500466,67,2225,Tony Parker,1610612759,San Antonio Spurs,1,2,7,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-50,15,1,1,20060106,SAS,MIN
+Shot Chart Detail,0020500466,190,2225,Tony Parker,1610612759,San Antonio Spurs,2,0,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,0,1,1,20060106,SAS,MIN
+Shot Chart Detail,0020500466,243,2225,Tony Parker,1610612759,San Antonio Spurs,3,6,36,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-3,5,1,1,20060106,SAS,MIN
+Shot Chart Detail,0020500466,262,2225,Tony Parker,1610612759,San Antonio Spurs,3,4,23,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,10,1,1,20060106,SAS,MIN
+Shot Chart Detail,0020500466,277,2225,Tony Parker,1610612759,San Antonio Spurs,3,3,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,8,1,1,20060106,SAS,MIN
+Shot Chart Detail,0020500466,353,2225,Tony Parker,1610612759,San Antonio Spurs,4,6,10,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,0,48,1,1,20060106,SAS,MIN
+Shot Chart Detail,0020500466,378,2225,Tony Parker,1610612759,San Antonio Spurs,4,3,37,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,46,38,1,1,20060106,SAS,MIN
+Shot Chart Detail,0020500479,23,2225,Tony Parker,1610612759,San Antonio Spurs,1,9,10,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060107,PHX,SAS
+Shot Chart Detail,0020500479,63,2225,Tony Parker,1610612759,San Antonio Spurs,1,5,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060107,PHX,SAS
+Shot Chart Detail,0020500479,222,2225,Tony Parker,1610612759,San Antonio Spurs,2,1,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-166,5,1,1,20060107,PHX,SAS
+Shot Chart Detail,0020500479,230,2225,Tony Parker,1610612759,San Antonio Spurs,2,1,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-118,140,1,1,20060107,PHX,SAS
+Shot Chart Detail,0020500479,260,2225,Tony Parker,1610612759,San Antonio Spurs,3,9,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-184,72,1,1,20060107,PHX,SAS
+Shot Chart Detail,0020500479,263,2225,Tony Parker,1610612759,San Antonio Spurs,3,9,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060107,PHX,SAS
+Shot Chart Detail,0020500479,271,2225,Tony Parker,1610612759,San Antonio Spurs,3,8,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,136,161,1,1,20060107,PHX,SAS
+Shot Chart Detail,0020500479,295,2225,Tony Parker,1610612759,San Antonio Spurs,3,5,26,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,41,86,1,1,20060107,PHX,SAS
+Shot Chart Detail,0020500479,446,2225,Tony Parker,1610612759,San Antonio Spurs,4,1,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060107,PHX,SAS
+Shot Chart Detail,0020500497,21,2225,Tony Parker,1610612759,San Antonio Spurs,1,8,54,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,11,46,1,1,20060110,SAS,NJN
+Shot Chart Detail,0020500497,29,2225,Tony Parker,1610612759,San Antonio Spurs,1,7,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,3,1,1,20060110,SAS,NJN
+Shot Chart Detail,0020500497,35,2225,Tony Parker,1610612759,San Antonio Spurs,1,6,39,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,-1,1,1,20060110,SAS,NJN
+Shot Chart Detail,0020500497,105,2225,Tony Parker,1610612759,San Antonio Spurs,1,0,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,2,1,1,20060110,SAS,NJN
+Shot Chart Detail,0020500497,179,2225,Tony Parker,1610612759,San Antonio Spurs,2,3,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-131,183,1,1,20060110,SAS,NJN
+Shot Chart Detail,0020500497,216,2225,Tony Parker,1610612759,San Antonio Spurs,3,11,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-163,115,1,1,20060110,SAS,NJN
+Shot Chart Detail,0020500497,261,2225,Tony Parker,1610612759,San Antonio Spurs,3,5,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,7,1,1,20060110,SAS,NJN
+Shot Chart Detail,0020500497,274,2225,Tony Parker,1610612759,San Antonio Spurs,3,2,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,200,17,1,1,20060110,SAS,NJN
+Shot Chart Detail,0020500510,25,2225,Tony Parker,1610612759,San Antonio Spurs,1,8,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-10,168,1,1,20060112,SAS,DET
+Shot Chart Detail,0020500510,39,2225,Tony Parker,1610612759,San Antonio Spurs,1,7,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,5,1,1,20060112,SAS,DET
+Shot Chart Detail,0020500510,67,2225,Tony Parker,1610612759,San Antonio Spurs,1,4,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,5,1,1,20060112,SAS,DET
+Shot Chart Detail,0020500510,185,2225,Tony Parker,1610612759,San Antonio Spurs,2,1,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,17,1,1,20060112,SAS,DET
+Shot Chart Detail,0020500510,190,2225,Tony Parker,1610612759,San Antonio Spurs,2,0,9,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,7,1,1,20060112,SAS,DET
+Shot Chart Detail,0020500510,220,2225,Tony Parker,1610612759,San Antonio Spurs,3,9,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,140,115,1,1,20060112,SAS,DET
+Shot Chart Detail,0020500510,393,2225,Tony Parker,1610612759,San Antonio Spurs,4,2,3,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,17,1,1,20060112,SAS,DET
+Shot Chart Detail,0020500528,74,2225,Tony Parker,1610612759,San Antonio Spurs,1,2,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-11,18,1,1,20060114,SAS,MEM
+Shot Chart Detail,0020500528,89,2225,Tony Parker,1610612759,San Antonio Spurs,1,0,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,20,1,1,20060114,SAS,MEM
+Shot Chart Detail,0020500528,170,2225,Tony Parker,1610612759,San Antonio Spurs,2,4,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-99,158,1,1,20060114,SAS,MEM
+Shot Chart Detail,0020500528,258,2225,Tony Parker,1610612759,San Antonio Spurs,3,6,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-3,191,1,1,20060114,SAS,MEM
+Shot Chart Detail,0020500545,23,2225,Tony Parker,1610612759,San Antonio Spurs,1,9,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060116,MEM,SAS
+Shot Chart Detail,0020500545,49,2225,Tony Parker,1610612759,San Antonio Spurs,1,5,36,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060116,MEM,SAS
+Shot Chart Detail,0020500545,58,2225,Tony Parker,1610612759,San Antonio Spurs,1,4,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-143,156,1,1,20060116,MEM,SAS
+Shot Chart Detail,0020500545,69,2225,Tony Parker,1610612759,San Antonio Spurs,1,3,11,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060116,MEM,SAS
+Shot Chart Detail,0020500545,198,2225,Tony Parker,1610612759,San Antonio Spurs,2,1,38,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060116,MEM,SAS
+Shot Chart Detail,0020500545,238,2225,Tony Parker,1610612759,San Antonio Spurs,3,9,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060116,MEM,SAS
+Shot Chart Detail,0020500545,250,2225,Tony Parker,1610612759,San Antonio Spurs,3,7,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060116,MEM,SAS
+Shot Chart Detail,0020500545,292,2225,Tony Parker,1610612759,San Antonio Spurs,3,2,47,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,0,40,1,1,20060116,MEM,SAS
+Shot Chart Detail,0020500545,297,2225,Tony Parker,1610612759,San Antonio Spurs,3,1,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060116,MEM,SAS
+Shot Chart Detail,0020500545,304,2225,Tony Parker,1610612759,San Antonio Spurs,3,1,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060116,MEM,SAS
+Shot Chart Detail,0020500545,411,2225,Tony Parker,1610612759,San Antonio Spurs,4,2,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060116,MEM,SAS
+Shot Chart Detail,0020500545,440,2225,Tony Parker,1610612759,San Antonio Spurs,4,1,29,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060116,MEM,SAS
+Shot Chart Detail,0020500558,32,2225,Tony Parker,1610612759,San Antonio Spurs,1,6,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-135,128,1,1,20060118,SAS,MIL
+Shot Chart Detail,0020500558,44,2225,Tony Parker,1610612759,San Antonio Spurs,1,4,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-52,192,1,1,20060118,SAS,MIL
+Shot Chart Detail,0020500558,75,2225,Tony Parker,1610612759,San Antonio Spurs,1,0,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,11,18,1,1,20060118,SAS,MIL
+Shot Chart Detail,0020500558,254,2225,Tony Parker,1610612759,San Antonio Spurs,3,6,35,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,2,1,1,20060118,SAS,MIL
+Shot Chart Detail,0020500558,308,2225,Tony Parker,1610612759,San Antonio Spurs,3,1,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,3,1,1,20060118,SAS,MIL
+Shot Chart Detail,0020500558,368,2225,Tony Parker,1610612759,San Antonio Spurs,4,5,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,0,1,1,20060118,SAS,MIL
+Shot Chart Detail,0020500569,18,2225,Tony Parker,1610612759,San Antonio Spurs,1,9,16,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,61,15,1,1,20060120,MIA,SAS
+Shot Chart Detail,0020500569,34,2225,Tony Parker,1610612759,San Antonio Spurs,1,7,12,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,18,82,1,1,20060120,MIA,SAS
+Shot Chart Detail,0020500569,80,2225,Tony Parker,1610612759,San Antonio Spurs,1,2,5,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060120,MIA,SAS
+Shot Chart Detail,0020500569,109,2225,Tony Parker,1610612759,San Antonio Spurs,1,0,0,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,-13,1,1,20060120,MIA,SAS
+Shot Chart Detail,0020500569,197,2225,Tony Parker,1610612759,San Antonio Spurs,2,3,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-107,150,1,1,20060120,MIA,SAS
+Shot Chart Detail,0020500569,199,2225,Tony Parker,1610612759,San Antonio Spurs,2,2,58,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060120,MIA,SAS
+Shot Chart Detail,0020500569,219,2225,Tony Parker,1610612759,San Antonio Spurs,2,1,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-143,163,1,1,20060120,MIA,SAS
+Shot Chart Detail,0020500569,259,2225,Tony Parker,1610612759,San Antonio Spurs,3,11,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060120,MIA,SAS
+Shot Chart Detail,0020500569,350,2225,Tony Parker,1610612759,San Antonio Spurs,3,2,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,200,140,1,1,20060120,MIA,SAS
+Shot Chart Detail,0020500569,358,2225,Tony Parker,1610612759,San Antonio Spurs,3,1,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,120,186,1,1,20060120,MIA,SAS
+Shot Chart Detail,0020500569,440,2225,Tony Parker,1610612759,San Antonio Spurs,4,4,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,56,173,1,1,20060120,MIA,SAS
+Shot Chart Detail,0020500569,462,2225,Tony Parker,1610612759,San Antonio Spurs,4,2,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,89,184,1,1,20060120,MIA,SAS
+Shot Chart Detail,0020500569,482,2225,Tony Parker,1610612759,San Antonio Spurs,4,0,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-156,133,1,1,20060120,MIA,SAS
+Shot Chart Detail,0020500583,14,2225,Tony Parker,1610612759,San Antonio Spurs,1,9,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,2,1,1,20060122,SAS,DEN
+Shot Chart Detail,0020500583,187,2225,Tony Parker,1610612759,San Antonio Spurs,2,2,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,13,1,1,20060122,SAS,DEN
+Shot Chart Detail,0020500583,250,2225,Tony Parker,1610612759,San Antonio Spurs,3,8,55,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,8,1,1,20060122,SAS,DEN
+Shot Chart Detail,0020500583,429,2225,Tony Parker,1610612759,San Antonio Spurs,4,1,33,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,31,56,1,1,20060122,SAS,DEN
+Shot Chart Detail,0020500603,36,2225,Tony Parker,1610612759,San Antonio Spurs,1,7,34,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,12,1,1,20060124,SAS,CHA
+Shot Chart Detail,0020500603,53,2225,Tony Parker,1610612759,San Antonio Spurs,1,5,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,95,158,1,1,20060124,SAS,CHA
+Shot Chart Detail,0020500603,240,2225,Tony Parker,1610612759,San Antonio Spurs,3,8,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,12,1,1,20060124,SAS,CHA
+Shot Chart Detail,0020500603,272,2225,Tony Parker,1610612759,San Antonio Spurs,3,5,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,161,61,1,1,20060124,SAS,CHA
+Shot Chart Detail,0020500609,49,2225,Tony Parker,1610612759,San Antonio Spurs,1,5,59,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060125,NOK,SAS
+Shot Chart Detail,0020500609,131,2225,Tony Parker,1610612759,San Antonio Spurs,2,10,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060125,NOK,SAS
+Shot Chart Detail,0020500609,147,2225,Tony Parker,1610612759,San Antonio Spurs,2,8,43,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,64,94,1,1,20060125,NOK,SAS
+Shot Chart Detail,0020500609,359,2225,Tony Parker,1610612759,San Antonio Spurs,4,10,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,95,184,1,1,20060125,NOK,SAS
+Shot Chart Detail,0020500609,375,2225,Tony Parker,1610612759,San Antonio Spurs,4,8,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060125,NOK,SAS
+Shot Chart Detail,0020500636,54,2225,Tony Parker,1610612759,San Antonio Spurs,1,5,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,166,-6,1,1,20060128,SAS,MIN
+Shot Chart Detail,0020500636,57,2225,Tony Parker,1610612759,San Antonio Spurs,1,4,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,13,1,1,20060128,SAS,MIN
+Shot Chart Detail,0020500636,96,2225,Tony Parker,1610612759,San Antonio Spurs,1,0,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,5,1,1,20060128,SAS,MIN
+Shot Chart Detail,0020500636,196,2225,Tony Parker,1610612759,San Antonio Spurs,2,3,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,13,1,1,20060128,SAS,MIN
+Shot Chart Detail,0020500636,212,2225,Tony Parker,1610612759,San Antonio Spurs,2,2,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,28,1,1,20060128,SAS,MIN
+Shot Chart Detail,0020500636,220,2225,Tony Parker,1610612759,San Antonio Spurs,2,1,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,176,95,1,1,20060128,SAS,MIN
+Shot Chart Detail,0020500636,252,2225,Tony Parker,1610612759,San Antonio Spurs,3,10,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,17,1,1,20060128,SAS,MIN
+Shot Chart Detail,0020500636,264,2225,Tony Parker,1610612759,San Antonio Spurs,3,9,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,2,1,1,20060128,SAS,MIN
+Shot Chart Detail,0020500636,294,2225,Tony Parker,1610612759,San Antonio Spurs,3,6,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,149,-24,1,1,20060128,SAS,MIN
+Shot Chart Detail,0020500636,334,2225,Tony Parker,1610612759,San Antonio Spurs,3,0,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,15,1,1,20060128,SAS,MIN
+Shot Chart Detail,0020500636,414,2225,Tony Parker,1610612759,San Antonio Spurs,4,5,2,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,33,46,1,1,20060128,SAS,MIN
+Shot Chart Detail,0020500653,10,2225,Tony Parker,1610612759,San Antonio Spurs,1,9,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-204,-16,1,1,20060130,UTA,SAS
+Shot Chart Detail,0020500653,148,2225,Tony Parker,1610612759,San Antonio Spurs,2,5,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060130,UTA,SAS
+Shot Chart Detail,0020500653,159,2225,Tony Parker,1610612759,San Antonio Spurs,2,4,3,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,62,89,1,1,20060130,UTA,SAS
+Shot Chart Detail,0020500653,182,2225,Tony Parker,1610612759,San Antonio Spurs,2,2,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,136,161,1,1,20060130,UTA,SAS
+Shot Chart Detail,0020500653,221,2225,Tony Parker,1610612759,San Antonio Spurs,3,9,36,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060130,UTA,SAS
+Shot Chart Detail,0020500653,425,2225,Tony Parker,1610612759,San Antonio Spurs,4,0,57,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,36,127,1,1,20060130,UTA,SAS
+Shot Chart Detail,0020500672,2,2225,Tony Parker,1610612759,San Antonio Spurs,1,11,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060201,POR,SAS
+Shot Chart Detail,0020500672,22,2225,Tony Parker,1610612759,San Antonio Spurs,1,9,3,Made Shot,Driving Finger Roll Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-26,28,1,1,20060201,POR,SAS
+Shot Chart Detail,0020500672,80,2225,Tony Parker,1610612759,San Antonio Spurs,1,2,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060201,POR,SAS
+Shot Chart Detail,0020500672,100,2225,Tony Parker,1610612759,San Antonio Spurs,1,0,6,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-20,38,1,1,20060201,POR,SAS
+Shot Chart Detail,0020500672,186,2225,Tony Parker,1610612759,San Antonio Spurs,2,2,16,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060201,POR,SAS
+Shot Chart Detail,0020500672,195,2225,Tony Parker,1610612759,San Antonio Spurs,2,1,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-145,150,1,1,20060201,POR,SAS
+Shot Chart Detail,0020500672,394,2225,Tony Parker,1610612759,San Antonio Spurs,4,6,29,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,46,30,1,1,20060201,POR,SAS
+Shot Chart Detail,0020500672,406,2225,Tony Parker,1610612759,San Antonio Spurs,4,5,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060201,POR,SAS
+Shot Chart Detail,0020500672,422,2225,Tony Parker,1610612759,San Antonio Spurs,4,3,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-89,138,1,1,20060201,POR,SAS
+Shot Chart Detail,0020500675,32,2225,Tony Parker,1610612759,San Antonio Spurs,1,7,55,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,12,1,1,20060202,GSW,SAS
+Shot Chart Detail,0020500675,46,2225,Tony Parker,1610612759,San Antonio Spurs,1,6,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-113,143,1,1,20060202,GSW,SAS
+Shot Chart Detail,0020500675,48,2225,Tony Parker,1610612759,San Antonio Spurs,1,5,27,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-28,38,1,1,20060202,GSW,SAS
+Shot Chart Detail,0020500675,218,2225,Tony Parker,1610612759,San Antonio Spurs,2,1,8,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,18,1,1,20060202,GSW,SAS
+Shot Chart Detail,0020500675,258,2225,Tony Parker,1610612759,San Antonio Spurs,3,9,18,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,17,1,1,20060202,GSW,SAS
+Shot Chart Detail,0020500675,327,2225,Tony Parker,1610612759,San Antonio Spurs,3,2,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,146,161,1,1,20060202,GSW,SAS
+Shot Chart Detail,0020500675,387,2225,Tony Parker,1610612759,San Antonio Spurs,4,9,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,154,115,1,1,20060202,GSW,SAS
+Shot Chart Detail,0020500675,410,2225,Tony Parker,1610612759,San Antonio Spurs,4,6,11,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,12,1,1,20060202,GSW,SAS
+Shot Chart Detail,0020500711,3,2225,Tony Parker,1610612759,San Antonio Spurs,1,11,45,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-64,53,1,1,20060208,TOR,SAS
+Shot Chart Detail,0020500711,26,2225,Tony Parker,1610612759,San Antonio Spurs,1,8,52,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060208,TOR,SAS
+Shot Chart Detail,0020500711,34,2225,Tony Parker,1610612759,San Antonio Spurs,1,7,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060208,TOR,SAS
+Shot Chart Detail,0020500711,155,2225,Tony Parker,1610612759,San Antonio Spurs,2,7,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,148,28,1,1,20060208,TOR,SAS
+Shot Chart Detail,0020500711,159,2225,Tony Parker,1610612759,San Antonio Spurs,2,7,7,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060208,TOR,SAS
+Shot Chart Detail,0020500711,277,2225,Tony Parker,1610612759,San Antonio Spurs,3,6,39,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060208,TOR,SAS
+Shot Chart Detail,0020500711,301,2225,Tony Parker,1610612759,San Antonio Spurs,3,4,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-161,46,1,1,20060208,TOR,SAS
+Shot Chart Detail,0020500711,313,2225,Tony Parker,1610612759,San Antonio Spurs,3,3,5,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-133,15,1,1,20060208,TOR,SAS
+Shot Chart Detail,0020500711,325,2225,Tony Parker,1610612759,San Antonio Spurs,3,1,3,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,75,0,1,1,20060208,TOR,SAS
+Shot Chart Detail,0020500711,333,2225,Tony Parker,1610612759,San Antonio Spurs,3,0,1,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060208,TOR,SAS
+Shot Chart Detail,0020500711,392,2225,Tony Parker,1610612759,San Antonio Spurs,4,6,41,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,6,69,1,1,20060208,TOR,SAS
+Shot Chart Detail,0020500711,423,2225,Tony Parker,1610612759,San Antonio Spurs,4,3,58,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060208,TOR,SAS
+Shot Chart Detail,0020500728,16,2225,Tony Parker,1610612759,San Antonio Spurs,1,9,20,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060210,NJN,SAS
+Shot Chart Detail,0020500728,18,2225,Tony Parker,1610612759,San Antonio Spurs,1,8,46,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060210,NJN,SAS
+Shot Chart Detail,0020500728,58,2225,Tony Parker,1610612759,San Antonio Spurs,1,4,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060210,NJN,SAS
+Shot Chart Detail,0020500728,139,2225,Tony Parker,1610612759,San Antonio Spurs,2,7,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060210,NJN,SAS
+Shot Chart Detail,0020500728,155,2225,Tony Parker,1610612759,San Antonio Spurs,2,5,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060210,NJN,SAS
+Shot Chart Detail,0020500728,207,2225,Tony Parker,1610612759,San Antonio Spurs,3,10,47,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060210,NJN,SAS
+Shot Chart Detail,0020500728,342,2225,Tony Parker,1610612759,San Antonio Spurs,4,6,49,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060210,NJN,SAS
+Shot Chart Detail,0020500728,393,2225,Tony Parker,1610612759,San Antonio Spurs,4,1,9,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060210,NJN,SAS
+Shot Chart Detail,0020500744,66,2225,Tony Parker,1610612759,San Antonio Spurs,1,3,15,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,34,35,1,1,20060212,IND,SAS
+Shot Chart Detail,0020500744,81,2225,Tony Parker,1610612759,San Antonio Spurs,1,1,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,11,17,1,1,20060212,IND,SAS
+Shot Chart Detail,0020500744,205,2225,Tony Parker,1610612759,San Antonio Spurs,2,1,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,5,1,1,20060212,IND,SAS
+Shot Chart Detail,0020500744,258,2225,Tony Parker,1610612759,San Antonio Spurs,3,6,43,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,13,1,1,20060212,IND,SAS
+Shot Chart Detail,0020500744,307,2225,Tony Parker,1610612759,San Antonio Spurs,3,1,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-46,179,1,1,20060212,IND,SAS
+Shot Chart Detail,0020500744,419,2225,Tony Parker,1610612759,San Antonio Spurs,4,1,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,5,20,1,1,20060212,IND,SAS
+Shot Chart Detail,0020500758,46,2225,Tony Parker,1610612759,San Antonio Spurs,1,5,19,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,-3,1,1,20060213,CLE,SAS
+Shot Chart Detail,0020500758,174,2225,Tony Parker,1610612759,San Antonio Spurs,2,4,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-174,105,1,1,20060213,CLE,SAS
+Shot Chart Detail,0020500764,6,2225,Tony Parker,1610612759,San Antonio Spurs,1,11,21,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060215,PHI,SAS
+Shot Chart Detail,0020500764,20,2225,Tony Parker,1610612759,San Antonio Spurs,1,9,40,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060215,PHI,SAS
+Shot Chart Detail,0020500764,119,2225,Tony Parker,1610612759,San Antonio Spurs,2,10,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060215,PHI,SAS
+Shot Chart Detail,0020500764,136,2225,Tony Parker,1610612759,San Antonio Spurs,2,8,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060215,PHI,SAS
+Shot Chart Detail,0020500764,144,2225,Tony Parker,1610612759,San Antonio Spurs,2,8,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,0,204,1,1,20060215,PHI,SAS
+Shot Chart Detail,0020500764,173,2225,Tony Parker,1610612759,San Antonio Spurs,2,4,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-95,184,1,1,20060215,PHI,SAS
+Shot Chart Detail,0020500764,237,2225,Tony Parker,1610612759,San Antonio Spurs,3,7,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-174,-18,1,1,20060215,PHI,SAS
+Shot Chart Detail,0020500764,273,2225,Tony Parker,1610612759,San Antonio Spurs,3,4,4,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060215,PHI,SAS
+Shot Chart Detail,0020500764,296,2225,Tony Parker,1610612759,San Antonio Spurs,3,0,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060215,PHI,SAS
+Shot Chart Detail,0020500764,362,2225,Tony Parker,1610612759,San Antonio Spurs,4,6,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,205,-6,1,1,20060215,PHI,SAS
+Shot Chart Detail,0020500786,6,2225,Tony Parker,1610612759,San Antonio Spurs,1,11,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,-5,1,1,20060221,SAS,SEA
+Shot Chart Detail,0020500786,14,2225,Tony Parker,1610612759,San Antonio Spurs,1,10,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-3,0,1,1,20060221,SAS,SEA
+Shot Chart Detail,0020500786,17,2225,Tony Parker,1610612759,San Antonio Spurs,1,10,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,3,1,1,20060221,SAS,SEA
+Shot Chart Detail,0020500786,72,2225,Tony Parker,1610612759,San Antonio Spurs,1,4,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,8,5,1,1,20060221,SAS,SEA
+Shot Chart Detail,0020500786,95,2225,Tony Parker,1610612759,San Antonio Spurs,1,1,15,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,28,1,1,20060221,SAS,SEA
+Shot Chart Detail,0020500786,170,2225,Tony Parker,1610612759,San Antonio Spurs,2,7,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,5,1,1,20060221,SAS,SEA
+Shot Chart Detail,0020500786,206,2225,Tony Parker,1610612759,San Antonio Spurs,2,4,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,3,2,1,1,20060221,SAS,SEA
+Shot Chart Detail,0020500786,243,2225,Tony Parker,1610612759,San Antonio Spurs,2,0,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,2,1,1,20060221,SAS,SEA
+Shot Chart Detail,0020500786,278,2225,Tony Parker,1610612759,San Antonio Spurs,3,9,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,8,1,1,20060221,SAS,SEA
+Shot Chart Detail,0020500786,284,2225,Tony Parker,1610612759,San Antonio Spurs,3,8,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,8,1,1,20060221,SAS,SEA
+Shot Chart Detail,0020500786,417,2225,Tony Parker,1610612759,San Antonio Spurs,4,5,27,Made Shot,Driving Finger Roll Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,29,38,1,1,20060221,SAS,SEA
+Shot Chart Detail,0020500786,420,2225,Tony Parker,1610612759,San Antonio Spurs,4,5,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,7,1,1,20060221,SAS,SEA
+Shot Chart Detail,0020500786,428,2225,Tony Parker,1610612759,San Antonio Spurs,4,4,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,128,145,1,1,20060221,SAS,SEA
+Shot Chart Detail,0020500795,26,2225,Tony Parker,1610612759,San Antonio Spurs,1,8,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051218,NOK,SAS
+Shot Chart Detail,0020500795,38,2225,Tony Parker,1610612759,San Antonio Spurs,1,7,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051218,NOK,SAS
+Shot Chart Detail,0020500795,227,2225,Tony Parker,1610612759,San Antonio Spurs,2,1,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051218,NOK,SAS
+Shot Chart Detail,0020500795,231,2225,Tony Parker,1610612759,San Antonio Spurs,2,0,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-92,84,1,1,20051218,NOK,SAS
+Shot Chart Detail,0020500795,274,2225,Tony Parker,1610612759,San Antonio Spurs,3,6,50,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051218,NOK,SAS
+Shot Chart Detail,0020500795,280,2225,Tony Parker,1610612759,San Antonio Spurs,3,6,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,149,56,1,1,20051218,NOK,SAS
+Shot Chart Detail,0020500795,340,2225,Tony Parker,1610612759,San Antonio Spurs,3,2,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,10,219,1,1,20051218,NOK,SAS
+Shot Chart Detail,0020500795,473,2225,Tony Parker,1610612759,San Antonio Spurs,4,1,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051218,NOK,SAS
+Shot Chart Detail,0020500807,34,2225,Tony Parker,1610612759,San Antonio Spurs,1,7,45,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060224,MEM,SAS
+Shot Chart Detail,0020500807,169,2225,Tony Parker,1610612759,San Antonio Spurs,2,5,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060224,MEM,SAS
+Shot Chart Detail,0020500807,252,2225,Tony Parker,1610612759,San Antonio Spurs,3,8,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,120,112,1,1,20060224,MEM,SAS
+Shot Chart Detail,0020500807,432,2225,Tony Parker,1610612759,San Antonio Spurs,4,3,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,92,128,1,1,20060224,MEM,SAS
+Shot Chart Detail,0020500819,28,2225,Tony Parker,1610612759,San Antonio Spurs,1,8,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-130,164,1,1,20060225,SAS,GSW
+Shot Chart Detail,0020500819,81,2225,Tony Parker,1610612759,San Antonio Spurs,1,2,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-146,104,1,1,20060225,SAS,GSW
+Shot Chart Detail,0020500819,190,2225,Tony Parker,1610612759,San Antonio Spurs,2,3,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,82,191,1,1,20060225,SAS,GSW
+Shot Chart Detail,0020500819,223,2225,Tony Parker,1610612759,San Antonio Spurs,2,1,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,8,5,1,1,20060225,SAS,GSW
+Shot Chart Detail,0020500819,295,2225,Tony Parker,1610612759,San Antonio Spurs,3,5,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,7,1,1,20060225,SAS,GSW
+Shot Chart Detail,0020500834,19,2225,Tony Parker,1610612759,San Antonio Spurs,1,9,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,3,1,1,20060227,SAS,NYK
+Shot Chart Detail,0020500834,70,2225,Tony Parker,1610612759,San Antonio Spurs,1,4,34,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,15,1,1,20060227,SAS,NYK
+Shot Chart Detail,0020500834,177,2225,Tony Parker,1610612759,San Antonio Spurs,2,6,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,3,1,1,20060227,SAS,NYK
+Shot Chart Detail,0020500834,215,2225,Tony Parker,1610612759,San Antonio Spurs,2,3,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-84,171,1,1,20060227,SAS,NYK
+Shot Chart Detail,0020500834,226,2225,Tony Parker,1610612759,San Antonio Spurs,2,1,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,5,1,1,20060227,SAS,NYK
+Shot Chart Detail,0020500834,257,2225,Tony Parker,1610612759,San Antonio Spurs,3,10,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-99,164,1,1,20060227,SAS,NYK
+Shot Chart Detail,0020500834,315,2225,Tony Parker,1610612759,San Antonio Spurs,3,5,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,15,1,1,20060227,SAS,NYK
+Shot Chart Detail,0020500856,73,2225,Tony Parker,1610612759,San Antonio Spurs,1,4,3,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-11,23,1,1,20060302,SAS,DAL
+Shot Chart Detail,0020500856,175,2225,Tony Parker,1610612759,San Antonio Spurs,2,5,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-182,30,1,1,20060302,SAS,DAL
+Shot Chart Detail,0020500856,182,2225,Tony Parker,1610612759,San Antonio Spurs,2,4,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,7,1,1,20060302,SAS,DAL
+Shot Chart Detail,0020500856,210,2225,Tony Parker,1610612759,San Antonio Spurs,2,1,35,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,8,1,1,20060302,SAS,DAL
+Shot Chart Detail,0020500856,212,2225,Tony Parker,1610612759,San Antonio Spurs,2,1,14,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-3,0,1,1,20060302,SAS,DAL
+Shot Chart Detail,0020500856,263,2225,Tony Parker,1610612759,San Antonio Spurs,3,8,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-195,8,1,1,20060302,SAS,DAL
+Shot Chart Detail,0020500856,328,2225,Tony Parker,1610612759,San Antonio Spurs,3,1,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,7,1,1,20060302,SAS,DAL
+Shot Chart Detail,0020500856,398,2225,Tony Parker,1610612759,San Antonio Spurs,4,5,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-128,158,1,1,20060302,SAS,DAL
+Shot Chart Detail,0020500871,80,2225,Tony Parker,1610612759,San Antonio Spurs,1,2,58,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,0,1,1,20060304,SAS,POR
+Shot Chart Detail,0020500871,169,2225,Tony Parker,1610612759,San Antonio Spurs,2,4,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,115,135,1,1,20060304,SAS,POR
+Shot Chart Detail,0020500871,203,2225,Tony Parker,1610612759,San Antonio Spurs,2,0,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-99,135,1,1,20060304,SAS,POR
+Shot Chart Detail,0020500871,255,2225,Tony Parker,1610612759,San Antonio Spurs,3,5,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,3,1,1,20060304,SAS,POR
+Shot Chart Detail,0020500871,268,2225,Tony Parker,1610612759,San Antonio Spurs,3,4,26,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,10,1,1,20060304,SAS,POR
+Shot Chart Detail,0020500871,286,2225,Tony Parker,1610612759,San Antonio Spurs,3,2,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,2,1,1,20060304,SAS,POR
+Shot Chart Detail,0020500871,289,2225,Tony Parker,1610612759,San Antonio Spurs,3,1,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,8,5,1,1,20060304,SAS,POR
+Shot Chart Detail,0020500888,36,2225,Tony Parker,1610612759,San Antonio Spurs,1,6,21,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-80,58,1,1,20060306,LAL,SAS
+Shot Chart Detail,0020500888,40,2225,Tony Parker,1610612759,San Antonio Spurs,1,5,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060306,LAL,SAS
+Shot Chart Detail,0020500888,48,2225,Tony Parker,1610612759,San Antonio Spurs,1,4,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060306,LAL,SAS
+Shot Chart Detail,0020500888,237,2225,Tony Parker,1610612759,San Antonio Spurs,3,8,32,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060306,LAL,SAS
+Shot Chart Detail,0020500888,255,2225,Tony Parker,1610612759,San Antonio Spurs,3,6,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060306,LAL,SAS
+Shot Chart Detail,0020500888,259,2225,Tony Parker,1610612759,San Antonio Spurs,3,5,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060306,LAL,SAS
+Shot Chart Detail,0020500888,360,2225,Tony Parker,1610612759,San Antonio Spurs,4,6,55,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060306,LAL,SAS
+Shot Chart Detail,0020500888,402,2225,Tony Parker,1610612759,San Antonio Spurs,4,4,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,72,181,1,1,20060306,LAL,SAS
+Shot Chart Detail,0020500888,404,2225,Tony Parker,1610612759,San Antonio Spurs,4,3,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-199,-19,1,1,20060306,LAL,SAS
+Shot Chart Detail,0020500888,407,2225,Tony Parker,1610612759,San Antonio Spurs,4,2,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,67,201,1,1,20060306,LAL,SAS
+Shot Chart Detail,0020500896,127,2225,Tony Parker,1610612759,San Antonio Spurs,2,9,44,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,15,80,132,1,1,20060307,LAC,SAS
+Shot Chart Detail,0020500896,192,2225,Tony Parker,1610612759,San Antonio Spurs,2,2,50,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060307,LAC,SAS
+Shot Chart Detail,0020500896,202,2225,Tony Parker,1610612759,San Antonio Spurs,2,1,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-71,169,1,1,20060307,LAC,SAS
+Shot Chart Detail,0020500896,232,2225,Tony Parker,1610612759,San Antonio Spurs,3,11,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-64,163,1,1,20060307,LAC,SAS
+Shot Chart Detail,0020500896,239,2225,Tony Parker,1610612759,San Antonio Spurs,3,10,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060307,LAC,SAS
+Shot Chart Detail,0020500896,257,2225,Tony Parker,1610612759,San Antonio Spurs,3,7,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-72,158,1,1,20060307,LAC,SAS
+Shot Chart Detail,0020500896,259,2225,Tony Parker,1610612759,San Antonio Spurs,3,6,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,90,184,1,1,20060307,LAC,SAS
+Shot Chart Detail,0020500896,282,2225,Tony Parker,1610612759,San Antonio Spurs,3,4,27,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,117,169,1,1,20060307,LAC,SAS
+Shot Chart Detail,0020500896,369,2225,Tony Parker,1610612759,San Antonio Spurs,4,6,0,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060307,LAC,SAS
+Shot Chart Detail,0020500909,9,2225,Tony Parker,1610612759,San Antonio Spurs,1,10,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,10,219,1,1,20060309,PHX,SAS
+Shot Chart Detail,0020500909,13,2225,Tony Parker,1610612759,San Antonio Spurs,1,9,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,16,199,1,1,20060309,PHX,SAS
+Shot Chart Detail,0020500909,25,2225,Tony Parker,1610612759,San Antonio Spurs,1,8,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-3,219,1,1,20060309,PHX,SAS
+Shot Chart Detail,0020500909,39,2225,Tony Parker,1610612759,San Antonio Spurs,1,6,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,46,207,1,1,20060309,PHX,SAS
+Shot Chart Detail,0020500909,52,2225,Tony Parker,1610612759,San Antonio Spurs,1,4,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-136,133,1,1,20060309,PHX,SAS
+Shot Chart Detail,0020500909,149,2225,Tony Parker,1610612759,San Antonio Spurs,2,5,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-166,40,1,1,20060309,PHX,SAS
+Shot Chart Detail,0020500909,170,2225,Tony Parker,1610612759,San Antonio Spurs,2,2,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-151,128,1,1,20060309,PHX,SAS
+Shot Chart Detail,0020500909,182,2225,Tony Parker,1610612759,San Antonio Spurs,2,0,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,8,204,1,1,20060309,PHX,SAS
+Shot Chart Detail,0020500909,203,2225,Tony Parker,1610612759,San Antonio Spurs,3,10,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060309,PHX,SAS
+Shot Chart Detail,0020500909,209,2225,Tony Parker,1610612759,San Antonio Spurs,3,9,22,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060309,PHX,SAS
+Shot Chart Detail,0020500909,242,2225,Tony Parker,1610612759,San Antonio Spurs,3,6,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-120,164,1,1,20060309,PHX,SAS
+Shot Chart Detail,0020500909,286,2225,Tony Parker,1610612759,San Antonio Spurs,3,1,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,79,199,1,1,20060309,PHX,SAS
+Shot Chart Detail,0020500916,49,2225,Tony Parker,1610612759,San Antonio Spurs,1,4,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,0,1,1,20060310,SAS,LAL
+Shot Chart Detail,0020500916,219,2225,Tony Parker,1610612759,San Antonio Spurs,3,10,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-191,7,1,1,20060310,SAS,LAL
+Shot Chart Detail,0020500916,244,2225,Tony Parker,1610612759,San Antonio Spurs,3,6,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-39,207,1,1,20060310,SAS,LAL
+Shot Chart Detail,0020500916,389,2225,Tony Parker,1610612759,San Antonio Spurs,4,2,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-5,189,1,1,20060310,SAS,LAL
+Shot Chart Detail,0020500928,154,2225,Tony Parker,1610612759,San Antonio Spurs,2,6,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-112,163,1,1,20060312,SAS,HOU
+Shot Chart Detail,0020500928,234,2225,Tony Parker,1610612759,San Antonio Spurs,3,8,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,140,91,1,1,20060312,SAS,HOU
+Shot Chart Detail,0020500928,264,2225,Tony Parker,1610612759,San Antonio Spurs,3,4,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-61,151,1,1,20060312,SAS,HOU
+Shot Chart Detail,0020500928,282,2225,Tony Parker,1610612759,San Antonio Spurs,3,1,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,8,1,1,20060312,SAS,HOU
+Shot Chart Detail,0020500947,13,2225,Tony Parker,1610612759,San Antonio Spurs,1,10,36,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,5,12,1,1,20060314,SAS,NOK
+Shot Chart Detail,0020500947,31,2225,Tony Parker,1610612759,San Antonio Spurs,1,7,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-133,122,1,1,20060314,SAS,NOK
+Shot Chart Detail,0020500947,36,2225,Tony Parker,1610612759,San Antonio Spurs,1,6,42,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-5,69,1,1,20060314,SAS,NOK
+Shot Chart Detail,0020500947,64,2225,Tony Parker,1610612759,San Antonio Spurs,1,3,34,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-15,18,1,1,20060314,SAS,NOK
+Shot Chart Detail,0020500947,189,2225,Tony Parker,1610612759,San Antonio Spurs,2,4,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,2,1,1,20060314,SAS,NOK
+Shot Chart Detail,0020500947,210,2225,Tony Parker,1610612759,San Antonio Spurs,2,2,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,3,1,1,20060314,SAS,NOK
+Shot Chart Detail,0020500947,273,2225,Tony Parker,1610612759,San Antonio Spurs,3,7,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-6,17,1,1,20060314,SAS,NOK
+Shot Chart Detail,0020500947,305,2225,Tony Parker,1610612759,San Antonio Spurs,3,3,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,8,1,1,20060314,SAS,NOK
+Shot Chart Detail,0020500972,71,2225,Tony Parker,1610612759,San Antonio Spurs,1,3,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,8,8,1,1,20060317,SAS,PHX
+Shot Chart Detail,0020500972,262,2225,Tony Parker,1610612759,San Antonio Spurs,3,8,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,8,1,1,20060317,SAS,PHX
+Shot Chart Detail,0020500972,282,2225,Tony Parker,1610612759,San Antonio Spurs,3,6,44,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,56,10,1,1,20060317,SAS,PHX
+Shot Chart Detail,0020500972,414,2225,Tony Parker,1610612759,San Antonio Spurs,4,4,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-174,15,1,1,20060317,SAS,PHX
+Shot Chart Detail,0020500972,428,2225,Tony Parker,1610612759,San Antonio Spurs,4,2,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-172,8,1,1,20060317,SAS,PHX
+Shot Chart Detail,0020500972,431,2225,Tony Parker,1610612759,San Antonio Spurs,4,1,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-141,94,1,1,20060317,SAS,PHX
+Shot Chart Detail,0020500978,3,2225,Tony Parker,1610612759,San Antonio Spurs,1,11,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060318,HOU,SAS
+Shot Chart Detail,0020500978,50,2225,Tony Parker,1610612759,San Antonio Spurs,1,5,24,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060318,HOU,SAS
+Shot Chart Detail,0020500978,147,2225,Tony Parker,1610612759,San Antonio Spurs,2,7,29,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060318,HOU,SAS
+Shot Chart Detail,0020500978,166,2225,Tony Parker,1610612759,San Antonio Spurs,2,4,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-23,214,1,1,20060318,HOU,SAS
+Shot Chart Detail,0020500978,188,2225,Tony Parker,1610612759,San Antonio Spurs,2,0,53,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060318,HOU,SAS
+Shot Chart Detail,0020500978,227,2225,Tony Parker,1610612759,San Antonio Spurs,3,8,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060318,HOU,SAS
+Shot Chart Detail,0020500978,241,2225,Tony Parker,1610612759,San Antonio Spurs,3,7,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-156,158,1,1,20060318,HOU,SAS
+Shot Chart Detail,0020500978,267,2225,Tony Parker,1610612759,San Antonio Spurs,3,3,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,100,166,1,1,20060318,HOU,SAS
+Shot Chart Detail,0020500978,272,2225,Tony Parker,1610612759,San Antonio Spurs,3,2,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-16,206,1,1,20060318,HOU,SAS
+Shot Chart Detail,0020500978,398,2225,Tony Parker,1610612759,San Antonio Spurs,4,3,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060318,HOU,SAS
+Shot Chart Detail,0020500999,5,2225,Tony Parker,1610612759,San Antonio Spurs,1,11,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,3,7,1,1,20060321,SAS,GSW
+Shot Chart Detail,0020500999,25,2225,Tony Parker,1610612759,San Antonio Spurs,1,8,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-110,171,1,1,20060321,SAS,GSW
+Shot Chart Detail,0020500999,50,2225,Tony Parker,1610612759,San Antonio Spurs,1,5,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,21,192,94,1,1,20060321,SAS,GSW
+Shot Chart Detail,0020500999,193,2225,Tony Parker,1610612759,San Antonio Spurs,2,2,50,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,5,1,1,20060321,SAS,GSW
+Shot Chart Detail,0020500999,250,2225,Tony Parker,1610612759,San Antonio Spurs,3,9,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,133,135,1,1,20060321,SAS,GSW
+Shot Chart Detail,0020500999,417,2225,Tony Parker,1610612759,San Antonio Spurs,4,6,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-105,168,1,1,20060321,SAS,GSW
+Shot Chart Detail,0020500999,447,2225,Tony Parker,1610612759,San Antonio Spurs,4,2,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,2,1,1,20060321,SAS,GSW
+Shot Chart Detail,0020500999,458,2225,Tony Parker,1610612759,San Antonio Spurs,4,1,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,131,151,1,1,20060321,SAS,GSW
+Shot Chart Detail,0020500999,460,2225,Tony Parker,1610612759,San Antonio Spurs,4,1,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,-9,1,1,20060321,SAS,GSW
+Shot Chart Detail,0020501008,59,2225,Tony Parker,1610612759,San Antonio Spurs,1,4,45,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060322,DEN,SAS
+Shot Chart Detail,0020501008,275,2225,Tony Parker,1610612759,San Antonio Spurs,3,7,57,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,110,3,1,1,20060322,DEN,SAS
+Shot Chart Detail,0020501008,285,2225,Tony Parker,1610612759,San Antonio Spurs,3,6,51,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060322,DEN,SAS
+Shot Chart Detail,0020501008,291,2225,Tony Parker,1610612759,San Antonio Spurs,3,6,19,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,241,3,1,1,20060322,DEN,SAS
+Shot Chart Detail,0020501008,361,2225,Tony Parker,1610612759,San Antonio Spurs,3,0,52,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060322,DEN,SAS
+Shot Chart Detail,0020501008,414,2225,Tony Parker,1610612759,San Antonio Spurs,4,8,18,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,0,92,1,1,20060322,DEN,SAS
+Shot Chart Detail,0020501025,17,2225,Tony Parker,1610612759,San Antonio Spurs,1,9,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,21,214,1,1,20060324,POR,SAS
+Shot Chart Detail,0020501025,70,2225,Tony Parker,1610612759,San Antonio Spurs,1,1,53,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060324,POR,SAS
+Shot Chart Detail,0020501025,212,2225,Tony Parker,1610612759,San Antonio Spurs,3,7,46,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060324,POR,SAS
+Shot Chart Detail,0020501025,217,2225,Tony Parker,1610612759,San Antonio Spurs,3,6,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-136,169,1,1,20060324,POR,SAS
+Shot Chart Detail,0020501025,242,2225,Tony Parker,1610612759,San Antonio Spurs,3,4,51,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060324,POR,SAS
+Shot Chart Detail,0020501025,328,2225,Tony Parker,1610612759,San Antonio Spurs,4,7,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060324,POR,SAS
+Shot Chart Detail,0020501025,336,2225,Tony Parker,1610612759,San Antonio Spurs,4,6,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060324,POR,SAS
+Shot Chart Detail,0020501039,50,2225,Tony Parker,1610612759,San Antonio Spurs,1,5,21,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-16,45,1,1,20060326,SEA,SAS
+Shot Chart Detail,0020501039,308,2225,Tony Parker,1610612759,San Antonio Spurs,3,6,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060326,SEA,SAS
+Shot Chart Detail,0020501039,321,2225,Tony Parker,1610612759,San Antonio Spurs,3,5,30,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060326,SEA,SAS
+Shot Chart Detail,0020501039,366,2225,Tony Parker,1610612759,San Antonio Spurs,3,1,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,66,181,1,1,20060326,SEA,SAS
+Shot Chart Detail,0020501039,378,2225,Tony Parker,1610612759,San Antonio Spurs,3,0,11,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060326,SEA,SAS
+Shot Chart Detail,0020501039,468,2225,Tony Parker,1610612759,San Antonio Spurs,4,5,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060326,SEA,SAS
+Shot Chart Detail,0020501039,507,2225,Tony Parker,1610612759,San Antonio Spurs,4,0,39,Made Shot,Running Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060326,SEA,SAS
+Shot Chart Detail,0020501066,55,2225,Tony Parker,1610612759,San Antonio Spurs,1,5,25,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060330,LAL,SAS
+Shot Chart Detail,0020501066,70,2225,Tony Parker,1610612759,San Antonio Spurs,1,3,35,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060330,LAL,SAS
+Shot Chart Detail,0020501066,80,2225,Tony Parker,1610612759,San Antonio Spurs,1,2,33,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,52,36,1,1,20060330,LAL,SAS
+Shot Chart Detail,0020501066,179,2225,Tony Parker,1610612759,San Antonio Spurs,2,4,40,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060330,LAL,SAS
+Shot Chart Detail,0020501066,183,2225,Tony Parker,1610612759,San Antonio Spurs,2,3,59,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060330,LAL,SAS
+Shot Chart Detail,0020501066,190,2225,Tony Parker,1610612759,San Antonio Spurs,2,2,55,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060330,LAL,SAS
+Shot Chart Detail,0020501066,271,2225,Tony Parker,1610612759,San Antonio Spurs,3,6,16,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060330,LAL,SAS
+Shot Chart Detail,0020501066,306,2225,Tony Parker,1610612759,San Antonio Spurs,3,3,6,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060330,LAL,SAS
+Shot Chart Detail,0020501066,403,2225,Tony Parker,1610612759,San Antonio Spurs,4,6,17,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,47,91,1,1,20060330,LAL,SAS
+Shot Chart Detail,0020501082,160,2225,Tony Parker,1610612759,San Antonio Spurs,2,5,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,2,1,1,20060401,SAS,WAS
+Shot Chart Detail,0020501082,199,2225,Tony Parker,1610612759,San Antonio Spurs,2,1,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,0,1,1,20060401,SAS,WAS
+Shot Chart Detail,0020501082,261,2225,Tony Parker,1610612759,San Antonio Spurs,3,7,57,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-10,56,1,1,20060401,SAS,WAS
+Shot Chart Detail,0020501082,263,2225,Tony Parker,1610612759,San Antonio Spurs,3,7,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,10,1,1,20060401,SAS,WAS
+Shot Chart Detail,0020501082,272,2225,Tony Parker,1610612759,San Antonio Spurs,3,6,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-154,135,1,1,20060401,SAS,WAS
+Shot Chart Detail,0020501082,320,2225,Tony Parker,1610612759,San Antonio Spurs,3,2,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,7,1,1,20060401,SAS,WAS
+Shot Chart Detail,0020501082,331,2225,Tony Parker,1610612759,San Antonio Spurs,3,0,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,0,1,1,20060401,SAS,WAS
+Shot Chart Detail,0020501082,416,2225,Tony Parker,1610612759,San Antonio Spurs,4,5,31,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,7,1,1,20060401,SAS,WAS
+Shot Chart Detail,0020501082,432,2225,Tony Parker,1610612759,San Antonio Spurs,4,4,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-192,0,1,1,20060401,SAS,WAS
+Shot Chart Detail,0020501082,441,2225,Tony Parker,1610612759,San Antonio Spurs,4,2,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-99,137,1,1,20060401,SAS,WAS
+Shot Chart Detail,0020501105,21,2225,Tony Parker,1610612759,San Antonio Spurs,1,9,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060404,UTA,SAS
+Shot Chart Detail,0020501105,42,2225,Tony Parker,1610612759,San Antonio Spurs,1,7,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060404,UTA,SAS
+Shot Chart Detail,0020501105,75,2225,Tony Parker,1610612759,San Antonio Spurs,1,3,22,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060404,UTA,SAS
+Shot Chart Detail,0020501105,87,2225,Tony Parker,1610612759,San Antonio Spurs,1,1,54,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060404,UTA,SAS
+Shot Chart Detail,0020501105,99,2225,Tony Parker,1610612759,San Antonio Spurs,1,0,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,182,215,1,1,20060404,UTA,SAS
+Shot Chart Detail,0020501105,372,2225,Tony Parker,1610612759,San Antonio Spurs,4,9,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060404,UTA,SAS
+Shot Chart Detail,0020501105,384,2225,Tony Parker,1610612759,San Antonio Spurs,4,7,45,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,-16,1,1,20060404,UTA,SAS
+Shot Chart Detail,0020501105,390,2225,Tony Parker,1610612759,San Antonio Spurs,4,6,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,181,163,1,1,20060404,UTA,SAS
+Shot Chart Detail,0020501105,402,2225,Tony Parker,1610612759,San Antonio Spurs,4,4,26,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060404,UTA,SAS
+Shot Chart Detail,0020501115,141,2225,Tony Parker,1610612759,San Antonio Spurs,2,8,2,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,3,1,1,20060405,SAS,SAC
+Shot Chart Detail,0020501115,211,2225,Tony Parker,1610612759,San Antonio Spurs,2,0,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,0,1,1,20060405,SAS,SAC
+Shot Chart Detail,0020501115,227,2225,Tony Parker,1610612759,San Antonio Spurs,3,10,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,-6,1,1,20060405,SAS,SAC
+Shot Chart Detail,0020501115,238,2225,Tony Parker,1610612759,San Antonio Spurs,3,8,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,8,2,1,1,20060405,SAS,SAC
+Shot Chart Detail,0020501115,328,2225,Tony Parker,1610612759,San Antonio Spurs,4,11,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,6,22,1,1,20060405,SAS,SAC
+Shot Chart Detail,0020501115,349,2225,Tony Parker,1610612759,San Antonio Spurs,4,9,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,5,1,1,20060405,SAS,SAC
+Shot Chart Detail,0020501128,26,2225,Tony Parker,1610612759,San Antonio Spurs,1,8,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,7,1,1,20060407,SAS,DAL
+Shot Chart Detail,0020501128,69,2225,Tony Parker,1610612759,San Antonio Spurs,1,4,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,7,1,1,20060407,SAS,DAL
+Shot Chart Detail,0020501128,264,2225,Tony Parker,1610612759,San Antonio Spurs,3,7,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-148,109,1,1,20060407,SAS,DAL
+Shot Chart Detail,0020501128,282,2225,Tony Parker,1610612759,San Antonio Spurs,3,5,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,5,1,1,20060407,SAS,DAL
+Shot Chart Detail,0020501128,418,2225,Tony Parker,1610612759,San Antonio Spurs,4,1,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,100,110,1,1,20060407,SAS,DAL
+Shot Chart Detail,0020501143,44,2225,Tony Parker,1610612759,San Antonio Spurs,1,6,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,0,1,1,20060409,SAS,MEM
+Shot Chart Detail,0020501143,57,2225,Tony Parker,1610612759,San Antonio Spurs,1,4,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,163,10,1,1,20060409,SAS,MEM
+Shot Chart Detail,0020501143,84,2225,Tony Parker,1610612759,San Antonio Spurs,1,0,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,7,1,1,20060409,SAS,MEM
+Shot Chart Detail,0020501143,172,2225,Tony Parker,1610612759,San Antonio Spurs,2,3,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,8,1,1,20060409,SAS,MEM
+Shot Chart Detail,0020501143,204,2225,Tony Parker,1610612759,San Antonio Spurs,2,0,29,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-3,-5,1,1,20060409,SAS,MEM
+Shot Chart Detail,0020501143,226,2225,Tony Parker,1610612759,San Antonio Spurs,3,11,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,8,2,1,1,20060409,SAS,MEM
+Shot Chart Detail,0020501143,277,2225,Tony Parker,1610612759,San Antonio Spurs,3,4,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,5,1,1,20060409,SAS,MEM
+Shot Chart Detail,0020501143,342,2225,Tony Parker,1610612759,San Antonio Spurs,4,9,7,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-69,2,1,1,20060409,SAS,MEM
+Shot Chart Detail,0020501143,414,2225,Tony Parker,1610612759,San Antonio Spurs,4,1,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-75,151,1,1,20060409,SAS,MEM
+Shot Chart Detail,0020501159,99,2225,Tony Parker,1610612759,San Antonio Spurs,1,1,56,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,8,1,1,20060411,SAS,SEA
+Shot Chart Detail,0020501159,119,2225,Tony Parker,1610612759,San Antonio Spurs,2,11,15,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,5,1,1,20060411,SAS,SEA
+Shot Chart Detail,0020501159,133,2225,Tony Parker,1610612759,San Antonio Spurs,2,10,22,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,5,15,1,1,20060411,SAS,SEA
+Shot Chart Detail,0020501159,209,2225,Tony Parker,1610612759,San Antonio Spurs,2,4,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,90,151,1,1,20060411,SAS,SEA
+Shot Chart Detail,0020501159,212,2225,Tony Parker,1610612759,San Antonio Spurs,2,4,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,3,1,1,20060411,SAS,SEA
+Shot Chart Detail,0020501159,214,2225,Tony Parker,1610612759,San Antonio Spurs,2,3,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,95,150,1,1,20060411,SAS,SEA
+Shot Chart Detail,0020501159,238,2225,Tony Parker,1610612759,San Antonio Spurs,2,0,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-115,148,1,1,20060411,SAS,SEA
+Shot Chart Detail,0020501159,242,2225,Tony Parker,1610612759,San Antonio Spurs,2,0,5,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,61,36,1,1,20060411,SAS,SEA
+Shot Chart Detail,0020501159,271,2225,Tony Parker,1610612759,San Antonio Spurs,3,9,36,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,59,15,1,1,20060411,SAS,SEA
+Shot Chart Detail,0020501159,281,2225,Tony Parker,1610612759,San Antonio Spurs,3,8,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,84,169,1,1,20060411,SAS,SEA
+Shot Chart Detail,0020501159,291,2225,Tony Parker,1610612759,San Antonio Spurs,3,7,10,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,3,1,1,20060411,SAS,SEA
+Shot Chart Detail,0020501159,377,2225,Tony Parker,1610612759,San Antonio Spurs,4,11,30,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,12,1,1,20060411,SAS,SEA
+Shot Chart Detail,0020501159,388,2225,Tony Parker,1610612759,San Antonio Spurs,4,10,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,23,-218,97,1,1,20060411,SAS,SEA
+Shot Chart Detail,0020501175,4,2225,Tony Parker,1610612759,San Antonio Spurs,1,11,15,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-156,91,1,1,20060413,SAS,ORL
+Shot Chart Detail,0020501175,30,2225,Tony Parker,1610612759,San Antonio Spurs,1,8,12,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,3,1,1,20060413,SAS,ORL
+Shot Chart Detail,0020501175,35,2225,Tony Parker,1610612759,San Antonio Spurs,1,7,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-39,153,1,1,20060413,SAS,ORL
+Shot Chart Detail,0020501175,48,2225,Tony Parker,1610612759,San Antonio Spurs,1,5,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,2,1,1,20060413,SAS,ORL
+Shot Chart Detail,0020501175,157,2225,Tony Parker,1610612759,San Antonio Spurs,2,6,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,164,36,1,1,20060413,SAS,ORL
+Shot Chart Detail,0020501175,235,2225,Tony Parker,1610612759,San Antonio Spurs,3,8,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-158,95,1,1,20060413,SAS,ORL
+Shot Chart Detail,0020501195,49,2225,Tony Parker,1610612759,San Antonio Spurs,1,6,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060416,MIN,SAS
+Shot Chart Detail,0020501195,73,2225,Tony Parker,1610612759,San Antonio Spurs,1,2,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-171,15,1,1,20060416,MIN,SAS
+Shot Chart Detail,0020501195,79,2225,Tony Parker,1610612759,San Antonio Spurs,1,1,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-112,187,1,1,20060416,MIN,SAS
+Shot Chart Detail,0020501195,153,2225,Tony Parker,1610612759,San Antonio Spurs,2,5,51,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060416,MIN,SAS
+Shot Chart Detail,0020501195,166,2225,Tony Parker,1610612759,San Antonio Spurs,2,3,58,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060416,MIN,SAS
+Shot Chart Detail,0020501208,9,2225,Tony Parker,1610612759,San Antonio Spurs,1,10,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-87,204,1,1,20060417,SAS,UTA
+Shot Chart Detail,0020501208,18,2225,Tony Parker,1610612759,San Antonio Spurs,1,9,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,3,1,1,20060417,SAS,UTA
+Shot Chart Detail,0020501208,64,2225,Tony Parker,1610612759,San Antonio Spurs,1,3,40,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-3,0,1,1,20060417,SAS,UTA

@@ -1,0 +1,520 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0021400007,89,202322,John Wall,1610612764,Washington Wizards,1,2,27,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,6,1,1,20141029,MIA,WAS
+Shot Chart Detail,0021400007,94,202322,John Wall,1610612764,Washington Wizards,1,1,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-163,3,1,1,20141029,MIA,WAS
+Shot Chart Detail,0021400007,186,202322,John Wall,1610612764,Washington Wizards,2,4,8,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,12,17,1,1,20141029,MIA,WAS
+Shot Chart Detail,0021400007,283,202322,John Wall,1610612764,Washington Wizards,3,7,5,Made Shot,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,2,107,1,1,20141029,MIA,WAS
+Shot Chart Detail,0021400007,285,202322,John Wall,1610612764,Washington Wizards,3,6,40,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,12,1,1,20141029,MIA,WAS
+Shot Chart Detail,0021400007,411,202322,John Wall,1610612764,Washington Wizards,4,6,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,116,140,1,1,20141029,MIA,WAS
+Shot Chart Detail,0021400016,67,202322,John Wall,1610612764,Washington Wizards,1,4,5,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141030,ORL,WAS
+Shot Chart Detail,0021400016,226,202322,John Wall,1610612764,Washington Wizards,2,2,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-26,249,1,1,20141030,ORL,WAS
+Shot Chart Detail,0021400016,263,202322,John Wall,1610612764,Washington Wizards,2,0,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,50,254,1,1,20141030,ORL,WAS
+Shot Chart Detail,0021400016,288,202322,John Wall,1610612764,Washington Wizards,3,9,55,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,64,172,1,1,20141030,ORL,WAS
+Shot Chart Detail,0021400016,311,202322,John Wall,1610612764,Washington Wizards,3,7,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,6,1,1,20141030,ORL,WAS
+Shot Chart Detail,0021400016,313,202322,John Wall,1610612764,Washington Wizards,3,7,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,3,1,1,20141030,ORL,WAS
+Shot Chart Detail,0021400016,329,202322,John Wall,1610612764,Washington Wizards,3,5,49,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,114,146,1,1,20141030,ORL,WAS
+Shot Chart Detail,0021400016,365,202322,John Wall,1610612764,Washington Wizards,3,1,11,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-95,67,1,1,20141030,ORL,WAS
+Shot Chart Detail,0021400016,440,202322,John Wall,1610612764,Washington Wizards,4,6,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-16,159,1,1,20141030,ORL,WAS
+Shot Chart Detail,0021400016,517,202322,John Wall,1610612764,Washington Wizards,4,0,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,15,1,1,20141030,ORL,WAS
+Shot Chart Detail,0021400031,21,202322,John Wall,1610612764,Washington Wizards,1,9,53,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,40,110,1,1,20141101,WAS,MIL
+Shot Chart Detail,0021400031,263,202322,John Wall,1610612764,Washington Wizards,2,1,13,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141101,WAS,MIL
+Shot Chart Detail,0021400031,377,202322,John Wall,1610612764,Washington Wizards,3,3,47,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-54,124,1,1,20141101,WAS,MIL
+Shot Chart Detail,0021400031,395,202322,John Wall,1610612764,Washington Wizards,3,2,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,179,208,1,1,20141101,WAS,MIL
+Shot Chart Detail,0021400031,544,202322,John Wall,1610612764,Washington Wizards,4,2,45,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-79,153,1,1,20141101,WAS,MIL
+Shot Chart Detail,0021400031,568,202322,John Wall,1610612764,Washington Wizards,4,0,55,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,47,203,1,1,20141101,WAS,MIL
+Shot Chart Detail,0021400051,3,202322,John Wall,1610612764,Washington Wizards,1,11,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,77,164,1,1,20141104,NYK,WAS
+Shot Chart Detail,0021400051,5,202322,John Wall,1610612764,Washington Wizards,1,10,45,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,6,1,1,20141104,NYK,WAS
+Shot Chart Detail,0021400051,302,202322,John Wall,1610612764,Washington Wizards,3,6,52,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,28,134,1,1,20141104,NYK,WAS
+Shot Chart Detail,0021400051,352,202322,John Wall,1610612764,Washington Wizards,3,3,13,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,14,1,1,20141104,NYK,WAS
+Shot Chart Detail,0021400051,502,202322,John Wall,1610612764,Washington Wizards,4,1,34,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,204,44,1,1,20141104,NYK,WAS
+Shot Chart Detail,0021400063,10,202322,John Wall,1610612764,Washington Wizards,1,10,37,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,-5,1,1,20141105,WAS,IND
+Shot Chart Detail,0021400063,68,202322,John Wall,1610612764,Washington Wizards,1,4,50,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,-3,1,1,20141105,WAS,IND
+Shot Chart Detail,0021400063,96,202322,John Wall,1610612764,Washington Wizards,1,2,29,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-32,25,1,1,20141105,WAS,IND
+Shot Chart Detail,0021400063,197,202322,John Wall,1610612764,Washington Wizards,2,5,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,94,249,1,1,20141105,WAS,IND
+Shot Chart Detail,0021400063,232,202322,John Wall,1610612764,Washington Wizards,2,2,12,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,-10,1,1,20141105,WAS,IND
+Shot Chart Detail,0021400063,285,202322,John Wall,1610612764,Washington Wizards,3,9,13,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141105,WAS,IND
+Shot Chart Detail,0021400063,321,202322,John Wall,1610612764,Washington Wizards,3,4,37,Made Shot,Running Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,-3,1,1,20141105,WAS,IND
+Shot Chart Detail,0021400063,475,202322,John Wall,1610612764,Washington Wizards,4,3,42,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,121,129,1,1,20141105,WAS,IND
+Shot Chart Detail,0021400063,545,202322,John Wall,1610612764,Washington Wizards,5,3,15,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,15,126,1,1,20141105,WAS,IND
+Shot Chart Detail,0021400063,547,202322,John Wall,1610612764,Washington Wizards,5,2,39,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,1,184,1,1,20141105,WAS,IND
+Shot Chart Detail,0021400063,550,202322,John Wall,1610612764,Washington Wizards,5,2,17,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,-2,1,1,20141105,WAS,IND
+Shot Chart Detail,0021400077,337,202322,John Wall,1610612764,Washington Wizards,3,8,37,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-152,77,1,1,20141107,TOR,WAS
+Shot Chart Detail,0021400077,376,202322,John Wall,1610612764,Washington Wizards,3,6,11,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-116,42,1,1,20141107,TOR,WAS
+Shot Chart Detail,0021400077,402,202322,John Wall,1610612764,Washington Wizards,3,4,15,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-11,26,1,1,20141107,TOR,WAS
+Shot Chart Detail,0021400083,63,202322,John Wall,1610612764,Washington Wizards,1,5,17,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,1,28,1,1,20141108,IND,WAS
+Shot Chart Detail,0021400083,95,202322,John Wall,1610612764,Washington Wizards,1,3,6,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-26,36,1,1,20141108,IND,WAS
+Shot Chart Detail,0021400083,98,202322,John Wall,1610612764,Washington Wizards,1,2,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,141,124,1,1,20141108,IND,WAS
+Shot Chart Detail,0021400083,111,202322,John Wall,1610612764,Washington Wizards,1,1,15,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,17,102,1,1,20141108,IND,WAS
+Shot Chart Detail,0021400083,333,202322,John Wall,1610612764,Washington Wizards,3,3,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-64,160,1,1,20141108,IND,WAS
+Shot Chart Detail,0021400083,474,202322,John Wall,1610612764,Washington Wizards,4,3,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,6,1,1,20141108,IND,WAS
+Shot Chart Detail,0021400083,485,202322,John Wall,1610612764,Washington Wizards,4,1,46,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,28,179,1,1,20141108,IND,WAS
+Shot Chart Detail,0021400109,215,202322,John Wall,1610612764,Washington Wizards,2,5,18,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,132,165,1,1,20141112,WAS,DET
+Shot Chart Detail,0021400109,245,202322,John Wall,1610612764,Washington Wizards,2,2,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,159,6,1,1,20141112,WAS,DET
+Shot Chart Detail,0021400109,324,202322,John Wall,1610612764,Washington Wizards,3,8,44,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,0,170,1,1,20141112,WAS,DET
+Shot Chart Detail,0021400109,333,202322,John Wall,1610612764,Washington Wizards,3,7,48,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,61,69,1,1,20141112,WAS,DET
+Shot Chart Detail,0021400109,367,202322,John Wall,1610612764,Washington Wizards,3,3,44,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-4,131,1,1,20141112,WAS,DET
+Shot Chart Detail,0021400109,393,202322,John Wall,1610612764,Washington Wizards,3,1,25,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,111,160,1,1,20141112,WAS,DET
+Shot Chart Detail,0021400109,521,202322,John Wall,1610612764,Washington Wizards,4,1,11,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,77,67,1,1,20141112,WAS,DET
+Shot Chart Detail,0021400132,17,202322,John Wall,1610612764,Washington Wizards,1,10,9,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,-8,1,1,20141115,WAS,ORL
+Shot Chart Detail,0021400132,38,202322,John Wall,1610612764,Washington Wizards,1,7,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-153,86,1,1,20141115,WAS,ORL
+Shot Chart Detail,0021400132,41,202322,John Wall,1610612764,Washington Wizards,1,7,25,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,39,170,1,1,20141115,WAS,ORL
+Shot Chart Detail,0021400132,103,202322,John Wall,1610612764,Washington Wizards,1,2,1,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,1,1,1,20141115,WAS,ORL
+Shot Chart Detail,0021400132,251,202322,John Wall,1610612764,Washington Wizards,2,1,1,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,81,157,1,1,20141115,WAS,ORL
+Shot Chart Detail,0021400132,371,202322,John Wall,1610612764,Washington Wizards,3,1,7,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,236,-3,1,1,20141115,WAS,ORL
+Shot Chart Detail,0021400163,287,202322,John Wall,1610612764,Washington Wizards,2,0,5,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141119,WAS,DAL
+Shot Chart Detail,0021400163,344,202322,John Wall,1610612764,Washington Wizards,3,6,43,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,125,183,1,1,20141119,WAS,DAL
+Shot Chart Detail,0021400163,364,202322,John Wall,1610612764,Washington Wizards,3,4,53,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,0,172,1,1,20141119,WAS,DAL
+Shot Chart Detail,0021400163,377,202322,John Wall,1610612764,Washington Wizards,3,3,8,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,89,123,1,1,20141119,WAS,DAL
+Shot Chart Detail,0021400163,472,202322,John Wall,1610612764,Washington Wizards,4,6,42,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-27,119,1,1,20141119,WAS,DAL
+Shot Chart Detail,0021400179,52,202322,John Wall,1610612764,Washington Wizards,1,6,1,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,-8,1,1,20141121,WAS,CLE
+Shot Chart Detail,0021400179,54,202322,John Wall,1610612764,Washington Wizards,1,5,53,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,3,1,1,20141121,WAS,CLE
+Shot Chart Detail,0021400179,98,202322,John Wall,1610612764,Washington Wizards,1,1,54,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,-10,1,1,20141121,WAS,CLE
+Shot Chart Detail,0021400179,104,202322,John Wall,1610612764,Washington Wizards,1,0,50,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,80,194,1,1,20141121,WAS,CLE
+Shot Chart Detail,0021400179,222,202322,John Wall,1610612764,Washington Wizards,2,1,44,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141121,WAS,CLE
+Shot Chart Detail,0021400179,252,202322,John Wall,1610612764,Washington Wizards,3,11,41,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,125,64,1,1,20141121,WAS,CLE
+Shot Chart Detail,0021400179,279,202322,John Wall,1610612764,Washington Wizards,3,9,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,106,247,1,1,20141121,WAS,CLE
+Shot Chart Detail,0021400179,320,202322,John Wall,1610612764,Washington Wizards,3,5,11,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-65,119,1,1,20141121,WAS,CLE
+Shot Chart Detail,0021400179,330,202322,John Wall,1610612764,Washington Wizards,3,4,17,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,113,165,1,1,20141121,WAS,CLE
+Shot Chart Detail,0021400179,333,202322,John Wall,1610612764,Washington Wizards,3,3,44,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-34,194,1,1,20141121,WAS,CLE
+Shot Chart Detail,0021400179,360,202322,John Wall,1610612764,Washington Wizards,3,1,6,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-112,140,1,1,20141121,WAS,CLE
+Shot Chart Detail,0021400179,372,202322,John Wall,1610612764,Washington Wizards,3,0,27,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,0,1,1,20141121,WAS,CLE
+Shot Chart Detail,0021400190,107,202322,John Wall,1610612764,Washington Wizards,1,0,58,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,-2,1,1,20141122,MIL,WAS
+Shot Chart Detail,0021400190,213,202322,John Wall,1610612764,Washington Wizards,2,3,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,7,1,1,20141122,MIL,WAS
+Shot Chart Detail,0021400190,238,202322,John Wall,1610612764,Washington Wizards,2,1,27,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141122,MIL,WAS
+Shot Chart Detail,0021400190,253,202322,John Wall,1610612764,Washington Wizards,2,0,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-210,131,1,1,20141122,MIL,WAS
+Shot Chart Detail,0021400190,287,202322,John Wall,1610612764,Washington Wizards,3,9,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,0,1,1,20141122,MIL,WAS
+Shot Chart Detail,0021400190,343,202322,John Wall,1610612764,Washington Wizards,3,5,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,84,134,1,1,20141122,MIL,WAS
+Shot Chart Detail,0021400190,526,202322,John Wall,1610612764,Washington Wizards,4,1,10,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141122,MIL,WAS
+Shot Chart Detail,0021400205,33,202322,John Wall,1610612764,Washington Wizards,1,9,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,95,257,1,1,20141125,WAS,ATL
+Shot Chart Detail,0021400205,113,202322,John Wall,1610612764,Washington Wizards,1,1,45,Made Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-24,39,1,1,20141125,WAS,ATL
+Shot Chart Detail,0021400205,126,202322,John Wall,1610612764,Washington Wizards,1,0,48,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,9,31,1,1,20141125,WAS,ATL
+Shot Chart Detail,0021400205,248,202322,John Wall,1610612764,Washington Wizards,2,1,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-106,242,1,1,20141125,WAS,ATL
+Shot Chart Detail,0021400205,375,202322,John Wall,1610612764,Washington Wizards,3,5,24,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-25,11,1,1,20141125,WAS,ATL
+Shot Chart Detail,0021400205,509,202322,John Wall,1610612764,Washington Wizards,4,3,26,Made Shot,Running Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-19,25,1,1,20141125,WAS,ATL
+Shot Chart Detail,0021400211,31,202322,John Wall,1610612764,Washington Wizards,1,8,19,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,31,1,1,20141126,CLE,WAS
+Shot Chart Detail,0021400211,118,202322,John Wall,1610612764,Washington Wizards,1,0,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,132,211,1,1,20141126,CLE,WAS
+Shot Chart Detail,0021400236,76,202322,John Wall,1610612764,Washington Wizards,1,3,47,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,4,1,1,20141129,WAS,NOP
+Shot Chart Detail,0021400236,218,202322,John Wall,1610612764,Washington Wizards,2,2,21,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141129,WAS,NOP
+Shot Chart Detail,0021400236,229,202322,John Wall,1610612764,Washington Wizards,2,1,6,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,1,48,1,1,20141129,WAS,NOP
+Shot Chart Detail,0021400236,349,202322,John Wall,1610612764,Washington Wizards,3,0,46,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,-2,1,1,20141129,WAS,NOP
+Shot Chart Detail,0021400236,352,202322,John Wall,1610612764,Washington Wizards,3,0,8,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,0,1,1,20141129,WAS,NOP
+Shot Chart Detail,0021400250,121,202322,John Wall,1610612764,Washington Wizards,1,0,0,Made Shot,Pullup Bank shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,99,257,1,1,20141201,WAS,MIA
+Shot Chart Detail,0021400250,193,202322,John Wall,1610612764,Washington Wizards,2,5,25,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,0,1,1,20141201,WAS,MIA
+Shot Chart Detail,0021400250,219,202322,John Wall,1610612764,Washington Wizards,2,3,47,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-11,157,1,1,20141201,WAS,MIA
+Shot Chart Detail,0021400250,255,202322,John Wall,1610612764,Washington Wizards,2,0,0,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-114,167,1,1,20141201,WAS,MIA
+Shot Chart Detail,0021400250,281,202322,John Wall,1610612764,Washington Wizards,3,9,38,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,159,94,1,1,20141201,WAS,MIA
+Shot Chart Detail,0021400250,353,202322,John Wall,1610612764,Washington Wizards,3,2,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,198,190,1,1,20141201,WAS,MIA
+Shot Chart Detail,0021400264,44,202322,John Wall,1610612764,Washington Wizards,1,7,22,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-163,28,1,1,20141203,WAS,LAL
+Shot Chart Detail,0021400264,93,202322,John Wall,1610612764,Washington Wizards,1,2,59,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,84,132,1,1,20141203,WAS,LAL
+Shot Chart Detail,0021400264,276,202322,John Wall,1610612764,Washington Wizards,3,11,39,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,-2,1,1,20141203,WAS,LAL
+Shot Chart Detail,0021400264,296,202322,John Wall,1610612764,Washington Wizards,3,9,24,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,114,157,1,1,20141203,WAS,LAL
+Shot Chart Detail,0021400264,520,202322,John Wall,1610612764,Washington Wizards,4,1,43,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-127,118,1,1,20141203,WAS,LAL
+Shot Chart Detail,0021400264,538,202322,John Wall,1610612764,Washington Wizards,4,0,11,Made Shot,Fadeaway Bank shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,7,254,1,1,20141203,WAS,LAL
+Shot Chart Detail,0021400278,275,202322,John Wall,1610612764,Washington Wizards,2,1,53,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141205,WAS,DEN
+Shot Chart Detail,0021400278,390,202322,John Wall,1610612764,Washington Wizards,3,4,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,176,205,1,1,20141205,WAS,DEN
+Shot Chart Detail,0021400278,393,202322,John Wall,1610612764,Washington Wizards,3,4,7,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,105,187,1,1,20141205,WAS,DEN
+Shot Chart Detail,0021400294,115,202322,John Wall,1610612764,Washington Wizards,1,0,11,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,0,1,1,20141207,BOS,WAS
+Shot Chart Detail,0021400294,488,202322,John Wall,1610612764,Washington Wizards,4,7,53,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,0,1,1,20141207,BOS,WAS
+Shot Chart Detail,0021400294,521,202322,John Wall,1610612764,Washington Wizards,4,4,37,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,4,123,1,1,20141207,BOS,WAS
+Shot Chart Detail,0021400294,534,202322,John Wall,1610612764,Washington Wizards,4,3,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,47,178,1,1,20141207,BOS,WAS
+Shot Chart Detail,0021400294,565,202322,John Wall,1610612764,Washington Wizards,4,1,12,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,-6,1,1,20141207,BOS,WAS
+Shot Chart Detail,0021400302,43,202322,John Wall,1610612764,Washington Wizards,1,6,29,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,122,123,1,1,20141208,WAS,BOS
+Shot Chart Detail,0021400302,104,202322,John Wall,1610612764,Washington Wizards,1,0,8,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,130,145,1,1,20141208,WAS,BOS
+Shot Chart Detail,0021400302,211,202322,John Wall,1610612764,Washington Wizards,2,1,58,Made Shot,Running Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141208,WAS,BOS
+Shot Chart Detail,0021400302,326,202322,John Wall,1610612764,Washington Wizards,3,4,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,182,189,1,1,20141208,WAS,BOS
+Shot Chart Detail,0021400302,353,202322,John Wall,1610612764,Washington Wizards,3,2,28,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-8,1,1,20141208,WAS,BOS
+Shot Chart Detail,0021400302,516,202322,John Wall,1610612764,Washington Wizards,4,0,45,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,119,154,1,1,20141208,WAS,BOS
+Shot Chart Detail,0021400302,666,202322,John Wall,1610612764,Washington Wizards,6,2,3,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,0,1,1,20141208,WAS,BOS
+Shot Chart Detail,0021400302,679,202322,John Wall,1610612764,Washington Wizards,6,1,28,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-5,1,1,20141208,WAS,BOS
+Shot Chart Detail,0021400302,683,202322,John Wall,1610612764,Washington Wizards,6,0,52,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,94,88,1,1,20141208,WAS,BOS
+Shot Chart Detail,0021400302,688,202322,John Wall,1610612764,Washington Wizards,6,0,44,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,-8,1,1,20141208,WAS,BOS
+Shot Chart Detail,0021400318,34,202322,John Wall,1610612764,Washington Wizards,1,6,57,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,152,7,1,1,20141210,ORL,WAS
+Shot Chart Detail,0021400318,179,202322,John Wall,1610612764,Washington Wizards,2,3,48,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,130,162,1,1,20141210,ORL,WAS
+Shot Chart Detail,0021400318,200,202322,John Wall,1610612764,Washington Wizards,2,1,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,135,140,1,1,20141210,ORL,WAS
+Shot Chart Detail,0021400318,260,202322,John Wall,1610612764,Washington Wizards,3,6,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,23,-98,219,1,1,20141210,ORL,WAS
+Shot Chart Detail,0021400318,270,202322,John Wall,1610612764,Washington Wizards,3,5,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,1,1,1,20141210,ORL,WAS
+Shot Chart Detail,0021400318,310,202322,John Wall,1610612764,Washington Wizards,3,0,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-11,159,1,1,20141210,ORL,WAS
+Shot Chart Detail,0021400318,386,202322,John Wall,1610612764,Washington Wizards,4,5,3,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141210,ORL,WAS
+Shot Chart Detail,0021400318,417,202322,John Wall,1610612764,Washington Wizards,4,1,51,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,11,1,1,20141210,ORL,WAS
+Shot Chart Detail,0021400318,426,202322,John Wall,1610612764,Washington Wizards,4,0,55,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,4,1,1,20141210,ORL,WAS
+Shot Chart Detail,0021400318,438,202322,John Wall,1610612764,Washington Wizards,4,0,32,Made Shot,Pullup Bank shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,83,26,1,1,20141210,ORL,WAS
+Shot Chart Detail,0021400329,67,202322,John Wall,1610612764,Washington Wizards,1,5,22,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,14,1,1,20141212,WAS,LAC
+Shot Chart Detail,0021400329,74,202322,John Wall,1610612764,Washington Wizards,1,4,46,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,12,274,1,1,20141212,WAS,LAC
+Shot Chart Detail,0021400329,122,202322,John Wall,1610612764,Washington Wizards,1,1,19,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,143,89,1,1,20141212,WAS,LAC
+Shot Chart Detail,0021400329,270,202322,John Wall,1610612764,Washington Wizards,2,0,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,110,244,1,1,20141212,WAS,LAC
+Shot Chart Detail,0021400350,49,202322,John Wall,1610612764,Washington Wizards,1,6,1,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,0,1,1,20141214,WAS,UTA
+Shot Chart Detail,0021400350,87,202322,John Wall,1610612764,Washington Wizards,1,1,23,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,-10,1,1,20141214,WAS,UTA
+Shot Chart Detail,0021400350,178,202322,John Wall,1610612764,Washington Wizards,2,5,52,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,110,89,1,1,20141214,WAS,UTA
+Shot Chart Detail,0021400350,227,202322,John Wall,1610612764,Washington Wizards,2,2,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-70,189,1,1,20141214,WAS,UTA
+Shot Chart Detail,0021400350,314,202322,John Wall,1610612764,Washington Wizards,3,5,45,Made Shot,Running Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141214,WAS,UTA
+Shot Chart Detail,0021400350,337,202322,John Wall,1610612764,Washington Wizards,3,2,57,Made Shot,Running Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,6,1,1,20141214,WAS,UTA
+Shot Chart Detail,0021400350,366,202322,John Wall,1610612764,Washington Wizards,3,0,41,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,116,110,1,1,20141214,WAS,UTA
+Shot Chart Detail,0021400350,495,202322,John Wall,1610612764,Washington Wizards,4,2,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,3,1,1,20141214,WAS,UTA
+Shot Chart Detail,0021400363,33,202322,John Wall,1610612764,Washington Wizards,1,7,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-147,208,1,1,20141216,WAS,MIN
+Shot Chart Detail,0021400363,61,202322,John Wall,1610612764,Washington Wizards,1,5,18,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-119,126,1,1,20141216,WAS,MIN
+Shot Chart Detail,0021400363,93,202322,John Wall,1610612764,Washington Wizards,1,2,20,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,103,154,1,1,20141216,WAS,MIN
+Shot Chart Detail,0021400363,98,202322,John Wall,1610612764,Washington Wizards,1,1,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,196,165,1,1,20141216,WAS,MIN
+Shot Chart Detail,0021400363,252,202322,John Wall,1610612764,Washington Wizards,2,1,10,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,4,154,1,1,20141216,WAS,MIN
+Shot Chart Detail,0021400363,298,202322,John Wall,1610612764,Washington Wizards,3,8,31,Made Shot,Driving Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,37,34,1,1,20141216,WAS,MIN
+Shot Chart Detail,0021400363,320,202322,John Wall,1610612764,Washington Wizards,3,5,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,116,118,1,1,20141216,WAS,MIN
+Shot Chart Detail,0021400363,328,202322,John Wall,1610612764,Washington Wizards,3,4,50,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-64,186,1,1,20141216,WAS,MIN
+Shot Chart Detail,0021400363,404,202322,John Wall,1610612764,Washington Wizards,4,9,41,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,113,137,1,1,20141216,WAS,MIN
+Shot Chart Detail,0021400388,116,202322,John Wall,1610612764,Washington Wizards,1,0,0,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,15,197,1,1,20141219,MIA,WAS
+Shot Chart Detail,0021400388,211,202322,John Wall,1610612764,Washington Wizards,2,3,20,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,10,137,1,1,20141219,MIA,WAS
+Shot Chart Detail,0021400388,280,202322,John Wall,1610612764,Washington Wizards,3,8,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,-6,1,1,20141219,MIA,WAS
+Shot Chart Detail,0021400388,429,202322,John Wall,1610612764,Washington Wizards,4,6,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,124,160,1,1,20141219,MIA,WAS
+Shot Chart Detail,0021400388,480,202322,John Wall,1610612764,Washington Wizards,4,2,35,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,0,1,1,20141219,MIA,WAS
+Shot Chart Detail,0021400388,495,202322,John Wall,1610612764,Washington Wizards,4,1,1,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,20,200,1,1,20141219,MIA,WAS
+Shot Chart Detail,0021400406,10,202322,John Wall,1610612764,Washington Wizards,1,10,32,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141221,WAS,PHX
+Shot Chart Detail,0021400406,212,202322,John Wall,1610612764,Washington Wizards,2,5,0,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,100,192,1,1,20141221,WAS,PHX
+Shot Chart Detail,0021400406,251,202322,John Wall,1610612764,Washington Wizards,2,1,55,Made Shot,Running Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141221,WAS,PHX
+Shot Chart Detail,0021400406,456,202322,John Wall,1610612764,Washington Wizards,4,9,33,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,124,137,1,1,20141221,WAS,PHX
+Shot Chart Detail,0021400406,516,202322,John Wall,1610612764,Washington Wizards,4,4,20,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,54,178,1,1,20141221,WAS,PHX
+Shot Chart Detail,0021400419,61,202322,John Wall,1610612764,Washington Wizards,1,4,43,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-131,85,1,1,20141223,WAS,CHI
+Shot Chart Detail,0021400419,64,202322,John Wall,1610612764,Washington Wizards,1,4,20,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,0,1,1,20141223,WAS,CHI
+Shot Chart Detail,0021400419,326,202322,John Wall,1610612764,Washington Wizards,3,4,24,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,4,1,1,20141223,WAS,CHI
+Shot Chart Detail,0021400419,352,202322,John Wall,1610612764,Washington Wizards,3,0,45,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,127,121,1,1,20141223,WAS,CHI
+Shot Chart Detail,0021400419,433,202322,John Wall,1610612764,Washington Wizards,4,5,41,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,-2,1,1,20141223,WAS,CHI
+Shot Chart Detail,0021400419,448,202322,John Wall,1610612764,Washington Wizards,4,5,0,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,1,1,1,20141223,WAS,CHI
+Shot Chart Detail,0021400419,451,202322,John Wall,1610612764,Washington Wizards,4,4,40,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,6,1,1,20141223,WAS,CHI
+Shot Chart Detail,0021400419,457,202322,John Wall,1610612764,Washington Wizards,4,4,14,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,-2,1,1,20141223,WAS,CHI
+Shot Chart Detail,0021400419,460,202322,John Wall,1610612764,Washington Wizards,4,3,44,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-11,201,1,1,20141223,WAS,CHI
+Shot Chart Detail,0021400427,13,202322,John Wall,1610612764,Washington Wizards,1,10,12,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,4,1,1,20141225,NYK,WAS
+Shot Chart Detail,0021400427,26,202322,John Wall,1610612764,Washington Wizards,1,8,36,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,23,42,1,1,20141225,NYK,WAS
+Shot Chart Detail,0021400427,55,202322,John Wall,1610612764,Washington Wizards,1,6,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-93,235,1,1,20141225,NYK,WAS
+Shot Chart Detail,0021400427,108,202322,John Wall,1610612764,Washington Wizards,1,1,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,6,1,1,20141225,NYK,WAS
+Shot Chart Detail,0021400427,245,202322,John Wall,1610612764,Washington Wizards,2,0,4,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,6,1,1,20141225,NYK,WAS
+Shot Chart Detail,0021400427,281,202322,John Wall,1610612764,Washington Wizards,3,8,25,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,1,1,1,20141225,NYK,WAS
+Shot Chart Detail,0021400427,290,202322,John Wall,1610612764,Washington Wizards,3,6,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,13,205,1,1,20141225,NYK,WAS
+Shot Chart Detail,0021400427,315,202322,John Wall,1610612764,Washington Wizards,3,4,15,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-82,129,1,1,20141225,NYK,WAS
+Shot Chart Detail,0021400427,332,202322,John Wall,1610612764,Washington Wizards,3,2,12,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,7,1,1,20141225,NYK,WAS
+Shot Chart Detail,0021400427,342,202322,John Wall,1610612764,Washington Wizards,3,1,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,7,1,1,20141225,NYK,WAS
+Shot Chart Detail,0021400445,85,202322,John Wall,1610612764,Washington Wizards,1,3,16,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,11,1,1,20141227,WAS,BOS
+Shot Chart Detail,0021400445,117,202322,John Wall,1610612764,Washington Wizards,1,0,33,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,6,1,1,20141227,WAS,BOS
+Shot Chart Detail,0021400445,292,202322,John Wall,1610612764,Washington Wizards,3,7,58,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,4,1,1,20141227,WAS,BOS
+Shot Chart Detail,0021400445,305,202322,John Wall,1610612764,Washington Wizards,3,6,0,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,81,37,1,1,20141227,WAS,BOS
+Shot Chart Detail,0021400445,311,202322,John Wall,1610612764,Washington Wizards,3,5,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-105,156,1,1,20141227,WAS,BOS
+Shot Chart Detail,0021400445,349,202322,John Wall,1610612764,Washington Wizards,3,2,30,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-109,107,1,1,20141227,WAS,BOS
+Shot Chart Detail,0021400463,235,202322,John Wall,1610612764,Washington Wizards,2,2,14,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,3,1,1,20141229,HOU,WAS
+Shot Chart Detail,0021400463,271,202322,John Wall,1610612764,Washington Wizards,3,10,26,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141229,HOU,WAS
+Shot Chart Detail,0021400463,328,202322,John Wall,1610612764,Washington Wizards,3,5,36,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-49,104,1,1,20141229,HOU,WAS
+Shot Chart Detail,0021400463,335,202322,John Wall,1610612764,Washington Wizards,3,4,22,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,0,1,1,20141229,HOU,WAS
+Shot Chart Detail,0021400470,35,202322,John Wall,1610612764,Washington Wizards,1,7,38,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-147,64,1,1,20141230,DAL,WAS
+Shot Chart Detail,0021400470,82,202322,John Wall,1610612764,Washington Wizards,1,3,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,1,1,1,20141230,DAL,WAS
+Shot Chart Detail,0021400470,120,202322,John Wall,1610612764,Washington Wizards,1,0,11,Made Shot,Driving Bank shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,36,4,1,1,20141230,DAL,WAS
+Shot Chart Detail,0021400470,265,202322,John Wall,1610612764,Washington Wizards,2,1,45,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141230,DAL,WAS
+Shot Chart Detail,0021400489,289,202322,John Wall,1610612764,Washington Wizards,3,10,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,198,138,1,1,20150102,OKC,WAS
+Shot Chart Detail,0021400489,332,202322,John Wall,1610612764,Washington Wizards,3,6,0,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,108,134,1,1,20150102,OKC,WAS
+Shot Chart Detail,0021400489,367,202322,John Wall,1610612764,Washington Wizards,3,1,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,61,239,1,1,20150102,OKC,WAS
+Shot Chart Detail,0021400489,371,202322,John Wall,1610612764,Washington Wizards,3,1,26,Made Shot,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,72,11,1,1,20150102,OKC,WAS
+Shot Chart Detail,0021400489,431,202322,John Wall,1610612764,Washington Wizards,4,6,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,121,143,1,1,20150102,OKC,WAS
+Shot Chart Detail,0021400499,10,202322,John Wall,1610612764,Washington Wizards,1,10,4,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-123,104,1,1,20150103,SAS,WAS
+Shot Chart Detail,0021400499,12,202322,John Wall,1610612764,Washington Wizards,1,9,38,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-62,176,1,1,20150103,SAS,WAS
+Shot Chart Detail,0021400499,38,202322,John Wall,1610612764,Washington Wizards,1,5,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,0,1,1,20150103,SAS,WAS
+Shot Chart Detail,0021400499,58,202322,John Wall,1610612764,Washington Wizards,1,3,26,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,-10,1,1,20150103,SAS,WAS
+Shot Chart Detail,0021400499,62,202322,John Wall,1610612764,Washington Wizards,1,2,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,94,85,1,1,20150103,SAS,WAS
+Shot Chart Detail,0021400499,282,202322,John Wall,1610612764,Washington Wizards,3,5,33,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,32,20,1,1,20150103,SAS,WAS
+Shot Chart Detail,0021400499,465,202322,John Wall,1610612764,Washington Wizards,4,0,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,9,1,1,20150103,SAS,WAS
+Shot Chart Detail,0021400515,39,202322,John Wall,1610612764,Washington Wizards,1,6,2,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150105,NOP,WAS
+Shot Chart Detail,0021400515,80,202322,John Wall,1610612764,Washington Wizards,1,1,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,147,44,1,1,20150105,NOP,WAS
+Shot Chart Detail,0021400515,99,202322,John Wall,1610612764,Washington Wizards,1,0,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-103,175,1,1,20150105,NOP,WAS
+Shot Chart Detail,0021400515,207,202322,John Wall,1610612764,Washington Wizards,2,2,46,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,31,39,1,1,20150105,NOP,WAS
+Shot Chart Detail,0021400515,275,202322,John Wall,1610612764,Washington Wizards,3,7,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-185,-21,1,1,20150105,NOP,WAS
+Shot Chart Detail,0021400515,428,202322,John Wall,1610612764,Washington Wizards,4,1,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-160,47,1,1,20150105,NOP,WAS
+Shot Chart Detail,0021400525,4,202322,John Wall,1610612764,Washington Wizards,1,11,19,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150107,WAS,NYK
+Shot Chart Detail,0021400525,113,202322,John Wall,1610612764,Washington Wizards,1,0,31,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,0,1,1,20150107,WAS,NYK
+Shot Chart Detail,0021400525,255,202322,John Wall,1610612764,Washington Wizards,2,1,9,Made Shot,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150107,WAS,NYK
+Shot Chart Detail,0021400525,259,202322,John Wall,1610612764,Washington Wizards,2,0,57,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150107,WAS,NYK
+Shot Chart Detail,0021400525,292,202322,John Wall,1610612764,Washington Wizards,3,8,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-67,249,1,1,20150107,WAS,NYK
+Shot Chart Detail,0021400543,93,202322,John Wall,1610612764,Washington Wizards,1,3,1,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,1,1,1,20150109,WAS,CHI
+Shot Chart Detail,0021400543,242,202322,John Wall,1610612764,Washington Wizards,2,2,15,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-98,175,1,1,20150109,WAS,CHI
+Shot Chart Detail,0021400543,245,202322,John Wall,1610612764,Washington Wizards,2,1,50,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,151,124,1,1,20150109,WAS,CHI
+Shot Chart Detail,0021400543,247,202322,John Wall,1610612764,Washington Wizards,2,1,15,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-7,143,1,1,20150109,WAS,CHI
+Shot Chart Detail,0021400543,340,202322,John Wall,1610612764,Washington Wizards,3,4,36,Made Shot,Driving Bank shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,88,31,1,1,20150109,WAS,CHI
+Shot Chart Detail,0021400543,386,202322,John Wall,1610612764,Washington Wizards,3,0,36,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,144,66,1,1,20150109,WAS,CHI
+Shot Chart Detail,0021400558,49,202322,John Wall,1610612764,Washington Wizards,1,5,16,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,-2,1,1,20150111,ATL,WAS
+Shot Chart Detail,0021400558,55,202322,John Wall,1610612764,Washington Wizards,1,4,41,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,129,94,1,1,20150111,ATL,WAS
+Shot Chart Detail,0021400558,203,202322,John Wall,1610612764,Washington Wizards,2,4,22,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,176,3,1,1,20150111,ATL,WAS
+Shot Chart Detail,0021400558,319,202322,John Wall,1610612764,Washington Wizards,3,6,56,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-180,48,1,1,20150111,ATL,WAS
+Shot Chart Detail,0021400558,328,202322,John Wall,1610612764,Washington Wizards,3,5,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-152,140,1,1,20150111,ATL,WAS
+Shot Chart Detail,0021400558,394,202322,John Wall,1610612764,Washington Wizards,3,0,9,Made Shot,Running Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150111,ATL,WAS
+Shot Chart Detail,0021400569,64,202322,John Wall,1610612764,Washington Wizards,1,4,15,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,11,1,1,20150113,WAS,SAS
+Shot Chart Detail,0021400569,78,202322,John Wall,1610612764,Washington Wizards,1,2,29,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,84,77,1,1,20150113,WAS,SAS
+Shot Chart Detail,0021400569,85,202322,John Wall,1610612764,Washington Wizards,1,1,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,89,249,1,1,20150113,WAS,SAS
+Shot Chart Detail,0021400569,88,202322,John Wall,1610612764,Washington Wizards,1,1,3,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,171,208,1,1,20150113,WAS,SAS
+Shot Chart Detail,0021400569,201,202322,John Wall,1610612764,Washington Wizards,2,2,25,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,18,132,1,1,20150113,WAS,SAS
+Shot Chart Detail,0021400569,221,202322,John Wall,1610612764,Washington Wizards,2,0,56,Made Shot,Floating Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,0,34,1,1,20150113,WAS,SAS
+Shot Chart Detail,0021400569,251,202322,John Wall,1610612764,Washington Wizards,3,11,6,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,32,19,1,1,20150113,WAS,SAS
+Shot Chart Detail,0021400569,315,202322,John Wall,1610612764,Washington Wizards,3,5,13,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,129,102,1,1,20150113,WAS,SAS
+Shot Chart Detail,0021400569,345,202322,John Wall,1610612764,Washington Wizards,3,2,40,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,105,28,1,1,20150113,WAS,SAS
+Shot Chart Detail,0021400579,54,202322,John Wall,1610612764,Washington Wizards,1,4,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-81,140,1,1,20150114,CHI,WAS
+Shot Chart Detail,0021400579,61,202322,John Wall,1610612764,Washington Wizards,1,3,47,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-52,107,1,1,20150114,CHI,WAS
+Shot Chart Detail,0021400579,198,202322,John Wall,1610612764,Washington Wizards,2,3,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,6,1,1,20150114,CHI,WAS
+Shot Chart Detail,0021400579,292,202322,John Wall,1610612764,Washington Wizards,3,5,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,102,126,1,1,20150114,CHI,WAS
+Shot Chart Detail,0021400579,324,202322,John Wall,1610612764,Washington Wizards,3,1,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-78,239,1,1,20150114,CHI,WAS
+Shot Chart Detail,0021400579,412,202322,John Wall,1610612764,Washington Wizards,4,5,31,Made Shot,Driving Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,173,-10,1,1,20150114,CHI,WAS
+Shot Chart Detail,0021400579,450,202322,John Wall,1610612764,Washington Wizards,4,2,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,182,183,1,1,20150114,CHI,WAS
+Shot Chart Detail,0021400579,459,202322,John Wall,1610612764,Washington Wizards,4,1,31,Made Shot,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-57,7,1,1,20150114,CHI,WAS
+Shot Chart Detail,0021400590,6,202322,John Wall,1610612764,Washington Wizards,1,10,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,21,181,110,1,1,20150116,WAS,BKN
+Shot Chart Detail,0021400590,258,202322,John Wall,1610612764,Washington Wizards,3,10,21,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,1,1,1,20150116,WAS,BKN
+Shot Chart Detail,0021400590,274,202322,John Wall,1610612764,Washington Wizards,3,8,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-209,148,1,1,20150116,WAS,BKN
+Shot Chart Detail,0021400590,326,202322,John Wall,1610612764,Washington Wizards,3,3,59,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,1,108,1,1,20150116,WAS,BKN
+Shot Chart Detail,0021400590,450,202322,John Wall,1610612764,Washington Wizards,4,5,9,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-136,6,1,1,20150116,WAS,BKN
+Shot Chart Detail,0021400605,124,202322,John Wall,1610612764,Washington Wizards,1,0,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,47,173,1,1,20150117,BKN,WAS
+Shot Chart Detail,0021400605,227,202322,John Wall,1610612764,Washington Wizards,2,2,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,99,173,1,1,20150117,BKN,WAS
+Shot Chart Detail,0021400605,274,202322,John Wall,1610612764,Washington Wizards,3,10,46,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-150,119,1,1,20150117,BKN,WAS
+Shot Chart Detail,0021400605,300,202322,John Wall,1610612764,Washington Wizards,3,6,23,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,58,69,1,1,20150117,BKN,WAS
+Shot Chart Detail,0021400605,353,202322,John Wall,1610612764,Washington Wizards,3,1,30,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,-5,1,1,20150117,BKN,WAS
+Shot Chart Detail,0021400612,78,202322,John Wall,1610612764,Washington Wizards,1,4,23,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-128,145,1,1,20150119,WAS,PHI
+Shot Chart Detail,0021400612,102,202322,John Wall,1610612764,Washington Wizards,1,2,27,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,157,132,1,1,20150119,WAS,PHI
+Shot Chart Detail,0021400612,110,202322,John Wall,1610612764,Washington Wizards,1,1,33,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-160,88,1,1,20150119,WAS,PHI
+Shot Chart Detail,0021400612,375,202322,John Wall,1610612764,Washington Wizards,3,2,21,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,166,28,1,1,20150119,WAS,PHI
+Shot Chart Detail,0021400633,157,202322,John Wall,1610612764,Washington Wizards,1,0,0,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,31,-52,310,1,1,20150121,WAS,OKC
+Shot Chart Detail,0021400633,264,202322,John Wall,1610612764,Washington Wizards,2,4,56,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150121,WAS,OKC
+Shot Chart Detail,0021400633,425,202322,John Wall,1610612764,Washington Wizards,3,0,30,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,163,206,1,1,20150121,WAS,OKC
+Shot Chart Detail,0021400633,522,202322,John Wall,1610612764,Washington Wizards,4,4,41,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-11,17,1,1,20150121,WAS,OKC
+Shot Chart Detail,0021400633,533,202322,John Wall,1610612764,Washington Wizards,4,3,37,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,12,1,1,20150121,WAS,OKC
+Shot Chart Detail,0021400633,623,202322,John Wall,1610612764,Washington Wizards,5,1,15,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,81,208,1,1,20150121,WAS,OKC
+Shot Chart Detail,0021400656,25,202322,John Wall,1610612764,Washington Wizards,1,9,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,149,124,1,1,20150124,POR,WAS
+Shot Chart Detail,0021400656,30,202322,John Wall,1610612764,Washington Wizards,1,8,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-111,173,1,1,20150124,POR,WAS
+Shot Chart Detail,0021400656,96,202322,John Wall,1610612764,Washington Wizards,1,1,49,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,81,60,1,1,20150124,POR,WAS
+Shot Chart Detail,0021400656,114,202322,John Wall,1610612764,Washington Wizards,1,0,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-100,19,1,1,20150124,POR,WAS
+Shot Chart Detail,0021400656,200,202322,John Wall,1610612764,Washington Wizards,2,3,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-164,11,1,1,20150124,POR,WAS
+Shot Chart Detail,0021400656,240,202322,John Wall,1610612764,Washington Wizards,3,10,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,162,17,1,1,20150124,POR,WAS
+Shot Chart Detail,0021400656,258,202322,John Wall,1610612764,Washington Wizards,3,8,26,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,1,45,1,1,20150124,POR,WAS
+Shot Chart Detail,0021400656,405,202322,John Wall,1610612764,Washington Wizards,4,5,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,125,102,1,1,20150124,POR,WAS
+Shot Chart Detail,0021400656,413,202322,John Wall,1610612764,Washington Wizards,4,4,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,129,118,1,1,20150124,POR,WAS
+Shot Chart Detail,0021400656,471,202322,John Wall,1610612764,Washington Wizards,4,0,38,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,-5,1,1,20150124,POR,WAS
+Shot Chart Detail,0021400666,24,202322,John Wall,1610612764,Washington Wizards,1,9,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-35,247,1,1,20150125,DEN,WAS
+Shot Chart Detail,0021400666,61,202322,John Wall,1610612764,Washington Wizards,1,6,39,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-19,15,1,1,20150125,DEN,WAS
+Shot Chart Detail,0021400666,97,202322,John Wall,1610612764,Washington Wizards,1,2,55,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,11,1,1,20150125,DEN,WAS
+Shot Chart Detail,0021400666,212,202322,John Wall,1610612764,Washington Wizards,2,4,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,0,1,1,20150125,DEN,WAS
+Shot Chart Detail,0021400666,286,202322,John Wall,1610612764,Washington Wizards,3,9,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-106,110,1,1,20150125,DEN,WAS
+Shot Chart Detail,0021400666,369,202322,John Wall,1610612764,Washington Wizards,3,1,45,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,40,25,1,1,20150125,DEN,WAS
+Shot Chart Detail,0021400666,546,202322,John Wall,1610612764,Washington Wizards,5,3,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,-3,1,1,20150125,DEN,WAS
+Shot Chart Detail,0021400666,575,202322,John Wall,1610612764,Washington Wizards,5,0,40,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-19,19,1,1,20150125,DEN,WAS
+Shot Chart Detail,0021400680,96,202322,John Wall,1610612764,Washington Wizards,1,3,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-123,137,1,1,20150127,LAL,WAS
+Shot Chart Detail,0021400680,213,202322,John Wall,1610612764,Washington Wizards,2,4,17,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150127,LAL,WAS
+Shot Chart Detail,0021400680,240,202322,John Wall,1610612764,Washington Wizards,2,1,53,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,9,1,1,20150127,LAL,WAS
+Shot Chart Detail,0021400680,254,202322,John Wall,1610612764,Washington Wizards,2,0,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,-3,1,1,20150127,LAL,WAS
+Shot Chart Detail,0021400680,327,202322,John Wall,1610612764,Washington Wizards,3,5,24,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,0,1,1,20150127,LAL,WAS
+Shot Chart Detail,0021400680,379,202322,John Wall,1610612764,Washington Wizards,3,0,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-52,181,1,1,20150127,LAL,WAS
+Shot Chart Detail,0021400680,472,202322,John Wall,1610612764,Washington Wizards,4,4,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-112,126,1,1,20150127,LAL,WAS
+Shot Chart Detail,0021400680,475,202322,John Wall,1610612764,Washington Wizards,4,4,11,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,116,127,1,1,20150127,LAL,WAS
+Shot Chart Detail,0021400691,220,202322,John Wall,1610612764,Washington Wizards,2,3,5,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,-5,1,1,20150128,PHX,WAS
+Shot Chart Detail,0021400691,231,202322,John Wall,1610612764,Washington Wizards,2,1,42,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,-16,1,1,20150128,PHX,WAS
+Shot Chart Detail,0021400691,251,202322,John Wall,1610612764,Washington Wizards,3,11,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,84,37,1,1,20150128,PHX,WAS
+Shot Chart Detail,0021400691,340,202322,John Wall,1610612764,Washington Wizards,3,2,32,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,7,1,1,20150128,PHX,WAS
+Shot Chart Detail,0021400691,345,202322,John Wall,1610612764,Washington Wizards,3,1,44,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,-6,1,1,20150128,PHX,WAS
+Shot Chart Detail,0021400707,53,202322,John Wall,1610612764,Washington Wizards,1,5,57,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,7,1,1,20150131,WAS,TOR
+Shot Chart Detail,0021400707,71,202322,John Wall,1610612764,Washington Wizards,1,3,27,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,12,1,1,20150131,WAS,TOR
+Shot Chart Detail,0021400707,223,202322,John Wall,1610612764,Washington Wizards,2,3,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,40,258,1,1,20150131,WAS,TOR
+Shot Chart Detail,0021400707,436,202322,John Wall,1610612764,Washington Wizards,4,10,37,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-90,22,1,1,20150131,WAS,TOR
+Shot Chart Detail,0021400707,488,202322,John Wall,1610612764,Washington Wizards,4,6,51,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,11,1,1,20150131,WAS,TOR
+Shot Chart Detail,0021400707,499,202322,John Wall,1610612764,Washington Wizards,4,5,53,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,26,1,1,20150131,WAS,TOR
+Shot Chart Detail,0021400707,526,202322,John Wall,1610612764,Washington Wizards,4,3,28,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,42,86,1,1,20150131,WAS,TOR
+Shot Chart Detail,0021400707,610,202322,John Wall,1610612764,Washington Wizards,5,1,47,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,3,1,1,20150131,WAS,TOR
+Shot Chart Detail,0021400719,87,202322,John Wall,1610612764,Washington Wizards,1,1,9,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-100,137,1,1,20150202,WAS,CHA
+Shot Chart Detail,0021400719,229,202322,John Wall,1610612764,Washington Wizards,2,0,33,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,196,178,1,1,20150202,WAS,CHA
+Shot Chart Detail,0021400719,320,202322,John Wall,1610612764,Washington Wizards,3,4,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,0,1,1,20150202,WAS,CHA
+Shot Chart Detail,0021400719,473,202322,John Wall,1610612764,Washington Wizards,4,0,45,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,7,1,1,20150202,WAS,CHA
+Shot Chart Detail,0021400732,76,202322,John Wall,1610612764,Washington Wizards,1,5,8,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-169,-13,1,1,20150204,ATL,WAS
+Shot Chart Detail,0021400732,108,202322,John Wall,1610612764,Washington Wizards,1,1,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,59,244,1,1,20150204,ATL,WAS
+Shot Chart Detail,0021400732,197,202322,John Wall,1610612764,Washington Wizards,2,5,43,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-226,17,1,1,20150204,ATL,WAS
+Shot Chart Detail,0021400732,199,202322,John Wall,1610612764,Washington Wizards,2,5,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,23,129,201,1,1,20150204,ATL,WAS
+Shot Chart Detail,0021400732,237,202322,John Wall,1610612764,Washington Wizards,2,2,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,1,1,1,20150204,ATL,WAS
+Shot Chart Detail,0021400732,292,202322,John Wall,1610612764,Washington Wizards,3,9,15,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,155,132,1,1,20150204,ATL,WAS
+Shot Chart Detail,0021400732,305,202322,John Wall,1610612764,Washington Wizards,3,8,4,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-38,190,1,1,20150204,ATL,WAS
+Shot Chart Detail,0021400732,359,202322,John Wall,1610612764,Washington Wizards,3,3,45,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,135,140,1,1,20150204,ATL,WAS
+Shot Chart Detail,0021400732,531,202322,John Wall,1610612764,Washington Wizards,4,2,40,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,0,1,1,20150204,ATL,WAS
+Shot Chart Detail,0021400742,73,202322,John Wall,1610612764,Washington Wizards,1,4,52,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,4,1,1,20150205,CHA,WAS
+Shot Chart Detail,0021400742,140,202322,John Wall,1610612764,Washington Wizards,1,0,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,11,1,1,20150205,CHA,WAS
+Shot Chart Detail,0021400742,174,202322,John Wall,1610612764,Washington Wizards,2,8,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,133,113,1,1,20150205,CHA,WAS
+Shot Chart Detail,0021400742,241,202322,John Wall,1610612764,Washington Wizards,2,2,45,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,12,1,1,20150205,CHA,WAS
+Shot Chart Detail,0021400742,279,202322,John Wall,1610612764,Washington Wizards,2,0,0,Made Shot,Driving Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-128,138,1,1,20150205,CHA,WAS
+Shot Chart Detail,0021400742,299,202322,John Wall,1610612764,Washington Wizards,3,10,36,Made Shot,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-4,60,1,1,20150205,CHA,WAS
+Shot Chart Detail,0021400759,31,202322,John Wall,1610612764,Washington Wizards,1,10,11,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,3,1,1,20150207,WAS,BKN
+Shot Chart Detail,0021400759,70,202322,John Wall,1610612764,Washington Wizards,1,6,8,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,111,238,1,1,20150207,WAS,BKN
+Shot Chart Detail,0021400759,107,202322,John Wall,1610612764,Washington Wizards,1,1,42,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,124,91,1,1,20150207,WAS,BKN
+Shot Chart Detail,0021400759,197,202322,John Wall,1610612764,Washington Wizards,2,3,58,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,7,1,1,20150207,WAS,BKN
+Shot Chart Detail,0021400759,340,202322,John Wall,1610612764,Washington Wizards,3,7,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,6,279,1,1,20150207,WAS,BKN
+Shot Chart Detail,0021400759,359,202322,John Wall,1610612764,Washington Wizards,3,6,41,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,196,156,1,1,20150207,WAS,BKN
+Shot Chart Detail,0021400776,111,202322,John Wall,1610612764,Washington Wizards,1,1,0,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,-11,1,1,20150209,WAS,ORL
+Shot Chart Detail,0021400776,276,202322,John Wall,1610612764,Washington Wizards,2,0,22,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,-3,1,1,20150209,WAS,ORL
+Shot Chart Detail,0021400776,286,202322,John Wall,1610612764,Washington Wizards,3,10,52,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,14,1,1,20150209,WAS,ORL
+Shot Chart Detail,0021400791,83,202322,John Wall,1610612764,Washington Wizards,1,4,55,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,0,1,1,20150211,TOR,WAS
+Shot Chart Detail,0021400791,101,202322,John Wall,1610612764,Washington Wizards,1,2,55,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,4,1,1,20150211,TOR,WAS
+Shot Chart Detail,0021400791,103,202322,John Wall,1610612764,Washington Wizards,1,2,24,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,0,1,1,20150211,TOR,WAS
+Shot Chart Detail,0021400791,123,202322,John Wall,1610612764,Washington Wizards,1,0,49,Made Shot,Driving Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150211,TOR,WAS
+Shot Chart Detail,0021400791,240,202322,John Wall,1610612764,Washington Wizards,2,2,11,Made Shot,Driving Bank shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,3,1,1,20150211,TOR,WAS
+Shot Chart Detail,0021400791,284,202322,John Wall,1610612764,Washington Wizards,3,9,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,177,-3,1,1,20150211,TOR,WAS
+Shot Chart Detail,0021400791,469,202322,John Wall,1610612764,Washington Wizards,4,2,10,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,78,244,1,1,20150211,TOR,WAS
+Shot Chart Detail,0021400809,10,202322,John Wall,1610612764,Washington Wizards,1,10,55,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,3,1,1,20150220,WAS,CLE
+Shot Chart Detail,0021400809,26,202322,John Wall,1610612764,Washington Wizards,1,9,6,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2,25,1,1,20150220,WAS,CLE
+Shot Chart Detail,0021400809,88,202322,John Wall,1610612764,Washington Wizards,1,2,59,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,-5,1,1,20150220,WAS,CLE
+Shot Chart Detail,0021400809,253,202322,John Wall,1610612764,Washington Wizards,2,0,26,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-24,30,1,1,20150220,WAS,CLE
+Shot Chart Detail,0021400809,283,202322,John Wall,1610612764,Washington Wizards,3,9,39,Made Shot,Running Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,3,1,1,20150220,WAS,CLE
+Shot Chart Detail,0021400809,312,202322,John Wall,1610612764,Washington Wizards,3,7,3,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,7,1,1,20150220,WAS,CLE
+Shot Chart Detail,0021400809,315,202322,John Wall,1610612764,Washington Wizards,3,6,20,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,0,208,1,1,20150220,WAS,CLE
+Shot Chart Detail,0021400809,348,202322,John Wall,1610612764,Washington Wizards,3,3,31,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,127,132,1,1,20150220,WAS,CLE
+Shot Chart Detail,0021400823,157,202322,John Wall,1610612764,Washington Wizards,2,5,59,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,3,1,1,20150222,DET,WAS
+Shot Chart Detail,0021400823,174,202322,John Wall,1610612764,Washington Wizards,2,5,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,3,1,1,20150222,DET,WAS
+Shot Chart Detail,0021400823,277,202322,John Wall,1610612764,Washington Wizards,3,8,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,190,75,1,1,20150222,DET,WAS
+Shot Chart Detail,0021400823,289,202322,John Wall,1610612764,Washington Wizards,3,7,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-120,107,1,1,20150222,DET,WAS
+Shot Chart Detail,0021400823,335,202322,John Wall,1610612764,Washington Wizards,3,3,1,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-131,112,1,1,20150222,DET,WAS
+Shot Chart Detail,0021400838,7,202322,John Wall,1610612764,Washington Wizards,1,11,3,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,149,96,1,1,20150224,WAS,GSW
+Shot Chart Detail,0021400838,45,202322,John Wall,1610612764,Washington Wizards,1,7,40,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-3,1,1,20150224,WAS,GSW
+Shot Chart Detail,0021400838,126,202322,John Wall,1610612764,Washington Wizards,1,0,0,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-52,135,1,1,20150224,WAS,GSW
+Shot Chart Detail,0021400838,298,202322,John Wall,1610612764,Washington Wizards,3,6,30,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,151,0,1,1,20150224,WAS,GSW
+Shot Chart Detail,0021400838,301,202322,John Wall,1610612764,Washington Wizards,3,5,55,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,144,101,1,1,20150224,WAS,GSW
+Shot Chart Detail,0021400838,423,202322,John Wall,1610612764,Washington Wizards,4,6,45,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,135,127,1,1,20150224,WAS,GSW
+Shot Chart Detail,0021400838,472,202322,John Wall,1610612764,Washington Wizards,4,1,42,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,3,1,1,20150224,WAS,GSW
+Shot Chart Detail,0021400838,492,202322,John Wall,1610612764,Washington Wizards,4,0,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-13,20,1,1,20150224,WAS,GSW
+Shot Chart Detail,0021400848,27,202322,John Wall,1610612764,Washington Wizards,1,10,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-125,208,1,1,20150225,MIN,WAS
+Shot Chart Detail,0021400848,336,202322,John Wall,1610612764,Washington Wizards,3,5,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,149,148,1,1,20150225,MIN,WAS
+Shot Chart Detail,0021400857,57,202322,John Wall,1610612764,Washington Wizards,1,5,0,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,1,206,1,1,20150227,PHI,WAS
+Shot Chart Detail,0021400857,62,202322,John Wall,1610612764,Washington Wizards,1,4,34,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,95,88,1,1,20150227,PHI,WAS
+Shot Chart Detail,0021400857,81,202322,John Wall,1610612764,Washington Wizards,1,3,20,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,-11,1,1,20150227,PHI,WAS
+Shot Chart Detail,0021400857,255,202322,John Wall,1610612764,Washington Wizards,2,1,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,6,1,1,20150227,PHI,WAS
+Shot Chart Detail,0021400857,354,202322,John Wall,1610612764,Washington Wizards,3,4,25,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150227,PHI,WAS
+Shot Chart Detail,0021400857,518,202322,John Wall,1610612764,Washington Wizards,4,1,50,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-59,74,1,1,20150227,PHI,WAS
+Shot Chart Detail,0021400857,555,202322,John Wall,1610612764,Washington Wizards,4,0,18,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-10,19,1,1,20150227,PHI,WAS
+Shot Chart Detail,0021400870,32,202322,John Wall,1610612764,Washington Wizards,1,7,38,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,-3,1,1,20150228,WAS,DET
+Shot Chart Detail,0021400870,109,202322,John Wall,1610612764,Washington Wizards,1,0,44,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,6,1,1,20150228,WAS,DET
+Shot Chart Detail,0021400870,118,202322,John Wall,1610612764,Washington Wizards,1,0,0,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,6,1,1,20150228,WAS,DET
+Shot Chart Detail,0021400870,201,202322,John Wall,1610612764,Washington Wizards,2,4,25,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,6,1,1,20150228,WAS,DET
+Shot Chart Detail,0021400870,279,202322,John Wall,1610612764,Washington Wizards,3,9,36,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,12,1,1,20150228,WAS,DET
+Shot Chart Detail,0021400870,342,202322,John Wall,1610612764,Washington Wizards,3,3,38,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,26,53,1,1,20150228,WAS,DET
+Shot Chart Detail,0021400870,396,202322,John Wall,1610612764,Washington Wizards,4,8,36,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,0,1,1,20150228,WAS,DET
+Shot Chart Detail,0021400870,482,202322,John Wall,1610612764,Washington Wizards,4,1,2,Made Shot,Driving Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,51,28,1,1,20150228,WAS,DET
+Shot Chart Detail,0021400893,41,202322,John Wall,1610612764,Washington Wizards,1,7,20,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,9,1,1,20150303,CHI,WAS
+Shot Chart Detail,0021400893,108,202322,John Wall,1610612764,Washington Wizards,1,2,10,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150303,CHI,WAS
+Shot Chart Detail,0021400893,111,202322,John Wall,1610612764,Washington Wizards,1,1,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,9,1,1,20150303,CHI,WAS
+Shot Chart Detail,0021400893,294,202322,John Wall,1610612764,Washington Wizards,3,7,52,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,28,200,1,1,20150303,CHI,WAS
+Shot Chart Detail,0021400893,305,202322,John Wall,1610612764,Washington Wizards,3,5,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,108,137,1,1,20150303,CHI,WAS
+Shot Chart Detail,0021400893,307,202322,John Wall,1610612764,Washington Wizards,3,4,53,Made Shot,Driving Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-111,66,1,1,20150303,CHI,WAS
+Shot Chart Detail,0021400893,373,202322,John Wall,1610612764,Washington Wizards,3,0,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-130,216,1,1,20150303,CHI,WAS
+Shot Chart Detail,0021400893,432,202322,John Wall,1610612764,Washington Wizards,4,7,52,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,6,1,1,20150303,CHI,WAS
+Shot Chart Detail,0021400920,41,202322,John Wall,1610612764,Washington Wizards,1,8,1,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,-10,1,1,20150306,WAS,MIA
+Shot Chart Detail,0021400920,482,202322,John Wall,1610612764,Washington Wizards,4,2,40,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,-11,1,1,20150306,WAS,MIA
+Shot Chart Detail,0021400929,277,202322,John Wall,1610612764,Washington Wizards,3,9,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,116,222,1,1,20150307,MIL,WAS
+Shot Chart Detail,0021400929,290,202322,John Wall,1610612764,Washington Wizards,3,8,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-38,277,1,1,20150307,MIL,WAS
+Shot Chart Detail,0021400929,441,202322,John Wall,1610612764,Washington Wizards,4,1,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,1,1,1,20150307,MIL,WAS
+Shot Chart Detail,0021400938,14,202322,John Wall,1610612764,Washington Wizards,1,10,25,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,1,1,1,20150309,CHA,WAS
+Shot Chart Detail,0021400938,34,202322,John Wall,1610612764,Washington Wizards,1,8,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,56,179,1,1,20150309,CHA,WAS
+Shot Chart Detail,0021400938,41,202322,John Wall,1610612764,Washington Wizards,1,7,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-187,173,1,1,20150309,CHA,WAS
+Shot Chart Detail,0021400938,49,202322,John Wall,1610612764,Washington Wizards,1,7,7,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,1,1,1,20150309,CHA,WAS
+Shot Chart Detail,0021400938,74,202322,John Wall,1610612764,Washington Wizards,1,2,55,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,11,1,1,20150309,CHA,WAS
+Shot Chart Detail,0021400938,261,202322,John Wall,1610612764,Washington Wizards,3,9,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-149,47,1,1,20150309,CHA,WAS
+Shot Chart Detail,0021400938,318,202322,John Wall,1610612764,Washington Wizards,3,3,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,0,1,1,20150309,CHA,WAS
+Shot Chart Detail,0021400963,39,202322,John Wall,1610612764,Washington Wizards,1,7,56,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-164,0,1,1,20150312,WAS,MEM
+Shot Chart Detail,0021400963,51,202322,John Wall,1610612764,Washington Wizards,1,5,59,Made Shot,Running Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,24,26,1,1,20150312,WAS,MEM
+Shot Chart Detail,0021400963,66,202322,John Wall,1610612764,Washington Wizards,1,4,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-125,124,1,1,20150312,WAS,MEM
+Shot Chart Detail,0021400963,109,202322,John Wall,1610612764,Washington Wizards,1,0,35,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,45,143,1,1,20150312,WAS,MEM
+Shot Chart Detail,0021400963,111,202322,John Wall,1610612764,Washington Wizards,1,0,1,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-15,178,1,1,20150312,WAS,MEM
+Shot Chart Detail,0021400963,236,202322,John Wall,1610612764,Washington Wizards,2,2,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,-14,1,1,20150312,WAS,MEM
+Shot Chart Detail,0021400963,259,202322,John Wall,1610612764,Washington Wizards,2,1,6,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,-3,1,1,20150312,WAS,MEM
+Shot Chart Detail,0021400963,298,202322,John Wall,1610612764,Washington Wizards,3,9,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-78,236,1,1,20150312,WAS,MEM
+Shot Chart Detail,0021400977,46,202322,John Wall,1610612764,Washington Wizards,1,6,21,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,4,1,1,20150314,WAS,SAC
+Shot Chart Detail,0021400977,90,202322,John Wall,1610612764,Washington Wizards,1,2,59,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-5,22,1,1,20150314,WAS,SAC
+Shot Chart Detail,0021400977,166,202322,John Wall,1610612764,Washington Wizards,2,5,27,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,12,26,1,1,20150314,WAS,SAC
+Shot Chart Detail,0021400977,284,202322,John Wall,1610612764,Washington Wizards,3,8,13,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-7,19,1,1,20150314,WAS,SAC
+Shot Chart Detail,0021400977,316,202322,John Wall,1610612764,Washington Wizards,3,5,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,207,138,1,1,20150314,WAS,SAC
+Shot Chart Detail,0021400977,339,202322,John Wall,1610612764,Washington Wizards,3,2,45,Made Shot,Step Back Jump shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,11,1,1,20150314,WAS,SAC
+Shot Chart Detail,0021400977,371,202322,John Wall,1610612764,Washington Wizards,3,0,56,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,12,1,1,20150314,WAS,SAC
+Shot Chart Detail,0021400977,474,202322,John Wall,1610612764,Washington Wizards,4,5,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,195,157,1,1,20150314,WAS,SAC
+Shot Chart Detail,0021400977,509,202322,John Wall,1610612764,Washington Wizards,4,1,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-24,217,1,1,20150314,WAS,SAC
+Shot Chart Detail,0021400991,24,202322,John Wall,1610612764,Washington Wizards,1,8,49,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,34,156,1,1,20150316,WAS,POR
+Shot Chart Detail,0021400991,33,202322,John Wall,1610612764,Washington Wizards,1,7,39,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,160,12,1,1,20150316,WAS,POR
+Shot Chart Detail,0021400991,44,202322,John Wall,1610612764,Washington Wizards,1,6,45,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-2,1,1,20150316,WAS,POR
+Shot Chart Detail,0021400991,114,202322,John Wall,1610612764,Washington Wizards,1,0,11,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,6,1,1,20150316,WAS,POR
+Shot Chart Detail,0021400991,258,202322,John Wall,1610612764,Washington Wizards,2,1,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,4,1,1,20150316,WAS,POR
+Shot Chart Detail,0021400991,292,202322,John Wall,1610612764,Washington Wizards,3,8,47,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,-3,1,1,20150316,WAS,POR
+Shot Chart Detail,0021400991,320,202322,John Wall,1610612764,Washington Wizards,3,5,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,-6,1,1,20150316,WAS,POR
+Shot Chart Detail,0021400991,328,202322,John Wall,1610612764,Washington Wizards,3,5,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,3,1,1,20150316,WAS,POR
+Shot Chart Detail,0021400991,468,202322,John Wall,1610612764,Washington Wizards,4,5,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-111,172,1,1,20150316,WAS,POR
+Shot Chart Detail,0021400991,531,202322,John Wall,1610612764,Washington Wizards,4,0,13,Made Shot,Running Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150316,WAS,POR
+Shot Chart Detail,0021401015,115,202322,John Wall,1610612764,Washington Wizards,1,0,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,147,105,1,1,20150318,UTA,WAS
+Shot Chart Detail,0021401015,216,202322,John Wall,1610612764,Washington Wizards,2,0,59,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,6,1,1,20150318,UTA,WAS
+Shot Chart Detail,0021401015,295,202322,John Wall,1610612764,Washington Wizards,3,6,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,0,1,1,20150318,UTA,WAS
+Shot Chart Detail,0021401015,310,202322,John Wall,1610612764,Washington Wizards,3,4,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,182,47,1,1,20150318,UTA,WAS
+Shot Chart Detail,0021401015,325,202322,John Wall,1610612764,Washington Wizards,3,3,23,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,26,20,1,1,20150318,UTA,WAS
+Shot Chart Detail,0021401015,342,202322,John Wall,1610612764,Washington Wizards,3,1,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-152,134,1,1,20150318,UTA,WAS
+Shot Chart Detail,0021401015,399,202322,John Wall,1610612764,Washington Wizards,4,6,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-24,203,1,1,20150318,UTA,WAS
+Shot Chart Detail,0021401015,430,202322,John Wall,1610612764,Washington Wizards,4,3,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,166,7,1,1,20150318,UTA,WAS
+Shot Chart Detail,0021401015,432,202322,John Wall,1610612764,Washington Wizards,4,3,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-163,137,1,1,20150318,UTA,WAS
+Shot Chart Detail,0021401031,20,202322,John Wall,1610612764,Washington Wizards,1,9,13,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,15,-79,138,1,1,20150320,LAC,WAS
+Shot Chart Detail,0021401031,44,202322,John Wall,1610612764,Washington Wizards,1,6,44,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,3,1,1,20150320,LAC,WAS
+Shot Chart Detail,0021401031,335,202322,John Wall,1610612764,Washington Wizards,3,3,50,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,9,1,1,20150320,LAC,WAS
+Shot Chart Detail,0021401031,380,202322,John Wall,1610612764,Washington Wizards,3,0,22,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,7,1,1,20150320,LAC,WAS
+Shot Chart Detail,0021401031,387,202322,John Wall,1610612764,Washington Wizards,4,11,39,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150320,LAC,WAS
+Shot Chart Detail,0021401031,403,202322,John Wall,1610612764,Washington Wizards,4,10,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-98,235,1,1,20150320,LAC,WAS
+Shot Chart Detail,0021401031,447,202322,John Wall,1610612764,Washington Wizards,4,6,49,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150320,LAC,WAS
+Shot Chart Detail,0021401042,29,202322,John Wall,1610612764,Washington Wizards,1,9,19,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150322,SAC,WAS
+Shot Chart Detail,0021401042,38,202322,John Wall,1610612764,Washington Wizards,1,7,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,234,88,1,1,20150322,SAC,WAS
+Shot Chart Detail,0021401042,338,202322,John Wall,1610612764,Washington Wizards,3,5,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,-6,1,1,20150322,SAC,WAS
+Shot Chart Detail,0021401053,30,202322,John Wall,1610612764,Washington Wizards,1,9,4,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,22,1,1,20150323,GSW,WAS
+Shot Chart Detail,0021401053,100,202322,John Wall,1610612764,Washington Wizards,1,2,23,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,12,175,1,1,20150323,GSW,WAS
+Shot Chart Detail,0021401053,110,202322,John Wall,1610612764,Washington Wizards,1,1,43,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,84,172,1,1,20150323,GSW,WAS
+Shot Chart Detail,0021401053,131,202322,John Wall,1610612764,Washington Wizards,1,0,0,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-158,26,1,1,20150323,GSW,WAS
+Shot Chart Detail,0021401063,58,202322,John Wall,1610612764,Washington Wizards,1,5,3,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150325,WAS,IND
+Shot Chart Detail,0021401063,337,202322,John Wall,1610612764,Washington Wizards,3,7,32,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,6,1,1,20150325,WAS,IND
+Shot Chart Detail,0021401063,374,202322,John Wall,1610612764,Washington Wizards,3,3,40,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-229,26,1,1,20150325,WAS,IND
+Shot Chart Detail,0021401063,381,202322,John Wall,1610612764,Washington Wizards,3,3,19,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150325,WAS,IND
+Shot Chart Detail,0021401063,403,202322,John Wall,1610612764,Washington Wizards,3,1,8,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-30,52,1,1,20150325,WAS,IND
+Shot Chart Detail,0021401063,439,202322,John Wall,1610612764,Washington Wizards,4,10,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-142,89,1,1,20150325,WAS,IND
+Shot Chart Detail,0021401063,445,202322,John Wall,1610612764,Washington Wizards,4,10,14,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,129,119,1,1,20150325,WAS,IND
+Shot Chart Detail,0021401063,452,202322,John Wall,1610612764,Washington Wizards,4,9,41,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-120,146,1,1,20150325,WAS,IND
+Shot Chart Detail,0021401063,458,202322,John Wall,1610612764,Washington Wizards,4,9,2,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,1,1,1,20150325,WAS,IND
+Shot Chart Detail,0021401063,492,202322,John Wall,1610612764,Washington Wizards,4,6,46,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,140,142,1,1,20150325,WAS,IND
+Shot Chart Detail,0021401063,596,202322,John Wall,1610612764,Washington Wizards,4,0,11,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-19,277,1,1,20150325,WAS,IND
+Shot Chart Detail,0021401076,28,202322,John Wall,1610612764,Washington Wizards,1,8,41,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,135,66,1,1,20150327,WAS,CHA
+Shot Chart Detail,0021401076,47,202322,John Wall,1610612764,Washington Wizards,1,5,51,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,-10,1,1,20150327,WAS,CHA
+Shot Chart Detail,0021401076,119,202322,John Wall,1610612764,Washington Wizards,1,0,43,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,4,101,1,1,20150327,WAS,CHA
+Shot Chart Detail,0021401076,219,202322,John Wall,1610612764,Washington Wizards,2,5,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-112,151,1,1,20150327,WAS,CHA
+Shot Chart Detail,0021401076,222,202322,John Wall,1610612764,Washington Wizards,2,4,46,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,13,19,1,1,20150327,WAS,CHA
+Shot Chart Detail,0021401076,350,202322,John Wall,1610612764,Washington Wizards,3,4,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,174,45,1,1,20150327,WAS,CHA
+Shot Chart Detail,0021401076,393,202322,John Wall,1610612764,Washington Wizards,3,2,13,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,135,134,1,1,20150327,WAS,CHA
+Shot Chart Detail,0021401076,598,202322,John Wall,1610612764,Washington Wizards,4,0,3,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,151,157,1,1,20150327,WAS,CHA
+Shot Chart Detail,0021401076,629,202322,John Wall,1610612764,Washington Wizards,5,2,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,91,254,1,1,20150327,WAS,CHA
+Shot Chart Detail,0021401076,679,202322,John Wall,1610612764,Washington Wizards,6,4,6,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-2,209,1,1,20150327,WAS,CHA
+Shot Chart Detail,0021401076,691,202322,John Wall,1610612764,Washington Wizards,6,2,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-212,131,1,1,20150327,WAS,CHA
+Shot Chart Detail,0021401076,707,202322,John Wall,1610612764,Washington Wizards,6,0,9,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-68,129,1,1,20150327,WAS,CHA
+Shot Chart Detail,0021401097,77,202322,John Wall,1610612764,Washington Wizards,1,5,34,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-158,67,1,1,20150329,WAS,HOU
+Shot Chart Detail,0021401097,219,202322,John Wall,1610612764,Washington Wizards,2,5,13,Made Shot,Driving Bank shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,36,17,1,1,20150329,WAS,HOU
+Shot Chart Detail,0021401097,257,202322,John Wall,1610612764,Washington Wizards,2,1,36,Made Shot,Running Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150329,WAS,HOU
+Shot Chart Detail,0021401097,299,202322,John Wall,1610612764,Washington Wizards,3,9,2,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,3,1,1,20150329,WAS,HOU
+Shot Chart Detail,0021401097,303,202322,John Wall,1610612764,Washington Wizards,3,8,27,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,22,1,227,1,1,20150329,WAS,HOU
+Shot Chart Detail,0021401097,318,202322,John Wall,1610612764,Washington Wizards,3,7,42,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,124,134,1,1,20150329,WAS,HOU
+Shot Chart Detail,0021401097,398,202322,John Wall,1610612764,Washington Wizards,3,1,5,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-78,164,1,1,20150329,WAS,HOU
+Shot Chart Detail,0021401114,55,202322,John Wall,1610612764,Washington Wizards,1,5,17,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,28,167,1,1,20150401,WAS,PHI
+Shot Chart Detail,0021401114,85,202322,John Wall,1610612764,Washington Wizards,1,1,44,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,6,1,1,20150401,WAS,PHI
+Shot Chart Detail,0021401114,258,202322,John Wall,1610612764,Washington Wizards,2,0,4,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,0,151,1,1,20150401,WAS,PHI
+Shot Chart Detail,0021401114,273,202322,John Wall,1610612764,Washington Wizards,3,10,53,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,13,268,1,1,20150401,WAS,PHI
+Shot Chart Detail,0021401114,488,202322,John Wall,1610612764,Washington Wizards,4,4,2,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,100,127,1,1,20150401,WAS,PHI
+Shot Chart Detail,0021401114,490,202322,John Wall,1610612764,Washington Wizards,4,3,34,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,116,157,1,1,20150401,WAS,PHI
+Shot Chart Detail,0021401128,36,202322,John Wall,1610612764,Washington Wizards,1,7,56,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,11,1,1,20150403,WAS,NYK
+Shot Chart Detail,0021401128,54,202322,John Wall,1610612764,Washington Wizards,1,5,1,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,43,110,1,1,20150403,WAS,NYK
+Shot Chart Detail,0021401128,355,202322,John Wall,1610612764,Washington Wizards,3,2,59,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-103,67,1,1,20150403,WAS,NYK
+Shot Chart Detail,0021401141,14,202322,John Wall,1610612764,Washington Wizards,1,10,38,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,231,34,1,1,20150404,MEM,WAS
+Shot Chart Detail,0021401141,56,202322,John Wall,1610612764,Washington Wizards,1,4,40,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,106,50,1,1,20150404,MEM,WAS
+Shot Chart Detail,0021401141,90,202322,John Wall,1610612764,Washington Wizards,1,1,32,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,0,1,1,20150404,MEM,WAS
+Shot Chart Detail,0021401141,177,202322,John Wall,1610612764,Washington Wizards,2,4,5,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,141,157,1,1,20150404,MEM,WAS
+Shot Chart Detail,0021401141,180,202322,John Wall,1610612764,Washington Wizards,2,3,44,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,0,60,1,1,20150404,MEM,WAS
+Shot Chart Detail,0021401141,256,202322,John Wall,1610612764,Washington Wizards,3,6,57,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,72,197,1,1,20150404,MEM,WAS
+Shot Chart Detail,0021401141,408,202322,John Wall,1610612764,Washington Wizards,4,4,37,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150404,MEM,WAS
+Shot Chart Detail,0021401198,16,202322,John Wall,1610612764,Washington Wizards,1,10,1,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-242,25,1,1,20150412,WAS,ATL
+Shot Chart Detail,0021401198,45,202322,John Wall,1610612764,Washington Wizards,1,6,1,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,28,217,1,1,20150412,WAS,ATL
+Shot Chart Detail,0021401198,84,202322,John Wall,1610612764,Washington Wizards,1,3,17,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,1,1,1,20150412,WAS,ATL
+Shot Chart Detail,0021401198,103,202322,John Wall,1610612764,Washington Wizards,1,0,54,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,0,1,1,20150412,WAS,ATL
+Shot Chart Detail,0021401198,106,202322,John Wall,1610612764,Washington Wizards,1,0,34,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,18,254,1,1,20150412,WAS,ATL
+Shot Chart Detail,0021401198,249,202322,John Wall,1610612764,Washington Wizards,2,1,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,34,217,1,1,20150412,WAS,ATL
+Shot Chart Detail,0021401198,252,202322,John Wall,1610612764,Washington Wizards,2,1,26,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,3,1,1,20150412,WAS,ATL
+Shot Chart Detail,0021401198,309,202322,John Wall,1610612764,Washington Wizards,3,8,33,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,-16,1,1,20150412,WAS,ATL
+Shot Chart Detail,0021401198,528,202322,John Wall,1610612764,Washington Wizards,4,3,35,Made Shot,Driving Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150412,WAS,ATL
+Shot Chart Detail,0021401215,25,202322,John Wall,1610612764,Washington Wizards,1,8,39,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-123,47,1,1,20150414,IND,WAS
+Shot Chart Detail,0021401215,54,202322,John Wall,1610612764,Washington Wizards,1,5,14,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,0,1,1,20150414,IND,WAS
+Shot Chart Detail,0021401215,233,202322,John Wall,1610612764,Washington Wizards,2,0,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,1,1,1,20150414,IND,WAS
+Shot Chart Detail,0021401215,325,202322,John Wall,1610612764,Washington Wizards,3,2,27,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,77,167,1,1,20150414,IND,WAS
+Shot Chart Detail,0021401215,478,202322,John Wall,1610612764,Washington Wizards,4,0,51,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,0,78,1,1,20150414,IND,WAS
+Shot Chart Detail,0021401215,534,202322,John Wall,1610612764,Washington Wizards,5,0,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,12,1,1,20150414,IND,WAS
+Shot Chart Detail,0021401215,586,202322,John Wall,1610612764,Washington Wizards,6,0,44,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-2,48,1,1,20150414,IND,WAS

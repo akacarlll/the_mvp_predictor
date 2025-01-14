@@ -1,0 +1,415 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0021200011,353,201144,Mike Conley,1610612763,Memphis Grizzlies,3,8,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-114,241,1,1,20121031,LAC,MEM
+Shot Chart Detail,0021200011,543,201144,Mike Conley,1610612763,Memphis Grizzlies,4,5,13,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,15,1,1,20121031,LAC,MEM
+Shot Chart Detail,0021200026,16,201144,Mike Conley,1610612763,Memphis Grizzlies,1,9,45,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,12,1,1,20121102,GSW,MEM
+Shot Chart Detail,0021200026,109,201144,Mike Conley,1610612763,Memphis Grizzlies,1,1,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,108,156,1,1,20121102,GSW,MEM
+Shot Chart Detail,0021200026,210,201144,Mike Conley,1610612763,Memphis Grizzlies,2,4,18,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-81,241,1,1,20121102,GSW,MEM
+Shot Chart Detail,0021200026,311,201144,Mike Conley,1610612763,Memphis Grizzlies,3,5,26,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,140,231,1,1,20121102,GSW,MEM
+Shot Chart Detail,0021200026,314,201144,Mike Conley,1610612763,Memphis Grizzlies,3,4,42,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-161,214,1,1,20121102,GSW,MEM
+Shot Chart Detail,0021200045,13,201144,Mike Conley,1610612763,Memphis Grizzlies,1,9,54,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,19,1,1,20121105,MEM,UTA
+Shot Chart Detail,0021200045,104,201144,Mike Conley,1610612763,Memphis Grizzlies,1,3,8,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-23,34,1,1,20121105,MEM,UTA
+Shot Chart Detail,0021200045,279,201144,Mike Conley,1610612763,Memphis Grizzlies,3,10,38,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,6,1,1,20121105,MEM,UTA
+Shot Chart Detail,0021200045,282,201144,Mike Conley,1610612763,Memphis Grizzlies,3,10,16,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,0,1,1,20121105,MEM,UTA
+Shot Chart Detail,0021200045,349,201144,Mike Conley,1610612763,Memphis Grizzlies,3,3,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,1,1,1,20121105,MEM,UTA
+Shot Chart Detail,0021200045,444,201144,Mike Conley,1610612763,Memphis Grizzlies,4,7,15,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,0,1,1,20121105,MEM,UTA
+Shot Chart Detail,0021200045,482,201144,Mike Conley,1610612763,Memphis Grizzlies,4,2,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,155,190,1,1,20121105,MEM,UTA
+Shot Chart Detail,0021200057,74,201144,Mike Conley,1610612763,Memphis Grizzlies,1,3,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,84,126,1,1,20121107,MIL,MEM
+Shot Chart Detail,0021200057,189,201144,Mike Conley,1610612763,Memphis Grizzlies,2,5,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,4,1,1,20121107,MIL,MEM
+Shot Chart Detail,0021200057,369,201144,Mike Conley,1610612763,Memphis Grizzlies,3,1,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,4,1,1,20121107,MIL,MEM
+Shot Chart Detail,0021200057,464,201144,Mike Conley,1610612763,Memphis Grizzlies,4,6,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,4,1,1,20121107,MIL,MEM
+Shot Chart Detail,0021200057,489,201144,Mike Conley,1610612763,Memphis Grizzlies,4,4,37,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-73,47,1,1,20121107,MIL,MEM
+Shot Chart Detail,0021200073,31,201144,Mike Conley,1610612763,Memphis Grizzlies,1,8,20,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-30,12,1,1,20121109,MEM,HOU
+Shot Chart Detail,0021200073,207,201144,Mike Conley,1610612763,Memphis Grizzlies,2,2,42,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,4,1,1,20121109,MEM,HOU
+Shot Chart Detail,0021200073,209,201144,Mike Conley,1610612763,Memphis Grizzlies,2,2,10,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,15,1,1,20121109,MEM,HOU
+Shot Chart Detail,0021200073,309,201144,Mike Conley,1610612763,Memphis Grizzlies,3,4,29,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,70,56,1,1,20121109,MEM,HOU
+Shot Chart Detail,0021200073,470,201144,Mike Conley,1610612763,Memphis Grizzlies,4,1,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,89,231,1,1,20121109,MEM,HOU
+Shot Chart Detail,0021200092,17,201144,Mike Conley,1610612763,Memphis Grizzlies,1,9,44,Made Shot,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-57,15,1,1,20121111,MEM,MIA
+Shot Chart Detail,0021200092,232,201144,Mike Conley,1610612763,Memphis Grizzlies,2,2,23,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,22,1,1,20121111,MEM,MIA
+Shot Chart Detail,0021200092,235,201144,Mike Conley,1610612763,Memphis Grizzlies,2,2,1,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-133,3,1,1,20121111,MEM,MIA
+Shot Chart Detail,0021200092,237,201144,Mike Conley,1610612763,Memphis Grizzlies,2,1,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,14,1,1,20121111,MEM,MIA
+Shot Chart Detail,0021200092,267,201144,Mike Conley,1610612763,Memphis Grizzlies,3,11,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,130,224,1,1,20121111,MEM,MIA
+Shot Chart Detail,0021200092,316,201144,Mike Conley,1610612763,Memphis Grizzlies,3,6,2,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,11,1,1,20121111,MEM,MIA
+Shot Chart Detail,0021200092,493,201144,Mike Conley,1610612763,Memphis Grizzlies,4,4,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,29,4,298,1,1,20121111,MEM,MIA
+Shot Chart Detail,0021200113,221,201144,Mike Conley,1610612763,Memphis Grizzlies,2,3,13,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,47,71,1,1,20121114,OKC,MEM
+Shot Chart Detail,0021200113,242,201144,Mike Conley,1610612763,Memphis Grizzlies,2,0,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,0,1,1,20121114,OKC,MEM
+Shot Chart Detail,0021200113,273,201144,Mike Conley,1610612763,Memphis Grizzlies,3,9,23,Made Shot,Running Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,4,31,1,1,20121114,OKC,MEM
+Shot Chart Detail,0021200113,307,201144,Mike Conley,1610612763,Memphis Grizzlies,3,5,44,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-10,178,1,1,20121114,OKC,MEM
+Shot Chart Detail,0021200127,6,201144,Mike Conley,1610612763,Memphis Grizzlies,1,10,57,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,11,1,1,20121116,MEM,NYK
+Shot Chart Detail,0021200127,45,201144,Mike Conley,1610612763,Memphis Grizzlies,1,5,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,-8,1,1,20121116,MEM,NYK
+Shot Chart Detail,0021200127,83,201144,Mike Conley,1610612763,Memphis Grizzlies,1,1,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,80,194,1,1,20121116,MEM,NYK
+Shot Chart Detail,0021200127,180,201144,Mike Conley,1610612763,Memphis Grizzlies,2,3,7,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,226,82,1,1,20121116,MEM,NYK
+Shot Chart Detail,0021200127,219,201144,Mike Conley,1610612763,Memphis Grizzlies,2,0,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-175,200,1,1,20121116,MEM,NYK
+Shot Chart Detail,0021200127,336,201144,Mike Conley,1610612763,Memphis Grizzlies,3,2,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,4,1,1,20121116,MEM,NYK
+Shot Chart Detail,0021200134,89,201144,Mike Conley,1610612763,Memphis Grizzlies,1,3,57,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,3,1,1,20121117,CHA,MEM
+Shot Chart Detail,0021200134,218,201144,Mike Conley,1610612763,Memphis Grizzlies,2,4,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,-9,1,1,20121117,CHA,MEM
+Shot Chart Detail,0021200134,238,201144,Mike Conley,1610612763,Memphis Grizzlies,2,2,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,-3,1,1,20121117,CHA,MEM
+Shot Chart Detail,0021200134,240,201144,Mike Conley,1610612763,Memphis Grizzlies,2,1,52,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,6,1,1,20121117,CHA,MEM
+Shot Chart Detail,0021200134,308,201144,Mike Conley,1610612763,Memphis Grizzlies,3,8,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,12,1,1,20121117,CHA,MEM
+Shot Chart Detail,0021200134,319,201144,Mike Conley,1610612763,Memphis Grizzlies,3,7,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,7,1,1,20121117,CHA,MEM
+Shot Chart Detail,0021200134,540,201144,Mike Conley,1610612763,Memphis Grizzlies,4,3,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,31,-98,304,1,1,20121117,CHA,MEM
+Shot Chart Detail,0021200150,10,201144,Mike Conley,1610612763,Memphis Grizzlies,1,10,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,40,241,1,1,20121119,MEM,DEN
+Shot Chart Detail,0021200150,87,201144,Mike Conley,1610612763,Memphis Grizzlies,1,3,13,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,14,1,1,20121119,MEM,DEN
+Shot Chart Detail,0021200150,238,201144,Mike Conley,1610612763,Memphis Grizzlies,2,1,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,17,1,1,20121119,MEM,DEN
+Shot Chart Detail,0021200150,417,201144,Mike Conley,1610612763,Memphis Grizzlies,4,6,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-105,217,1,1,20121119,MEM,DEN
+Shot Chart Detail,0021200177,33,201144,Mike Conley,1610612763,Memphis Grizzlies,1,7,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,-2,1,1,20121123,MEM,LAL
+Shot Chart Detail,0021200177,171,201144,Mike Conley,1610612763,Memphis Grizzlies,2,6,22,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,-2,1,1,20121123,MEM,LAL
+Shot Chart Detail,0021200177,248,201144,Mike Conley,1610612763,Memphis Grizzlies,2,1,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,0,1,1,20121123,MEM,LAL
+Shot Chart Detail,0021200177,299,201144,Mike Conley,1610612763,Memphis Grizzlies,3,8,32,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,42,1,1,20121123,MEM,LAL
+Shot Chart Detail,0021200177,339,201144,Mike Conley,1610612763,Memphis Grizzlies,3,3,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,14,1,1,20121123,MEM,LAL
+Shot Chart Detail,0021200177,344,201144,Mike Conley,1610612763,Memphis Grizzlies,3,3,15,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,0,1,1,20121123,MEM,LAL
+Shot Chart Detail,0021200177,497,201144,Mike Conley,1610612763,Memphis Grizzlies,4,1,43,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,0,162,1,1,20121123,MEM,LAL
+Shot Chart Detail,0021200177,509,201144,Mike Conley,1610612763,Memphis Grizzlies,4,0,39,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-125,160,1,1,20121123,MEM,LAL
+Shot Chart Detail,0021200216,2,201144,Mike Conley,1610612763,Memphis Grizzlies,1,11,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,155,200,1,1,20121128,MEM,TOR
+Shot Chart Detail,0021200216,114,201144,Mike Conley,1610612763,Memphis Grizzlies,2,11,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,165,214,1,1,20121128,MEM,TOR
+Shot Chart Detail,0021200216,144,201144,Mike Conley,1610612763,Memphis Grizzlies,2,8,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-65,252,1,1,20121128,MEM,TOR
+Shot Chart Detail,0021200216,501,201144,Mike Conley,1610612763,Memphis Grizzlies,4,3,35,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,-5,1,1,20121128,MEM,TOR
+Shot Chart Detail,0021200228,210,201144,Mike Conley,1610612763,Memphis Grizzlies,2,3,29,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-34,33,1,1,20121130,MEM,DET
+Shot Chart Detail,0021200228,313,201144,Mike Conley,1610612763,Memphis Grizzlies,3,5,57,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,0,42,1,1,20121130,MEM,DET
+Shot Chart Detail,0021200228,318,201144,Mike Conley,1610612763,Memphis Grizzlies,3,5,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,124,225,1,1,20121130,MEM,DET
+Shot Chart Detail,0021200228,331,201144,Mike Conley,1610612763,Memphis Grizzlies,3,4,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-7,258,1,1,20121130,MEM,DET
+Shot Chart Detail,0021200228,455,201144,Mike Conley,1610612763,Memphis Grizzlies,4,3,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,-3,1,1,20121130,MEM,DET
+Shot Chart Detail,0021200228,494,201144,Mike Conley,1610612763,Memphis Grizzlies,4,0,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-179,184,1,1,20121130,MEM,DET
+Shot Chart Detail,0021200239,313,201144,Mike Conley,1610612763,Memphis Grizzlies,3,7,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,-8,1,1,20121201,SAS,MEM
+Shot Chart Detail,0021200239,434,201144,Mike Conley,1610612763,Memphis Grizzlies,4,7,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,212,159,1,1,20121201,SAS,MEM
+Shot Chart Detail,0021200239,460,201144,Mike Conley,1610612763,Memphis Grizzlies,4,4,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,-5,1,1,20121201,SAS,MEM
+Shot Chart Detail,0021200239,531,201144,Mike Conley,1610612763,Memphis Grizzlies,5,4,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,1,1,1,20121201,SAS,MEM
+Shot Chart Detail,0021200239,570,201144,Mike Conley,1610612763,Memphis Grizzlies,5,0,43,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,-19,1,1,20121201,SAS,MEM
+Shot Chart Detail,0021200255,297,201144,Mike Conley,1610612763,Memphis Grizzlies,3,10,12,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,9,23,1,1,20121204,MEM,PHX
+Shot Chart Detail,0021200255,533,201144,Mike Conley,1610612763,Memphis Grizzlies,5,4,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,29,-150,252,1,1,20121204,MEM,PHX
+Shot Chart Detail,0021200275,208,201144,Mike Conley,1610612763,Memphis Grizzlies,2,3,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,160,192,1,1,20121207,NOH,MEM
+Shot Chart Detail,0021200275,423,201144,Mike Conley,1610612763,Memphis Grizzlies,4,8,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,17,1,1,20121207,NOH,MEM
+Shot Chart Detail,0021200289,23,201144,Mike Conley,1610612763,Memphis Grizzlies,1,8,49,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,1,1,1,20121208,MEM,ATL
+Shot Chart Detail,0021200289,217,201144,Mike Conley,1610612763,Memphis Grizzlies,2,2,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-34,246,1,1,20121208,MEM,ATL
+Shot Chart Detail,0021200289,441,201144,Mike Conley,1610612763,Memphis Grizzlies,4,4,21,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-32,107,1,1,20121208,MEM,ATL
+Shot Chart Detail,0021200289,450,201144,Mike Conley,1610612763,Memphis Grizzlies,4,2,43,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-41,101,1,1,20121208,MEM,ATL
+Shot Chart Detail,0021200320,26,201144,Mike Conley,1610612763,Memphis Grizzlies,1,9,26,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,-2,1,1,20121212,PHX,MEM
+Shot Chart Detail,0021200320,33,201144,Mike Conley,1610612763,Memphis Grizzlies,1,8,7,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,-21,1,1,20121212,PHX,MEM
+Shot Chart Detail,0021200320,76,201144,Mike Conley,1610612763,Memphis Grizzlies,1,3,37,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,7,1,1,20121212,PHX,MEM
+Shot Chart Detail,0021200335,31,201144,Mike Conley,1610612763,Memphis Grizzlies,1,8,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,132,129,1,1,20121214,DEN,MEM
+Shot Chart Detail,0021200335,115,201144,Mike Conley,1610612763,Memphis Grizzlies,1,0,46,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,236,7,1,1,20121214,DEN,MEM
+Shot Chart Detail,0021200335,273,201144,Mike Conley,1610612763,Memphis Grizzlies,3,10,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,7,1,1,20121214,DEN,MEM
+Shot Chart Detail,0021200335,312,201144,Mike Conley,1610612763,Memphis Grizzlies,3,7,4,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,231,-2,1,1,20121214,DEN,MEM
+Shot Chart Detail,0021200335,333,201144,Mike Conley,1610612763,Memphis Grizzlies,3,4,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,23,-188,137,1,1,20121214,DEN,MEM
+Shot Chart Detail,0021200345,29,201144,Mike Conley,1610612763,Memphis Grizzlies,1,8,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,1,1,1,20121215,UTA,MEM
+Shot Chart Detail,0021200345,42,201144,Mike Conley,1610612763,Memphis Grizzlies,1,6,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,13,241,1,1,20121215,UTA,MEM
+Shot Chart Detail,0021200345,207,201144,Mike Conley,1610612763,Memphis Grizzlies,2,2,38,Made Shot,Driving Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-26,15,1,1,20121215,UTA,MEM
+Shot Chart Detail,0021200345,451,201144,Mike Conley,1610612763,Memphis Grizzlies,4,3,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-168,175,1,1,20121215,UTA,MEM
+Shot Chart Detail,0021200353,34,201144,Mike Conley,1610612763,Memphis Grizzlies,1,8,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,4,1,1,20121217,MEM,CHI
+Shot Chart Detail,0021200353,201,201144,Mike Conley,1610612763,Memphis Grizzlies,2,2,18,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,2,48,1,1,20121217,MEM,CHI
+Shot Chart Detail,0021200353,219,201144,Mike Conley,1610612763,Memphis Grizzlies,2,0,11,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,9,1,1,20121217,MEM,CHI
+Shot Chart Detail,0021200353,242,201144,Mike Conley,1610612763,Memphis Grizzlies,3,8,31,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-56,113,1,1,20121217,MEM,CHI
+Shot Chart Detail,0021200353,260,201144,Mike Conley,1610612763,Memphis Grizzlies,3,6,14,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-48,101,1,1,20121217,MEM,CHI
+Shot Chart Detail,0021200353,285,201144,Mike Conley,1610612763,Memphis Grizzlies,3,3,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,206,149,1,1,20121217,MEM,CHI
+Shot Chart Detail,0021200374,302,201144,Mike Conley,1610612763,Memphis Grizzlies,3,9,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,7,1,1,20121219,MEM,MIL
+Shot Chart Detail,0021200374,312,201144,Mike Conley,1610612763,Memphis Grizzlies,3,7,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,7,1,1,20121219,MEM,MIL
+Shot Chart Detail,0021200374,330,201144,Mike Conley,1610612763,Memphis Grizzlies,3,5,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,14,1,1,20121219,MEM,MIL
+Shot Chart Detail,0021200374,395,201144,Mike Conley,1610612763,Memphis Grizzlies,3,0,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,-2,1,1,20121219,MEM,MIL
+Shot Chart Detail,0021200386,227,201144,Mike Conley,1610612763,Memphis Grizzlies,2,3,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,6,1,1,20121221,MEM,DAL
+Shot Chart Detail,0021200386,248,201144,Mike Conley,1610612763,Memphis Grizzlies,2,0,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-114,138,1,1,20121221,MEM,DAL
+Shot Chart Detail,0021200394,42,201144,Mike Conley,1610612763,Memphis Grizzlies,1,8,18,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,0,1,1,20121222,HOU,MEM
+Shot Chart Detail,0021200394,61,201144,Mike Conley,1610612763,Memphis Grizzlies,1,5,54,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,10,48,1,1,20121222,HOU,MEM
+Shot Chart Detail,0021200394,78,201144,Mike Conley,1610612763,Memphis Grizzlies,1,3,46,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-2,119,1,1,20121222,HOU,MEM
+Shot Chart Detail,0021200394,107,201144,Mike Conley,1610612763,Memphis Grizzlies,1,1,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-65,189,1,1,20121222,HOU,MEM
+Shot Chart Detail,0021200394,228,201144,Mike Conley,1610612763,Memphis Grizzlies,2,0,34,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-24,9,1,1,20121222,HOU,MEM
+Shot Chart Detail,0021200394,261,201144,Mike Conley,1610612763,Memphis Grizzlies,3,8,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,9,1,1,20121222,HOU,MEM
+Shot Chart Detail,0021200394,316,201144,Mike Conley,1610612763,Memphis Grizzlies,3,3,36,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,28,9,1,1,20121222,HOU,MEM
+Shot Chart Detail,0021200416,8,201144,Mike Conley,1610612763,Memphis Grizzlies,1,10,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,9,1,1,20121226,MEM,PHI
+Shot Chart Detail,0021200416,314,201144,Mike Conley,1610612763,Memphis Grizzlies,3,4,39,Made Shot,Step Back Jump shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,67,1,1,20121226,MEM,PHI
+Shot Chart Detail,0021200416,475,201144,Mike Conley,1610612763,Memphis Grizzlies,4,1,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,12,1,1,20121226,MEM,PHI
+Shot Chart Detail,0021200442,25,201144,Mike Conley,1610612763,Memphis Grizzlies,1,8,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-169,22,1,1,20121229,MEM,DEN
+Shot Chart Detail,0021200442,158,201144,Mike Conley,1610612763,Memphis Grizzlies,2,5,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-120,66,1,1,20121229,MEM,DEN
+Shot Chart Detail,0021200442,240,201144,Mike Conley,1610612763,Memphis Grizzlies,3,9,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-153,217,1,1,20121229,MEM,DEN
+Shot Chart Detail,0021200452,114,201144,Mike Conley,1610612763,Memphis Grizzlies,2,10,47,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-59,86,1,1,20121231,IND,MEM
+Shot Chart Detail,0021200452,231,201144,Mike Conley,1610612763,Memphis Grizzlies,3,11,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-183,214,1,1,20121231,IND,MEM
+Shot Chart Detail,0021200452,502,201144,Mike Conley,1610612763,Memphis Grizzlies,4,0,16,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,4,1,1,20121231,IND,MEM
+Shot Chart Detail,0021200468,16,201144,Mike Conley,1610612763,Memphis Grizzlies,1,9,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,141,216,1,1,20130102,BOS,MEM
+Shot Chart Detail,0021200468,56,201144,Mike Conley,1610612763,Memphis Grizzlies,1,4,31,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,6,1,1,20130102,BOS,MEM
+Shot Chart Detail,0021200468,59,201144,Mike Conley,1610612763,Memphis Grizzlies,1,3,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-128,206,1,1,20130102,BOS,MEM
+Shot Chart Detail,0021200468,107,201144,Mike Conley,1610612763,Memphis Grizzlies,2,10,57,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,0,1,1,20130102,BOS,MEM
+Shot Chart Detail,0021200468,164,201144,Mike Conley,1610612763,Memphis Grizzlies,2,3,57,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-15,63,1,1,20130102,BOS,MEM
+Shot Chart Detail,0021200468,205,201144,Mike Conley,1610612763,Memphis Grizzlies,2,0,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,17,1,1,20130102,BOS,MEM
+Shot Chart Detail,0021200468,262,201144,Mike Conley,1610612763,Memphis Grizzlies,3,6,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,22,212,86,1,1,20130102,BOS,MEM
+Shot Chart Detail,0021200468,326,201144,Mike Conley,1610612763,Memphis Grizzlies,3,0,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-141,213,1,1,20130102,BOS,MEM
+Shot Chart Detail,0021200484,72,201144,Mike Conley,1610612763,Memphis Grizzlies,1,4,55,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-24,0,1,1,20130104,MEM,POR
+Shot Chart Detail,0021200484,158,201144,Mike Conley,1610612763,Memphis Grizzlies,2,7,59,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,0,1,1,20130104,MEM,POR
+Shot Chart Detail,0021200502,194,201144,Mike Conley,1610612763,Memphis Grizzlies,2,4,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-89,172,1,1,20130106,PHX,MEM
+Shot Chart Detail,0021200502,271,201144,Mike Conley,1610612763,Memphis Grizzlies,3,8,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,12,1,1,20130106,PHX,MEM
+Shot Chart Detail,0021200502,423,201144,Mike Conley,1610612763,Memphis Grizzlies,4,7,44,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-68,119,1,1,20130106,PHX,MEM
+Shot Chart Detail,0021200509,4,201144,Mike Conley,1610612763,Memphis Grizzlies,1,11,35,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,3,1,1,20130107,SAC,MEM
+Shot Chart Detail,0021200509,152,201144,Mike Conley,1610612763,Memphis Grizzlies,2,8,45,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-35,20,1,1,20130107,SAC,MEM
+Shot Chart Detail,0021200509,225,201144,Mike Conley,1610612763,Memphis Grizzlies,2,2,21,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,239,39,1,1,20130107,SAC,MEM
+Shot Chart Detail,0021200509,232,201144,Mike Conley,1610612763,Memphis Grizzlies,2,1,8,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,2,85,1,1,20130107,SAC,MEM
+Shot Chart Detail,0021200509,292,201144,Mike Conley,1610612763,Memphis Grizzlies,3,7,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,218,137,1,1,20130107,SAC,MEM
+Shot Chart Detail,0021200526,29,201144,Mike Conley,1610612763,Memphis Grizzlies,1,8,42,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,1,1,1,20130109,GSW,MEM
+Shot Chart Detail,0021200526,153,201144,Mike Conley,1610612763,Memphis Grizzlies,2,8,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,140,71,1,1,20130109,GSW,MEM
+Shot Chart Detail,0021200526,162,201144,Mike Conley,1610612763,Memphis Grizzlies,2,7,57,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,15,1,1,20130109,GSW,MEM
+Shot Chart Detail,0021200526,192,201144,Mike Conley,1610612763,Memphis Grizzlies,2,4,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,189,190,1,1,20130109,GSW,MEM
+Shot Chart Detail,0021200526,418,201144,Mike Conley,1610612763,Memphis Grizzlies,4,6,30,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-19,12,1,1,20130109,GSW,MEM
+Shot Chart Detail,0021200526,460,201144,Mike Conley,1610612763,Memphis Grizzlies,4,1,51,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,12,1,1,20130109,GSW,MEM
+Shot Chart Detail,0021200535,33,201144,Mike Conley,1610612763,Memphis Grizzlies,1,7,50,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,11,1,1,20130111,MEM,SAS
+Shot Chart Detail,0021200535,190,201144,Mike Conley,1610612763,Memphis Grizzlies,2,2,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,108,230,1,1,20130111,MEM,SAS
+Shot Chart Detail,0021200535,196,201144,Mike Conley,1610612763,Memphis Grizzlies,2,1,16,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,43,41,1,1,20130111,MEM,SAS
+Shot Chart Detail,0021200535,372,201144,Mike Conley,1610612763,Memphis Grizzlies,4,10,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,7,1,1,20130111,MEM,SAS
+Shot Chart Detail,0021200535,385,201144,Mike Conley,1610612763,Memphis Grizzlies,4,8,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,3,1,1,20130111,MEM,SAS
+Shot Chart Detail,0021200547,7,201144,Mike Conley,1610612763,Memphis Grizzlies,1,10,35,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,-2,1,1,20130112,DAL,MEM
+Shot Chart Detail,0021200547,18,201144,Mike Conley,1610612763,Memphis Grizzlies,1,9,0,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-224,12,1,1,20130112,DAL,MEM
+Shot Chart Detail,0021200559,41,201144,Mike Conley,1610612763,Memphis Grizzlies,1,6,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,15,1,1,20130114,MEM,LAC
+Shot Chart Detail,0021200559,194,201144,Mike Conley,1610612763,Memphis Grizzlies,2,6,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,195,146,1,1,20130114,MEM,LAC
+Shot Chart Detail,0021200576,8,201144,Mike Conley,1610612763,Memphis Grizzlies,1,10,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,206,14,1,1,20130116,SAS,MEM
+Shot Chart Detail,0021200576,130,201144,Mike Conley,1610612763,Memphis Grizzlies,2,7,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,171,178,1,1,20130116,SAS,MEM
+Shot Chart Detail,0021200576,156,201144,Mike Conley,1610612763,Memphis Grizzlies,2,5,39,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,78,42,1,1,20130116,SAS,MEM
+Shot Chart Detail,0021200589,33,201144,Mike Conley,1610612763,Memphis Grizzlies,1,6,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,0,1,1,20130118,MEM,SAC
+Shot Chart Detail,0021200589,211,201144,Mike Conley,1610612763,Memphis Grizzlies,2,2,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,4,211,1,1,20130118,MEM,SAC
+Shot Chart Detail,0021200589,326,201144,Mike Conley,1610612763,Memphis Grizzlies,3,4,2,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-7,173,1,1,20130118,MEM,SAC
+Shot Chart Detail,0021200589,420,201144,Mike Conley,1610612763,Memphis Grizzlies,4,7,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,102,176,1,1,20130118,MEM,SAC
+Shot Chart Detail,0021200589,455,201144,Mike Conley,1610612763,Memphis Grizzlies,4,3,51,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,0,1,1,20130118,MEM,SAC
+Shot Chart Detail,0021200589,461,201144,Mike Conley,1610612763,Memphis Grizzlies,4,3,27,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,-13,1,1,20130118,MEM,SAC
+Shot Chart Detail,0021200589,478,201144,Mike Conley,1610612763,Memphis Grizzlies,4,1,30,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,0,1,1,20130118,MEM,SAC
+Shot Chart Detail,0021200595,22,201144,Mike Conley,1610612763,Memphis Grizzlies,1,8,29,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-166,28,1,1,20130119,CHI,MEM
+Shot Chart Detail,0021200595,25,201144,Mike Conley,1610612763,Memphis Grizzlies,1,8,2,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,11,1,1,20130119,CHI,MEM
+Shot Chart Detail,0021200595,38,201144,Mike Conley,1610612763,Memphis Grizzlies,1,5,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-111,159,1,1,20130119,CHI,MEM
+Shot Chart Detail,0021200595,171,201144,Mike Conley,1610612763,Memphis Grizzlies,2,6,2,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-11,17,1,1,20130119,CHI,MEM
+Shot Chart Detail,0021200595,414,201144,Mike Conley,1610612763,Memphis Grizzlies,4,9,30,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,7,1,1,20130119,CHI,MEM
+Shot Chart Detail,0021200605,26,201144,Mike Conley,1610612763,Memphis Grizzlies,1,8,29,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-30,178,1,1,20130121,MEM,IND
+Shot Chart Detail,0021200605,41,201144,Mike Conley,1610612763,Memphis Grizzlies,1,6,38,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,3,1,1,20130121,MEM,IND
+Shot Chart Detail,0021200605,48,201144,Mike Conley,1610612763,Memphis Grizzlies,1,5,4,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,0,151,1,1,20130121,MEM,IND
+Shot Chart Detail,0021200605,240,201144,Mike Conley,1610612763,Memphis Grizzlies,3,8,15,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-65,44,1,1,20130121,MEM,IND
+Shot Chart Detail,0021200605,389,201144,Mike Conley,1610612763,Memphis Grizzlies,4,3,26,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,100,124,1,1,20130121,MEM,IND
+Shot Chart Detail,0021200605,399,201144,Mike Conley,1610612763,Memphis Grizzlies,4,2,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,222,138,1,1,20130121,MEM,IND
+Shot Chart Detail,0021200621,43,201144,Mike Conley,1610612763,Memphis Grizzlies,1,6,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-21,149,1,1,20130123,MEM,LAL
+Shot Chart Detail,0021200621,152,201144,Mike Conley,1610612763,Memphis Grizzlies,2,9,12,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-98,160,1,1,20130123,MEM,LAL
+Shot Chart Detail,0021200621,159,201144,Mike Conley,1610612763,Memphis Grizzlies,2,8,39,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,59,72,1,1,20130123,MEM,LAL
+Shot Chart Detail,0021200621,169,201144,Mike Conley,1610612763,Memphis Grizzlies,2,8,1,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,11,-68,93,1,1,20130123,MEM,LAL
+Shot Chart Detail,0021200621,196,201144,Mike Conley,1610612763,Memphis Grizzlies,2,5,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-75,252,1,1,20130123,MEM,LAL
+Shot Chart Detail,0021200621,202,201144,Mike Conley,1610612763,Memphis Grizzlies,2,4,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,12,1,1,20130123,MEM,LAL
+Shot Chart Detail,0021200621,228,201144,Mike Conley,1610612763,Memphis Grizzlies,2,1,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-114,157,1,1,20130123,MEM,LAL
+Shot Chart Detail,0021200621,296,201144,Mike Conley,1610612763,Memphis Grizzlies,3,6,50,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,40,108,1,1,20130123,MEM,LAL
+Shot Chart Detail,0021200621,305,201144,Mike Conley,1610612763,Memphis Grizzlies,3,5,53,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,0,1,1,20130123,MEM,LAL
+Shot Chart Detail,0021200637,51,201144,Mike Conley,1610612763,Memphis Grizzlies,1,4,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,9,252,1,1,20130125,MEM,BKN
+Shot Chart Detail,0021200637,92,201144,Mike Conley,1610612763,Memphis Grizzlies,1,2,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,0,1,1,20130125,MEM,BKN
+Shot Chart Detail,0021200637,248,201144,Mike Conley,1610612763,Memphis Grizzlies,3,10,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-161,195,1,1,20130125,MEM,BKN
+Shot Chart Detail,0021200637,251,201144,Mike Conley,1610612763,Memphis Grizzlies,3,10,21,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,15,17,1,1,20130125,MEM,BKN
+Shot Chart Detail,0021200637,256,201144,Mike Conley,1610612763,Memphis Grizzlies,3,9,30,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-5,101,1,1,20130125,MEM,BKN
+Shot Chart Detail,0021200637,419,201144,Mike Conley,1610612763,Memphis Grizzlies,4,4,36,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-81,183,1,1,20130125,MEM,BKN
+Shot Chart Detail,0021200682,211,201144,Mike Conley,1610612763,Memphis Grizzlies,2,3,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,-2,1,1,20130131,OKC,MEM
+Shot Chart Detail,0021200682,255,201144,Mike Conley,1610612763,Memphis Grizzlies,2,0,41,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,32,167,1,1,20130131,OKC,MEM
+Shot Chart Detail,0021200682,275,201144,Mike Conley,1610612763,Memphis Grizzlies,3,11,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,217,127,1,1,20130131,OKC,MEM
+Shot Chart Detail,0021200682,321,201144,Mike Conley,1610612763,Memphis Grizzlies,3,6,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,218,108,1,1,20130131,OKC,MEM
+Shot Chart Detail,0021200682,344,201144,Mike Conley,1610612763,Memphis Grizzlies,3,2,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-7,244,1,1,20130131,OKC,MEM
+Shot Chart Detail,0021200682,366,201144,Mike Conley,1610612763,Memphis Grizzlies,3,1,4,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,1,1,1,20130131,OKC,MEM
+Shot Chart Detail,0021200682,393,201144,Mike Conley,1610612763,Memphis Grizzlies,4,10,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-106,203,1,1,20130131,OKC,MEM
+Shot Chart Detail,0021200691,33,201144,Mike Conley,1610612763,Memphis Grizzlies,1,7,26,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,6,1,1,20130201,MEM,WAS
+Shot Chart Detail,0021200691,42,201144,Mike Conley,1610612763,Memphis Grizzlies,1,6,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,147,162,1,1,20130201,MEM,WAS
+Shot Chart Detail,0021200691,66,201144,Mike Conley,1610612763,Memphis Grizzlies,1,2,42,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-16,36,1,1,20130201,MEM,WAS
+Shot Chart Detail,0021200691,209,201144,Mike Conley,1610612763,Memphis Grizzlies,2,1,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-153,154,1,1,20130201,MEM,WAS
+Shot Chart Detail,0021200691,286,201144,Mike Conley,1610612763,Memphis Grizzlies,3,6,6,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,0,1,1,20130201,MEM,WAS
+Shot Chart Detail,0021200691,315,201144,Mike Conley,1610612763,Memphis Grizzlies,3,3,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,196,145,1,1,20130201,MEM,WAS
+Shot Chart Detail,0021200691,413,201144,Mike Conley,1610612763,Memphis Grizzlies,4,4,33,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,15,1,1,20130201,MEM,WAS
+Shot Chart Detail,0021200717,41,201144,Mike Conley,1610612763,Memphis Grizzlies,1,6,35,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-15,192,1,1,20130205,MEM,PHX
+Shot Chart Detail,0021200717,198,201144,Mike Conley,1610612763,Memphis Grizzlies,2,3,32,Made Shot,Driving Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-48,17,1,1,20130205,MEM,PHX
+Shot Chart Detail,0021200717,234,201144,Mike Conley,1610612763,Memphis Grizzlies,2,0,3,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-68,64,1,1,20130205,MEM,PHX
+Shot Chart Detail,0021200725,11,201144,Mike Conley,1610612763,Memphis Grizzlies,1,9,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,108,225,1,1,20130206,ATL,MEM
+Shot Chart Detail,0021200725,17,201144,Mike Conley,1610612763,Memphis Grizzlies,1,8,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-120,148,1,1,20130206,ATL,MEM
+Shot Chart Detail,0021200725,191,201144,Mike Conley,1610612763,Memphis Grizzlies,2,4,17,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,4,1,1,20130206,ATL,MEM
+Shot Chart Detail,0021200725,214,201144,Mike Conley,1610612763,Memphis Grizzlies,2,1,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,24,216,1,1,20130206,ATL,MEM
+Shot Chart Detail,0021200725,427,201144,Mike Conley,1610612763,Memphis Grizzlies,4,8,26,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,6,1,1,20130206,ATL,MEM
+Shot Chart Detail,0021200725,473,201144,Mike Conley,1610612763,Memphis Grizzlies,4,1,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-213,121,1,1,20130206,ATL,MEM
+Shot Chart Detail,0021200742,17,201144,Mike Conley,1610612763,Memphis Grizzlies,1,9,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,168,113,1,1,20130208,MEM,GSW
+Shot Chart Detail,0021200742,427,201144,Mike Conley,1610612763,Memphis Grizzlies,4,6,5,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,36,1,1,20130208,MEM,GSW
+Shot Chart Detail,0021200757,2,201144,Mike Conley,1610612763,Memphis Grizzlies,1,11,46,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-40,149,1,1,20130210,MEM,MIN
+Shot Chart Detail,0021200757,86,201144,Mike Conley,1610612763,Memphis Grizzlies,1,3,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,166,201,1,1,20130210,MEM,MIN
+Shot Chart Detail,0021200757,221,201144,Mike Conley,1610612763,Memphis Grizzlies,2,3,40,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,1,1,1,20130210,MEM,MIN
+Shot Chart Detail,0021200757,249,201144,Mike Conley,1610612763,Memphis Grizzlies,2,0,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-13,246,1,1,20130210,MEM,MIN
+Shot Chart Detail,0021200757,348,201144,Mike Conley,1610612763,Memphis Grizzlies,3,1,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,118,170,1,1,20130210,MEM,MIN
+Shot Chart Detail,0021200757,412,201144,Mike Conley,1610612763,Memphis Grizzlies,4,6,56,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-6,1,1,20130210,MEM,MIN
+Shot Chart Detail,0021200771,14,201144,Mike Conley,1610612763,Memphis Grizzlies,1,9,25,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,42,238,1,1,20130212,MEM,SAC
+Shot Chart Detail,0021200771,188,201144,Mike Conley,1610612763,Memphis Grizzlies,2,5,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,173,176,1,1,20130212,MEM,SAC
+Shot Chart Detail,0021200771,282,201144,Mike Conley,1610612763,Memphis Grizzlies,3,8,18,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,-6,1,1,20130212,MEM,SAC
+Shot Chart Detail,0021200771,308,201144,Mike Conley,1610612763,Memphis Grizzlies,3,5,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,-2,1,1,20130212,MEM,SAC
+Shot Chart Detail,0021200771,375,201144,Mike Conley,1610612763,Memphis Grizzlies,4,8,50,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,-2,1,1,20130212,MEM,SAC
+Shot Chart Detail,0021200771,457,201144,Mike Conley,1610612763,Memphis Grizzlies,4,3,7,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,47,55,1,1,20130212,MEM,SAC
+Shot Chart Detail,0021200792,28,201144,Mike Conley,1610612763,Memphis Grizzlies,1,8,8,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,-2,1,1,20130219,DET,MEM
+Shot Chart Detail,0021200792,47,201144,Mike Conley,1610612763,Memphis Grizzlies,1,5,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,113,156,1,1,20130219,DET,MEM
+Shot Chart Detail,0021200792,95,201144,Mike Conley,1610612763,Memphis Grizzlies,1,0,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,11,1,1,20130219,DET,MEM
+Shot Chart Detail,0021200792,244,201144,Mike Conley,1610612763,Memphis Grizzlies,3,11,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,182,101,1,1,20130219,DET,MEM
+Shot Chart Detail,0021200792,271,201144,Mike Conley,1610612763,Memphis Grizzlies,3,8,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,0,1,1,20130219,DET,MEM
+Shot Chart Detail,0021200792,305,201144,Mike Conley,1610612763,Memphis Grizzlies,3,5,9,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,3,1,1,20130219,DET,MEM
+Shot Chart Detail,0021200792,317,201144,Mike Conley,1610612763,Memphis Grizzlies,3,4,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-155,201,1,1,20130219,DET,MEM
+Shot Chart Detail,0021200792,344,201144,Mike Conley,1610612763,Memphis Grizzlies,3,1,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,215,132,1,1,20130219,DET,MEM
+Shot Chart Detail,0021200798,82,201144,Mike Conley,1610612763,Memphis Grizzlies,1,5,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,173,206,1,1,20130220,TOR,MEM
+Shot Chart Detail,0021200798,380,201144,Mike Conley,1610612763,Memphis Grizzlies,3,3,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,102,249,1,1,20130220,TOR,MEM
+Shot Chart Detail,0021200798,399,201144,Mike Conley,1610612763,Memphis Grizzlies,3,0,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,-215,17,1,1,20130220,TOR,MEM
+Shot Chart Detail,0021200798,526,201144,Mike Conley,1610612763,Memphis Grizzlies,4,1,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-127,219,1,1,20130220,TOR,MEM
+Shot Chart Detail,0021200817,31,201144,Mike Conley,1610612763,Memphis Grizzlies,1,7,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-141,225,1,1,20130222,MEM,ORL
+Shot Chart Detail,0021200817,156,201144,Mike Conley,1610612763,Memphis Grizzlies,2,4,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,-5,1,1,20130222,MEM,ORL
+Shot Chart Detail,0021200817,200,201144,Mike Conley,1610612763,Memphis Grizzlies,2,0,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-127,151,1,1,20130222,MEM,ORL
+Shot Chart Detail,0021200817,209,201144,Mike Conley,1610612763,Memphis Grizzlies,3,11,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,61,244,1,1,20130222,MEM,ORL
+Shot Chart Detail,0021200831,369,201144,Mike Conley,1610612763,Memphis Grizzlies,4,8,20,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,-2,1,1,20130224,BKN,MEM
+Shot Chart Detail,0021200831,371,201144,Mike Conley,1610612763,Memphis Grizzlies,4,7,45,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,14,1,1,20130224,BKN,MEM
+Shot Chart Detail,0021200831,384,201144,Mike Conley,1610612763,Memphis Grizzlies,4,5,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,39,192,1,1,20130224,BKN,MEM
+Shot Chart Detail,0021200831,410,201144,Mike Conley,1610612763,Memphis Grizzlies,4,1,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-87,173,1,1,20130224,BKN,MEM
+Shot Chart Detail,0021200855,304,201144,Mike Conley,1610612763,Memphis Grizzlies,3,10,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,6,1,1,20130227,MEM,DAL
+Shot Chart Detail,0021200855,411,201144,Mike Conley,1610612763,Memphis Grizzlies,3,0,28,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-11,37,1,1,20130227,MEM,DAL
+Shot Chart Detail,0021200868,90,201144,Mike Conley,1610612763,Memphis Grizzlies,1,3,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,195,9,1,1,20130301,MIA,MEM
+Shot Chart Detail,0021200868,235,201144,Mike Conley,1610612763,Memphis Grizzlies,2,2,38,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,0,1,1,20130301,MIA,MEM
+Shot Chart Detail,0021200868,290,201144,Mike Conley,1610612763,Memphis Grizzlies,3,10,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,10,254,1,1,20130301,MIA,MEM
+Shot Chart Detail,0021200868,303,201144,Mike Conley,1610612763,Memphis Grizzlies,3,8,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,170,181,1,1,20130301,MIA,MEM
+Shot Chart Detail,0021200868,307,201144,Mike Conley,1610612763,Memphis Grizzlies,3,7,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,135,148,1,1,20130301,MIA,MEM
+Shot Chart Detail,0021200868,534,201144,Mike Conley,1610612763,Memphis Grizzlies,4,0,7,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,15,1,1,20130301,MIA,MEM
+Shot Chart Detail,0021200883,16,201144,Mike Conley,1610612763,Memphis Grizzlies,1,10,29,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,2,20,1,1,20130303,ORL,MEM
+Shot Chart Detail,0021200883,44,201144,Mike Conley,1610612763,Memphis Grizzlies,1,6,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,147,225,1,1,20130303,ORL,MEM
+Shot Chart Detail,0021200883,227,201144,Mike Conley,1610612763,Memphis Grizzlies,2,2,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,3,1,1,20130303,ORL,MEM
+Shot Chart Detail,0021200883,234,201144,Mike Conley,1610612763,Memphis Grizzlies,2,0,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,143,200,1,1,20130303,ORL,MEM
+Shot Chart Detail,0021200883,269,201144,Mike Conley,1610612763,Memphis Grizzlies,3,7,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,88,9,1,1,20130303,ORL,MEM
+Shot Chart Detail,0021200905,18,201144,Mike Conley,1610612763,Memphis Grizzlies,1,9,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,122,231,1,1,20130306,MEM,POR
+Shot Chart Detail,0021200905,114,201144,Mike Conley,1610612763,Memphis Grizzlies,1,0,49,Made Shot,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,31,41,1,1,20130306,MEM,POR
+Shot Chart Detail,0021200905,210,201144,Mike Conley,1610612763,Memphis Grizzlies,2,1,45,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-15,52,1,1,20130306,MEM,POR
+Shot Chart Detail,0021200905,244,201144,Mike Conley,1610612763,Memphis Grizzlies,3,11,20,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-127,145,1,1,20130306,MEM,POR
+Shot Chart Detail,0021200905,270,201144,Mike Conley,1610612763,Memphis Grizzlies,3,7,30,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,3,1,1,20130306,MEM,POR
+Shot Chart Detail,0021200905,326,201144,Mike Conley,1610612763,Memphis Grizzlies,3,3,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-73,159,1,1,20130306,MEM,POR
+Shot Chart Detail,0021200905,329,201144,Mike Conley,1610612763,Memphis Grizzlies,3,2,52,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-60,45,1,1,20130306,MEM,POR
+Shot Chart Detail,0021200920,33,201144,Mike Conley,1610612763,Memphis Grizzlies,1,6,43,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,-3,1,1,20130308,CLE,MEM
+Shot Chart Detail,0021200920,254,201144,Mike Conley,1610612763,Memphis Grizzlies,3,11,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,7,1,1,20130308,CLE,MEM
+Shot Chart Detail,0021200920,270,201144,Mike Conley,1610612763,Memphis Grizzlies,3,9,2,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,4,45,1,1,20130308,CLE,MEM
+Shot Chart Detail,0021200920,436,201144,Mike Conley,1610612763,Memphis Grizzlies,4,4,9,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,3,1,1,20130308,CLE,MEM
+Shot Chart Detail,0021200920,438,201144,Mike Conley,1610612763,Memphis Grizzlies,4,3,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-108,200,1,1,20130308,CLE,MEM
+Shot Chart Detail,0021200920,450,201144,Mike Conley,1610612763,Memphis Grizzlies,4,1,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,1,1,1,20130308,CLE,MEM
+Shot Chart Detail,0021200930,33,201144,Mike Conley,1610612763,Memphis Grizzlies,1,7,25,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,0,1,1,20130309,MEM,NOH
+Shot Chart Detail,0021200930,177,201144,Mike Conley,1610612763,Memphis Grizzlies,2,4,10,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,48,105,1,1,20130309,MEM,NOH
+Shot Chart Detail,0021200930,193,201144,Mike Conley,1610612763,Memphis Grizzlies,2,2,42,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-6,1,1,20130309,MEM,NOH
+Shot Chart Detail,0021200930,211,201144,Mike Conley,1610612763,Memphis Grizzlies,2,0,34,Made Shot,Running Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,15,37,1,1,20130309,MEM,NOH
+Shot Chart Detail,0021200930,242,201144,Mike Conley,1610612763,Memphis Grizzlies,3,10,9,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,1,1,1,20130309,MEM,NOH
+Shot Chart Detail,0021200930,345,201144,Mike Conley,1610612763,Memphis Grizzlies,3,1,31,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-15,20,1,1,20130309,MEM,NOH
+Shot Chart Detail,0021200930,359,201144,Mike Conley,1610612763,Memphis Grizzlies,3,0,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,234,99,1,1,20130309,MEM,NOH
+Shot Chart Detail,0021200930,399,201144,Mike Conley,1610612763,Memphis Grizzlies,4,8,28,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,3,1,1,20130309,MEM,NOH
+Shot Chart Detail,0021200955,196,201144,Mike Conley,1610612763,Memphis Grizzlies,2,2,20,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-8,1,1,20130312,POR,MEM
+Shot Chart Detail,0021200955,400,201144,Mike Conley,1610612763,Memphis Grizzlies,4,8,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,-2,1,1,20130312,POR,MEM
+Shot Chart Detail,0021200955,431,201144,Mike Conley,1610612763,Memphis Grizzlies,4,5,40,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,11,1,1,20130312,POR,MEM
+Shot Chart Detail,0021200955,473,201144,Mike Conley,1610612763,Memphis Grizzlies,4,0,58,Made Shot,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,58,19,1,1,20130312,POR,MEM
+Shot Chart Detail,0021200965,15,201144,Mike Conley,1610612763,Memphis Grizzlies,1,9,33,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,6,23,1,1,20130313,LAC,MEM
+Shot Chart Detail,0021200965,162,201144,Mike Conley,1610612763,Memphis Grizzlies,2,4,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-19,17,1,1,20130313,LAC,MEM
+Shot Chart Detail,0021200965,181,201144,Mike Conley,1610612763,Memphis Grizzlies,2,3,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-144,225,1,1,20130313,LAC,MEM
+Shot Chart Detail,0021200965,242,201144,Mike Conley,1610612763,Memphis Grizzlies,3,9,22,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,6,1,1,20130313,LAC,MEM
+Shot Chart Detail,0021200965,247,201144,Mike Conley,1610612763,Memphis Grizzlies,3,8,55,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-18,33,1,1,20130313,LAC,MEM
+Shot Chart Detail,0021200977,70,201144,Mike Conley,1610612763,Memphis Grizzlies,1,5,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,3,1,1,20130315,DEN,MEM
+Shot Chart Detail,0021200977,267,201144,Mike Conley,1610612763,Memphis Grizzlies,3,11,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,6,1,1,20130315,DEN,MEM
+Shot Chart Detail,0021200977,370,201144,Mike Conley,1610612763,Memphis Grizzlies,3,1,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,152,56,1,1,20130315,DEN,MEM
+Shot Chart Detail,0021200977,481,201144,Mike Conley,1610612763,Memphis Grizzlies,4,4,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-2,269,1,1,20130315,DEN,MEM
+Shot Chart Detail,0021200983,24,201144,Mike Conley,1610612763,Memphis Grizzlies,1,9,54,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-27,7,1,1,20130316,UTA,MEM
+Shot Chart Detail,0021200983,112,201144,Mike Conley,1610612763,Memphis Grizzlies,2,10,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,140,153,1,1,20130316,UTA,MEM
+Shot Chart Detail,0021200983,154,201144,Mike Conley,1610612763,Memphis Grizzlies,2,7,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,4,1,1,20130316,UTA,MEM
+Shot Chart Detail,0021200983,379,201144,Mike Conley,1610612763,Memphis Grizzlies,4,11,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,7,1,1,20130316,UTA,MEM
+Shot Chart Detail,0021200983,399,201144,Mike Conley,1610612763,Memphis Grizzlies,4,8,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,12,1,1,20130316,UTA,MEM
+Shot Chart Detail,0021200983,417,201144,Mike Conley,1610612763,Memphis Grizzlies,4,6,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,9,1,1,20130316,UTA,MEM
+Shot Chart Detail,0021201000,57,201144,Mike Conley,1610612763,Memphis Grizzlies,1,6,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,11,1,1,20130318,MEM,MIN
+Shot Chart Detail,0021201000,59,201144,Mike Conley,1610612763,Memphis Grizzlies,1,5,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-108,148,1,1,20130318,MEM,MIN
+Shot Chart Detail,0021201000,92,201144,Mike Conley,1610612763,Memphis Grizzlies,1,1,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,6,1,1,20130318,MEM,MIN
+Shot Chart Detail,0021201000,240,201144,Mike Conley,1610612763,Memphis Grizzlies,2,0,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-114,143,1,1,20130318,MEM,MIN
+Shot Chart Detail,0021201000,250,201144,Mike Conley,1610612763,Memphis Grizzlies,3,11,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,4,1,1,20130318,MEM,MIN
+Shot Chart Detail,0021201000,289,201144,Mike Conley,1610612763,Memphis Grizzlies,3,7,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-139,201,1,1,20130318,MEM,MIN
+Shot Chart Detail,0021201000,324,201144,Mike Conley,1610612763,Memphis Grizzlies,3,3,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,168,178,1,1,20130318,MEM,MIN
+Shot Chart Detail,0021201000,451,201144,Mike Conley,1610612763,Memphis Grizzlies,4,3,52,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,11,1,1,20130318,MEM,MIN
+Shot Chart Detail,0021201012,14,201144,Mike Conley,1610612763,Memphis Grizzlies,1,10,41,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-127,148,1,1,20130320,MEM,OKC
+Shot Chart Detail,0021201012,30,201144,Mike Conley,1610612763,Memphis Grizzlies,1,9,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-106,227,1,1,20130320,MEM,OKC
+Shot Chart Detail,0021201012,237,201144,Mike Conley,1610612763,Memphis Grizzlies,2,1,20,Made Shot,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,13,48,1,1,20130320,MEM,OKC
+Shot Chart Detail,0021201012,285,201144,Mike Conley,1610612763,Memphis Grizzlies,3,8,31,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-125,78,1,1,20130320,MEM,OKC
+Shot Chart Detail,0021201012,311,201144,Mike Conley,1610612763,Memphis Grizzlies,3,6,11,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,58,82,1,1,20130320,MEM,OKC
+Shot Chart Detail,0021201012,403,201144,Mike Conley,1610612763,Memphis Grizzlies,4,10,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,19,1,1,20130320,MEM,OKC
+Shot Chart Detail,0021201012,412,201144,Mike Conley,1610612763,Memphis Grizzlies,4,9,9,Made Shot,Jump Bank Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,1,33,1,1,20130320,MEM,OKC
+Shot Chart Detail,0021201012,418,201144,Mike Conley,1610612763,Memphis Grizzlies,4,8,45,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,4,1,1,20130320,MEM,OKC
+Shot Chart Detail,0021201012,499,201144,Mike Conley,1610612763,Memphis Grizzlies,4,0,15,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,-10,1,1,20130320,MEM,OKC
+Shot Chart Detail,0021201027,56,201144,Mike Conley,1610612763,Memphis Grizzlies,1,5,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,170,4,1,1,20130322,NOH,MEM
+Shot Chart Detail,0021201027,302,201144,Mike Conley,1610612763,Memphis Grizzlies,3,9,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,3,1,1,20130322,NOH,MEM
+Shot Chart Detail,0021201027,476,201144,Mike Conley,1610612763,Memphis Grizzlies,4,5,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,73,241,1,1,20130322,NOH,MEM
+Shot Chart Detail,0021201027,509,201144,Mike Conley,1610612763,Memphis Grizzlies,4,3,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-3,264,1,1,20130322,NOH,MEM
+Shot Chart Detail,0021201027,514,201144,Mike Conley,1610612763,Memphis Grizzlies,4,2,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,155,194,1,1,20130322,NOH,MEM
+Shot Chart Detail,0021201036,36,201144,Mike Conley,1610612763,Memphis Grizzlies,1,7,44,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,4,1,1,20130323,MEM,BOS
+Shot Chart Detail,0021201036,222,201144,Mike Conley,1610612763,Memphis Grizzlies,2,2,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,0,1,1,20130323,MEM,BOS
+Shot Chart Detail,0021201036,412,201144,Mike Conley,1610612763,Memphis Grizzlies,4,7,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,6,1,1,20130323,MEM,BOS
+Shot Chart Detail,0021201036,475,201144,Mike Conley,1610612763,Memphis Grizzlies,4,1,58,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,32,104,1,1,20130323,MEM,BOS
+Shot Chart Detail,0021201048,41,201144,Mike Conley,1610612763,Memphis Grizzlies,1,6,37,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,-3,1,1,20130325,WAS,MEM
+Shot Chart Detail,0021201048,54,201144,Mike Conley,1610612763,Memphis Grizzlies,1,4,50,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,73,75,1,1,20130325,WAS,MEM
+Shot Chart Detail,0021201048,61,201144,Mike Conley,1610612763,Memphis Grizzlies,1,3,10,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,13,50,1,1,20130325,WAS,MEM
+Shot Chart Detail,0021201048,202,201144,Mike Conley,1610612763,Memphis Grizzlies,2,4,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,118,107,1,1,20130325,WAS,MEM
+Shot Chart Detail,0021201048,261,201144,Mike Conley,1610612763,Memphis Grizzlies,2,0,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,7,261,1,1,20130325,WAS,MEM
+Shot Chart Detail,0021201048,348,201144,Mike Conley,1610612763,Memphis Grizzlies,3,4,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,116,126,1,1,20130325,WAS,MEM
+Shot Chart Detail,0021201048,379,201144,Mike Conley,1610612763,Memphis Grizzlies,3,1,36,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,0,1,1,20130325,WAS,MEM
+Shot Chart Detail,0021201061,61,201144,Mike Conley,1610612763,Memphis Grizzlies,1,4,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,0,1,1,20130327,NYK,MEM
+Shot Chart Detail,0021201061,97,201144,Mike Conley,1610612763,Memphis Grizzlies,1,1,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,7,1,1,20130327,NYK,MEM
+Shot Chart Detail,0021201061,107,201144,Mike Conley,1610612763,Memphis Grizzlies,1,0,33,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,18,55,1,1,20130327,NYK,MEM
+Shot Chart Detail,0021201061,239,201144,Mike Conley,1610612763,Memphis Grizzlies,3,10,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,173,173,1,1,20130327,NYK,MEM
+Shot Chart Detail,0021201061,305,201144,Mike Conley,1610612763,Memphis Grizzlies,3,5,58,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-30,108,1,1,20130327,NYK,MEM
+Shot Chart Detail,0021201061,434,201144,Mike Conley,1610612763,Memphis Grizzlies,4,6,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-153,195,1,1,20130327,NYK,MEM
+Shot Chart Detail,0021201079,5,201144,Mike Conley,1610612763,Memphis Grizzlies,1,11,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-128,225,1,1,20130329,MEM,HOU
+Shot Chart Detail,0021201079,204,201144,Mike Conley,1610612763,Memphis Grizzlies,2,2,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,72,247,1,1,20130329,MEM,HOU
+Shot Chart Detail,0021201079,271,201144,Mike Conley,1610612763,Memphis Grizzlies,3,6,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,11,1,1,20130329,MEM,HOU
+Shot Chart Detail,0021201079,405,201144,Mike Conley,1610612763,Memphis Grizzlies,4,7,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,-2,1,1,20130329,MEM,HOU
+Shot Chart Detail,0021201079,465,201144,Mike Conley,1610612763,Memphis Grizzlies,4,2,18,Made Shot,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-45,22,1,1,20130329,MEM,HOU
+Shot Chart Detail,0021201089,12,201144,Mike Conley,1610612763,Memphis Grizzlies,1,11,3,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-30,175,1,1,20130330,MIN,MEM
+Shot Chart Detail,0021201089,67,201144,Mike Conley,1610612763,Memphis Grizzlies,1,4,6,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-35,82,1,1,20130330,MIN,MEM
+Shot Chart Detail,0021201089,166,201144,Mike Conley,1610612763,Memphis Grizzlies,2,9,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,135,22,1,1,20130330,MIN,MEM
+Shot Chart Detail,0021201089,348,201144,Mike Conley,1610612763,Memphis Grizzlies,3,2,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,143,205,1,1,20130330,MIN,MEM
+Shot Chart Detail,0021201089,362,201144,Mike Conley,1610612763,Memphis Grizzlies,3,1,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-57,246,1,1,20130330,MIN,MEM
+Shot Chart Detail,0021201089,481,201144,Mike Conley,1610612763,Memphis Grizzlies,4,3,6,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,29,12,1,1,20130330,MIN,MEM
+Shot Chart Detail,0021201089,489,201144,Mike Conley,1610612763,Memphis Grizzlies,4,2,19,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,0,1,1,20130330,MIN,MEM
+Shot Chart Detail,0021201089,509,201144,Mike Conley,1610612763,Memphis Grizzlies,4,1,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-16,249,1,1,20130330,MIN,MEM
+Shot Chart Detail,0021201103,8,201144,Mike Conley,1610612763,Memphis Grizzlies,1,10,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,36,208,1,1,20130401,MEM,SAS
+Shot Chart Detail,0021201103,58,201144,Mike Conley,1610612763,Memphis Grizzlies,1,5,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,58,160,1,1,20130401,MEM,SAS
+Shot Chart Detail,0021201103,158,201144,Mike Conley,1610612763,Memphis Grizzlies,2,7,36,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,-3,1,1,20130401,MEM,SAS
+Shot Chart Detail,0021201103,166,201144,Mike Conley,1610612763,Memphis Grizzlies,2,6,42,Made Shot,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,69,45,1,1,20130401,MEM,SAS
+Shot Chart Detail,0021201103,224,201144,Mike Conley,1610612763,Memphis Grizzlies,2,1,51,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,1,1,1,20130401,MEM,SAS
+Shot Chart Detail,0021201103,321,201144,Mike Conley,1610612763,Memphis Grizzlies,3,3,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,133,159,1,1,20130401,MEM,SAS
+Shot Chart Detail,0021201103,377,201144,Mike Conley,1610612763,Memphis Grizzlies,4,7,49,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,140,140,1,1,20130401,MEM,SAS
+Shot Chart Detail,0021201103,413,201144,Mike Conley,1610612763,Memphis Grizzlies,4,4,32,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,-3,1,1,20130401,MEM,SAS
+Shot Chart Detail,0021201103,440,201144,Mike Conley,1610612763,Memphis Grizzlies,4,2,37,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,3,1,1,20130401,MEM,SAS
+Shot Chart Detail,0021201103,471,201144,Mike Conley,1610612763,Memphis Grizzlies,4,0,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,155,214,1,1,20130401,MEM,SAS
+Shot Chart Detail,0021201103,477,201144,Mike Conley,1610612763,Memphis Grizzlies,4,0,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,1,1,1,20130401,MEM,SAS
+Shot Chart Detail,0021201120,15,201144,Mike Conley,1610612763,Memphis Grizzlies,1,9,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,147,211,1,1,20130403,POR,MEM
+Shot Chart Detail,0021201120,47,201144,Mike Conley,1610612763,Memphis Grizzlies,1,4,35,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-226,-3,1,1,20130403,POR,MEM
+Shot Chart Detail,0021201120,174,201144,Mike Conley,1610612763,Memphis Grizzlies,2,4,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-155,148,1,1,20130403,POR,MEM
+Shot Chart Detail,0021201120,191,201144,Mike Conley,1610612763,Memphis Grizzlies,2,3,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,0,1,1,20130403,POR,MEM
+Shot Chart Detail,0021201120,230,201144,Mike Conley,1610612763,Memphis Grizzlies,3,10,26,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,4,1,1,20130403,POR,MEM
+Shot Chart Detail,0021201120,273,201144,Mike Conley,1610612763,Memphis Grizzlies,3,5,41,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,-14,1,1,20130403,POR,MEM
+Shot Chart Detail,0021201120,400,201144,Mike Conley,1610612763,Memphis Grizzlies,4,5,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,0,1,1,20130403,POR,MEM
+Shot Chart Detail,0021201137,71,201144,Mike Conley,1610612763,Memphis Grizzlies,1,3,31,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,25,1,1,20130405,LAL,MEM
+Shot Chart Detail,0021201137,86,201144,Mike Conley,1610612763,Memphis Grizzlies,1,2,9,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-43,37,1,1,20130405,LAL,MEM
+Shot Chart Detail,0021201137,218,201144,Mike Conley,1610612763,Memphis Grizzlies,2,0,31,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-4,28,1,1,20130405,LAL,MEM
+Shot Chart Detail,0021201137,242,201144,Mike Conley,1610612763,Memphis Grizzlies,3,10,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,15,1,1,20130405,LAL,MEM
+Shot Chart Detail,0021201137,265,201144,Mike Conley,1610612763,Memphis Grizzlies,3,7,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-3,14,1,1,20130405,LAL,MEM
+Shot Chart Detail,0021201137,271,201144,Mike Conley,1610612763,Memphis Grizzlies,3,7,23,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-29,17,1,1,20130405,LAL,MEM
+Shot Chart Detail,0021201137,308,201144,Mike Conley,1610612763,Memphis Grizzlies,3,4,4,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-81,129,1,1,20130405,LAL,MEM
+Shot Chart Detail,0021201137,333,201144,Mike Conley,1610612763,Memphis Grizzlies,3,0,29,Made Shot,Floating Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-13,26,1,1,20130405,LAL,MEM
+Shot Chart Detail,0021201137,401,201144,Mike Conley,1610612763,Memphis Grizzlies,4,4,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-142,213,1,1,20130405,LAL,MEM
+Shot Chart Detail,0021201149,14,201144,Mike Conley,1610612763,Memphis Grizzlies,1,9,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,4,1,1,20130407,SAC,MEM
+Shot Chart Detail,0021201149,18,201144,Mike Conley,1610612763,Memphis Grizzlies,1,8,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,81,236,1,1,20130407,SAC,MEM
+Shot Chart Detail,0021201149,45,201144,Mike Conley,1610612763,Memphis Grizzlies,1,6,20,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,14,1,1,20130407,SAC,MEM
+Shot Chart Detail,0021201149,48,201144,Mike Conley,1610612763,Memphis Grizzlies,1,5,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,3,1,1,20130407,SAC,MEM
+Shot Chart Detail,0021201149,217,201144,Mike Conley,1610612763,Memphis Grizzlies,2,5,51,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-4,75,1,1,20130407,SAC,MEM
+Shot Chart Detail,0021201149,227,201144,Mike Conley,1610612763,Memphis Grizzlies,2,5,5,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,43,9,1,1,20130407,SAC,MEM
+Shot Chart Detail,0021201149,319,201144,Mike Conley,1610612763,Memphis Grizzlies,3,8,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,97,157,1,1,20130407,SAC,MEM
+Shot Chart Detail,0021201149,389,201144,Mike Conley,1610612763,Memphis Grizzlies,3,1,51,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,20,1,1,20130407,SAC,MEM
+Shot Chart Detail,0021201149,532,201144,Mike Conley,1610612763,Memphis Grizzlies,4,0,30,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,77,39,1,1,20130407,SAC,MEM
+Shot Chart Detail,0021201159,31,201144,Mike Conley,1610612763,Memphis Grizzlies,1,8,26,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,9,1,1,20130409,MEM,CHA
+Shot Chart Detail,0021201159,64,201144,Mike Conley,1610612763,Memphis Grizzlies,1,3,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,4,1,1,20130409,MEM,CHA
+Shot Chart Detail,0021201159,232,201144,Mike Conley,1610612763,Memphis Grizzlies,2,1,39,Made Shot,Driving Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,4,1,1,20130409,MEM,CHA
+Shot Chart Detail,0021201159,320,201144,Mike Conley,1610612763,Memphis Grizzlies,3,4,31,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,7,1,1,20130409,MEM,CHA
+Shot Chart Detail,0021201159,331,201144,Mike Conley,1610612763,Memphis Grizzlies,3,3,14,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,20,47,1,1,20130409,MEM,CHA
+Shot Chart Detail,0021201159,333,201144,Mike Conley,1610612763,Memphis Grizzlies,3,2,33,Made Shot,Running Bank shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-90,17,1,1,20130409,MEM,CHA
+Shot Chart Detail,0021201159,373,201144,Mike Conley,1610612763,Memphis Grizzlies,4,10,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,-3,1,1,20130409,MEM,CHA
+Shot Chart Detail,0021201159,424,201144,Mike Conley,1610612763,Memphis Grizzlies,4,6,32,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,11,1,1,20130409,MEM,CHA
+Shot Chart Detail,0021201184,96,201144,Mike Conley,1610612763,Memphis Grizzlies,1,2,10,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-26,4,1,1,20130412,HOU,MEM
+Shot Chart Detail,0021201184,98,201144,Mike Conley,1610612763,Memphis Grizzlies,1,1,35,Made Shot,Running Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,6,39,1,1,20130412,HOU,MEM
+Shot Chart Detail,0021201184,277,201144,Mike Conley,1610612763,Memphis Grizzlies,3,10,57,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,122,167,1,1,20130412,HOU,MEM
+Shot Chart Detail,0021201184,486,201144,Mike Conley,1610612763,Memphis Grizzlies,4,5,34,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,6,1,1,20130412,HOU,MEM
+Shot Chart Detail,0021201192,28,201144,Mike Conley,1610612763,Memphis Grizzlies,1,7,39,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,0,85,1,1,20130413,MEM,LAC
+Shot Chart Detail,0021201192,194,201144,Mike Conley,1610612763,Memphis Grizzlies,2,5,41,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-149,34,1,1,20130413,MEM,LAC
+Shot Chart Detail,0021201192,224,201144,Mike Conley,1610612763,Memphis Grizzlies,2,2,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,176,192,1,1,20130413,MEM,LAC
+Shot Chart Detail,0021201192,267,201144,Mike Conley,1610612763,Memphis Grizzlies,3,10,29,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,6,1,1,20130413,MEM,LAC
+Shot Chart Detail,0021201208,4,201144,Mike Conley,1610612763,Memphis Grizzlies,1,11,12,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,61,121,1,1,20130415,DAL,MEM
+Shot Chart Detail,0021201208,42,201144,Mike Conley,1610612763,Memphis Grizzlies,1,6,22,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,14,1,1,20130415,DAL,MEM
+Shot Chart Detail,0021201208,281,201144,Mike Conley,1610612763,Memphis Grizzlies,3,8,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-112,176,1,1,20130415,DAL,MEM
+Shot Chart Detail,0021201223,34,201144,Mike Conley,1610612763,Memphis Grizzlies,1,7,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,7,1,1,20130417,MEM,UTA
+Shot Chart Detail,0021201223,74,201144,Mike Conley,1610612763,Memphis Grizzlies,1,2,51,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,-5,1,1,20130417,MEM,UTA
+Shot Chart Detail,0021201223,253,201144,Mike Conley,1610612763,Memphis Grizzlies,3,10,44,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,12,112,1,1,20130417,MEM,UTA
+Shot Chart Detail,0021201223,272,201144,Mike Conley,1610612763,Memphis Grizzlies,3,9,18,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,15,1,1,20130417,MEM,UTA
+Shot Chart Detail,0021201223,359,201144,Mike Conley,1610612763,Memphis Grizzlies,3,1,54,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,6,1,1,20130417,MEM,UTA

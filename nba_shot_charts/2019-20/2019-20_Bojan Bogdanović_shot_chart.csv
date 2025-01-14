@@ -1,0 +1,419 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0021900011,40,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,8,29,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,7,1,1,20191023,UTA,OKC
+Shot Chart Detail,0021900011,44,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,8,6,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-5,22,1,1,20191023,UTA,OKC
+Shot Chart Detail,0021900011,62,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,7,11,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,0,1,1,20191023,UTA,OKC
+Shot Chart Detail,0021900011,546,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,9,21,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-9,3,1,1,20191023,UTA,OKC
+Shot Chart Detail,0021900011,557,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,8,11,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,99,84,1,1,20191023,UTA,OKC
+Shot Chart Detail,0021900011,590,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,5,27,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-221,-5,1,1,20191023,UTA,OKC
+Shot Chart Detail,0021900034,36,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,9,10,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,55,1,1,1,20191026,UTA,SAC
+Shot Chart Detail,0021900034,43,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,9,0,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,10,1,1,20191026,UTA,SAC
+Shot Chart Detail,0021900034,49,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,8,4,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,30,20,1,1,20191026,UTA,SAC
+Shot Chart Detail,0021900034,60,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,7,13,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-24,263,1,1,20191026,UTA,SAC
+Shot Chart Detail,0021900034,84,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,5,2,Made Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,25,127,1,1,20191026,UTA,SAC
+Shot Chart Detail,0021900034,236,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,5,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,116,225,1,1,20191026,UTA,SAC
+Shot Chart Detail,0021900034,240,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,5,27,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,36,21,1,1,20191026,UTA,SAC
+Shot Chart Detail,0021900034,253,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,4,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,30,-8,300,1,1,20191026,UTA,SAC
+Shot Chart Detail,0021900034,294,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,0,31,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,5,1,1,20191026,UTA,SAC
+Shot Chart Detail,0021900034,358,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,7,35,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,35,1,1,20191026,UTA,SAC
+Shot Chart Detail,0021900049,55,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,8,39,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,13,1,1,20191028,PHX,UTA
+Shot Chart Detail,0021900049,57,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,8,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-226,100,1,1,20191028,PHX,UTA
+Shot Chart Detail,0021900049,378,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,0,37,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,190,175,1,1,20191028,PHX,UTA
+Shot Chart Detail,0021900049,423,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,10,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-63,248,1,1,20191028,PHX,UTA
+Shot Chart Detail,0021900049,491,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,4,49,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,34,15,1,1,20191028,PHX,UTA
+Shot Chart Detail,0021900049,640,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,6,9,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,8,1,1,20191028,PHX,UTA
+Shot Chart Detail,0021900049,647,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,5,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-37,242,1,1,20191028,PHX,UTA
+Shot Chart Detail,0021900049,697,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,1,45,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,5,1,1,20191028,PHX,UTA
+Shot Chart Detail,0021900063,53,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,6,37,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,14,8,1,1,20191030,UTA,LAC
+Shot Chart Detail,0021900063,56,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,6,4,Made Shot,Step Back Jump shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,226,21,1,1,20191030,UTA,LAC
+Shot Chart Detail,0021900063,234,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,5,40,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,4,27,1,1,20191030,UTA,LAC
+Shot Chart Detail,0021900063,378,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,6,48,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,44,57,1,1,20191030,UTA,LAC
+Shot Chart Detail,0021900063,394,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,5,19,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,-5,1,1,20191030,UTA,LAC
+Shot Chart Detail,0021900075,36,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,9,20,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,10,1,1,20191101,SAC,UTA
+Shot Chart Detail,0021900075,244,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,6,1,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,5,1,1,20191101,SAC,UTA
+Shot Chart Detail,0021900075,248,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,5,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,28,4,1,1,20191101,SAC,UTA
+Shot Chart Detail,0021900075,282,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,2,29,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,32,1,1,20191101,SAC,UTA
+Shot Chart Detail,0021900075,287,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,1,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-92,230,1,1,20191101,SAC,UTA
+Shot Chart Detail,0021900075,327,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,11,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-158,200,1,1,20191101,SAC,UTA
+Shot Chart Detail,0021900090,22,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,10,49,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,5,1,1,20191103,LAC,UTA
+Shot Chart Detail,0021900090,28,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,9,43,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,11,1,1,20191103,LAC,UTA
+Shot Chart Detail,0021900090,43,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,8,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-67,246,1,1,20191103,LAC,UTA
+Shot Chart Detail,0021900090,295,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,4,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,172,197,1,1,20191103,LAC,UTA
+Shot Chart Detail,0021900090,350,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,11,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-215,133,1,1,20191103,LAC,UTA
+Shot Chart Detail,0021900090,358,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,10,40,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,10,1,1,20191103,LAC,UTA
+Shot Chart Detail,0021900090,674,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,1,23,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,8,29,1,1,20191103,LAC,UTA
+Shot Chart Detail,0021900110,69,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,6,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,22,6,1,1,20191106,UTA,PHI
+Shot Chart Detail,0021900110,80,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,5,5,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,2,21,1,1,20191106,UTA,PHI
+Shot Chart Detail,0021900110,177,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,9,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,25,0,1,1,20191106,UTA,PHI
+Shot Chart Detail,0021900110,216,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,6,35,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,28,3,1,1,20191106,UTA,PHI
+Shot Chart Detail,0021900110,235,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,5,10,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,9,1,1,20191106,UTA,PHI
+Shot Chart Detail,0021900110,249,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,4,3,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-156,184,1,1,20191106,UTA,PHI
+Shot Chart Detail,0021900110,269,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,2,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,4,1,1,20191106,UTA,PHI
+Shot Chart Detail,0021900110,630,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,2,59,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-47,183,1,1,20191106,UTA,PHI
+Shot Chart Detail,0021900110,654,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,1,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-131,222,1,1,20191106,UTA,PHI
+Shot Chart Detail,0021900124,41,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,8,32,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,206,151,1,1,20191108,UTA,MIL
+Shot Chart Detail,0021900124,112,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,3,38,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-231,-7,1,1,20191108,UTA,MIL
+Shot Chart Detail,0021900124,413,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,7,43,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-14,7,1,1,20191108,UTA,MIL
+Shot Chart Detail,0021900124,442,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,5,12,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,15,1,1,20191108,UTA,MIL
+Shot Chart Detail,0021900124,450,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,5,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,205,153,1,1,20191108,UTA,MIL
+Shot Chart Detail,0021900124,453,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,4,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-115,244,1,1,20191108,UTA,MIL
+Shot Chart Detail,0021900124,489,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,2,50,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,8,1,1,20191108,UTA,MIL
+Shot Chart Detail,0021900124,605,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,8,15,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,9,95,1,1,20191108,UTA,MIL
+Shot Chart Detail,0021900124,756,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,0,0,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,29,1,1,20191108,UTA,MIL
+Shot Chart Detail,0021900144,7,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,11,49,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,15,1,1,20191111,GSW,UTA
+Shot Chart Detail,0021900144,85,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,5,31,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-3,18,1,1,20191111,GSW,UTA
+Shot Chart Detail,0021900144,347,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,9,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-226,110,1,1,20191111,GSW,UTA
+Shot Chart Detail,0021900144,363,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,7,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,193,178,1,1,20191111,GSW,UTA
+Shot Chart Detail,0021900152,47,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,7,9,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,13,1,1,20191112,UTA,BKN
+Shot Chart Detail,0021900152,51,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,6,50,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,3,20,1,1,20191112,UTA,BKN
+Shot Chart Detail,0021900152,330,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,2,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-2,155,1,1,20191112,UTA,BKN
+Shot Chart Detail,0021900152,403,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,8,43,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,13,1,1,20191112,UTA,BKN
+Shot Chart Detail,0021900152,431,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,6,23,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,67,139,1,1,20191112,UTA,BKN
+Shot Chart Detail,0021900170,60,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,6,25,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,6,125,1,1,20191115,MEM,UTA
+Shot Chart Detail,0021900170,70,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,5,35,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,9,1,1,20191115,MEM,UTA
+Shot Chart Detail,0021900170,241,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,5,15,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,3,3,1,1,20191115,MEM,UTA
+Shot Chart Detail,0021900170,282,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,2,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-151,214,1,1,20191115,MEM,UTA
+Shot Chart Detail,0021900170,399,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,6,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,25,260,1,1,20191115,MEM,UTA
+Shot Chart Detail,0021900170,638,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,2,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-150,231,1,1,20191115,MEM,UTA
+Shot Chart Detail,0021900196,19,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,10,22,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,11,1,1,20191118,UTA,MIN
+Shot Chart Detail,0021900196,63,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,6,52,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,3,251,1,1,20191118,UTA,MIN
+Shot Chart Detail,0021900196,106,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,3,44,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,226,50,1,1,20191118,UTA,MIN
+Shot Chart Detail,0021900196,299,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,3,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,10,1,1,20191118,UTA,MIN
+Shot Chart Detail,0021900196,335,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,0,12,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-43,180,1,1,20191118,UTA,MIN
+Shot Chart Detail,0021900196,374,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,9,53,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,232,62,1,1,20191118,UTA,MIN
+Shot Chart Detail,0021900196,403,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,8,7,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,-5,1,1,20191118,UTA,MIN
+Shot Chart Detail,0021900210,48,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,7,52,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,51,80,1,1,20191120,MIN,UTA
+Shot Chart Detail,0021900210,69,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,6,41,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-6,1,1,20191120,MIN,UTA
+Shot Chart Detail,0021900210,255,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,6,56,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,19,1,1,20191120,MIN,UTA
+Shot Chart Detail,0021900210,300,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,3,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-63,247,1,1,20191120,MIN,UTA
+Shot Chart Detail,0021900210,418,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,5,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,11,1,1,20191120,MIN,UTA
+Shot Chart Detail,0021900210,452,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,3,44,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,20,1,1,20191120,MIN,UTA
+Shot Chart Detail,0021900210,637,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,3,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-73,247,1,1,20191120,MIN,UTA
+Shot Chart Detail,0021900210,662,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,1,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,163,196,1,1,20191120,MIN,UTA
+Shot Chart Detail,0021900210,670,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,0,50,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,1,1,1,20191120,MIN,UTA
+Shot Chart Detail,0021900223,7,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,11,46,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,1,1,1,20191122,UTA,GSW
+Shot Chart Detail,0021900223,94,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,4,12,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-122,222,1,1,20191122,UTA,GSW
+Shot Chart Detail,0021900223,257,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,4,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-185,179,1,1,20191122,UTA,GSW
+Shot Chart Detail,0021900223,264,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,3,40,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,12,1,1,20191122,UTA,GSW
+Shot Chart Detail,0021900223,316,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,10,29,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,-1,1,1,20191122,UTA,GSW
+Shot Chart Detail,0021900223,406,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,4,37,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,231,75,1,1,20191122,UTA,GSW
+Shot Chart Detail,0021900223,414,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,4,9,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,-1,1,1,20191122,UTA,GSW
+Shot Chart Detail,0021900234,15,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,10,41,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,135,207,1,1,20191123,UTA,NOP
+Shot Chart Detail,0021900234,24,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,10,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-183,169,1,1,20191123,UTA,NOP
+Shot Chart Detail,0021900234,43,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,8,41,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-12,106,1,1,20191123,UTA,NOP
+Shot Chart Detail,0021900234,54,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,7,27,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,8,10,1,1,20191123,UTA,NOP
+Shot Chart Detail,0021900234,115,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,3,0,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,2,1,1,20191123,UTA,NOP
+Shot Chart Detail,0021900234,228,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,7,50,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,19,5,1,1,20191123,UTA,NOP
+Shot Chart Detail,0021900234,278,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,4,30,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-5,91,1,1,20191123,UTA,NOP
+Shot Chart Detail,0021900234,301,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,2,17,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,-13,1,1,20191123,UTA,NOP
+Shot Chart Detail,0021900234,386,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,7,24,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-70,40,1,1,20191123,UTA,NOP
+Shot Chart Detail,0021900234,435,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,2,54,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-22,5,1,1,20191123,UTA,NOP
+Shot Chart Detail,0021900248,41,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,8,36,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-81,130,1,1,20191125,MIL,UTA
+Shot Chart Detail,0021900248,244,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,6,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-230,141,1,1,20191125,MIL,UTA
+Shot Chart Detail,0021900248,300,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,3,47,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,6,1,1,20191125,MIL,UTA
+Shot Chart Detail,0021900248,328,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,1,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-22,261,1,1,20191125,MIL,UTA
+Shot Chart Detail,0021900248,343,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,1,3,Made Shot,Turnaround Fadeaway Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,40,64,1,1,20191125,MIL,UTA
+Shot Chart Detail,0021900248,389,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,9,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,109,256,1,1,20191125,MIL,UTA
+Shot Chart Detail,0021900248,395,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,8,10,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-19,7,1,1,20191125,MIL,UTA
+Shot Chart Detail,0021900248,403,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,7,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-1,270,1,1,20191125,MIL,UTA
+Shot Chart Detail,0021900248,652,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,1,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-83,258,1,1,20191125,MIL,UTA
+Shot Chart Detail,0021900256,7,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,11,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-198,173,1,1,20191127,IND,UTA
+Shot Chart Detail,0021900256,97,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,3,47,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,10,64,1,1,20191127,IND,UTA
+Shot Chart Detail,0021900256,302,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,0,5,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,10,1,1,20191127,IND,UTA
+Shot Chart Detail,0021900256,327,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,10,38,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-10,34,1,1,20191127,IND,UTA
+Shot Chart Detail,0021900256,347,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,8,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,145,231,1,1,20191127,IND,UTA
+Shot Chart Detail,0021900256,399,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,4,51,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-8,24,1,1,20191127,IND,UTA
+Shot Chart Detail,0021900256,421,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,3,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,221,126,1,1,20191127,IND,UTA
+Shot Chart Detail,0021900256,440,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,2,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,209,159,1,1,20191127,IND,UTA
+Shot Chart Detail,0021900274,32,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,9,25,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,83,240,1,1,20191129,MEM,UTA
+Shot Chart Detail,0021900274,87,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,5,1,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,47,48,1,1,20191129,MEM,UTA
+Shot Chart Detail,0021900274,296,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,1,28,Made Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,58,47,1,1,20191129,MEM,UTA
+Shot Chart Detail,0021900274,379,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,7,48,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,7,1,1,20191129,MEM,UTA
+Shot Chart Detail,0021900274,405,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,6,21,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,22,36,1,1,20191129,MEM,UTA
+Shot Chart Detail,0021900274,426,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,5,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-153,221,1,1,20191129,MEM,UTA
+Shot Chart Detail,0021900274,526,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,9,51,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,14,0,1,1,20191129,MEM,UTA
+Shot Chart Detail,0021900274,532,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,9,23,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,177,194,1,1,20191129,MEM,UTA
+Shot Chart Detail,0021900274,545,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,8,17,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-52,116,1,1,20191129,MEM,UTA
+Shot Chart Detail,0021900274,566,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,6,44,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-14,-1,1,1,20191129,MEM,UTA
+Shot Chart Detail,0021900274,600,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,4,7,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,6,121,1,1,20191129,MEM,UTA
+Shot Chart Detail,0021900274,629,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,1,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,15,268,1,1,20191129,MEM,UTA
+Shot Chart Detail,0021900291,44,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,8,9,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-27,46,1,1,20191201,TOR,UTA
+Shot Chart Detail,0021900291,324,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,0,48,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,10,1,1,20191201,TOR,UTA
+Shot Chart Detail,0021900291,330,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,0,18,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-43,55,1,1,20191201,TOR,UTA
+Shot Chart Detail,0021900291,430,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,4,37,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,10,1,1,20191201,TOR,UTA
+Shot Chart Detail,0021900291,433,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,4,5,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-20,89,1,1,20191201,TOR,UTA
+Shot Chart Detail,0021900294,14,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,10,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-27,150,1,1,20191202,PHI,UTA
+Shot Chart Detail,0021900294,91,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,4,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-6,10,1,1,20191202,PHI,UTA
+Shot Chart Detail,0021900294,376,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,9,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,65,256,1,1,20191202,PHI,UTA
+Shot Chart Detail,0021900314,9,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,11,38,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-194,155,1,1,20191204,UTA,LAL
+Shot Chart Detail,0021900314,15,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,11,12,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,0,1,1,20191204,UTA,LAL
+Shot Chart Detail,0021900314,271,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,6,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,29,-141,256,1,1,20191204,UTA,LAL
+Shot Chart Detail,0021900314,352,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,1,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-144,220,1,1,20191204,UTA,LAL
+Shot Chart Detail,0021900314,453,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,5,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,224,95,1,1,20191204,UTA,LAL
+Shot Chart Detail,0021900314,626,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,5,3,Made Shot,Turnaround Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,226,64,1,1,20191204,UTA,LAL
+Shot Chart Detail,0021900334,22,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,9,19,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,-1,1,1,20191207,UTA,MEM
+Shot Chart Detail,0021900334,246,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,5,31,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,30,-8,1,1,20191207,UTA,MEM
+Shot Chart Detail,0021900334,344,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,9,51,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,0,1,1,20191207,UTA,MEM
+Shot Chart Detail,0021900334,414,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,3,44,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,222,6,1,1,20191207,UTA,MEM
+Shot Chart Detail,0021900334,570,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,5,37,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,51,53,1,1,20191207,UTA,MEM
+Shot Chart Detail,0021900350,50,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,7,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,135,227,1,1,20191209,UTA,OKC
+Shot Chart Detail,0021900350,78,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,5,25,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-144,207,1,1,20191209,UTA,OKC
+Shot Chart Detail,0021900350,284,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,0,47,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-81,251,1,1,20191209,UTA,OKC
+Shot Chart Detail,0021900350,313,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,10,56,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-18,80,1,1,20191209,UTA,OKC
+Shot Chart Detail,0021900362,300,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,11,4,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,6,1,1,20191211,MIN,UTA
+Shot Chart Detail,0021900362,313,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,9,45,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,4,20,1,1,20191211,MIN,UTA
+Shot Chart Detail,0021900362,355,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,5,48,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,31,1,1,20191211,MIN,UTA
+Shot Chart Detail,0021900362,386,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,3,36,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,4,1,1,20191211,MIN,UTA
+Shot Chart Detail,0021900379,74,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,5,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-119,226,1,1,20191213,UTA,GSW
+Shot Chart Detail,0021900379,301,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,1,42,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,25,1,1,20191213,UTA,GSW
+Shot Chart Detail,0021900379,310,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,1,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-17,249,1,1,20191213,UTA,GSW
+Shot Chart Detail,0021900379,375,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,8,3,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,-6,1,1,20191213,UTA,GSW
+Shot Chart Detail,0021900379,407,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,5,32,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,229,66,1,1,20191213,UTA,GSW
+Shot Chart Detail,0021900379,414,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,4,35,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,29,1,1,20191213,UTA,GSW
+Shot Chart Detail,0021900379,576,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,7,40,Made Shot,Jump Bank Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,77,246,1,1,20191213,UTA,GSW
+Shot Chart Detail,0021900379,645,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,1,50,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,217,121,1,1,20191213,UTA,GSW
+Shot Chart Detail,0021900405,48,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,7,33,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,84,238,1,1,20191217,UTA,ORL
+Shot Chart Detail,0021900405,83,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,3,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-61,243,1,1,20191217,UTA,ORL
+Shot Chart Detail,0021900405,90,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,2,59,Made Shot,Step Back Bank Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-101,73,1,1,20191217,UTA,ORL
+Shot Chart Detail,0021900405,275,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,2,19,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,25,11,1,1,20191217,UTA,ORL
+Shot Chart Detail,0021900405,299,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,0,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-12,259,1,1,20191217,UTA,ORL
+Shot Chart Detail,0021900405,361,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,6,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,186,171,1,1,20191217,UTA,ORL
+Shot Chart Detail,0021900405,371,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,5,31,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,27,89,1,1,20191217,UTA,ORL
+Shot Chart Detail,0021900405,506,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,8,26,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,230,103,1,1,20191217,UTA,ORL
+Shot Chart Detail,0021900405,577,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,3,40,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,25,237,82,1,1,20191217,UTA,ORL
+Shot Chart Detail,0021900405,589,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,2,12,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-2,74,1,1,20191217,UTA,ORL
+Shot Chart Detail,0021900405,593,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,1,53,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-16,13,1,1,20191217,UTA,ORL
+Shot Chart Detail,0021900416,7,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,11,46,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,9,28,1,1,20191219,ATL,UTA
+Shot Chart Detail,0021900416,112,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,4,11,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,30,33,1,1,20191219,ATL,UTA
+Shot Chart Detail,0021900416,136,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,2,43,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,11,1,1,20191219,ATL,UTA
+Shot Chart Detail,0021900416,284,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,3,58,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,227,105,1,1,20191219,ATL,UTA
+Shot Chart Detail,0021900416,417,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,7,12,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,14,1,1,20191219,ATL,UTA
+Shot Chart Detail,0021900416,447,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,5,5,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,32,30,1,1,20191219,ATL,UTA
+Shot Chart Detail,0021900430,39,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,7,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,108,251,1,1,20191221,CHA,UTA
+Shot Chart Detail,0021900430,212,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,7,47,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-35,80,1,1,20191221,CHA,UTA
+Shot Chart Detail,0021900430,365,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,8,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-49,256,1,1,20191221,CHA,UTA
+Shot Chart Detail,0021900430,376,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,7,12,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,51,1,1,20191221,CHA,UTA
+Shot Chart Detail,0021900430,543,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,8,37,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,139,21,1,1,20191221,CHA,UTA
+Shot Chart Detail,0021900430,548,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,8,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,147,64,1,1,20191221,CHA,UTA
+Shot Chart Detail,0021900430,610,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,2,26,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,229,31,1,1,20191221,CHA,UTA
+Shot Chart Detail,0021900449,37,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,7,22,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,58,1,1,20191223,MIA,UTA
+Shot Chart Detail,0021900449,389,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,6,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-187,191,1,1,20191223,MIA,UTA
+Shot Chart Detail,0021900449,394,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,5,36,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-6,1,1,20191223,MIA,UTA
+Shot Chart Detail,0021900449,575,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,5,26,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-30,25,1,1,20191223,MIA,UTA
+Shot Chart Detail,0021900465,44,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,6,46,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-61,38,1,1,20191226,UTA,POR
+Shot Chart Detail,0021900465,46,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,6,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,6,1,1,20191226,UTA,POR
+Shot Chart Detail,0021900465,272,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,1,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,22,8,1,1,20191226,UTA,POR
+Shot Chart Detail,0021900465,305,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,11,19,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,5,1,1,20191226,UTA,POR
+Shot Chart Detail,0021900465,554,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,1,45,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,26,1,1,20191226,UTA,POR
+Shot Chart Detail,0021900485,203,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,8,36,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,10,1,1,20191228,LAC,UTA
+Shot Chart Detail,0021900485,226,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,7,20,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,13,1,1,20191228,LAC,UTA
+Shot Chart Detail,0021900485,342,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,10,26,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-225,122,1,1,20191228,LAC,UTA
+Shot Chart Detail,0021900485,381,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,6,44,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,2,1,1,20191228,LAC,UTA
+Shot Chart Detail,0021900485,573,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,6,52,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-14,94,1,1,20191228,LAC,UTA
+Shot Chart Detail,0021900485,625,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,2,22,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,116,228,1,1,20191228,LAC,UTA
+Shot Chart Detail,0021900495,110,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,3,13,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,0,54,1,1,20191230,UTA,DET
+Shot Chart Detail,0021900495,393,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,5,1,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,-4,1,1,20191230,UTA,DET
+Shot Chart Detail,0021900495,500,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,8,55,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,226,88,1,1,20191230,UTA,DET
+Shot Chart Detail,0021900495,511,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,8,26,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-3,50,1,1,20191230,UTA,DET
+Shot Chart Detail,0021900495,552,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,5,42,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,27,-4,1,1,20191230,UTA,DET
+Shot Chart Detail,0021900495,563,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,4,32,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,39,29,1,1,20191230,UTA,DET
+Shot Chart Detail,0021900511,42,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,8,29,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,8,1,1,20200102,CHI,UTA
+Shot Chart Detail,0021900511,85,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,4,17,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-6,1,1,20200102,CHI,UTA
+Shot Chart Detail,0021900511,319,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,9,3,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,5,1,1,20200102,CHI,UTA
+Shot Chart Detail,0021900511,536,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,6,34,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-40,57,1,1,20200102,CHI,UTA
+Shot Chart Detail,0021900511,546,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,5,27,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-6,85,1,1,20200102,CHI,UTA
+Shot Chart Detail,0021900525,42,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,8,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,12,277,1,1,20200104,ORL,UTA
+Shot Chart Detail,0021900525,271,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,1,55,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,8,1,1,20200104,ORL,UTA
+Shot Chart Detail,0021900525,359,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,6,36,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,3,13,1,1,20200104,ORL,UTA
+Shot Chart Detail,0021900525,573,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,1,22,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,226,73,1,1,20200104,ORL,UTA
+Shot Chart Detail,0021900544,10,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,11,4,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,3,102,1,1,20200106,NOP,UTA
+Shot Chart Detail,0021900544,37,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,8,50,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-40,81,1,1,20200106,NOP,UTA
+Shot Chart Detail,0021900544,75,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,5,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-35,267,1,1,20200106,NOP,UTA
+Shot Chart Detail,0021900544,93,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,4,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,7,1,1,20200106,NOP,UTA
+Shot Chart Detail,0021900544,379,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,8,31,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,3,1,1,20200106,NOP,UTA
+Shot Chart Detail,0021900544,388,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,7,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-14,-7,1,1,20200106,NOP,UTA
+Shot Chart Detail,0021900544,392,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,7,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-98,231,1,1,20200106,NOP,UTA
+Shot Chart Detail,0021900544,412,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,5,46,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,0,1,1,20200106,NOP,UTA
+Shot Chart Detail,0021900544,595,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,5,28,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-69,241,1,1,20200106,NOP,UTA
+Shot Chart Detail,0021900544,601,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,5,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,1,1,1,20200106,NOP,UTA
+Shot Chart Detail,0021900544,608,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,4,23,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,3,1,1,20200106,NOP,UTA
+Shot Chart Detail,0021900561,25,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,9,40,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,29,1,1,20200108,UTA,NYK
+Shot Chart Detail,0021900561,36,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,8,33,Made Shot,Step Back Jump shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-237,73,1,1,20200108,UTA,NYK
+Shot Chart Detail,0021900561,51,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,6,55,Made Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,26,92,1,1,20200108,UTA,NYK
+Shot Chart Detail,0021900561,83,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,3,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,96,235,1,1,20200108,UTA,NYK
+Shot Chart Detail,0021900561,303,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,1,9,Made Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,70,89,1,1,20200108,UTA,NYK
+Shot Chart Detail,0021900561,372,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,6,46,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,-1,1,1,20200108,UTA,NYK
+Shot Chart Detail,0021900561,401,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,4,25,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,45,6,1,1,20200108,UTA,NYK
+Shot Chart Detail,0021900574,21,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,10,6,Made Shot,Pullup Jump shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,28,1,1,20200110,UTA,CHA
+Shot Chart Detail,0021900574,83,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,4,20,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-147,220,1,1,20200110,UTA,CHA
+Shot Chart Detail,0021900574,100,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,3,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,62,247,1,1,20200110,UTA,CHA
+Shot Chart Detail,0021900574,107,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,1,43,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,67,68,1,1,20200110,UTA,CHA
+Shot Chart Detail,0021900574,301,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,11,28,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-221,3,1,1,20200110,UTA,CHA
+Shot Chart Detail,0021900585,7,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,11,46,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,113,62,1,1,20200112,WAS,UTA
+Shot Chart Detail,0021900585,39,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,8,38,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,18,1,1,20200112,WAS,UTA
+Shot Chart Detail,0021900585,81,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,3,58,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-9,65,1,1,20200112,WAS,UTA
+Shot Chart Detail,0021900585,190,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,7,10,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-38,32,1,1,20200112,WAS,UTA
+Shot Chart Detail,0021900585,200,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,5,54,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-110,175,1,1,20200112,WAS,UTA
+Shot Chart Detail,0021900585,214,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,4,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-203,165,1,1,20200112,WAS,UTA
+Shot Chart Detail,0021900585,238,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,2,26,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,14,25,1,1,20200112,WAS,UTA
+Shot Chart Detail,0021900585,246,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,1,58,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,12,1,1,20200112,WAS,UTA
+Shot Chart Detail,0021900585,269,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,0,23,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,8,11,1,1,20200112,WAS,UTA
+Shot Chart Detail,0021900585,291,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,11,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,22,29,1,1,20200112,WAS,UTA
+Shot Chart Detail,0021900585,308,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,9,44,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,21,1,1,20200112,WAS,UTA
+Shot Chart Detail,0021900585,514,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,8,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-16,16,1,1,20200112,WAS,UTA
+Shot Chart Detail,0021900599,41,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,7,43,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,172,-13,1,1,20200114,BKN,UTA
+Shot Chart Detail,0021900599,47,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,7,2,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,11,1,1,20200114,BKN,UTA
+Shot Chart Detail,0021900599,50,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,6,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,151,207,1,1,20200114,BKN,UTA
+Shot Chart Detail,0021900599,293,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,0,24,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,15,1,1,20200114,BKN,UTA
+Shot Chart Detail,0021900599,316,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,10,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,158,195,1,1,20200114,BKN,UTA
+Shot Chart Detail,0021900599,320,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,9,58,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,105,147,1,1,20200114,BKN,UTA
+Shot Chart Detail,0021900599,351,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,6,56,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,43,126,1,1,20200114,BKN,UTA
+Shot Chart Detail,0021900599,581,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,0,45,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,1,1,1,20200114,BKN,UTA
+Shot Chart Detail,0021900616,24,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,10,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,98,237,1,1,20200116,NOP,UTA
+Shot Chart Detail,0021900616,36,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,8,53,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-34,95,1,1,20200116,NOP,UTA
+Shot Chart Detail,0021900616,61,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,6,2,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,-1,1,1,20200116,NOP,UTA
+Shot Chart Detail,0021900616,224,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,6,49,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,2,101,1,1,20200116,NOP,UTA
+Shot Chart Detail,0021900616,335,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,11,12,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,3,1,1,20200116,NOP,UTA
+Shot Chart Detail,0021900616,357,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,9,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,0,260,1,1,20200116,NOP,UTA
+Shot Chart Detail,0021900616,371,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,8,37,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,90,69,1,1,20200116,NOP,UTA
+Shot Chart Detail,0021900616,395,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,6,55,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,25,-11,1,1,20200116,NOP,UTA
+Shot Chart Detail,0021900616,717,202711,Bojan Bogdanović,1610612762,Utah Jazz,5,2,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-133,201,1,1,20200116,NOP,UTA
+Shot Chart Detail,0021900636,16,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,10,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,6,1,1,20200118,UTA,SAC
+Shot Chart Detail,0021900636,23,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,9,19,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,15,1,1,20200118,UTA,SAC
+Shot Chart Detail,0021900636,46,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,6,35,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,81,252,1,1,20200118,UTA,SAC
+Shot Chart Detail,0021900636,65,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,5,18,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,0,86,1,1,20200118,UTA,SAC
+Shot Chart Detail,0021900636,70,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,4,48,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,4,29,1,1,20200118,UTA,SAC
+Shot Chart Detail,0021900636,79,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,4,18,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-56,81,1,1,20200118,UTA,SAC
+Shot Chart Detail,0021900636,266,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,2,14,Made Shot,Step Back Jump shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,225,69,1,1,20200118,UTA,SAC
+Shot Chart Detail,0021900636,300,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,11,33,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-230,101,1,1,20200118,UTA,SAC
+Shot Chart Detail,0021900636,331,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,8,14,Made Shot,Step Back Jump shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-227,55,1,1,20200118,UTA,SAC
+Shot Chart Detail,0021900636,553,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,4,17,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-27,258,1,1,20200118,UTA,SAC
+Shot Chart Detail,0021900651,97,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,3,14,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,18,1,1,20200120,UTA,IND
+Shot Chart Detail,0021900651,212,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,6,54,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,0,121,1,1,20200120,UTA,IND
+Shot Chart Detail,0021900651,305,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,10,48,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,229,6,1,1,20200120,UTA,IND
+Shot Chart Detail,0021900651,377,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,4,23,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,3,10,1,1,20200120,UTA,IND
+Shot Chart Detail,0021900651,539,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,4,41,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,79,55,1,1,20200120,UTA,IND
+Shot Chart Detail,0021900665,59,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,6,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,21,26,1,1,20200122,GSW,UTA
+Shot Chart Detail,0021900665,239,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,5,45,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,53,1,1,20200122,GSW,UTA
+Shot Chart Detail,0021900665,243,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,5,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,169,227,1,1,20200122,GSW,UTA
+Shot Chart Detail,0021900665,339,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,11,9,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,229,78,1,1,20200122,GSW,UTA
+Shot Chart Detail,0021900665,361,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,8,46,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,19,109,1,1,20200122,GSW,UTA
+Shot Chart Detail,0021900665,457,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,2,12,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,51,1,1,20200122,GSW,UTA
+Shot Chart Detail,0021900680,61,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,7,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-159,196,1,1,20200125,UTA,DAL
+Shot Chart Detail,0021900680,120,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,2,57,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-17,22,1,1,20200125,UTA,DAL
+Shot Chart Detail,0021900680,430,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,5,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,161,180,1,1,20200125,UTA,DAL
+Shot Chart Detail,0021900680,591,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,5,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,106,229,1,1,20200125,UTA,DAL
+Shot Chart Detail,0021900680,618,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,3,32,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-67,69,1,1,20200125,UTA,DAL
+Shot Chart Detail,0021900680,620,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,2,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-44,250,1,1,20200125,UTA,DAL
+Shot Chart Detail,0021900698,69,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,6,28,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-169,7,1,1,20200127,UTA,HOU
+Shot Chart Detail,0021900698,89,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,4,56,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,21,1,1,20200127,UTA,HOU
+Shot Chart Detail,0021900698,263,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,5,45,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,16,1,1,20200127,UTA,HOU
+Shot Chart Detail,0021900698,370,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,10,57,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,22,1,1,1,20200127,UTA,HOU
+Shot Chart Detail,0021900698,426,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,5,15,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,197,153,1,1,20200127,UTA,HOU
+Shot Chart Detail,0021900698,429,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,4,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,212,125,1,1,20200127,UTA,HOU
+Shot Chart Detail,0021900698,616,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,5,49,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,229,85,1,1,20200127,UTA,HOU
+Shot Chart Detail,0021900698,622,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,5,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-92,239,1,1,20200127,UTA,HOU
+Shot Chart Detail,0021900698,687,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,0,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,234,89,1,1,20200127,UTA,HOU
+Shot Chart Detail,0021900698,726,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,0,13,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,225,82,1,1,20200127,UTA,HOU
+Shot Chart Detail,0021900711,21,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,10,21,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-11,252,1,1,20200129,SAS,UTA
+Shot Chart Detail,0021900711,49,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,7,52,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,226,75,1,1,20200129,SAS,UTA
+Shot Chart Detail,0021900711,53,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,7,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1,15,1,1,20200129,SAS,UTA
+Shot Chart Detail,0021900711,294,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,1,43,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,231,42,1,1,20200129,SAS,UTA
+Shot Chart Detail,0021900711,362,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,10,29,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,221,129,1,1,20200129,SAS,UTA
+Shot Chart Detail,0021900711,601,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,5,42,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,4,1,1,20200129,SAS,UTA
+Shot Chart Detail,0021900718,28,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,10,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,32,244,1,1,20200130,DEN,UTA
+Shot Chart Detail,0021900718,68,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,5,26,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,220,26,1,1,20200130,DEN,UTA
+Shot Chart Detail,0021900718,286,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,1,15,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,8,1,1,20200130,DEN,UTA
+Shot Chart Detail,0021900718,315,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,11,20,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-226,3,1,1,20200130,DEN,UTA
+Shot Chart Detail,0021900718,342,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,8,9,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,235,68,1,1,20200130,DEN,UTA
+Shot Chart Detail,0021900718,383,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,4,13,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,155,198,1,1,20200130,DEN,UTA
+Shot Chart Detail,0021900735,7,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,11,37,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,32,1,1,20200201,POR,UTA
+Shot Chart Detail,0021900735,254,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,4,39,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,32,1,1,20200201,POR,UTA
+Shot Chart Detail,0021900735,349,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,8,7,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-81,242,1,1,20200201,POR,UTA
+Shot Chart Detail,0021900735,354,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,7,13,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-105,235,1,1,20200201,POR,UTA
+Shot Chart Detail,0021900735,364,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,6,24,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,9,1,1,20200201,POR,UTA
+Shot Chart Detail,0021900735,367,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,5,58,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-105,227,1,1,20200201,POR,UTA
+Shot Chart Detail,0021900762,72,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,6,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,98,236,1,1,20200205,UTA,DEN
+Shot Chart Detail,0021900762,225,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,6,20,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-159,200,1,1,20200205,UTA,DEN
+Shot Chart Detail,0021900762,228,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,5,45,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-19,17,1,1,20200205,UTA,DEN
+Shot Chart Detail,0021900762,257,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,3,47,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,8,1,1,20200205,UTA,DEN
+Shot Chart Detail,0021900762,283,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,1,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-19,16,1,1,20200205,UTA,DEN
+Shot Chart Detail,0021900762,509,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,7,9,Made Shot,Driving Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,25,26,1,1,20200205,UTA,DEN
+Shot Chart Detail,0021900776,79,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,4,34,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,227,89,1,1,20200207,UTA,POR
+Shot Chart Detail,0021900776,87,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,4,0,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,49,60,1,1,20200207,UTA,POR
+Shot Chart Detail,0021900776,231,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,6,21,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-38,81,1,1,20200207,UTA,POR
+Shot Chart Detail,0021900776,235,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,5,50,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-30,8,1,1,20200207,UTA,POR
+Shot Chart Detail,0021900776,275,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,3,15,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-46,49,1,1,20200207,UTA,POR
+Shot Chart Detail,0021900776,446,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,3,9,Made Shot,Running Pull-Up Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,8,56,1,1,20200207,UTA,POR
+Shot Chart Detail,0021900776,453,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,2,13,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,3,1,1,20200207,UTA,POR
+Shot Chart Detail,0021900776,558,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,7,13,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,190,162,1,1,20200207,UTA,POR
+Shot Chart Detail,0021900776,594,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,4,34,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-13,119,1,1,20200207,UTA,POR
+Shot Chart Detail,0021900776,635,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,0,52,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,5,1,1,20200207,UTA,POR
+Shot Chart Detail,0021900790,583,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,4,18,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,9,1,1,20200209,HOU,UTA
+Shot Chart Detail,0021900790,641,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,0,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,41,279,1,1,20200209,HOU,UTA
+Shot Chart Detail,0021900798,30,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,8,52,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,8,47,1,1,20200210,DAL,UTA
+Shot Chart Detail,0021900798,35,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,8,27,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,29,13,1,1,20200210,DAL,UTA
+Shot Chart Detail,0021900798,63,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,5,35,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,26,22,1,1,20200210,DAL,UTA
+Shot Chart Detail,0021900798,89,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,4,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,11,1,1,20200210,DAL,UTA
+Shot Chart Detail,0021900798,218,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,5,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-87,275,1,1,20200210,DAL,UTA
+Shot Chart Detail,0021900798,550,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,6,12,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,26,1,1,20200210,DAL,UTA
+Shot Chart Detail,0021900798,593,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,3,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-223,95,1,1,20200210,DAL,UTA
+Shot Chart Detail,0021900816,42,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,8,15,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-22,6,1,1,20200212,UTA,MIA
+Shot Chart Detail,0021900816,54,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,6,37,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,14,16,1,1,20200212,UTA,MIA
+Shot Chart Detail,0021900816,71,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,5,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,145,201,1,1,20200212,UTA,MIA
+Shot Chart Detail,0021900816,326,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,10,4,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,29,50,1,1,20200212,UTA,MIA
+Shot Chart Detail,0021900816,344,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,8,58,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-22,95,1,1,20200212,UTA,MIA
+Shot Chart Detail,0021900816,425,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,2,34,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,57,38,1,1,20200212,UTA,MIA
+Shot Chart Detail,0021900816,547,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,6,29,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,51,79,1,1,20200212,UTA,MIA
+Shot Chart Detail,0021900816,585,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,2,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,217,134,1,1,20200212,UTA,MIA
+Shot Chart Detail,0021900816,597,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,1,49,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-116,248,1,1,20200212,UTA,MIA
+Shot Chart Detail,0021900832,245,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,7,4,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-229,32,1,1,20200221,UTA,SAS
+Shot Chart Detail,0021900832,257,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,5,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-142,239,1,1,20200221,UTA,SAS
+Shot Chart Detail,0021900832,346,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,11,46,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,10,1,1,20200221,UTA,SAS
+Shot Chart Detail,0021900841,76,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,5,54,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-6,1,1,20200222,UTA,HOU
+Shot Chart Detail,0021900841,336,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,9,32,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-2,74,1,1,20200222,UTA,HOU
+Shot Chart Detail,0021900841,365,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,7,9,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-108,219,1,1,20200222,UTA,HOU
+Shot Chart Detail,0021900855,112,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,2,34,Made Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-43,87,1,1,20200224,UTA,PHX
+Shot Chart Detail,0021900855,270,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,3,32,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,9,1,1,20200224,UTA,PHX
+Shot Chart Detail,0021900855,316,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,0,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,5,1,1,20200224,UTA,PHX
+Shot Chart Detail,0021900855,386,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,8,30,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,8,1,1,20200224,UTA,PHX
+Shot Chart Detail,0021900872,102,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,3,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-151,25,1,1,20200226,UTA,BOS
+Shot Chart Detail,0021900885,7,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,11,48,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,9,1,1,20200228,UTA,WAS
+Shot Chart Detail,0021900885,89,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,5,0,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-6,1,1,20200228,UTA,WAS
+Shot Chart Detail,0021900885,254,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,5,18,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-236,-6,1,1,20200228,UTA,WAS
+Shot Chart Detail,0021900885,418,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,5,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,23,222,90,1,1,20200228,UTA,WAS
+Shot Chart Detail,0021900885,428,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,5,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,233,92,1,1,20200228,UTA,WAS
+Shot Chart Detail,0021900885,670,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,1,20,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,32,33,1,1,20200228,UTA,WAS
+Shot Chart Detail,0021900885,689,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,0,26,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-109,235,1,1,20200228,UTA,WAS
+Shot Chart Detail,0021900902,90,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,4,38,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,11,1,1,20200302,CLE,UTA
+Shot Chart Detail,0021900902,111,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,3,15,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,-8,1,1,20200302,CLE,UTA
+Shot Chart Detail,0021900902,117,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,2,7,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,-5,1,1,20200302,CLE,UTA
+Shot Chart Detail,0021900902,122,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,1,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-225,131,1,1,20200302,CLE,UTA
+Shot Chart Detail,0021900902,229,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,5,20,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,134,46,1,1,20200302,CLE,UTA
+Shot Chart Detail,0021900902,247,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,3,40,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,1,1,1,20200302,CLE,UTA
+Shot Chart Detail,0021900902,334,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,8,19,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-231,-20,1,1,20200302,CLE,UTA
+Shot Chart Detail,0021900902,342,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,7,13,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,-13,1,1,20200302,CLE,UTA
+Shot Chart Detail,0021900902,536,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,4,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,195,168,1,1,20200302,CLE,UTA
+Shot Chart Detail,0021900902,549,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,3,33,Made Shot,Step Back Jump shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-220,14,1,1,20200302,CLE,UTA
+Shot Chart Detail,0021900921,20,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,10,49,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,7,1,1,20200304,NYK,UTA
+Shot Chart Detail,0021900921,33,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,9,42,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,39,1,1,20200304,NYK,UTA
+Shot Chart Detail,0021900921,53,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,7,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,29,-104,274,1,1,20200304,NYK,UTA
+Shot Chart Detail,0021900921,236,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,4,54,Made Shot,Driving Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,20,26,1,1,20200304,NYK,UTA
+Shot Chart Detail,0021900921,248,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,4,30,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,20,277,1,1,20200304,NYK,UTA
+Shot Chart Detail,0021900921,322,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,9,31,Made Shot,Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,14,40,1,1,20200304,NYK,UTA
+Shot Chart Detail,0021900921,372,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,5,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,11,1,1,20200304,NYK,UTA
+Shot Chart Detail,0021900933,50,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,6,32,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,8,2,1,1,20200306,BOS,UTA
+Shot Chart Detail,0021900933,507,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,8,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-169,188,1,1,20200306,BOS,UTA
+Shot Chart Detail,0021900941,27,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,8,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,10,1,1,20200307,DET,UTA
+Shot Chart Detail,0021900941,51,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,5,36,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,28,1,1,20200307,DET,UTA
+Shot Chart Detail,0021900941,88,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,2,43,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,11,27,1,1,20200307,DET,UTA
+Shot Chart Detail,0021900941,199,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,5,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,112,242,1,1,20200307,DET,UTA
+Shot Chart Detail,0021900941,234,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,2,34,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,7,1,1,20200307,DET,UTA
+Shot Chart Detail,0021900941,239,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,1,54,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-70,83,1,1,20200307,DET,UTA
+Shot Chart Detail,0021900941,246,202711,Bojan Bogdanović,1610612762,Utah Jazz,2,1,0,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-107,12,1,1,20200307,DET,UTA
+Shot Chart Detail,0021900941,286,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,9,52,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,8,27,1,1,20200307,DET,UTA
+Shot Chart Detail,0021900941,329,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,6,24,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,237,69,1,1,20200307,DET,UTA
+Shot Chart Detail,0021900941,371,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,3,49,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,32,13,1,1,20200307,DET,UTA
+Shot Chart Detail,0021900941,492,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,7,32,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,1,59,1,1,20200307,DET,UTA
+Shot Chart Detail,0021900941,499,202711,Bojan Bogdanović,1610612762,Utah Jazz,4,7,5,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,7,73,1,1,20200307,DET,UTA
+Shot Chart Detail,0021900959,53,202711,Bojan Bogdanović,1610612762,Utah Jazz,1,6,50,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,29,1,1,20200309,UTA,TOR
+Shot Chart Detail,0021900959,324,202711,Bojan Bogdanović,1610612762,Utah Jazz,3,9,33,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,47,85,1,1,20200309,UTA,TOR

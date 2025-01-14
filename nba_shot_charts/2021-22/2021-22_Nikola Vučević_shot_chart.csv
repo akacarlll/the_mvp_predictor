@@ -1,0 +1,547 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0022100004,74,202696,Nikola Vučević,1610612741,Chicago Bulls,1,5,13,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20211020,DET,CHI
+Shot Chart Detail,0022100004,77,202696,Nikola Vučević,1610612741,Chicago Bulls,1,4,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,12,1,1,20211020,DET,CHI
+Shot Chart Detail,0022100004,225,202696,Nikola Vučević,1610612741,Chicago Bulls,2,7,43,Made Shot,Floating Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,5,1,1,20211020,DET,CHI
+Shot Chart Detail,0022100004,237,202696,Nikola Vučević,1610612741,Chicago Bulls,2,6,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-132,26,1,1,20211020,DET,CHI
+Shot Chart Detail,0022100004,275,202696,Nikola Vučević,1610612741,Chicago Bulls,2,3,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,121,43,1,1,20211020,DET,CHI
+Shot Chart Detail,0022100004,397,202696,Nikola Vučević,1610612741,Chicago Bulls,3,5,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,38,246,1,1,20211020,DET,CHI
+Shot Chart Detail,0022100004,434,202696,Nikola Vučević,1610612741,Chicago Bulls,3,2,20,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-22,24,1,1,20211020,DET,CHI
+Shot Chart Detail,0022100022,44,202696,Nikola Vučević,1610612741,Chicago Bulls,1,7,51,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,1,109,1,1,20211022,CHI,NOP
+Shot Chart Detail,0022100022,128,202696,Nikola Vučević,1610612741,Chicago Bulls,1,2,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,0,284,1,1,20211022,CHI,NOP
+Shot Chart Detail,0022100022,220,202696,Nikola Vučević,1610612741,Chicago Bulls,2,7,29,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-25,106,1,1,20211022,CHI,NOP
+Shot Chart Detail,0022100022,332,202696,Nikola Vučević,1610612741,Chicago Bulls,3,11,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,124,-18,1,1,20211022,CHI,NOP
+Shot Chart Detail,0022100030,31,202696,Nikola Vučević,1610612741,Chicago Bulls,1,9,23,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,45,19,1,1,20211023,CHI,DET
+Shot Chart Detail,0022100030,34,202696,Nikola Vučević,1610612741,Chicago Bulls,1,8,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-11,260,1,1,20211023,CHI,DET
+Shot Chart Detail,0022100030,103,202696,Nikola Vučević,1610612741,Chicago Bulls,1,4,56,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20211023,CHI,DET
+Shot Chart Detail,0022100030,106,202696,Nikola Vučević,1610612741,Chicago Bulls,1,4,32,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-51,50,1,1,20211023,CHI,DET
+Shot Chart Detail,0022100030,429,202696,Nikola Vučević,1610612741,Chicago Bulls,3,5,26,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20211023,CHI,DET
+Shot Chart Detail,0022100030,629,202696,Nikola Vučević,1610612741,Chicago Bulls,4,3,59,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,2,1,1,20211023,CHI,DET
+Shot Chart Detail,0022100046,44,202696,Nikola Vučević,1610612741,Chicago Bulls,1,7,51,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,44,67,1,1,20211025,TOR,CHI
+Shot Chart Detail,0022100046,85,202696,Nikola Vučević,1610612741,Chicago Bulls,1,4,56,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20211025,TOR,CHI
+Shot Chart Detail,0022100046,162,202696,Nikola Vučević,1610612741,Chicago Bulls,2,11,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-140,46,1,1,20211025,TOR,CHI
+Shot Chart Detail,0022100046,203,202696,Nikola Vučević,1610612741,Chicago Bulls,2,7,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-5,153,1,1,20211025,TOR,CHI
+Shot Chart Detail,0022100046,250,202696,Nikola Vučević,1610612741,Chicago Bulls,2,4,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,135,74,1,1,20211025,TOR,CHI
+Shot Chart Detail,0022100046,274,202696,Nikola Vučević,1610612741,Chicago Bulls,2,1,48,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-142,13,1,1,20211025,TOR,CHI
+Shot Chart Detail,0022100046,311,202696,Nikola Vučević,1610612741,Chicago Bulls,3,11,40,Made Shot,Driving Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-5,37,1,1,20211025,TOR,CHI
+Shot Chart Detail,0022100046,366,202696,Nikola Vučević,1610612741,Chicago Bulls,3,7,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-130,-7,1,1,20211025,TOR,CHI
+Shot Chart Detail,0022100067,15,202696,Nikola Vučević,1610612741,Chicago Bulls,1,10,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,67,234,1,1,20211028,CHI,NYK
+Shot Chart Detail,0022100067,51,202696,Nikola Vučević,1610612741,Chicago Bulls,1,6,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,126,59,1,1,20211028,CHI,NYK
+Shot Chart Detail,0022100067,73,202696,Nikola Vučević,1610612741,Chicago Bulls,1,4,26,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-31,82,1,1,20211028,CHI,NYK
+Shot Chart Detail,0022100067,331,202696,Nikola Vučević,1610612741,Chicago Bulls,3,8,15,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,11,41,1,1,20211028,CHI,NYK
+Shot Chart Detail,0022100067,341,202696,Nikola Vučević,1610612741,Chicago Bulls,3,7,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-104,252,1,1,20211028,CHI,NYK
+Shot Chart Detail,0022100067,506,202696,Nikola Vučević,1610612741,Chicago Bulls,4,8,8,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,10,1,1,20211028,CHI,NYK
+Shot Chart Detail,0022100067,564,202696,Nikola Vučević,1610612741,Chicago Bulls,4,4,1,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-22,53,1,1,20211028,CHI,NYK
+Shot Chart Detail,0022100067,611,202696,Nikola Vučević,1610612741,Chicago Bulls,4,0,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-169,188,1,1,20211028,CHI,NYK
+Shot Chart Detail,0022100083,234,202696,Nikola Vučević,1610612741,Chicago Bulls,2,7,19,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,4,67,1,1,20211030,CHI,UTA
+Shot Chart Detail,0022100083,264,202696,Nikola Vučević,1610612741,Chicago Bulls,2,4,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,225,106,1,1,20211030,CHI,UTA
+Shot Chart Detail,0022100083,643,202696,Nikola Vučević,1610612741,Chicago Bulls,4,1,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-83,239,1,1,20211030,CHI,UTA
+Shot Chart Detail,0022100083,648,202696,Nikola Vučević,1610612741,Chicago Bulls,4,0,53,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,6,1,1,20211030,CHI,UTA
+Shot Chart Detail,0022100098,23,202696,Nikola Vučević,1610612741,Chicago Bulls,1,10,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,47,253,1,1,20211101,BOS,CHI
+Shot Chart Detail,0022100098,71,202696,Nikola Vučević,1610612741,Chicago Bulls,1,5,36,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-65,128,1,1,20211101,BOS,CHI
+Shot Chart Detail,0022100098,280,202696,Nikola Vučević,1610612741,Chicago Bulls,2,2,46,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-7,49,1,1,20211101,BOS,CHI
+Shot Chart Detail,0022100098,344,202696,Nikola Vučević,1610612741,Chicago Bulls,3,10,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,134,38,1,1,20211101,BOS,CHI
+Shot Chart Detail,0022100098,404,202696,Nikola Vučević,1610612741,Chicago Bulls,3,4,45,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,31,153,1,1,20211101,BOS,CHI
+Shot Chart Detail,0022100111,24,202696,Nikola Vučević,1610612741,Chicago Bulls,1,9,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-89,164,1,1,20211103,PHI,CHI
+Shot Chart Detail,0022100111,70,202696,Nikola Vučević,1610612741,Chicago Bulls,1,5,10,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-98,4,1,1,20211103,PHI,CHI
+Shot Chart Detail,0022100135,25,202696,Nikola Vučević,1610612741,Chicago Bulls,1,10,9,Made Shot,Floating Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-36,6,1,1,20211106,CHI,PHI
+Shot Chart Detail,0022100135,43,202696,Nikola Vučević,1610612741,Chicago Bulls,1,8,22,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,6,1,1,20211106,CHI,PHI
+Shot Chart Detail,0022100135,302,202696,Nikola Vučević,1610612741,Chicago Bulls,2,1,32,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-10,35,1,1,20211106,CHI,PHI
+Shot Chart Detail,0022100135,415,202696,Nikola Vučević,1610612741,Chicago Bulls,3,4,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,7,258,1,1,20211106,CHI,PHI
+Shot Chart Detail,0022100135,440,202696,Nikola Vučević,1610612741,Chicago Bulls,3,3,0,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,39,22,1,1,20211106,CHI,PHI
+Shot Chart Detail,0022100148,84,202696,Nikola Vučević,1610612741,Chicago Bulls,1,4,35,Made Shot,Turnaround Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,1,1,1,20211108,CHI,BKN
+Shot Chart Detail,0022100148,401,202696,Nikola Vučević,1610612741,Chicago Bulls,3,4,33,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-29,59,1,1,20211108,CHI,BKN
+Shot Chart Detail,0022100148,553,202696,Nikola Vučević,1610612741,Chicago Bulls,4,6,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-12,267,1,1,20211108,CHI,BKN
+Shot Chart Detail,0022100148,576,202696,Nikola Vučević,1610612741,Chicago Bulls,4,5,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-137,73,1,1,20211108,CHI,BKN
+Shot Chart Detail,0022100148,618,202696,Nikola Vučević,1610612741,Chicago Bulls,4,2,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-126,133,1,1,20211108,CHI,BKN
+Shot Chart Detail,0022100163,24,202696,Nikola Vučević,1610612741,Chicago Bulls,1,9,54,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20211110,CHI,DAL
+Shot Chart Detail,0022100163,39,202696,Nikola Vučević,1610612741,Chicago Bulls,1,8,15,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,-2,1,1,20211110,CHI,DAL
+Shot Chart Detail,0022100163,54,202696,Nikola Vučević,1610612741,Chicago Bulls,1,7,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-56,246,1,1,20211110,CHI,DAL
+Shot Chart Detail,0022100163,92,202696,Nikola Vučević,1610612741,Chicago Bulls,1,5,6,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,11,1,1,20211110,CHI,DAL
+Shot Chart Detail,0022100163,347,202696,Nikola Vučević,1610612741,Chicago Bulls,3,11,38,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-11,22,1,1,20211110,CHI,DAL
+Shot Chart Detail,0022100163,457,202696,Nikola Vučević,1610612741,Chicago Bulls,3,1,46,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-59,22,1,1,20211110,CHI,DAL
+Shot Chart Detail,0022100163,555,202696,Nikola Vučević,1610612741,Chicago Bulls,4,5,38,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,48,11,1,1,20211110,CHI,DAL
+Shot Chart Detail,0022100163,581,202696,Nikola Vučević,1610612741,Chicago Bulls,4,3,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,10,1,1,20211110,CHI,DAL
+Shot Chart Detail,0022100271,59,202696,Nikola Vučević,1610612741,Chicago Bulls,1,7,25,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,11,1,1,20211124,HOU,CHI
+Shot Chart Detail,0022100271,164,202696,Nikola Vučević,1610612741,Chicago Bulls,2,10,54,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-25,92,1,1,20211124,HOU,CHI
+Shot Chart Detail,0022100271,171,202696,Nikola Vučević,1610612741,Chicago Bulls,2,10,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,26,269,1,1,20211124,HOU,CHI
+Shot Chart Detail,0022100271,192,202696,Nikola Vučević,1610612741,Chicago Bulls,2,9,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,2,191,1,1,20211124,HOU,CHI
+Shot Chart Detail,0022100271,328,202696,Nikola Vučević,1610612741,Chicago Bulls,3,9,59,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-20,101,1,1,20211124,HOU,CHI
+Shot Chart Detail,0022100271,612,202696,Nikola Vučević,1610612741,Chicago Bulls,4,4,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-1,243,1,1,20211124,HOU,CHI
+Shot Chart Detail,0022100283,12,202696,Nikola Vučević,1610612741,Chicago Bulls,1,11,18,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-6,71,1,1,20211126,ORL,CHI
+Shot Chart Detail,0022100283,212,202696,Nikola Vučević,1610612741,Chicago Bulls,2,7,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,190,14,1,1,20211126,ORL,CHI
+Shot Chart Detail,0022100283,235,202696,Nikola Vučević,1610612741,Chicago Bulls,2,5,27,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,3,1,1,20211126,ORL,CHI
+Shot Chart Detail,0022100283,440,202696,Nikola Vučević,1610612741,Chicago Bulls,3,3,9,Made Shot,Driving Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-29,25,1,1,20211126,ORL,CHI
+Shot Chart Detail,0022100283,465,202696,Nikola Vučević,1610612741,Chicago Bulls,3,1,25,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-29,44,1,1,20211126,ORL,CHI
+Shot Chart Detail,0022100283,477,202696,Nikola Vučević,1610612741,Chicago Bulls,3,0,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-40,262,1,1,20211126,ORL,CHI
+Shot Chart Detail,0022100283,509,202696,Nikola Vučević,1610612741,Chicago Bulls,4,10,39,Made Shot,Turnaround Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,140,71,1,1,20211126,ORL,CHI
+Shot Chart Detail,0022100296,79,202696,Nikola Vučević,1610612741,Chicago Bulls,1,5,28,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-15,55,1,1,20211127,CHI,MIA
+Shot Chart Detail,0022100296,102,202696,Nikola Vučević,1610612741,Chicago Bulls,1,3,26,Made Shot,Turnaround Fadeaway Bank Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,81,59,1,1,20211127,CHI,MIA
+Shot Chart Detail,0022100296,589,202696,Nikola Vučević,1610612741,Chicago Bulls,4,4,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,11,1,1,20211127,CHI,MIA
+Shot Chart Detail,0022100307,11,202696,Nikola Vučević,1610612741,Chicago Bulls,1,11,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-114,99,1,1,20211129,CHI,CHA
+Shot Chart Detail,0022100307,48,202696,Nikola Vučević,1610612741,Chicago Bulls,1,7,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,104,220,1,1,20211129,CHI,CHA
+Shot Chart Detail,0022100307,62,202696,Nikola Vučević,1610612741,Chicago Bulls,1,6,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,0,1,1,20211129,CHI,CHA
+Shot Chart Detail,0022100307,93,202696,Nikola Vučević,1610612741,Chicago Bulls,1,3,43,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,22,127,1,1,20211129,CHI,CHA
+Shot Chart Detail,0022100307,226,202696,Nikola Vučević,1610612741,Chicago Bulls,2,6,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,40,251,1,1,20211129,CHI,CHA
+Shot Chart Detail,0022100307,274,202696,Nikola Vučević,1610612741,Chicago Bulls,2,3,35,Made Shot,Cutting Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20211129,CHI,CHA
+Shot Chart Detail,0022100307,325,202696,Nikola Vučević,1610612741,Chicago Bulls,2,0,0,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,24,1,1,20211129,CHI,CHA
+Shot Chart Detail,0022100307,360,202696,Nikola Vučević,1610612741,Chicago Bulls,3,9,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-27,257,1,1,20211129,CHI,CHA
+Shot Chart Detail,0022100307,367,202696,Nikola Vučević,1610612741,Chicago Bulls,3,8,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-66,253,1,1,20211129,CHI,CHA
+Shot Chart Detail,0022100307,412,202696,Nikola Vučević,1610612741,Chicago Bulls,3,4,56,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-22,47,1,1,20211129,CHI,CHA
+Shot Chart Detail,0022100307,533,202696,Nikola Vučević,1610612741,Chicago Bulls,4,7,16,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,7,1,1,20211129,CHI,CHA
+Shot Chart Detail,0022100307,594,202696,Nikola Vučević,1610612741,Chicago Bulls,4,2,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-123,242,1,1,20211129,CHI,CHA
+Shot Chart Detail,0022100328,10,202696,Nikola Vučević,1610612741,Chicago Bulls,1,11,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-151,127,1,1,20211202,NYK,CHI
+Shot Chart Detail,0022100328,20,202696,Nikola Vučević,1610612741,Chicago Bulls,1,10,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-16,249,1,1,20211202,NYK,CHI
+Shot Chart Detail,0022100328,35,202696,Nikola Vučević,1610612741,Chicago Bulls,1,8,48,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20211202,NYK,CHI
+Shot Chart Detail,0022100328,79,202696,Nikola Vučević,1610612741,Chicago Bulls,1,5,22,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20211202,NYK,CHI
+Shot Chart Detail,0022100328,88,202696,Nikola Vučević,1610612741,Chicago Bulls,1,4,51,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,8,1,1,20211202,NYK,CHI
+Shot Chart Detail,0022100328,341,202696,Nikola Vučević,1610612741,Chicago Bulls,3,11,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-112,227,1,1,20211202,NYK,CHI
+Shot Chart Detail,0022100328,351,202696,Nikola Vučević,1610612741,Chicago Bulls,3,10,23,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,45,125,1,1,20211202,NYK,CHI
+Shot Chart Detail,0022100328,409,202696,Nikola Vučević,1610612741,Chicago Bulls,3,4,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,4,256,1,1,20211202,NYK,CHI
+Shot Chart Detail,0022100328,574,202696,Nikola Vučević,1610612741,Chicago Bulls,4,7,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-64,241,1,1,20211202,NYK,CHI
+Shot Chart Detail,0022100328,583,202696,Nikola Vučević,1610612741,Chicago Bulls,4,6,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-143,204,1,1,20211202,NYK,CHI
+Shot Chart Detail,0022100343,31,202696,Nikola Vučević,1610612741,Chicago Bulls,1,9,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-138,126,1,1,20211204,BKN,CHI
+Shot Chart Detail,0022100343,115,202696,Nikola Vučević,1610612741,Chicago Bulls,1,2,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,6,1,1,20211204,BKN,CHI
+Shot Chart Detail,0022100343,237,202696,Nikola Vučević,1610612741,Chicago Bulls,2,6,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-65,251,1,1,20211204,BKN,CHI
+Shot Chart Detail,0022100343,262,202696,Nikola Vučević,1610612741,Chicago Bulls,2,4,58,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,36,32,1,1,20211204,BKN,CHI
+Shot Chart Detail,0022100343,406,202696,Nikola Vučević,1610612741,Chicago Bulls,3,5,4,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,3,1,1,20211204,BKN,CHI
+Shot Chart Detail,0022100357,23,202696,Nikola Vučević,1610612741,Chicago Bulls,1,10,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,11,262,1,1,20211206,CHI,DEN
+Shot Chart Detail,0022100357,42,202696,Nikola Vučević,1610612741,Chicago Bulls,1,9,14,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-76,11,1,1,20211206,CHI,DEN
+Shot Chart Detail,0022100357,103,202696,Nikola Vučević,1610612741,Chicago Bulls,1,4,24,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,11,117,1,1,20211206,CHI,DEN
+Shot Chart Detail,0022100357,356,202696,Nikola Vučević,1610612741,Chicago Bulls,3,11,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-115,91,1,1,20211206,CHI,DEN
+Shot Chart Detail,0022100357,392,202696,Nikola Vučević,1610612741,Chicago Bulls,3,8,3,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-10,126,1,1,20211206,CHI,DEN
+Shot Chart Detail,0022100357,424,202696,Nikola Vučević,1610612741,Chicago Bulls,3,5,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-92,241,1,1,20211206,CHI,DEN
+Shot Chart Detail,0022100357,466,202696,Nikola Vučević,1610612741,Chicago Bulls,3,2,47,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,10,1,1,20211206,CHI,DEN
+Shot Chart Detail,0022100357,560,202696,Nikola Vučević,1610612741,Chicago Bulls,4,7,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-69,265,1,1,20211206,CHI,DEN
+Shot Chart Detail,0022100367,37,202696,Nikola Vučević,1610612741,Chicago Bulls,1,8,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,125,236,1,1,20211208,CLE,CHI
+Shot Chart Detail,0022100367,187,202696,Nikola Vučević,1610612741,Chicago Bulls,2,9,48,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-119,23,1,1,20211208,CLE,CHI
+Shot Chart Detail,0022100367,258,202696,Nikola Vučević,1610612741,Chicago Bulls,2,4,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,74,193,1,1,20211208,CLE,CHI
+Shot Chart Detail,0022100367,326,202696,Nikola Vučević,1610612741,Chicago Bulls,3,11,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-146,66,1,1,20211208,CLE,CHI
+Shot Chart Detail,0022100367,344,202696,Nikola Vučević,1610612741,Chicago Bulls,3,10,1,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20211208,CLE,CHI
+Shot Chart Detail,0022100367,366,202696,Nikola Vučević,1610612741,Chicago Bulls,3,7,23,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-25,41,1,1,20211208,CLE,CHI
+Shot Chart Detail,0022100367,414,202696,Nikola Vučević,1610612741,Chicago Bulls,3,4,8,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20211208,CLE,CHI
+Shot Chart Detail,0022100367,569,202696,Nikola Vučević,1610612741,Chicago Bulls,4,6,2,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-26,43,1,1,20211208,CLE,CHI
+Shot Chart Detail,0022100394,252,202696,Nikola Vučević,1610612741,Chicago Bulls,2,3,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-27,256,1,1,20211211,MIA,CHI
+Shot Chart Detail,0022100394,305,202696,Nikola Vučević,1610612741,Chicago Bulls,3,10,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-185,31,1,1,20211211,MIA,CHI
+Shot Chart Detail,0022100394,373,202696,Nikola Vučević,1610612741,Chicago Bulls,3,5,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-143,121,1,1,20211211,MIA,CHI
+Shot Chart Detail,0022100415,8,202696,Nikola Vučević,1610612741,Chicago Bulls,1,11,39,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-7,92,1,1,20220111,CHI,DET
+Shot Chart Detail,0022100415,91,202696,Nikola Vučević,1610612741,Chicago Bulls,1,3,34,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-53,16,1,1,20220111,CHI,DET
+Shot Chart Detail,0022100415,287,202696,Nikola Vučević,1610612741,Chicago Bulls,2,3,27,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,16,1,1,20220111,CHI,DET
+Shot Chart Detail,0022100415,372,202696,Nikola Vučević,1610612741,Chicago Bulls,3,10,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,6,274,1,1,20220111,CHI,DET
+Shot Chart Detail,0022100415,401,202696,Nikola Vučević,1610612741,Chicago Bulls,3,7,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,91,233,1,1,20220111,CHI,DET
+Shot Chart Detail,0022100415,434,202696,Nikola Vučević,1610612741,Chicago Bulls,3,5,59,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20220111,CHI,DET
+Shot Chart Detail,0022100415,450,202696,Nikola Vučević,1610612741,Chicago Bulls,3,4,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-148,79,1,1,20220111,CHI,DET
+Shot Chart Detail,0022100415,454,202696,Nikola Vučević,1610612741,Chicago Bulls,3,4,4,Made Shot,Turnaround Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-10,22,1,1,20220111,CHI,DET
+Shot Chart Detail,0022100415,466,202696,Nikola Vučević,1610612741,Chicago Bulls,3,3,13,Made Shot,Driving Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-5,21,1,1,20220111,CHI,DET
+Shot Chart Detail,0022100415,483,202696,Nikola Vučević,1610612741,Chicago Bulls,3,1,47,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,26,80,1,1,20220111,CHI,DET
+Shot Chart Detail,0022100430,22,202696,Nikola Vučević,1610612741,Chicago Bulls,1,10,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,25,253,1,1,20220203,TOR,CHI
+Shot Chart Detail,0022100430,90,202696,Nikola Vučević,1610612741,Chicago Bulls,1,5,9,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20220203,TOR,CHI
+Shot Chart Detail,0022100430,226,202696,Nikola Vučević,1610612741,Chicago Bulls,2,6,48,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,5,1,1,20220203,TOR,CHI
+Shot Chart Detail,0022100430,265,202696,Nikola Vučević,1610612741,Chicago Bulls,2,3,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,45,265,1,1,20220203,TOR,CHI
+Shot Chart Detail,0022100430,273,202696,Nikola Vučević,1610612741,Chicago Bulls,2,2,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-163,34,1,1,20220203,TOR,CHI
+Shot Chart Detail,0022100430,314,202696,Nikola Vučević,1610612741,Chicago Bulls,3,11,14,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-61,59,1,1,20220203,TOR,CHI
+Shot Chart Detail,0022100430,318,202696,Nikola Vučević,1610612741,Chicago Bulls,3,10,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-70,245,1,1,20220203,TOR,CHI
+Shot Chart Detail,0022100430,346,202696,Nikola Vučević,1610612741,Chicago Bulls,3,8,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,192,166,1,1,20220203,TOR,CHI
+Shot Chart Detail,0022100430,370,202696,Nikola Vučević,1610612741,Chicago Bulls,3,6,0,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-7,30,1,1,20220203,TOR,CHI
+Shot Chart Detail,0022100430,594,202696,Nikola Vučević,1610612741,Chicago Bulls,4,4,44,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-6,11,1,1,20220203,TOR,CHI
+Shot Chart Detail,0022100430,609,202696,Nikola Vučević,1610612741,Chicago Bulls,4,3,15,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,5,1,1,20220203,TOR,CHI
+Shot Chart Detail,0022100430,626,202696,Nikola Vučević,1610612741,Chicago Bulls,4,2,0,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20220203,TOR,CHI
+Shot Chart Detail,0022100430,647,202696,Nikola Vučević,1610612741,Chicago Bulls,4,0,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-13,35,1,1,20220203,TOR,CHI
+Shot Chart Detail,0022100448,14,202696,Nikola Vučević,1610612741,Chicago Bulls,1,10,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,4,141,1,1,20211219,CHI,LAL
+Shot Chart Detail,0022100448,78,202696,Nikola Vučević,1610612741,Chicago Bulls,1,4,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-76,251,1,1,20211219,CHI,LAL
+Shot Chart Detail,0022100448,224,202696,Nikola Vučević,1610612741,Chicago Bulls,2,6,42,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20211219,CHI,LAL
+Shot Chart Detail,0022100448,230,202696,Nikola Vučević,1610612741,Chicago Bulls,2,6,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-87,250,1,1,20211219,CHI,LAL
+Shot Chart Detail,0022100448,295,202696,Nikola Vučević,1610612741,Chicago Bulls,2,1,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-11,251,1,1,20211219,CHI,LAL
+Shot Chart Detail,0022100448,381,202696,Nikola Vučević,1610612741,Chicago Bulls,3,8,0,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20211219,CHI,LAL
+Shot Chart Detail,0022100448,434,202696,Nikola Vučević,1610612741,Chicago Bulls,3,4,36,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,7,1,1,20211219,CHI,LAL
+Shot Chart Detail,0022100448,614,202696,Nikola Vučević,1610612741,Chicago Bulls,4,4,26,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-48,95,1,1,20211219,CHI,LAL
+Shot Chart Detail,0022100459,16,202696,Nikola Vučević,1610612741,Chicago Bulls,1,10,54,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,-2,1,1,20211220,CHI,HOU
+Shot Chart Detail,0022100459,57,202696,Nikola Vučević,1610612741,Chicago Bulls,1,7,32,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,4,61,1,1,20211220,CHI,HOU
+Shot Chart Detail,0022100459,59,202696,Nikola Vučević,1610612741,Chicago Bulls,1,7,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,5,1,1,20211220,CHI,HOU
+Shot Chart Detail,0022100459,107,202696,Nikola Vučević,1610612741,Chicago Bulls,1,2,56,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-118,34,1,1,20211220,CHI,HOU
+Shot Chart Detail,0022100459,348,202696,Nikola Vučević,1610612741,Chicago Bulls,3,11,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-96,247,1,1,20211220,CHI,HOU
+Shot Chart Detail,0022100459,367,202696,Nikola Vučević,1610612741,Chicago Bulls,3,9,25,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20211220,CHI,HOU
+Shot Chart Detail,0022100459,385,202696,Nikola Vučević,1610612741,Chicago Bulls,3,8,4,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-50,46,1,1,20211220,CHI,HOU
+Shot Chart Detail,0022100459,572,202696,Nikola Vučević,1610612741,Chicago Bulls,4,5,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,6,268,1,1,20211220,CHI,HOU
+Shot Chart Detail,0022100472,19,202696,Nikola Vučević,1610612741,Chicago Bulls,1,10,0,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,9,1,1,20220126,CHI,TOR
+Shot Chart Detail,0022100472,76,202696,Nikola Vučević,1610612741,Chicago Bulls,1,5,43,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,51,108,1,1,20220126,CHI,TOR
+Shot Chart Detail,0022100472,113,202696,Nikola Vučević,1610612741,Chicago Bulls,1,3,15,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,3,1,1,20220126,CHI,TOR
+Shot Chart Detail,0022100472,246,202696,Nikola Vučević,1610612741,Chicago Bulls,2,7,23,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,11,131,1,1,20220126,CHI,TOR
+Shot Chart Detail,0022100472,261,202696,Nikola Vučević,1610612741,Chicago Bulls,2,5,32,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,4,43,1,1,20220126,CHI,TOR
+Shot Chart Detail,0022100472,381,202696,Nikola Vučević,1610612741,Chicago Bulls,3,8,52,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-43,54,1,1,20220126,CHI,TOR
+Shot Chart Detail,0022100472,406,202696,Nikola Vučević,1610612741,Chicago Bulls,3,7,31,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,0,39,1,1,20220126,CHI,TOR
+Shot Chart Detail,0022100472,660,202696,Nikola Vučević,1610612741,Chicago Bulls,4,0,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-96,262,1,1,20220126,CHI,TOR
+Shot Chart Detail,0022100499,34,202696,Nikola Vučević,1610612741,Chicago Bulls,1,9,15,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,-1,1,1,20211226,CHI,IND
+Shot Chart Detail,0022100499,42,202696,Nikola Vučević,1610612741,Chicago Bulls,1,8,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-56,158,1,1,20211226,CHI,IND
+Shot Chart Detail,0022100499,49,202696,Nikola Vučević,1610612741,Chicago Bulls,1,7,27,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20211226,CHI,IND
+Shot Chart Detail,0022100499,80,202696,Nikola Vučević,1610612741,Chicago Bulls,1,5,24,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,22,96,1,1,20211226,CHI,IND
+Shot Chart Detail,0022100499,227,202696,Nikola Vučević,1610612741,Chicago Bulls,2,5,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,92,230,1,1,20211226,CHI,IND
+Shot Chart Detail,0022100499,260,202696,Nikola Vučević,1610612741,Chicago Bulls,2,3,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-22,169,1,1,20211226,CHI,IND
+Shot Chart Detail,0022100499,333,202696,Nikola Vučević,1610612741,Chicago Bulls,3,9,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-26,262,1,1,20211226,CHI,IND
+Shot Chart Detail,0022100502,14,202696,Nikola Vučević,1610612741,Chicago Bulls,1,11,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-163,197,1,1,20211227,ATL,CHI
+Shot Chart Detail,0022100502,79,202696,Nikola Vučević,1610612741,Chicago Bulls,1,5,9,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,56,76,1,1,20211227,ATL,CHI
+Shot Chart Detail,0022100502,353,202696,Nikola Vučević,1610612741,Chicago Bulls,3,7,26,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,1,22,1,1,20211227,ATL,CHI
+Shot Chart Detail,0022100502,380,202696,Nikola Vučević,1610612741,Chicago Bulls,3,5,12,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,11,30,1,1,20211227,ATL,CHI
+Shot Chart Detail,0022100502,383,202696,Nikola Vučević,1610612741,Chicago Bulls,3,4,50,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,9,1,1,20211227,ATL,CHI
+Shot Chart Detail,0022100502,517,202696,Nikola Vučević,1610612741,Chicago Bulls,4,7,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-76,243,1,1,20211227,ATL,CHI
+Shot Chart Detail,0022100502,525,202696,Nikola Vučević,1610612741,Chicago Bulls,4,6,49,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,52,1,1,20211227,ATL,CHI
+Shot Chart Detail,0022100502,548,202696,Nikola Vučević,1610612741,Chicago Bulls,4,4,20,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,9,1,1,20211227,ATL,CHI
+Shot Chart Detail,0022100502,566,202696,Nikola Vučević,1610612741,Chicago Bulls,4,3,15,Made Shot,Jump Bank Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-163,198,1,1,20211227,ATL,CHI
+Shot Chart Detail,0022100519,45,202696,Nikola Vučević,1610612741,Chicago Bulls,1,7,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,51,158,1,1,20211229,CHI,ATL
+Shot Chart Detail,0022100519,56,202696,Nikola Vučević,1610612741,Chicago Bulls,1,6,57,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,1,53,1,1,20211229,CHI,ATL
+Shot Chart Detail,0022100519,231,202696,Nikola Vučević,1610612741,Chicago Bulls,2,5,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,162,72,1,1,20211229,CHI,ATL
+Shot Chart Detail,0022100519,285,202696,Nikola Vučević,1610612741,Chicago Bulls,2,2,31,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-102,77,1,1,20211229,CHI,ATL
+Shot Chart Detail,0022100519,331,202696,Nikola Vučević,1610612741,Chicago Bulls,3,11,9,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-78,139,1,1,20211229,CHI,ATL
+Shot Chart Detail,0022100519,354,202696,Nikola Vučević,1610612741,Chicago Bulls,3,9,3,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20211229,CHI,ATL
+Shot Chart Detail,0022100519,378,202696,Nikola Vučević,1610612741,Chicago Bulls,3,7,18,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20211229,CHI,ATL
+Shot Chart Detail,0022100519,395,202696,Nikola Vučević,1610612741,Chicago Bulls,3,5,58,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,36,60,1,1,20211229,CHI,ATL
+Shot Chart Detail,0022100530,9,202696,Nikola Vučević,1610612741,Chicago Bulls,1,11,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-174,97,1,1,20211231,IND,CHI
+Shot Chart Detail,0022100530,49,202696,Nikola Vučević,1610612741,Chicago Bulls,1,8,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-143,210,1,1,20211231,IND,CHI
+Shot Chart Detail,0022100530,269,202696,Nikola Vučević,1610612741,Chicago Bulls,2,6,30,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,34,22,1,1,20211231,IND,CHI
+Shot Chart Detail,0022100530,287,202696,Nikola Vučević,1610612741,Chicago Bulls,2,4,29,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,11,-65,99,1,1,20211231,IND,CHI
+Shot Chart Detail,0022100530,343,202696,Nikola Vučević,1610612741,Chicago Bulls,2,0,48,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-48,122,1,1,20211231,IND,CHI
+Shot Chart Detail,0022100530,402,202696,Nikola Vučević,1610612741,Chicago Bulls,3,7,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-212,136,1,1,20211231,IND,CHI
+Shot Chart Detail,0022100541,10,202696,Nikola Vučević,1610612741,Chicago Bulls,1,11,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-123,237,1,1,20220101,WAS,CHI
+Shot Chart Detail,0022100541,223,202696,Nikola Vučević,1610612741,Chicago Bulls,2,6,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,15,279,1,1,20220101,WAS,CHI
+Shot Chart Detail,0022100541,234,202696,Nikola Vučević,1610612741,Chicago Bulls,2,5,45,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,4,64,1,1,20220101,WAS,CHI
+Shot Chart Detail,0022100541,333,202696,Nikola Vučević,1610612741,Chicago Bulls,3,11,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-42,285,1,1,20220101,WAS,CHI
+Shot Chart Detail,0022100541,343,202696,Nikola Vučević,1610612741,Chicago Bulls,3,10,2,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-31,43,1,1,20220101,WAS,CHI
+Shot Chart Detail,0022100541,400,202696,Nikola Vučević,1610612741,Chicago Bulls,3,4,49,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-15,40,1,1,20220101,WAS,CHI
+Shot Chart Detail,0022100541,570,202696,Nikola Vučević,1610612741,Chicago Bulls,4,6,18,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,36,21,1,1,20220101,WAS,CHI
+Shot Chart Detail,0022100541,585,202696,Nikola Vučević,1610612741,Chicago Bulls,4,5,3,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,0,82,1,1,20220101,WAS,CHI
+Shot Chart Detail,0022100541,627,202696,Nikola Vučević,1610612741,Chicago Bulls,4,2,7,Made Shot,Putback Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,38,25,1,1,20220101,WAS,CHI
+Shot Chart Detail,0022100555,213,202696,Nikola Vučević,1610612741,Chicago Bulls,2,6,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,1,260,1,1,20220103,CHI,ORL
+Shot Chart Detail,0022100555,217,202696,Nikola Vučević,1610612741,Chicago Bulls,2,5,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,-1,1,1,20220103,CHI,ORL
+Shot Chart Detail,0022100555,400,202696,Nikola Vučević,1610612741,Chicago Bulls,3,4,54,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,67,21,1,1,20220103,CHI,ORL
+Shot Chart Detail,0022100555,530,202696,Nikola Vučević,1610612741,Chicago Bulls,4,6,15,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,24,1,1,20220103,CHI,ORL
+Shot Chart Detail,0022100555,556,202696,Nikola Vučević,1610612741,Chicago Bulls,4,4,12,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20220103,CHI,ORL
+Shot Chart Detail,0022100585,100,202696,Nikola Vučević,1610612741,Chicago Bulls,1,4,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,9,1,1,20220107,CHI,WAS
+Shot Chart Detail,0022100585,238,202696,Nikola Vučević,1610612741,Chicago Bulls,2,7,9,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,1,1,1,20220107,CHI,WAS
+Shot Chart Detail,0022100585,256,202696,Nikola Vučević,1610612741,Chicago Bulls,2,6,21,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-126,131,1,1,20220107,CHI,WAS
+Shot Chart Detail,0022100585,284,202696,Nikola Vučević,1610612741,Chicago Bulls,2,4,11,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,10,1,1,20220107,CHI,WAS
+Shot Chart Detail,0022100585,368,202696,Nikola Vučević,1610612741,Chicago Bulls,3,9,22,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,12,1,1,20220107,CHI,WAS
+Shot Chart Detail,0022100585,399,202696,Nikola Vučević,1610612741,Chicago Bulls,3,7,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,126,1,1,1,20220107,CHI,WAS
+Shot Chart Detail,0022100585,574,202696,Nikola Vučević,1610612741,Chicago Bulls,4,6,49,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-67,21,1,1,20220107,CHI,WAS
+Shot Chart Detail,0022100585,603,202696,Nikola Vučević,1610612741,Chicago Bulls,4,4,2,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-4,47,1,1,20220107,CHI,WAS
+Shot Chart Detail,0022100603,18,202696,Nikola Vučević,1610612741,Chicago Bulls,1,10,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-159,88,1,1,20220109,DAL,CHI
+Shot Chart Detail,0022100603,79,202696,Nikola Vučević,1610612741,Chicago Bulls,1,4,39,Made Shot,Turnaround Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-15,31,1,1,20220109,DAL,CHI
+Shot Chart Detail,0022100603,247,202696,Nikola Vučević,1610612741,Chicago Bulls,2,3,44,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,54,28,1,1,20220109,DAL,CHI
+Shot Chart Detail,0022100603,250,202696,Nikola Vučević,1610612741,Chicago Bulls,2,3,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-164,191,1,1,20220109,DAL,CHI
+Shot Chart Detail,0022100603,358,202696,Nikola Vučević,1610612741,Chicago Bulls,3,5,42,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20220109,DAL,CHI
+Shot Chart Detail,0022100603,514,202696,Nikola Vučević,1610612741,Chicago Bulls,4,6,8,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,9,1,1,20220109,DAL,CHI
+Shot Chart Detail,0022100625,35,202696,Nikola Vučević,1610612741,Chicago Bulls,1,8,51,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,80,43,1,1,20220112,CHI,BKN
+Shot Chart Detail,0022100625,61,202696,Nikola Vučević,1610612741,Chicago Bulls,1,6,19,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,5,58,1,1,20220112,CHI,BKN
+Shot Chart Detail,0022100625,261,202696,Nikola Vučević,1610612741,Chicago Bulls,2,6,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-147,8,1,1,20220112,CHI,BKN
+Shot Chart Detail,0022100625,376,202696,Nikola Vučević,1610612741,Chicago Bulls,3,8,43,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20220112,CHI,BKN
+Shot Chart Detail,0022100625,455,202696,Nikola Vučević,1610612741,Chicago Bulls,3,2,49,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-44,43,1,1,20220112,CHI,BKN
+Shot Chart Detail,0022100637,18,202696,Nikola Vučević,1610612741,Chicago Bulls,1,10,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-157,-18,1,1,20220114,CHI,GSW
+Shot Chart Detail,0022100637,46,202696,Nikola Vučević,1610612741,Chicago Bulls,1,8,9,Made Shot,Driving Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-11,30,1,1,20220114,CHI,GSW
+Shot Chart Detail,0022100637,125,202696,Nikola Vučević,1610612741,Chicago Bulls,1,2,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,4,1,1,20220114,CHI,GSW
+Shot Chart Detail,0022100637,238,202696,Nikola Vučević,1610612741,Chicago Bulls,2,6,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,1,1,1,20220114,CHI,GSW
+Shot Chart Detail,0022100637,264,202696,Nikola Vučević,1610612741,Chicago Bulls,2,4,49,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,3,1,1,20220114,CHI,GSW
+Shot Chart Detail,0022100637,369,202696,Nikola Vučević,1610612741,Chicago Bulls,3,8,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-11,268,1,1,20220114,CHI,GSW
+Shot Chart Detail,0022100637,376,202696,Nikola Vučević,1610612741,Chicago Bulls,3,8,9,Made Shot,Turnaround Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,91,7,1,1,20220114,CHI,GSW
+Shot Chart Detail,0022100637,386,202696,Nikola Vučević,1610612741,Chicago Bulls,3,7,34,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-61,136,1,1,20220114,CHI,GSW
+Shot Chart Detail,0022100637,414,202696,Nikola Vučević,1610612741,Chicago Bulls,3,5,9,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20220114,CHI,GSW
+Shot Chart Detail,0022100647,13,202696,Nikola Vučević,1610612741,Chicago Bulls,1,10,40,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,10,63,1,1,20220115,BOS,CHI
+Shot Chart Detail,0022100647,17,202696,Nikola Vučević,1610612741,Chicago Bulls,1,10,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-115,249,1,1,20220115,BOS,CHI
+Shot Chart Detail,0022100647,39,202696,Nikola Vučević,1610612741,Chicago Bulls,1,7,49,Made Shot,Turnaround Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,13,1,1,20220115,BOS,CHI
+Shot Chart Detail,0022100647,219,202696,Nikola Vučević,1610612741,Chicago Bulls,2,5,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,89,155,1,1,20220115,BOS,CHI
+Shot Chart Detail,0022100647,327,202696,Nikola Vučević,1610612741,Chicago Bulls,3,8,36,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-9,41,1,1,20220115,BOS,CHI
+Shot Chart Detail,0022100647,333,202696,Nikola Vučević,1610612741,Chicago Bulls,3,8,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,74,152,1,1,20220115,BOS,CHI
+Shot Chart Detail,0022100647,346,202696,Nikola Vučević,1610612741,Chicago Bulls,3,6,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-65,251,1,1,20220115,BOS,CHI
+Shot Chart Detail,0022100647,416,202696,Nikola Vučević,1610612741,Chicago Bulls,3,1,43,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,10,1,1,20220115,BOS,CHI
+Shot Chart Detail,0022100647,428,202696,Nikola Vučević,1610612741,Chicago Bulls,3,0,45,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-65,20,1,1,20220115,BOS,CHI
+Shot Chart Detail,0022100647,528,202696,Nikola Vučević,1610612741,Chicago Bulls,4,5,35,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-123,176,1,1,20220115,BOS,CHI
+Shot Chart Detail,0022100647,533,202696,Nikola Vučević,1610612741,Chicago Bulls,4,5,0,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,39,120,1,1,20220115,BOS,CHI
+Shot Chart Detail,0022100647,550,202696,Nikola Vučević,1610612741,Chicago Bulls,4,4,7,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-91,45,1,1,20220115,BOS,CHI
+Shot Chart Detail,0022100658,407,202696,Nikola Vučević,1610612741,Chicago Bulls,3,8,26,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20220117,MEM,CHI
+Shot Chart Detail,0022100658,413,202696,Nikola Vučević,1610612741,Chicago Bulls,3,7,51,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,17,1,1,20220117,MEM,CHI
+Shot Chart Detail,0022100673,11,202696,Nikola Vučević,1610612741,Chicago Bulls,1,10,53,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,3,1,1,20220119,CHI,CLE
+Shot Chart Detail,0022100673,59,202696,Nikola Vučević,1610612741,Chicago Bulls,1,5,54,Made Shot,Floating Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-25,25,1,1,20220119,CHI,CLE
+Shot Chart Detail,0022100673,88,202696,Nikola Vučević,1610612741,Chicago Bulls,1,3,16,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,-4,1,1,20220119,CHI,CLE
+Shot Chart Detail,0022100673,211,202696,Nikola Vučević,1610612741,Chicago Bulls,2,5,18,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,-2,1,1,20220119,CHI,CLE
+Shot Chart Detail,0022100673,235,202696,Nikola Vučević,1610612741,Chicago Bulls,2,3,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,-2,1,1,20220119,CHI,CLE
+Shot Chart Detail,0022100673,298,202696,Nikola Vučević,1610612741,Chicago Bulls,3,10,14,Made Shot,Turnaround Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,93,28,1,1,20220119,CHI,CLE
+Shot Chart Detail,0022100673,346,202696,Nikola Vučević,1610612741,Chicago Bulls,3,6,39,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,6,1,1,20220119,CHI,CLE
+Shot Chart Detail,0022100673,365,202696,Nikola Vučević,1610612741,Chicago Bulls,3,4,42,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,4,1,1,20220119,CHI,CLE
+Shot Chart Detail,0022100673,565,202696,Nikola Vučević,1610612741,Chicago Bulls,4,2,28,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-239,-4,1,1,20220119,CHI,CLE
+Shot Chart Detail,0022100673,578,202696,Nikola Vučević,1610612741,Chicago Bulls,4,1,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,4,1,1,20220119,CHI,CLE
+Shot Chart Detail,0022100673,608,202696,Nikola Vučević,1610612741,Chicago Bulls,4,0,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-96,257,1,1,20220119,CHI,CLE
+Shot Chart Detail,0022100690,27,202696,Nikola Vučević,1610612741,Chicago Bulls,1,10,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-126,231,1,1,20220121,MIL,CHI
+Shot Chart Detail,0022100690,223,202696,Nikola Vučević,1610612741,Chicago Bulls,2,7,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,29,168,1,1,20220121,MIL,CHI
+Shot Chart Detail,0022100690,227,202696,Nikola Vučević,1610612741,Chicago Bulls,2,7,7,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,9,1,1,20220121,MIL,CHI
+Shot Chart Detail,0022100690,274,202696,Nikola Vučević,1610612741,Chicago Bulls,2,3,24,Made Shot,Floating Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,36,13,1,1,20220121,MIL,CHI
+Shot Chart Detail,0022100690,375,202696,Nikola Vučević,1610612741,Chicago Bulls,3,7,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-119,155,1,1,20220121,MIL,CHI
+Shot Chart Detail,0022100690,617,202696,Nikola Vučević,1610612741,Chicago Bulls,4,3,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,6,1,1,20220121,MIL,CHI
+Shot Chart Detail,0022100690,644,202696,Nikola Vučević,1610612741,Chicago Bulls,4,1,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-134,247,1,1,20220121,MIL,CHI
+Shot Chart Detail,0022100701,70,202696,Nikola Vučević,1610612741,Chicago Bulls,1,7,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,10,1,1,20220123,ORL,CHI
+Shot Chart Detail,0022100701,229,202696,Nikola Vučević,1610612741,Chicago Bulls,2,7,21,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20220123,ORL,CHI
+Shot Chart Detail,0022100701,350,202696,Nikola Vučević,1610612741,Chicago Bulls,3,8,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-136,230,1,1,20220123,ORL,CHI
+Shot Chart Detail,0022100701,417,202696,Nikola Vučević,1610612741,Chicago Bulls,3,4,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-158,237,1,1,20220123,ORL,CHI
+Shot Chart Detail,0022100710,13,202696,Nikola Vučević,1610612741,Chicago Bulls,1,11,7,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-36,121,1,1,20220303,ATL,CHI
+Shot Chart Detail,0022100710,17,202696,Nikola Vučević,1610612741,Chicago Bulls,1,10,41,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,10,1,1,20220303,ATL,CHI
+Shot Chart Detail,0022100710,56,202696,Nikola Vučević,1610612741,Chicago Bulls,1,6,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,113,74,1,1,20220303,ATL,CHI
+Shot Chart Detail,0022100710,196,202696,Nikola Vučević,1610612741,Chicago Bulls,2,6,4,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,39,84,1,1,20220303,ATL,CHI
+Shot Chart Detail,0022100710,225,202696,Nikola Vučević,1610612741,Chicago Bulls,2,4,45,Made Shot,Driving Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-4,37,1,1,20220303,ATL,CHI
+Shot Chart Detail,0022100710,231,202696,Nikola Vučević,1610612741,Chicago Bulls,2,3,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,26,258,1,1,20220303,ATL,CHI
+Shot Chart Detail,0022100710,487,202696,Nikola Vučević,1610612741,Chicago Bulls,4,9,1,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20220303,ATL,CHI
+Shot Chart Detail,0022100710,508,202696,Nikola Vučević,1610612741,Chicago Bulls,4,7,5,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-12,109,1,1,20220303,ATL,CHI
+Shot Chart Detail,0022100710,526,202696,Nikola Vučević,1610612741,Chicago Bulls,4,4,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-100,164,1,1,20220303,ATL,CHI
+Shot Chart Detail,0022100710,560,202696,Nikola Vučević,1610612741,Chicago Bulls,4,1,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,29,20,1,1,20220303,ATL,CHI
+Shot Chart Detail,0022100730,70,202696,Nikola Vučević,1610612741,Chicago Bulls,1,5,46,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-1,38,1,1,20220124,OKC,CHI
+Shot Chart Detail,0022100730,249,202696,Nikola Vučević,1610612741,Chicago Bulls,2,6,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-108,242,1,1,20220124,OKC,CHI
+Shot Chart Detail,0022100730,273,202696,Nikola Vučević,1610612741,Chicago Bulls,2,4,30,Made Shot,Putback Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-34,27,1,1,20220124,OKC,CHI
+Shot Chart Detail,0022100730,373,202696,Nikola Vučević,1610612741,Chicago Bulls,3,9,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-98,260,1,1,20220124,OKC,CHI
+Shot Chart Detail,0022100730,389,202696,Nikola Vučević,1610612741,Chicago Bulls,3,7,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,100,244,1,1,20220124,OKC,CHI
+Shot Chart Detail,0022100730,409,202696,Nikola Vučević,1610612741,Chicago Bulls,3,6,56,Made Shot,Cutting Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,44,16,1,1,20220124,OKC,CHI
+Shot Chart Detail,0022100730,534,202696,Nikola Vučević,1610612741,Chicago Bulls,4,10,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,40,165,1,1,20220124,OKC,CHI
+Shot Chart Detail,0022100730,592,202696,Nikola Vučević,1610612741,Chicago Bulls,4,6,42,Made Shot,Cutting Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-21,52,1,1,20220124,OKC,CHI
+Shot Chart Detail,0022100730,607,202696,Nikola Vučević,1610612741,Chicago Bulls,4,6,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-32,279,1,1,20220124,OKC,CHI
+Shot Chart Detail,0022100730,611,202696,Nikola Vučević,1610612741,Chicago Bulls,4,5,50,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-40,105,1,1,20220124,OKC,CHI
+Shot Chart Detail,0022100742,12,202696,Nikola Vučević,1610612741,Chicago Bulls,1,10,54,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,77,37,1,1,20220128,SAS,CHI
+Shot Chart Detail,0022100742,28,202696,Nikola Vučević,1610612741,Chicago Bulls,1,9,12,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,5,1,1,20220128,SAS,CHI
+Shot Chart Detail,0022100742,73,202696,Nikola Vučević,1610612741,Chicago Bulls,1,5,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,104,168,1,1,20220128,SAS,CHI
+Shot Chart Detail,0022100742,80,202696,Nikola Vučević,1610612741,Chicago Bulls,1,4,53,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,7,1,1,20220128,SAS,CHI
+Shot Chart Detail,0022100742,192,202696,Nikola Vučević,1610612741,Chicago Bulls,2,7,42,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-2,106,1,1,20220128,SAS,CHI
+Shot Chart Detail,0022100742,365,202696,Nikola Vučević,1610612741,Chicago Bulls,3,6,6,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20220128,SAS,CHI
+Shot Chart Detail,0022100742,377,202696,Nikola Vučević,1610612741,Chicago Bulls,3,5,0,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,11,94,1,1,20220128,SAS,CHI
+Shot Chart Detail,0022100742,537,202696,Nikola Vučević,1610612741,Chicago Bulls,4,7,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,123,231,1,1,20220128,SAS,CHI
+Shot Chart Detail,0022100753,18,202696,Nikola Vučević,1610612741,Chicago Bulls,1,9,55,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-97,48,1,1,20220130,CHI,POR
+Shot Chart Detail,0022100753,38,202696,Nikola Vučević,1610612741,Chicago Bulls,1,7,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,54,242,1,1,20220130,CHI,POR
+Shot Chart Detail,0022100753,83,202696,Nikola Vučević,1610612741,Chicago Bulls,1,2,44,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20220130,CHI,POR
+Shot Chart Detail,0022100753,205,202696,Nikola Vučević,1610612741,Chicago Bulls,2,6,4,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,4,1,1,20220130,CHI,POR
+Shot Chart Detail,0022100753,236,202696,Nikola Vučević,1610612741,Chicago Bulls,2,4,7,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,-1,1,1,20220130,CHI,POR
+Shot Chart Detail,0022100753,260,202696,Nikola Vučević,1610612741,Chicago Bulls,2,2,50,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,-2,1,1,20220130,CHI,POR
+Shot Chart Detail,0022100753,305,202696,Nikola Vučević,1610612741,Chicago Bulls,3,10,20,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,61,122,1,1,20220130,CHI,POR
+Shot Chart Detail,0022100753,382,202696,Nikola Vučević,1610612741,Chicago Bulls,3,5,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,8,1,1,20220130,CHI,POR
+Shot Chart Detail,0022100753,393,202696,Nikola Vučević,1610612741,Chicago Bulls,3,3,51,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,74,7,1,1,20220130,CHI,POR
+Shot Chart Detail,0022100753,518,202696,Nikola Vučević,1610612741,Chicago Bulls,4,5,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-169,32,1,1,20220130,CHI,POR
+Shot Chart Detail,0022100753,529,202696,Nikola Vučević,1610612741,Chicago Bulls,4,4,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-7,206,1,1,20220130,CHI,POR
+Shot Chart Detail,0022100769,31,202696,Nikola Vučević,1610612741,Chicago Bulls,1,9,42,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20220201,CHI,ORL
+Shot Chart Detail,0022100769,70,202696,Nikola Vučević,1610612741,Chicago Bulls,1,5,53,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,1,130,1,1,20220201,CHI,ORL
+Shot Chart Detail,0022100769,104,202696,Nikola Vučević,1610612741,Chicago Bulls,1,2,47,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,43,12,1,1,20220201,CHI,ORL
+Shot Chart Detail,0022100769,262,202696,Nikola Vučević,1610612741,Chicago Bulls,2,4,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-1,35,1,1,20220201,CHI,ORL
+Shot Chart Detail,0022100769,337,202696,Nikola Vučević,1610612741,Chicago Bulls,3,9,45,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,92,45,1,1,20220201,CHI,ORL
+Shot Chart Detail,0022100769,378,202696,Nikola Vučević,1610612741,Chicago Bulls,3,7,7,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,15,1,1,20220201,CHI,ORL
+Shot Chart Detail,0022100769,409,202696,Nikola Vučević,1610612741,Chicago Bulls,3,4,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,136,34,1,1,20220201,CHI,ORL
+Shot Chart Detail,0022100769,418,202696,Nikola Vučević,1610612741,Chicago Bulls,3,3,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,142,46,1,1,20220201,CHI,ORL
+Shot Chart Detail,0022100789,21,202696,Nikola Vučević,1610612741,Chicago Bulls,1,10,41,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,11,1,1,20220204,IND,CHI
+Shot Chart Detail,0022100789,51,202696,Nikola Vučević,1610612741,Chicago Bulls,1,8,3,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1,12,1,1,20220204,IND,CHI
+Shot Chart Detail,0022100789,53,202696,Nikola Vučević,1610612741,Chicago Bulls,1,7,31,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-107,25,1,1,20220204,IND,CHI
+Shot Chart Detail,0022100789,67,202696,Nikola Vučević,1610612741,Chicago Bulls,1,5,55,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,61,18,1,1,20220204,IND,CHI
+Shot Chart Detail,0022100789,75,202696,Nikola Vučević,1610612741,Chicago Bulls,1,5,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-34,274,1,1,20220204,IND,CHI
+Shot Chart Detail,0022100789,84,202696,Nikola Vučević,1610612741,Chicago Bulls,1,4,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-4,20,1,1,20220204,IND,CHI
+Shot Chart Detail,0022100789,252,202696,Nikola Vučević,1610612741,Chicago Bulls,2,4,40,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-61,65,1,1,20220204,IND,CHI
+Shot Chart Detail,0022100789,298,202696,Nikola Vučević,1610612741,Chicago Bulls,2,0,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,16,1,1,20220204,IND,CHI
+Shot Chart Detail,0022100789,332,202696,Nikola Vučević,1610612741,Chicago Bulls,3,10,35,Made Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,5,56,1,1,20220204,IND,CHI
+Shot Chart Detail,0022100789,337,202696,Nikola Vučević,1610612741,Chicago Bulls,3,9,51,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-11,55,1,1,20220204,IND,CHI
+Shot Chart Detail,0022100789,358,202696,Nikola Vučević,1610612741,Chicago Bulls,3,8,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,-6,1,1,20220204,IND,CHI
+Shot Chart Detail,0022100789,390,202696,Nikola Vučević,1610612741,Chicago Bulls,3,5,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,15,24,1,1,20220204,IND,CHI
+Shot Chart Detail,0022100789,454,202696,Nikola Vučević,1610612741,Chicago Bulls,3,1,33,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,5,1,1,20220204,IND,CHI
+Shot Chart Detail,0022100789,481,202696,Nikola Vučević,1610612741,Chicago Bulls,4,11,45,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,10,1,1,20220204,IND,CHI
+Shot Chart Detail,0022100789,555,202696,Nikola Vučević,1610612741,Chicago Bulls,4,6,47,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,0,57,1,1,20220204,IND,CHI
+Shot Chart Detail,0022100789,628,202696,Nikola Vučević,1610612741,Chicago Bulls,4,0,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,28,-2,1,1,20220204,IND,CHI
+Shot Chart Detail,0022100802,22,202696,Nikola Vučević,1610612741,Chicago Bulls,1,9,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,-5,1,1,20220206,CHI,PHI
+Shot Chart Detail,0022100802,38,202696,Nikola Vučević,1610612741,Chicago Bulls,1,7,45,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-59,50,1,1,20220206,CHI,PHI
+Shot Chart Detail,0022100802,203,202696,Nikola Vučević,1610612741,Chicago Bulls,2,6,47,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-53,63,1,1,20220206,CHI,PHI
+Shot Chart Detail,0022100802,242,202696,Nikola Vučević,1610612741,Chicago Bulls,2,5,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,8,1,1,20220206,CHI,PHI
+Shot Chart Detail,0022100802,296,202696,Nikola Vučević,1610612741,Chicago Bulls,3,11,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,136,-5,1,1,20220206,CHI,PHI
+Shot Chart Detail,0022100802,384,202696,Nikola Vučević,1610612741,Chicago Bulls,3,5,22,Made Shot,Driving Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,21,23,1,1,20220206,CHI,PHI
+Shot Chart Detail,0022100802,405,202696,Nikola Vučević,1610612741,Chicago Bulls,3,4,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-54,273,1,1,20220206,CHI,PHI
+Shot Chart Detail,0022100802,498,202696,Nikola Vučević,1610612741,Chicago Bulls,4,8,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-25,269,1,1,20220206,CHI,PHI
+Shot Chart Detail,0022100812,211,202696,Nikola Vučević,1610612741,Chicago Bulls,2,8,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,7,1,1,20220207,CHI,PHX
+Shot Chart Detail,0022100812,379,202696,Nikola Vučević,1610612741,Chicago Bulls,3,7,31,Made Shot,Floating Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,0,1,1,20220207,CHI,PHX
+Shot Chart Detail,0022100812,455,202696,Nikola Vučević,1610612741,Chicago Bulls,3,2,11,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,4,1,1,20220207,CHI,PHX
+Shot Chart Detail,0022100812,595,202696,Nikola Vučević,1610612741,Chicago Bulls,4,4,24,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20220207,CHI,PHX
+Shot Chart Detail,0022100812,600,202696,Nikola Vučević,1610612741,Chicago Bulls,4,3,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-4,167,1,1,20220207,CHI,PHX
+Shot Chart Detail,0022100812,616,202696,Nikola Vučević,1610612741,Chicago Bulls,4,2,26,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20220207,CHI,PHX
+Shot Chart Detail,0022100826,31,202696,Nikola Vučević,1610612741,Chicago Bulls,1,9,28,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-93,46,1,1,20220209,CHA,CHI
+Shot Chart Detail,0022100826,37,202696,Nikola Vučević,1610612741,Chicago Bulls,1,8,59,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-27,54,1,1,20220209,CHA,CHI
+Shot Chart Detail,0022100826,221,202696,Nikola Vučević,1610612741,Chicago Bulls,2,7,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,169,25,1,1,20220209,CHA,CHI
+Shot Chart Detail,0022100826,229,202696,Nikola Vučević,1610612741,Chicago Bulls,2,6,35,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,47,106,1,1,20220209,CHA,CHI
+Shot Chart Detail,0022100826,266,202696,Nikola Vučević,1610612741,Chicago Bulls,2,3,16,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20220209,CHA,CHI
+Shot Chart Detail,0022100826,316,202696,Nikola Vučević,1610612741,Chicago Bulls,3,10,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-162,57,1,1,20220209,CHA,CHI
+Shot Chart Detail,0022100826,381,202696,Nikola Vučević,1610612741,Chicago Bulls,3,5,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-15,171,1,1,20220209,CHA,CHI
+Shot Chart Detail,0022100826,396,202696,Nikola Vučević,1610612741,Chicago Bulls,3,4,13,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,9,92,1,1,20220209,CHA,CHI
+Shot Chart Detail,0022100826,526,202696,Nikola Vučević,1610612741,Chicago Bulls,4,6,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,15,1,1,20220209,CHA,CHI
+Shot Chart Detail,0022100843,7,202696,Nikola Vučević,1610612741,Chicago Bulls,1,11,33,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-131,21,1,1,20220211,CHI,MIN
+Shot Chart Detail,0022100843,41,202696,Nikola Vučević,1610612741,Chicago Bulls,1,7,55,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,1,1,1,20220211,CHI,MIN
+Shot Chart Detail,0022100843,74,202696,Nikola Vučević,1610612741,Chicago Bulls,1,5,11,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,0,49,1,1,20220211,CHI,MIN
+Shot Chart Detail,0022100843,88,202696,Nikola Vučević,1610612741,Chicago Bulls,1,4,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-134,96,1,1,20220211,CHI,MIN
+Shot Chart Detail,0022100843,254,202696,Nikola Vučević,1610612741,Chicago Bulls,2,4,23,Made Shot,Turnaround Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-38,1,1,1,20220211,CHI,MIN
+Shot Chart Detail,0022100843,278,202696,Nikola Vučević,1610612741,Chicago Bulls,2,2,39,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-54,37,1,1,20220211,CHI,MIN
+Shot Chart Detail,0022100843,321,202696,Nikola Vučević,1610612741,Chicago Bulls,3,11,35,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,21,1,1,20220211,CHI,MIN
+Shot Chart Detail,0022100843,348,202696,Nikola Vučević,1610612741,Chicago Bulls,3,9,0,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,-16,1,1,20220211,CHI,MIN
+Shot Chart Detail,0022100843,370,202696,Nikola Vučević,1610612741,Chicago Bulls,3,7,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-158,200,1,1,20220211,CHI,MIN
+Shot Chart Detail,0022100843,420,202696,Nikola Vučević,1610612741,Chicago Bulls,3,3,49,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-50,57,1,1,20220211,CHI,MIN
+Shot Chart Detail,0022100843,554,202696,Nikola Vučević,1610612741,Chicago Bulls,4,5,24,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,6,71,1,1,20220211,CHI,MIN
+Shot Chart Detail,0022100852,53,202696,Nikola Vučević,1610612741,Chicago Bulls,1,6,59,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,89,5,1,1,20220212,CHI,OKC
+Shot Chart Detail,0022100852,77,202696,Nikola Vučević,1610612741,Chicago Bulls,1,5,19,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20220212,CHI,OKC
+Shot Chart Detail,0022100852,218,202696,Nikola Vučević,1610612741,Chicago Bulls,2,8,45,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-2,1,1,20220212,CHI,OKC
+Shot Chart Detail,0022100852,229,202696,Nikola Vučević,1610612741,Chicago Bulls,2,7,49,Made Shot,Turnaround Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20220212,CHI,OKC
+Shot Chart Detail,0022100852,283,202696,Nikola Vučević,1610612741,Chicago Bulls,2,4,20,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,11,100,1,1,20220212,CHI,OKC
+Shot Chart Detail,0022100852,365,202696,Nikola Vučević,1610612741,Chicago Bulls,3,11,45,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1,15,1,1,20220212,CHI,OKC
+Shot Chart Detail,0022100852,381,202696,Nikola Vučević,1610612741,Chicago Bulls,3,10,7,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,10,1,1,20220212,CHI,OKC
+Shot Chart Detail,0022100852,398,202696,Nikola Vučević,1610612741,Chicago Bulls,3,8,29,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20220212,CHI,OKC
+Shot Chart Detail,0022100852,422,202696,Nikola Vučević,1610612741,Chicago Bulls,3,6,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,13,18,1,1,20220212,CHI,OKC
+Shot Chart Detail,0022100852,439,202696,Nikola Vučević,1610612741,Chicago Bulls,3,6,20,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,0,1,1,20220212,CHI,OKC
+Shot Chart Detail,0022100852,457,202696,Nikola Vučević,1610612741,Chicago Bulls,3,4,35,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,7,1,1,20220212,CHI,OKC
+Shot Chart Detail,0022100852,466,202696,Nikola Vučević,1610612741,Chicago Bulls,3,3,42,Made Shot,Turnaround Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,6,31,1,1,20220212,CHI,OKC
+Shot Chart Detail,0022100852,525,202696,Nikola Vučević,1610612741,Chicago Bulls,4,11,18,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-77,58,1,1,20220212,CHI,OKC
+Shot Chart Detail,0022100852,622,202696,Nikola Vučević,1610612741,Chicago Bulls,4,3,19,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,4,1,1,20220212,CHI,OKC
+Shot Chart Detail,0022100861,26,202696,Nikola Vučević,1610612741,Chicago Bulls,1,9,11,Made Shot,Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,92,25,1,1,20220214,CHI,SAS
+Shot Chart Detail,0022100861,35,202696,Nikola Vučević,1610612741,Chicago Bulls,1,8,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,1,1,1,20220214,CHI,SAS
+Shot Chart Detail,0022100861,59,202696,Nikola Vučević,1610612741,Chicago Bulls,1,6,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,22,-47,215,1,1,20220214,CHI,SAS
+Shot Chart Detail,0022100861,95,202696,Nikola Vučević,1610612741,Chicago Bulls,1,3,47,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-7,130,1,1,20220214,CHI,SAS
+Shot Chart Detail,0022100861,99,202696,Nikola Vučević,1610612741,Chicago Bulls,1,3,20,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,-11,1,1,20220214,CHI,SAS
+Shot Chart Detail,0022100861,111,202696,Nikola Vučević,1610612741,Chicago Bulls,1,2,21,Made Shot,Turnaround Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,102,20,1,1,20220214,CHI,SAS
+Shot Chart Detail,0022100861,256,202696,Nikola Vučević,1610612741,Chicago Bulls,2,4,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,11,246,1,1,20220214,CHI,SAS
+Shot Chart Detail,0022100861,374,202696,Nikola Vučević,1610612741,Chicago Bulls,3,8,55,Made Shot,Driving Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,6,1,1,20220214,CHI,SAS
+Shot Chart Detail,0022100861,437,202696,Nikola Vučević,1610612741,Chicago Bulls,3,3,52,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,5,73,1,1,20220214,CHI,SAS
+Shot Chart Detail,0022100861,503,202696,Nikola Vučević,1610612741,Chicago Bulls,4,10,41,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,5,67,1,1,20220214,CHI,SAS
+Shot Chart Detail,0022100861,585,202696,Nikola Vučević,1610612741,Chicago Bulls,4,4,1,Made Shot,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,4,1,1,20220214,CHI,SAS
+Shot Chart Detail,0022100861,619,202696,Nikola Vučević,1610612741,Chicago Bulls,4,1,53,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,0,1,1,20220214,CHI,SAS
+Shot Chart Detail,0022100878,52,202696,Nikola Vučević,1610612741,Chicago Bulls,1,6,52,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20220216,CHI,SAC
+Shot Chart Detail,0022100878,55,202696,Nikola Vučević,1610612741,Chicago Bulls,1,6,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,58,252,1,1,20220216,CHI,SAC
+Shot Chart Detail,0022100878,86,202696,Nikola Vučević,1610612741,Chicago Bulls,1,3,57,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,1,1,1,20220216,CHI,SAC
+Shot Chart Detail,0022100878,115,202696,Nikola Vučević,1610612741,Chicago Bulls,1,2,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,8,1,1,20220216,CHI,SAC
+Shot Chart Detail,0022100878,236,202696,Nikola Vučević,1610612741,Chicago Bulls,2,5,4,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20220216,CHI,SAC
+Shot Chart Detail,0022100878,253,202696,Nikola Vučević,1610612741,Chicago Bulls,2,4,5,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-9,4,1,1,20220216,CHI,SAC
+Shot Chart Detail,0022100878,375,202696,Nikola Vučević,1610612741,Chicago Bulls,3,4,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,5,11,1,1,20220216,CHI,SAC
+Shot Chart Detail,0022100878,498,202696,Nikola Vučević,1610612741,Chicago Bulls,4,7,49,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,10,1,1,20220216,CHI,SAC
+Shot Chart Detail,0022100891,297,202696,Nikola Vučević,1610612741,Chicago Bulls,2,1,41,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,96,50,1,1,20220224,CHI,ATL
+Shot Chart Detail,0022100891,311,202696,Nikola Vučević,1610612741,Chicago Bulls,2,1,12,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,-1,1,1,20220224,CHI,ATL
+Shot Chart Detail,0022100891,381,202696,Nikola Vučević,1610612741,Chicago Bulls,3,8,11,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-60,28,1,1,20220224,CHI,ATL
+Shot Chart Detail,0022100891,583,202696,Nikola Vučević,1610612741,Chicago Bulls,4,5,7,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-77,37,1,1,20220224,CHI,ATL
+Shot Chart Detail,0022100909,14,202696,Nikola Vučević,1610612741,Chicago Bulls,1,11,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,22,-22,221,1,1,20220226,CHI,MEM
+Shot Chart Detail,0022100909,111,202696,Nikola Vučević,1610612741,Chicago Bulls,1,3,47,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,17,1,1,20220226,CHI,MEM
+Shot Chart Detail,0022100909,125,202696,Nikola Vučević,1610612741,Chicago Bulls,1,3,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,6,36,1,1,20220226,CHI,MEM
+Shot Chart Detail,0022100909,130,202696,Nikola Vučević,1610612741,Chicago Bulls,1,2,47,Made Shot,Turnaround Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,83,27,1,1,20220226,CHI,MEM
+Shot Chart Detail,0022100909,432,202696,Nikola Vučević,1610612741,Chicago Bulls,3,5,14,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,10,1,1,20220226,CHI,MEM
+Shot Chart Detail,0022100922,15,202696,Nikola Vučević,1610612741,Chicago Bulls,1,10,52,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,6,1,1,20220228,MIA,CHI
+Shot Chart Detail,0022100922,48,202696,Nikola Vučević,1610612741,Chicago Bulls,1,7,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-25,3,1,1,20220228,MIA,CHI
+Shot Chart Detail,0022100922,245,202696,Nikola Vučević,1610612741,Chicago Bulls,2,5,28,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20220228,MIA,CHI
+Shot Chart Detail,0022100922,248,202696,Nikola Vučević,1610612741,Chicago Bulls,2,5,2,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,67,50,1,1,20220228,MIA,CHI
+Shot Chart Detail,0022100922,410,202696,Nikola Vučević,1610612741,Chicago Bulls,3,6,26,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,17,58,1,1,20220228,MIA,CHI
+Shot Chart Detail,0022100922,443,202696,Nikola Vučević,1610612741,Chicago Bulls,3,4,5,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-13,16,1,1,20220228,MIA,CHI
+Shot Chart Detail,0022100922,450,202696,Nikola Vučević,1610612741,Chicago Bulls,3,3,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,21,1,1,20220228,MIA,CHI
+Shot Chart Detail,0022100949,37,202696,Nikola Vučević,1610612741,Chicago Bulls,1,9,11,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20220304,CHI,MIL
+Shot Chart Detail,0022100949,75,202696,Nikola Vučević,1610612741,Chicago Bulls,1,6,15,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-4,46,1,1,20220304,CHI,MIL
+Shot Chart Detail,0022100949,84,202696,Nikola Vučević,1610612741,Chicago Bulls,1,5,38,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-6,95,1,1,20220304,CHI,MIL
+Shot Chart Detail,0022100949,248,202696,Nikola Vučević,1610612741,Chicago Bulls,2,5,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,157,2,1,1,20220304,CHI,MIL
+Shot Chart Detail,0022100949,271,202696,Nikola Vučević,1610612741,Chicago Bulls,2,3,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-100,238,1,1,20220304,CHI,MIL
+Shot Chart Detail,0022100949,336,202696,Nikola Vučević,1610612741,Chicago Bulls,3,11,40,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,7,27,1,1,20220304,CHI,MIL
+Shot Chart Detail,0022100949,360,202696,Nikola Vučević,1610612741,Chicago Bulls,3,10,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,159,195,1,1,20220304,CHI,MIL
+Shot Chart Detail,0022100949,464,202696,Nikola Vučević,1610612741,Chicago Bulls,3,3,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,1,1,1,20220304,CHI,MIL
+Shot Chart Detail,0022100982,20,202696,Nikola Vučević,1610612741,Chicago Bulls,1,9,14,Made Shot,Turnaround Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-13,34,1,1,20220309,DET,CHI
+Shot Chart Detail,0022100982,24,202696,Nikola Vučević,1610612741,Chicago Bulls,1,8,45,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-23,44,1,1,20220309,DET,CHI
+Shot Chart Detail,0022100982,41,202696,Nikola Vučević,1610612741,Chicago Bulls,1,7,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,6,20,1,1,20220309,DET,CHI
+Shot Chart Detail,0022100982,152,202696,Nikola Vučević,1610612741,Chicago Bulls,2,10,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-1,37,1,1,20220309,DET,CHI
+Shot Chart Detail,0022100982,159,202696,Nikola Vučević,1610612741,Chicago Bulls,2,9,50,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,22,49,1,1,20220309,DET,CHI
+Shot Chart Detail,0022100982,164,202696,Nikola Vučević,1610612741,Chicago Bulls,2,9,12,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,42,2,1,1,20220309,DET,CHI
+Shot Chart Detail,0022100982,328,202696,Nikola Vučević,1610612741,Chicago Bulls,3,8,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,14,1,1,20220309,DET,CHI
+Shot Chart Detail,0022100982,349,202696,Nikola Vučević,1610612741,Chicago Bulls,3,6,12,Made Shot,Floating Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-5,35,1,1,20220309,DET,CHI
+Shot Chart Detail,0022101006,10,202696,Nikola Vučević,1610612741,Chicago Bulls,1,11,12,Made Shot,Driving Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,1,1,1,20220312,CHI,CLE
+Shot Chart Detail,0022101006,31,202696,Nikola Vučević,1610612741,Chicago Bulls,1,9,15,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-29,90,1,1,20220312,CHI,CLE
+Shot Chart Detail,0022101006,64,202696,Nikola Vučević,1610612741,Chicago Bulls,1,6,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-142,204,1,1,20220312,CHI,CLE
+Shot Chart Detail,0022101006,301,202696,Nikola Vučević,1610612741,Chicago Bulls,2,1,39,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-5,1,1,20220312,CHI,CLE
+Shot Chart Detail,0022101006,338,202696,Nikola Vučević,1610612741,Chicago Bulls,3,10,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,138,8,1,1,20220312,CHI,CLE
+Shot Chart Detail,0022101006,348,202696,Nikola Vučević,1610612741,Chicago Bulls,3,9,4,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,78,25,1,1,20220312,CHI,CLE
+Shot Chart Detail,0022101006,415,202696,Nikola Vučević,1610612741,Chicago Bulls,3,4,0,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,12,1,1,20220312,CHI,CLE
+Shot Chart Detail,0022101006,553,202696,Nikola Vučević,1610612741,Chicago Bulls,4,6,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-5,256,1,1,20220312,CHI,CLE
+Shot Chart Detail,0022101006,557,202696,Nikola Vučević,1610612741,Chicago Bulls,4,5,27,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,2,60,1,1,20220312,CHI,CLE
+Shot Chart Detail,0022101026,7,202696,Nikola Vučević,1610612741,Chicago Bulls,1,11,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,0,157,1,1,20220314,SAC,CHI
+Shot Chart Detail,0022101026,90,202696,Nikola Vučević,1610612741,Chicago Bulls,1,4,36,Made Shot,Driving Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-17,35,1,1,20220314,SAC,CHI
+Shot Chart Detail,0022101026,261,202696,Nikola Vučević,1610612741,Chicago Bulls,2,5,9,Made Shot,Turnaround Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,91,30,1,1,20220314,SAC,CHI
+Shot Chart Detail,0022101026,305,202696,Nikola Vučević,1610612741,Chicago Bulls,2,1,10,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-32,78,1,1,20220314,SAC,CHI
+Shot Chart Detail,0022101026,309,202696,Nikola Vučević,1610612741,Chicago Bulls,2,0,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-45,247,1,1,20220314,SAC,CHI
+Shot Chart Detail,0022101026,330,202696,Nikola Vučević,1610612741,Chicago Bulls,3,10,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-172,18,1,1,20220314,SAC,CHI
+Shot Chart Detail,0022101026,341,202696,Nikola Vučević,1610612741,Chicago Bulls,3,9,34,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,15,1,1,20220314,SAC,CHI
+Shot Chart Detail,0022101026,354,202696,Nikola Vučević,1610612741,Chicago Bulls,3,7,50,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,26,47,1,1,20220314,SAC,CHI
+Shot Chart Detail,0022101026,371,202696,Nikola Vučević,1610612741,Chicago Bulls,3,6,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-151,209,1,1,20220314,SAC,CHI
+Shot Chart Detail,0022101026,396,202696,Nikola Vučević,1610612741,Chicago Bulls,3,3,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-23,258,1,1,20220314,SAC,CHI
+Shot Chart Detail,0022101041,24,202696,Nikola Vučević,1610612741,Chicago Bulls,1,10,1,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,72,64,1,1,20220316,UTA,CHI
+Shot Chart Detail,0022101041,56,202696,Nikola Vučević,1610612741,Chicago Bulls,1,7,17,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,10,112,1,1,20220316,UTA,CHI
+Shot Chart Detail,0022101041,259,202696,Nikola Vučević,1610612741,Chicago Bulls,2,6,0,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-34,88,1,1,20220316,UTA,CHI
+Shot Chart Detail,0022101041,358,202696,Nikola Vučević,1610612741,Chicago Bulls,3,11,46,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-44,131,1,1,20220316,UTA,CHI
+Shot Chart Detail,0022101041,416,202696,Nikola Vučević,1610612741,Chicago Bulls,3,7,25,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,49,99,1,1,20220316,UTA,CHI
+Shot Chart Detail,0022101056,11,202696,Nikola Vučević,1610612741,Chicago Bulls,1,11,12,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-9,23,1,1,20220318,PHX,CHI
+Shot Chart Detail,0022101056,22,202696,Nikola Vučević,1610612741,Chicago Bulls,1,10,17,Made Shot,Cutting Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-23,65,1,1,20220318,PHX,CHI
+Shot Chart Detail,0022101056,27,202696,Nikola Vučević,1610612741,Chicago Bulls,1,9,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-25,-4,1,1,20220318,PHX,CHI
+Shot Chart Detail,0022101056,180,202696,Nikola Vučević,1610612741,Chicago Bulls,2,8,49,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,2,43,1,1,20220318,PHX,CHI
+Shot Chart Detail,0022101056,260,202696,Nikola Vučević,1610612741,Chicago Bulls,2,3,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,125,125,1,1,20220318,PHX,CHI
+Shot Chart Detail,0022101056,312,202696,Nikola Vučević,1610612741,Chicago Bulls,3,11,1,Made Shot,Hook Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,6,75,1,1,20220318,PHX,CHI
+Shot Chart Detail,0022101056,368,202696,Nikola Vučević,1610612741,Chicago Bulls,3,6,0,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-15,22,1,1,20220318,PHX,CHI
+Shot Chart Detail,0022101056,477,202696,Nikola Vučević,1610612741,Chicago Bulls,4,11,43,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,16,1,1,20220318,PHX,CHI
+Shot Chart Detail,0022101076,19,202696,Nikola Vučević,1610612741,Chicago Bulls,1,10,26,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,3,1,1,20220321,CHI,TOR
+Shot Chart Detail,0022101076,31,202696,Nikola Vučević,1610612741,Chicago Bulls,1,9,33,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20220321,CHI,TOR
+Shot Chart Detail,0022101076,284,202696,Nikola Vučević,1610612741,Chicago Bulls,2,3,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,3,1,1,20220321,CHI,TOR
+Shot Chart Detail,0022101076,335,202696,Nikola Vučević,1610612741,Chicago Bulls,3,10,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-12,258,1,1,20220321,CHI,TOR
+Shot Chart Detail,0022101076,414,202696,Nikola Vučević,1610612741,Chicago Bulls,3,3,13,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-2,67,1,1,20220321,CHI,TOR
+Shot Chart Detail,0022101076,543,202696,Nikola Vučević,1610612741,Chicago Bulls,4,5,55,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,4,58,1,1,20220321,CHI,TOR
+Shot Chart Detail,0022101076,584,202696,Nikola Vučević,1610612741,Chicago Bulls,4,2,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-107,249,1,1,20220321,CHI,TOR
+Shot Chart Detail,0022101082,33,202696,Nikola Vučević,1610612741,Chicago Bulls,1,9,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,36,267,1,1,20220322,MIL,CHI
+Shot Chart Detail,0022101082,53,202696,Nikola Vučević,1610612741,Chicago Bulls,1,7,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,168,178,1,1,20220322,MIL,CHI
+Shot Chart Detail,0022101082,88,202696,Nikola Vučević,1610612741,Chicago Bulls,1,4,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,17,264,1,1,20220322,MIL,CHI
+Shot Chart Detail,0022101082,104,202696,Nikola Vučević,1610612741,Chicago Bulls,1,3,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,0,147,1,1,20220322,MIL,CHI
+Shot Chart Detail,0022101082,199,202696,Nikola Vučević,1610612741,Chicago Bulls,2,8,13,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-125,31,1,1,20220322,MIL,CHI
+Shot Chart Detail,0022101082,214,202696,Nikola Vučević,1610612741,Chicago Bulls,2,6,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,147,103,1,1,20220322,MIL,CHI
+Shot Chart Detail,0022101082,329,202696,Nikola Vučević,1610612741,Chicago Bulls,3,10,7,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,18,1,1,20220322,MIL,CHI
+Shot Chart Detail,0022101082,526,202696,Nikola Vučević,1610612741,Chicago Bulls,4,7,59,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-28,84,1,1,20220322,MIL,CHI
+Shot Chart Detail,0022101082,544,202696,Nikola Vučević,1610612741,Chicago Bulls,4,5,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-207,172,1,1,20220322,MIL,CHI
+Shot Chart Detail,0022101098,7,202696,Nikola Vučević,1610612741,Chicago Bulls,1,11,40,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-61,27,1,1,20220324,NOP,CHI
+Shot Chart Detail,0022101098,19,202696,Nikola Vučević,1610612741,Chicago Bulls,1,10,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-143,74,1,1,20220324,NOP,CHI
+Shot Chart Detail,0022101098,31,202696,Nikola Vučević,1610612741,Chicago Bulls,1,9,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,2,262,1,1,20220324,NOP,CHI
+Shot Chart Detail,0022101098,167,202696,Nikola Vučević,1610612741,Chicago Bulls,2,10,13,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-56,136,1,1,20220324,NOP,CHI
+Shot Chart Detail,0022101098,204,202696,Nikola Vučević,1610612741,Chicago Bulls,2,6,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,141,215,1,1,20220324,NOP,CHI
+Shot Chart Detail,0022101098,283,202696,Nikola Vučević,1610612741,Chicago Bulls,2,0,48,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,44,15,1,1,20220324,NOP,CHI
+Shot Chart Detail,0022101098,541,202696,Nikola Vučević,1610612741,Chicago Bulls,4,6,14,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-15,77,1,1,20220324,NOP,CHI
+Shot Chart Detail,0022101110,16,202696,Nikola Vučević,1610612741,Chicago Bulls,1,11,15,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-49,91,1,1,20220326,CLE,CHI
+Shot Chart Detail,0022101110,28,202696,Nikola Vučević,1610612741,Chicago Bulls,1,9,31,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,-6,1,1,20220326,CLE,CHI
+Shot Chart Detail,0022101110,68,202696,Nikola Vučević,1610612741,Chicago Bulls,1,5,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,124,230,1,1,20220326,CLE,CHI
+Shot Chart Detail,0022101110,75,202696,Nikola Vučević,1610612741,Chicago Bulls,1,4,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-4,21,1,1,20220326,CLE,CHI
+Shot Chart Detail,0022101110,354,202696,Nikola Vučević,1610612741,Chicago Bulls,3,9,37,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,1,1,1,20220326,CLE,CHI
+Shot Chart Detail,0022101110,404,202696,Nikola Vučević,1610612741,Chicago Bulls,3,4,42,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,5,1,1,20220326,CLE,CHI
+Shot Chart Detail,0022101126,49,202696,Nikola Vučević,1610612741,Chicago Bulls,1,6,56,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,4,1,1,20220328,NYK,CHI
+Shot Chart Detail,0022101126,79,202696,Nikola Vučević,1610612741,Chicago Bulls,1,3,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,1,1,1,20220328,NYK,CHI
+Shot Chart Detail,0022101126,273,202696,Nikola Vučević,1610612741,Chicago Bulls,2,0,55,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,0,1,1,20220328,NYK,CHI
+Shot Chart Detail,0022101126,328,202696,Nikola Vučević,1610612741,Chicago Bulls,3,9,43,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,5,1,1,20220328,NYK,CHI
+Shot Chart Detail,0022101126,336,202696,Nikola Vučević,1610612741,Chicago Bulls,3,9,19,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-49,132,1,1,20220328,NYK,CHI
+Shot Chart Detail,0022101126,578,202696,Nikola Vučević,1610612741,Chicago Bulls,4,4,14,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,38,71,1,1,20220328,NYK,CHI
+Shot Chart Detail,0022101132,12,202696,Nikola Vučević,1610612741,Chicago Bulls,1,11,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,1,1,1,20220329,WAS,CHI
+Shot Chart Detail,0022101132,22,202696,Nikola Vučević,1610612741,Chicago Bulls,1,10,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,15,249,1,1,20220329,WAS,CHI
+Shot Chart Detail,0022101132,26,202696,Nikola Vučević,1610612741,Chicago Bulls,1,9,48,Made Shot,Turnaround Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,11,1,1,20220329,WAS,CHI
+Shot Chart Detail,0022101132,29,202696,Nikola Vučević,1610612741,Chicago Bulls,1,9,19,Made Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,42,22,1,1,20220329,WAS,CHI
+Shot Chart Detail,0022101132,75,202696,Nikola Vučević,1610612741,Chicago Bulls,1,5,10,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,38,67,1,1,20220329,WAS,CHI
+Shot Chart Detail,0022101132,80,202696,Nikola Vučević,1610612741,Chicago Bulls,1,4,36,Made Shot,Turnaround Bank Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,36,12,1,1,20220329,WAS,CHI
+Shot Chart Detail,0022101132,102,202696,Nikola Vučević,1610612741,Chicago Bulls,1,3,16,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-39,60,1,1,20220329,WAS,CHI
+Shot Chart Detail,0022101132,229,202696,Nikola Vučević,1610612741,Chicago Bulls,2,4,46,Made Shot,Driving Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,5,29,1,1,20220329,WAS,CHI
+Shot Chart Detail,0022101132,235,202696,Nikola Vučević,1610612741,Chicago Bulls,2,3,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-185,162,1,1,20220329,WAS,CHI
+Shot Chart Detail,0022101132,325,202696,Nikola Vučević,1610612741,Chicago Bulls,3,8,24,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,26,48,1,1,20220329,WAS,CHI
+Shot Chart Detail,0022101132,338,202696,Nikola Vučević,1610612741,Chicago Bulls,3,7,24,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-39,38,1,1,20220329,WAS,CHI
+Shot Chart Detail,0022101132,407,202696,Nikola Vučević,1610612741,Chicago Bulls,3,2,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,126,129,1,1,20220329,WAS,CHI
+Shot Chart Detail,0022101149,8,202696,Nikola Vučević,1610612741,Chicago Bulls,1,11,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-130,109,1,1,20220331,CHI,LAC
+Shot Chart Detail,0022101149,15,202696,Nikola Vučević,1610612741,Chicago Bulls,1,10,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-97,246,1,1,20220331,CHI,LAC
+Shot Chart Detail,0022101149,19,202696,Nikola Vučević,1610612741,Chicago Bulls,1,10,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-114,237,1,1,20220331,CHI,LAC
+Shot Chart Detail,0022101149,355,202696,Nikola Vučević,1610612741,Chicago Bulls,3,7,27,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20220331,CHI,LAC
+Shot Chart Detail,0022101149,463,202696,Nikola Vučević,1610612741,Chicago Bulls,3,0,31,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,64,34,1,1,20220331,CHI,LAC
+Shot Chart Detail,0022101149,483,202696,Nikola Vučević,1610612741,Chicago Bulls,4,11,20,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,4,1,1,20220331,CHI,LAC
+Shot Chart Detail,0022101149,548,202696,Nikola Vučević,1610612741,Chicago Bulls,4,5,53,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20220331,CHI,LAC
+Shot Chart Detail,0022101149,597,202696,Nikola Vučević,1610612741,Chicago Bulls,4,2,12,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,58,234,1,1,20220331,CHI,LAC
+Shot Chart Detail,0022101149,681,202696,Nikola Vučević,1610612741,Chicago Bulls,5,3,34,Made Shot,Driving Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,9,1,1,20220331,CHI,LAC
+Shot Chart Detail,0022101164,28,202696,Nikola Vučević,1610612741,Chicago Bulls,1,8,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,6,1,1,20220402,CHI,MIA
+Shot Chart Detail,0022101164,61,202696,Nikola Vučević,1610612741,Chicago Bulls,1,5,45,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20220402,CHI,MIA
+Shot Chart Detail,0022101164,96,202696,Nikola Vučević,1610612741,Chicago Bulls,1,3,24,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20220402,CHI,MIA
+Shot Chart Detail,0022101164,291,202696,Nikola Vučević,1610612741,Chicago Bulls,2,0,47,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-14,92,1,1,20220402,CHI,MIA
+Shot Chart Detail,0022101164,351,202696,Nikola Vučević,1610612741,Chicago Bulls,3,7,25,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,125,120,1,1,20220402,CHI,MIA
+Shot Chart Detail,0022101164,402,202696,Nikola Vučević,1610612741,Chicago Bulls,3,2,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,151,120,1,1,20220402,CHI,MIA
+Shot Chart Detail,0022101183,57,202696,Nikola Vučević,1610612741,Chicago Bulls,1,6,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-104,178,1,1,20220405,CHI,MIL
+Shot Chart Detail,0022101183,325,202696,Nikola Vučević,1610612741,Chicago Bulls,2,0,0,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,1,1,1,20220405,CHI,MIL
+Shot Chart Detail,0022101183,512,202696,Nikola Vučević,1610612741,Chicago Bulls,4,10,31,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,12,87,1,1,20220405,CHI,MIL
+Shot Chart Detail,0022101193,48,202696,Nikola Vučević,1610612741,Chicago Bulls,1,7,31,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,7,185,1,1,20220406,CHI,BOS
+Shot Chart Detail,0022101193,63,202696,Nikola Vučević,1610612741,Chicago Bulls,1,6,15,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,0,63,1,1,20220406,CHI,BOS
+Shot Chart Detail,0022101193,240,202696,Nikola Vučević,1610612741,Chicago Bulls,2,5,38,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-1,54,1,1,20220406,CHI,BOS
+Shot Chart Detail,0022101193,246,202696,Nikola Vučević,1610612741,Chicago Bulls,2,5,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-2,254,1,1,20220406,CHI,BOS
+Shot Chart Detail,0022101193,459,202696,Nikola Vučević,1610612741,Chicago Bulls,3,4,2,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20220406,CHI,BOS
+Shot Chart Detail,0022101208,24,202696,Nikola Vučević,1610612741,Chicago Bulls,1,9,39,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20220408,CHI,CHA
+Shot Chart Detail,0022101208,71,202696,Nikola Vučević,1610612741,Chicago Bulls,1,4,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,3,1,1,20220408,CHI,CHA

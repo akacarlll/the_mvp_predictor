@@ -1,0 +1,572 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0022200012,19,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,10,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,161,112,1,1,20221019,UTA,DEN
+Shot Chart Detail,0022200012,23,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,10,6,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,15,42,1,1,20221019,UTA,DEN
+Shot Chart Detail,0022200012,133,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,2,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-169,216,1,1,20221019,UTA,DEN
+Shot Chart Detail,0022200012,269,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,5,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-192,165,1,1,20221019,UTA,DEN
+Shot Chart Detail,0022200012,342,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,0,54,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-232,80,1,1,20221019,UTA,DEN
+Shot Chart Detail,0022200012,482,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,3,7,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,26,119,1,1,20221019,UTA,DEN
+Shot Chart Detail,0022200025,57,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,8,15,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-28,79,1,1,20221021,MIN,UTA
+Shot Chart Detail,0022200025,70,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,7,26,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,14,1,1,20221021,MIN,UTA
+Shot Chart Detail,0022200025,72,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,6,59,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,-1,1,1,20221021,MIN,UTA
+Shot Chart Detail,0022200025,188,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,0,4,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,4,104,1,1,20221021,MIN,UTA
+Shot Chart Detail,0022200025,259,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,6,27,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-77,242,1,1,20221021,MIN,UTA
+Shot Chart Detail,0022200025,419,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,7,25,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-6,13,1,1,20221021,MIN,UTA
+Shot Chart Detail,0022200025,428,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,6,44,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,7,1,1,20221021,MIN,UTA
+Shot Chart Detail,0022200025,443,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,5,26,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,8,1,1,20221021,MIN,UTA
+Shot Chart Detail,0022200025,656,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,4,51,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,4,1,1,20221021,MIN,UTA
+Shot Chart Detail,0022200025,815,1628374,Lauri Markkanen,1610612762,Utah Jazz,5,0,13,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-58,86,1,1,20221021,MIN,UTA
+Shot Chart Detail,0022200040,64,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,6,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,22,7,1,1,20221023,NOP,UTA
+Shot Chart Detail,0022200040,69,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,5,28,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,8,1,1,20221023,NOP,UTA
+Shot Chart Detail,0022200040,74,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,5,1,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-26,4,1,1,20221023,NOP,UTA
+Shot Chart Detail,0022200040,115,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,2,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-154,218,1,1,20221023,NOP,UTA
+Shot Chart Detail,0022200040,121,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,2,26,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20221023,NOP,UTA
+Shot Chart Detail,0022200040,277,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,4,38,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,15,1,1,20221023,NOP,UTA
+Shot Chart Detail,0022200040,411,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,11,10,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,5,1,1,20221023,NOP,UTA
+Shot Chart Detail,0022200040,493,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,5,18,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,11,1,1,20221023,NOP,UTA
+Shot Chart Detail,0022200040,500,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,4,37,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,25,95,1,1,20221023,NOP,UTA
+Shot Chart Detail,0022200048,95,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,4,20,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-1,47,1,1,20221024,HOU,UTA
+Shot Chart Detail,0022200048,327,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,2,31,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,29,57,1,1,20221024,HOU,UTA
+Shot Chart Detail,0022200048,331,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,2,11,Made Shot,Running Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,22,27,1,1,20221024,HOU,UTA
+Shot Chart Detail,0022200048,362,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,11,12,Made Shot,Cutting Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-15,42,1,1,20221024,HOU,UTA
+Shot Chart Detail,0022200048,413,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,6,46,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,33,20,1,1,20221024,HOU,UTA
+Shot Chart Detail,0022200048,609,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,5,2,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,13,1,1,20221024,HOU,UTA
+Shot Chart Detail,0022200048,668,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,2,23,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,48,14,1,1,20221024,HOU,UTA
+Shot Chart Detail,0022200063,69,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,6,43,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,15,1,1,20221026,UTA,HOU
+Shot Chart Detail,0022200063,105,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,4,6,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,22,10,1,1,20221026,UTA,HOU
+Shot Chart Detail,0022200063,228,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,7,6,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-25,49,1,1,20221026,UTA,HOU
+Shot Chart Detail,0022200063,239,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,6,23,Made Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,42,25,1,1,20221026,UTA,HOU
+Shot Chart Detail,0022200063,290,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,3,42,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-16,29,1,1,20221026,UTA,HOU
+Shot Chart Detail,0022200063,335,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,1,12,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-13,25,1,1,20221026,UTA,HOU
+Shot Chart Detail,0022200063,345,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,0,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-199,193,1,1,20221026,UTA,HOU
+Shot Chart Detail,0022200063,409,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,9,5,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,28,69,1,1,20221026,UTA,HOU
+Shot Chart Detail,0022200063,648,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,7,4,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,5,1,1,20221026,UTA,HOU
+Shot Chart Detail,0022200063,715,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,3,13,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,16,1,1,20221026,UTA,HOU
+Shot Chart Detail,0022200078,27,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,9,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,174,178,1,1,20221028,DEN,UTA
+Shot Chart Detail,0022200078,32,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,9,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-148,221,1,1,20221028,DEN,UTA
+Shot Chart Detail,0022200078,101,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,3,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-6,257,1,1,20221028,DEN,UTA
+Shot Chart Detail,0022200078,290,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,2,56,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-29,13,1,1,20221028,DEN,UTA
+Shot Chart Detail,0022200078,363,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,10,26,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,44,34,1,1,20221028,DEN,UTA
+Shot Chart Detail,0022200078,379,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,8,36,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20221028,DEN,UTA
+Shot Chart Detail,0022200078,396,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,7,30,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-29,14,1,1,20221028,DEN,UTA
+Shot Chart Detail,0022200087,46,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,8,0,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,61,93,1,1,20221029,UTA,MEM
+Shot Chart Detail,0022200087,70,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,6,50,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,3,1,1,20221029,UTA,MEM
+Shot Chart Detail,0022200087,207,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,8,56,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,3,1,1,20221029,UTA,MEM
+Shot Chart Detail,0022200087,298,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,2,18,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,25,21,1,1,20221029,UTA,MEM
+Shot Chart Detail,0022200087,458,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,3,14,Made Shot,Turnaround Bank shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-65,64,1,1,20221029,UTA,MEM
+Shot Chart Detail,0022200087,478,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,1,54,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-25,62,1,1,20221029,UTA,MEM
+Shot Chart Detail,0022200087,617,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,5,2,Made Shot,Driving Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-6,39,1,1,20221029,UTA,MEM
+Shot Chart Detail,0022200087,647,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,3,4,Made Shot,Cutting Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-29,49,1,1,20221029,UTA,MEM
+Shot Chart Detail,0022200087,653,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,2,22,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,229,32,1,1,20221029,UTA,MEM
+Shot Chart Detail,0022200101,42,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,8,58,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20221031,UTA,MEM
+Shot Chart Detail,0022200101,88,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,4,40,Made Shot,Step Back Bank Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-99,57,1,1,20221031,UTA,MEM
+Shot Chart Detail,0022200101,238,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,5,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-156,219,1,1,20221031,UTA,MEM
+Shot Chart Detail,0022200101,271,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,3,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,7,255,1,1,20221031,UTA,MEM
+Shot Chart Detail,0022200101,308,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,1,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-53,243,1,1,20221031,UTA,MEM
+Shot Chart Detail,0022200101,446,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,6,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-124,178,1,1,20221031,UTA,MEM
+Shot Chart Detail,0022200101,455,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,5,12,Made Shot,Turnaround Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-17,34,1,1,20221031,UTA,MEM
+Shot Chart Detail,0022200101,474,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,3,48,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,12,1,1,20221031,UTA,MEM
+Shot Chart Detail,0022200101,501,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,1,42,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-239,37,1,1,20221031,UTA,MEM
+Shot Chart Detail,0022200101,525,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,0,9,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,87,95,1,1,20221031,UTA,MEM
+Shot Chart Detail,0022200101,659,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,4,40,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20221031,UTA,MEM
+Shot Chart Detail,0022200115,10,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,11,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,7,1,1,20221102,DAL,UTA
+Shot Chart Detail,0022200115,216,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,6,6,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,15,1,1,20221102,DAL,UTA
+Shot Chart Detail,0022200115,255,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,3,49,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,8,1,1,20221102,DAL,UTA
+Shot Chart Detail,0022200115,305,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,0,4,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,0,1,1,20221102,DAL,UTA
+Shot Chart Detail,0022200115,334,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,10,54,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,10,1,1,20221102,DAL,UTA
+Shot Chart Detail,0022200115,603,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,0,58,Made Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,18,47,1,1,20221102,DAL,UTA
+Shot Chart Detail,0022200131,34,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,8,47,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1,14,1,1,20221104,LAL,UTA
+Shot Chart Detail,0022200131,46,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,7,54,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,10,1,1,20221104,LAL,UTA
+Shot Chart Detail,0022200131,90,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,4,19,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,21,68,1,1,20221104,LAL,UTA
+Shot Chart Detail,0022200131,110,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,3,51,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,15,1,1,20221104,LAL,UTA
+Shot Chart Detail,0022200131,132,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,2,7,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,126,120,1,1,20221104,LAL,UTA
+Shot Chart Detail,0022200131,353,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,9,11,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,5,1,1,20221104,LAL,UTA
+Shot Chart Detail,0022200131,403,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,5,45,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,229,28,1,1,20221104,LAL,UTA
+Shot Chart Detail,0022200131,448,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,2,25,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20221104,LAL,UTA
+Shot Chart Detail,0022200131,551,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,8,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-207,149,1,1,20221104,LAL,UTA
+Shot Chart Detail,0022200143,22,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,9,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,30,216,209,1,1,20221106,LAC,UTA
+Shot Chart Detail,0022200143,256,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,2,57,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-31,22,1,1,20221106,LAC,UTA
+Shot Chart Detail,0022200143,265,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,2,38,Made Shot,Cutting Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-9,32,1,1,20221106,LAC,UTA
+Shot Chart Detail,0022200143,306,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,0,1,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-120,22,1,1,20221106,LAC,UTA
+Shot Chart Detail,0022200143,614,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,0,24,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,8,1,1,20221106,LAC,UTA
+Shot Chart Detail,0022200157,244,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,6,10,Made Shot,Turnaround Fadeaway Bank Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,138,38,1,1,20221107,UTA,LAL
+Shot Chart Detail,0022200157,282,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,2,42,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-40,45,1,1,20221107,UTA,LAL
+Shot Chart Detail,0022200157,318,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,0,5,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,4,45,1,1,20221107,UTA,LAL
+Shot Chart Detail,0022200157,354,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,11,28,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,-6,1,1,20221107,UTA,LAL
+Shot Chart Detail,0022200157,361,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,10,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,18,1,1,20221107,UTA,LAL
+Shot Chart Detail,0022200157,372,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,9,30,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,28,1,1,20221107,UTA,LAL
+Shot Chart Detail,0022200157,396,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,7,14,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,22,17,1,1,20221107,UTA,LAL
+Shot Chart Detail,0022200157,409,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,6,16,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-25,11,1,1,20221107,UTA,LAL
+Shot Chart Detail,0022200157,411,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,5,45,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-51,120,1,1,20221107,UTA,LAL
+Shot Chart Detail,0022200157,554,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,8,38,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,10,1,1,20221107,UTA,LAL
+Shot Chart Detail,0022200162,94,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,5,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,32,252,1,1,20221109,ATL,UTA
+Shot Chart Detail,0022200162,98,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,5,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-154,209,1,1,20221109,ATL,UTA
+Shot Chart Detail,0022200162,109,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,4,38,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,114,147,1,1,20221109,ATL,UTA
+Shot Chart Detail,0022200162,303,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,2,59,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,0,32,1,1,20221109,ATL,UTA
+Shot Chart Detail,0022200162,319,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,2,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,138,223,1,1,20221109,ATL,UTA
+Shot Chart Detail,0022200162,362,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,11,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-145,205,1,1,20221109,ATL,UTA
+Shot Chart Detail,0022200162,602,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,5,11,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-132,211,1,1,20221109,ATL,UTA
+Shot Chart Detail,0022200162,622,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,2,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-25,258,1,1,20221109,ATL,UTA
+Shot Chart Detail,0022200162,642,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,0,36,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20221109,ATL,UTA
+Shot Chart Detail,0022200185,61,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,6,23,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-152,8,1,1,20221112,WAS,UTA
+Shot Chart Detail,0022200185,236,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,6,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-216,136,1,1,20221112,WAS,UTA
+Shot Chart Detail,0022200185,347,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,8,28,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20221112,WAS,UTA
+Shot Chart Detail,0022200185,356,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,7,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,-10,1,1,20221112,WAS,UTA
+Shot Chart Detail,0022200185,368,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,6,43,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,38,130,1,1,20221112,WAS,UTA
+Shot Chart Detail,0022200185,402,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,4,31,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-34,13,1,1,20221112,WAS,UTA
+Shot Chart Detail,0022200185,422,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,2,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-116,100,1,1,20221112,WAS,UTA
+Shot Chart Detail,0022200185,559,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,5,58,Made Shot,Cutting Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-29,31,1,1,20221112,WAS,UTA
+Shot Chart Detail,0022200195,18,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,10,38,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-239,17,1,1,20221113,PHI,UTA
+Shot Chart Detail,0022200195,33,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,9,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-18,264,1,1,20221113,PHI,UTA
+Shot Chart Detail,0022200195,36,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,8,29,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,5,1,1,20221113,PHI,UTA
+Shot Chart Detail,0022200195,301,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,2,54,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,15,1,1,20221113,PHI,UTA
+Shot Chart Detail,0022200195,437,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,4,18,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,6,81,1,1,20221113,PHI,UTA
+Shot Chart Detail,0022200195,596,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,5,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-124,127,1,1,20221113,PHI,UTA
+Shot Chart Detail,0022200208,69,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,6,18,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-26,13,1,1,20221115,UTA,NYK
+Shot Chart Detail,0022200208,252,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,5,43,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20221115,UTA,NYK
+Shot Chart Detail,0022200208,437,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,5,22,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,10,1,1,20221115,UTA,NYK
+Shot Chart Detail,0022200208,615,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,4,26,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,233,87,1,1,20221115,UTA,NYK
+Shot Chart Detail,0022200208,673,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,0,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-167,184,1,1,20221115,UTA,NYK
+Shot Chart Detail,0022200232,24,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,10,29,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,61,15,1,1,20221118,UTA,PHX
+Shot Chart Detail,0022200232,69,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,7,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,72,251,1,1,20221118,UTA,PHX
+Shot Chart Detail,0022200232,72,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,7,5,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,10,1,1,20221118,UTA,PHX
+Shot Chart Detail,0022200232,265,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,6,15,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,13,1,1,20221118,UTA,PHX
+Shot Chart Detail,0022200232,269,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,5,31,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,44,35,1,1,20221118,UTA,PHX
+Shot Chart Detail,0022200232,277,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,4,55,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,19,1,1,20221118,UTA,PHX
+Shot Chart Detail,0022200232,283,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,4,25,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20221118,UTA,PHX
+Shot Chart Detail,0022200232,382,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,11,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-221,126,1,1,20221118,UTA,PHX
+Shot Chart Detail,0022200232,388,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,10,35,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,26,21,1,1,20221118,UTA,PHX
+Shot Chart Detail,0022200232,411,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,8,25,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-13,22,1,1,20221118,UTA,PHX
+Shot Chart Detail,0022200232,418,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,6,57,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-80,201,1,1,20221118,UTA,PHX
+Shot Chart Detail,0022200232,485,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,2,24,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,22,73,1,1,20221118,UTA,PHX
+Shot Chart Detail,0022200232,512,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,0,45,Made Shot,Cutting Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-27,38,1,1,20221118,UTA,PHX
+Shot Chart Detail,0022200232,668,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,2,33,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-11,23,1,1,20221118,UTA,PHX
+Shot Chart Detail,0022200232,692,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,0,38,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-203,50,1,1,20221118,UTA,PHX
+Shot Chart Detail,0022200238,9,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,11,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,218,113,1,1,20221119,POR,UTA
+Shot Chart Detail,0022200238,76,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,5,16,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20221119,POR,UTA
+Shot Chart Detail,0022200238,78,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,5,2,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-17,8,1,1,20221119,POR,UTA
+Shot Chart Detail,0022200238,270,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,3,26,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,-4,1,1,20221119,POR,UTA
+Shot Chart Detail,0022200238,314,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,0,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-157,228,1,1,20221119,POR,UTA
+Shot Chart Detail,0022200238,375,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,7,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-165,200,1,1,20221119,POR,UTA
+Shot Chart Detail,0022200238,411,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,5,29,Made Shot,Turnaround Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,28,9,1,1,20221119,POR,UTA
+Shot Chart Detail,0022200255,7,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,11,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,239,108,1,1,20221121,LAC,UTA
+Shot Chart Detail,0022200255,15,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,10,26,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-4,46,1,1,20221121,LAC,UTA
+Shot Chart Detail,0022200255,73,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,5,39,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,8,1,1,20221121,LAC,UTA
+Shot Chart Detail,0022200255,76,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,5,11,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,10,31,1,1,20221121,LAC,UTA
+Shot Chart Detail,0022200255,237,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,5,27,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-6,36,1,1,20221121,LAC,UTA
+Shot Chart Detail,0022200255,349,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,9,54,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-20,26,1,1,20221121,LAC,UTA
+Shot Chart Detail,0022200255,384,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,6,41,Made Shot,Cutting Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-1,44,1,1,20221121,LAC,UTA
+Shot Chart Detail,0022200255,428,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,3,54,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,4,21,1,1,20221121,LAC,UTA
+Shot Chart Detail,0022200255,458,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,1,21,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,11,1,1,20221121,LAC,UTA
+Shot Chart Detail,0022200255,461,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,1,0,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,27,1,1,20221121,LAC,UTA
+Shot Chart Detail,0022200270,329,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,8,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,222,106,1,1,20221123,UTA,DET
+Shot Chart Detail,0022200270,466,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,11,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,5,22,1,1,20221123,UTA,DET
+Shot Chart Detail,0022200270,496,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,8,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,141,213,1,1,20221123,UTA,DET
+Shot Chart Detail,0022200270,528,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,6,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,47,243,1,1,20221123,UTA,DET
+Shot Chart Detail,0022200284,30,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,9,26,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,50,34,1,1,20221125,GSW,UTA
+Shot Chart Detail,0022200284,166,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,0,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-145,236,1,1,20221125,GSW,UTA
+Shot Chart Detail,0022200284,254,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,6,23,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-238,-16,1,1,20221125,GSW,UTA
+Shot Chart Detail,0022200284,265,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,5,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-205,155,1,1,20221125,GSW,UTA
+Shot Chart Detail,0022200284,380,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,7,26,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,3,1,1,20221125,GSW,UTA
+Shot Chart Detail,0022200284,503,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,10,25,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,7,1,1,20221125,GSW,UTA
+Shot Chart Detail,0022200284,515,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,9,39,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,13,1,1,20221125,GSW,UTA
+Shot Chart Detail,0022200284,565,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,6,33,Made Shot,Putback Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,40,63,1,1,20221125,GSW,UTA
+Shot Chart Detail,0022200284,605,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,2,49,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-10,35,1,1,20221125,GSW,UTA
+Shot Chart Detail,0022200289,324,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,11,48,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,75,51,1,1,20221126,PHX,UTA
+Shot Chart Detail,0022200289,345,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,9,56,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-134,-26,1,1,20221126,PHX,UTA
+Shot Chart Detail,0022200289,577,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,5,20,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-118,257,1,1,20221126,PHX,UTA
+Shot Chart Detail,0022200289,584,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,4,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-208,145,1,1,20221126,PHX,UTA
+Shot Chart Detail,0022200306,19,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,10,29,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,147,216,1,1,20221128,UTA,CHI
+Shot Chart Detail,0022200306,23,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,10,1,Made Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,48,16,1,1,20221128,UTA,CHI
+Shot Chart Detail,0022200306,25,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,9,19,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,11,1,1,20221128,UTA,CHI
+Shot Chart Detail,0022200306,127,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,0,42,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,221,1,1,1,20221128,UTA,CHI
+Shot Chart Detail,0022200306,147,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,11,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-59,245,1,1,20221128,UTA,CHI
+Shot Chart Detail,0022200306,157,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,10,37,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,36,11,1,1,20221128,UTA,CHI
+Shot Chart Detail,0022200306,162,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,10,17,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-222,-29,1,1,20221128,UTA,CHI
+Shot Chart Detail,0022200306,201,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,7,17,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-31,9,1,1,20221128,UTA,CHI
+Shot Chart Detail,0022200306,208,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,6,28,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,1,1,1,20221128,UTA,CHI
+Shot Chart Detail,0022200306,326,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,8,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-174,214,1,1,20221128,UTA,CHI
+Shot Chart Detail,0022200306,435,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,1,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-26,254,1,1,20221128,UTA,CHI
+Shot Chart Detail,0022200306,601,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,1,44,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,18,1,1,20221128,UTA,CHI
+Shot Chart Detail,0022200322,8,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,11,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,23,-219,95,1,1,20221130,UTA,LAC
+Shot Chart Detail,0022200322,20,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,10,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,112,222,1,1,20221130,UTA,LAC
+Shot Chart Detail,0022200322,31,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,9,0,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,28,-1,1,1,20221130,UTA,LAC
+Shot Chart Detail,0022200322,35,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,8,17,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,12,20,1,1,20221130,UTA,LAC
+Shot Chart Detail,0022200322,436,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,3,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,130,243,1,1,20221130,UTA,LAC
+Shot Chart Detail,0022200322,643,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,2,55,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,22,196,1,1,20221130,UTA,LAC
+Shot Chart Detail,0022200322,657,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,1,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-178,190,1,1,20221130,UTA,LAC
+Shot Chart Detail,0022200335,11,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,10,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-23,20,1,1,20221202,UTA,IND
+Shot Chart Detail,0022200335,34,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,9,9,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-36,52,1,1,20221202,UTA,IND
+Shot Chart Detail,0022200335,39,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,8,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-137,248,1,1,20221202,UTA,IND
+Shot Chart Detail,0022200335,64,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,6,33,Made Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-42,116,1,1,20221202,UTA,IND
+Shot Chart Detail,0022200335,148,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,1,37,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,11,1,1,20221202,UTA,IND
+Shot Chart Detail,0022200335,318,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,3,18,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-239,21,1,1,20221202,UTA,IND
+Shot Chart Detail,0022200335,543,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,1,55,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-222,13,1,1,20221202,UTA,IND
+Shot Chart Detail,0022200335,594,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,10,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,100,230,1,1,20221202,UTA,IND
+Shot Chart Detail,0022200343,16,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,10,36,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,18,1,1,20221203,UTA,POR
+Shot Chart Detail,0022200343,36,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,8,54,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,223,69,1,1,20221203,UTA,POR
+Shot Chart Detail,0022200343,371,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,7,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,197,159,1,1,20221203,UTA,POR
+Shot Chart Detail,0022200343,501,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,10,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,173,187,1,1,20221203,UTA,POR
+Shot Chart Detail,0022200412,21,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,10,27,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-225,78,1,1,20221213,UTA,NOP
+Shot Chart Detail,0022200412,25,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,10,8,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-29,30,1,1,20221213,UTA,NOP
+Shot Chart Detail,0022200412,48,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,8,9,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20221213,UTA,NOP
+Shot Chart Detail,0022200412,202,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,9,25,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,9,69,1,1,20221213,UTA,NOP
+Shot Chart Detail,0022200412,245,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,7,3,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,12,80,90,1,1,20221213,UTA,NOP
+Shot Chart Detail,0022200412,307,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,2,35,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,20,1,1,20221213,UTA,NOP
+Shot Chart Detail,0022200412,333,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,1,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-127,215,1,1,20221213,UTA,NOP
+Shot Chart Detail,0022200412,459,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,6,56,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,62,28,1,1,20221213,UTA,NOP
+Shot Chart Detail,0022200426,171,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,11,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,29,14,1,1,20221215,UTA,NOP
+Shot Chart Detail,0022200426,187,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,10,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-217,114,1,1,20221215,UTA,NOP
+Shot Chart Detail,0022200426,205,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,8,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,110,236,1,1,20221215,UTA,NOP
+Shot Chart Detail,0022200426,332,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,11,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-221,151,1,1,20221215,UTA,NOP
+Shot Chart Detail,0022200426,392,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,7,23,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,2,1,1,20221215,UTA,NOP
+Shot Chart Detail,0022200426,539,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,9,56,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-144,170,1,1,20221215,UTA,NOP
+Shot Chart Detail,0022200426,637,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,3,5,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-15,29,1,1,20221215,UTA,NOP
+Shot Chart Detail,0022200426,661,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,0,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,92,244,1,1,20221215,UTA,NOP
+Shot Chart Detail,0022200442,44,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,8,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,196,172,1,1,20221217,MIL,UTA
+Shot Chart Detail,0022200442,197,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,9,36,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,5,17,1,1,20221217,MIL,UTA
+Shot Chart Detail,0022200442,275,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,0,1,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,9,1,1,20221217,MIL,UTA
+Shot Chart Detail,0022200442,313,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,8,53,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-4,1,1,20221217,MIL,UTA
+Shot Chart Detail,0022200442,364,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,5,30,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-43,49,1,1,20221217,MIL,UTA
+Shot Chart Detail,0022200442,383,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,3,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,92,254,1,1,20221217,MIL,UTA
+Shot Chart Detail,0022200442,427,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,0,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,99,236,1,1,20221217,MIL,UTA
+Shot Chart Detail,0022200452,51,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,7,51,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,118,235,1,1,20221219,CLE,UTA
+Shot Chart Detail,0022200452,126,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,1,14,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-162,16,1,1,20221219,CLE,UTA
+Shot Chart Detail,0022200452,275,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,3,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,126,231,1,1,20221219,CLE,UTA
+Shot Chart Detail,0022200452,296,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,1,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-225,130,1,1,20221219,CLE,UTA
+Shot Chart Detail,0022200452,300,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,1,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,15,1,1,20221219,CLE,UTA
+Shot Chart Detail,0022200452,306,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,0,51,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-148,41,1,1,20221219,CLE,UTA
+Shot Chart Detail,0022200452,438,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,3,7,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,10,1,1,20221219,CLE,UTA
+Shot Chart Detail,0022200461,44,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,7,57,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-65,258,1,1,20221220,DET,UTA
+Shot Chart Detail,0022200461,54,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,6,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-185,175,1,1,20221220,DET,UTA
+Shot Chart Detail,0022200461,73,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,5,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,-188,102,1,1,20221220,DET,UTA
+Shot Chart Detail,0022200461,109,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,2,56,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,5,1,1,20221220,DET,UTA
+Shot Chart Detail,0022200461,136,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,0,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-148,207,1,1,20221220,DET,UTA
+Shot Chart Detail,0022200461,241,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,5,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-64,256,1,1,20221220,DET,UTA
+Shot Chart Detail,0022200461,327,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,10,12,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,22,1,1,20221220,DET,UTA
+Shot Chart Detail,0022200461,354,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,8,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-185,167,1,1,20221220,DET,UTA
+Shot Chart Detail,0022200461,362,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,7,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,227,120,1,1,20221220,DET,UTA
+Shot Chart Detail,0022200461,487,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,9,54,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,21,1,1,20221220,DET,UTA
+Shot Chart Detail,0022200461,491,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,9,20,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-18,17,1,1,20221220,DET,UTA
+Shot Chart Detail,0022200461,539,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,5,35,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,20,214,1,1,20221220,DET,UTA
+Shot Chart Detail,0022200461,568,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,3,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-43,258,1,1,20221220,DET,UTA
+Shot Chart Detail,0022200478,15,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,10,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-185,169,1,1,20221222,UTA,WAS
+Shot Chart Detail,0022200478,51,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,7,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,238,93,1,1,20221222,UTA,WAS
+Shot Chart Detail,0022200478,144,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,1,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,224,113,1,1,20221222,UTA,WAS
+Shot Chart Detail,0022200478,330,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,11,3,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-27,97,1,1,20221222,UTA,WAS
+Shot Chart Detail,0022200478,368,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,6,41,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-22,29,1,1,20221222,UTA,WAS
+Shot Chart Detail,0022200478,371,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,6,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-170,194,1,1,20221222,UTA,WAS
+Shot Chart Detail,0022200478,543,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,3,11,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,20,25,1,1,20221222,UTA,WAS
+Shot Chart Detail,0022200503,9,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,11,25,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-64,53,1,1,20221226,SAS,UTA
+Shot Chart Detail,0022200503,167,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,1,24,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-28,34,1,1,20221226,SAS,UTA
+Shot Chart Detail,0022200503,267,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,6,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-4,265,1,1,20221226,SAS,UTA
+Shot Chart Detail,0022200503,289,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,5,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-48,254,1,1,20221226,SAS,UTA
+Shot Chart Detail,0022200503,328,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,2,40,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,12,1,1,20221226,SAS,UTA
+Shot Chart Detail,0022200503,391,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,10,30,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,241,-5,1,1,20221226,SAS,UTA
+Shot Chart Detail,0022200503,663,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,5,5,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,0,1,1,20221226,SAS,UTA
+Shot Chart Detail,0022200503,732,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,0,2,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,2,21,1,1,20221226,SAS,UTA
+Shot Chart Detail,0022200521,34,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,8,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,219,128,1,1,20221228,GSW,UTA
+Shot Chart Detail,0022200521,38,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,8,22,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,-9,1,1,20221228,GSW,UTA
+Shot Chart Detail,0022200521,54,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,6,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,116,231,1,1,20221228,GSW,UTA
+Shot Chart Detail,0022200521,140,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,0,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-159,206,1,1,20221228,GSW,UTA
+Shot Chart Detail,0022200521,167,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,11,18,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,40,15,1,1,20221228,GSW,UTA
+Shot Chart Detail,0022200521,231,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,7,32,Made Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,53,27,1,1,20221228,GSW,UTA
+Shot Chart Detail,0022200521,332,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,1,18,Made Shot,Cutting Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-54,29,1,1,20221228,GSW,UTA
+Shot Chart Detail,0022200521,338,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,0,7,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,26,1,1,20221228,GSW,UTA
+Shot Chart Detail,0022200521,366,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,10,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-145,215,1,1,20221228,GSW,UTA
+Shot Chart Detail,0022200521,404,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,6,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,141,234,1,1,20221228,GSW,UTA
+Shot Chart Detail,0022200537,25,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,9,36,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,3,1,1,20221230,SAC,UTA
+Shot Chart Detail,0022200537,56,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,7,2,Made Shot,Turnaround Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,61,20,1,1,20221230,SAC,UTA
+Shot Chart Detail,0022200537,86,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,5,10,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,6,1,1,20221230,SAC,UTA
+Shot Chart Detail,0022200537,280,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,4,45,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,3,1,1,20221230,SAC,UTA
+Shot Chart Detail,0022200537,299,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,3,11,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-13,57,1,1,20221230,SAC,UTA
+Shot Chart Detail,0022200537,352,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,11,28,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1,15,1,1,20221230,SAC,UTA
+Shot Chart Detail,0022200537,362,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,10,37,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-5,22,1,1,20221230,SAC,UTA
+Shot Chart Detail,0022200537,368,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,10,12,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,16,1,1,20221230,SAC,UTA
+Shot Chart Detail,0022200537,393,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,7,39,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,16,63,1,1,20221230,SAC,UTA
+Shot Chart Detail,0022200537,429,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,4,24,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,1,176,1,1,20221230,SAC,UTA
+Shot Chart Detail,0022200537,449,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,3,17,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,12,1,1,20221230,SAC,UTA
+Shot Chart Detail,0022200537,551,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,8,8,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,5,1,1,20221230,SAC,UTA
+Shot Chart Detail,0022200537,586,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,5,49,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-1,128,1,1,20221230,SAC,UTA
+Shot Chart Detail,0022200537,632,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,2,1,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-50,78,1,1,20221230,SAC,UTA
+Shot Chart Detail,0022200537,644,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,1,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-136,220,1,1,20221230,SAC,UTA
+Shot Chart Detail,0022200537,648,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,0,36,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,12,-67,102,1,1,20221230,SAC,UTA
+Shot Chart Detail,0022200546,265,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,6,15,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-188,85,1,1,20221231,UTA,MIA
+Shot Chart Detail,0022200546,292,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,3,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,15,1,1,20221231,UTA,MIA
+Shot Chart Detail,0022200546,311,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,2,26,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,16,1,1,20221231,UTA,MIA
+Shot Chart Detail,0022200546,370,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,11,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,19,1,1,20221231,UTA,MIA
+Shot Chart Detail,0022200546,427,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,7,42,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,10,1,1,20221231,UTA,MIA
+Shot Chart Detail,0022200546,485,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,2,43,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,1,1,1,20221231,UTA,MIA
+Shot Chart Detail,0022200546,680,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,1,3,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20221231,UTA,MIA
+Shot Chart Detail,0022200563,26,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,10,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-69,249,1,1,20230103,UTA,SAC
+Shot Chart Detail,0022200563,45,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,8,33,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,6,1,1,20230103,UTA,SAC
+Shot Chart Detail,0022200563,288,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,3,26,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-44,43,1,1,20230103,UTA,SAC
+Shot Chart Detail,0022200563,456,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,3,51,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,67,47,1,1,20230103,UTA,SAC
+Shot Chart Detail,0022200563,499,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,1,0,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,15,15,1,1,20230103,UTA,SAC
+Shot Chart Detail,0022200563,634,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,3,33,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-18,9,1,1,20230103,UTA,SAC
+Shot Chart Detail,0022200578,15,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,10,43,Made Shot,Running Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,1,21,1,1,20230105,HOU,UTA
+Shot Chart Detail,0022200578,25,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,9,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-131,228,1,1,20230105,HOU,UTA
+Shot Chart Detail,0022200578,49,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,7,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-55,256,1,1,20230105,HOU,UTA
+Shot Chart Detail,0022200578,61,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,6,36,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,18,1,1,20230105,HOU,UTA
+Shot Chart Detail,0022200578,90,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,4,58,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,18,1,1,20230105,HOU,UTA
+Shot Chart Detail,0022200578,97,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,4,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-48,262,1,1,20230105,HOU,UTA
+Shot Chart Detail,0022200578,101,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,3,26,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,7,1,1,20230105,HOU,UTA
+Shot Chart Detail,0022200578,365,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,11,7,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,1,27,1,1,20230105,HOU,UTA
+Shot Chart Detail,0022200578,392,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,8,42,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,11,1,1,20230105,HOU,UTA
+Shot Chart Detail,0022200578,482,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,3,8,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-2,98,1,1,20230105,HOU,UTA
+Shot Chart Detail,0022200578,632,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,4,1,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20230105,HOU,UTA
+Shot Chart Detail,0022200578,646,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,3,9,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,60,110,1,1,20230105,HOU,UTA
+Shot Chart Detail,0022200578,651,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,2,30,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,37,117,1,1,20230105,HOU,UTA
+Shot Chart Detail,0022200578,668,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,1,18,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,29,1,1,20230105,HOU,UTA
+Shot Chart Detail,0022200578,672,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,0,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,50,271,1,1,20230105,HOU,UTA
+Shot Chart Detail,0022200592,40,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,7,48,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,8,1,1,20230107,CHI,UTA
+Shot Chart Detail,0022200592,44,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,7,31,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,0,1,1,20230107,CHI,UTA
+Shot Chart Detail,0022200592,63,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,5,14,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20230107,CHI,UTA
+Shot Chart Detail,0022200592,249,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,4,52,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,3,1,1,20230107,CHI,UTA
+Shot Chart Detail,0022200592,273,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,3,37,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,5,11,1,1,20230107,CHI,UTA
+Shot Chart Detail,0022200592,306,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,0,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-67,247,1,1,20230107,CHI,UTA
+Shot Chart Detail,0022200592,320,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,11,2,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-9,-1,1,1,20230107,CHI,UTA
+Shot Chart Detail,0022200592,326,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,10,40,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,7,1,1,20230107,CHI,UTA
+Shot Chart Detail,0022200592,413,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,4,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-142,218,1,1,20230107,CHI,UTA
+Shot Chart Detail,0022200592,444,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,2,33,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,6,1,1,20230107,CHI,UTA
+Shot Chart Detail,0022200592,522,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,9,34,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,5,1,1,20230107,CHI,UTA
+Shot Chart Detail,0022200592,619,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,1,30,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-60,26,1,1,20230107,CHI,UTA
+Shot Chart Detail,0022200600,18,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,10,58,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,11,42,1,1,20230108,MEM,UTA
+Shot Chart Detail,0022200600,287,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,4,54,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,0,1,1,20230108,MEM,UTA
+Shot Chart Detail,0022200600,310,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,3,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-75,241,1,1,20230108,MEM,UTA
+Shot Chart Detail,0022200600,327,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,1,29,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,1,1,1,20230108,MEM,UTA
+Shot Chart Detail,0022200600,392,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,9,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,12,1,1,20230108,MEM,UTA
+Shot Chart Detail,0022200600,419,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,7,27,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,6,1,1,20230108,MEM,UTA
+Shot Chart Detail,0022200600,446,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,5,6,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,4,1,1,20230108,MEM,UTA
+Shot Chart Detail,0022200600,673,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,3,0,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-39,26,1,1,20230108,MEM,UTA
+Shot Chart Detail,0022200614,44,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,7,59,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-36,46,1,1,20230110,UTA,CLE
+Shot Chart Detail,0022200614,70,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,5,35,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,43,34,1,1,20230110,UTA,CLE
+Shot Chart Detail,0022200614,277,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,3,28,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-10,31,1,1,20230110,UTA,CLE
+Shot Chart Detail,0022200614,304,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,1,54,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,13,22,1,1,20230110,UTA,CLE
+Shot Chart Detail,0022200614,348,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,10,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,6,22,1,1,20230110,UTA,CLE
+Shot Chart Detail,0022200614,436,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,2,52,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,239,5,1,1,20230110,UTA,CLE
+Shot Chart Detail,0022200638,105,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,4,4,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,32,1,1,20230113,UTA,ORL
+Shot Chart Detail,0022200638,130,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,2,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-70,248,1,1,20230113,UTA,ORL
+Shot Chart Detail,0022200638,136,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,2,6,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,13,20,1,1,20230113,UTA,ORL
+Shot Chart Detail,0022200638,140,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,1,40,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-219,176,1,1,20230113,UTA,ORL
+Shot Chart Detail,0022200675,7,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,11,38,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-72,42,1,1,20230118,UTA,LAC
+Shot Chart Detail,0022200675,14,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,11,4,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,16,1,1,20230118,UTA,LAC
+Shot Chart Detail,0022200675,17,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,10,44,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,15,1,1,20230118,UTA,LAC
+Shot Chart Detail,0022200675,153,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,0,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-148,203,1,1,20230118,UTA,LAC
+Shot Chart Detail,0022200675,165,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,11,27,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-25,0,1,1,20230118,UTA,LAC
+Shot Chart Detail,0022200675,171,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,10,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-16,268,1,1,20230118,UTA,LAC
+Shot Chart Detail,0022200675,187,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,9,17,Made Shot,Driving Bank Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,61,36,1,1,20230118,UTA,LAC
+Shot Chart Detail,0022200675,199,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,8,46,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,235,78,1,1,20230118,UTA,LAC
+Shot Chart Detail,0022200675,300,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,1,12,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,208,140,1,1,20230118,UTA,LAC
+Shot Chart Detail,0022200675,351,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,8,45,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,13,31,1,1,20230118,UTA,LAC
+Shot Chart Detail,0022200675,355,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,8,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-36,268,1,1,20230118,UTA,LAC
+Shot Chart Detail,0022200689,140,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,1,49,Made Shot,Running Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,18,1,1,20230120,UTA,BKN
+Shot Chart Detail,0022200689,184,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,11,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,25,15,1,1,20230120,UTA,BKN
+Shot Chart Detail,0022200689,314,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,0,22,Made Shot,Running Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,15,1,1,20230120,UTA,BKN
+Shot Chart Detail,0022200689,358,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,8,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,199,184,1,1,20230120,UTA,BKN
+Shot Chart Detail,0022200689,488,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,11,44,Made Shot,Cutting Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,9,47,1,1,20230120,UTA,BKN
+Shot Chart Detail,0022200689,500,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,10,11,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,237,63,1,1,20230120,UTA,BKN
+Shot Chart Detail,0022200689,584,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,4,9,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,214,156,1,1,20230120,UTA,BKN
+Shot Chart Detail,0022200689,599,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,1,50,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-228,58,1,1,20230120,UTA,BKN
+Shot Chart Detail,0022200710,27,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,9,54,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-43,-2,1,1,20230123,UTA,CHA
+Shot Chart Detail,0022200710,49,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,7,12,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,14,1,1,20230123,UTA,CHA
+Shot Chart Detail,0022200710,178,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,9,59,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,-7,1,1,20230123,UTA,CHA
+Shot Chart Detail,0022200710,209,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,7,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,202,146,1,1,20230123,UTA,CHA
+Shot Chart Detail,0022200710,253,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,4,29,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-224,10,1,1,20230123,UTA,CHA
+Shot Chart Detail,0022200710,362,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,10,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,72,247,1,1,20230123,UTA,CHA
+Shot Chart Detail,0022200710,535,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,11,8,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,-203,57,1,1,20230123,UTA,CHA
+Shot Chart Detail,0022200710,638,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,4,18,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,43,47,1,1,20230123,UTA,CHA
+Shot Chart Detail,0022200727,33,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,8,47,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,11,1,1,20230125,POR,UTA
+Shot Chart Detail,0022200727,41,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,7,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-135,244,1,1,20230125,POR,UTA
+Shot Chart Detail,0022200727,184,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,8,32,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,224,110,1,1,20230125,POR,UTA
+Shot Chart Detail,0022200727,324,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,8,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,8,1,1,20230125,POR,UTA
+Shot Chart Detail,0022200727,469,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,10,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,30,116,281,1,1,20230125,POR,UTA
+Shot Chart Detail,0022200727,518,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,6,17,Made Shot,Cutting Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,10,19,1,1,20230125,POR,UTA
+Shot Chart Detail,0022200727,539,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,5,20,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20230125,POR,UTA
+Shot Chart Detail,0022200750,15,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,10,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-99,257,1,1,20230128,UTA,DAL
+Shot Chart Detail,0022200750,63,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,6,54,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-12,105,1,1,20230128,UTA,DAL
+Shot Chart Detail,0022200750,67,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,6,37,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-27,20,1,1,20230128,UTA,DAL
+Shot Chart Detail,0022200750,219,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,7,27,Made Shot,Running Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-27,11,1,1,20230128,UTA,DAL
+Shot Chart Detail,0022200750,234,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,6,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,48,253,1,1,20230128,UTA,DAL
+Shot Chart Detail,0022200750,303,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,1,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,-218,11,1,1,20230128,UTA,DAL
+Shot Chart Detail,0022200750,370,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,8,25,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,20,84,1,1,20230128,UTA,DAL
+Shot Chart Detail,0022200750,484,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,11,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,29,17,1,1,20230128,UTA,DAL
+Shot Chart Detail,0022200750,507,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,9,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,131,230,1,1,20230128,UTA,DAL
+Shot Chart Detail,0022200750,595,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,3,5,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,2,20,1,1,20230128,UTA,DAL
+Shot Chart Detail,0022200750,599,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,2,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-159,211,1,1,20230128,UTA,DAL
+Shot Chart Detail,0022200776,30,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,9,45,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20230201,UTA,TOR
+Shot Chart Detail,0022200776,205,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,9,38,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,7,25,1,1,20230201,UTA,TOR
+Shot Chart Detail,0022200776,353,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,0,48,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,25,1,1,20230201,UTA,TOR
+Shot Chart Detail,0022200776,419,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,7,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,235,98,1,1,20230201,UTA,TOR
+Shot Chart Detail,0022200776,433,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,5,52,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-224,8,1,1,20230201,UTA,TOR
+Shot Chart Detail,0022200776,448,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,5,8,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20230201,UTA,TOR
+Shot Chart Detail,0022200776,621,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,4,12,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,25,1,1,20230201,UTA,TOR
+Shot Chart Detail,0022200792,9,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,11,41,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20230203,UTA,ATL
+Shot Chart Detail,0022200792,73,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,7,6,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20230203,UTA,ATL
+Shot Chart Detail,0022200792,162,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,1,10,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-33,27,1,1,20230203,UTA,ATL
+Shot Chart Detail,0022200792,380,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,10,40,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-165,210,1,1,20230203,UTA,ATL
+Shot Chart Detail,0022200792,404,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,7,32,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-180,164,1,1,20230203,UTA,ATL
+Shot Chart Detail,0022200792,558,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,8,3,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-22,0,1,1,20230203,UTA,ATL
+Shot Chart Detail,0022200792,587,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,5,59,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,10,38,1,1,20230203,UTA,ATL
+Shot Chart Detail,0022200792,590,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,5,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-191,158,1,1,20230203,UTA,ATL
+Shot Chart Detail,0022200813,21,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,10,21,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-43,31,1,1,20230206,UTA,DAL
+Shot Chart Detail,0022200813,45,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,8,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-235,106,1,1,20230206,UTA,DAL
+Shot Chart Detail,0022200813,59,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,6,35,Made Shot,Floating Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-5,37,1,1,20230206,UTA,DAL
+Shot Chart Detail,0022200813,134,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,1,21,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-120,15,1,1,20230206,UTA,DAL
+Shot Chart Detail,0022200813,188,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,8,58,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-145,7,1,1,20230206,UTA,DAL
+Shot Chart Detail,0022200813,284,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,2,38,Made Shot,Running Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,33,10,1,1,20230206,UTA,DAL
+Shot Chart Detail,0022200813,350,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,11,24,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,54,21,1,1,20230206,UTA,DAL
+Shot Chart Detail,0022200813,406,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,6,9,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,49,25,1,1,20230206,UTA,DAL
+Shot Chart Detail,0022200813,508,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,11,13,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-76,37,1,1,20230206,UTA,DAL
+Shot Chart Detail,0022200828,10,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,11,18,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,17,1,1,20230208,UTA,MIN
+Shot Chart Detail,0022200828,36,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,9,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,159,206,1,1,20230208,UTA,MIN
+Shot Chart Detail,0022200828,150,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,0,58,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-16,13,1,1,20230208,UTA,MIN
+Shot Chart Detail,0022200828,176,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,11,12,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-2,58,1,1,20230208,UTA,MIN
+Shot Chart Detail,0022200828,225,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,7,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,2,257,1,1,20230208,UTA,MIN
+Shot Chart Detail,0022200828,299,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,2,10,Made Shot,Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-33,27,1,1,20230208,UTA,MIN
+Shot Chart Detail,0022200828,342,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,10,53,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,55,42,1,1,20230208,UTA,MIN
+Shot Chart Detail,0022200828,346,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,10,23,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20230208,UTA,MIN
+Shot Chart Detail,0022200839,122,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,2,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,30,-2,300,1,1,20230210,TOR,UTA
+Shot Chart Detail,0022200839,170,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,0,0,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,142,90,1,1,20230210,TOR,UTA
+Shot Chart Detail,0022200839,183,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,11,20,Made Shot,Cutting Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,10,1,1,20230210,TOR,UTA
+Shot Chart Detail,0022200839,258,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,6,18,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20230210,TOR,UTA
+Shot Chart Detail,0022200839,421,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,6,43,Made Shot,Cutting Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,16,1,1,20230210,TOR,UTA
+Shot Chart Detail,0022200839,429,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,5,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-189,163,1,1,20230210,TOR,UTA
+Shot Chart Detail,0022200839,620,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,6,38,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,13,67,1,1,20230210,TOR,UTA
+Shot Chart Detail,0022200839,647,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,4,38,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-104,-1,1,1,20230210,TOR,UTA
+Shot Chart Detail,0022200839,674,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,2,7,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,16,1,1,20230210,TOR,UTA
+Shot Chart Detail,0022200851,56,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,7,56,Made Shot,Running Alley Oop Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,11,1,1,20230211,NYK,UTA
+Shot Chart Detail,0022200851,254,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,5,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,2,1,1,20230211,NYK,UTA
+Shot Chart Detail,0022200851,332,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,11,11,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2,22,1,1,20230211,NYK,UTA
+Shot Chart Detail,0022200851,335,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,10,33,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,1,1,1,20230211,NYK,UTA
+Shot Chart Detail,0022200851,559,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,7,59,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,34,1,1,20230211,NYK,UTA
+Shot Chart Detail,0022200851,567,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,7,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-110,225,1,1,20230211,NYK,UTA
+Shot Chart Detail,0022200851,588,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,5,50,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,11,-78,80,1,1,20230211,NYK,UTA
+Shot Chart Detail,0022200851,623,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,2,40,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-125,222,1,1,20230211,NYK,UTA
+Shot Chart Detail,0022200851,667,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,0,9,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,11,1,1,20230211,NYK,UTA
+Shot Chart Detail,0022200859,36,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,9,18,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-25,28,1,1,20230213,IND,UTA
+Shot Chart Detail,0022200859,40,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,8,40,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,141,1,1,1,20230213,IND,UTA
+Shot Chart Detail,0022200859,70,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,6,23,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,7,1,1,20230213,IND,UTA
+Shot Chart Detail,0022200859,153,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,0,15,Made Shot,Cutting Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,11,1,1,20230213,IND,UTA
+Shot Chart Detail,0022200859,227,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,7,10,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-16,27,1,1,20230213,IND,UTA
+Shot Chart Detail,0022200859,305,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,1,45,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-31,68,1,1,20230213,IND,UTA
+Shot Chart Detail,0022200859,324,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,0,29,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20230213,IND,UTA
+Shot Chart Detail,0022200859,378,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,8,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,34,267,1,1,20230213,IND,UTA
+Shot Chart Detail,0022200859,429,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,3,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-6,8,1,1,20230213,IND,UTA
+Shot Chart Detail,0022200859,563,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,7,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-178,187,1,1,20230213,IND,UTA
+Shot Chart Detail,0022200892,18,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,10,59,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,22,22,1,1,20230223,UTA,OKC
+Shot Chart Detail,0022200892,39,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,9,22,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-2,31,1,1,20230223,UTA,OKC
+Shot Chart Detail,0022200892,160,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,0,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,21,1,1,20230223,UTA,OKC
+Shot Chart Detail,0022200892,236,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,7,48,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20230223,UTA,OKC
+Shot Chart Detail,0022200892,426,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,6,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-142,213,1,1,20230223,UTA,OKC
+Shot Chart Detail,0022200892,439,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,5,49,Made Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,15,50,1,1,20230223,UTA,OKC
+Shot Chart Detail,0022200892,576,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,9,42,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,25,19,1,1,20230223,UTA,OKC
+Shot Chart Detail,0022200892,599,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,7,39,Made Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,40,15,1,1,20230223,UTA,OKC
+Shot Chart Detail,0022200892,607,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,7,0,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-31,45,1,1,20230223,UTA,OKC
+Shot Chart Detail,0022200892,610,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,6,33,Made Shot,Driving Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,16,38,1,1,20230223,UTA,OKC
+Shot Chart Detail,0022200892,630,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,5,31,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,2,22,1,1,20230223,UTA,OKC
+Shot Chart Detail,0022200892,656,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,3,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-92,229,1,1,20230223,UTA,OKC
+Shot Chart Detail,0022200892,672,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,2,0,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,5,1,1,20230223,UTA,OKC
+Shot Chart Detail,0022200892,681,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,1,26,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20230223,UTA,OKC
+Shot Chart Detail,0022200892,734,1628374,Lauri Markkanen,1610612762,Utah Jazz,5,3,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-147,215,1,1,20230223,UTA,OKC
+Shot Chart Detail,0022200909,172,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,11,31,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,32,18,1,1,20230225,UTA,SAS
+Shot Chart Detail,0022200909,238,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,7,59,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,86,52,1,1,20230225,UTA,SAS
+Shot Chart Detail,0022200909,339,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,0,57,Made Shot,Running Alley Oop Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-17,37,1,1,20230225,UTA,SAS
+Shot Chart Detail,0022200909,439,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,6,16,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,13,21,1,1,20230225,UTA,SAS
+Shot Chart Detail,0022200909,588,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,8,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-102,226,1,1,20230225,UTA,SAS
+Shot Chart Detail,0022200909,607,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,7,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,1,242,1,1,20230225,UTA,SAS
+Shot Chart Detail,0022200909,641,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,4,16,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,55,87,1,1,20230225,UTA,SAS
+Shot Chart Detail,0022200909,676,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,2,8,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-34,0,1,1,20230225,UTA,SAS
+Shot Chart Detail,0022200909,684,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,1,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-94,224,1,1,20230225,UTA,SAS
+Shot Chart Detail,0022200930,9,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,11,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,126,223,1,1,20230228,UTA,SAS
+Shot Chart Detail,0022200930,43,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,9,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,69,248,1,1,20230228,UTA,SAS
+Shot Chart Detail,0022200930,59,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,7,57,Made Shot,Running Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-22,53,1,1,20230228,UTA,SAS
+Shot Chart Detail,0022200930,157,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,1,50,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-64,29,1,1,20230228,UTA,SAS
+Shot Chart Detail,0022200930,172,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,0,29,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20230228,UTA,SAS
+Shot Chart Detail,0022200930,211,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,10,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,131,223,1,1,20230228,UTA,SAS
+Shot Chart Detail,0022200930,329,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,3,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-136,227,1,1,20230228,UTA,SAS
+Shot Chart Detail,0022200930,419,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,7,41,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,18,32,1,1,20230228,UTA,SAS
+Shot Chart Detail,0022200930,445,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,5,51,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-75,9,1,1,20230228,UTA,SAS
+Shot Chart Detail,0022200951,190,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,9,34,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,22,21,1,1,20230303,OKC,UTA
+Shot Chart Detail,0022200951,222,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,7,57,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,3,1,1,20230303,OKC,UTA
+Shot Chart Detail,0022200951,337,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,0,13,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20230303,OKC,UTA
+Shot Chart Detail,0022200951,370,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,9,45,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,8,1,1,20230303,OKC,UTA
+Shot Chart Detail,0022200951,399,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,7,38,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-6,25,1,1,20230303,OKC,UTA
+Shot Chart Detail,0022200951,561,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,7,52,Made Shot,Cutting Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,38,34,1,1,20230303,OKC,UTA
+Shot Chart Detail,0022200983,20,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,9,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,37,259,1,1,20230307,DAL,UTA
+Shot Chart Detail,0022200983,32,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,8,56,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-6,17,1,1,20230307,DAL,UTA
+Shot Chart Detail,0022200983,47,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,7,15,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,16,1,1,20230307,DAL,UTA
+Shot Chart Detail,0022200983,187,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,9,50,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-12,27,1,1,20230307,DAL,UTA
+Shot Chart Detail,0022200983,225,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,7,39,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20230307,DAL,UTA
+Shot Chart Detail,0022200983,306,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,2,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,37,259,1,1,20230307,DAL,UTA
+Shot Chart Detail,0022200983,328,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,1,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-31,256,1,1,20230307,DAL,UTA
+Shot Chart Detail,0022200983,341,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,0,20,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20230307,DAL,UTA
+Shot Chart Detail,0022200983,392,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,8,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,151,208,1,1,20230307,DAL,UTA
+Shot Chart Detail,0022200983,512,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,0,55,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,2,52,1,1,20230307,DAL,UTA
+Shot Chart Detail,0022200983,535,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,10,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,21,251,1,1,20230307,DAL,UTA
+Shot Chart Detail,0022200983,587,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,6,28,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,4,53,1,1,20230307,DAL,UTA
+Shot Chart Detail,0022200994,13,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,11,5,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,10,50,1,1,20230309,ORL,UTA
+Shot Chart Detail,0022200994,29,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,9,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-78,251,1,1,20230309,ORL,UTA
+Shot Chart Detail,0022200994,197,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,8,57,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,1,34,1,1,20230309,ORL,UTA
+Shot Chart Detail,0022200994,200,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,8,38,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,5,1,1,20230309,ORL,UTA
+Shot Chart Detail,0022200994,281,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,3,21,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,8,14,1,1,20230309,ORL,UTA
+Shot Chart Detail,0022200994,366,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,9,50,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,44,16,1,1,20230309,ORL,UTA
+Shot Chart Detail,0022200994,373,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,9,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,206,175,1,1,20230309,ORL,UTA
+Shot Chart Detail,0022200994,404,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,5,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-1,267,1,1,20230309,ORL,UTA
+Shot Chart Detail,0022200994,589,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,6,1,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,29,16,1,1,20230309,ORL,UTA
+Shot Chart Detail,0022200994,661,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,0,10,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,85,65,1,1,20230309,ORL,UTA
+Shot Chart Detail,0022200994,666,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,0,0,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,23,21,1,1,20230309,ORL,UTA
+Shot Chart Detail,0022201005,45,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,7,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-170,201,1,1,20230311,CHA,UTA
+Shot Chart Detail,0022201005,307,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,1,3,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,11,1,1,20230311,CHA,UTA
+Shot Chart Detail,0022201005,331,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,11,23,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20230311,CHA,UTA
+Shot Chart Detail,0022201022,45,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,7,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-75,273,1,1,20230313,MIA,UTA
+Shot Chart Detail,0022201022,48,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,7,13,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,22,37,1,1,20230313,MIA,UTA
+Shot Chart Detail,0022201022,173,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,11,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-126,242,1,1,20230313,MIA,UTA
+Shot Chart Detail,0022201022,179,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,10,53,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-21,30,1,1,20230313,MIA,UTA
+Shot Chart Detail,0022201022,199,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,8,45,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,2,1,1,20230313,MIA,UTA
+Shot Chart Detail,0022201022,280,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,3,59,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2,29,1,1,20230313,MIA,UTA
+Shot Chart Detail,0022201022,292,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,3,6,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-2,31,1,1,20230313,MIA,UTA
+Shot Chart Detail,0022201022,361,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,9,44,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,156,210,1,1,20230313,MIA,UTA
+Shot Chart Detail,0022201022,365,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,9,27,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-10,22,1,1,20230313,MIA,UTA
+Shot Chart Detail,0022201022,386,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,7,58,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-17,22,1,1,20230313,MIA,UTA
+Shot Chart Detail,0022201022,429,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,4,49,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,47,96,1,1,20230313,MIA,UTA
+Shot Chart Detail,0022201022,441,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,4,22,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,17,55,1,1,20230313,MIA,UTA
+Shot Chart Detail,0022201022,532,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,9,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-131,228,1,1,20230313,MIA,UTA
+Shot Chart Detail,0022201022,589,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,4,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,132,210,1,1,20230313,MIA,UTA
+Shot Chart Detail,0022201062,18,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,10,27,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-20,29,1,1,20230318,UTA,BOS
+Shot Chart Detail,0022201062,148,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,0,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-203,178,1,1,20230318,UTA,BOS
+Shot Chart Detail,0022201062,177,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,10,5,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,49,44,1,1,20230318,UTA,BOS
+Shot Chart Detail,0022201062,210,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,8,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,217,133,1,1,20230318,UTA,BOS
+Shot Chart Detail,0022201062,378,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,9,45,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,28,17,1,1,20230318,UTA,BOS
+Shot Chart Detail,0022201062,412,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,6,42,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,16,1,1,20230318,UTA,BOS
+Shot Chart Detail,0022201062,573,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,6,23,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,26,15,1,1,20230318,UTA,BOS
+Shot Chart Detail,0022201062,583,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,5,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-81,252,1,1,20230318,UTA,BOS
+Shot Chart Detail,0022201062,599,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,4,18,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,15,1,1,20230318,UTA,BOS
+Shot Chart Detail,0022201062,632,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,1,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-164,184,1,1,20230318,UTA,BOS
+Shot Chart Detail,0022201091,35,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,9,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-210,164,1,1,20230322,UTA,POR
+Shot Chart Detail,0022201091,51,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,8,14,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20230322,UTA,POR
+Shot Chart Detail,0022201091,170,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,0,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,202,163,1,1,20230322,UTA,POR
+Shot Chart Detail,0022201091,197,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,10,49,Made Shot,Running Alley Oop Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-26,46,1,1,20230322,UTA,POR
+Shot Chart Detail,0022201091,252,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,6,56,Made Shot,Cutting Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-37,32,1,1,20230322,UTA,POR
+Shot Chart Detail,0022201091,304,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,3,42,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,25,18,1,1,20230322,UTA,POR
+Shot Chart Detail,0022201091,310,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,3,24,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-40,50,1,1,20230322,UTA,POR
+Shot Chart Detail,0022201091,335,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,1,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-184,201,1,1,20230322,UTA,POR
+Shot Chart Detail,0022201091,369,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,10,56,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,27,21,1,1,20230322,UTA,POR
+Shot Chart Detail,0022201091,402,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,7,42,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,50,31,1,1,20230322,UTA,POR
+Shot Chart Detail,0022201091,418,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,6,22,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,16,1,1,20230322,UTA,POR
+Shot Chart Detail,0022201091,422,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,5,54,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,-7,1,1,20230322,UTA,POR
+Shot Chart Detail,0022201091,438,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,4,42,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-102,173,1,1,20230322,UTA,POR
+Shot Chart Detail,0022201091,602,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,5,40,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-34,-6,1,1,20230322,UTA,POR
+Shot Chart Detail,0022201125,25,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,10,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,93,256,1,1,20230327,UTA,PHX
+Shot Chart Detail,0022201125,159,1628374,Lauri Markkanen,1610612762,Utah Jazz,1,0,14,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-13,43,1,1,20230327,UTA,PHX
+Shot Chart Detail,0022201125,364,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,11,48,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-2,52,1,1,20230327,UTA,PHX
+Shot Chart Detail,0022201125,397,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,9,19,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-5,26,1,1,20230327,UTA,PHX
+Shot Chart Detail,0022201125,449,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,4,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,216,137,1,1,20230327,UTA,PHX
+Shot Chart Detail,0022201125,455,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,3,49,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-26,10,1,1,20230327,UTA,PHX
+Shot Chart Detail,0022201164,217,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,7,21,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,15,1,1,20230402,BKN,UTA
+Shot Chart Detail,0022201164,245,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,4,47,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-1,112,1,1,20230402,BKN,UTA
+Shot Chart Detail,0022201164,292,1628374,Lauri Markkanen,1610612762,Utah Jazz,2,1,26,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,42,4,1,1,20230402,BKN,UTA
+Shot Chart Detail,0022201164,318,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,11,23,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,15,1,1,20230402,BKN,UTA
+Shot Chart Detail,0022201164,330,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,10,35,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20230402,BKN,UTA
+Shot Chart Detail,0022201164,352,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,8,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-54,206,1,1,20230402,BKN,UTA
+Shot Chart Detail,0022201164,484,1628374,Lauri Markkanen,1610612762,Utah Jazz,3,1,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-132,215,1,1,20230402,BKN,UTA
+Shot Chart Detail,0022201164,626,1628374,Lauri Markkanen,1610612762,Utah Jazz,4,2,10,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,5,1,1,20230402,BKN,UTA

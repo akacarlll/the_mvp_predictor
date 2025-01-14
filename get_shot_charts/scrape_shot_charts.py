@@ -7,7 +7,7 @@ from _get_shot_charts import get_shot_chart
 from best_scorer_ import get_top_players_by_season
 
 
-def get_all_shot_charts(seasons, top_n=10):
+def get_all_shot_charts(seasons, top_n=50):
     all_data = {}
     for season in seasons:
         print(f"Processing season: {season}")
@@ -25,8 +25,8 @@ def get_all_shot_charts(seasons, top_n=10):
         all_data[season] = season_data
     return all_data
 
-current_season = "2023-24"
-num_years = 10
+current_season = "2024-25"
+num_years = 20
 start_year = int(current_season.split("-")[0]) - num_years + 1
 
 seasons = [f"{year}-{str(year+1)[-2:]}" for year in range(start_year, start_year + num_years)]

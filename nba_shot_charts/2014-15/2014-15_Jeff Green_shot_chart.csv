@@ -1,0 +1,417 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0021400006,12,201145,Jeff Green,1610612738,Boston Celtics,1,10,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,-5,1,1,20141029,BOS,BKN
+Shot Chart Detail,0021400006,34,201145,Jeff Green,1610612738,Boston Celtics,1,8,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-204,160,1,1,20141029,BOS,BKN
+Shot Chart Detail,0021400006,311,201145,Jeff Green,1610612738,Boston Celtics,3,8,35,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,50,247,1,1,20141029,BOS,BKN
+Shot Chart Detail,0021400006,378,201145,Jeff Green,1610612738,Boston Celtics,3,1,56,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-52,14,1,1,20141029,BOS,BKN
+Shot Chart Detail,0021400034,23,201145,Jeff Green,1610612738,Boston Celtics,1,9,59,Made Shot,Turnaround Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-46,6,1,1,20141101,HOU,BOS
+Shot Chart Detail,0021400034,100,201145,Jeff Green,1610612738,Boston Celtics,1,3,4,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,9,104,1,1,20141101,HOU,BOS
+Shot Chart Detail,0021400034,107,201145,Jeff Green,1610612738,Boston Celtics,1,2,40,Made Shot,Running Bank shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,89,25,1,1,20141101,HOU,BOS
+Shot Chart Detail,0021400034,272,201145,Jeff Green,1610612738,Boston Celtics,2,1,14,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,34,23,1,1,20141101,HOU,BOS
+Shot Chart Detail,0021400034,403,201145,Jeff Green,1610612738,Boston Celtics,3,3,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,209,0,1,1,20141101,HOU,BOS
+Shot Chart Detail,0021400034,419,201145,Jeff Green,1610612738,Boston Celtics,3,1,58,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-29,88,1,1,20141101,HOU,BOS
+Shot Chart Detail,0021400034,558,201145,Jeff Green,1610612738,Boston Celtics,4,4,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,77,265,1,1,20141101,HOU,BOS
+Shot Chart Detail,0021400046,8,201145,Jeff Green,1610612738,Boston Celtics,1,11,22,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141103,DAL,BOS
+Shot Chart Detail,0021400046,14,201145,Jeff Green,1610612738,Boston Celtics,1,10,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-199,140,1,1,20141103,DAL,BOS
+Shot Chart Detail,0021400046,22,201145,Jeff Green,1610612738,Boston Celtics,1,9,45,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141103,DAL,BOS
+Shot Chart Detail,0021400046,117,201145,Jeff Green,1610612738,Boston Celtics,1,1,8,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,91,153,1,1,20141103,DAL,BOS
+Shot Chart Detail,0021400046,168,201145,Jeff Green,1610612738,Boston Celtics,2,7,1,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,28,41,1,1,20141103,DAL,BOS
+Shot Chart Detail,0021400046,188,201145,Jeff Green,1610612738,Boston Celtics,2,4,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-193,30,1,1,20141103,DAL,BOS
+Shot Chart Detail,0021400046,202,201145,Jeff Green,1610612738,Boston Celtics,2,3,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-149,197,1,1,20141103,DAL,BOS
+Shot Chart Detail,0021400046,226,201145,Jeff Green,1610612738,Boston Celtics,2,2,19,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,9,1,1,20141103,DAL,BOS
+Shot Chart Detail,0021400046,256,201145,Jeff Green,1610612738,Boston Celtics,3,11,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,4,1,1,20141103,DAL,BOS
+Shot Chart Detail,0021400046,264,201145,Jeff Green,1610612738,Boston Celtics,3,10,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,163,213,1,1,20141103,DAL,BOS
+Shot Chart Detail,0021400046,276,201145,Jeff Green,1610612738,Boston Celtics,3,9,8,Made Shot,Step Back Jump shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,228,71,1,1,20141103,DAL,BOS
+Shot Chart Detail,0021400046,382,201145,Jeff Green,1610612738,Boston Celtics,3,0,46,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,0,1,1,20141103,DAL,BOS
+Shot Chart Detail,0021400046,481,201145,Jeff Green,1610612738,Boston Celtics,4,4,47,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-2,61,1,1,20141103,DAL,BOS
+Shot Chart Detail,0021400046,520,201145,Jeff Green,1610612738,Boston Celtics,4,1,23,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,147,208,1,1,20141103,DAL,BOS
+Shot Chart Detail,0021400059,7,201145,Jeff Green,1610612738,Boston Celtics,1,10,51,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141105,BOS,TOR
+Shot Chart Detail,0021400059,14,201145,Jeff Green,1610612738,Boston Celtics,1,10,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-205,146,1,1,20141105,BOS,TOR
+Shot Chart Detail,0021400059,42,201145,Jeff Green,1610612738,Boston Celtics,1,7,12,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,3,1,1,20141105,BOS,TOR
+Shot Chart Detail,0021400059,178,201145,Jeff Green,1610612738,Boston Celtics,2,6,50,Made Shot,Turnaround Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,110,0,1,1,20141105,BOS,TOR
+Shot Chart Detail,0021400059,249,201145,Jeff Green,1610612738,Boston Celtics,2,0,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141105,BOS,TOR
+Shot Chart Detail,0021400059,314,201145,Jeff Green,1610612738,Boston Celtics,3,6,20,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141105,BOS,TOR
+Shot Chart Detail,0021400059,319,201145,Jeff Green,1610612738,Boston Celtics,3,5,6,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,132,14,1,1,20141105,BOS,TOR
+Shot Chart Detail,0021400059,497,201145,Jeff Green,1610612738,Boston Celtics,4,2,21,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,1,1,1,20141105,BOS,TOR
+Shot Chart Detail,0021400059,499,201145,Jeff Green,1610612738,Boston Celtics,4,1,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,189,173,1,1,20141105,BOS,TOR
+Shot Chart Detail,0021400074,9,201145,Jeff Green,1610612738,Boston Celtics,1,10,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,149,216,1,1,20141107,BOS,IND
+Shot Chart Detail,0021400074,41,201145,Jeff Green,1610612738,Boston Celtics,1,6,7,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,62,12,1,1,20141107,BOS,IND
+Shot Chart Detail,0021400074,54,201145,Jeff Green,1610612738,Boston Celtics,1,4,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-125,206,1,1,20141107,BOS,IND
+Shot Chart Detail,0021400074,166,201145,Jeff Green,1610612738,Boston Celtics,2,6,43,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,3,1,1,20141107,BOS,IND
+Shot Chart Detail,0021400074,199,201145,Jeff Green,1610612738,Boston Celtics,2,3,17,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,12,1,1,20141107,BOS,IND
+Shot Chart Detail,0021400086,29,201145,Jeff Green,1610612738,Boston Celtics,1,8,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,151,205,1,1,20141108,CHI,BOS
+Shot Chart Detail,0021400086,111,201145,Jeff Green,1610612738,Boston Celtics,2,10,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-24,247,1,1,20141108,CHI,BOS
+Shot Chart Detail,0021400086,175,201145,Jeff Green,1610612738,Boston Celtics,2,4,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,47,206,1,1,20141108,CHI,BOS
+Shot Chart Detail,0021400086,323,201145,Jeff Green,1610612738,Boston Celtics,3,0,4,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-23,208,1,1,20141108,CHI,BOS
+Shot Chart Detail,0021400086,397,201145,Jeff Green,1610612738,Boston Celtics,4,5,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,48,209,1,1,20141108,CHI,BOS
+Shot Chart Detail,0021400111,46,201145,Jeff Green,1610612738,Boston Celtics,1,6,11,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-153,4,1,1,20141112,BOS,OKC
+Shot Chart Detail,0021400111,219,201145,Jeff Green,1610612738,Boston Celtics,2,2,27,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,1,1,1,20141112,BOS,OKC
+Shot Chart Detail,0021400111,394,201145,Jeff Green,1610612738,Boston Celtics,4,10,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,154,135,1,1,20141112,BOS,OKC
+Shot Chart Detail,0021400111,463,201145,Jeff Green,1610612738,Boston Celtics,4,0,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-215,126,1,1,20141112,BOS,OKC
+Shot Chart Detail,0021400125,40,201145,Jeff Green,1610612738,Boston Celtics,1,8,16,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141114,BOS,CLE
+Shot Chart Detail,0021400125,285,201145,Jeff Green,1610612738,Boston Celtics,3,11,13,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141114,BOS,CLE
+Shot Chart Detail,0021400125,325,201145,Jeff Green,1610612738,Boston Celtics,3,6,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,1,1,1,20141114,BOS,CLE
+Shot Chart Detail,0021400125,371,201145,Jeff Green,1610612738,Boston Celtics,3,3,20,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-21,52,1,1,20141114,BOS,CLE
+Shot Chart Detail,0021400125,484,201145,Jeff Green,1610612738,Boston Celtics,4,7,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,165,198,1,1,20141114,BOS,CLE
+Shot Chart Detail,0021400148,103,201145,Jeff Green,1610612738,Boston Celtics,1,3,57,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,6,1,1,20141117,BOS,PHX
+Shot Chart Detail,0021400148,130,201145,Jeff Green,1610612738,Boston Celtics,1,1,46,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,72,11,1,1,20141117,BOS,PHX
+Shot Chart Detail,0021400148,234,201145,Jeff Green,1610612738,Boston Celtics,2,3,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,1,1,1,20141117,BOS,PHX
+Shot Chart Detail,0021400148,317,201145,Jeff Green,1610612738,Boston Celtics,3,7,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,119,184,1,1,20141117,BOS,PHX
+Shot Chart Detail,0021400148,339,201145,Jeff Green,1610612738,Boston Celtics,3,5,54,Made Shot,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,62,15,1,1,20141117,BOS,PHX
+Shot Chart Detail,0021400148,361,201145,Jeff Green,1610612738,Boston Celtics,3,3,47,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,78,15,1,1,20141117,BOS,PHX
+Shot Chart Detail,0021400148,402,201145,Jeff Green,1610612738,Boston Celtics,3,0,42,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141117,BOS,PHX
+Shot Chart Detail,0021400148,502,201145,Jeff Green,1610612738,Boston Celtics,4,4,19,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,43,9,1,1,20141117,BOS,PHX
+Shot Chart Detail,0021400148,504,201145,Jeff Green,1610612738,Boston Celtics,4,3,44,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,4,1,1,20141117,BOS,PHX
+Shot Chart Detail,0021400148,538,201145,Jeff Green,1610612738,Boston Celtics,4,0,57,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141117,BOS,PHX
+Shot Chart Detail,0021400162,24,201145,Jeff Green,1610612738,Boston Celtics,1,9,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,0,1,1,20141119,PHI,BOS
+Shot Chart Detail,0021400162,160,201145,Jeff Green,1610612738,Boston Celtics,2,9,14,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,0,71,1,1,20141119,PHI,BOS
+Shot Chart Detail,0021400162,237,201145,Jeff Green,1610612738,Boston Celtics,2,1,45,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,0,1,1,20141119,PHI,BOS
+Shot Chart Detail,0021400162,316,201145,Jeff Green,1610612738,Boston Celtics,3,7,15,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141119,PHI,BOS
+Shot Chart Detail,0021400162,517,201145,Jeff Green,1610612738,Boston Celtics,4,1,33,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141119,PHI,BOS
+Shot Chart Detail,0021400176,60,201145,Jeff Green,1610612738,Boston Celtics,1,4,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,111,187,1,1,20141121,MEM,BOS
+Shot Chart Detail,0021400176,196,201145,Jeff Green,1610612738,Boston Celtics,2,3,13,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-75,20,1,1,20141121,MEM,BOS
+Shot Chart Detail,0021400176,214,201145,Jeff Green,1610612738,Boston Celtics,2,1,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-166,93,1,1,20141121,MEM,BOS
+Shot Chart Detail,0021400194,52,201145,Jeff Green,1610612738,Boston Celtics,1,7,38,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,1,1,1,20141123,BOS,POR
+Shot Chart Detail,0021400194,79,201145,Jeff Green,1610612738,Boston Celtics,1,4,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-130,222,1,1,20141123,BOS,POR
+Shot Chart Detail,0021400194,226,201145,Jeff Green,1610612738,Boston Celtics,2,4,38,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,9,1,1,20141123,BOS,POR
+Shot Chart Detail,0021400194,259,201145,Jeff Green,1610612738,Boston Celtics,2,1,11,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,6,1,1,20141123,BOS,POR
+Shot Chart Detail,0021400194,325,201145,Jeff Green,1610612738,Boston Celtics,3,6,9,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141123,BOS,POR
+Shot Chart Detail,0021400194,413,201145,Jeff Green,1610612738,Boston Celtics,4,9,27,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,0,1,1,20141123,BOS,POR
+Shot Chart Detail,0021400194,474,201145,Jeff Green,1610612738,Boston Celtics,4,3,27,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,4,42,1,1,20141123,BOS,POR
+Shot Chart Detail,0021400223,36,201145,Jeff Green,1610612738,Boston Celtics,1,8,8,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-109,134,1,1,20141128,BOS,CHI
+Shot Chart Detail,0021400223,140,201145,Jeff Green,1610612738,Boston Celtics,2,11,45,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,80,6,1,1,20141128,BOS,CHI
+Shot Chart Detail,0021400223,294,201145,Jeff Green,1610612738,Boston Celtics,3,11,44,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-15,44,1,1,20141128,BOS,CHI
+Shot Chart Detail,0021400223,338,201145,Jeff Green,1610612738,Boston Celtics,3,6,49,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141128,BOS,CHI
+Shot Chart Detail,0021400223,546,201145,Jeff Green,1610612738,Boston Celtics,4,2,29,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,0,1,1,20141128,BOS,CHI
+Shot Chart Detail,0021400241,32,201145,Jeff Green,1610612738,Boston Celtics,1,8,49,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141130,BOS,SAS
+Shot Chart Detail,0021400241,55,201145,Jeff Green,1610612738,Boston Celtics,1,5,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,168,7,1,1,20141130,BOS,SAS
+Shot Chart Detail,0021400241,174,201145,Jeff Green,1610612738,Boston Celtics,2,4,41,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,0,1,1,20141130,BOS,SAS
+Shot Chart Detail,0021400241,180,201145,Jeff Green,1610612738,Boston Celtics,2,3,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,149,214,1,1,20141130,BOS,SAS
+Shot Chart Detail,0021400241,252,201145,Jeff Green,1610612738,Boston Celtics,3,8,37,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141130,BOS,SAS
+Shot Chart Detail,0021400241,270,201145,Jeff Green,1610612738,Boston Celtics,3,7,30,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,0,1,1,20141130,BOS,SAS
+Shot Chart Detail,0021400254,12,201145,Jeff Green,1610612738,Boston Celtics,1,10,37,Made Shot,Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,157,-2,1,1,20141202,ATL,BOS
+Shot Chart Detail,0021400254,43,201145,Jeff Green,1610612738,Boston Celtics,1,7,13,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,28,1,1,20141202,ATL,BOS
+Shot Chart Detail,0021400254,54,201145,Jeff Green,1610612738,Boston Celtics,1,5,45,Made Shot,Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,102,22,1,1,20141202,ATL,BOS
+Shot Chart Detail,0021400254,60,201145,Jeff Green,1610612738,Boston Celtics,1,5,0,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,72,26,1,1,20141202,ATL,BOS
+Shot Chart Detail,0021400254,77,201145,Jeff Green,1610612738,Boston Celtics,1,3,52,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,17,107,1,1,20141202,ATL,BOS
+Shot Chart Detail,0021400254,95,201145,Jeff Green,1610612738,Boston Celtics,1,2,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,196,58,1,1,20141202,ATL,BOS
+Shot Chart Detail,0021400254,242,201145,Jeff Green,1610612738,Boston Celtics,2,0,33,Made Shot,Driving Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141202,ATL,BOS
+Shot Chart Detail,0021400254,320,201145,Jeff Green,1610612738,Boston Celtics,3,5,14,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141202,ATL,BOS
+Shot Chart Detail,0021400254,379,201145,Jeff Green,1610612738,Boston Celtics,3,0,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,13,37,1,1,20141202,ATL,BOS
+Shot Chart Detail,0021400254,486,201145,Jeff Green,1610612738,Boston Celtics,4,0,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,7,1,1,20141202,ATL,BOS
+Shot Chart Detail,0021400265,4,201145,Jeff Green,1610612738,Boston Celtics,1,11,19,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-226,6,1,1,20141203,BOS,DET
+Shot Chart Detail,0021400265,21,201145,Jeff Green,1610612738,Boston Celtics,1,9,10,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-45,69,1,1,20141203,BOS,DET
+Shot Chart Detail,0021400265,53,201145,Jeff Green,1610612738,Boston Celtics,1,5,12,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,23,50,1,1,20141203,BOS,DET
+Shot Chart Detail,0021400265,248,201145,Jeff Green,1610612738,Boston Celtics,2,2,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-207,135,1,1,20141203,BOS,DET
+Shot Chart Detail,0021400265,320,201145,Jeff Green,1610612738,Boston Celtics,3,8,0,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-226,1,1,1,20141203,BOS,DET
+Shot Chart Detail,0021400265,356,201145,Jeff Green,1610612738,Boston Celtics,3,4,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-202,135,1,1,20141203,BOS,DET
+Shot Chart Detail,0021400265,487,201145,Jeff Green,1610612738,Boston Celtics,4,4,55,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,226,28,1,1,20141203,BOS,DET
+Shot Chart Detail,0021400265,577,201145,Jeff Green,1610612738,Boston Celtics,5,4,9,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,231,25,1,1,20141203,BOS,DET
+Shot Chart Detail,0021400279,17,201145,Jeff Green,1610612738,Boston Celtics,1,10,45,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,32,11,1,1,20141205,BOS,LAL
+Shot Chart Detail,0021400279,64,201145,Jeff Green,1610612738,Boston Celtics,1,5,8,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,26,34,1,1,20141205,BOS,LAL
+Shot Chart Detail,0021400279,82,201145,Jeff Green,1610612738,Boston Celtics,1,3,19,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,19,1,1,20141205,BOS,LAL
+Shot Chart Detail,0021400279,251,201145,Jeff Green,1610612738,Boston Celtics,3,11,50,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-24,28,1,1,20141205,BOS,LAL
+Shot Chart Detail,0021400279,260,201145,Jeff Green,1610612738,Boston Celtics,3,11,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-105,225,1,1,20141205,BOS,LAL
+Shot Chart Detail,0021400279,280,201145,Jeff Green,1610612738,Boston Celtics,3,9,31,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,4,1,1,20141205,BOS,LAL
+Shot Chart Detail,0021400279,364,201145,Jeff Green,1610612738,Boston Celtics,3,0,50,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,70,14,1,1,20141205,BOS,LAL
+Shot Chart Detail,0021400279,499,201145,Jeff Green,1610612738,Boston Celtics,4,1,33,Made Shot,Driving Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,7,1,1,20141205,BOS,LAL
+Shot Chart Detail,0021400294,34,201145,Jeff Green,1610612738,Boston Celtics,1,7,24,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-68,0,1,1,20141207,BOS,WAS
+Shot Chart Detail,0021400294,54,201145,Jeff Green,1610612738,Boston Celtics,1,5,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,59,198,1,1,20141207,BOS,WAS
+Shot Chart Detail,0021400294,100,201145,Jeff Green,1610612738,Boston Celtics,1,1,52,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141207,BOS,WAS
+Shot Chart Detail,0021400294,105,201145,Jeff Green,1610612738,Boston Celtics,1,1,1,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141207,BOS,WAS
+Shot Chart Detail,0021400294,242,201145,Jeff Green,1610612738,Boston Celtics,2,3,41,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-68,17,1,1,20141207,BOS,WAS
+Shot Chart Detail,0021400294,313,201145,Jeff Green,1610612738,Boston Celtics,3,10,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,155,198,1,1,20141207,BOS,WAS
+Shot Chart Detail,0021400294,376,201145,Jeff Green,1610612738,Boston Celtics,3,5,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-15,143,1,1,20141207,BOS,WAS
+Shot Chart Detail,0021400294,378,201145,Jeff Green,1610612738,Boston Celtics,3,5,10,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,23,200,129,1,1,20141207,BOS,WAS
+Shot Chart Detail,0021400294,581,201145,Jeff Green,1610612738,Boston Celtics,4,0,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,0,1,1,20141207,BOS,WAS
+Shot Chart Detail,0021400302,13,201145,Jeff Green,1610612738,Boston Celtics,1,10,26,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,4,41,1,1,20141208,WAS,BOS
+Shot Chart Detail,0021400302,36,201145,Jeff Green,1610612738,Boston Celtics,1,7,38,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-93,108,1,1,20141208,WAS,BOS
+Shot Chart Detail,0021400302,41,201145,Jeff Green,1610612738,Boston Celtics,1,6,50,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141208,WAS,BOS
+Shot Chart Detail,0021400302,56,201145,Jeff Green,1610612738,Boston Celtics,1,4,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,31,258,1,1,20141208,WAS,BOS
+Shot Chart Detail,0021400302,247,201145,Jeff Green,1610612738,Boston Celtics,3,11,50,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,51,-6,1,1,20141208,WAS,BOS
+Shot Chart Detail,0021400302,298,201145,Jeff Green,1610612738,Boston Celtics,3,6,43,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,11,1,1,20141208,WAS,BOS
+Shot Chart Detail,0021400302,354,201145,Jeff Green,1610612738,Boston Celtics,3,2,11,Made Shot,Turnaround Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,23,42,1,1,20141208,WAS,BOS
+Shot Chart Detail,0021400302,613,201145,Jeff Green,1610612738,Boston Celtics,5,1,5,Made Shot,Driving Bank Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,56,9,1,1,20141208,WAS,BOS
+Shot Chart Detail,0021400316,14,201145,Jeff Green,1610612738,Boston Celtics,1,10,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,10,20,1,1,20141210,CHA,BOS
+Shot Chart Detail,0021400316,23,201145,Jeff Green,1610612738,Boston Celtics,1,9,39,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,10,82,1,1,20141210,CHA,BOS
+Shot Chart Detail,0021400316,78,201145,Jeff Green,1610612738,Boston Celtics,1,3,56,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-62,61,1,1,20141210,CHA,BOS
+Shot Chart Detail,0021400316,340,201145,Jeff Green,1610612738,Boston Celtics,3,5,37,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,67,19,1,1,20141210,CHA,BOS
+Shot Chart Detail,0021400316,373,201145,Jeff Green,1610612738,Boston Celtics,3,3,36,Made Shot,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,7,113,1,1,20141210,CHA,BOS
+Shot Chart Detail,0021400316,398,201145,Jeff Green,1610612738,Boston Celtics,3,1,19,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-136,52,1,1,20141210,CHA,BOS
+Shot Chart Detail,0021400331,8,201145,Jeff Green,1610612738,Boston Celtics,1,10,33,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,-3,1,1,20141212,BOS,NYK
+Shot Chart Detail,0021400331,25,201145,Jeff Green,1610612738,Boston Celtics,1,7,21,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141212,BOS,NYK
+Shot Chart Detail,0021400331,88,201145,Jeff Green,1610612738,Boston Celtics,1,1,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,47,249,1,1,20141212,BOS,NYK
+Shot Chart Detail,0021400331,206,201145,Jeff Green,1610612738,Boston Celtics,2,3,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,23,246,1,1,20141212,BOS,NYK
+Shot Chart Detail,0021400331,276,201145,Jeff Green,1610612738,Boston Celtics,3,9,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,110,137,1,1,20141212,BOS,NYK
+Shot Chart Detail,0021400331,437,201145,Jeff Green,1610612738,Boston Celtics,4,5,22,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,42,1,1,20141212,BOS,NYK
+Shot Chart Detail,0021400331,468,201145,Jeff Green,1610612738,Boston Celtics,4,2,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,43,261,1,1,20141212,BOS,NYK
+Shot Chart Detail,0021400331,471,201145,Jeff Green,1610612738,Boston Celtics,4,2,16,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,0,1,1,20141212,BOS,NYK
+Shot Chart Detail,0021400331,496,201145,Jeff Green,1610612738,Boston Celtics,4,1,18,Made Shot,Driving Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141212,BOS,NYK
+Shot Chart Detail,0021400357,45,201145,Jeff Green,1610612738,Boston Celtics,1,8,33,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,14,1,1,20141215,PHI,BOS
+Shot Chart Detail,0021400357,251,201145,Jeff Green,1610612738,Boston Celtics,2,2,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-128,224,1,1,20141215,PHI,BOS
+Shot Chart Detail,0021400357,283,201145,Jeff Green,1610612738,Boston Celtics,3,11,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,3,1,1,20141215,PHI,BOS
+Shot Chart Detail,0021400357,397,201145,Jeff Green,1610612738,Boston Celtics,3,2,27,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-57,9,1,1,20141215,PHI,BOS
+Shot Chart Detail,0021400371,49,201145,Jeff Green,1610612738,Boston Celtics,1,6,8,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-70,64,1,1,20141217,BOS,ORL
+Shot Chart Detail,0021400371,215,201145,Jeff Green,1610612738,Boston Celtics,2,1,28,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,19,1,1,20141217,BOS,ORL
+Shot Chart Detail,0021400371,225,201145,Jeff Green,1610612738,Boston Celtics,2,0,48,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-248,19,1,1,20141217,BOS,ORL
+Shot Chart Detail,0021400371,271,201145,Jeff Green,1610612738,Boston Celtics,3,7,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,113,19,1,1,20141217,BOS,ORL
+Shot Chart Detail,0021400371,304,201145,Jeff Green,1610612738,Boston Celtics,3,3,16,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,17,1,1,20141217,BOS,ORL
+Shot Chart Detail,0021400371,332,201145,Jeff Green,1610612738,Boston Celtics,3,0,55,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-78,28,1,1,20141217,BOS,ORL
+Shot Chart Detail,0021400385,68,201145,Jeff Green,1610612738,Boston Celtics,1,5,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,0,1,1,20141219,BOS,MIN
+Shot Chart Detail,0021400385,247,201145,Jeff Green,1610612738,Boston Celtics,2,1,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,14,1,1,20141219,BOS,MIN
+Shot Chart Detail,0021400385,259,201145,Jeff Green,1610612738,Boston Celtics,3,11,20,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,1,1,1,20141219,BOS,MIN
+Shot Chart Detail,0021400385,411,201145,Jeff Green,1610612738,Boston Celtics,4,10,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-70,241,1,1,20141219,BOS,MIN
+Shot Chart Detail,0021400385,448,201145,Jeff Green,1610612738,Boston Celtics,4,5,26,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141219,BOS,MIN
+Shot Chart Detail,0021400385,453,201145,Jeff Green,1610612738,Boston Celtics,4,4,57,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,-5,1,1,20141219,BOS,MIN
+Shot Chart Detail,0021400404,25,201145,Jeff Green,1610612738,Boston Celtics,1,8,41,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-237,44,1,1,20141221,MIA,BOS
+Shot Chart Detail,0021400404,438,201145,Jeff Green,1610612738,Boston Celtics,4,5,54,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,45,1,1,20141221,MIA,BOS
+Shot Chart Detail,0021400404,480,201145,Jeff Green,1610612738,Boston Celtics,4,2,10,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,4,1,1,20141221,MIA,BOS
+Shot Chart Detail,0021400404,484,201145,Jeff Green,1610612738,Boston Celtics,4,1,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-5,249,1,1,20141221,MIA,BOS
+Shot Chart Detail,0021400418,176,201145,Jeff Green,1610612738,Boston Celtics,2,7,50,Made Shot,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,26,41,1,1,20141223,ORL,BOS
+Shot Chart Detail,0021400418,312,201145,Jeff Green,1610612738,Boston Celtics,3,5,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,184,23,1,1,20141223,ORL,BOS
+Shot Chart Detail,0021400432,7,201145,Jeff Green,1610612738,Boston Celtics,1,10,47,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,6,1,1,20141226,BOS,BKN
+Shot Chart Detail,0021400432,57,201145,Jeff Green,1610612738,Boston Celtics,1,5,59,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141226,BOS,BKN
+Shot Chart Detail,0021400432,77,201145,Jeff Green,1610612738,Boston Celtics,1,3,58,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,179,42,1,1,20141226,BOS,BKN
+Shot Chart Detail,0021400432,86,201145,Jeff Green,1610612738,Boston Celtics,1,2,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-207,146,1,1,20141226,BOS,BKN
+Shot Chart Detail,0021400432,102,201145,Jeff Green,1610612738,Boston Celtics,1,1,6,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,1,197,1,1,20141226,BOS,BKN
+Shot Chart Detail,0021400432,259,201145,Jeff Green,1610612738,Boston Celtics,3,11,39,Made Shot,Driving Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-7,19,1,1,20141226,BOS,BKN
+Shot Chart Detail,0021400432,309,201145,Jeff Green,1610612738,Boston Celtics,3,6,31,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141226,BOS,BKN
+Shot Chart Detail,0021400432,348,201145,Jeff Green,1610612738,Boston Celtics,3,3,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,143,0,1,1,20141226,BOS,BKN
+Shot Chart Detail,0021400432,356,201145,Jeff Green,1610612738,Boston Celtics,3,1,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,102,178,1,1,20141226,BOS,BKN
+Shot Chart Detail,0021400432,430,201145,Jeff Green,1610612738,Boston Celtics,4,5,59,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,15,-78,131,1,1,20141226,BOS,BKN
+Shot Chart Detail,0021400445,4,201145,Jeff Green,1610612738,Boston Celtics,1,11,23,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,15,145,1,1,20141227,WAS,BOS
+Shot Chart Detail,0021400445,68,201145,Jeff Green,1610612738,Boston Celtics,1,6,1,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-133,22,1,1,20141227,WAS,BOS
+Shot Chart Detail,0021400445,82,201145,Jeff Green,1610612738,Boston Celtics,1,3,52,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-229,33,1,1,20141227,WAS,BOS
+Shot Chart Detail,0021400445,220,201145,Jeff Green,1610612738,Boston Celtics,2,2,52,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-105,74,1,1,20141227,WAS,BOS
+Shot Chart Detail,0021400445,263,201145,Jeff Green,1610612738,Boston Celtics,3,10,26,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,-2,1,1,20141227,WAS,BOS
+Shot Chart Detail,0021400445,380,201145,Jeff Green,1610612738,Boston Celtics,3,0,0,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-130,216,1,1,20141227,WAS,BOS
+Shot Chart Detail,0021400445,387,201145,Jeff Green,1610612738,Boston Celtics,4,11,39,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141227,WAS,BOS
+Shot Chart Detail,0021400475,363,201145,Jeff Green,1610612738,Boston Celtics,3,4,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-202,26,1,1,20141231,BOS,SAC
+Shot Chart Detail,0021400475,383,201145,Jeff Green,1610612738,Boston Celtics,3,2,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,-2,1,1,20141231,BOS,SAC
+Shot Chart Detail,0021400486,31,201145,Jeff Green,1610612738,Boston Celtics,1,8,21,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,77,56,1,1,20150102,BOS,DAL
+Shot Chart Detail,0021400486,63,201145,Jeff Green,1610612738,Boston Celtics,1,5,21,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-32,0,1,1,20150102,BOS,DAL
+Shot Chart Detail,0021400486,223,201145,Jeff Green,1610612738,Boston Celtics,2,3,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-213,143,1,1,20150102,BOS,DAL
+Shot Chart Detail,0021400486,255,201145,Jeff Green,1610612738,Boston Celtics,2,0,43,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-19,-3,1,1,20150102,BOS,DAL
+Shot Chart Detail,0021400486,281,201145,Jeff Green,1610612738,Boston Celtics,3,10,27,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-81,50,1,1,20150102,BOS,DAL
+Shot Chart Detail,0021400486,498,201145,Jeff Green,1610612738,Boston Celtics,4,3,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,116,184,1,1,20150102,BOS,DAL
+Shot Chart Detail,0021400486,536,201145,Jeff Green,1610612738,Boston Celtics,4,0,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,154,192,1,1,20150102,BOS,DAL
+Shot Chart Detail,0021400496,21,201145,Jeff Green,1610612738,Boston Celtics,1,9,50,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,48,159,1,1,20150103,CHI,BOS
+Shot Chart Detail,0021400496,42,201145,Jeff Green,1610612738,Boston Celtics,1,7,58,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,7,56,1,1,20150103,CHI,BOS
+Shot Chart Detail,0021400496,260,201145,Jeff Green,1610612738,Boston Celtics,2,2,55,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,40,127,1,1,20150103,CHI,BOS
+Shot Chart Detail,0021400496,335,201145,Jeff Green,1610612738,Boston Celtics,3,7,4,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,23,20,1,1,20150103,CHI,BOS
+Shot Chart Detail,0021400510,4,201145,Jeff Green,1610612738,Boston Celtics,1,11,36,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,29,6,1,1,20150105,BOS,CHA
+Shot Chart Detail,0021400510,9,201145,Jeff Green,1610612738,Boston Celtics,1,10,41,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-5,1,1,20150105,BOS,CHA
+Shot Chart Detail,0021400510,63,201145,Jeff Green,1610612738,Boston Celtics,1,5,32,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-67,58,1,1,20150105,BOS,CHA
+Shot Chart Detail,0021400527,39,201145,Jeff Green,1610612738,Boston Celtics,1,6,25,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-152,7,1,1,20150107,BKN,BOS
+Shot Chart Detail,0021400527,304,201145,Jeff Green,1610612738,Boston Celtics,3,5,6,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150107,BKN,BOS
+Shot Chart Detail,0021400527,495,201145,Jeff Green,1610612738,Boston Celtics,4,2,6,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-62,85,1,1,20150107,BKN,BOS
+Shot Chart Detail,0021400527,499,201145,Jeff Green,1610612738,Boston Celtics,4,1,24,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150107,BKN,BOS
+Shot Chart Detail,0021400576,322,201145,Jeff Green,1610612763,Memphis Grizzlies,3,3,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-123,36,1,1,20150114,BKN,MEM
+Shot Chart Detail,0021400576,346,201145,Jeff Green,1610612763,Memphis Grizzlies,3,0,44,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,0,1,1,20150114,BKN,MEM
+Shot Chart Detail,0021400576,370,201145,Jeff Green,1610612763,Memphis Grizzlies,4,10,39,Made Shot,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-57,52,1,1,20150114,BKN,MEM
+Shot Chart Detail,0021400588,307,201145,Jeff Green,1610612763,Memphis Grizzlies,3,7,33,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150116,ORL,MEM
+Shot Chart Detail,0021400588,356,201145,Jeff Green,1610612763,Memphis Grizzlies,3,3,52,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-10,22,1,1,20150116,ORL,MEM
+Shot Chart Detail,0021400588,413,201145,Jeff Green,1610612763,Memphis Grizzlies,4,11,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,10,20,1,1,20150116,ORL,MEM
+Shot Chart Detail,0021400588,415,201145,Jeff Green,1610612763,Memphis Grizzlies,4,10,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,15,17,1,1,20150116,ORL,MEM
+Shot Chart Detail,0021400588,471,201145,Jeff Green,1610612763,Memphis Grizzlies,4,6,11,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-11,64,1,1,20150116,ORL,MEM
+Shot Chart Detail,0021400588,483,201145,Jeff Green,1610612763,Memphis Grizzlies,4,4,29,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,106,34,1,1,20150116,ORL,MEM
+Shot Chart Detail,0021400588,517,201145,Jeff Green,1610612763,Memphis Grizzlies,4,1,9,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150116,ORL,MEM
+Shot Chart Detail,0021400588,520,201145,Jeff Green,1610612763,Memphis Grizzlies,4,0,42,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150116,ORL,MEM
+Shot Chart Detail,0021400604,97,201145,Jeff Green,1610612763,Memphis Grizzlies,2,11,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-82,246,1,1,20150117,MEM,POR
+Shot Chart Detail,0021400604,114,201145,Jeff Green,1610612763,Memphis Grizzlies,2,10,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,0,1,1,20150117,MEM,POR
+Shot Chart Detail,0021400604,145,201145,Jeff Green,1610612763,Memphis Grizzlies,2,8,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,86,236,1,1,20150117,MEM,POR
+Shot Chart Detail,0021400604,339,201145,Jeff Green,1610612763,Memphis Grizzlies,3,2,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,4,247,1,1,20150117,MEM,POR
+Shot Chart Detail,0021400604,371,201145,Jeff Green,1610612763,Memphis Grizzlies,4,11,24,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150117,MEM,POR
+Shot Chart Detail,0021400604,463,201145,Jeff Green,1610612763,Memphis Grizzlies,4,1,51,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,9,1,1,20150117,MEM,POR
+Shot Chart Detail,0021400616,109,201145,Jeff Green,1610612763,Memphis Grizzlies,1,0,56,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150119,MEM,DAL
+Shot Chart Detail,0021400616,127,201145,Jeff Green,1610612763,Memphis Grizzlies,2,11,40,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,1,71,1,1,20150119,MEM,DAL
+Shot Chart Detail,0021400616,134,201145,Jeff Green,1610612763,Memphis Grizzlies,2,10,35,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,42,60,1,1,20150119,MEM,DAL
+Shot Chart Detail,0021400616,165,201145,Jeff Green,1610612763,Memphis Grizzlies,2,7,58,Made Shot,Turnaround Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-60,33,1,1,20150119,MEM,DAL
+Shot Chart Detail,0021400616,182,201145,Jeff Green,1610612763,Memphis Grizzlies,2,6,12,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,65,-16,1,1,20150119,MEM,DAL
+Shot Chart Detail,0021400630,12,201145,Jeff Green,1610612763,Memphis Grizzlies,1,9,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,0,1,1,20150121,MEM,TOR
+Shot Chart Detail,0021400630,194,201145,Jeff Green,1610612763,Memphis Grizzlies,2,3,33,Made Shot,Turnaround Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,84,23,1,1,20150121,MEM,TOR
+Shot Chart Detail,0021400654,43,201145,Jeff Green,1610612763,Memphis Grizzlies,1,7,22,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,-2,1,1,20150124,MEM,PHI
+Shot Chart Detail,0021400654,56,201145,Jeff Green,1610612763,Memphis Grizzlies,1,6,14,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,-8,1,1,20150124,MEM,PHI
+Shot Chart Detail,0021400654,75,201145,Jeff Green,1610612763,Memphis Grizzlies,1,4,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-11,252,1,1,20150124,MEM,PHI
+Shot Chart Detail,0021400654,205,201145,Jeff Green,1610612763,Memphis Grizzlies,2,4,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,0,1,1,20150124,MEM,PHI
+Shot Chart Detail,0021400654,357,201145,Jeff Green,1610612763,Memphis Grizzlies,3,2,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,7,1,1,20150124,MEM,PHI
+Shot Chart Detail,0021400654,413,201145,Jeff Green,1610612763,Memphis Grizzlies,4,10,31,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,1,1,1,20150124,MEM,PHI
+Shot Chart Detail,0021400670,51,201145,Jeff Green,1610612763,Memphis Grizzlies,1,5,11,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,75,-8,1,1,20150126,MEM,ORL
+Shot Chart Detail,0021400670,98,201145,Jeff Green,1610612763,Memphis Grizzlies,1,0,20,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,23,209,116,1,1,20150126,MEM,ORL
+Shot Chart Detail,0021400670,271,201145,Jeff Green,1610612763,Memphis Grizzlies,3,10,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-144,208,1,1,20150126,MEM,ORL
+Shot Chart Detail,0021400670,344,201145,Jeff Green,1610612763,Memphis Grizzlies,3,4,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,1,1,1,20150126,MEM,ORL
+Shot Chart Detail,0021400678,24,201145,Jeff Green,1610612763,Memphis Grizzlies,1,8,24,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-52,41,1,1,20150127,DAL,MEM
+Shot Chart Detail,0021400678,34,201145,Jeff Green,1610612763,Memphis Grizzlies,1,6,38,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,50,1,1,20150127,DAL,MEM
+Shot Chart Detail,0021400678,277,201145,Jeff Green,1610612763,Memphis Grizzlies,3,7,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,239,93,1,1,20150127,DAL,MEM
+Shot Chart Detail,0021400693,36,201145,Jeff Green,1610612763,Memphis Grizzlies,1,5,59,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-64,36,1,1,20150129,MEM,DEN
+Shot Chart Detail,0021400693,60,201145,Jeff Green,1610612763,Memphis Grizzlies,1,3,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-122,220,1,1,20150129,MEM,DEN
+Shot Chart Detail,0021400693,300,201145,Jeff Green,1610612763,Memphis Grizzlies,3,6,12,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,-10,1,1,20150129,MEM,DEN
+Shot Chart Detail,0021400693,335,201145,Jeff Green,1610612763,Memphis Grizzlies,3,3,15,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,133,64,1,1,20150129,MEM,DEN
+Shot Chart Detail,0021400710,32,201145,Jeff Green,1610612763,Memphis Grizzlies,1,6,43,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,0,1,1,20150131,MEM,OKC
+Shot Chart Detail,0021400710,173,201145,Jeff Green,1610612763,Memphis Grizzlies,2,5,12,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150131,MEM,OKC
+Shot Chart Detail,0021400710,190,201145,Jeff Green,1610612763,Memphis Grizzlies,2,3,54,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,23,112,1,1,20150131,MEM,OKC
+Shot Chart Detail,0021400710,291,201145,Jeff Green,1610612763,Memphis Grizzlies,3,7,54,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,9,1,1,20150131,MEM,OKC
+Shot Chart Detail,0021400725,35,201145,Jeff Green,1610612763,Memphis Grizzlies,1,6,41,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-7,39,1,1,20150202,PHX,MEM
+Shot Chart Detail,0021400725,229,201145,Jeff Green,1610612763,Memphis Grizzlies,2,1,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-196,154,1,1,20150202,PHX,MEM
+Shot Chart Detail,0021400725,487,201145,Jeff Green,1610612763,Memphis Grizzlies,4,3,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-158,-22,1,1,20150202,PHX,MEM
+Shot Chart Detail,0021400725,530,201145,Jeff Green,1610612763,Memphis Grizzlies,4,0,4,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,42,34,1,1,20150202,PHX,MEM
+Shot Chart Detail,0021400740,33,201145,Jeff Green,1610612763,Memphis Grizzlies,1,7,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,141,219,1,1,20150204,UTA,MEM
+Shot Chart Detail,0021400740,45,201145,Jeff Green,1610612763,Memphis Grizzlies,1,4,54,Made Shot,Driving Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150204,UTA,MEM
+Shot Chart Detail,0021400740,55,201145,Jeff Green,1610612763,Memphis Grizzlies,1,3,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,1,1,1,20150204,UTA,MEM
+Shot Chart Detail,0021400740,257,201145,Jeff Green,1610612763,Memphis Grizzlies,3,11,9,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150204,UTA,MEM
+Shot Chart Detail,0021400754,11,201145,Jeff Green,1610612763,Memphis Grizzlies,1,10,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,3,1,1,20150206,MIN,MEM
+Shot Chart Detail,0021400754,15,201145,Jeff Green,1610612763,Memphis Grizzlies,1,9,36,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150206,MIN,MEM
+Shot Chart Detail,0021400754,182,201145,Jeff Green,1610612763,Memphis Grizzlies,2,5,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,196,36,1,1,20150206,MIN,MEM
+Shot Chart Detail,0021400754,217,201145,Jeff Green,1610612763,Memphis Grizzlies,2,1,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,7,1,1,20150206,MIN,MEM
+Shot Chart Detail,0021400754,440,201145,Jeff Green,1610612763,Memphis Grizzlies,4,2,2,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,67,94,1,1,20150206,MIN,MEM
+Shot Chart Detail,0021400767,271,201145,Jeff Green,1610612763,Memphis Grizzlies,3,8,26,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150208,MEM,ATL
+Shot Chart Detail,0021400767,285,201145,Jeff Green,1610612763,Memphis Grizzlies,3,7,8,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,1,1,1,20150208,MEM,ATL
+Shot Chart Detail,0021400767,450,201145,Jeff Green,1610612763,Memphis Grizzlies,4,4,10,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-231,39,1,1,20150208,MEM,ATL
+Shot Chart Detail,0021400786,17,201145,Jeff Green,1610612763,Memphis Grizzlies,1,9,3,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150210,MEM,BKN
+Shot Chart Detail,0021400786,308,201145,Jeff Green,1610612763,Memphis Grizzlies,3,5,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-109,252,1,1,20150210,MEM,BKN
+Shot Chart Detail,0021400786,313,201145,Jeff Green,1610612763,Memphis Grizzlies,3,5,13,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150210,MEM,BKN
+Shot Chart Detail,0021400795,46,201145,Jeff Green,1610612763,Memphis Grizzlies,1,6,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,6,1,1,20150211,OKC,MEM
+Shot Chart Detail,0021400795,324,201145,Jeff Green,1610612763,Memphis Grizzlies,3,8,29,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,9,1,1,20150211,OKC,MEM
+Shot Chart Detail,0021400795,360,201145,Jeff Green,1610612763,Memphis Grizzlies,3,5,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,196,146,1,1,20150211,OKC,MEM
+Shot Chart Detail,0021400795,412,201145,Jeff Green,1610612763,Memphis Grizzlies,3,1,5,Made Shot,Driving Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,37,9,1,1,20150211,OKC,MEM
+Shot Chart Detail,0021400828,3,201145,Jeff Green,1610612763,Memphis Grizzlies,1,11,18,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,-2,1,1,20150222,POR,MEM
+Shot Chart Detail,0021400828,44,201145,Jeff Green,1610612763,Memphis Grizzlies,1,6,15,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,135,11,1,1,20150222,POR,MEM
+Shot Chart Detail,0021400828,210,201145,Jeff Green,1610612763,Memphis Grizzlies,2,2,4,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,-6,1,1,20150222,POR,MEM
+Shot Chart Detail,0021400828,235,201145,Jeff Green,1610612763,Memphis Grizzlies,3,11,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-24,4,1,1,20150222,POR,MEM
+Shot Chart Detail,0021400828,243,201145,Jeff Green,1610612763,Memphis Grizzlies,3,10,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-19,0,1,1,20150222,POR,MEM
+Shot Chart Detail,0021400828,258,201145,Jeff Green,1610612763,Memphis Grizzlies,3,8,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,1,1,1,20150222,POR,MEM
+Shot Chart Detail,0021400837,27,201145,Jeff Green,1610612763,Memphis Grizzlies,1,9,6,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,20,1,1,20150223,LAC,MEM
+Shot Chart Detail,0021400837,242,201145,Jeff Green,1610612763,Memphis Grizzlies,3,10,17,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,6,1,1,20150223,LAC,MEM
+Shot Chart Detail,0021400837,244,201145,Jeff Green,1610612763,Memphis Grizzlies,3,9,40,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,-5,1,1,20150223,LAC,MEM
+Shot Chart Detail,0021400837,280,201145,Jeff Green,1610612763,Memphis Grizzlies,3,5,23,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,-13,1,1,20150223,LAC,MEM
+Shot Chart Detail,0021400837,295,201145,Jeff Green,1610612763,Memphis Grizzlies,3,3,36,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,22,1,1,20150223,LAC,MEM
+Shot Chart Detail,0021400852,39,201145,Jeff Green,1610612763,Memphis Grizzlies,1,7,30,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,32,12,1,1,20150225,SAC,MEM
+Shot Chart Detail,0021400852,264,201145,Jeff Green,1610612763,Memphis Grizzlies,2,0,42,Made Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-38,15,1,1,20150225,SAC,MEM
+Shot Chart Detail,0021400852,317,201145,Jeff Green,1610612763,Memphis Grizzlies,3,8,2,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-23,25,1,1,20150225,SAC,MEM
+Shot Chart Detail,0021400852,334,201145,Jeff Green,1610612763,Memphis Grizzlies,3,6,52,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,141,66,1,1,20150225,SAC,MEM
+Shot Chart Detail,0021400873,211,201145,Jeff Green,1610612763,Memphis Grizzlies,2,1,44,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-54,53,1,1,20150228,MIN,MEM
+Shot Chart Detail,0021400873,262,201145,Jeff Green,1610612763,Memphis Grizzlies,3,9,2,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,9,25,1,1,20150228,MIN,MEM
+Shot Chart Detail,0021400873,306,201145,Jeff Green,1610612763,Memphis Grizzlies,3,5,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-207,126,1,1,20150228,MIN,MEM
+Shot Chart Detail,0021400894,177,201145,Jeff Green,1610612763,Memphis Grizzlies,2,6,14,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-57,67,1,1,20150303,MEM,UTA
+Shot Chart Detail,0021400894,239,201145,Jeff Green,1610612763,Memphis Grizzlies,2,0,12,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,-2,1,1,20150303,MEM,UTA
+Shot Chart Detail,0021400894,268,201145,Jeff Green,1610612763,Memphis Grizzlies,3,8,47,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,0,48,1,1,20150303,MEM,UTA
+Shot Chart Detail,0021400901,6,201145,Jeff Green,1610612763,Memphis Grizzlies,1,10,48,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150304,HOU,MEM
+Shot Chart Detail,0021400901,9,201145,Jeff Green,1610612763,Memphis Grizzlies,1,10,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-98,233,1,1,20150304,HOU,MEM
+Shot Chart Detail,0021400901,56,201145,Jeff Green,1610612763,Memphis Grizzlies,1,4,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,152,154,1,1,20150304,HOU,MEM
+Shot Chart Detail,0021400901,172,201145,Jeff Green,1610612763,Memphis Grizzlies,2,6,59,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,36,-2,1,1,20150304,HOU,MEM
+Shot Chart Detail,0021400901,401,201145,Jeff Green,1610612763,Memphis Grizzlies,4,5,31,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,239,6,1,1,20150304,HOU,MEM
+Shot Chart Detail,0021400918,19,201145,Jeff Green,1610612763,Memphis Grizzlies,1,9,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-71,173,1,1,20150306,MEM,LAL
+Shot Chart Detail,0021400918,338,201145,Jeff Green,1610612763,Memphis Grizzlies,4,9,44,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,121,3,1,1,20150306,MEM,LAL
+Shot Chart Detail,0021400918,349,201145,Jeff Green,1610612763,Memphis Grizzlies,4,8,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,7,214,1,1,20150306,MEM,LAL
+Shot Chart Detail,0021400923,20,201145,Jeff Green,1610612763,Memphis Grizzlies,1,8,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,20,25,1,1,20150307,NOP,MEM
+Shot Chart Detail,0021400923,25,201145,Jeff Green,1610612763,Memphis Grizzlies,1,8,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-35,206,1,1,20150307,NOP,MEM
+Shot Chart Detail,0021400923,48,201145,Jeff Green,1610612763,Memphis Grizzlies,1,5,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,12,1,1,20150307,NOP,MEM
+Shot Chart Detail,0021400923,156,201145,Jeff Green,1610612763,Memphis Grizzlies,2,10,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-8,25,1,1,20150307,NOP,MEM
+Shot Chart Detail,0021400923,211,201145,Jeff Green,1610612763,Memphis Grizzlies,2,6,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,9,1,1,20150307,NOP,MEM
+Shot Chart Detail,0021400923,213,201145,Jeff Green,1610612763,Memphis Grizzlies,2,5,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,3,1,1,20150307,NOP,MEM
+Shot Chart Detail,0021400923,414,201145,Jeff Green,1610612763,Memphis Grizzlies,4,10,54,Made Shot,Running Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,15,15,1,1,20150307,NOP,MEM
+Shot Chart Detail,0021400923,430,201145,Jeff Green,1610612763,Memphis Grizzlies,4,8,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,32,14,1,1,20150307,NOP,MEM
+Shot Chart Detail,0021400941,5,201145,Jeff Green,1610612763,Memphis Grizzlies,1,11,31,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,26,15,1,1,20150309,CHI,MEM
+Shot Chart Detail,0021400941,16,201145,Jeff Green,1610612763,Memphis Grizzlies,1,10,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-153,200,1,1,20150309,CHI,MEM
+Shot Chart Detail,0021400941,154,201145,Jeff Green,1610612763,Memphis Grizzlies,2,8,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,18,26,1,1,20150309,CHI,MEM
+Shot Chart Detail,0021400941,272,201145,Jeff Green,1610612763,Memphis Grizzlies,3,7,22,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,-2,1,1,20150309,CHI,MEM
+Shot Chart Detail,0021400941,282,201145,Jeff Green,1610612763,Memphis Grizzlies,3,6,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,72,194,1,1,20150309,CHI,MEM
+Shot Chart Detail,0021400941,364,201145,Jeff Green,1610612763,Memphis Grizzlies,4,10,53,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-10,19,1,1,20150309,CHI,MEM
+Shot Chart Detail,0021400941,433,201145,Jeff Green,1610612763,Memphis Grizzlies,4,4,23,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,0,1,1,20150309,CHI,MEM
+Shot Chart Detail,0021400954,164,201145,Jeff Green,1610612763,Memphis Grizzlies,2,7,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,1,263,1,1,20150311,BOS,MEM
+Shot Chart Detail,0021400954,291,201145,Jeff Green,1610612763,Memphis Grizzlies,3,5,22,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-37,56,1,1,20150311,BOS,MEM
+Shot Chart Detail,0021400954,398,201145,Jeff Green,1610612763,Memphis Grizzlies,4,8,57,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-59,173,1,1,20150311,BOS,MEM
+Shot Chart Detail,0021400954,515,201145,Jeff Green,1610612763,Memphis Grizzlies,4,0,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,-3,1,1,20150311,BOS,MEM
+Shot Chart Detail,0021400963,38,201145,Jeff Green,1610612763,Memphis Grizzlies,1,8,10,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,177,198,1,1,20150312,WAS,MEM
+Shot Chart Detail,0021400963,47,201145,Jeff Green,1610612763,Memphis Grizzlies,1,6,46,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,39,28,1,1,20150312,WAS,MEM
+Shot Chart Detail,0021400963,287,201145,Jeff Green,1610612763,Memphis Grizzlies,3,10,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-41,209,1,1,20150312,WAS,MEM
+Shot Chart Detail,0021400979,4,201145,Jeff Green,1610612763,Memphis Grizzlies,1,11,20,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,14,1,1,20150314,MEM,MIL
+Shot Chart Detail,0021400979,158,201145,Jeff Green,1610612763,Memphis Grizzlies,2,7,42,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,20,1,1,20150314,MEM,MIL
+Shot Chart Detail,0021400979,212,201145,Jeff Green,1610612763,Memphis Grizzlies,2,3,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,4,1,1,20150314,MEM,MIL
+Shot Chart Detail,0021400979,403,201145,Jeff Green,1610612763,Memphis Grizzlies,4,8,23,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,226,-25,1,1,20150314,MEM,MIL
+Shot Chart Detail,0021400979,416,201145,Jeff Green,1610612763,Memphis Grizzlies,4,7,25,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,1,1,1,20150314,MEM,MIL
+Shot Chart Detail,0021400993,165,201145,Jeff Green,1610612763,Memphis Grizzlies,2,10,36,Made Shot,Running Bank shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-84,25,1,1,20150316,MEM,DEN
+Shot Chart Detail,0021400993,175,201145,Jeff Green,1610612763,Memphis Grizzlies,2,9,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,147,7,1,1,20150316,MEM,DEN
+Shot Chart Detail,0021401000,36,201145,Jeff Green,1610612763,Memphis Grizzlies,1,7,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-95,244,1,1,20150317,DET,MEM
+Shot Chart Detail,0021401000,130,201145,Jeff Green,1610612763,Memphis Grizzlies,2,8,55,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150317,DET,MEM
+Shot Chart Detail,0021401000,262,201145,Jeff Green,1610612763,Memphis Grizzlies,3,10,19,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,51,11,1,1,20150317,DET,MEM
+Shot Chart Detail,0021401000,269,201145,Jeff Green,1610612763,Memphis Grizzlies,3,8,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-150,205,1,1,20150317,DET,MEM
+Shot Chart Detail,0021401000,372,201145,Jeff Green,1610612763,Memphis Grizzlies,4,9,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,40,208,1,1,20150317,DET,MEM
+Shot Chart Detail,0021401000,387,201145,Jeff Green,1610612763,Memphis Grizzlies,4,8,15,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,19,1,1,20150317,DET,MEM
+Shot Chart Detail,0021401000,422,201145,Jeff Green,1610612763,Memphis Grizzlies,4,5,9,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,226,60,1,1,20150317,DET,MEM
+Shot Chart Detail,0021401027,114,201145,Jeff Green,1610612763,Memphis Grizzlies,1,0,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-122,214,1,1,20150320,DAL,MEM
+Shot Chart Detail,0021401027,120,201145,Jeff Green,1610612763,Memphis Grizzlies,2,11,12,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-123,17,1,1,20150320,DAL,MEM
+Shot Chart Detail,0021401027,419,201145,Jeff Green,1610612763,Memphis Grizzlies,4,9,29,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,12,62,107,1,1,20150320,DAL,MEM
+Shot Chart Detail,0021401027,503,201145,Jeff Green,1610612763,Memphis Grizzlies,4,3,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-4,246,1,1,20150320,DAL,MEM
+Shot Chart Detail,0021401027,542,201145,Jeff Green,1610612763,Memphis Grizzlies,4,1,56,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150320,DAL,MEM
+Shot Chart Detail,0021401035,55,201145,Jeff Green,1610612763,Memphis Grizzlies,1,6,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-120,108,1,1,20150321,MEM,POR
+Shot Chart Detail,0021401035,188,201145,Jeff Green,1610612763,Memphis Grizzlies,2,4,12,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,-2,1,1,20150321,MEM,POR
+Shot Chart Detail,0021401035,250,201145,Jeff Green,1610612763,Memphis Grizzlies,3,10,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,23,113,209,1,1,20150321,MEM,POR
+Shot Chart Detail,0021401035,278,201145,Jeff Green,1610612763,Memphis Grizzlies,3,7,33,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,3,1,1,20150321,MEM,POR
+Shot Chart Detail,0021401035,306,201145,Jeff Green,1610612763,Memphis Grizzlies,3,5,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,136,208,1,1,20150321,MEM,POR
+Shot Chart Detail,0021401035,313,201145,Jeff Green,1610612763,Memphis Grizzlies,3,4,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-5,255,1,1,20150321,MEM,POR
+Shot Chart Detail,0021401035,404,201145,Jeff Green,1610612763,Memphis Grizzlies,4,8,27,Made Shot,Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,88,11,1,1,20150321,MEM,POR
+Shot Chart Detail,0021401035,456,201145,Jeff Green,1610612763,Memphis Grizzlies,4,1,41,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,4,1,1,20150321,MEM,POR
+Shot Chart Detail,0021401050,123,201145,Jeff Green,1610612763,Memphis Grizzlies,2,10,52,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,11,1,1,20150323,NYK,MEM
+Shot Chart Detail,0021401050,142,201145,Jeff Green,1610612763,Memphis Grizzlies,2,8,51,Made Shot,Driving Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150323,NYK,MEM
+Shot Chart Detail,0021401050,275,201145,Jeff Green,1610612763,Memphis Grizzlies,3,8,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-163,47,1,1,20150323,NYK,MEM
+Shot Chart Detail,0021401050,450,201145,Jeff Green,1610612763,Memphis Grizzlies,4,2,34,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,17,1,1,20150323,NYK,MEM
+Shot Chart Detail,0021401066,81,201145,Jeff Green,1610612763,Memphis Grizzlies,1,3,50,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,15,127,1,1,20150325,MEM,CLE
+Shot Chart Detail,0021401066,104,201145,Jeff Green,1610612763,Memphis Grizzlies,1,0,54,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150325,MEM,CLE
+Shot Chart Detail,0021401066,199,201145,Jeff Green,1610612763,Memphis Grizzlies,2,4,4,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,1,1,1,20150325,MEM,CLE
+Shot Chart Detail,0021401066,364,201145,Jeff Green,1610612763,Memphis Grizzlies,3,0,4,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150325,MEM,CLE
+Shot Chart Detail,0021401082,82,201145,Jeff Green,1610612763,Memphis Grizzlies,1,2,40,Made Shot,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,31,55,1,1,20150327,MEM,GSW
+Shot Chart Detail,0021401082,150,201145,Jeff Green,1610612763,Memphis Grizzlies,2,8,43,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-68,44,1,1,20150327,MEM,GSW
+Shot Chart Detail,0021401082,167,201145,Jeff Green,1610612763,Memphis Grizzlies,2,7,33,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-45,22,1,1,20150327,MEM,GSW
+Shot Chart Detail,0021401082,231,201145,Jeff Green,1610612763,Memphis Grizzlies,2,1,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-100,244,1,1,20150327,MEM,GSW
+Shot Chart Detail,0021401082,338,201145,Jeff Green,1610612763,Memphis Grizzlies,3,2,42,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150327,MEM,GSW
+Shot Chart Detail,0021401082,397,201145,Jeff Green,1610612763,Memphis Grizzlies,4,7,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,4,1,1,20150327,MEM,GSW
+Shot Chart Detail,0021401082,451,201145,Jeff Green,1610612763,Memphis Grizzlies,4,3,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-37,246,1,1,20150327,MEM,GSW
+Shot Chart Detail,0021401098,101,201145,Jeff Green,1610612763,Memphis Grizzlies,1,1,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,22,26,225,1,1,20150329,SAS,MEM
+Shot Chart Detail,0021401098,117,201145,Jeff Green,1610612763,Memphis Grizzlies,2,11,36,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,14,14,1,1,20150329,SAS,MEM
+Shot Chart Detail,0021401098,120,201145,Jeff Green,1610612763,Memphis Grizzlies,2,11,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,9,1,1,20150329,SAS,MEM
+Shot Chart Detail,0021401098,155,201145,Jeff Green,1610612763,Memphis Grizzlies,2,6,58,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,77,9,1,1,20150329,SAS,MEM
+Shot Chart Detail,0021401098,226,201145,Jeff Green,1610612763,Memphis Grizzlies,2,0,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-134,209,1,1,20150329,SAS,MEM
+Shot Chart Detail,0021401098,335,201145,Jeff Green,1610612763,Memphis Grizzlies,3,1,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,22,201,93,1,1,20150329,SAS,MEM
+Shot Chart Detail,0021401098,358,201145,Jeff Green,1610612763,Memphis Grizzlies,4,10,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,177,179,1,1,20150329,SAS,MEM
+Shot Chart Detail,0021401098,380,201145,Jeff Green,1610612763,Memphis Grizzlies,4,8,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,-3,1,1,20150329,SAS,MEM
+Shot Chart Detail,0021401105,8,201145,Jeff Green,1610612763,Memphis Grizzlies,1,11,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,1,1,1,20150330,MEM,SAC
+Shot Chart Detail,0021401105,25,201145,Jeff Green,1610612763,Memphis Grizzlies,1,9,28,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150330,MEM,SAC
+Shot Chart Detail,0021401105,165,201145,Jeff Green,1610612763,Memphis Grizzlies,2,7,24,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-224,7,1,1,20150330,MEM,SAC
+Shot Chart Detail,0021401105,197,201145,Jeff Green,1610612763,Memphis Grizzlies,2,3,49,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,1,1,1,20150330,MEM,SAC
+Shot Chart Detail,0021401105,344,201145,Jeff Green,1610612763,Memphis Grizzlies,3,2,26,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150330,MEM,SAC
+Shot Chart Detail,0021401105,434,201145,Jeff Green,1610612763,Memphis Grizzlies,4,6,16,Made Shot,Step Back Jump shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,17,1,1,20150330,MEM,SAC
+Shot Chart Detail,0021401132,168,201145,Jeff Green,1610612763,Memphis Grizzlies,2,9,12,Made Shot,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-23,44,1,1,20150403,MEM,OKC
+Shot Chart Detail,0021401132,215,201145,Jeff Green,1610612763,Memphis Grizzlies,2,5,56,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-231,66,1,1,20150403,MEM,OKC
+Shot Chart Detail,0021401132,245,201145,Jeff Green,1610612763,Memphis Grizzlies,2,3,40,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150403,MEM,OKC
+Shot Chart Detail,0021401132,251,201145,Jeff Green,1610612763,Memphis Grizzlies,2,3,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-144,213,1,1,20150403,MEM,OKC
+Shot Chart Detail,0021401132,259,201145,Jeff Green,1610612763,Memphis Grizzlies,2,2,29,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150403,MEM,OKC
+Shot Chart Detail,0021401132,382,201145,Jeff Green,1610612763,Memphis Grizzlies,3,1,0,Made Shot,Pullup Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,65,33,1,1,20150403,MEM,OKC
+Shot Chart Detail,0021401132,488,201145,Jeff Green,1610612763,Memphis Grizzlies,4,3,14,Made Shot,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-2,96,1,1,20150403,MEM,OKC
+Shot Chart Detail,0021401141,135,201145,Jeff Green,1610612763,Memphis Grizzlies,2,9,25,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,19,1,1,20150404,MEM,WAS
+Shot Chart Detail,0021401141,143,201145,Jeff Green,1610612763,Memphis Grizzlies,2,8,7,Made Shot,Driving Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150404,MEM,WAS
+Shot Chart Detail,0021401141,225,201145,Jeff Green,1610612763,Memphis Grizzlies,3,10,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,1,1,1,20150404,MEM,WAS
+Shot Chart Detail,0021401166,21,201145,Jeff Green,1610612763,Memphis Grizzlies,1,8,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-98,104,1,1,20150408,MEM,NOP
+Shot Chart Detail,0021401166,62,201145,Jeff Green,1610612763,Memphis Grizzlies,1,4,33,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,6,47,1,1,20150408,MEM,NOP
+Shot Chart Detail,0021401166,245,201145,Jeff Green,1610612763,Memphis Grizzlies,3,10,19,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,-2,1,1,20150408,MEM,NOP
+Shot Chart Detail,0021401166,253,201145,Jeff Green,1610612763,Memphis Grizzlies,3,9,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,0,1,1,20150408,MEM,NOP
+Shot Chart Detail,0021401166,276,201145,Jeff Green,1610612763,Memphis Grizzlies,3,5,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,0,1,1,20150408,MEM,NOP
+Shot Chart Detail,0021401166,283,201145,Jeff Green,1610612763,Memphis Grizzlies,3,4,9,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150408,MEM,NOP
+Shot Chart Detail,0021401166,340,201145,Jeff Green,1610612763,Memphis Grizzlies,4,10,59,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,69,53,1,1,20150408,MEM,NOP
+Shot Chart Detail,0021401185,11,201145,Jeff Green,1610612763,Memphis Grizzlies,1,10,12,Made Shot,Jump Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,116,-11,1,1,20150410,UTA,MEM
+Shot Chart Detail,0021401185,119,201145,Jeff Green,1610612763,Memphis Grizzlies,2,11,5,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150410,UTA,MEM
+Shot Chart Detail,0021401185,143,201145,Jeff Green,1610612763,Memphis Grizzlies,2,8,44,Made Shot,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150410,UTA,MEM
+Shot Chart Detail,0021401185,152,201145,Jeff Green,1610612763,Memphis Grizzlies,2,7,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,10,19,1,1,20150410,UTA,MEM
+Shot Chart Detail,0021401185,275,201145,Jeff Green,1610612763,Memphis Grizzlies,3,8,18,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-27,0,1,1,20150410,UTA,MEM
+Shot Chart Detail,0021401190,4,201145,Jeff Green,1610612763,Memphis Grizzlies,1,11,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,3,1,1,20150411,LAC,MEM
+Shot Chart Detail,0021401190,170,201145,Jeff Green,1610612763,Memphis Grizzlies,2,7,42,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,236,17,1,1,20150411,LAC,MEM
+Shot Chart Detail,0021401190,204,201145,Jeff Green,1610612763,Memphis Grizzlies,2,5,12,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,11,1,1,20150411,LAC,MEM
+Shot Chart Detail,0021401190,463,201145,Jeff Green,1610612763,Memphis Grizzlies,4,6,19,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,24,53,1,1,20150411,LAC,MEM
+Shot Chart Detail,0021401190,480,201145,Jeff Green,1610612763,Memphis Grizzlies,4,4,50,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,3,1,1,20150411,LAC,MEM
+Shot Chart Detail,0021401212,10,201145,Jeff Green,1610612763,Memphis Grizzlies,1,10,19,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-139,113,1,1,20150413,GSW,MEM
+Shot Chart Detail,0021401212,212,201145,Jeff Green,1610612763,Memphis Grizzlies,2,1,48,Made Shot,Running Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-11,37,1,1,20150413,GSW,MEM
+Shot Chart Detail,0021401220,45,201145,Jeff Green,1610612763,Memphis Grizzlies,1,5,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,7,1,1,20150415,MEM,IND
+Shot Chart Detail,0021401220,144,201145,Jeff Green,1610612763,Memphis Grizzlies,2,7,25,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,-3,1,1,20150415,MEM,IND
+Shot Chart Detail,0021401220,157,201145,Jeff Green,1610612763,Memphis Grizzlies,2,6,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-95,242,1,1,20150415,MEM,IND
+Shot Chart Detail,0021401220,371,201145,Jeff Green,1610612763,Memphis Grizzlies,4,9,18,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,64,15,1,1,20150415,MEM,IND
+Shot Chart Detail,0021401220,431,201145,Jeff Green,1610612763,Memphis Grizzlies,4,4,45,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,121,108,1,1,20150415,MEM,IND
+Shot Chart Detail,0021401220,441,201145,Jeff Green,1610612763,Memphis Grizzlies,4,2,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,0,1,1,20150415,MEM,IND

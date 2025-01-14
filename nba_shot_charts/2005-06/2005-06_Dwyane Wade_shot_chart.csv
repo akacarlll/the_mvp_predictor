@@ -1,0 +1,700 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0020500010,70,2548,Dwyane Wade,1610612748,Miami Heat,1,5,31,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-43,18,1,1,20051102,MEM,MIA
+Shot Chart Detail,0020500010,75,2548,Dwyane Wade,1610612748,Miami Heat,1,5,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051102,MEM,MIA
+Shot Chart Detail,0020500010,95,2548,Dwyane Wade,1610612748,Miami Heat,1,3,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-97,174,1,1,20051102,MEM,MIA
+Shot Chart Detail,0020500010,145,2548,Dwyane Wade,1610612748,Miami Heat,2,10,9,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051102,MEM,MIA
+Shot Chart Detail,0020500010,224,2548,Dwyane Wade,1610612748,Miami Heat,2,3,36,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051102,MEM,MIA
+Shot Chart Detail,0020500010,383,2548,Dwyane Wade,1610612748,Miami Heat,4,10,53,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051102,MEM,MIA
+Shot Chart Detail,0020500010,388,2548,Dwyane Wade,1610612748,Miami Heat,4,9,49,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,69,122,1,1,20051102,MEM,MIA
+Shot Chart Detail,0020500010,407,2548,Dwyane Wade,1610612748,Miami Heat,4,8,18,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,13,1,1,20051102,MEM,MIA
+Shot Chart Detail,0020500010,422,2548,Dwyane Wade,1610612748,Miami Heat,4,7,1,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051102,MEM,MIA
+Shot Chart Detail,0020500018,23,2548,Dwyane Wade,1610612748,Miami Heat,1,8,24,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051103,MIA,IND
+Shot Chart Detail,0020500018,91,2548,Dwyane Wade,1610612748,Miami Heat,1,1,37,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051103,MIA,IND
+Shot Chart Detail,0020500018,181,2548,Dwyane Wade,1610612748,Miami Heat,2,5,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-102,137,1,1,20051103,MIA,IND
+Shot Chart Detail,0020500018,214,2548,Dwyane Wade,1610612748,Miami Heat,2,3,28,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,57,82,1,1,20051103,MIA,IND
+Shot Chart Detail,0020500018,283,2548,Dwyane Wade,1610612748,Miami Heat,3,10,48,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-131,132,1,1,20051103,MIA,IND
+Shot Chart Detail,0020500018,301,2548,Dwyane Wade,1610612748,Miami Heat,3,8,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,5,189,1,1,20051103,MIA,IND
+Shot Chart Detail,0020500018,311,2548,Dwyane Wade,1610612748,Miami Heat,3,7,20,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051103,MIA,IND
+Shot Chart Detail,0020500018,449,2548,Dwyane Wade,1610612748,Miami Heat,4,8,17,Made Shot,Driving Finger Roll Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051103,MIA,IND
+Shot Chart Detail,0020500018,511,2548,Dwyane Wade,1610612748,Miami Heat,4,2,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-153,132,1,1,20051103,MIA,IND
+Shot Chart Detail,0020500018,524,2548,Dwyane Wade,1610612748,Miami Heat,4,1,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-13,250,1,1,20051103,MIA,IND
+Shot Chart Detail,0020500037,9,2548,Dwyane Wade,1610612748,Miami Heat,1,10,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051105,MIL,MIA
+Shot Chart Detail,0020500037,56,2548,Dwyane Wade,1610612748,Miami Heat,1,6,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051105,MIL,MIA
+Shot Chart Detail,0020500037,73,2548,Dwyane Wade,1610612748,Miami Heat,1,4,21,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-67,56,1,1,20051105,MIL,MIA
+Shot Chart Detail,0020500037,100,2548,Dwyane Wade,1610612748,Miami Heat,1,1,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051105,MIL,MIA
+Shot Chart Detail,0020500037,228,2548,Dwyane Wade,1610612748,Miami Heat,3,7,34,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051105,MIL,MIA
+Shot Chart Detail,0020500037,352,2548,Dwyane Wade,1610612748,Miami Heat,4,5,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,100,148,1,1,20051105,MIL,MIA
+Shot Chart Detail,0020500048,35,2548,Dwyane Wade,1610612748,Miami Heat,1,6,20,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,15,-74,137,1,1,20051107,MIA,NJN
+Shot Chart Detail,0020500048,38,2548,Dwyane Wade,1610612748,Miami Heat,1,5,48,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051107,MIA,NJN
+Shot Chart Detail,0020500048,49,2548,Dwyane Wade,1610612748,Miami Heat,1,3,55,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,11,146,1,1,20051107,MIA,NJN
+Shot Chart Detail,0020500048,211,2548,Dwyane Wade,1610612748,Miami Heat,3,11,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051107,MIA,NJN
+Shot Chart Detail,0020500048,233,2548,Dwyane Wade,1610612748,Miami Heat,3,9,5,Made Shot,Turnaround Finger Roll Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,23,45,1,1,20051107,MIA,NJN
+Shot Chart Detail,0020500048,294,2548,Dwyane Wade,1610612748,Miami Heat,3,3,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-87,130,1,1,20051107,MIA,NJN
+Shot Chart Detail,0020500048,300,2548,Dwyane Wade,1610612748,Miami Heat,3,1,53,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,33,89,1,1,20051107,MIA,NJN
+Shot Chart Detail,0020500048,385,2548,Dwyane Wade,1610612748,Miami Heat,4,6,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051107,MIA,NJN
+Shot Chart Detail,0020500062,4,2548,Dwyane Wade,1610612748,Miami Heat,1,11,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,167,13,1,1,20051109,IND,MIA
+Shot Chart Detail,0020500062,54,2548,Dwyane Wade,1610612748,Miami Heat,1,5,18,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-23,48,1,1,20051109,IND,MIA
+Shot Chart Detail,0020500062,79,2548,Dwyane Wade,1610612748,Miami Heat,1,3,17,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-2,33,1,1,20051109,IND,MIA
+Shot Chart Detail,0020500062,175,2548,Dwyane Wade,1610612748,Miami Heat,2,7,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-163,22,1,1,20051109,IND,MIA
+Shot Chart Detail,0020500062,183,2548,Dwyane Wade,1610612748,Miami Heat,2,6,46,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-10,30,1,1,20051109,IND,MIA
+Shot Chart Detail,0020500062,282,2548,Dwyane Wade,1610612748,Miami Heat,3,9,5,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,15,1,1,20051109,IND,MIA
+Shot Chart Detail,0020500062,285,2548,Dwyane Wade,1610612748,Miami Heat,3,8,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,169,58,1,1,20051109,IND,MIA
+Shot Chart Detail,0020500062,300,2548,Dwyane Wade,1610612748,Miami Heat,3,7,33,Made Shot,Driving Finger Roll Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-5,31,1,1,20051109,IND,MIA
+Shot Chart Detail,0020500062,467,2548,Dwyane Wade,1610612748,Miami Heat,4,3,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-194,22,1,1,20051109,IND,MIA
+Shot Chart Detail,0020500062,479,2548,Dwyane Wade,1610612748,Miami Heat,4,2,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,100,143,1,1,20051109,IND,MIA
+Shot Chart Detail,0020500062,492,2548,Dwyane Wade,1610612748,Miami Heat,4,1,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-192,46,1,1,20051109,IND,MIA
+Shot Chart Detail,0020500069,108,2548,Dwyane Wade,1610612748,Miami Heat,1,0,28,Made Shot,Follow Up Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051110,MIA,HOU
+Shot Chart Detail,0020500069,198,2548,Dwyane Wade,1610612748,Miami Heat,2,4,37,Made Shot,Follow Up Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051110,MIA,HOU
+Shot Chart Detail,0020500069,210,2548,Dwyane Wade,1610612748,Miami Heat,2,3,44,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051110,MIA,HOU
+Shot Chart Detail,0020500069,213,2548,Dwyane Wade,1610612748,Miami Heat,2,3,21,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,49,25,1,1,20051110,MIA,HOU
+Shot Chart Detail,0020500069,233,2548,Dwyane Wade,1610612748,Miami Heat,2,1,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051110,MIA,HOU
+Shot Chart Detail,0020500069,242,2548,Dwyane Wade,1610612748,Miami Heat,2,0,2,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051110,MIA,HOU
+Shot Chart Detail,0020500069,264,2548,Dwyane Wade,1610612748,Miami Heat,3,9,27,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051110,MIA,HOU
+Shot Chart Detail,0020500069,360,2548,Dwyane Wade,1610612748,Miami Heat,3,0,0,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-184,82,1,1,20051110,MIA,HOU
+Shot Chart Detail,0020500069,386,2548,Dwyane Wade,1610612748,Miami Heat,4,8,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-66,140,1,1,20051110,MIA,HOU
+Shot Chart Detail,0020500069,432,2548,Dwyane Wade,1610612748,Miami Heat,4,3,11,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-67,145,1,1,20051110,MIA,HOU
+Shot Chart Detail,0020500083,34,2548,Dwyane Wade,1610612748,Miami Heat,1,7,51,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051112,MIA,CHA
+Shot Chart Detail,0020500083,116,2548,Dwyane Wade,1610612748,Miami Heat,1,1,2,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051112,MIA,CHA
+Shot Chart Detail,0020500083,173,2548,Dwyane Wade,1610612748,Miami Heat,2,9,18,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-72,158,1,1,20051112,MIA,CHA
+Shot Chart Detail,0020500083,312,2548,Dwyane Wade,1610612748,Miami Heat,3,6,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-125,148,1,1,20051112,MIA,CHA
+Shot Chart Detail,0020500083,337,2548,Dwyane Wade,1610612748,Miami Heat,3,4,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,107,18,1,1,20051112,MIA,CHA
+Shot Chart Detail,0020500083,340,2548,Dwyane Wade,1610612748,Miami Heat,3,4,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,84,145,1,1,20051112,MIA,CHA
+Shot Chart Detail,0020500083,404,2548,Dwyane Wade,1610612748,Miami Heat,4,8,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051112,MIA,CHA
+Shot Chart Detail,0020500102,3,2548,Dwyane Wade,1610612748,Miami Heat,1,11,46,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-154,95,1,1,20051115,MIA,NOK
+Shot Chart Detail,0020500102,233,2548,Dwyane Wade,1610612748,Miami Heat,2,0,3,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,15,117,1,1,20051115,MIA,NOK
+Shot Chart Detail,0020500102,295,2548,Dwyane Wade,1610612748,Miami Heat,3,5,10,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,38,132,1,1,20051115,MIA,NOK
+Shot Chart Detail,0020500102,432,2548,Dwyane Wade,1610612748,Miami Heat,4,1,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,43,207,1,1,20051115,MIA,NOK
+Shot Chart Detail,0020500102,440,2548,Dwyane Wade,1610612748,Miami Heat,4,1,11,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,1,81,1,1,20051115,MIA,NOK
+Shot Chart Detail,0020500102,447,2548,Dwyane Wade,1610612748,Miami Heat,4,0,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-64,199,1,1,20051115,MIA,NOK
+Shot Chart Detail,0020500102,486,2548,Dwyane Wade,1610612748,Miami Heat,5,2,26,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-151,8,1,1,20051115,MIA,NOK
+Shot Chart Detail,0020500123,29,2548,Dwyane Wade,1610612748,Miami Heat,1,8,13,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051118,MIA,PHI
+Shot Chart Detail,0020500123,39,2548,Dwyane Wade,1610612748,Miami Heat,1,5,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051118,MIA,PHI
+Shot Chart Detail,0020500123,57,2548,Dwyane Wade,1610612748,Miami Heat,1,3,24,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051118,MIA,PHI
+Shot Chart Detail,0020500123,61,2548,Dwyane Wade,1610612748,Miami Heat,1,2,45,Made Shot,Driving Finger Roll Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051118,MIA,PHI
+Shot Chart Detail,0020500123,133,2548,Dwyane Wade,1610612748,Miami Heat,2,8,1,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051118,MIA,PHI
+Shot Chart Detail,0020500123,145,2548,Dwyane Wade,1610612748,Miami Heat,2,6,10,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051118,MIA,PHI
+Shot Chart Detail,0020500123,169,2548,Dwyane Wade,1610612748,Miami Heat,2,4,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-153,2,1,1,20051118,MIA,PHI
+Shot Chart Detail,0020500123,215,2548,Dwyane Wade,1610612748,Miami Heat,3,11,13,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051118,MIA,PHI
+Shot Chart Detail,0020500123,279,2548,Dwyane Wade,1610612748,Miami Heat,3,4,51,Made Shot,Turnaround Finger Roll Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051118,MIA,PHI
+Shot Chart Detail,0020500123,288,2548,Dwyane Wade,1610612748,Miami Heat,3,4,21,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051118,MIA,PHI
+Shot Chart Detail,0020500123,308,2548,Dwyane Wade,1610612748,Miami Heat,3,1,59,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-44,54,1,1,20051118,MIA,PHI
+Shot Chart Detail,0020500123,454,2548,Dwyane Wade,1610612748,Miami Heat,4,1,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,5,199,1,1,20051118,MIA,PHI
+Shot Chart Detail,0020500140,9,2548,Dwyane Wade,1610612748,Miami Heat,1,10,55,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051120,TOR,MIA
+Shot Chart Detail,0020500140,18,2548,Dwyane Wade,1610612748,Miami Heat,1,10,12,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051120,TOR,MIA
+Shot Chart Detail,0020500140,56,2548,Dwyane Wade,1610612748,Miami Heat,1,6,9,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-186,0,1,1,20051120,TOR,MIA
+Shot Chart Detail,0020500140,68,2548,Dwyane Wade,1610612748,Miami Heat,1,5,17,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-130,12,1,1,20051120,TOR,MIA
+Shot Chart Detail,0020500140,91,2548,Dwyane Wade,1610612748,Miami Heat,1,3,42,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-3,66,1,1,20051120,TOR,MIA
+Shot Chart Detail,0020500140,296,2548,Dwyane Wade,1610612748,Miami Heat,3,6,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-182,33,1,1,20051120,TOR,MIA
+Shot Chart Detail,0020500140,315,2548,Dwyane Wade,1610612748,Miami Heat,3,4,6,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-141,0,1,1,20051120,TOR,MIA
+Shot Chart Detail,0020500140,330,2548,Dwyane Wade,1610612748,Miami Heat,3,2,56,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-61,45,1,1,20051120,TOR,MIA
+Shot Chart Detail,0020500140,336,2548,Dwyane Wade,1610612748,Miami Heat,3,2,22,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051120,TOR,MIA
+Shot Chart Detail,0020500140,402,2548,Dwyane Wade,1610612748,Miami Heat,4,7,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-194,-9,1,1,20051120,TOR,MIA
+Shot Chart Detail,0020500140,405,2548,Dwyane Wade,1610612748,Miami Heat,4,7,23,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,0,66,1,1,20051120,TOR,MIA
+Shot Chart Detail,0020500140,408,2548,Dwyane Wade,1610612748,Miami Heat,4,6,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-168,5,1,1,20051120,TOR,MIA
+Shot Chart Detail,0020500140,441,2548,Dwyane Wade,1610612748,Miami Heat,4,3,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,22,1,224,1,1,20051120,TOR,MIA
+Shot Chart Detail,0020500140,490,2548,Dwyane Wade,1610612748,Miami Heat,4,0,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-166,202,1,1,20051120,TOR,MIA
+Shot Chart Detail,0020500159,157,2548,Dwyane Wade,1610612748,Miami Heat,2,3,4,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051123,MIA,POR
+Shot Chart Detail,0020500159,163,2548,Dwyane Wade,1610612748,Miami Heat,2,2,32,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051123,MIA,POR
+Shot Chart Detail,0020500159,201,2548,Dwyane Wade,1610612748,Miami Heat,2,0,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,28,194,1,1,20051123,MIA,POR
+Shot Chart Detail,0020500159,224,2548,Dwyane Wade,1610612748,Miami Heat,3,9,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-2,194,1,1,20051123,MIA,POR
+Shot Chart Detail,0020500159,227,2548,Dwyane Wade,1610612748,Miami Heat,3,8,52,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,1,61,1,1,20051123,MIA,POR
+Shot Chart Detail,0020500159,254,2548,Dwyane Wade,1610612748,Miami Heat,3,5,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,56,189,1,1,20051123,MIA,POR
+Shot Chart Detail,0020500159,286,2548,Dwyane Wade,1610612748,Miami Heat,3,2,48,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,5,36,1,1,20051123,MIA,POR
+Shot Chart Detail,0020500172,2,2548,Dwyane Wade,1610612748,Miami Heat,1,11,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-149,133,1,1,20051125,MIA,DAL
+Shot Chart Detail,0020500172,80,2548,Dwyane Wade,1610612748,Miami Heat,1,2,31,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051125,MIA,DAL
+Shot Chart Detail,0020500172,161,2548,Dwyane Wade,1610612748,Miami Heat,2,7,19,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051125,MIA,DAL
+Shot Chart Detail,0020500172,165,2548,Dwyane Wade,1610612748,Miami Heat,2,6,57,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051125,MIA,DAL
+Shot Chart Detail,0020500172,215,2548,Dwyane Wade,1610612748,Miami Heat,2,1,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,143,138,1,1,20051125,MIA,DAL
+Shot Chart Detail,0020500172,220,2548,Dwyane Wade,1610612748,Miami Heat,2,1,15,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,8,127,1,1,20051125,MIA,DAL
+Shot Chart Detail,0020500172,274,2548,Dwyane Wade,1610612748,Miami Heat,3,7,37,Made Shot,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051125,MIA,DAL
+Shot Chart Detail,0020500183,82,2548,Dwyane Wade,1610612748,Miami Heat,1,3,2,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051126,ORL,MIA
+Shot Chart Detail,0020500183,148,2548,Dwyane Wade,1610612748,Miami Heat,2,8,9,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051126,ORL,MIA
+Shot Chart Detail,0020500183,251,2548,Dwyane Wade,1610612748,Miami Heat,2,0,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,3,197,1,1,20051126,ORL,MIA
+Shot Chart Detail,0020500183,261,2548,Dwyane Wade,1610612748,Miami Heat,3,11,23,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-163,53,1,1,20051126,ORL,MIA
+Shot Chart Detail,0020500183,263,2548,Dwyane Wade,1610612748,Miami Heat,3,10,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-105,151,1,1,20051126,ORL,MIA
+Shot Chart Detail,0020500183,325,2548,Dwyane Wade,1610612748,Miami Heat,3,4,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051126,ORL,MIA
+Shot Chart Detail,0020500183,366,2548,Dwyane Wade,1610612748,Miami Heat,3,2,8,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051126,ORL,MIA
+Shot Chart Detail,0020500183,487,2548,Dwyane Wade,1610612748,Miami Heat,4,1,30,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051126,ORL,MIA
+Shot Chart Detail,0020500195,26,2548,Dwyane Wade,1610612748,Miami Heat,1,8,24,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051128,MIA,NYK
+Shot Chart Detail,0020500195,29,2548,Dwyane Wade,1610612748,Miami Heat,1,7,59,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051128,MIA,NYK
+Shot Chart Detail,0020500195,181,2548,Dwyane Wade,1610612748,Miami Heat,2,6,51,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051128,MIA,NYK
+Shot Chart Detail,0020500195,204,2548,Dwyane Wade,1610612748,Miami Heat,2,5,15,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051128,MIA,NYK
+Shot Chart Detail,0020500195,220,2548,Dwyane Wade,1610612748,Miami Heat,2,2,52,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051128,MIA,NYK
+Shot Chart Detail,0020500195,233,2548,Dwyane Wade,1610612748,Miami Heat,2,1,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,89,178,1,1,20051128,MIA,NYK
+Shot Chart Detail,0020500195,264,2548,Dwyane Wade,1610612748,Miami Heat,3,10,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-191,61,1,1,20051128,MIA,NYK
+Shot Chart Detail,0020500195,291,2548,Dwyane Wade,1610612748,Miami Heat,3,7,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-131,128,1,1,20051128,MIA,NYK
+Shot Chart Detail,0020500195,376,2548,Dwyane Wade,1610612748,Miami Heat,4,9,20,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051128,MIA,NYK
+Shot Chart Detail,0020500208,109,2548,Dwyane Wade,1610612748,Miami Heat,2,10,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,166,3,1,1,20051130,ATL,MIA
+Shot Chart Detail,0020500208,205,2548,Dwyane Wade,1610612748,Miami Heat,2,1,28,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-56,7,1,1,20051130,ATL,MIA
+Shot Chart Detail,0020500208,229,2548,Dwyane Wade,1610612748,Miami Heat,3,9,45,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,56,20,1,1,20051130,ATL,MIA
+Shot Chart Detail,0020500208,254,2548,Dwyane Wade,1610612748,Miami Heat,3,7,0,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-20,53,1,1,20051130,ATL,MIA
+Shot Chart Detail,0020500208,256,2548,Dwyane Wade,1610612748,Miami Heat,3,6,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,113,82,1,1,20051130,ATL,MIA
+Shot Chart Detail,0020500208,273,2548,Dwyane Wade,1610612748,Miami Heat,3,4,35,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-31,40,1,1,20051130,ATL,MIA
+Shot Chart Detail,0020500208,275,2548,Dwyane Wade,1610612748,Miami Heat,3,3,50,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-168,0,1,1,20051130,ATL,MIA
+Shot Chart Detail,0020500208,280,2548,Dwyane Wade,1610612748,Miami Heat,3,2,38,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051130,ATL,MIA
+Shot Chart Detail,0020500226,11,2548,Dwyane Wade,1610612748,Miami Heat,1,10,44,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051202,SAC,MIA
+Shot Chart Detail,0020500226,76,2548,Dwyane Wade,1610612748,Miami Heat,1,2,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051202,SAC,MIA
+Shot Chart Detail,0020500226,79,2548,Dwyane Wade,1610612748,Miami Heat,1,2,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051202,SAC,MIA
+Shot Chart Detail,0020500226,84,2548,Dwyane Wade,1610612748,Miami Heat,1,1,50,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-102,31,1,1,20051202,SAC,MIA
+Shot Chart Detail,0020500226,156,2548,Dwyane Wade,1610612748,Miami Heat,2,4,17,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-56,28,1,1,20051202,SAC,MIA
+Shot Chart Detail,0020500226,164,2548,Dwyane Wade,1610612748,Miami Heat,2,3,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051202,SAC,MIA
+Shot Chart Detail,0020500226,202,2548,Dwyane Wade,1610612748,Miami Heat,3,11,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-26,207,1,1,20051202,SAC,MIA
+Shot Chart Detail,0020500226,208,2548,Dwyane Wade,1610612748,Miami Heat,3,10,19,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051202,SAC,MIA
+Shot Chart Detail,0020500226,230,2548,Dwyane Wade,1610612748,Miami Heat,3,6,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-102,189,1,1,20051202,SAC,MIA
+Shot Chart Detail,0020500226,268,2548,Dwyane Wade,1610612748,Miami Heat,3,2,55,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051202,SAC,MIA
+Shot Chart Detail,0020500226,416,2548,Dwyane Wade,1610612748,Miami Heat,4,1,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-95,164,1,1,20051202,SAC,MIA
+Shot Chart Detail,0020500237,28,2548,Dwyane Wade,1610612748,Miami Heat,1,8,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-199,31,1,1,20051203,DEN,MIA
+Shot Chart Detail,0020500237,148,2548,Dwyane Wade,1610612748,Miami Heat,2,8,37,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-29,54,1,1,20051203,DEN,MIA
+Shot Chart Detail,0020500237,150,2548,Dwyane Wade,1610612748,Miami Heat,2,8,6,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-57,26,1,1,20051203,DEN,MIA
+Shot Chart Detail,0020500237,159,2548,Dwyane Wade,1610612748,Miami Heat,2,7,11,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051203,DEN,MIA
+Shot Chart Detail,0020500237,193,2548,Dwyane Wade,1610612748,Miami Heat,2,4,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-64,201,1,1,20051203,DEN,MIA
+Shot Chart Detail,0020500237,262,2548,Dwyane Wade,1610612748,Miami Heat,3,11,20,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-128,156,1,1,20051203,DEN,MIA
+Shot Chart Detail,0020500237,284,2548,Dwyane Wade,1610612748,Miami Heat,3,8,34,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051203,DEN,MIA
+Shot Chart Detail,0020500237,332,2548,Dwyane Wade,1610612748,Miami Heat,3,3,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-136,0,1,1,20051203,DEN,MIA
+Shot Chart Detail,0020500237,473,2548,Dwyane Wade,1610612748,Miami Heat,4,1,9,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051203,DEN,MIA
+Shot Chart Detail,0020500248,19,2548,Dwyane Wade,1610612748,Miami Heat,1,9,9,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,79,64,1,1,20051205,LAC,MIA
+Shot Chart Detail,0020500248,47,2548,Dwyane Wade,1610612748,Miami Heat,1,6,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-161,30,1,1,20051205,LAC,MIA
+Shot Chart Detail,0020500248,55,2548,Dwyane Wade,1610612748,Miami Heat,1,5,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,74,166,1,1,20051205,LAC,MIA
+Shot Chart Detail,0020500248,106,2548,Dwyane Wade,1610612748,Miami Heat,1,0,0,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,13,49,1,1,20051205,LAC,MIA
+Shot Chart Detail,0020500248,169,2548,Dwyane Wade,1610612748,Miami Heat,2,6,35,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051205,LAC,MIA
+Shot Chart Detail,0020500248,254,2548,Dwyane Wade,1610612748,Miami Heat,3,9,44,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-164,26,1,1,20051205,LAC,MIA
+Shot Chart Detail,0020500248,281,2548,Dwyane Wade,1610612748,Miami Heat,3,6,22,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051205,LAC,MIA
+Shot Chart Detail,0020500248,315,2548,Dwyane Wade,1610612748,Miami Heat,3,3,8,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051205,LAC,MIA
+Shot Chart Detail,0020500248,376,2548,Dwyane Wade,1610612748,Miami Heat,4,9,56,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-38,74,1,1,20051205,LAC,MIA
+Shot Chart Detail,0020500248,397,2548,Dwyane Wade,1610612748,Miami Heat,4,7,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051205,LAC,MIA
+Shot Chart Detail,0020500248,454,2548,Dwyane Wade,1610612748,Miami Heat,4,1,31,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051205,LAC,MIA
+Shot Chart Detail,0020500248,467,2548,Dwyane Wade,1610612748,Miami Heat,4,0,20,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051205,LAC,MIA
+Shot Chart Detail,0020500263,17,2548,Dwyane Wade,1610612748,Miami Heat,1,9,3,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,6,49,1,1,20051207,SAS,MIA
+Shot Chart Detail,0020500263,54,2548,Dwyane Wade,1610612748,Miami Heat,1,5,26,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,7,1,1,20051207,SAS,MIA
+Shot Chart Detail,0020500263,154,2548,Dwyane Wade,1610612748,Miami Heat,2,7,4,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,136,18,1,1,20051207,SAS,MIA
+Shot Chart Detail,0020500263,294,2548,Dwyane Wade,1610612748,Miami Heat,3,4,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-131,89,1,1,20051207,SAS,MIA
+Shot Chart Detail,0020500263,327,2548,Dwyane Wade,1610612748,Miami Heat,3,1,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-177,-5,1,1,20051207,SAS,MIA
+Shot Chart Detail,0020500263,334,2548,Dwyane Wade,1610612748,Miami Heat,3,0,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,13,1,1,20051207,SAS,MIA
+Shot Chart Detail,0020500263,389,2548,Dwyane Wade,1610612748,Miami Heat,4,6,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,5,10,1,1,20051207,SAS,MIA
+Shot Chart Detail,0020500263,405,2548,Dwyane Wade,1610612748,Miami Heat,4,4,58,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,-1,1,1,20051207,SAS,MIA
+Shot Chart Detail,0020500271,18,2548,Dwyane Wade,1610612748,Miami Heat,1,9,43,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051209,MIA,DEN
+Shot Chart Detail,0020500271,95,2548,Dwyane Wade,1610612748,Miami Heat,1,1,10,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051209,MIA,DEN
+Shot Chart Detail,0020500271,221,2548,Dwyane Wade,1610612748,Miami Heat,2,1,29,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051209,MIA,DEN
+Shot Chart Detail,0020500271,232,2548,Dwyane Wade,1610612748,Miami Heat,2,0,1,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051209,MIA,DEN
+Shot Chart Detail,0020500271,279,2548,Dwyane Wade,1610612748,Miami Heat,3,7,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,102,192,1,1,20051209,MIA,DEN
+Shot Chart Detail,0020500271,294,2548,Dwyane Wade,1610612748,Miami Heat,3,6,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051209,MIA,DEN
+Shot Chart Detail,0020500271,301,2548,Dwyane Wade,1610612748,Miami Heat,3,5,21,Made Shot,Driving Finger Roll Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051209,MIA,DEN
+Shot Chart Detail,0020500271,370,2548,Dwyane Wade,1610612748,Miami Heat,4,10,51,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-41,17,1,1,20051209,MIA,DEN
+Shot Chart Detail,0020500271,419,2548,Dwyane Wade,1610612748,Miami Heat,4,6,52,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051209,MIA,DEN
+Shot Chart Detail,0020500271,445,2548,Dwyane Wade,1610612748,Miami Heat,4,4,44,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-51,91,1,1,20051209,MIA,DEN
+Shot Chart Detail,0020500291,2,2548,Dwyane Wade,1610612748,Miami Heat,1,11,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,94,92,1,1,20051211,MIA,WAS
+Shot Chart Detail,0020500291,31,2548,Dwyane Wade,1610612748,Miami Heat,1,7,0,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-125,163,1,1,20051211,MIA,WAS
+Shot Chart Detail,0020500291,49,2548,Dwyane Wade,1610612748,Miami Heat,1,5,33,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,43,26,1,1,20051211,MIA,WAS
+Shot Chart Detail,0020500291,81,2548,Dwyane Wade,1610612748,Miami Heat,1,3,8,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-51,43,1,1,20051211,MIA,WAS
+Shot Chart Detail,0020500291,195,2548,Dwyane Wade,1610612748,Miami Heat,2,5,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,120,148,1,1,20051211,MIA,WAS
+Shot Chart Detail,0020500291,231,2548,Dwyane Wade,1610612748,Miami Heat,2,3,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051211,MIA,WAS
+Shot Chart Detail,0020500291,280,2548,Dwyane Wade,1610612748,Miami Heat,3,9,25,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051211,MIA,WAS
+Shot Chart Detail,0020500291,308,2548,Dwyane Wade,1610612748,Miami Heat,3,6,46,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051211,MIA,WAS
+Shot Chart Detail,0020500291,335,2548,Dwyane Wade,1610612748,Miami Heat,3,4,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051211,MIA,WAS
+Shot Chart Detail,0020500291,399,2548,Dwyane Wade,1610612748,Miami Heat,4,11,0,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-67,58,1,1,20051211,MIA,WAS
+Shot Chart Detail,0020500291,406,2548,Dwyane Wade,1610612748,Miami Heat,4,10,3,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,16,137,1,1,20051211,MIA,WAS
+Shot Chart Detail,0020500291,428,2548,Dwyane Wade,1610612748,Miami Heat,4,8,1,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051211,MIA,WAS
+Shot Chart Detail,0020500291,496,2548,Dwyane Wade,1610612748,Miami Heat,4,2,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051211,MIA,WAS
+Shot Chart Detail,0020500291,591,2548,Dwyane Wade,1610612748,Miami Heat,5,2,3,Made Shot,Jump Bank Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,29,18,1,1,20051211,MIA,WAS
+Shot Chart Detail,0020500291,606,2548,Dwyane Wade,1610612748,Miami Heat,5,0,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051211,MIA,WAS
+Shot Chart Detail,0020500304,106,2548,Dwyane Wade,1610612748,Miami Heat,1,2,12,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051213,CHI,MIA
+Shot Chart Detail,0020500304,250,2548,Dwyane Wade,1610612748,Miami Heat,2,1,42,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-141,72,1,1,20051213,CHI,MIA
+Shot Chart Detail,0020500304,326,2548,Dwyane Wade,1610612748,Miami Heat,3,5,55,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051213,CHI,MIA
+Shot Chart Detail,0020500304,408,2548,Dwyane Wade,1610612748,Miami Heat,4,11,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,131,150,1,1,20051213,CHI,MIA
+Shot Chart Detail,0020500304,432,2548,Dwyane Wade,1610612748,Miami Heat,4,8,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051213,CHI,MIA
+Shot Chart Detail,0020500304,492,2548,Dwyane Wade,1610612748,Miami Heat,4,0,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-97,166,1,1,20051213,CHI,MIA
+Shot Chart Detail,0020500313,4,2548,Dwyane Wade,1610612748,Miami Heat,1,11,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051214,MIL,MIA
+Shot Chart Detail,0020500313,88,2548,Dwyane Wade,1610612748,Miami Heat,1,2,56,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-61,-3,1,1,20051214,MIL,MIA
+Shot Chart Detail,0020500313,100,2548,Dwyane Wade,1610612748,Miami Heat,1,1,40,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051214,MIL,MIA
+Shot Chart Detail,0020500313,161,2548,Dwyane Wade,1610612748,Miami Heat,2,8,21,Made Shot,Running Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051214,MIL,MIA
+Shot Chart Detail,0020500313,210,2548,Dwyane Wade,1610612748,Miami Heat,2,3,18,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051214,MIL,MIA
+Shot Chart Detail,0020500313,219,2548,Dwyane Wade,1610612748,Miami Heat,2,2,23,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051214,MIL,MIA
+Shot Chart Detail,0020500313,256,2548,Dwyane Wade,1610612748,Miami Heat,3,10,41,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051214,MIL,MIA
+Shot Chart Detail,0020500313,283,2548,Dwyane Wade,1610612748,Miami Heat,3,7,1,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051214,MIL,MIA
+Shot Chart Detail,0020500313,424,2548,Dwyane Wade,1610612748,Miami Heat,4,3,13,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051214,MIL,MIA
+Shot Chart Detail,0020500323,21,2548,Dwyane Wade,1610612748,Miami Heat,1,9,35,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051216,PHI,MIA
+Shot Chart Detail,0020500323,93,2548,Dwyane Wade,1610612748,Miami Heat,1,2,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051216,PHI,MIA
+Shot Chart Detail,0020500323,97,2548,Dwyane Wade,1610612748,Miami Heat,1,2,2,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,3,49,1,1,20051216,PHI,MIA
+Shot Chart Detail,0020500323,201,2548,Dwyane Wade,1610612748,Miami Heat,2,4,23,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051216,PHI,MIA
+Shot Chart Detail,0020500323,237,2548,Dwyane Wade,1610612748,Miami Heat,2,0,23,Made Shot,Turnaround Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,34,17,1,1,20051216,PHI,MIA
+Shot Chart Detail,0020500323,242,2548,Dwyane Wade,1610612748,Miami Heat,3,11,45,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051216,PHI,MIA
+Shot Chart Detail,0020500323,320,2548,Dwyane Wade,1610612748,Miami Heat,3,2,42,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051216,PHI,MIA
+Shot Chart Detail,0020500323,325,2548,Dwyane Wade,1610612748,Miami Heat,3,1,44,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051216,PHI,MIA
+Shot Chart Detail,0020500323,369,2548,Dwyane Wade,1610612748,Miami Heat,4,9,22,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051216,PHI,MIA
+Shot Chart Detail,0020500323,420,2548,Dwyane Wade,1610612748,Miami Heat,4,4,45,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051216,PHI,MIA
+Shot Chart Detail,0020500323,427,2548,Dwyane Wade,1610612748,Miami Heat,4,3,51,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051216,PHI,MIA
+Shot Chart Detail,0020500336,51,2548,Dwyane Wade,1610612748,Miami Heat,1,7,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-112,138,1,1,20051217,CLE,MIA
+Shot Chart Detail,0020500336,57,2548,Dwyane Wade,1610612748,Miami Heat,1,6,15,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,3,0,1,1,20051217,CLE,MIA
+Shot Chart Detail,0020500336,91,2548,Dwyane Wade,1610612748,Miami Heat,1,3,39,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,-8,1,1,20051217,CLE,MIA
+Shot Chart Detail,0020500336,132,2548,Dwyane Wade,1610612748,Miami Heat,2,10,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,0,1,1,20051217,CLE,MIA
+Shot Chart Detail,0020500336,187,2548,Dwyane Wade,1610612748,Miami Heat,2,3,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-3,0,1,1,20051217,CLE,MIA
+Shot Chart Detail,0020500336,230,2548,Dwyane Wade,1610612748,Miami Heat,2,0,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,0,197,1,1,20051217,CLE,MIA
+Shot Chart Detail,0020500336,278,2548,Dwyane Wade,1610612748,Miami Heat,3,6,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,5,1,1,20051217,CLE,MIA
+Shot Chart Detail,0020500336,303,2548,Dwyane Wade,1610612748,Miami Heat,3,3,43,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,2,1,1,20051217,CLE,MIA
+Shot Chart Detail,0020500336,326,2548,Dwyane Wade,1610612748,Miami Heat,3,2,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-153,135,1,1,20051217,CLE,MIA
+Shot Chart Detail,0020500336,412,2548,Dwyane Wade,1610612748,Miami Heat,4,6,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,7,1,1,20051217,CLE,MIA
+Shot Chart Detail,0020500336,489,2548,Dwyane Wade,1610612748,Miami Heat,4,0,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,1,1,1,20051217,CLE,MIA
+Shot Chart Detail,0020500354,136,2548,Dwyane Wade,1610612748,Miami Heat,2,10,20,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051220,MIA,ATL
+Shot Chart Detail,0020500354,246,2548,Dwyane Wade,1610612748,Miami Heat,3,11,34,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051220,MIA,ATL
+Shot Chart Detail,0020500354,303,2548,Dwyane Wade,1610612748,Miami Heat,3,5,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-8,245,1,1,20051220,MIA,ATL
+Shot Chart Detail,0020500375,57,2548,Dwyane Wade,1610612748,Miami Heat,1,5,52,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051223,MIA,NJN
+Shot Chart Detail,0020500375,105,2548,Dwyane Wade,1610612748,Miami Heat,1,1,44,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051223,MIA,NJN
+Shot Chart Detail,0020500375,134,2548,Dwyane Wade,1610612748,Miami Heat,2,10,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,47,150,1,1,20051223,MIA,NJN
+Shot Chart Detail,0020500375,289,2548,Dwyane Wade,1610612748,Miami Heat,3,8,21,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051223,MIA,NJN
+Shot Chart Detail,0020500386,92,2548,Dwyane Wade,1610612748,Miami Heat,1,2,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-84,153,1,1,20051225,MIA,LAL
+Shot Chart Detail,0020500386,95,2548,Dwyane Wade,1610612748,Miami Heat,1,1,37,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051225,MIA,LAL
+Shot Chart Detail,0020500386,124,2548,Dwyane Wade,1610612748,Miami Heat,2,11,18,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051225,MIA,LAL
+Shot Chart Detail,0020500386,127,2548,Dwyane Wade,1610612748,Miami Heat,2,10,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,28,191,1,1,20051225,MIA,LAL
+Shot Chart Detail,0020500386,437,2548,Dwyane Wade,1610612748,Miami Heat,4,7,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-156,125,1,1,20051225,MIA,LAL
+Shot Chart Detail,0020500399,71,2548,Dwyane Wade,1610612748,Miami Heat,1,4,33,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051227,MIA,MIL
+Shot Chart Detail,0020500399,73,2548,Dwyane Wade,1610612748,Miami Heat,1,4,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,103,150,1,1,20051227,MIA,MIL
+Shot Chart Detail,0020500399,107,2548,Dwyane Wade,1610612748,Miami Heat,1,0,39,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051227,MIA,MIL
+Shot Chart Detail,0020500399,237,2548,Dwyane Wade,1610612748,Miami Heat,2,0,57,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051227,MIA,MIL
+Shot Chart Detail,0020500399,265,2548,Dwyane Wade,1610612748,Miami Heat,3,10,5,Made Shot,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051227,MIA,MIL
+Shot Chart Detail,0020500399,400,2548,Dwyane Wade,1610612748,Miami Heat,4,8,55,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,56,40,1,1,20051227,MIA,MIL
+Shot Chart Detail,0020500399,409,2548,Dwyane Wade,1610612748,Miami Heat,4,8,6,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051227,MIA,MIL
+Shot Chart Detail,0020500399,421,2548,Dwyane Wade,1610612748,Miami Heat,4,6,53,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,8,97,1,1,20051227,MIA,MIL
+Shot Chart Detail,0020500399,430,2548,Dwyane Wade,1610612748,Miami Heat,4,5,51,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-38,18,1,1,20051227,MIA,MIL
+Shot Chart Detail,0020500399,464,2548,Dwyane Wade,1610612748,Miami Heat,4,2,14,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051227,MIA,MIL
+Shot Chart Detail,0020500414,16,2548,Dwyane Wade,1610612748,Miami Heat,1,9,55,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051229,DET,MIA
+Shot Chart Detail,0020500414,98,2548,Dwyane Wade,1610612748,Miami Heat,2,11,47,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,143,22,1,1,20051229,DET,MIA
+Shot Chart Detail,0020500414,105,2548,Dwyane Wade,1610612748,Miami Heat,2,10,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-154,66,1,1,20051229,DET,MIA
+Shot Chart Detail,0020500414,116,2548,Dwyane Wade,1610612748,Miami Heat,2,9,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,140,56,1,1,20051229,DET,MIA
+Shot Chart Detail,0020500414,246,2548,Dwyane Wade,1610612748,Miami Heat,3,9,4,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051229,DET,MIA
+Shot Chart Detail,0020500414,257,2548,Dwyane Wade,1610612748,Miami Heat,3,7,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-140,48,1,1,20051229,DET,MIA
+Shot Chart Detail,0020500414,270,2548,Dwyane Wade,1610612748,Miami Heat,3,5,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-143,105,1,1,20051229,DET,MIA
+Shot Chart Detail,0020500414,278,2548,Dwyane Wade,1610612748,Miami Heat,3,4,45,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051229,DET,MIA
+Shot Chart Detail,0020500414,342,2548,Dwyane Wade,1610612748,Miami Heat,4,11,24,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-79,28,1,1,20051229,DET,MIA
+Shot Chart Detail,0020500414,347,2548,Dwyane Wade,1610612748,Miami Heat,4,10,33,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051229,DET,MIA
+Shot Chart Detail,0020500414,355,2548,Dwyane Wade,1610612748,Miami Heat,4,9,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,46,191,1,1,20051229,DET,MIA
+Shot Chart Detail,0020500414,384,2548,Dwyane Wade,1610612748,Miami Heat,4,6,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-108,133,1,1,20051229,DET,MIA
+Shot Chart Detail,0020500414,391,2548,Dwyane Wade,1610612748,Miami Heat,4,5,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-108,160,1,1,20051229,DET,MIA
+Shot Chart Detail,0020500414,399,2548,Dwyane Wade,1610612748,Miami Heat,4,4,32,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051229,DET,MIA
+Shot Chart Detail,0020500417,5,2548,Dwyane Wade,1610612748,Miami Heat,1,11,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-184,-21,1,1,20051230,WAS,MIA
+Shot Chart Detail,0020500417,20,2548,Dwyane Wade,1610612748,Miami Heat,1,9,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-92,133,1,1,20051230,WAS,MIA
+Shot Chart Detail,0020500417,310,2548,Dwyane Wade,1610612748,Miami Heat,3,8,13,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,0,1,1,20051230,WAS,MIA
+Shot Chart Detail,0020500417,338,2548,Dwyane Wade,1610612748,Miami Heat,3,5,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,107,118,1,1,20051230,WAS,MIA
+Shot Chart Detail,0020500417,380,2548,Dwyane Wade,1610612748,Miami Heat,3,2,46,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,1,56,1,1,20051230,WAS,MIA
+Shot Chart Detail,0020500417,435,2548,Dwyane Wade,1610612748,Miami Heat,4,10,35,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-6,61,1,1,20051230,WAS,MIA
+Shot Chart Detail,0020500417,449,2548,Dwyane Wade,1610612748,Miami Heat,4,9,36,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,-6,1,1,20051230,WAS,MIA
+Shot Chart Detail,0020500417,547,2548,Dwyane Wade,1610612748,Miami Heat,4,1,48,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,3,51,1,1,20051230,WAS,MIA
+Shot Chart Detail,0020500434,19,2548,Dwyane Wade,1610612748,Miami Heat,1,8,36,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060101,MIA,MIN
+Shot Chart Detail,0020500434,178,2548,Dwyane Wade,1610612748,Miami Heat,2,4,37,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060101,MIA,MIN
+Shot Chart Detail,0020500434,205,2548,Dwyane Wade,1610612748,Miami Heat,2,0,31,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060101,MIA,MIN
+Shot Chart Detail,0020500434,234,2548,Dwyane Wade,1610612748,Miami Heat,3,10,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060101,MIA,MIN
+Shot Chart Detail,0020500434,248,2548,Dwyane Wade,1610612748,Miami Heat,3,9,25,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060101,MIA,MIN
+Shot Chart Detail,0020500434,253,2548,Dwyane Wade,1610612748,Miami Heat,3,8,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-10,206,1,1,20060101,MIA,MIN
+Shot Chart Detail,0020500434,289,2548,Dwyane Wade,1610612748,Miami Heat,3,5,7,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-105,179,1,1,20060101,MIA,MIN
+Shot Chart Detail,0020500434,390,2548,Dwyane Wade,1610612748,Miami Heat,4,6,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,159,0,1,1,20060101,MIA,MIN
+Shot Chart Detail,0020500451,37,2548,Dwyane Wade,1610612748,Miami Heat,1,8,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060104,NOK,MIA
+Shot Chart Detail,0020500451,42,2548,Dwyane Wade,1610612748,Miami Heat,1,7,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-172,51,1,1,20060104,NOK,MIA
+Shot Chart Detail,0020500451,240,2548,Dwyane Wade,1610612748,Miami Heat,2,2,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,146,64,1,1,20060104,NOK,MIA
+Shot Chart Detail,0020500451,391,2548,Dwyane Wade,1610612748,Miami Heat,3,2,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060104,NOK,MIA
+Shot Chart Detail,0020500451,402,2548,Dwyane Wade,1610612748,Miami Heat,3,1,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-159,133,1,1,20060104,NOK,MIA
+Shot Chart Detail,0020500451,418,2548,Dwyane Wade,1610612748,Miami Heat,3,0,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-136,173,1,1,20060104,NOK,MIA
+Shot Chart Detail,0020500451,496,2548,Dwyane Wade,1610612748,Miami Heat,4,4,39,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-57,56,1,1,20060104,NOK,MIA
+Shot Chart Detail,0020500485,23,2548,Dwyane Wade,1610612748,Miami Heat,1,9,44,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060108,POR,MIA
+Shot Chart Detail,0020500485,30,2548,Dwyane Wade,1610612748,Miami Heat,1,9,4,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060108,POR,MIA
+Shot Chart Detail,0020500485,40,2548,Dwyane Wade,1610612748,Miami Heat,1,7,55,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060108,POR,MIA
+Shot Chart Detail,0020500485,67,2548,Dwyane Wade,1610612748,Miami Heat,1,4,24,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060108,POR,MIA
+Shot Chart Detail,0020500485,104,2548,Dwyane Wade,1610612748,Miami Heat,1,1,35,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060108,POR,MIA
+Shot Chart Detail,0020500485,115,2548,Dwyane Wade,1610612748,Miami Heat,1,0,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060108,POR,MIA
+Shot Chart Detail,0020500485,118,2548,Dwyane Wade,1610612748,Miami Heat,1,0,1,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-186,54,1,1,20060108,POR,MIA
+Shot Chart Detail,0020500485,261,2548,Dwyane Wade,1610612748,Miami Heat,3,10,49,Made Shot,Follow Up Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060108,POR,MIA
+Shot Chart Detail,0020500485,267,2548,Dwyane Wade,1610612748,Miami Heat,3,9,51,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060108,POR,MIA
+Shot Chart Detail,0020500485,300,2548,Dwyane Wade,1610612748,Miami Heat,3,5,43,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060108,POR,MIA
+Shot Chart Detail,0020500485,302,2548,Dwyane Wade,1610612748,Miami Heat,3,4,57,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060108,POR,MIA
+Shot Chart Detail,0020500485,344,2548,Dwyane Wade,1610612748,Miami Heat,3,2,11,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-169,69,1,1,20060108,POR,MIA
+Shot Chart Detail,0020500485,350,2548,Dwyane Wade,1610612748,Miami Heat,3,1,33,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060108,POR,MIA
+Shot Chart Detail,0020500509,11,2548,Dwyane Wade,1610612748,Miami Heat,1,10,10,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-154,-5,1,1,20060111,GSW,MIA
+Shot Chart Detail,0020500509,30,2548,Dwyane Wade,1610612748,Miami Heat,1,8,28,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,3,3,1,1,20060111,GSW,MIA
+Shot Chart Detail,0020500509,68,2548,Dwyane Wade,1610612748,Miami Heat,1,5,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-92,146,1,1,20060111,GSW,MIA
+Shot Chart Detail,0020500509,78,2548,Dwyane Wade,1610612748,Miami Heat,1,3,51,Made Shot,Driving Finger Roll Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-23,23,1,1,20060111,GSW,MIA
+Shot Chart Detail,0020500509,112,2548,Dwyane Wade,1610612748,Miami Heat,1,0,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-92,161,1,1,20060111,GSW,MIA
+Shot Chart Detail,0020500509,122,2548,Dwyane Wade,1610612748,Miami Heat,2,11,6,Made Shot,Turnaround Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,8,28,1,1,20060111,GSW,MIA
+Shot Chart Detail,0020500509,125,2548,Dwyane Wade,1610612748,Miami Heat,2,10,35,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,3,0,1,1,20060111,GSW,MIA
+Shot Chart Detail,0020500509,210,2548,Dwyane Wade,1610612748,Miami Heat,2,2,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,15,1,1,20060111,GSW,MIA
+Shot Chart Detail,0020500509,251,2548,Dwyane Wade,1610612748,Miami Heat,3,7,44,Made Shot,Jump Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-16,17,1,1,20060111,GSW,MIA
+Shot Chart Detail,0020500509,277,2548,Dwyane Wade,1610612748,Miami Heat,3,5,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,113,117,1,1,20060111,GSW,MIA
+Shot Chart Detail,0020500509,368,2548,Dwyane Wade,1610612748,Miami Heat,4,10,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,6,20,1,1,20060111,GSW,MIA
+Shot Chart Detail,0020500509,380,2548,Dwyane Wade,1610612748,Miami Heat,4,7,51,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,8,1,1,20060111,GSW,MIA
+Shot Chart Detail,0020500509,445,2548,Dwyane Wade,1610612748,Miami Heat,4,1,57,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-3,3,1,1,20060111,GSW,MIA
+Shot Chart Detail,0020500521,2,2548,Dwyane Wade,1610612748,Miami Heat,1,11,43,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,15,80,135,1,1,20060113,SEA,MIA
+Shot Chart Detail,0020500521,80,2548,Dwyane Wade,1610612748,Miami Heat,1,2,37,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,43,69,1,1,20060113,SEA,MIA
+Shot Chart Detail,0020500521,107,2548,Dwyane Wade,1610612748,Miami Heat,1,0,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-75,179,1,1,20060113,SEA,MIA
+Shot Chart Detail,0020500521,228,2548,Dwyane Wade,1610612748,Miami Heat,2,1,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-161,72,1,1,20060113,SEA,MIA
+Shot Chart Detail,0020500529,37,2548,Dwyane Wade,1610612748,Miami Heat,1,7,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,105,183,1,1,20060114,UTA,MIA
+Shot Chart Detail,0020500529,46,2548,Dwyane Wade,1610612748,Miami Heat,1,6,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060114,UTA,MIA
+Shot Chart Detail,0020500529,55,2548,Dwyane Wade,1610612748,Miami Heat,1,5,13,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,0,63,1,1,20060114,UTA,MIA
+Shot Chart Detail,0020500529,217,2548,Dwyane Wade,1610612748,Miami Heat,2,1,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060114,UTA,MIA
+Shot Chart Detail,0020500529,242,2548,Dwyane Wade,1610612748,Miami Heat,3,11,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-56,143,1,1,20060114,UTA,MIA
+Shot Chart Detail,0020500529,260,2548,Dwyane Wade,1610612748,Miami Heat,3,7,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,6,168,1,1,20060114,UTA,MIA
+Shot Chart Detail,0020500529,309,2548,Dwyane Wade,1610612748,Miami Heat,3,2,25,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-57,72,1,1,20060114,UTA,MIA
+Shot Chart Detail,0020500529,319,2548,Dwyane Wade,1610612748,Miami Heat,3,0,48,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-192,-18,1,1,20060114,UTA,MIA
+Shot Chart Detail,0020500529,357,2548,Dwyane Wade,1610612748,Miami Heat,4,7,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,3,155,1,1,20060114,UTA,MIA
+Shot Chart Detail,0020500529,410,2548,Dwyane Wade,1610612748,Miami Heat,4,1,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-128,163,1,1,20060114,UTA,MIA
+Shot Chart Detail,0020500547,33,2548,Dwyane Wade,1610612748,Miami Heat,1,7,34,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060116,LAL,MIA
+Shot Chart Detail,0020500547,76,2548,Dwyane Wade,1610612748,Miami Heat,1,2,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-149,18,1,1,20060116,LAL,MIA
+Shot Chart Detail,0020500547,89,2548,Dwyane Wade,1610612748,Miami Heat,1,2,3,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060116,LAL,MIA
+Shot Chart Detail,0020500547,113,2548,Dwyane Wade,1610612748,Miami Heat,2,11,5,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-29,48,1,1,20060116,LAL,MIA
+Shot Chart Detail,0020500547,182,2548,Dwyane Wade,1610612748,Miami Heat,2,4,19,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060116,LAL,MIA
+Shot Chart Detail,0020500547,204,2548,Dwyane Wade,1610612748,Miami Heat,2,2,5,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,5,76,1,1,20060116,LAL,MIA
+Shot Chart Detail,0020500547,230,2548,Dwyane Wade,1610612748,Miami Heat,2,0,17,Made Shot,Turnaround Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,102,5,1,1,20060116,LAL,MIA
+Shot Chart Detail,0020500547,242,2548,Dwyane Wade,1610612748,Miami Heat,3,10,53,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060116,LAL,MIA
+Shot Chart Detail,0020500547,313,2548,Dwyane Wade,1610612748,Miami Heat,3,4,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060116,LAL,MIA
+Shot Chart Detail,0020500547,461,2548,Dwyane Wade,1610612748,Miami Heat,4,1,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060116,LAL,MIA
+Shot Chart Detail,0020500547,474,2548,Dwyane Wade,1610612748,Miami Heat,4,1,13,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-39,71,1,1,20060116,LAL,MIA
+Shot Chart Detail,0020500569,2,2548,Dwyane Wade,1610612748,Miami Heat,1,11,46,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060120,MIA,SAS
+Shot Chart Detail,0020500569,17,2548,Dwyane Wade,1610612748,Miami Heat,1,9,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-140,3,1,1,20060120,MIA,SAS
+Shot Chart Detail,0020500569,45,2548,Dwyane Wade,1610612748,Miami Heat,1,5,53,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060120,MIA,SAS
+Shot Chart Detail,0020500569,96,2548,Dwyane Wade,1610612748,Miami Heat,1,1,17,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,0,94,1,1,20060120,MIA,SAS
+Shot Chart Detail,0020500569,118,2548,Dwyane Wade,1610612748,Miami Heat,2,11,7,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,8,77,1,1,20060120,MIA,SAS
+Shot Chart Detail,0020500569,244,2548,Dwyane Wade,1610612748,Miami Heat,2,0,16,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,13,59,1,1,20060120,MIA,SAS
+Shot Chart Detail,0020500569,283,2548,Dwyane Wade,1610612748,Miami Heat,3,8,24,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060120,MIA,SAS
+Shot Chart Detail,0020500569,343,2548,Dwyane Wade,1610612748,Miami Heat,3,3,27,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,10,63,1,1,20060120,MIA,SAS
+Shot Chart Detail,0020500569,357,2548,Dwyane Wade,1610612748,Miami Heat,3,1,42,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060120,MIA,SAS
+Shot Chart Detail,0020500569,370,2548,Dwyane Wade,1610612748,Miami Heat,3,0,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-49,181,1,1,20060120,MIA,SAS
+Shot Chart Detail,0020500569,436,2548,Dwyane Wade,1610612748,Miami Heat,4,5,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-151,137,1,1,20060120,MIA,SAS
+Shot Chart Detail,0020500569,467,2548,Dwyane Wade,1610612748,Miami Heat,4,2,12,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060120,MIA,SAS
+Shot Chart Detail,0020500569,471,2548,Dwyane Wade,1610612748,Miami Heat,4,1,42,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,57,0,1,1,20060120,MIA,SAS
+Shot Chart Detail,0020500569,499,2548,Dwyane Wade,1610612748,Miami Heat,4,0,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-207,130,1,1,20060120,MIA,SAS
+Shot Chart Detail,0020500587,69,2548,Dwyane Wade,1610612748,Miami Heat,1,3,27,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060122,MIA,SAC
+Shot Chart Detail,0020500587,97,2548,Dwyane Wade,1610612748,Miami Heat,1,0,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,8,201,1,1,20060122,MIA,SAC
+Shot Chart Detail,0020500587,179,2548,Dwyane Wade,1610612748,Miami Heat,2,4,32,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060122,MIA,SAC
+Shot Chart Detail,0020500587,181,2548,Dwyane Wade,1610612748,Miami Heat,2,3,51,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060122,MIA,SAC
+Shot Chart Detail,0020500587,197,2548,Dwyane Wade,1610612748,Miami Heat,2,2,36,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,11,76,1,1,20060122,MIA,SAC
+Shot Chart Detail,0020500587,248,2548,Dwyane Wade,1610612748,Miami Heat,3,9,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060122,MIA,SAC
+Shot Chart Detail,0020500587,252,2548,Dwyane Wade,1610612748,Miami Heat,3,8,37,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060122,MIA,SAC
+Shot Chart Detail,0020500587,262,2548,Dwyane Wade,1610612748,Miami Heat,3,7,34,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060122,MIA,SAC
+Shot Chart Detail,0020500587,297,2548,Dwyane Wade,1610612748,Miami Heat,3,2,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-117,168,1,1,20060122,MIA,SAC
+Shot Chart Detail,0020500587,352,2548,Dwyane Wade,1610612748,Miami Heat,4,9,44,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-33,38,1,1,20060122,MIA,SAC
+Shot Chart Detail,0020500587,357,2548,Dwyane Wade,1610612748,Miami Heat,4,9,18,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060122,MIA,SAC
+Shot Chart Detail,0020500601,45,2548,Dwyane Wade,1610612748,Miami Heat,1,6,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060124,MIA,MEM
+Shot Chart Detail,0020500601,77,2548,Dwyane Wade,1610612748,Miami Heat,1,2,47,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-52,25,1,1,20060124,MIA,MEM
+Shot Chart Detail,0020500601,297,2548,Dwyane Wade,1610612748,Miami Heat,3,7,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060124,MIA,MEM
+Shot Chart Detail,0020500601,335,2548,Dwyane Wade,1610612748,Miami Heat,3,4,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-166,2,1,1,20060124,MIA,MEM
+Shot Chart Detail,0020500601,347,2548,Dwyane Wade,1610612748,Miami Heat,3,3,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-146,94,1,1,20060124,MIA,MEM
+Shot Chart Detail,0020500601,438,2548,Dwyane Wade,1610612748,Miami Heat,4,6,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-102,132,1,1,20060124,MIA,MEM
+Shot Chart Detail,0020500617,32,2548,Dwyane Wade,1610612748,Miami Heat,1,7,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,47,168,1,1,20060126,MIA,PHX
+Shot Chart Detail,0020500617,50,2548,Dwyane Wade,1610612748,Miami Heat,1,4,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,84,-6,1,1,20060126,MIA,PHX
+Shot Chart Detail,0020500617,60,2548,Dwyane Wade,1610612748,Miami Heat,1,3,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,84,145,1,1,20060126,MIA,PHX
+Shot Chart Detail,0020500617,94,2548,Dwyane Wade,1610612748,Miami Heat,1,0,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-71,168,1,1,20060126,MIA,PHX
+Shot Chart Detail,0020500617,118,2548,Dwyane Wade,1610612748,Miami Heat,2,10,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-123,150,1,1,20060126,MIA,PHX
+Shot Chart Detail,0020500617,168,2548,Dwyane Wade,1610612748,Miami Heat,2,5,41,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060126,MIA,PHX
+Shot Chart Detail,0020500617,222,2548,Dwyane Wade,1610612748,Miami Heat,2,0,29,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,13,-66,112,1,1,20060126,MIA,PHX
+Shot Chart Detail,0020500617,347,2548,Dwyane Wade,1610612748,Miami Heat,4,11,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-192,-3,1,1,20060126,MIA,PHX
+Shot Chart Detail,0020500617,399,2548,Dwyane Wade,1610612748,Miami Heat,4,7,23,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060126,MIA,PHX
+Shot Chart Detail,0020500617,405,2548,Dwyane Wade,1610612748,Miami Heat,4,6,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-184,163,1,1,20060126,MIA,PHX
+Shot Chart Detail,0020500644,23,2548,Dwyane Wade,1610612748,Miami Heat,1,8,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-117,109,1,1,20060129,HOU,MIA
+Shot Chart Detail,0020500644,44,2548,Dwyane Wade,1610612748,Miami Heat,1,5,52,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060129,HOU,MIA
+Shot Chart Detail,0020500644,71,2548,Dwyane Wade,1610612748,Miami Heat,1,2,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-169,125,1,1,20060129,HOU,MIA
+Shot Chart Detail,0020500644,80,2548,Dwyane Wade,1610612748,Miami Heat,1,2,12,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-89,25,1,1,20060129,HOU,MIA
+Shot Chart Detail,0020500644,217,2548,Dwyane Wade,1610612748,Miami Heat,3,10,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060129,HOU,MIA
+Shot Chart Detail,0020500644,253,2548,Dwyane Wade,1610612748,Miami Heat,3,5,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,89,145,1,1,20060129,HOU,MIA
+Shot Chart Detail,0020500644,403,2548,Dwyane Wade,1610612748,Miami Heat,4,4,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060129,HOU,MIA
+Shot Chart Detail,0020500644,450,2548,Dwyane Wade,1610612748,Miami Heat,4,0,59,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-118,61,1,1,20060129,HOU,MIA
+Shot Chart Detail,0020500649,12,2548,Dwyane Wade,1610612748,Miami Heat,1,10,14,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,15,35,1,1,20060130,MIA,LAC
+Shot Chart Detail,0020500649,31,2548,Dwyane Wade,1610612748,Miami Heat,1,8,46,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060130,MIA,LAC
+Shot Chart Detail,0020500649,49,2548,Dwyane Wade,1610612748,Miami Heat,1,7,4,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060130,MIA,LAC
+Shot Chart Detail,0020500649,104,2548,Dwyane Wade,1610612748,Miami Heat,1,0,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-10,187,1,1,20060130,MIA,LAC
+Shot Chart Detail,0020500649,193,2548,Dwyane Wade,1610612748,Miami Heat,2,4,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-115,5,1,1,20060130,MIA,LAC
+Shot Chart Detail,0020500649,324,2548,Dwyane Wade,1610612748,Miami Heat,3,2,38,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060130,MIA,LAC
+Shot Chart Detail,0020500649,333,2548,Dwyane Wade,1610612748,Miami Heat,3,1,27,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060130,MIA,LAC
+Shot Chart Detail,0020500649,391,2548,Dwyane Wade,1610612748,Miami Heat,4,6,56,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,15,-74,133,1,1,20060130,MIA,LAC
+Shot Chart Detail,0020500649,393,2548,Dwyane Wade,1610612748,Miami Heat,4,6,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,154,138,1,1,20060130,MIA,LAC
+Shot Chart Detail,0020500674,17,2548,Dwyane Wade,1610612748,Miami Heat,1,9,10,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060202,MIA,CLE
+Shot Chart Detail,0020500674,74,2548,Dwyane Wade,1610612748,Miami Heat,1,2,26,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060202,MIA,CLE
+Shot Chart Detail,0020500674,82,2548,Dwyane Wade,1610612748,Miami Heat,1,1,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060202,MIA,CLE
+Shot Chart Detail,0020500674,114,2548,Dwyane Wade,1610612748,Miami Heat,2,10,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060202,MIA,CLE
+Shot Chart Detail,0020500674,122,2548,Dwyane Wade,1610612748,Miami Heat,2,9,28,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060202,MIA,CLE
+Shot Chart Detail,0020500674,172,2548,Dwyane Wade,1610612748,Miami Heat,2,5,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060202,MIA,CLE
+Shot Chart Detail,0020500674,207,2548,Dwyane Wade,1610612748,Miami Heat,2,2,14,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060202,MIA,CLE
+Shot Chart Detail,0020500674,276,2548,Dwyane Wade,1610612748,Miami Heat,3,6,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,184,79,1,1,20060202,MIA,CLE
+Shot Chart Detail,0020500674,294,2548,Dwyane Wade,1610612748,Miami Heat,3,4,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060202,MIA,CLE
+Shot Chart Detail,0020500674,370,2548,Dwyane Wade,1610612748,Miami Heat,4,8,1,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060202,MIA,CLE
+Shot Chart Detail,0020500674,402,2548,Dwyane Wade,1610612748,Miami Heat,4,5,22,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060202,MIA,CLE
+Shot Chart Detail,0020500684,12,2548,Dwyane Wade,1610612748,Miami Heat,1,10,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-154,7,1,1,20060204,NJN,MIA
+Shot Chart Detail,0020500684,19,2548,Dwyane Wade,1610612748,Miami Heat,1,9,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,154,97,1,1,20060204,NJN,MIA
+Shot Chart Detail,0020500684,87,2548,Dwyane Wade,1610612748,Miami Heat,1,1,33,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-36,31,1,1,20060204,NJN,MIA
+Shot Chart Detail,0020500684,108,2548,Dwyane Wade,1610612748,Miami Heat,2,10,53,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,18,45,1,1,20060204,NJN,MIA
+Shot Chart Detail,0020500684,194,2548,Dwyane Wade,1610612748,Miami Heat,2,3,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-92,5,1,1,20060204,NJN,MIA
+Shot Chart Detail,0020500684,216,2548,Dwyane Wade,1610612748,Miami Heat,2,0,58,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060204,NJN,MIA
+Shot Chart Detail,0020500684,240,2548,Dwyane Wade,1610612748,Miami Heat,3,10,31,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060204,NJN,MIA
+Shot Chart Detail,0020500684,271,2548,Dwyane Wade,1610612748,Miami Heat,3,6,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,167,71,1,1,20060204,NJN,MIA
+Shot Chart Detail,0020500684,327,2548,Dwyane Wade,1610612748,Miami Heat,3,1,7,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-123,43,1,1,20060204,NJN,MIA
+Shot Chart Detail,0020500684,330,2548,Dwyane Wade,1610612748,Miami Heat,3,0,38,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-90,109,1,1,20060204,NJN,MIA
+Shot Chart Detail,0020500684,401,2548,Dwyane Wade,1610612748,Miami Heat,4,4,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,57,201,1,1,20060204,NJN,MIA
+Shot Chart Detail,0020500702,39,2548,Dwyane Wade,1610612748,Miami Heat,1,7,47,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060206,MIA,BOS
+Shot Chart Detail,0020500702,44,2548,Dwyane Wade,1610612748,Miami Heat,1,6,32,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060206,MIA,BOS
+Shot Chart Detail,0020500702,115,2548,Dwyane Wade,1610612748,Miami Heat,2,10,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,144,202,1,1,20060206,MIA,BOS
+Shot Chart Detail,0020500702,125,2548,Dwyane Wade,1610612748,Miami Heat,2,9,47,Made Shot,Follow Up Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060206,MIA,BOS
+Shot Chart Detail,0020500702,180,2548,Dwyane Wade,1610612748,Miami Heat,2,4,42,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060206,MIA,BOS
+Shot Chart Detail,0020500702,208,2548,Dwyane Wade,1610612748,Miami Heat,2,2,32,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,12,-67,105,1,1,20060206,MIA,BOS
+Shot Chart Detail,0020500702,253,2548,Dwyane Wade,1610612748,Miami Heat,3,10,20,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060206,MIA,BOS
+Shot Chart Detail,0020500702,331,2548,Dwyane Wade,1610612748,Miami Heat,3,1,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-161,115,1,1,20060206,MIA,BOS
+Shot Chart Detail,0020500702,367,2548,Dwyane Wade,1610612748,Miami Heat,4,11,17,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060206,MIA,BOS
+Shot Chart Detail,0020500702,442,2548,Dwyane Wade,1610612748,Miami Heat,4,4,59,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060206,MIA,BOS
+Shot Chart Detail,0020500723,40,2548,Dwyane Wade,1610612748,Miami Heat,1,6,55,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,56,54,1,1,20060209,DAL,MIA
+Shot Chart Detail,0020500723,229,2548,Dwyane Wade,1610612748,Miami Heat,3,9,57,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060209,DAL,MIA
+Shot Chart Detail,0020500723,276,2548,Dwyane Wade,1610612748,Miami Heat,3,5,42,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-108,48,1,1,20060209,DAL,MIA
+Shot Chart Detail,0020500723,281,2548,Dwyane Wade,1610612748,Miami Heat,3,4,16,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,97,49,1,1,20060209,DAL,MIA
+Shot Chart Detail,0020500723,303,2548,Dwyane Wade,1610612748,Miami Heat,3,2,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-87,143,1,1,20060209,DAL,MIA
+Shot Chart Detail,0020500723,306,2548,Dwyane Wade,1610612748,Miami Heat,3,1,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-85,143,1,1,20060209,DAL,MIA
+Shot Chart Detail,0020500745,78,2548,Dwyane Wade,1610612748,Miami Heat,1,2,32,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060212,MIA,DET
+Shot Chart Detail,0020500745,212,2548,Dwyane Wade,1610612748,Miami Heat,2,2,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-191,-14,1,1,20060212,MIA,DET
+Shot Chart Detail,0020500745,223,2548,Dwyane Wade,1610612748,Miami Heat,2,1,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060212,MIA,DET
+Shot Chart Detail,0020500745,242,2548,Dwyane Wade,1610612748,Miami Heat,3,11,24,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,8,102,1,1,20060212,MIA,DET
+Shot Chart Detail,0020500745,248,2548,Dwyane Wade,1610612748,Miami Heat,3,10,46,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060212,MIA,DET
+Shot Chart Detail,0020500745,251,2548,Dwyane Wade,1610612748,Miami Heat,3,10,11,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-67,130,1,1,20060212,MIA,DET
+Shot Chart Detail,0020500745,278,2548,Dwyane Wade,1610612748,Miami Heat,3,8,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,97,137,1,1,20060212,MIA,DET
+Shot Chart Detail,0020500745,286,2548,Dwyane Wade,1610612748,Miami Heat,3,7,4,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060212,MIA,DET
+Shot Chart Detail,0020500745,432,2548,Dwyane Wade,1610612748,Miami Heat,4,4,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-87,138,1,1,20060212,MIA,DET
+Shot Chart Detail,0020500745,435,2548,Dwyane Wade,1610612748,Miami Heat,4,3,45,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060212,MIA,DET
+Shot Chart Detail,0020500745,449,2548,Dwyane Wade,1610612748,Miami Heat,4,2,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060212,MIA,DET
+Shot Chart Detail,0020500745,456,2548,Dwyane Wade,1610612748,Miami Heat,4,1,57,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-117,153,1,1,20060212,MIA,DET
+Shot Chart Detail,0020500745,458,2548,Dwyane Wade,1610612748,Miami Heat,4,1,24,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,29,81,1,1,20060212,MIA,DET
+Shot Chart Detail,0020500745,461,2548,Dwyane Wade,1610612748,Miami Heat,4,0,55,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-62,127,1,1,20060212,MIA,DET
+Shot Chart Detail,0020500745,470,2548,Dwyane Wade,1610612748,Miami Heat,4,0,2,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-123,125,1,1,20060212,MIA,DET
+Shot Chart Detail,0020500759,27,2548,Dwyane Wade,1610612748,Miami Heat,1,8,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,176,46,1,1,20060214,MIA,ORL
+Shot Chart Detail,0020500759,76,2548,Dwyane Wade,1610612748,Miami Heat,1,3,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,98,140,1,1,20060214,MIA,ORL
+Shot Chart Detail,0020500759,101,2548,Dwyane Wade,1610612748,Miami Heat,1,0,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060214,MIA,ORL
+Shot Chart Detail,0020500759,188,2548,Dwyane Wade,1610612748,Miami Heat,2,6,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,141,135,1,1,20060214,MIA,ORL
+Shot Chart Detail,0020500759,260,2548,Dwyane Wade,1610612748,Miami Heat,2,0,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-151,66,1,1,20060214,MIA,ORL
+Shot Chart Detail,0020500759,315,2548,Dwyane Wade,1610612748,Miami Heat,3,7,0,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,94,23,1,1,20060214,MIA,ORL
+Shot Chart Detail,0020500759,320,2548,Dwyane Wade,1610612748,Miami Heat,3,6,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-161,125,1,1,20060214,MIA,ORL
+Shot Chart Detail,0020500759,380,2548,Dwyane Wade,1610612748,Miami Heat,3,0,27,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,98,171,1,1,20060214,MIA,ORL
+Shot Chart Detail,0020500759,397,2548,Dwyane Wade,1610612748,Miami Heat,4,10,55,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-5,219,1,1,20060214,MIA,ORL
+Shot Chart Detail,0020500759,455,2548,Dwyane Wade,1610612748,Miami Heat,4,5,44,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-59,118,1,1,20060214,MIA,ORL
+Shot Chart Detail,0020500759,461,2548,Dwyane Wade,1610612748,Miami Heat,4,5,8,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060214,MIA,ORL
+Shot Chart Detail,0020500759,486,2548,Dwyane Wade,1610612748,Miami Heat,4,2,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060214,MIA,ORL
+Shot Chart Detail,0020500759,499,2548,Dwyane Wade,1610612748,Miami Heat,4,1,53,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060214,MIA,ORL
+Shot Chart Detail,0020500765,19,2548,Dwyane Wade,1610612748,Miami Heat,1,8,54,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060215,ORL,MIA
+Shot Chart Detail,0020500765,61,2548,Dwyane Wade,1610612748,Miami Heat,1,4,1,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060215,ORL,MIA
+Shot Chart Detail,0020500765,67,2548,Dwyane Wade,1610612748,Miami Heat,1,3,15,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060215,ORL,MIA
+Shot Chart Detail,0020500765,91,2548,Dwyane Wade,1610612748,Miami Heat,1,1,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-146,112,1,1,20060215,ORL,MIA
+Shot Chart Detail,0020500765,216,2548,Dwyane Wade,1610612748,Miami Heat,2,2,26,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060215,ORL,MIA
+Shot Chart Detail,0020500765,283,2548,Dwyane Wade,1610612748,Miami Heat,3,7,35,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060215,ORL,MIA
+Shot Chart Detail,0020500765,307,2548,Dwyane Wade,1610612748,Miami Heat,3,5,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060215,ORL,MIA
+Shot Chart Detail,0020500765,330,2548,Dwyane Wade,1610612748,Miami Heat,3,3,18,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060215,ORL,MIA
+Shot Chart Detail,0020500765,399,2548,Dwyane Wade,1610612748,Miami Heat,4,10,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060215,ORL,MIA
+Shot Chart Detail,0020500765,461,2548,Dwyane Wade,1610612748,Miami Heat,4,4,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,66,166,1,1,20060215,ORL,MIA
+Shot Chart Detail,0020500794,82,2548,Dwyane Wade,1610612748,Miami Heat,1,3,1,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-61,17,1,1,20060222,NYK,MIA
+Shot Chart Detail,0020500794,208,2548,Dwyane Wade,1610612748,Miami Heat,2,3,34,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-90,22,1,1,20060222,NYK,MIA
+Shot Chart Detail,0020500794,265,2548,Dwyane Wade,1610612748,Miami Heat,3,10,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,22,52,217,1,1,20060222,NYK,MIA
+Shot Chart Detail,0020500794,311,2548,Dwyane Wade,1610612748,Miami Heat,3,5,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-182,12,1,1,20060222,NYK,MIA
+Shot Chart Detail,0020500794,328,2548,Dwyane Wade,1610612748,Miami Heat,3,3,46,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060222,NYK,MIA
+Shot Chart Detail,0020500818,58,2548,Dwyane Wade,1610612748,Miami Heat,1,7,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060225,MIA,SEA
+Shot Chart Detail,0020500818,87,2548,Dwyane Wade,1610612748,Miami Heat,1,4,19,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060225,MIA,SEA
+Shot Chart Detail,0020500818,122,2548,Dwyane Wade,1610612748,Miami Heat,1,0,48,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060225,MIA,SEA
+Shot Chart Detail,0020500818,211,2548,Dwyane Wade,1610612748,Miami Heat,2,6,15,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060225,MIA,SEA
+Shot Chart Detail,0020500818,214,2548,Dwyane Wade,1610612748,Miami Heat,2,5,53,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060225,MIA,SEA
+Shot Chart Detail,0020500818,304,2548,Dwyane Wade,1610612748,Miami Heat,3,11,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060225,MIA,SEA
+Shot Chart Detail,0020500818,411,2548,Dwyane Wade,1610612748,Miami Heat,4,11,17,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060225,MIA,SEA
+Shot Chart Detail,0020500818,434,2548,Dwyane Wade,1610612748,Miami Heat,4,8,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,0,191,1,1,20060225,MIA,SEA
+Shot Chart Detail,0020500818,451,2548,Dwyane Wade,1610612748,Miami Heat,4,6,8,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060225,MIA,SEA
+Shot Chart Detail,0020500818,459,2548,Dwyane Wade,1610612748,Miami Heat,4,5,27,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060225,MIA,SEA
+Shot Chart Detail,0020500818,485,2548,Dwyane Wade,1610612748,Miami Heat,4,2,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060225,MIA,SEA
+Shot Chart Detail,0020500830,17,2548,Dwyane Wade,1610612748,Miami Heat,1,10,1,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060227,MIA,TOR
+Shot Chart Detail,0020500830,34,2548,Dwyane Wade,1610612748,Miami Heat,1,7,49,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060227,MIA,TOR
+Shot Chart Detail,0020500830,53,2548,Dwyane Wade,1610612748,Miami Heat,1,5,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060227,MIA,TOR
+Shot Chart Detail,0020500830,101,2548,Dwyane Wade,1610612748,Miami Heat,1,0,29,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060227,MIA,TOR
+Shot Chart Detail,0020500830,124,2548,Dwyane Wade,1610612748,Miami Heat,2,10,26,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060227,MIA,TOR
+Shot Chart Detail,0020500830,141,2548,Dwyane Wade,1610612748,Miami Heat,2,8,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-113,17,1,1,20060227,MIA,TOR
+Shot Chart Detail,0020500830,145,2548,Dwyane Wade,1610612748,Miami Heat,2,8,15,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060227,MIA,TOR
+Shot Chart Detail,0020500830,159,2548,Dwyane Wade,1610612748,Miami Heat,2,6,29,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,15,33,1,1,20060227,MIA,TOR
+Shot Chart Detail,0020500830,212,2548,Dwyane Wade,1610612748,Miami Heat,2,1,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-117,163,1,1,20060227,MIA,TOR
+Shot Chart Detail,0020500830,281,2548,Dwyane Wade,1610612748,Miami Heat,3,5,56,Made Shot,Driving Finger Roll Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,20,1,1,20060227,MIA,TOR
+Shot Chart Detail,0020500830,287,2548,Dwyane Wade,1610612748,Miami Heat,3,5,17,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060227,MIA,TOR
+Shot Chart Detail,0020500830,299,2548,Dwyane Wade,1610612748,Miami Heat,3,4,38,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060227,MIA,TOR
+Shot Chart Detail,0020500830,336,2548,Dwyane Wade,1610612748,Miami Heat,3,0,45,Made Shot,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060227,MIA,TOR
+Shot Chart Detail,0020500830,367,2548,Dwyane Wade,1610612748,Miami Heat,4,9,12,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060227,MIA,TOR
+Shot Chart Detail,0020500830,425,2548,Dwyane Wade,1610612748,Miami Heat,4,3,18,Made Shot,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060227,MIA,TOR
+Shot Chart Detail,0020500845,5,2548,Dwyane Wade,1610612748,Miami Heat,1,11,6,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,5,1,1,20060301,BOS,MIA
+Shot Chart Detail,0020500845,32,2548,Dwyane Wade,1610612748,Miami Heat,1,8,4,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-79,0,1,1,20060301,BOS,MIA
+Shot Chart Detail,0020500845,63,2548,Dwyane Wade,1610612748,Miami Heat,1,3,40,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,5,1,1,20060301,BOS,MIA
+Shot Chart Detail,0020500845,65,2548,Dwyane Wade,1610612748,Miami Heat,1,3,0,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,8,0,1,1,20060301,BOS,MIA
+Shot Chart Detail,0020500845,114,2548,Dwyane Wade,1610612748,Miami Heat,2,9,54,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,29,31,1,1,20060301,BOS,MIA
+Shot Chart Detail,0020500845,274,2548,Dwyane Wade,1610612748,Miami Heat,3,6,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,0,1,1,20060301,BOS,MIA
+Shot Chart Detail,0020500845,416,2548,Dwyane Wade,1610612748,Miami Heat,4,2,40,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,0,1,1,20060301,BOS,MIA
+Shot Chart Detail,0020500900,2,2548,Dwyane Wade,1610612748,Miami Heat,1,11,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-195,161,1,1,20060308,MIA,WAS
+Shot Chart Detail,0020500900,42,2548,Dwyane Wade,1610612748,Miami Heat,1,6,44,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060308,MIA,WAS
+Shot Chart Detail,0020500900,53,2548,Dwyane Wade,1610612748,Miami Heat,1,5,21,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-80,3,1,1,20060308,MIA,WAS
+Shot Chart Detail,0020500900,57,2548,Dwyane Wade,1610612748,Miami Heat,1,4,56,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060308,MIA,WAS
+Shot Chart Detail,0020500900,204,2548,Dwyane Wade,1610612748,Miami Heat,2,1,35,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-2,68,1,1,20060308,MIA,WAS
+Shot Chart Detail,0020500900,218,2548,Dwyane Wade,1610612748,Miami Heat,2,0,38,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060308,MIA,WAS
+Shot Chart Detail,0020500900,233,2548,Dwyane Wade,1610612748,Miami Heat,3,11,31,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,8,64,1,1,20060308,MIA,WAS
+Shot Chart Detail,0020500900,252,2548,Dwyane Wade,1610612748,Miami Heat,3,9,23,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060308,MIA,WAS
+Shot Chart Detail,0020500900,258,2548,Dwyane Wade,1610612748,Miami Heat,3,9,5,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060308,MIA,WAS
+Shot Chart Detail,0020500900,296,2548,Dwyane Wade,1610612748,Miami Heat,3,5,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060308,MIA,WAS
+Shot Chart Detail,0020500900,304,2548,Dwyane Wade,1610612748,Miami Heat,3,4,27,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060308,MIA,WAS
+Shot Chart Detail,0020500900,366,2548,Dwyane Wade,1610612748,Miami Heat,4,9,51,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,1,79,1,1,20060308,MIA,WAS
+Shot Chart Detail,0020500900,492,2548,Dwyane Wade,1610612748,Miami Heat,4,0,21,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,44,54,1,1,20060308,MIA,WAS
+Shot Chart Detail,0020500913,11,2548,Dwyane Wade,1610612748,Miami Heat,1,10,28,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060310,MIA,GSW
+Shot Chart Detail,0020500913,20,2548,Dwyane Wade,1610612748,Miami Heat,1,9,29,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060310,MIA,GSW
+Shot Chart Detail,0020500913,101,2548,Dwyane Wade,1610612748,Miami Heat,1,0,44,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060310,MIA,GSW
+Shot Chart Detail,0020500913,121,2548,Dwyane Wade,1610612748,Miami Heat,2,10,48,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060310,MIA,GSW
+Shot Chart Detail,0020500913,123,2548,Dwyane Wade,1610612748,Miami Heat,2,10,22,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060310,MIA,GSW
+Shot Chart Detail,0020500913,129,2548,Dwyane Wade,1610612748,Miami Heat,2,9,59,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060310,MIA,GSW
+Shot Chart Detail,0020500913,142,2548,Dwyane Wade,1610612748,Miami Heat,2,9,11,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060310,MIA,GSW
+Shot Chart Detail,0020500913,161,2548,Dwyane Wade,1610612748,Miami Heat,2,8,7,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060310,MIA,GSW
+Shot Chart Detail,0020500913,210,2548,Dwyane Wade,1610612748,Miami Heat,2,3,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-176,179,1,1,20060310,MIA,GSW
+Shot Chart Detail,0020500913,216,2548,Dwyane Wade,1610612748,Miami Heat,2,3,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-95,161,1,1,20060310,MIA,GSW
+Shot Chart Detail,0020500913,230,2548,Dwyane Wade,1610612748,Miami Heat,2,2,0,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060310,MIA,GSW
+Shot Chart Detail,0020500913,436,2548,Dwyane Wade,1610612748,Miami Heat,4,5,48,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-57,12,1,1,20060310,MIA,GSW
+Shot Chart Detail,0020500913,471,2548,Dwyane Wade,1610612748,Miami Heat,4,2,52,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060310,MIA,GSW
+Shot Chart Detail,0020500913,493,2548,Dwyane Wade,1610612748,Miami Heat,4,0,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-172,176,1,1,20060310,MIA,GSW
+Shot Chart Detail,0020500929,9,2548,Dwyane Wade,1610612748,Miami Heat,1,11,4,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,49,33,1,1,20060312,MIA,CLE
+Shot Chart Detail,0020500929,58,2548,Dwyane Wade,1610612748,Miami Heat,1,6,8,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,80,41,1,1,20060312,MIA,CLE
+Shot Chart Detail,0020500929,116,2548,Dwyane Wade,1610612748,Miami Heat,1,1,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060312,MIA,CLE
+Shot Chart Detail,0020500929,132,2548,Dwyane Wade,1610612748,Miami Heat,1,0,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060312,MIA,CLE
+Shot Chart Detail,0020500929,221,2548,Dwyane Wade,1610612748,Miami Heat,2,4,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,16,146,1,1,20060312,MIA,CLE
+Shot Chart Detail,0020500929,262,2548,Dwyane Wade,1610612748,Miami Heat,2,0,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,143,100,1,1,20060312,MIA,CLE
+Shot Chart Detail,0020500929,359,2548,Dwyane Wade,1610612748,Miami Heat,3,2,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-135,104,1,1,20060312,MIA,CLE
+Shot Chart Detail,0020500929,375,2548,Dwyane Wade,1610612748,Miami Heat,3,1,32,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060312,MIA,CLE
+Shot Chart Detail,0020500929,378,2548,Dwyane Wade,1610612748,Miami Heat,3,0,50,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060312,MIA,CLE
+Shot Chart Detail,0020500929,400,2548,Dwyane Wade,1610612748,Miami Heat,4,11,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-128,128,1,1,20060312,MIA,CLE
+Shot Chart Detail,0020500929,541,2548,Dwyane Wade,1610612748,Miami Heat,4,0,5,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060312,MIA,CLE
+Shot Chart Detail,0020500943,30,2548,Dwyane Wade,1610612748,Miami Heat,1,9,11,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060314,MIA,UTA
+Shot Chart Detail,0020500943,56,2548,Dwyane Wade,1610612748,Miami Heat,1,6,39,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060314,MIA,UTA
+Shot Chart Detail,0020500943,65,2548,Dwyane Wade,1610612748,Miami Heat,1,5,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-123,112,1,1,20060314,MIA,UTA
+Shot Chart Detail,0020500943,100,2548,Dwyane Wade,1610612748,Miami Heat,1,2,58,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,15,-77,132,1,1,20060314,MIA,UTA
+Shot Chart Detail,0020500943,102,2548,Dwyane Wade,1610612748,Miami Heat,1,2,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060314,MIA,UTA
+Shot Chart Detail,0020500943,117,2548,Dwyane Wade,1610612748,Miami Heat,1,1,20,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060314,MIA,UTA
+Shot Chart Detail,0020500943,119,2548,Dwyane Wade,1610612748,Miami Heat,1,0,58,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060314,MIA,UTA
+Shot Chart Detail,0020500943,181,2548,Dwyane Wade,1610612748,Miami Heat,2,6,33,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060314,MIA,UTA
+Shot Chart Detail,0020500943,275,2548,Dwyane Wade,1610612748,Miami Heat,3,8,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060314,MIA,UTA
+Shot Chart Detail,0020500960,20,2548,Dwyane Wade,1610612748,Miami Heat,1,9,9,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060316,MIA,BOS
+Shot Chart Detail,0020500960,220,2548,Dwyane Wade,1610612748,Miami Heat,2,1,23,Made Shot,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060316,MIA,BOS
+Shot Chart Detail,0020500960,291,2548,Dwyane Wade,1610612748,Miami Heat,3,5,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-126,110,1,1,20060316,MIA,BOS
+Shot Chart Detail,0020500960,305,2548,Dwyane Wade,1610612748,Miami Heat,3,4,10,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-59,20,1,1,20060316,MIA,BOS
+Shot Chart Detail,0020500960,310,2548,Dwyane Wade,1610612748,Miami Heat,3,3,33,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-48,8,1,1,20060316,MIA,BOS
+Shot Chart Detail,0020500960,334,2548,Dwyane Wade,1610612748,Miami Heat,3,2,2,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060316,MIA,BOS
+Shot Chart Detail,0020500960,368,2548,Dwyane Wade,1610612748,Miami Heat,4,10,27,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,33,3,1,1,20060316,MIA,BOS
+Shot Chart Detail,0020500960,389,2548,Dwyane Wade,1610612748,Miami Heat,4,8,42,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060316,MIA,BOS
+Shot Chart Detail,0020500960,410,2548,Dwyane Wade,1610612748,Miami Heat,4,7,34,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-115,114,1,1,20060316,MIA,BOS
+Shot Chart Detail,0020500960,424,2548,Dwyane Wade,1610612748,Miami Heat,4,5,56,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060316,MIA,BOS
+Shot Chart Detail,0020500960,437,2548,Dwyane Wade,1610612748,Miami Heat,4,4,50,Made Shot,Driving Finger Roll Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060316,MIA,BOS
+Shot Chart Detail,0020500960,445,2548,Dwyane Wade,1610612748,Miami Heat,4,4,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,0,204,1,1,20060316,MIA,BOS
+Shot Chart Detail,0020500974,281,2548,Dwyane Wade,1610612748,Miami Heat,3,9,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060318,CHI,MIA
+Shot Chart Detail,0020500987,31,2548,Dwyane Wade,1610612748,Miami Heat,1,7,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-115,173,1,1,20060319,NYK,MIA
+Shot Chart Detail,0020500987,43,2548,Dwyane Wade,1610612748,Miami Heat,1,5,28,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060319,NYK,MIA
+Shot Chart Detail,0020500987,67,2548,Dwyane Wade,1610612748,Miami Heat,1,3,19,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060319,NYK,MIA
+Shot Chart Detail,0020500987,225,2548,Dwyane Wade,1610612748,Miami Heat,2,0,0,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-56,64,1,1,20060319,NYK,MIA
+Shot Chart Detail,0020500987,235,2548,Dwyane Wade,1610612748,Miami Heat,3,11,28,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060319,NYK,MIA
+Shot Chart Detail,0020500987,259,2548,Dwyane Wade,1610612748,Miami Heat,3,8,33,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060319,NYK,MIA
+Shot Chart Detail,0020500987,305,2548,Dwyane Wade,1610612748,Miami Heat,3,4,17,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-31,36,1,1,20060319,NYK,MIA
+Shot Chart Detail,0020500987,328,2548,Dwyane Wade,1610612748,Miami Heat,3,1,55,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060319,NYK,MIA
+Shot Chart Detail,0020500987,338,2548,Dwyane Wade,1610612748,Miami Heat,3,0,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,23,214,1,1,20060319,NYK,MIA
+Shot Chart Detail,0020500987,416,2548,Dwyane Wade,1610612748,Miami Heat,4,4,21,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060319,NYK,MIA
+Shot Chart Detail,0020500998,23,2548,Dwyane Wade,1610612748,Miami Heat,1,10,2,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060321,MIN,MIA
+Shot Chart Detail,0020500998,55,2548,Dwyane Wade,1610612748,Miami Heat,1,6,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060321,MIN,MIA
+Shot Chart Detail,0020500998,176,2548,Dwyane Wade,1610612748,Miami Heat,2,6,42,Made Shot,Follow Up Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060321,MIN,MIA
+Shot Chart Detail,0020500998,193,2548,Dwyane Wade,1610612748,Miami Heat,2,4,57,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060321,MIN,MIA
+Shot Chart Detail,0020500998,205,2548,Dwyane Wade,1610612748,Miami Heat,2,3,37,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,100,5,1,1,20060321,MIN,MIA
+Shot Chart Detail,0020500998,225,2548,Dwyane Wade,1610612748,Miami Heat,2,1,58,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,61,22,1,1,20060321,MIN,MIA
+Shot Chart Detail,0020500998,234,2548,Dwyane Wade,1610612748,Miami Heat,2,0,47,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,0,51,1,1,20060321,MIN,MIA
+Shot Chart Detail,0020500998,266,2548,Dwyane Wade,1610612748,Miami Heat,3,8,21,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-131,10,1,1,20060321,MIN,MIA
+Shot Chart Detail,0020500998,423,2548,Dwyane Wade,1610612748,Miami Heat,4,3,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-75,243,1,1,20060321,MIN,MIA
+Shot Chart Detail,0020500998,426,2548,Dwyane Wade,1610612748,Miami Heat,4,2,55,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,240,63,1,1,20060321,MIN,MIA
+Shot Chart Detail,0020501007,205,2548,Dwyane Wade,1610612748,Miami Heat,2,0,21,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-18,112,1,1,20060322,DET,MIA
+Shot Chart Detail,0020501007,274,2548,Dwyane Wade,1610612748,Miami Heat,3,3,54,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,-6,1,1,20060322,DET,MIA
+Shot Chart Detail,0020501007,294,2548,Dwyane Wade,1610612748,Miami Heat,3,1,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,163,48,1,1,20060322,DET,MIA
+Shot Chart Detail,0020501021,9,2548,Dwyane Wade,1610612748,Miami Heat,1,10,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-169,0,1,1,20060324,MIA,CHA
+Shot Chart Detail,0020501021,62,2548,Dwyane Wade,1610612748,Miami Heat,1,4,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,192,7,1,1,20060324,MIA,CHA
+Shot Chart Detail,0020501021,97,2548,Dwyane Wade,1610612748,Miami Heat,1,1,38,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060324,MIA,CHA
+Shot Chart Detail,0020501021,108,2548,Dwyane Wade,1610612748,Miami Heat,1,0,22,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060324,MIA,CHA
+Shot Chart Detail,0020501021,191,2548,Dwyane Wade,1610612748,Miami Heat,2,4,1,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-126,141,1,1,20060324,MIA,CHA
+Shot Chart Detail,0020501021,201,2548,Dwyane Wade,1610612748,Miami Heat,2,2,57,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060324,MIA,CHA
+Shot Chart Detail,0020501021,217,2548,Dwyane Wade,1610612748,Miami Heat,2,1,21,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060324,MIA,CHA
+Shot Chart Detail,0020501021,275,2548,Dwyane Wade,1610612748,Miami Heat,3,7,19,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060324,MIA,CHA
+Shot Chart Detail,0020501021,343,2548,Dwyane Wade,1610612748,Miami Heat,3,0,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060324,MIA,CHA
+Shot Chart Detail,0020501044,28,2548,Dwyane Wade,1610612748,Miami Heat,1,9,7,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-44,138,1,1,20060327,MIA,IND
+Shot Chart Detail,0020501044,53,2548,Dwyane Wade,1610612748,Miami Heat,1,6,5,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-38,53,1,1,20060327,MIA,IND
+Shot Chart Detail,0020501044,64,2548,Dwyane Wade,1610612748,Miami Heat,1,4,43,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060327,MIA,IND
+Shot Chart Detail,0020501044,66,2548,Dwyane Wade,1610612748,Miami Heat,1,4,9,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060327,MIA,IND
+Shot Chart Detail,0020501044,410,2548,Dwyane Wade,1610612748,Miami Heat,4,9,16,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060327,MIA,IND
+Shot Chart Detail,0020501044,430,2548,Dwyane Wade,1610612748,Miami Heat,4,7,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060327,MIA,IND
+Shot Chart Detail,0020501044,461,2548,Dwyane Wade,1610612748,Miami Heat,4,3,50,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,120,105,1,1,20060327,MIA,IND
+Shot Chart Detail,0020501054,10,2548,Dwyane Wade,1610612748,Miami Heat,1,11,4,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-74,54,1,1,20060329,TOR,MIA
+Shot Chart Detail,0020501054,43,2548,Dwyane Wade,1610612748,Miami Heat,1,7,25,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060329,TOR,MIA
+Shot Chart Detail,0020501054,120,2548,Dwyane Wade,1610612748,Miami Heat,2,11,11,Made Shot,Driving Finger Roll Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060329,TOR,MIA
+Shot Chart Detail,0020501054,134,2548,Dwyane Wade,1610612748,Miami Heat,2,9,49,Made Shot,Driving Finger Roll Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060329,TOR,MIA
+Shot Chart Detail,0020501054,216,2548,Dwyane Wade,1610612748,Miami Heat,2,2,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,112,146,1,1,20060329,TOR,MIA
+Shot Chart Detail,0020501054,223,2548,Dwyane Wade,1610612748,Miami Heat,2,2,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-112,176,1,1,20060329,TOR,MIA
+Shot Chart Detail,0020501054,271,2548,Dwyane Wade,1610612748,Miami Heat,3,10,21,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,6,59,1,1,20060329,TOR,MIA
+Shot Chart Detail,0020501054,302,2548,Dwyane Wade,1610612748,Miami Heat,3,6,47,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060329,TOR,MIA
+Shot Chart Detail,0020501054,412,2548,Dwyane Wade,1610612748,Miami Heat,4,6,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-118,25,1,1,20060329,TOR,MIA
+Shot Chart Detail,0020501054,428,2548,Dwyane Wade,1610612748,Miami Heat,4,4,59,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,3,179,1,1,20060329,TOR,MIA
+Shot Chart Detail,0020501054,434,2548,Dwyane Wade,1610612748,Miami Heat,4,3,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-25,178,1,1,20060329,TOR,MIA
+Shot Chart Detail,0020501054,437,2548,Dwyane Wade,1610612748,Miami Heat,4,3,20,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060329,TOR,MIA
+Shot Chart Detail,0020501079,23,2548,Dwyane Wade,1610612748,Miami Heat,1,9,31,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,100,12,1,1,20060401,CLE,MIA
+Shot Chart Detail,0020501079,32,2548,Dwyane Wade,1610612748,Miami Heat,1,8,0,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,103,56,1,1,20060401,CLE,MIA
+Shot Chart Detail,0020501079,54,2548,Dwyane Wade,1610612748,Miami Heat,1,5,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-161,8,1,1,20060401,CLE,MIA
+Shot Chart Detail,0020501079,94,2548,Dwyane Wade,1610612748,Miami Heat,1,2,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,-5,1,1,20060401,CLE,MIA
+Shot Chart Detail,0020501079,140,2548,Dwyane Wade,1610612748,Miami Heat,2,10,14,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,-3,1,1,20060401,CLE,MIA
+Shot Chart Detail,0020501079,207,2548,Dwyane Wade,1610612748,Miami Heat,2,3,3,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,11,72,1,1,20060401,CLE,MIA
+Shot Chart Detail,0020501079,213,2548,Dwyane Wade,1610612748,Miami Heat,2,2,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-67,209,1,1,20060401,CLE,MIA
+Shot Chart Detail,0020501079,236,2548,Dwyane Wade,1610612748,Miami Heat,2,0,27,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,110,38,1,1,20060401,CLE,MIA
+Shot Chart Detail,0020501079,274,2548,Dwyane Wade,1610612748,Miami Heat,3,8,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,171,91,1,1,20060401,CLE,MIA
+Shot Chart Detail,0020501079,379,2548,Dwyane Wade,1610612748,Miami Heat,4,10,59,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,10,1,1,20060401,CLE,MIA
+Shot Chart Detail,0020501079,384,2548,Dwyane Wade,1610612748,Miami Heat,4,10,13,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,-5,1,1,20060401,CLE,MIA
+Shot Chart Detail,0020501079,392,2548,Dwyane Wade,1610612748,Miami Heat,4,8,49,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,-8,1,1,20060401,CLE,MIA
+Shot Chart Detail,0020501079,398,2548,Dwyane Wade,1610612748,Miami Heat,4,8,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,12,1,1,20060401,CLE,MIA
+Shot Chart Detail,0020501079,414,2548,Dwyane Wade,1610612748,Miami Heat,4,6,26,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-5,25,1,1,20060401,CLE,MIA
+Shot Chart Detail,0020501079,420,2548,Dwyane Wade,1610612748,Miami Heat,4,5,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,7,1,1,20060401,CLE,MIA
+Shot Chart Detail,0020501079,447,2548,Dwyane Wade,1610612748,Miami Heat,4,3,27,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,2,1,1,20060401,CLE,MIA
+Shot Chart Detail,0020501079,449,2548,Dwyane Wade,1610612748,Miami Heat,4,3,0,Made Shot,Running Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-8,31,1,1,20060401,CLE,MIA
+Shot Chart Detail,0020501079,461,2548,Dwyane Wade,1610612748,Miami Heat,4,1,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,-3,1,1,20060401,CLE,MIA
+Shot Chart Detail,0020501091,21,2548,Dwyane Wade,1610612748,Miami Heat,1,8,32,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060402,NJN,MIA
+Shot Chart Detail,0020501091,35,2548,Dwyane Wade,1610612748,Miami Heat,1,6,42,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-89,3,1,1,20060402,NJN,MIA
+Shot Chart Detail,0020501091,51,2548,Dwyane Wade,1610612748,Miami Heat,1,4,38,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060402,NJN,MIA
+Shot Chart Detail,0020501091,93,2548,Dwyane Wade,1610612748,Miami Heat,1,0,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,92,140,1,1,20060402,NJN,MIA
+Shot Chart Detail,0020501091,115,2548,Dwyane Wade,1610612748,Miami Heat,2,10,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060402,NJN,MIA
+Shot Chart Detail,0020501091,171,2548,Dwyane Wade,1610612748,Miami Heat,2,3,37,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060402,NJN,MIA
+Shot Chart Detail,0020501091,176,2548,Dwyane Wade,1610612748,Miami Heat,2,3,12,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-140,38,1,1,20060402,NJN,MIA
+Shot Chart Detail,0020501091,224,2548,Dwyane Wade,1610612748,Miami Heat,3,10,45,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060402,NJN,MIA
+Shot Chart Detail,0020501091,257,2548,Dwyane Wade,1610612748,Miami Heat,3,6,18,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060402,NJN,MIA
+Shot Chart Detail,0020501091,266,2548,Dwyane Wade,1610612748,Miami Heat,3,5,11,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060402,NJN,MIA
+Shot Chart Detail,0020501091,269,2548,Dwyane Wade,1610612748,Miami Heat,3,4,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,46,215,1,1,20060402,NJN,MIA
+Shot Chart Detail,0020501091,337,2548,Dwyane Wade,1610612748,Miami Heat,4,11,44,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-31,40,1,1,20060402,NJN,MIA
+Shot Chart Detail,0020501100,39,2548,Dwyane Wade,1610612748,Miami Heat,1,7,35,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,87,10,1,1,20060404,MIA,MIL
+Shot Chart Detail,0020501100,101,2548,Dwyane Wade,1610612748,Miami Heat,1,0,38,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060404,MIA,MIL
+Shot Chart Detail,0020501100,168,2548,Dwyane Wade,1610612748,Miami Heat,2,5,50,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060404,MIA,MIL
+Shot Chart Detail,0020501100,285,2548,Dwyane Wade,1610612748,Miami Heat,3,8,6,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060404,MIA,MIL
+Shot Chart Detail,0020501100,350,2548,Dwyane Wade,1610612748,Miami Heat,3,1,31,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060404,MIA,MIL
+Shot Chart Detail,0020501100,361,2548,Dwyane Wade,1610612748,Miami Heat,3,0,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-158,94,1,1,20060404,MIA,MIL
+Shot Chart Detail,0020501119,30,2548,Dwyane Wade,1610612748,Miami Heat,1,8,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060406,MIA,DET
+Shot Chart Detail,0020501119,61,2548,Dwyane Wade,1610612748,Miami Heat,1,4,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-112,140,1,1,20060406,MIA,DET
+Shot Chart Detail,0020501119,71,2548,Dwyane Wade,1610612748,Miami Heat,1,3,36,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-61,130,1,1,20060406,MIA,DET
+Shot Chart Detail,0020501119,88,2548,Dwyane Wade,1610612748,Miami Heat,1,1,28,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060406,MIA,DET
+Shot Chart Detail,0020501119,96,2548,Dwyane Wade,1610612748,Miami Heat,1,0,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,52,178,1,1,20060406,MIA,DET
+Shot Chart Detail,0020501119,154,2548,Dwyane Wade,1610612748,Miami Heat,2,7,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060406,MIA,DET
+Shot Chart Detail,0020501119,189,2548,Dwyane Wade,1610612748,Miami Heat,2,4,0,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060406,MIA,DET
+Shot Chart Detail,0020501119,272,2548,Dwyane Wade,1610612748,Miami Heat,3,9,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-115,140,1,1,20060406,MIA,DET
+Shot Chart Detail,0020501119,348,2548,Dwyane Wade,1610612748,Miami Heat,3,1,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-89,133,1,1,20060406,MIA,DET
+Shot Chart Detail,0020501119,355,2548,Dwyane Wade,1610612748,Miami Heat,3,0,18,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-187,-23,1,1,20060406,MIA,DET
+Shot Chart Detail,0020501119,415,2548,Dwyane Wade,1610612748,Miami Heat,4,5,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,113,186,1,1,20060406,MIA,DET
+Shot Chart Detail,0020501134,121,2548,Dwyane Wade,1610612748,Miami Heat,2,11,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,3,0,1,1,20060408,WAS,MIA
+Shot Chart Detail,0020501134,178,2548,Dwyane Wade,1610612748,Miami Heat,2,6,13,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,10,69,1,1,20060408,WAS,MIA
+Shot Chart Detail,0020501134,353,2548,Dwyane Wade,1610612748,Miami Heat,4,11,42,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,-6,1,1,20060408,WAS,MIA
+Shot Chart Detail,0020501145,6,2548,Dwyane Wade,1610612748,Miami Heat,1,11,12,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-158,56,1,1,20060409,MIA,ORL
+Shot Chart Detail,0020501145,25,2548,Dwyane Wade,1610612748,Miami Heat,1,8,31,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060409,MIA,ORL
+Shot Chart Detail,0020501145,53,2548,Dwyane Wade,1610612748,Miami Heat,1,5,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060409,MIA,ORL
+Shot Chart Detail,0020501145,82,2548,Dwyane Wade,1610612748,Miami Heat,1,1,49,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060409,MIA,ORL
+Shot Chart Detail,0020501145,89,2548,Dwyane Wade,1610612748,Miami Heat,1,0,24,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060409,MIA,ORL
+Shot Chart Detail,0020501145,166,2548,Dwyane Wade,1610612748,Miami Heat,2,5,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060409,MIA,ORL
+Shot Chart Detail,0020501145,320,2548,Dwyane Wade,1610612748,Miami Heat,3,1,17,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,6,54,1,1,20060409,MIA,ORL
+Shot Chart Detail,0020501145,335,2548,Dwyane Wade,1610612748,Miami Heat,4,11,40,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060409,MIA,ORL
+Shot Chart Detail,0020501145,337,2548,Dwyane Wade,1610612748,Miami Heat,4,10,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-187,2,1,1,20060409,MIA,ORL
+Shot Chart Detail,0020501181,19,2548,Dwyane Wade,1610612748,Miami Heat,1,9,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-92,133,1,1,20060414,MIA,PHI
+Shot Chart Detail,0020501181,23,2548,Dwyane Wade,1610612748,Miami Heat,1,9,19,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060414,MIA,PHI
+Shot Chart Detail,0020501181,137,2548,Dwyane Wade,1610612748,Miami Heat,2,9,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-187,-11,1,1,20060414,MIA,PHI
+Shot Chart Detail,0020501181,149,2548,Dwyane Wade,1610612748,Miami Heat,2,8,57,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060414,MIA,PHI
+Shot Chart Detail,0020501181,215,2548,Dwyane Wade,1610612748,Miami Heat,2,2,10,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060414,MIA,PHI
+Shot Chart Detail,0020501181,264,2548,Dwyane Wade,1610612748,Miami Heat,3,10,43,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060414,MIA,PHI
+Shot Chart Detail,0020501181,289,2548,Dwyane Wade,1610612748,Miami Heat,3,8,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,143,92,1,1,20060414,MIA,PHI
+Shot Chart Detail,0020501181,303,2548,Dwyane Wade,1610612748,Miami Heat,3,6,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060414,MIA,PHI
+Shot Chart Detail,0020501181,330,2548,Dwyane Wade,1610612748,Miami Heat,3,4,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-169,0,1,1,20060414,MIA,PHI
+Shot Chart Detail,0020501181,412,2548,Dwyane Wade,1610612748,Miami Heat,4,7,50,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-133,133,1,1,20060414,MIA,PHI
+Shot Chart Detail,0020501194,66,2548,Dwyane Wade,1610612748,Miami Heat,1,5,9,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060416,MIA,CHI
+Shot Chart Detail,0020501194,107,2548,Dwyane Wade,1610612748,Miami Heat,1,1,32,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,130,59,1,1,20060416,MIA,CHI

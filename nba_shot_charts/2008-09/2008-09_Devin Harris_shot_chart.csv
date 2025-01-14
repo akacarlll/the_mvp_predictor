@@ -1,0 +1,456 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0020800006,59,2734,Devin Harris,1610612751,New Jersey Nets,1,5,50,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,39,15,1,1,20081029,WAS,NJN
+Shot Chart Detail,0020800006,76,2734,Devin Harris,1610612751,New Jersey Nets,1,4,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,113,153,1,1,20081029,WAS,NJN
+Shot Chart Detail,0020800006,208,2734,Devin Harris,1610612751,New Jersey Nets,2,5,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,118,146,1,1,20081029,WAS,NJN
+Shot Chart Detail,0020800006,511,2734,Devin Harris,1610612751,New Jersey Nets,4,1,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-57,149,1,1,20081029,WAS,NJN
+Shot Chart Detail,0020800006,532,2734,Devin Harris,1610612751,New Jersey Nets,4,0,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,-5,1,1,20081029,WAS,NJN
+Shot Chart Detail,0020800031,314,2734,Devin Harris,1610612751,New Jersey Nets,3,10,49,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081101,NJN,GSW
+Shot Chart Detail,0020800031,336,2734,Devin Harris,1610612751,New Jersey Nets,3,8,46,Made Shot,Driving Bank shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-141,47,1,1,20081101,NJN,GSW
+Shot Chart Detail,0020800031,519,2734,Devin Harris,1610612751,New Jersey Nets,4,4,57,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081101,NJN,GSW
+Shot Chart Detail,0020800048,17,2734,Devin Harris,1610612751,New Jersey Nets,1,10,16,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-10,104,1,1,20081104,NJN,PHX
+Shot Chart Detail,0020800048,317,2734,Devin Harris,1610612751,New Jersey Nets,3,7,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081104,NJN,PHX
+Shot Chart Detail,0020800071,58,2734,Devin Harris,1610612751,New Jersey Nets,1,4,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,91,119,1,1,20081107,NJN,DET
+Shot Chart Detail,0020800071,237,2734,Devin Harris,1610612751,New Jersey Nets,2,0,2,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081107,NJN,DET
+Shot Chart Detail,0020800071,245,2734,Devin Harris,1610612751,New Jersey Nets,3,11,43,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081107,NJN,DET
+Shot Chart Detail,0020800071,255,2734,Devin Harris,1610612751,New Jersey Nets,3,10,36,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,18,44,1,1,20081107,NJN,DET
+Shot Chart Detail,0020800071,278,2734,Devin Harris,1610612751,New Jersey Nets,3,8,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,3,140,1,1,20081107,NJN,DET
+Shot Chart Detail,0020800071,404,2734,Devin Harris,1610612751,New Jersey Nets,4,11,47,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081107,NJN,DET
+Shot Chart Detail,0020800071,407,2734,Devin Harris,1610612751,New Jersey Nets,4,11,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,110,138,1,1,20081107,NJN,DET
+Shot Chart Detail,0020800071,533,2734,Devin Harris,1610612751,New Jersey Nets,4,0,55,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,18,72,1,1,20081107,NJN,DET
+Shot Chart Detail,0020800071,535,2734,Devin Harris,1610612751,New Jersey Nets,4,0,19,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081107,NJN,DET
+Shot Chart Detail,0020800123,27,2734,Devin Harris,1610612751,New Jersey Nets,1,9,7,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081114,NJN,ATL
+Shot Chart Detail,0020800123,37,2734,Devin Harris,1610612751,New Jersey Nets,1,7,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081114,NJN,ATL
+Shot Chart Detail,0020800123,118,2734,Devin Harris,1610612751,New Jersey Nets,1,0,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-5,198,1,1,20081114,NJN,ATL
+Shot Chart Detail,0020800123,185,2734,Devin Harris,1610612751,New Jersey Nets,2,5,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081114,NJN,ATL
+Shot Chart Detail,0020800123,415,2734,Devin Harris,1610612751,New Jersey Nets,4,8,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,29,261,1,1,20081114,NJN,ATL
+Shot Chart Detail,0020800123,418,2734,Devin Harris,1610612751,New Jersey Nets,4,8,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-86,249,1,1,20081114,NJN,ATL
+Shot Chart Detail,0020800123,445,2734,Devin Harris,1610612751,New Jersey Nets,4,6,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081114,NJN,ATL
+Shot Chart Detail,0020800123,519,2734,Devin Harris,1610612751,New Jersey Nets,4,0,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,0,198,1,1,20081114,NJN,ATL
+Shot Chart Detail,0020800133,19,2734,Devin Harris,1610612751,New Jersey Nets,1,10,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081115,ATL,NJN
+Shot Chart Detail,0020800133,58,2734,Devin Harris,1610612751,New Jersey Nets,1,6,14,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-40,15,1,1,20081115,ATL,NJN
+Shot Chart Detail,0020800133,85,2734,Devin Harris,1610612751,New Jersey Nets,1,4,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-106,157,1,1,20081115,ATL,NJN
+Shot Chart Detail,0020800133,93,2734,Devin Harris,1610612751,New Jersey Nets,1,3,32,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081115,ATL,NJN
+Shot Chart Detail,0020800133,267,2734,Devin Harris,1610612751,New Jersey Nets,2,1,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-62,190,1,1,20081115,ATL,NJN
+Shot Chart Detail,0020800133,321,2734,Devin Harris,1610612751,New Jersey Nets,3,6,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,196,208,1,1,20081115,ATL,NJN
+Shot Chart Detail,0020800133,346,2734,Devin Harris,1610612751,New Jersey Nets,3,3,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-86,255,1,1,20081115,ATL,NJN
+Shot Chart Detail,0020800133,412,2734,Devin Harris,1610612751,New Jersey Nets,4,8,11,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,43,52,1,1,20081115,ATL,NJN
+Shot Chart Detail,0020800133,497,2734,Devin Harris,1610612751,New Jersey Nets,4,2,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-13,208,1,1,20081115,ATL,NJN
+Shot Chart Detail,0020800154,56,2734,Devin Harris,1610612751,New Jersey Nets,1,5,36,Made Shot,Driving Bank shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-120,93,1,1,20081118,NJN,CLE
+Shot Chart Detail,0020800154,61,2734,Devin Harris,1610612751,New Jersey Nets,1,4,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,12,175,1,1,20081118,NJN,CLE
+Shot Chart Detail,0020800154,82,2734,Devin Harris,1610612751,New Jersey Nets,1,3,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-217,121,1,1,20081118,NJN,CLE
+Shot Chart Detail,0020800154,189,2734,Devin Harris,1610612751,New Jersey Nets,2,6,40,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081118,NJN,CLE
+Shot Chart Detail,0020800154,263,2734,Devin Harris,1610612751,New Jersey Nets,2,2,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-26,195,1,1,20081118,NJN,CLE
+Shot Chart Detail,0020800154,332,2734,Devin Harris,1610612751,New Jersey Nets,3,8,36,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-2,96,1,1,20081118,NJN,CLE
+Shot Chart Detail,0020800154,370,2734,Devin Harris,1610612751,New Jersey Nets,3,4,24,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081118,NJN,CLE
+Shot Chart Detail,0020800154,427,2734,Devin Harris,1610612751,New Jersey Nets,3,0,1,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,54,176,1,1,20081118,NJN,CLE
+Shot Chart Detail,0020800173,3,2734,Devin Harris,1610612751,New Jersey Nets,1,11,23,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,15,-67,137,1,1,20081121,TOR,NJN
+Shot Chart Detail,0020800173,73,2734,Devin Harris,1610612751,New Jersey Nets,1,5,44,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081121,TOR,NJN
+Shot Chart Detail,0020800173,136,2734,Devin Harris,1610612751,New Jersey Nets,1,0,18,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081121,TOR,NJN
+Shot Chart Detail,0020800173,377,2734,Devin Harris,1610612751,New Jersey Nets,4,11,27,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081121,TOR,NJN
+Shot Chart Detail,0020800173,405,2734,Devin Harris,1610612751,New Jersey Nets,4,9,7,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081121,TOR,NJN
+Shot Chart Detail,0020800173,411,2734,Devin Harris,1610612751,New Jersey Nets,4,8,45,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081121,TOR,NJN
+Shot Chart Detail,0020800173,423,2734,Devin Harris,1610612751,New Jersey Nets,4,6,54,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081121,TOR,NJN
+Shot Chart Detail,0020800173,426,2734,Devin Harris,1610612751,New Jersey Nets,4,6,20,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-89,142,1,1,20081121,TOR,NJN
+Shot Chart Detail,0020800173,546,2734,Devin Harris,1610612751,New Jersey Nets,5,3,18,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-101,94,1,1,20081121,TOR,NJN
+Shot Chart Detail,0020800173,572,2734,Devin Harris,1610612751,New Jersey Nets,5,0,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,99,142,1,1,20081121,TOR,NJN
+Shot Chart Detail,0020800188,41,2734,Devin Harris,1610612751,New Jersey Nets,1,5,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,4,189,1,1,20081122,NJN,LAC
+Shot Chart Detail,0020800188,57,2734,Devin Harris,1610612751,New Jersey Nets,1,4,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,121,129,1,1,20081122,NJN,LAC
+Shot Chart Detail,0020800188,306,2734,Devin Harris,1610612751,New Jersey Nets,3,9,26,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081122,NJN,LAC
+Shot Chart Detail,0020800188,467,2734,Devin Harris,1610612751,New Jersey Nets,4,5,2,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-92,143,1,1,20081122,NJN,LAC
+Shot Chart Detail,0020800188,481,2734,Devin Harris,1610612751,New Jersey Nets,4,3,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-18,143,1,1,20081122,NJN,LAC
+Shot Chart Detail,0020800209,20,2734,Devin Harris,1610612751,New Jersey Nets,1,9,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-164,64,1,1,20081125,LAL,NJN
+Shot Chart Detail,0020800209,190,2734,Devin Harris,1610612751,New Jersey Nets,2,5,52,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081125,LAL,NJN
+Shot Chart Detail,0020800209,196,2734,Devin Harris,1610612751,New Jersey Nets,2,5,26,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,40,72,1,1,20081125,LAL,NJN
+Shot Chart Detail,0020800209,241,2734,Devin Harris,1610612751,New Jersey Nets,2,1,27,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,59,110,1,1,20081125,LAL,NJN
+Shot Chart Detail,0020800209,247,2734,Devin Harris,1610612751,New Jersey Nets,2,0,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-100,225,1,1,20081125,LAL,NJN
+Shot Chart Detail,0020800221,243,2734,Devin Harris,1610612751,New Jersey Nets,2,4,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-82,176,1,1,20081126,SAC,NJN
+Shot Chart Detail,0020800221,320,2734,Devin Harris,1610612751,New Jersey Nets,3,10,45,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081126,SAC,NJN
+Shot Chart Detail,0020800221,396,2734,Devin Harris,1610612751,New Jersey Nets,3,3,47,Made Shot,Pullup Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,65,37,1,1,20081126,SAC,NJN
+Shot Chart Detail,0020800221,604,2734,Devin Harris,1610612751,New Jersey Nets,4,0,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081126,SAC,NJN
+Shot Chart Detail,0020800221,610,2734,Devin Harris,1610612751,New Jersey Nets,4,0,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-38,250,1,1,20081126,SAC,NJN
+Shot Chart Detail,0020800221,683,2734,Devin Harris,1610612751,New Jersey Nets,5,0,12,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,121,101,1,1,20081126,SAC,NJN
+Shot Chart Detail,0020800244,74,2734,Devin Harris,1610612751,New Jersey Nets,1,5,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081129,UTA,NJN
+Shot Chart Detail,0020800244,81,2734,Devin Harris,1610612751,New Jersey Nets,1,5,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,39,170,1,1,20081129,UTA,NJN
+Shot Chart Detail,0020800244,119,2734,Devin Harris,1610612751,New Jersey Nets,1,2,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081129,UTA,NJN
+Shot Chart Detail,0020800244,222,2734,Devin Harris,1610612751,New Jersey Nets,2,3,32,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081129,UTA,NJN
+Shot Chart Detail,0020800244,225,2734,Devin Harris,1610612751,New Jersey Nets,2,3,9,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081129,UTA,NJN
+Shot Chart Detail,0020800244,265,2734,Devin Harris,1610612751,New Jersey Nets,2,0,38,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-62,44,1,1,20081129,UTA,NJN
+Shot Chart Detail,0020800244,337,2734,Devin Harris,1610612751,New Jersey Nets,3,5,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081129,UTA,NJN
+Shot Chart Detail,0020800244,370,2734,Devin Harris,1610612751,New Jersey Nets,3,3,22,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,26,123,1,1,20081129,UTA,NJN
+Shot Chart Detail,0020800244,424,2734,Devin Harris,1610612751,New Jersey Nets,4,10,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-161,104,1,1,20081129,UTA,NJN
+Shot Chart Detail,0020800244,429,2734,Devin Harris,1610612751,New Jersey Nets,4,9,30,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081129,UTA,NJN
+Shot Chart Detail,0020800244,433,2734,Devin Harris,1610612751,New Jersey Nets,4,9,3,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,34,60,1,1,20081129,UTA,NJN
+Shot Chart Detail,0020800244,440,2734,Devin Harris,1610612751,New Jersey Nets,4,8,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,108,127,1,1,20081129,UTA,NJN
+Shot Chart Detail,0020800244,455,2734,Devin Harris,1610612751,New Jersey Nets,4,6,20,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-52,127,1,1,20081129,UTA,NJN
+Shot Chart Detail,0020800250,19,2734,Devin Harris,1610612751,New Jersey Nets,1,10,1,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081130,PHX,NJN
+Shot Chart Detail,0020800250,80,2734,Devin Harris,1610612751,New Jersey Nets,1,4,55,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081130,PHX,NJN
+Shot Chart Detail,0020800250,91,2734,Devin Harris,1610612751,New Jersey Nets,1,3,44,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,65,119,1,1,20081130,PHX,NJN
+Shot Chart Detail,0020800250,156,2734,Devin Harris,1610612751,New Jersey Nets,2,10,10,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-76,28,1,1,20081130,PHX,NJN
+Shot Chart Detail,0020800250,174,2734,Devin Harris,1610612751,New Jersey Nets,2,9,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081130,PHX,NJN
+Shot Chart Detail,0020800250,231,2734,Devin Harris,1610612751,New Jersey Nets,2,4,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,0,146,1,1,20081130,PHX,NJN
+Shot Chart Detail,0020800250,234,2734,Devin Harris,1610612751,New Jersey Nets,2,3,42,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,80,140,1,1,20081130,PHX,NJN
+Shot Chart Detail,0020800250,289,2734,Devin Harris,1610612751,New Jersey Nets,3,7,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,21,193,96,1,1,20081130,PHX,NJN
+Shot Chart Detail,0020800250,302,2734,Devin Harris,1610612751,New Jersey Nets,3,6,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-147,205,1,1,20081130,PHX,NJN
+Shot Chart Detail,0020800250,365,2734,Devin Harris,1610612751,New Jersey Nets,4,11,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-68,172,1,1,20081130,PHX,NJN
+Shot Chart Detail,0020800250,367,2734,Devin Harris,1610612751,New Jersey Nets,4,11,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081130,PHX,NJN
+Shot Chart Detail,0020800250,384,2734,Devin Harris,1610612751,New Jersey Nets,4,9,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-86,33,1,1,20081130,PHX,NJN
+Shot Chart Detail,0020800250,390,2734,Devin Harris,1610612751,New Jersey Nets,4,8,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-218,123,1,1,20081130,PHX,NJN
+Shot Chart Detail,0020800250,484,2734,Devin Harris,1610612751,New Jersey Nets,4,2,11,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-90,126,1,1,20081130,PHX,NJN
+Shot Chart Detail,0020800256,11,2734,Devin Harris,1610612751,New Jersey Nets,1,10,1,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,89,148,1,1,20081202,NJN,WAS
+Shot Chart Detail,0020800256,37,2734,Devin Harris,1610612751,New Jersey Nets,1,6,20,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081202,NJN,WAS
+Shot Chart Detail,0020800256,54,2734,Devin Harris,1610612751,New Jersey Nets,1,4,39,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-35,86,1,1,20081202,NJN,WAS
+Shot Chart Detail,0020800256,164,2734,Devin Harris,1610612751,New Jersey Nets,2,4,9,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081202,NJN,WAS
+Shot Chart Detail,0020800256,172,2734,Devin Harris,1610612751,New Jersey Nets,2,3,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-81,239,1,1,20081202,NJN,WAS
+Shot Chart Detail,0020800256,185,2734,Devin Harris,1610612751,New Jersey Nets,2,0,50,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081202,NJN,WAS
+Shot Chart Detail,0020800256,220,2734,Devin Harris,1610612751,New Jersey Nets,3,9,32,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081202,NJN,WAS
+Shot Chart Detail,0020800280,37,2734,Devin Harris,1610612751,New Jersey Nets,1,6,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-109,219,1,1,20081205,NJN,MIN
+Shot Chart Detail,0020800280,197,2734,Devin Harris,1610612751,New Jersey Nets,2,4,16,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081205,NJN,MIN
+Shot Chart Detail,0020800289,10,2734,Devin Harris,1610612751,New Jersey Nets,1,10,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-97,135,1,1,20081206,PHI,NJN
+Shot Chart Detail,0020800289,32,2734,Devin Harris,1610612751,New Jersey Nets,1,7,59,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081206,PHI,NJN
+Shot Chart Detail,0020800289,45,2734,Devin Harris,1610612751,New Jersey Nets,1,6,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,127,97,1,1,20081206,PHI,NJN
+Shot Chart Detail,0020800289,55,2734,Devin Harris,1610612751,New Jersey Nets,1,5,43,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081206,PHI,NJN
+Shot Chart Detail,0020800289,66,2734,Devin Harris,1610612751,New Jersey Nets,1,4,45,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081206,PHI,NJN
+Shot Chart Detail,0020800289,279,2734,Devin Harris,1610612751,New Jersey Nets,3,8,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-130,225,1,1,20081206,PHI,NJN
+Shot Chart Detail,0020800289,281,2734,Devin Harris,1610612751,New Jersey Nets,3,7,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-164,183,1,1,20081206,PHI,NJN
+Shot Chart Detail,0020800289,456,2734,Devin Harris,1610612751,New Jersey Nets,4,2,48,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081206,PHI,NJN
+Shot Chart Detail,0020800289,475,2734,Devin Harris,1610612751,New Jersey Nets,4,1,13,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-138,94,1,1,20081206,PHI,NJN
+Shot Chart Detail,0020800315,14,2734,Devin Harris,1610612751,New Jersey Nets,1,10,42,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081210,NJN,NYK
+Shot Chart Detail,0020800315,16,2734,Devin Harris,1610612751,New Jersey Nets,1,10,8,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,21,89,1,1,20081210,NJN,NYK
+Shot Chart Detail,0020800315,21,2734,Devin Harris,1610612751,New Jersey Nets,1,9,26,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081210,NJN,NYK
+Shot Chart Detail,0020800315,24,2734,Devin Harris,1610612751,New Jersey Nets,1,9,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-116,219,1,1,20081210,NJN,NYK
+Shot Chart Detail,0020800315,29,2734,Devin Harris,1610612751,New Jersey Nets,1,8,9,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081210,NJN,NYK
+Shot Chart Detail,0020800315,32,2734,Devin Harris,1610612751,New Jersey Nets,1,7,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,130,228,1,1,20081210,NJN,NYK
+Shot Chart Detail,0020800315,185,2734,Devin Harris,1610612751,New Jersey Nets,2,4,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,0,189,1,1,20081210,NJN,NYK
+Shot Chart Detail,0020800315,225,2734,Devin Harris,1610612751,New Jersey Nets,2,1,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-10,165,1,1,20081210,NJN,NYK
+Shot Chart Detail,0020800315,396,2734,Devin Harris,1610612751,New Jersey Nets,4,9,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,106,146,1,1,20081210,NJN,NYK
+Shot Chart Detail,0020800315,403,2734,Devin Harris,1610612751,New Jersey Nets,4,8,39,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081210,NJN,NYK
+Shot Chart Detail,0020800315,414,2734,Devin Harris,1610612751,New Jersey Nets,4,7,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-116,134,1,1,20081210,NJN,NYK
+Shot Chart Detail,0020800315,474,2734,Devin Harris,1610612751,New Jersey Nets,4,1,49,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,37,60,1,1,20081210,NJN,NYK
+Shot Chart Detail,0020800328,21,2734,Devin Harris,1610612751,New Jersey Nets,1,9,44,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081212,NJN,TOR
+Shot Chart Detail,0020800328,160,2734,Devin Harris,1610612751,New Jersey Nets,2,9,7,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081212,NJN,TOR
+Shot Chart Detail,0020800328,186,2734,Devin Harris,1610612751,New Jersey Nets,2,5,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-122,146,1,1,20081212,NJN,TOR
+Shot Chart Detail,0020800328,300,2734,Devin Harris,1610612751,New Jersey Nets,3,5,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081212,NJN,TOR
+Shot Chart Detail,0020800340,197,2734,Devin Harris,1610612751,New Jersey Nets,2,4,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081213,CHI,NJN
+Shot Chart Detail,0020800340,210,2734,Devin Harris,1610612751,New Jersey Nets,2,3,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081213,CHI,NJN
+Shot Chart Detail,0020800340,230,2734,Devin Harris,1610612751,New Jersey Nets,2,1,51,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081213,CHI,NJN
+Shot Chart Detail,0020800340,269,2734,Devin Harris,1610612751,New Jersey Nets,3,10,24,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081213,CHI,NJN
+Shot Chart Detail,0020800340,420,2734,Devin Harris,1610612751,New Jersey Nets,4,7,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-112,64,1,1,20081213,CHI,NJN
+Shot Chart Detail,0020800340,447,2734,Devin Harris,1610612751,New Jersey Nets,4,5,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081213,CHI,NJN
+Shot Chart Detail,0020800352,140,2734,Devin Harris,1610612751,New Jersey Nets,2,9,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081215,TOR,NJN
+Shot Chart Detail,0020800352,276,2734,Devin Harris,1610612751,New Jersey Nets,3,7,25,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-73,140,1,1,20081215,TOR,NJN
+Shot Chart Detail,0020800352,376,2734,Devin Harris,1610612751,New Jersey Nets,4,9,40,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-7,61,1,1,20081215,TOR,NJN
+Shot Chart Detail,0020800352,393,2734,Devin Harris,1610612751,New Jersey Nets,4,8,57,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,21,86,1,1,20081215,TOR,NJN
+Shot Chart Detail,0020800352,449,2734,Devin Harris,1610612751,New Jersey Nets,4,4,6,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-116,167,1,1,20081215,TOR,NJN
+Shot Chart Detail,0020800371,40,2734,Devin Harris,1610612751,New Jersey Nets,1,6,43,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081217,NJN,UTA
+Shot Chart Detail,0020800371,145,2734,Devin Harris,1610612751,New Jersey Nets,2,9,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-5,148,1,1,20081217,NJN,UTA
+Shot Chart Detail,0020800371,218,2734,Devin Harris,1610612751,New Jersey Nets,2,1,53,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081217,NJN,UTA
+Shot Chart Detail,0020800371,283,2734,Devin Harris,1610612751,New Jersey Nets,3,9,19,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,-3,1,1,20081217,NJN,UTA
+Shot Chart Detail,0020800371,347,2734,Devin Harris,1610612751,New Jersey Nets,3,3,38,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-228,85,1,1,20081217,NJN,UTA
+Shot Chart Detail,0020800371,349,2734,Devin Harris,1610612751,New Jersey Nets,3,3,12,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081217,NJN,UTA
+Shot Chart Detail,0020800371,509,2734,Devin Harris,1610612751,New Jersey Nets,4,1,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081217,NJN,UTA
+Shot Chart Detail,0020800381,22,2734,Devin Harris,1610612751,New Jersey Nets,1,9,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,9,186,1,1,20081219,NJN,DAL
+Shot Chart Detail,0020800381,27,2734,Devin Harris,1610612751,New Jersey Nets,1,8,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,78,239,1,1,20081219,NJN,DAL
+Shot Chart Detail,0020800381,48,2734,Devin Harris,1610612751,New Jersey Nets,1,6,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,103,154,1,1,20081219,NJN,DAL
+Shot Chart Detail,0020800381,50,2734,Devin Harris,1610612751,New Jersey Nets,1,6,29,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081219,NJN,DAL
+Shot Chart Detail,0020800381,63,2734,Devin Harris,1610612751,New Jersey Nets,1,5,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-194,154,1,1,20081219,NJN,DAL
+Shot Chart Detail,0020800381,71,2734,Devin Harris,1610612751,New Jersey Nets,1,4,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-175,170,1,1,20081219,NJN,DAL
+Shot Chart Detail,0020800381,151,2734,Devin Harris,1610612751,New Jersey Nets,2,9,28,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,65,44,1,1,20081219,NJN,DAL
+Shot Chart Detail,0020800381,195,2734,Devin Harris,1610612751,New Jersey Nets,2,4,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-4,194,1,1,20081219,NJN,DAL
+Shot Chart Detail,0020800381,232,2734,Devin Harris,1610612751,New Jersey Nets,2,2,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,7,247,1,1,20081219,NJN,DAL
+Shot Chart Detail,0020800381,295,2734,Devin Harris,1610612751,New Jersey Nets,3,7,28,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081219,NJN,DAL
+Shot Chart Detail,0020800381,324,2734,Devin Harris,1610612751,New Jersey Nets,3,3,10,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081219,NJN,DAL
+Shot Chart Detail,0020800381,333,2734,Devin Harris,1610612751,New Jersey Nets,3,2,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-98,230,1,1,20081219,NJN,DAL
+Shot Chart Detail,0020800381,379,2734,Devin Harris,1610612751,New Jersey Nets,4,10,59,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081219,NJN,DAL
+Shot Chart Detail,0020800381,438,2734,Devin Harris,1610612751,New Jersey Nets,4,5,25,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-48,129,1,1,20081219,NJN,DAL
+Shot Chart Detail,0020800393,21,2734,Devin Harris,1610612751,New Jersey Nets,1,8,25,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081220,NJN,MIA
+Shot Chart Detail,0020800393,207,2734,Devin Harris,1610612751,New Jersey Nets,2,2,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081220,NJN,MIA
+Shot Chart Detail,0020800393,217,2734,Devin Harris,1610612751,New Jersey Nets,2,1,45,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,0,1,1,20081220,NJN,MIA
+Shot Chart Detail,0020800393,304,2734,Devin Harris,1610612751,New Jersey Nets,3,4,44,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-228,34,1,1,20081220,NJN,MIA
+Shot Chart Detail,0020800393,327,2734,Devin Harris,1610612751,New Jersey Nets,3,2,38,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081220,NJN,MIA
+Shot Chart Detail,0020800404,308,2734,Devin Harris,1610612751,New Jersey Nets,3,7,16,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,10,135,1,1,20081222,NJN,HOU
+Shot Chart Detail,0020800404,315,2734,Devin Harris,1610612751,New Jersey Nets,3,5,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,119,131,1,1,20081222,NJN,HOU
+Shot Chart Detail,0020800412,136,2734,Devin Harris,1610612751,New Jersey Nets,2,9,27,Made Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,11,-78,85,1,1,20081223,IND,NJN
+Shot Chart Detail,0020800412,151,2734,Devin Harris,1610612751,New Jersey Nets,2,7,47,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,26,47,1,1,20081223,IND,NJN
+Shot Chart Detail,0020800412,228,2734,Devin Harris,1610612751,New Jersey Nets,2,2,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,89,129,1,1,20081223,IND,NJN
+Shot Chart Detail,0020800412,244,2734,Devin Harris,1610612751,New Jersey Nets,2,0,40,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,0,1,1,20081223,IND,NJN
+Shot Chart Detail,0020800412,291,2734,Devin Harris,1610612751,New Jersey Nets,3,7,46,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,3,1,1,20081223,IND,NJN
+Shot Chart Detail,0020800412,303,2734,Devin Harris,1610612751,New Jersey Nets,3,6,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-38,156,1,1,20081223,IND,NJN
+Shot Chart Detail,0020800412,314,2734,Devin Harris,1610612751,New Jersey Nets,3,4,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,106,145,1,1,20081223,IND,NJN
+Shot Chart Detail,0020800412,319,2734,Devin Harris,1610612751,New Jersey Nets,3,4,14,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-112,135,1,1,20081223,IND,NJN
+Shot Chart Detail,0020800412,505,2734,Devin Harris,1610612751,New Jersey Nets,4,0,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-10,216,1,1,20081223,IND,NJN
+Shot Chart Detail,0020800427,82,2734,Devin Harris,1610612751,New Jersey Nets,1,3,19,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081226,NJN,CHA
+Shot Chart Detail,0020800427,249,2734,Devin Harris,1610612751,New Jersey Nets,3,10,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-108,175,1,1,20081226,NJN,CHA
+Shot Chart Detail,0020800427,410,2734,Devin Harris,1610612751,New Jersey Nets,4,4,29,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081226,NJN,CHA
+Shot Chart Detail,0020800427,421,2734,Devin Harris,1610612751,New Jersey Nets,4,3,23,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081226,NJN,CHA
+Shot Chart Detail,0020800437,80,2734,Devin Harris,1610612751,New Jersey Nets,1,2,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-78,145,1,1,20081227,CHA,NJN
+Shot Chart Detail,0020800437,82,2734,Devin Harris,1610612751,New Jersey Nets,1,2,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081227,CHA,NJN
+Shot Chart Detail,0020800437,145,2734,Devin Harris,1610612751,New Jersey Nets,2,7,15,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,88,61,1,1,20081227,CHA,NJN
+Shot Chart Detail,0020800437,209,2734,Devin Harris,1610612751,New Jersey Nets,2,1,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-108,244,1,1,20081227,CHA,NJN
+Shot Chart Detail,0020800437,212,2734,Devin Harris,1610612751,New Jersey Nets,2,1,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081227,CHA,NJN
+Shot Chart Detail,0020800437,217,2734,Devin Harris,1610612751,New Jersey Nets,2,0,41,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081227,CHA,NJN
+Shot Chart Detail,0020800437,250,2734,Devin Harris,1610612751,New Jersey Nets,3,9,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081227,CHA,NJN
+Shot Chart Detail,0020800437,271,2734,Devin Harris,1610612751,New Jersey Nets,3,7,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,121,228,1,1,20081227,CHA,NJN
+Shot Chart Detail,0020800437,468,2734,Devin Harris,1610612751,New Jersey Nets,4,3,39,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-64,58,1,1,20081227,CHA,NJN
+Shot Chart Detail,0020800452,114,2734,Devin Harris,1610612751,New Jersey Nets,2,11,20,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,50,88,1,1,20081229,NJN,CHI
+Shot Chart Detail,0020800452,186,2734,Devin Harris,1610612751,New Jersey Nets,2,4,6,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081229,NJN,CHI
+Shot Chart Detail,0020800452,188,2734,Devin Harris,1610612751,New Jersey Nets,2,3,37,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081229,NJN,CHI
+Shot Chart Detail,0020800452,250,2734,Devin Harris,1610612751,New Jersey Nets,3,9,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,58,145,1,1,20081229,NJN,CHI
+Shot Chart Detail,0020800452,258,2734,Devin Harris,1610612751,New Jersey Nets,3,8,19,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-2,135,1,1,20081229,NJN,CHI
+Shot Chart Detail,0020800452,287,2734,Devin Harris,1610612751,New Jersey Nets,3,5,1,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081229,NJN,CHI
+Shot Chart Detail,0020800452,383,2734,Devin Harris,1610612751,New Jersey Nets,4,8,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081229,NJN,CHI
+Shot Chart Detail,0020800452,390,2734,Devin Harris,1610612751,New Jersey Nets,4,8,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,10,140,1,1,20081229,NJN,CHI
+Shot Chart Detail,0020800468,14,2734,Devin Harris,1610612751,New Jersey Nets,1,9,32,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081231,DET,NJN
+Shot Chart Detail,0020800468,19,2734,Devin Harris,1610612751,New Jersey Nets,1,9,20,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081231,DET,NJN
+Shot Chart Detail,0020800468,295,2734,Devin Harris,1610612751,New Jersey Nets,3,6,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-108,145,1,1,20081231,DET,NJN
+Shot Chart Detail,0020800468,337,2734,Devin Harris,1610612751,New Jersey Nets,3,1,20,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,155,78,1,1,20081231,DET,NJN
+Shot Chart Detail,0020800468,421,2734,Devin Harris,1610612751,New Jersey Nets,4,3,45,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081231,DET,NJN
+Shot Chart Detail,0020800468,454,2734,Devin Harris,1610612751,New Jersey Nets,4,0,39,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081231,DET,NJN
+Shot Chart Detail,0020800477,162,2734,Devin Harris,1610612751,New Jersey Nets,2,5,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-169,19,1,1,20090102,NJN,ATL
+Shot Chart Detail,0020800477,181,2734,Devin Harris,1610612751,New Jersey Nets,2,3,11,Made Shot,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,47,45,1,1,20090102,NJN,ATL
+Shot Chart Detail,0020800477,192,2734,Devin Harris,1610612751,New Jersey Nets,2,2,34,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090102,NJN,ATL
+Shot Chart Detail,0020800477,249,2734,Devin Harris,1610612751,New Jersey Nets,3,8,57,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,-3,1,1,20090102,NJN,ATL
+Shot Chart Detail,0020800477,272,2734,Devin Harris,1610612751,New Jersey Nets,3,5,8,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090102,NJN,ATL
+Shot Chart Detail,0020800477,313,2734,Devin Harris,1610612751,New Jersey Nets,3,1,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090102,NJN,ATL
+Shot Chart Detail,0020800477,352,2734,Devin Harris,1610612751,New Jersey Nets,4,10,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090102,NJN,ATL
+Shot Chart Detail,0020800477,369,2734,Devin Harris,1610612751,New Jersey Nets,4,8,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-79,247,1,1,20090102,NJN,ATL
+Shot Chart Detail,0020800477,399,2734,Devin Harris,1610612751,New Jersey Nets,4,4,46,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090102,NJN,ATL
+Shot Chart Detail,0020800502,164,2734,Devin Harris,1610612751,New Jersey Nets,2,7,10,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,3,1,1,20090105,NJN,SAC
+Shot Chart Detail,0020800555,15,2734,Devin Harris,1610612751,New Jersey Nets,1,10,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-19,257,1,1,20090112,NJN,OKC
+Shot Chart Detail,0020800555,38,2734,Devin Harris,1610612751,New Jersey Nets,1,8,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090112,NJN,OKC
+Shot Chart Detail,0020800555,179,2734,Devin Harris,1610612751,New Jersey Nets,2,7,10,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090112,NJN,OKC
+Shot Chart Detail,0020800555,313,2734,Devin Harris,1610612751,New Jersey Nets,3,6,42,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090112,NJN,OKC
+Shot Chart Detail,0020800555,335,2734,Devin Harris,1610612751,New Jersey Nets,3,4,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090112,NJN,OKC
+Shot Chart Detail,0020800555,342,2734,Devin Harris,1610612751,New Jersey Nets,3,3,27,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090112,NJN,OKC
+Shot Chart Detail,0020800555,517,2734,Devin Harris,1610612751,New Jersey Nets,5,4,2,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-5,48,1,1,20090112,NJN,OKC
+Shot Chart Detail,0020800569,33,2734,Devin Harris,1610612751,New Jersey Nets,1,8,15,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-2,1,1,20090114,BOS,NJN
+Shot Chart Detail,0020800569,73,2734,Devin Harris,1610612751,New Jersey Nets,1,4,55,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,6,1,1,20090114,BOS,NJN
+Shot Chart Detail,0020800569,92,2734,Devin Harris,1610612751,New Jersey Nets,1,2,47,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,3,1,1,20090114,BOS,NJN
+Shot Chart Detail,0020800569,203,2734,Devin Harris,1610612751,New Jersey Nets,2,5,41,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,7,1,1,20090114,BOS,NJN
+Shot Chart Detail,0020800569,319,2734,Devin Harris,1610612751,New Jersey Nets,3,7,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,3,1,1,20090114,BOS,NJN
+Shot Chart Detail,0020800577,18,2734,Devin Harris,1610612751,New Jersey Nets,1,9,19,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090115,NJN,POR
+Shot Chart Detail,0020800577,246,2734,Devin Harris,1610612751,New Jersey Nets,2,2,0,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,12,77,104,1,1,20090115,NJN,POR
+Shot Chart Detail,0020800577,280,2734,Devin Harris,1610612751,New Jersey Nets,3,9,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-4,179,1,1,20090115,NJN,POR
+Shot Chart Detail,0020800577,284,2734,Devin Harris,1610612751,New Jersey Nets,3,8,32,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090115,NJN,POR
+Shot Chart Detail,0020800577,342,2734,Devin Harris,1610612751,New Jersey Nets,3,2,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-79,146,1,1,20090115,NJN,POR
+Shot Chart Detail,0020800577,418,2734,Devin Harris,1610612751,New Jersey Nets,4,7,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090115,NJN,POR
+Shot Chart Detail,0020800577,434,2734,Devin Harris,1610612751,New Jersey Nets,4,5,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-185,175,1,1,20090115,NJN,POR
+Shot Chart Detail,0020800577,436,2734,Devin Harris,1610612751,New Jersey Nets,4,5,15,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090115,NJN,POR
+Shot Chart Detail,0020800577,438,2734,Devin Harris,1610612751,New Jersey Nets,4,4,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090115,NJN,POR
+Shot Chart Detail,0020800577,493,2734,Devin Harris,1610612751,New Jersey Nets,4,0,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090115,NJN,POR
+Shot Chart Detail,0020800590,66,2734,Devin Harris,1610612751,New Jersey Nets,1,4,13,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090117,NJN,BOS
+Shot Chart Detail,0020800590,206,2734,Devin Harris,1610612751,New Jersey Nets,2,2,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090117,NJN,BOS
+Shot Chart Detail,0020800622,228,2734,Devin Harris,1610612751,New Jersey Nets,2,1,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090121,NOH,NJN
+Shot Chart Detail,0020800637,19,2734,Devin Harris,1610612751,New Jersey Nets,1,8,56,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,12,-73,101,1,1,20090123,SAS,NJN
+Shot Chart Detail,0020800637,39,2734,Devin Harris,1610612751,New Jersey Nets,1,6,45,Made Shot,Driving Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,56,23,1,1,20090123,SAS,NJN
+Shot Chart Detail,0020800637,131,2734,Devin Harris,1610612751,New Jersey Nets,2,8,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,9,1,1,20090123,SAS,NJN
+Shot Chart Detail,0020800637,199,2734,Devin Harris,1610612751,New Jersey Nets,2,1,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,140,3,1,1,20090123,SAS,NJN
+Shot Chart Detail,0020800637,213,2734,Devin Harris,1610612751,New Jersey Nets,2,0,28,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-56,241,1,1,20090123,SAS,NJN
+Shot Chart Detail,0020800637,267,2734,Devin Harris,1610612751,New Jersey Nets,3,6,21,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-27,19,1,1,20090123,SAS,NJN
+Shot Chart Detail,0020800637,379,2734,Devin Harris,1610612751,New Jersey Nets,4,7,13,Made Shot,Driving Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,28,20,1,1,20090123,SAS,NJN
+Shot Chart Detail,0020800637,424,2734,Devin Harris,1610612751,New Jersey Nets,4,2,13,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,165,45,1,1,20090123,SAS,NJN
+Shot Chart Detail,0020800637,464,2734,Devin Harris,1610612751,New Jersey Nets,4,0,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,113,110,1,1,20090123,SAS,NJN
+Shot Chart Detail,0020800642,35,2734,Devin Harris,1610612751,New Jersey Nets,1,7,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-134,137,1,1,20090124,MEM,NJN
+Shot Chart Detail,0020800642,170,2734,Devin Harris,1610612751,New Jersey Nets,2,6,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090124,MEM,NJN
+Shot Chart Detail,0020800642,265,2734,Devin Harris,1610612751,New Jersey Nets,2,0,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,22,61,217,1,1,20090124,MEM,NJN
+Shot Chart Detail,0020800642,283,2734,Devin Harris,1610612751,New Jersey Nets,3,10,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090124,MEM,NJN
+Shot Chart Detail,0020800642,434,2734,Devin Harris,1610612751,New Jersey Nets,4,6,32,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090124,MEM,NJN
+Shot Chart Detail,0020800642,443,2734,Devin Harris,1610612751,New Jersey Nets,4,5,9,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-86,96,1,1,20090124,MEM,NJN
+Shot Chart Detail,0020800660,39,2734,Devin Harris,1610612751,New Jersey Nets,1,6,53,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090126,OKC,NJN
+Shot Chart Detail,0020800660,185,2734,Devin Harris,1610612751,New Jersey Nets,2,6,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,-174,121,1,1,20090126,OKC,NJN
+Shot Chart Detail,0020800660,248,2734,Devin Harris,1610612751,New Jersey Nets,2,1,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,39,189,1,1,20090126,OKC,NJN
+Shot Chart Detail,0020800660,385,2734,Devin Harris,1610612751,New Jersey Nets,3,1,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,0,172,1,1,20090126,OKC,NJN
+Shot Chart Detail,0020800670,42,2734,Devin Harris,1610612751,New Jersey Nets,1,6,42,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-11,115,1,1,20090128,NJN,TOR
+Shot Chart Detail,0020800670,48,2734,Devin Harris,1610612751,New Jersey Nets,1,6,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090128,NJN,TOR
+Shot Chart Detail,0020800670,141,2734,Devin Harris,1610612751,New Jersey Nets,2,8,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-98,154,1,1,20090128,NJN,TOR
+Shot Chart Detail,0020800670,264,2734,Devin Harris,1610612751,New Jersey Nets,3,6,53,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090128,NJN,TOR
+Shot Chart Detail,0020800670,275,2734,Devin Harris,1610612751,New Jersey Nets,3,5,8,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090128,NJN,TOR
+Shot Chart Detail,0020800670,353,2734,Devin Harris,1610612751,New Jersey Nets,4,11,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-131,203,1,1,20090128,NJN,TOR
+Shot Chart Detail,0020800670,468,2734,Devin Harris,1610612751,New Jersey Nets,4,0,37,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090128,NJN,TOR
+Shot Chart Detail,0020800685,49,2734,Devin Harris,1610612751,New Jersey Nets,1,6,27,Made Shot,Running Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-26,30,1,1,20090130,ATL,NJN
+Shot Chart Detail,0020800685,177,2734,Devin Harris,1610612751,New Jersey Nets,2,8,26,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-26,9,1,1,20090130,ATL,NJN
+Shot Chart Detail,0020800685,209,2734,Devin Harris,1610612751,New Jersey Nets,2,5,23,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-24,6,1,1,20090130,ATL,NJN
+Shot Chart Detail,0020800685,284,2734,Devin Harris,1610612751,New Jersey Nets,3,9,54,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,102,96,1,1,20090130,ATL,NJN
+Shot Chart Detail,0020800685,304,2734,Devin Harris,1610612751,New Jersey Nets,3,7,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,42,165,1,1,20090130,ATL,NJN
+Shot Chart Detail,0020800693,49,2734,Devin Harris,1610612751,New Jersey Nets,1,7,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090131,PHI,NJN
+Shot Chart Detail,0020800693,60,2734,Devin Harris,1610612751,New Jersey Nets,1,6,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,9,209,1,1,20090131,PHI,NJN
+Shot Chart Detail,0020800693,285,2734,Devin Harris,1610612751,New Jersey Nets,3,10,6,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090131,PHI,NJN
+Shot Chart Detail,0020800693,361,2734,Devin Harris,1610612751,New Jersey Nets,3,3,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,157,189,1,1,20090131,PHI,NJN
+Shot Chart Detail,0020800693,497,2734,Devin Harris,1610612751,New Jersey Nets,4,3,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,189,181,1,1,20090131,PHI,NJN
+Shot Chart Detail,0020800693,528,2734,Devin Harris,1610612751,New Jersey Nets,4,1,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090131,PHI,NJN
+Shot Chart Detail,0020800717,152,2734,Devin Harris,1610612751,New Jersey Nets,2,7,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090203,NJN,MIL
+Shot Chart Detail,0020800717,294,2734,Devin Harris,1610612751,New Jersey Nets,3,5,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-93,246,1,1,20090203,NJN,MIL
+Shot Chart Detail,0020800717,431,2734,Devin Harris,1610612751,New Jersey Nets,4,6,7,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090203,NJN,MIL
+Shot Chart Detail,0020800717,478,2734,Devin Harris,1610612751,New Jersey Nets,4,2,30,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090203,NJN,MIL
+Shot Chart Detail,0020800717,483,2734,Devin Harris,1610612751,New Jersey Nets,4,1,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,129,137,1,1,20090203,NJN,MIL
+Shot Chart Detail,0020800722,17,2734,Devin Harris,1610612751,New Jersey Nets,1,9,30,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-119,105,1,1,20090204,WAS,NJN
+Shot Chart Detail,0020800722,20,2734,Devin Harris,1610612751,New Jersey Nets,1,9,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,116,159,1,1,20090204,WAS,NJN
+Shot Chart Detail,0020800722,37,2734,Devin Harris,1610612751,New Jersey Nets,1,7,37,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,-16,1,1,20090204,WAS,NJN
+Shot Chart Detail,0020800722,53,2734,Devin Harris,1610612751,New Jersey Nets,1,5,6,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,1,1,1,20090204,WAS,NJN
+Shot Chart Detail,0020800722,148,2734,Devin Harris,1610612751,New Jersey Nets,2,5,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-158,82,1,1,20090204,WAS,NJN
+Shot Chart Detail,0020800722,150,2734,Devin Harris,1610612751,New Jersey Nets,2,5,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,6,1,1,20090204,WAS,NJN
+Shot Chart Detail,0020800722,197,2734,Devin Harris,1610612751,New Jersey Nets,2,1,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,-5,1,1,20090204,WAS,NJN
+Shot Chart Detail,0020800722,206,2734,Devin Harris,1610612751,New Jersey Nets,2,0,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-90,170,1,1,20090204,WAS,NJN
+Shot Chart Detail,0020800722,277,2734,Devin Harris,1610612751,New Jersey Nets,3,5,58,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,2,211,1,1,20090204,WAS,NJN
+Shot Chart Detail,0020800722,279,2734,Devin Harris,1610612751,New Jersey Nets,3,5,33,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-76,34,1,1,20090204,WAS,NJN
+Shot Chart Detail,0020800745,28,2734,Devin Harris,1610612751,New Jersey Nets,1,8,40,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090207,NJN,DEN
+Shot Chart Detail,0020800745,66,2734,Devin Harris,1610612751,New Jersey Nets,1,5,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,18,200,1,1,20090207,NJN,DEN
+Shot Chart Detail,0020800745,209,2734,Devin Harris,1610612751,New Jersey Nets,2,5,32,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,80,53,1,1,20090207,NJN,DEN
+Shot Chart Detail,0020800745,281,2734,Devin Harris,1610612751,New Jersey Nets,3,11,40,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090207,NJN,DEN
+Shot Chart Detail,0020800745,327,2734,Devin Harris,1610612751,New Jersey Nets,3,6,39,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-239,-2,1,1,20090207,NJN,DEN
+Shot Chart Detail,0020800745,403,2734,Devin Harris,1610612751,New Jersey Nets,3,0,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,102,265,1,1,20090207,NJN,DEN
+Shot Chart Detail,0020800753,31,2734,Devin Harris,1610612751,New Jersey Nets,1,8,30,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-18,134,1,1,20090208,ORL,NJN
+Shot Chart Detail,0020800753,77,2734,Devin Harris,1610612751,New Jersey Nets,1,3,40,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,0,102,1,1,20090208,ORL,NJN
+Shot Chart Detail,0020800753,164,2734,Devin Harris,1610612751,New Jersey Nets,2,8,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,111,-14,1,1,20090208,ORL,NJN
+Shot Chart Detail,0020800753,173,2734,Devin Harris,1610612751,New Jersey Nets,2,7,16,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090208,ORL,NJN
+Shot Chart Detail,0020800753,242,2734,Devin Harris,1610612751,New Jersey Nets,2,2,29,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,45,77,1,1,20090208,ORL,NJN
+Shot Chart Detail,0020800753,252,2734,Devin Harris,1610612751,New Jersey Nets,2,1,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-34,244,1,1,20090208,ORL,NJN
+Shot Chart Detail,0020800753,260,2734,Devin Harris,1610612751,New Jersey Nets,2,0,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,67,239,1,1,20090208,ORL,NJN
+Shot Chart Detail,0020800753,280,2734,Devin Harris,1610612751,New Jersey Nets,3,9,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-158,197,1,1,20090208,ORL,NJN
+Shot Chart Detail,0020800753,348,2734,Devin Harris,1610612751,New Jersey Nets,3,3,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090208,ORL,NJN
+Shot Chart Detail,0020800767,22,2734,Devin Harris,1610612751,New Jersey Nets,1,8,38,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090210,NJN,SAS
+Shot Chart Detail,0020800767,25,2734,Devin Harris,1610612751,New Jersey Nets,1,8,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-26,186,1,1,20090210,NJN,SAS
+Shot Chart Detail,0020800767,73,2734,Devin Harris,1610612751,New Jersey Nets,1,2,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-52,178,1,1,20090210,NJN,SAS
+Shot Chart Detail,0020800767,133,2734,Devin Harris,1610612751,New Jersey Nets,2,8,36,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090210,NJN,SAS
+Shot Chart Detail,0020800767,297,2734,Devin Harris,1610612751,New Jersey Nets,3,4,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090210,NJN,SAS
+Shot Chart Detail,0020800767,303,2734,Devin Harris,1610612751,New Jersey Nets,3,4,0,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090210,NJN,SAS
+Shot Chart Detail,0020800767,329,2734,Devin Harris,1610612751,New Jersey Nets,3,0,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,28,189,1,1,20090210,NJN,SAS
+Shot Chart Detail,0020800767,341,2734,Devin Harris,1610612751,New Jersey Nets,4,11,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,13,252,1,1,20090210,NJN,SAS
+Shot Chart Detail,0020800794,21,2734,Devin Harris,1610612751,New Jersey Nets,1,9,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,144,208,1,1,20090217,HOU,NJN
+Shot Chart Detail,0020800794,276,2734,Devin Harris,1610612751,New Jersey Nets,3,9,51,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090217,HOU,NJN
+Shot Chart Detail,0020800794,368,2734,Devin Harris,1610612751,New Jersey Nets,3,0,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-90,93,1,1,20090217,HOU,NJN
+Shot Chart Detail,0020800794,380,2734,Devin Harris,1610612751,New Jersey Nets,4,11,6,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090217,HOU,NJN
+Shot Chart Detail,0020800804,176,2734,Devin Harris,1610612751,New Jersey Nets,2,3,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,29,187,1,1,20090218,DAL,NJN
+Shot Chart Detail,0020800804,188,2734,Devin Harris,1610612751,New Jersey Nets,2,2,59,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090218,DAL,NJN
+Shot Chart Detail,0020800804,227,2734,Devin Harris,1610612751,New Jersey Nets,2,0,7,Made Shot,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-68,50,1,1,20090218,DAL,NJN
+Shot Chart Detail,0020800804,383,2734,Devin Harris,1610612751,New Jersey Nets,4,10,8,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090218,DAL,NJN
+Shot Chart Detail,0020800804,392,2734,Devin Harris,1610612751,New Jersey Nets,4,9,35,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090218,DAL,NJN
+Shot Chart Detail,0020800815,30,2734,Devin Harris,1610612751,New Jersey Nets,1,9,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090220,NJN,WAS
+Shot Chart Detail,0020800815,44,2734,Devin Harris,1610612751,New Jersey Nets,1,7,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,81,143,1,1,20090220,NJN,WAS
+Shot Chart Detail,0020800815,77,2734,Devin Harris,1610612751,New Jersey Nets,1,4,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090220,NJN,WAS
+Shot Chart Detail,0020800815,284,2734,Devin Harris,1610612751,New Jersey Nets,3,9,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-134,203,1,1,20090220,NJN,WAS
+Shot Chart Detail,0020800815,288,2734,Devin Harris,1610612751,New Jersey Nets,3,9,1,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,24,48,1,1,20090220,NJN,WAS
+Shot Chart Detail,0020800815,361,2734,Devin Harris,1610612751,New Jersey Nets,3,3,54,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090220,NJN,WAS
+Shot Chart Detail,0020800815,549,2734,Devin Harris,1610612751,New Jersey Nets,4,1,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,65,242,1,1,20090220,NJN,WAS
+Shot Chart Detail,0020800836,45,2734,Devin Harris,1610612751,New Jersey Nets,1,6,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-101,222,1,1,20090223,NJN,PHI
+Shot Chart Detail,0020800836,48,2734,Devin Harris,1610612751,New Jersey Nets,1,6,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,91,231,1,1,20090223,NJN,PHI
+Shot Chart Detail,0020800836,119,2734,Devin Harris,1610612751,New Jersey Nets,2,9,43,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090223,NJN,PHI
+Shot Chart Detail,0020800836,140,2734,Devin Harris,1610612751,New Jersey Nets,2,8,22,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090223,NJN,PHI
+Shot Chart Detail,0020800836,192,2734,Devin Harris,1610612751,New Jersey Nets,2,3,28,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090223,NJN,PHI
+Shot Chart Detail,0020800836,253,2734,Devin Harris,1610612751,New Jersey Nets,3,10,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,18,254,1,1,20090223,NJN,PHI
+Shot Chart Detail,0020800836,261,2734,Devin Harris,1610612751,New Jersey Nets,3,9,11,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090223,NJN,PHI
+Shot Chart Detail,0020800836,285,2734,Devin Harris,1610612751,New Jersey Nets,3,8,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,94,235,1,1,20090223,NJN,PHI
+Shot Chart Detail,0020800836,459,2734,Devin Harris,1610612751,New Jersey Nets,4,3,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,28,189,1,1,20090223,NJN,PHI
+Shot Chart Detail,0020800836,477,2734,Devin Harris,1610612751,New Jersey Nets,4,1,44,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-7,67,1,1,20090223,NJN,PHI
+Shot Chart Detail,0020800836,540,2734,Devin Harris,1610612751,New Jersey Nets,4,0,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,42,-201,375,1,1,20090223,NJN,PHI
+Shot Chart Detail,0020800852,96,2734,Devin Harris,1610612751,New Jersey Nets,1,2,30,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090225,NJN,CHI
+Shot Chart Detail,0020800852,99,2734,Devin Harris,1610612751,New Jersey Nets,1,1,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-171,228,1,1,20090225,NJN,CHI
+Shot Chart Detail,0020800852,110,2734,Devin Harris,1610612751,New Jersey Nets,1,0,54,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090225,NJN,CHI
+Shot Chart Detail,0020800852,218,2734,Devin Harris,1610612751,New Jersey Nets,2,2,25,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090225,NJN,CHI
+Shot Chart Detail,0020800852,258,2734,Devin Harris,1610612751,New Jersey Nets,3,10,1,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090225,NJN,CHI
+Shot Chart Detail,0020800852,348,2734,Devin Harris,1610612751,New Jersey Nets,3,1,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,206,0,1,1,20090225,NJN,CHI
+Shot Chart Detail,0020800852,354,2734,Devin Harris,1610612751,New Jersey Nets,3,0,54,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090225,NJN,CHI
+Shot Chart Detail,0020800852,397,2734,Devin Harris,1610612751,New Jersey Nets,4,8,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090225,NJN,CHI
+Shot Chart Detail,0020800852,400,2734,Devin Harris,1610612751,New Jersey Nets,4,8,19,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090225,NJN,CHI
+Shot Chart Detail,0020800852,405,2734,Devin Harris,1610612751,New Jersey Nets,4,7,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-81,244,1,1,20090225,NJN,CHI
+Shot Chart Detail,0020800852,427,2734,Devin Harris,1610612751,New Jersey Nets,4,5,27,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,7,137,1,1,20090225,NJN,CHI
+Shot Chart Detail,0020800852,437,2734,Devin Harris,1610612751,New Jersey Nets,4,4,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090225,NJN,CHI
+Shot Chart Detail,0020800852,440,2734,Devin Harris,1610612751,New Jersey Nets,4,3,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090225,NJN,CHI
+Shot Chart Detail,0020800852,483,2734,Devin Harris,1610612751,New Jersey Nets,4,0,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,141,246,1,1,20090225,NJN,CHI
+Shot Chart Detail,0020800886,129,2734,Devin Harris,1610612751,New Jersey Nets,2,10,40,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090301,NJN,NOH
+Shot Chart Detail,0020800886,230,2734,Devin Harris,1610612751,New Jersey Nets,2,0,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-144,116,1,1,20090301,NJN,NOH
+Shot Chart Detail,0020800886,240,2734,Devin Harris,1610612751,New Jersey Nets,3,11,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-11,168,1,1,20090301,NJN,NOH
+Shot Chart Detail,0020800886,286,2734,Devin Harris,1610612751,New Jersey Nets,3,8,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090301,NJN,NOH
+Shot Chart Detail,0020800886,304,2734,Devin Harris,1610612751,New Jersey Nets,3,5,55,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090301,NJN,NOH
+Shot Chart Detail,0020800886,327,2734,Devin Harris,1610612751,New Jersey Nets,3,2,55,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,11,-59,99,1,1,20090301,NJN,NOH
+Shot Chart Detail,0020800886,336,2734,Devin Harris,1610612751,New Jersey Nets,3,1,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090301,NJN,NOH
+Shot Chart Detail,0020800886,350,2734,Devin Harris,1610612751,New Jersey Nets,3,0,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-103,228,1,1,20090301,NJN,NOH
+Shot Chart Detail,0020800886,404,2734,Devin Harris,1610612751,New Jersey Nets,4,5,41,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090301,NJN,NOH
+Shot Chart Detail,0020800900,59,2734,Devin Harris,1610612751,New Jersey Nets,1,5,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,157,194,1,1,20090303,MIL,NJN
+Shot Chart Detail,0020800900,393,2734,Devin Harris,1610612751,New Jersey Nets,4,10,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090303,MIL,NJN
+Shot Chart Detail,0020800900,460,2734,Devin Harris,1610612751,New Jersey Nets,4,2,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090303,MIL,NJN
+Shot Chart Detail,0020800907,176,2734,Devin Harris,1610612751,New Jersey Nets,2,6,58,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090304,NJN,BOS
+Shot Chart Detail,0020800907,244,2734,Devin Harris,1610612751,New Jersey Nets,2,1,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,135,211,1,1,20090304,NJN,BOS
+Shot Chart Detail,0020800907,291,2734,Devin Harris,1610612751,New Jersey Nets,3,8,14,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,21,167,1,1,20090304,NJN,BOS
+Shot Chart Detail,0020800907,442,2734,Devin Harris,1610612751,New Jersey Nets,4,5,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,122,227,1,1,20090304,NJN,BOS
+Shot Chart Detail,0020800907,447,2734,Devin Harris,1610612751,New Jersey Nets,4,4,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090304,NJN,BOS
+Shot Chart Detail,0020800907,459,2734,Devin Harris,1610612751,New Jersey Nets,4,2,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090304,NJN,BOS
+Shot Chart Detail,0020800907,462,2734,Devin Harris,1610612751,New Jersey Nets,4,2,26,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090304,NJN,BOS
+Shot Chart Detail,0020800918,9,2734,Devin Harris,1610612751,New Jersey Nets,1,10,57,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,54,52,1,1,20090306,ORL,NJN
+Shot Chart Detail,0020800918,39,2734,Devin Harris,1610612751,New Jersey Nets,1,8,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-60,173,1,1,20090306,ORL,NJN
+Shot Chart Detail,0020800918,45,2734,Devin Harris,1610612751,New Jersey Nets,1,7,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,114,227,1,1,20090306,ORL,NJN
+Shot Chart Detail,0020800918,97,2734,Devin Harris,1610612751,New Jersey Nets,1,3,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-64,186,1,1,20090306,ORL,NJN
+Shot Chart Detail,0020800918,110,2734,Devin Harris,1610612751,New Jersey Nets,1,2,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090306,ORL,NJN
+Shot Chart Detail,0020800918,181,2734,Devin Harris,1610612751,New Jersey Nets,2,9,57,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090306,ORL,NJN
+Shot Chart Detail,0020800918,250,2734,Devin Harris,1610612751,New Jersey Nets,2,3,49,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090306,ORL,NJN
+Shot Chart Detail,0020800918,343,2734,Devin Harris,1610612751,New Jersey Nets,3,4,49,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090306,ORL,NJN
+Shot Chart Detail,0020800939,23,2734,Devin Harris,1610612751,New Jersey Nets,1,9,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,31,142,1,1,20090308,NJN,NYK
+Shot Chart Detail,0020800939,54,2734,Devin Harris,1610612751,New Jersey Nets,1,6,31,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090308,NJN,NYK
+Shot Chart Detail,0020800939,168,2734,Devin Harris,1610612751,New Jersey Nets,2,8,50,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090308,NJN,NYK
+Shot Chart Detail,0020800939,173,2734,Devin Harris,1610612751,New Jersey Nets,2,7,43,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-34,63,1,1,20090308,NJN,NYK
+Shot Chart Detail,0020800939,200,2734,Devin Harris,1610612751,New Jersey Nets,2,4,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090308,NJN,NYK
+Shot Chart Detail,0020800939,211,2734,Devin Harris,1610612751,New Jersey Nets,2,3,19,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090308,NJN,NYK
+Shot Chart Detail,0020800939,226,2734,Devin Harris,1610612751,New Jersey Nets,2,1,41,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090308,NJN,NYK
+Shot Chart Detail,0020800939,228,2734,Devin Harris,1610612751,New Jersey Nets,2,1,15,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090308,NJN,NYK
+Shot Chart Detail,0020800939,297,2734,Devin Harris,1610612751,New Jersey Nets,3,5,4,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090308,NJN,NYK
+Shot Chart Detail,0020800939,328,2734,Devin Harris,1610612751,New Jersey Nets,3,0,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,29,246,1,1,20090308,NJN,NYK
+Shot Chart Detail,0020800939,398,2734,Devin Harris,1610612751,New Jersey Nets,4,5,5,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-13,55,1,1,20090308,NJN,NYK
+Shot Chart Detail,0020800939,427,2734,Devin Harris,1610612751,New Jersey Nets,4,1,15,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090308,NJN,NYK
+Shot Chart Detail,0020800965,6,2734,Devin Harris,1610612751,New Jersey Nets,1,11,24,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-117,168,1,1,20090311,GSW,NJN
+Shot Chart Detail,0020800965,17,2734,Devin Harris,1610612751,New Jersey Nets,1,9,39,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,4,1,1,20090311,GSW,NJN
+Shot Chart Detail,0020800965,72,2734,Devin Harris,1610612751,New Jersey Nets,1,4,25,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,9,1,1,20090311,GSW,NJN
+Shot Chart Detail,0020800965,79,2734,Devin Harris,1610612751,New Jersey Nets,1,3,22,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,17,1,1,20090311,GSW,NJN
+Shot Chart Detail,0020800965,279,2734,Devin Harris,1610612751,New Jersey Nets,2,1,20,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,12,1,1,20090311,GSW,NJN
+Shot Chart Detail,0020800965,294,2734,Devin Harris,1610612751,New Jersey Nets,2,0,24,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,138,143,1,1,20090311,GSW,NJN
+Shot Chart Detail,0020800965,360,2734,Devin Harris,1610612751,New Jersey Nets,3,6,27,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-89,126,1,1,20090311,GSW,NJN
+Shot Chart Detail,0020800965,570,2734,Devin Harris,1610612751,New Jersey Nets,4,1,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,10,19,1,1,20090311,GSW,NJN
+Shot Chart Detail,0020800965,606,2734,Devin Harris,1610612751,New Jersey Nets,4,0,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,15,1,1,20090311,GSW,NJN
+Shot Chart Detail,0020800976,54,2734,Devin Harris,1610612751,New Jersey Nets,1,5,27,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090313,POR,NJN
+Shot Chart Detail,0020800976,58,2734,Devin Harris,1610612751,New Jersey Nets,1,4,51,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,174,11,1,1,20090313,POR,NJN
+Shot Chart Detail,0020800976,112,2734,Devin Harris,1610612751,New Jersey Nets,1,0,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-109,217,1,1,20090313,POR,NJN
+Shot Chart Detail,0020800976,279,2734,Devin Harris,1610612751,New Jersey Nets,3,11,4,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,88,178,1,1,20090313,POR,NJN
+Shot Chart Detail,0020800976,298,2734,Devin Harris,1610612751,New Jersey Nets,3,8,36,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-97,157,1,1,20090313,POR,NJN
+Shot Chart Detail,0020800976,320,2734,Devin Harris,1610612751,New Jersey Nets,3,6,24,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090313,POR,NJN
+Shot Chart Detail,0020800976,480,2734,Devin Harris,1610612751,New Jersey Nets,4,3,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090313,POR,NJN
+Shot Chart Detail,0020800995,21,2734,Devin Harris,1610612751,New Jersey Nets,1,9,9,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090315,LAC,NJN
+Shot Chart Detail,0020800995,29,2734,Devin Harris,1610612751,New Jersey Nets,1,8,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090315,LAC,NJN
+Shot Chart Detail,0020800995,176,2734,Devin Harris,1610612751,New Jersey Nets,2,7,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090315,LAC,NJN
+Shot Chart Detail,0020800995,200,2734,Devin Harris,1610612751,New Jersey Nets,2,4,35,Made Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-4,129,1,1,20090315,LAC,NJN
+Shot Chart Detail,0020800995,206,2734,Devin Harris,1610612751,New Jersey Nets,2,3,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090315,LAC,NJN
+Shot Chart Detail,0020801078,2,2734,Devin Harris,1610612751,New Jersey Nets,1,11,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-120,227,1,1,20090327,NJN,LAL
+Shot Chart Detail,0020801078,37,2734,Devin Harris,1610612751,New Jersey Nets,1,7,47,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090327,NJN,LAL
+Shot Chart Detail,0020801078,208,2734,Devin Harris,1610612751,New Jersey Nets,2,4,12,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090327,NJN,LAL
+Shot Chart Detail,0020801078,241,2734,Devin Harris,1610612751,New Jersey Nets,2,1,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090327,NJN,LAL
+Shot Chart Detail,0020801093,43,2734,Devin Harris,1610612751,New Jersey Nets,1,7,10,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-158,134,1,1,20090329,MIN,NJN
+Shot Chart Detail,0020801093,158,2734,Devin Harris,1610612751,New Jersey Nets,2,7,30,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090329,MIN,NJN
+Shot Chart Detail,0020801093,241,2734,Devin Harris,1610612751,New Jersey Nets,2,2,12,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090329,MIN,NJN
+Shot Chart Detail,0020801093,251,2734,Devin Harris,1610612751,New Jersey Nets,2,1,5,Made Shot,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-51,48,1,1,20090329,MIN,NJN
+Shot Chart Detail,0020801093,257,2734,Devin Harris,1610612751,New Jersey Nets,2,0,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,108,224,1,1,20090329,MIN,NJN
+Shot Chart Detail,0020801093,285,2734,Devin Harris,1610612751,New Jersey Nets,3,7,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,147,201,1,1,20090329,MIN,NJN
+Shot Chart Detail,0020801101,64,2734,Devin Harris,1610612751,New Jersey Nets,1,4,50,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-84,105,1,1,20090330,NJN,MIL
+Shot Chart Detail,0020801101,203,2734,Devin Harris,1610612751,New Jersey Nets,2,5,24,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090330,NJN,MIL
+Shot Chart Detail,0020801101,293,2734,Devin Harris,1610612751,New Jersey Nets,3,9,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-78,178,1,1,20090330,NJN,MIL
+Shot Chart Detail,0020801115,13,2734,Devin Harris,1610612751,New Jersey Nets,1,10,21,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-40,63,1,1,20090401,NJN,DET
+Shot Chart Detail,0020801115,41,2734,Devin Harris,1610612751,New Jersey Nets,1,5,58,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090401,NJN,DET
+Shot Chart Detail,0020801115,56,2734,Devin Harris,1610612751,New Jersey Nets,1,3,43,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090401,NJN,DET
+Shot Chart Detail,0020801115,86,2734,Devin Harris,1610612751,New Jersey Nets,1,1,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090401,NJN,DET
+Shot Chart Detail,0020801115,92,2734,Devin Harris,1610612751,New Jersey Nets,1,0,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090401,NJN,DET
+Shot Chart Detail,0020801115,266,2734,Devin Harris,1610612751,New Jersey Nets,3,8,51,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090401,NJN,DET
+Shot Chart Detail,0020801136,53,2734,Devin Harris,1610612751,New Jersey Nets,1,6,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090404,CHI,NJN
+Shot Chart Detail,0020801136,78,2734,Devin Harris,1610612751,New Jersey Nets,1,3,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-183,52,1,1,20090404,CHI,NJN
+Shot Chart Detail,0020801136,111,2734,Devin Harris,1610612751,New Jersey Nets,1,1,18,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,15,77,132,1,1,20090404,CHI,NJN
+Shot Chart Detail,0020801136,259,2734,Devin Harris,1610612751,New Jersey Nets,2,0,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090404,CHI,NJN
+Shot Chart Detail,0020801150,38,2734,Devin Harris,1610612751,New Jersey Nets,1,7,22,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090405,NJN,PHI
+Shot Chart Detail,0020801150,107,2734,Devin Harris,1610612751,New Jersey Nets,1,0,29,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090405,NJN,PHI
+Shot Chart Detail,0020801150,132,2734,Devin Harris,1610612751,New Jersey Nets,2,9,49,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090405,NJN,PHI
+Shot Chart Detail,0020801150,306,2734,Devin Harris,1610612751,New Jersey Nets,3,5,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-82,246,1,1,20090405,NJN,PHI
+Shot Chart Detail,0020801150,442,2734,Devin Harris,1610612751,New Jersey Nets,4,4,9,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-64,113,1,1,20090405,NJN,PHI
+Shot Chart Detail,0020801165,41,2734,Devin Harris,1610612751,New Jersey Nets,1,5,57,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,9,1,1,20090408,BOS,NJN
+Shot Chart Detail,0020801165,58,2734,Devin Harris,1610612751,New Jersey Nets,1,3,42,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,4,69,1,1,20090408,BOS,NJN
+Shot Chart Detail,0020801165,91,2734,Devin Harris,1610612751,New Jersey Nets,1,0,4,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,1,1,1,20090408,BOS,NJN
+Shot Chart Detail,0020801165,173,2734,Devin Harris,1610612751,New Jersey Nets,2,4,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,0,1,1,20090408,BOS,NJN
+Shot Chart Detail,0020801165,183,2734,Devin Harris,1610612751,New Jersey Nets,2,3,25,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,7,1,1,20090408,BOS,NJN
+Shot Chart Detail,0020801165,402,2734,Devin Harris,1610612751,New Jersey Nets,4,7,19,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-7,55,1,1,20090408,BOS,NJN
+Shot Chart Detail,0020801205,45,2734,Devin Harris,1610612751,New Jersey Nets,1,7,19,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090413,NJN,CHA
+Shot Chart Detail,0020801205,48,2734,Devin Harris,1610612751,New Jersey Nets,1,6,54,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090413,NJN,CHA
+Shot Chart Detail,0020801205,290,2734,Devin Harris,1610612751,New Jersey Nets,3,8,27,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090413,NJN,CHA
+Shot Chart Detail,0020801205,341,2734,Devin Harris,1610612751,New Jersey Nets,3,1,32,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090413,NJN,CHA

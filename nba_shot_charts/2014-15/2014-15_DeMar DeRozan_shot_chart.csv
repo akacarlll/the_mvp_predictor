@@ -1,0 +1,410 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0021400008,3,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,11,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-160,113,1,1,20141029,TOR,ATL
+Shot Chart Detail,0021400008,83,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,4,9,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,28,63,1,1,20141029,TOR,ATL
+Shot Chart Detail,0021400008,339,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,6,49,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,7,1,1,20141029,TOR,ATL
+Shot Chart Detail,0021400008,349,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,6,30,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,7,1,1,20141029,TOR,ATL
+Shot Chart Detail,0021400029,9,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,10,40,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-62,127,1,1,20141101,ORL,TOR
+Shot Chart Detail,0021400029,18,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,9,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,15,1,1,20141101,ORL,TOR
+Shot Chart Detail,0021400029,64,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,5,15,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141101,ORL,TOR
+Shot Chart Detail,0021400029,308,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,9,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,152,61,1,1,20141101,ORL,TOR
+Shot Chart Detail,0021400029,324,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,7,37,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-155,63,1,1,20141101,ORL,TOR
+Shot Chart Detail,0021400029,341,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,6,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,12,1,1,20141101,ORL,TOR
+Shot Chart Detail,0021400029,343,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,5,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,173,112,1,1,20141101,ORL,TOR
+Shot Chart Detail,0021400029,366,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,4,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-119,175,1,1,20141101,ORL,TOR
+Shot Chart Detail,0021400029,544,201942,DeMar DeRozan,1610612761,Toronto Raptors,4,3,11,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,58,52,1,1,20141101,ORL,TOR
+Shot Chart Detail,0021400040,13,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,10,23,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,65,75,1,1,20141102,MIA,TOR
+Shot Chart Detail,0021400040,31,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,8,29,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,97,131,1,1,20141102,MIA,TOR
+Shot Chart Detail,0021400040,120,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,2,23,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141102,MIA,TOR
+Shot Chart Detail,0021400040,126,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,1,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,176,56,1,1,20141102,MIA,TOR
+Shot Chart Detail,0021400040,323,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,8,21,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,28,9,1,1,20141102,MIA,TOR
+Shot Chart Detail,0021400040,338,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,7,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-138,115,1,1,20141102,MIA,TOR
+Shot Chart Detail,0021400040,353,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,6,25,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,32,96,1,1,20141102,MIA,TOR
+Shot Chart Detail,0021400040,356,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,5,59,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,6,1,1,20141102,MIA,TOR
+Shot Chart Detail,0021400040,493,201942,DeMar DeRozan,1610612761,Toronto Raptors,4,5,23,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,236,1,1,1,20141102,MIA,TOR
+Shot Chart Detail,0021400040,509,201942,DeMar DeRozan,1610612761,Toronto Raptors,4,3,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-153,37,1,1,20141102,MIA,TOR
+Shot Chart Detail,0021400040,546,201942,DeMar DeRozan,1610612761,Toronto Raptors,4,1,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,193,45,1,1,20141102,MIA,TOR
+Shot Chart Detail,0021400052,37,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,8,54,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,12,19,1,1,20141104,TOR,OKC
+Shot Chart Detail,0021400052,226,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,4,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-29,0,1,1,20141104,TOR,OKC
+Shot Chart Detail,0021400052,279,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,0,44,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,151,12,1,1,20141104,TOR,OKC
+Shot Chart Detail,0021400052,317,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,9,20,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,0,1,1,20141104,TOR,OKC
+Shot Chart Detail,0021400059,15,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,9,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,84,186,1,1,20141105,BOS,TOR
+Shot Chart Detail,0021400059,196,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,5,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-43,184,1,1,20141105,BOS,TOR
+Shot Chart Detail,0021400059,199,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,4,55,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-125,11,1,1,20141105,BOS,TOR
+Shot Chart Detail,0021400059,242,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,1,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,4,1,1,20141105,BOS,TOR
+Shot Chart Detail,0021400059,282,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,9,49,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-54,102,1,1,20141105,BOS,TOR
+Shot Chart Detail,0021400059,315,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,5,58,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,171,22,1,1,20141105,BOS,TOR
+Shot Chart Detail,0021400059,326,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,4,1,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141105,BOS,TOR
+Shot Chart Detail,0021400059,438,201942,DeMar DeRozan,1610612761,Toronto Raptors,4,8,6,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-29,146,1,1,20141105,BOS,TOR
+Shot Chart Detail,0021400059,510,201942,DeMar DeRozan,1610612761,Toronto Raptors,4,0,33,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141105,BOS,TOR
+Shot Chart Detail,0021400077,21,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,9,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-40,181,1,1,20141107,TOR,WAS
+Shot Chart Detail,0021400077,33,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,8,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-172,61,1,1,20141107,TOR,WAS
+Shot Chart Detail,0021400077,74,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,3,50,Made Shot,Driving Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-30,0,1,1,20141107,TOR,WAS
+Shot Chart Detail,0021400077,205,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,6,53,Made Shot,Running Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141107,TOR,WAS
+Shot Chart Detail,0021400077,218,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,5,37,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141107,TOR,WAS
+Shot Chart Detail,0021400077,333,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,9,2,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,0,138,1,1,20141107,TOR,WAS
+Shot Chart Detail,0021400077,576,201942,DeMar DeRozan,1610612761,Toronto Raptors,4,3,36,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,9,1,1,20141107,TOR,WAS
+Shot Chart Detail,0021400093,12,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,10,23,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-65,66,1,1,20141109,TOR,PHI
+Shot Chart Detail,0021400093,35,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,8,44,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-147,14,1,1,20141109,TOR,PHI
+Shot Chart Detail,0021400093,71,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,5,44,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,114,7,1,1,20141109,TOR,PHI
+Shot Chart Detail,0021400093,250,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,1,43,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,103,63,1,1,20141109,TOR,PHI
+Shot Chart Detail,0021400093,280,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,10,37,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141109,TOR,PHI
+Shot Chart Detail,0021400093,312,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,8,45,Made Shot,Driving Bank shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,34,12,1,1,20141109,TOR,PHI
+Shot Chart Detail,0021400093,339,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,6,24,Made Shot,Driving Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-24,1,1,1,20141109,TOR,PHI
+Shot Chart Detail,0021400093,369,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,4,28,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2,20,1,1,20141109,TOR,PHI
+Shot Chart Detail,0021400103,65,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,4,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-160,112,1,1,20141111,TOR,ORL
+Shot Chart Detail,0021400103,95,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,2,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,138,19,1,1,20141111,TOR,ORL
+Shot Chart Detail,0021400103,199,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,4,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,146,123,1,1,20141111,TOR,ORL
+Shot Chart Detail,0021400103,214,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,3,29,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-41,96,1,1,20141111,TOR,ORL
+Shot Chart Detail,0021400119,44,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,6,57,Made Shot,Driving Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141113,TOR,CHI
+Shot Chart Detail,0021400119,81,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,3,4,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-62,126,1,1,20141113,TOR,CHI
+Shot Chart Detail,0021400119,303,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,7,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,6,1,1,20141113,TOR,CHI
+Shot Chart Detail,0021400134,7,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,10,55,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-70,124,1,1,20141115,TOR,UTA
+Shot Chart Detail,0021400134,16,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,9,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,20,156,1,1,20141115,TOR,UTA
+Shot Chart Detail,0021400134,30,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,6,50,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-40,11,1,1,20141115,TOR,UTA
+Shot Chart Detail,0021400134,49,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,3,45,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,6,1,1,20141115,TOR,UTA
+Shot Chart Detail,0021400134,75,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,1,26,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,11,1,1,20141115,TOR,UTA
+Shot Chart Detail,0021400134,159,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,5,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-97,14,1,1,20141115,TOR,UTA
+Shot Chart Detail,0021400134,228,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,10,51,Made Shot,Driving Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,34,34,1,1,20141115,TOR,UTA
+Shot Chart Detail,0021400134,268,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,7,46,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,11,1,1,20141115,TOR,UTA
+Shot Chart Detail,0021400134,309,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,4,37,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,111,14,1,1,20141115,TOR,UTA
+Shot Chart Detail,0021400134,472,201942,DeMar DeRozan,1610612761,Toronto Raptors,4,4,24,Made Shot,Running Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141115,TOR,UTA
+Shot Chart Detail,0021400166,38,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,6,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-136,121,1,1,20141119,TOR,MEM
+Shot Chart Detail,0021400166,53,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,5,8,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-105,86,1,1,20141119,TOR,MEM
+Shot Chart Detail,0021400166,58,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,4,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,6,195,1,1,20141119,TOR,MEM
+Shot Chart Detail,0021400166,81,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,0,48,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-141,6,1,1,20141119,TOR,MEM
+Shot Chart Detail,0021400166,196,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,2,21,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-8,23,1,1,20141119,TOR,MEM
+Shot Chart Detail,0021400166,226,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,11,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,0,176,1,1,20141119,TOR,MEM
+Shot Chart Detail,0021400166,234,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,10,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-52,189,1,1,20141119,TOR,MEM
+Shot Chart Detail,0021400166,270,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,6,46,Made Shot,Driving Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141119,TOR,MEM
+Shot Chart Detail,0021400166,363,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,0,3,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-13,67,1,1,20141119,TOR,MEM
+Shot Chart Detail,0021400166,474,201942,DeMar DeRozan,1610612761,Toronto Raptors,4,2,12,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-46,143,1,1,20141119,TOR,MEM
+Shot Chart Detail,0021400175,294,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,11,18,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,6,1,1,20141121,TOR,MIL
+Shot Chart Detail,0021400186,270,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,3,47,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,45,15,1,1,20141122,CLE,TOR
+Shot Chart Detail,0021400186,376,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,6,43,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,11,1,1,20141122,CLE,TOR
+Shot Chart Detail,0021400186,405,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,4,43,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,23,58,1,1,20141122,CLE,TOR
+Shot Chart Detail,0021400186,474,201942,DeMar DeRozan,1610612761,Toronto Raptors,4,11,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-141,105,1,1,20141122,CLE,TOR
+Shot Chart Detail,0021400186,492,201942,DeMar DeRozan,1610612761,Toronto Raptors,4,9,20,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-119,53,1,1,20141122,CLE,TOR
+Shot Chart Detail,0021400186,515,201942,DeMar DeRozan,1610612761,Toronto Raptors,4,7,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,48,164,1,1,20141122,CLE,TOR
+Shot Chart Detail,0021400186,524,201942,DeMar DeRozan,1610612761,Toronto Raptors,4,7,6,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141122,CLE,TOR
+Shot Chart Detail,0021400201,18,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,9,54,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,6,1,1,20141124,TOR,PHX
+Shot Chart Detail,0021400201,79,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,4,1,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,88,94,1,1,20141124,TOR,PHX
+Shot Chart Detail,0021400201,102,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,2,19,Made Shot,Driving Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-29,12,1,1,20141124,TOR,PHX
+Shot Chart Detail,0021400201,179,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,7,11,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,72,42,1,1,20141124,TOR,PHX
+Shot Chart Detail,0021400201,324,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,7,19,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,0,159,1,1,20141124,TOR,PHX
+Shot Chart Detail,0021400201,371,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,3,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,-2,1,1,20141124,TOR,PHX
+Shot Chart Detail,0021400201,499,201942,DeMar DeRozan,1610612761,Toronto Raptors,4,2,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-90,132,1,1,20141124,TOR,PHX
+Shot Chart Detail,0021400215,98,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,8,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,3,196,1,1,20141126,ATL,TOR
+Shot Chart Detail,0021400215,10,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,7,23,Made Shot,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,20,36,1,1,20141126,ATL,TOR
+Shot Chart Detail,0021400215,26,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,7,0,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,81,162,1,1,20141126,ATL,TOR
+Shot Chart Detail,0021400215,32,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,5,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,75,233,1,1,20141126,ATL,TOR
+Shot Chart Detail,0021400215,57,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,4,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-26,7,1,1,20141126,ATL,TOR
+Shot Chart Detail,0021400215,192,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,3,58,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-2,110,1,1,20141126,ATL,TOR
+Shot Chart Detail,0021400215,266,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,11,49,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,31,164,1,1,20141126,ATL,TOR
+Shot Chart Detail,0021400215,309,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,7,7,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,41,1,1,20141126,ATL,TOR
+Shot Chart Detail,0021400578,16,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,10,7,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,138,42,1,1,20150114,TOR,PHI
+Shot Chart Detail,0021400578,35,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,7,46,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-179,41,1,1,20150114,TOR,PHI
+Shot Chart Detail,0021400578,58,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,5,45,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,11,1,1,20150114,TOR,PHI
+Shot Chart Detail,0021400578,314,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,8,20,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,114,15,1,1,20150114,TOR,PHI
+Shot Chart Detail,0021400578,325,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,7,9,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,12,67,110,1,1,20150114,TOR,PHI
+Shot Chart Detail,0021400578,479,201942,DeMar DeRozan,1610612761,Toronto Raptors,4,7,31,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,7,1,1,20150114,TOR,PHI
+Shot Chart Detail,0021400578,491,201942,DeMar DeRozan,1610612761,Toronto Raptors,4,5,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-160,48,1,1,20150114,TOR,PHI
+Shot Chart Detail,0021400578,506,201942,DeMar DeRozan,1610612761,Toronto Raptors,4,4,43,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-26,4,1,1,20150114,TOR,PHI
+Shot Chart Detail,0021400578,521,201942,DeMar DeRozan,1610612761,Toronto Raptors,4,3,57,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-19,4,1,1,20150114,TOR,PHI
+Shot Chart Detail,0021400592,18,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,9,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-160,91,1,1,20150116,TOR,ATL
+Shot Chart Detail,0021400592,26,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,8,30,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,146,108,1,1,20150116,TOR,ATL
+Shot Chart Detail,0021400592,28,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,8,11,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,0,1,1,20150116,TOR,ATL
+Shot Chart Detail,0021400592,165,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,7,4,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,166,15,1,1,20150116,TOR,ATL
+Shot Chart Detail,0021400592,167,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,6,20,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,182,14,1,1,20150116,TOR,ATL
+Shot Chart Detail,0021400592,240,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,9,57,Made Shot,Driving Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,56,28,1,1,20150116,TOR,ATL
+Shot Chart Detail,0021400592,250,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,8,55,Made Shot,Driving Bank shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,6,39,1,1,20150116,TOR,ATL
+Shot Chart Detail,0021400592,280,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,5,58,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,231,1,1,1,20150116,TOR,ATL
+Shot Chart Detail,0021400592,295,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,5,4,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,0,1,1,20150116,TOR,ATL
+Shot Chart Detail,0021400592,315,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,2,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,195,4,1,1,20150116,TOR,ATL
+Shot Chart Detail,0021400592,405,201942,DeMar DeRozan,1610612761,Toronto Raptors,4,5,52,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-171,12,1,1,20150116,TOR,ATL
+Shot Chart Detail,0021400608,65,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,5,44,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,138,17,1,1,20150118,TOR,NOP
+Shot Chart Detail,0021400608,276,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,8,37,Made Shot,Pullup Bank shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-158,47,1,1,20150118,TOR,NOP
+Shot Chart Detail,0021400608,304,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,5,48,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,-3,1,1,20150118,TOR,NOP
+Shot Chart Detail,0021400608,320,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,4,57,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-171,72,1,1,20150118,TOR,NOP
+Shot Chart Detail,0021400608,324,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,4,25,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,19,1,1,20150118,TOR,NOP
+Shot Chart Detail,0021400608,330,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,4,0,Made Shot,Driving Bank shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-26,4,1,1,20150118,TOR,NOP
+Shot Chart Detail,0021400608,528,201942,DeMar DeRozan,1610612761,Toronto Raptors,4,1,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-146,146,1,1,20150118,TOR,NOP
+Shot Chart Detail,0021400630,229,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,0,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,4,1,1,20150121,MEM,TOR
+Shot Chart Detail,0021400630,327,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,4,45,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,69,64,1,1,20150121,MEM,TOR
+Shot Chart Detail,0021400641,53,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,5,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,176,11,1,1,20150123,PHI,TOR
+Shot Chart Detail,0021400641,255,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,8,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,21,212,37,1,1,20150123,PHI,TOR
+Shot Chart Detail,0021400641,263,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,7,33,Made Shot,Turnaround Bank shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-120,45,1,1,20150123,PHI,TOR
+Shot Chart Detail,0021400641,466,201942,DeMar DeRozan,1610612761,Toronto Raptors,4,2,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,6,1,1,20150123,PHI,TOR
+Shot Chart Detail,0021400664,8,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,10,34,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-122,132,1,1,20150125,TOR,DET
+Shot Chart Detail,0021400664,31,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,7,51,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,0,1,1,20150125,TOR,DET
+Shot Chart Detail,0021400664,85,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,1,59,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-171,20,1,1,20150125,TOR,DET
+Shot Chart Detail,0021400664,177,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,5,9,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-24,9,1,1,20150125,TOR,DET
+Shot Chart Detail,0021400664,196,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,3,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-183,17,1,1,20150125,TOR,DET
+Shot Chart Detail,0021400664,231,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,11,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,149,129,1,1,20150125,TOR,DET
+Shot Chart Detail,0021400664,263,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,8,9,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,114,85,1,1,20150125,TOR,DET
+Shot Chart Detail,0021400664,476,201942,DeMar DeRozan,1610612761,Toronto Raptors,4,1,23,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,110,11,1,1,20150125,TOR,DET
+Shot Chart Detail,0021400675,69,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,4,14,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-109,20,1,1,20150127,IND,TOR
+Shot Chart Detail,0021400675,76,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,3,47,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-21,34,1,1,20150127,IND,TOR
+Shot Chart Detail,0021400675,81,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,3,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-161,14,1,1,20150127,IND,TOR
+Shot Chart Detail,0021400675,241,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,2,46,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,4,93,1,1,20150127,IND,TOR
+Shot Chart Detail,0021400675,313,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,8,18,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,160,12,1,1,20150127,IND,TOR
+Shot Chart Detail,0021400675,350,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,4,28,Made Shot,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,21,56,1,1,20150127,IND,TOR
+Shot Chart Detail,0021400675,491,201942,DeMar DeRozan,1610612761,Toronto Raptors,4,3,57,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-141,41,1,1,20150127,IND,TOR
+Shot Chart Detail,0021400684,32,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,7,44,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,3,1,1,20150128,TOR,SAC
+Shot Chart Detail,0021400684,71,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,3,41,Made Shot,Running Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150128,TOR,SAC
+Shot Chart Detail,0021400684,112,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,0,22,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-13,72,1,1,20150128,TOR,SAC
+Shot Chart Detail,0021400684,209,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,2,11,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,4,1,1,20150128,TOR,SAC
+Shot Chart Detail,0021400684,259,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,10,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,18,168,1,1,20150128,TOR,SAC
+Shot Chart Detail,0021400699,20,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,8,53,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-87,74,1,1,20150130,BKN,TOR
+Shot Chart Detail,0021400699,200,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,3,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,-2,1,1,20150130,BKN,TOR
+Shot Chart Detail,0021400699,230,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,0,1,Made Shot,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-4,99,1,1,20150130,BKN,TOR
+Shot Chart Detail,0021400699,415,201942,DeMar DeRozan,1610612761,Toronto Raptors,4,6,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-157,134,1,1,20150130,BKN,TOR
+Shot Chart Detail,0021400699,419,201942,DeMar DeRozan,1610612761,Toronto Raptors,4,5,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,135,164,1,1,20150130,BKN,TOR
+Shot Chart Detail,0021400699,431,201942,DeMar DeRozan,1610612761,Toronto Raptors,4,5,6,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-90,148,1,1,20150130,BKN,TOR
+Shot Chart Detail,0021400699,436,201942,DeMar DeRozan,1610612761,Toronto Raptors,4,3,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-43,143,1,1,20150130,BKN,TOR
+Shot Chart Detail,0021400699,532,201942,DeMar DeRozan,1610612761,Toronto Raptors,5,2,30,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-146,110,1,1,20150130,BKN,TOR
+Shot Chart Detail,0021400699,547,201942,DeMar DeRozan,1610612761,Toronto Raptors,5,1,12,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,135,56,1,1,20150130,BKN,TOR
+Shot Chart Detail,0021400707,31,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,8,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,1,1,1,20150131,WAS,TOR
+Shot Chart Detail,0021400707,246,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,1,28,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-46,105,1,1,20150131,WAS,TOR
+Shot Chart Detail,0021400707,278,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,11,44,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-116,179,1,1,20150131,WAS,TOR
+Shot Chart Detail,0021400707,489,201942,DeMar DeRozan,1610612761,Toronto Raptors,4,6,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-127,143,1,1,20150131,WAS,TOR
+Shot Chart Detail,0021400707,525,201942,DeMar DeRozan,1610612761,Toronto Raptors,4,3,52,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-160,52,1,1,20150131,WAS,TOR
+Shot Chart Detail,0021400721,179,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,6,38,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,12,1,1,20150202,TOR,MIL
+Shot Chart Detail,0021400721,229,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,3,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-180,50,1,1,20150202,TOR,MIL
+Shot Chart Detail,0021400721,231,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,2,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,141,14,1,1,20150202,TOR,MIL
+Shot Chart Detail,0021400721,295,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,10,9,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-13,205,1,1,20150202,TOR,MIL
+Shot Chart Detail,0021400721,341,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,4,36,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,43,20,1,1,20150202,TOR,MIL
+Shot Chart Detail,0021400734,167,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,5,39,Made Shot,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,15,47,1,1,20150204,TOR,BKN
+Shot Chart Detail,0021400734,228,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,0,12,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-27,-5,1,1,20150204,TOR,BKN
+Shot Chart Detail,0021400734,286,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,5,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-4,198,1,1,20150204,TOR,BKN
+Shot Chart Detail,0021400734,304,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,2,30,Made Shot,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-51,0,1,1,20150204,TOR,BKN
+Shot Chart Detail,0021400734,468,201942,DeMar DeRozan,1610612761,Toronto Raptors,4,1,40,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,3,1,1,20150204,TOR,BKN
+Shot Chart Detail,0021400752,39,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,8,12,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,0,1,1,20150206,TOR,LAC
+Shot Chart Detail,0021400752,209,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,5,31,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,45,19,1,1,20150206,TOR,LAC
+Shot Chart Detail,0021400752,259,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,1,12,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,11,1,1,20150206,TOR,LAC
+Shot Chart Detail,0021400752,288,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,10,59,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-2,77,1,1,20150206,TOR,LAC
+Shot Chart Detail,0021400752,508,201942,DeMar DeRozan,1610612761,Toronto Raptors,4,4,18,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-34,0,1,1,20150206,TOR,LAC
+Shot Chart Detail,0021400752,520,201942,DeMar DeRozan,1610612761,Toronto Raptors,4,2,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,157,86,1,1,20150206,TOR,LAC
+Shot Chart Detail,0021400772,42,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,8,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-134,126,1,1,20150208,TOR,SAS
+Shot Chart Detail,0021400772,124,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,1,18,Made Shot,Driving Bank shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-35,6,1,1,20150208,TOR,SAS
+Shot Chart Detail,0021400772,218,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,4,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,143,42,1,1,20150208,TOR,SAS
+Shot Chart Detail,0021400772,484,201942,DeMar DeRozan,1610612761,Toronto Raptors,4,5,18,Made Shot,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,21,56,1,1,20150208,TOR,SAS
+Shot Chart Detail,0021400791,10,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,10,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,40,198,1,1,20150211,TOR,WAS
+Shot Chart Detail,0021400791,72,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,5,59,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-105,123,1,1,20150211,TOR,WAS
+Shot Chart Detail,0021400791,222,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,3,31,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-19,3,1,1,20150211,TOR,WAS
+Shot Chart Detail,0021400791,273,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,11,48,Made Shot,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,10,41,1,1,20150211,TOR,WAS
+Shot Chart Detail,0021400791,328,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,4,51,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-231,6,1,1,20150211,TOR,WAS
+Shot Chart Detail,0021400791,484,201942,DeMar DeRozan,1610612761,Toronto Raptors,4,0,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,102,129,1,1,20150211,TOR,WAS
+Shot Chart Detail,0021400805,2,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,11,40,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,195,77,1,1,20150220,ATL,TOR
+Shot Chart Detail,0021400805,4,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,11,2,Made Shot,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-56,6,1,1,20150220,ATL,TOR
+Shot Chart Detail,0021400805,28,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,8,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-172,101,1,1,20150220,ATL,TOR
+Shot Chart Detail,0021400805,67,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,4,50,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150220,ATL,TOR
+Shot Chart Detail,0021400805,222,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,3,38,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,17,1,1,20150220,ATL,TOR
+Shot Chart Detail,0021400805,237,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,2,34,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,228,33,1,1,20150220,ATL,TOR
+Shot Chart Detail,0021400805,260,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,1,34,Made Shot,Pullup Bank shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,124,69,1,1,20150220,ATL,TOR
+Shot Chart Detail,0021400805,334,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,7,8,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,31,116,1,1,20150220,ATL,TOR
+Shot Chart Detail,0021400805,403,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,1,53,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150220,ATL,TOR
+Shot Chart Detail,0021400819,107,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,2,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,3,1,1,20150221,HOU,TOR
+Shot Chart Detail,0021400819,157,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,11,13,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-93,15,1,1,20150221,HOU,TOR
+Shot Chart Detail,0021400819,319,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,9,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,21,167,1,1,20150221,HOU,TOR
+Shot Chart Detail,0021400819,354,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,5,44,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150221,HOU,TOR
+Shot Chart Detail,0021400833,34,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,8,28,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,163,9,1,1,20150223,NOP,TOR
+Shot Chart Detail,0021400833,39,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,7,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-112,123,1,1,20150223,NOP,TOR
+Shot Chart Detail,0021400833,207,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,2,43,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-152,53,1,1,20150223,NOP,TOR
+Shot Chart Detail,0021400833,284,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,8,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,-2,1,1,20150223,NOP,TOR
+Shot Chart Detail,0021400833,477,201942,DeMar DeRozan,1610612761,Toronto Raptors,4,3,28,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-138,15,1,1,20150223,NOP,TOR
+Shot Chart Detail,0021400833,485,201942,DeMar DeRozan,1610612761,Toronto Raptors,4,2,49,Made Shot,Driving Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150223,NOP,TOR
+Shot Chart Detail,0021400841,7,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,11,12,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,12,190,1,1,20150224,DAL,TOR
+Shot Chart Detail,0021400841,58,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,5,30,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-90,45,1,1,20150224,DAL,TOR
+Shot Chart Detail,0021400841,109,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,2,2,Made Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-75,19,1,1,20150224,DAL,TOR
+Shot Chart Detail,0021400841,188,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,5,49,Made Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,0,124,1,1,20150224,DAL,TOR
+Shot Chart Detail,0021400841,202,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,4,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,97,101,1,1,20150224,DAL,TOR
+Shot Chart Detail,0021400841,297,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,5,13,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,88,121,1,1,20150224,DAL,TOR
+Shot Chart Detail,0021400841,314,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,3,56,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,179,23,1,1,20150224,DAL,TOR
+Shot Chart Detail,0021400861,274,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,1,30,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,29,211,1,1,20150227,TOR,GSW
+Shot Chart Detail,0021400861,285,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,0,52,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,34,108,1,1,20150227,TOR,GSW
+Shot Chart Detail,0021400861,427,201942,DeMar DeRozan,1610612761,Toronto Raptors,4,11,4,Made Shot,Turnaround Bank shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-116,34,1,1,20150227,TOR,GSW
+Shot Chart Detail,0021400861,436,201942,DeMar DeRozan,1610612761,Toronto Raptors,4,9,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,13,165,1,1,20150227,TOR,GSW
+Shot Chart Detail,0021400872,73,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,5,14,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-130,11,1,1,20150228,NYK,TOR
+Shot Chart Detail,0021400872,97,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,2,23,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-89,9,1,1,20150228,NYK,TOR
+Shot Chart Detail,0021400872,264,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,0,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,200,-19,1,1,20150228,NYK,TOR
+Shot Chart Detail,0021400885,54,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,5,0,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,11,-56,96,1,1,20150302,PHI,TOR
+Shot Chart Detail,0021400885,66,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,4,7,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,3,1,1,20150302,PHI,TOR
+Shot Chart Detail,0021400885,76,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,3,46,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-153,135,1,1,20150302,PHI,TOR
+Shot Chart Detail,0021400885,99,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,1,26,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-29,181,1,1,20150302,PHI,TOR
+Shot Chart Detail,0021400885,216,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,1,11,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,-19,1,1,20150302,PHI,TOR
+Shot Chart Detail,0021400885,261,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,9,24,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-147,89,1,1,20150302,PHI,TOR
+Shot Chart Detail,0021400885,321,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,3,34,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,6,1,1,20150302,PHI,TOR
+Shot Chart Detail,0021400885,332,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,3,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,15,1,1,20150302,PHI,TOR
+Shot Chart Detail,0021400885,453,201942,DeMar DeRozan,1610612761,Toronto Raptors,4,3,38,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-7,37,1,1,20150302,PHI,TOR
+Shot Chart Detail,0021400885,455,201942,DeMar DeRozan,1610612761,Toronto Raptors,4,3,5,Made Shot,Driving Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150302,PHI,TOR
+Shot Chart Detail,0021400885,460,201942,DeMar DeRozan,1610612761,Toronto Raptors,4,2,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-34,159,1,1,20150302,PHI,TOR
+Shot Chart Detail,0021400885,465,201942,DeMar DeRozan,1610612761,Toronto Raptors,4,1,38,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-8,165,1,1,20150302,PHI,TOR
+Shot Chart Detail,0021400900,6,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,11,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-46,164,1,1,20150304,TOR,CLE
+Shot Chart Detail,0021400900,44,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,5,46,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,9,1,1,20150304,TOR,CLE
+Shot Chart Detail,0021400900,76,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,3,18,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-24,-6,1,1,20150304,TOR,CLE
+Shot Chart Detail,0021400900,83,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,2,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-57,165,1,1,20150304,TOR,CLE
+Shot Chart Detail,0021400900,99,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,1,18,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,-5,1,1,20150304,TOR,CLE
+Shot Chart Detail,0021400900,108,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,0,51,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,-3,1,1,20150304,TOR,CLE
+Shot Chart Detail,0021400900,203,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,3,6,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-125,47,1,1,20150304,TOR,CLE
+Shot Chart Detail,0021400900,298,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,5,14,Made Shot,Running Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150304,TOR,CLE
+Shot Chart Detail,0021400900,319,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,4,1,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-239,9,1,1,20150304,TOR,CLE
+Shot Chart Detail,0021400900,325,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,3,26,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,226,45,1,1,20150304,TOR,CLE
+Shot Chart Detail,0021400911,15,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,10,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-134,116,1,1,20150306,CHA,TOR
+Shot Chart Detail,0021400911,24,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,8,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,12,1,1,20150306,CHA,TOR
+Shot Chart Detail,0021400911,51,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,6,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,179,102,1,1,20150306,CHA,TOR
+Shot Chart Detail,0021400911,174,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,6,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,198,56,1,1,20150306,CHA,TOR
+Shot Chart Detail,0021400911,217,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,1,44,Made Shot,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-24,67,1,1,20150306,CHA,TOR
+Shot Chart Detail,0021400911,222,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,1,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,124,123,1,1,20150306,CHA,TOR
+Shot Chart Detail,0021400911,239,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,10,44,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150306,CHA,TOR
+Shot Chart Detail,0021400911,252,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,9,29,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-32,14,1,1,20150306,CHA,TOR
+Shot Chart Detail,0021400911,259,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,9,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,144,85,1,1,20150306,CHA,TOR
+Shot Chart Detail,0021400911,273,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,7,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,136,83,1,1,20150306,CHA,TOR
+Shot Chart Detail,0021400911,281,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,6,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-191,20,1,1,20150306,CHA,TOR
+Shot Chart Detail,0021400911,285,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,5,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-79,173,1,1,20150306,CHA,TOR
+Shot Chart Detail,0021400911,319,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,2,6,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150306,CHA,TOR
+Shot Chart Detail,0021400911,448,201942,DeMar DeRozan,1610612761,Toronto Raptors,4,4,38,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,6,1,1,20150306,CHA,TOR
+Shot Chart Detail,0021400936,47,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,5,31,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,133,9,1,1,20150308,OKC,TOR
+Shot Chart Detail,0021400936,51,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,4,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,140,173,1,1,20150308,OKC,TOR
+Shot Chart Detail,0021400936,95,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,1,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,6,1,1,20150308,OKC,TOR
+Shot Chart Detail,0021400936,170,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,5,51,Made Shot,Fadeaway Bank shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-125,55,1,1,20150308,OKC,TOR
+Shot Chart Detail,0021400936,180,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,4,56,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150308,OKC,TOR
+Shot Chart Detail,0021400936,195,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,3,59,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,12,72,99,1,1,20150308,OKC,TOR
+Shot Chart Detail,0021400936,205,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,3,13,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,18,129,1,1,20150308,OKC,TOR
+Shot Chart Detail,0021400936,482,201942,DeMar DeRozan,1610612761,Toronto Raptors,4,1,43,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-82,39,1,1,20150308,OKC,TOR
+Shot Chart Detail,0021400936,489,201942,DeMar DeRozan,1610612761,Toronto Raptors,4,1,6,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,0,1,1,20150308,OKC,TOR
+Shot Chart Detail,0021400936,497,201942,DeMar DeRozan,1610612761,Toronto Raptors,4,0,41,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,-3,1,1,20150308,OKC,TOR
+Shot Chart Detail,0021400936,500,201942,DeMar DeRozan,1610612761,Toronto Raptors,4,0,15,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150308,OKC,TOR
+Shot Chart Detail,0021400949,81,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,4,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,6,23,1,1,20150310,SAS,TOR
+Shot Chart Detail,0021400949,92,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,2,22,Made Shot,Running Bank shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-116,42,1,1,20150310,SAS,TOR
+Shot Chart Detail,0021400949,244,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,0,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,50,164,1,1,20150310,SAS,TOR
+Shot Chart Detail,0021400949,252,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,11,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,113,152,1,1,20150310,SAS,TOR
+Shot Chart Detail,0021400949,297,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,6,49,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150310,SAS,TOR
+Shot Chart Detail,0021400949,317,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,3,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,12,1,1,20150310,SAS,TOR
+Shot Chart Detail,0021400949,332,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,1,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-13,179,1,1,20150310,SAS,TOR
+Shot Chart Detail,0021400949,351,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,0,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,7,1,1,20150310,SAS,TOR
+Shot Chart Detail,0021400970,72,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,4,42,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,9,110,1,1,20150313,TOR,MIA
+Shot Chart Detail,0021400970,185,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,6,59,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-152,7,1,1,20150313,TOR,MIA
+Shot Chart Detail,0021400970,295,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,10,13,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150313,TOR,MIA
+Shot Chart Detail,0021400987,12,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,10,31,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,32,89,1,1,20150315,TOR,POR
+Shot Chart Detail,0021400987,47,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,6,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,149,93,1,1,20150315,TOR,POR
+Shot Chart Detail,0021400987,57,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,5,39,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-122,14,1,1,20150315,TOR,POR
+Shot Chart Detail,0021400987,65,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,3,41,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-2,157,1,1,20150315,TOR,POR
+Shot Chart Detail,0021400987,154,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,7,41,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-29,74,1,1,20150315,TOR,POR
+Shot Chart Detail,0021400987,209,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,3,8,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-5,75,1,1,20150315,TOR,POR
+Shot Chart Detail,0021400987,269,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,8,50,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-45,99,1,1,20150315,TOR,POR
+Shot Chart Detail,0021400987,296,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,5,59,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,17,1,1,20150315,TOR,POR
+Shot Chart Detail,0021400987,465,201942,DeMar DeRozan,1610612761,Toronto Raptors,4,4,1,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,-3,1,1,20150315,TOR,POR
+Shot Chart Detail,0021400990,28,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,8,57,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,160,-5,1,1,20150316,IND,TOR
+Shot Chart Detail,0021400990,33,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,8,25,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-78,11,1,1,20150316,IND,TOR
+Shot Chart Detail,0021400990,78,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,3,30,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-19,-5,1,1,20150316,IND,TOR
+Shot Chart Detail,0021400990,189,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,4,21,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150316,IND,TOR
+Shot Chart Detail,0021400990,196,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,4,2,Made Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,7,72,1,1,20150316,IND,TOR
+Shot Chart Detail,0021400990,347,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,3,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,95,33,1,1,20150316,IND,TOR
+Shot Chart Detail,0021401008,28,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,9,16,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,31,41,1,1,20150318,TOR,MIN
+Shot Chart Detail,0021401008,323,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,6,44,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,41,1,1,20150318,TOR,MIN
+Shot Chart Detail,0021401008,347,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,4,47,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,43,14,1,1,20150318,TOR,MIN
+Shot Chart Detail,0021401008,494,201942,DeMar DeRozan,1610612761,Toronto Raptors,4,1,40,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-157,53,1,1,20150318,TOR,MIN
+Shot Chart Detail,0021401025,14,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,10,31,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-224,-24,1,1,20150320,CHI,TOR
+Shot Chart Detail,0021401025,41,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,6,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-166,142,1,1,20150320,CHI,TOR
+Shot Chart Detail,0021401025,43,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,6,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-171,115,1,1,20150320,CHI,TOR
+Shot Chart Detail,0021401025,50,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,4,51,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,239,-19,1,1,20150320,CHI,TOR
+Shot Chart Detail,0021401025,186,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,3,41,Made Shot,Driving Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,143,9,1,1,20150320,CHI,TOR
+Shot Chart Detail,0021401025,258,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,8,23,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-13,17,1,1,20150320,CHI,TOR
+Shot Chart Detail,0021401025,452,201942,DeMar DeRozan,1610612761,Toronto Raptors,4,3,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,4,1,1,20150320,CHI,TOR
+Shot Chart Detail,0021401025,454,201942,DeMar DeRozan,1610612761,Toronto Raptors,4,3,9,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-226,-10,1,1,20150320,CHI,TOR
+Shot Chart Detail,0021401041,14,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,10,19,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,9,1,1,20150322,TOR,NYK
+Shot Chart Detail,0021401041,41,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,6,52,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-30,179,1,1,20150322,TOR,NYK
+Shot Chart Detail,0021401041,100,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,1,31,Made Shot,Driving Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150322,TOR,NYK
+Shot Chart Detail,0021401041,129,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,0,9,Made Shot,Putback Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150322,TOR,NYK
+Shot Chart Detail,0021401041,282,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,0,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,36,181,1,1,20150322,TOR,NYK
+Shot Chart Detail,0021401041,479,201942,DeMar DeRozan,1610612761,Toronto Raptors,4,4,42,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,15,-78,137,1,1,20150322,TOR,NYK
+Shot Chart Detail,0021401041,481,201942,DeMar DeRozan,1610612761,Toronto Raptors,4,4,5,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-226,41,1,1,20150322,TOR,NYK
+Shot Chart Detail,0021401041,496,201942,DeMar DeRozan,1610612761,Toronto Raptors,4,2,37,Made Shot,Running Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150322,TOR,NYK
+Shot Chart Detail,0021401054,217,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,0,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-123,143,1,1,20150324,DET,TOR
+Shot Chart Detail,0021401054,278,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,7,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,0,1,1,20150324,DET,TOR
+Shot Chart Detail,0021401054,339,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,3,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-103,142,1,1,20150324,DET,TOR
+Shot Chart Detail,0021401054,449,201942,DeMar DeRozan,1610612761,Toronto Raptors,4,5,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-87,115,1,1,20150324,DET,TOR
+Shot Chart Detail,0021401054,529,201942,DeMar DeRozan,1610612761,Toronto Raptors,4,0,42,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,3,1,1,20150324,DET,TOR
+Shot Chart Detail,0021401065,9,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,10,47,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,-5,1,1,20150325,TOR,CHI
+Shot Chart Detail,0021401065,115,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,9,42,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,6,1,1,20150325,TOR,CHI
+Shot Chart Detail,0021401065,197,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,1,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-138,12,1,1,20150325,TOR,CHI
+Shot Chart Detail,0021401065,215,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,11,46,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,4,118,1,1,20150325,TOR,CHI
+Shot Chart Detail,0021401065,218,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,11,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,2,198,1,1,20150325,TOR,CHI
+Shot Chart Detail,0021401065,243,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,8,7,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-24,94,1,1,20150325,TOR,CHI
+Shot Chart Detail,0021401065,296,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,2,43,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-26,1,1,1,20150325,TOR,CHI
+Shot Chart Detail,0021401080,424,201942,DeMar DeRozan,1610612761,Toronto Raptors,4,8,56,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,171,31,1,1,20150327,TOR,LAL
+Shot Chart Detail,0021401104,88,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,3,52,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-202,0,1,1,20150330,TOR,HOU
+Shot Chart Detail,0021401104,224,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,5,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,1,1,1,20150330,TOR,HOU
+Shot Chart Detail,0021401104,242,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,4,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,-2,1,1,20150330,TOR,HOU
+Shot Chart Detail,0021401104,250,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,3,18,Made Shot,Driving Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150330,TOR,HOU
+Shot Chart Detail,0021401104,273,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,1,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-179,11,1,1,20150330,TOR,HOU
+Shot Chart Detail,0021401104,290,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,0,34,Made Shot,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-46,22,1,1,20150330,TOR,HOU
+Shot Chart Detail,0021401104,313,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,9,46,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,12,108,1,1,20150330,TOR,HOU
+Shot Chart Detail,0021401104,334,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,7,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,159,112,1,1,20150330,TOR,HOU
+Shot Chart Detail,0021401104,356,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,5,38,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,231,-3,1,1,20150330,TOR,HOU
+Shot Chart Detail,0021401104,372,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,4,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,3,1,1,20150330,TOR,HOU
+Shot Chart Detail,0021401104,378,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,2,58,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-19,11,1,1,20150330,TOR,HOU
+Shot Chart Detail,0021401104,529,201942,DeMar DeRozan,1610612761,Toronto Raptors,4,3,48,Made Shot,Step Back Jump shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,4,1,1,20150330,TOR,HOU
+Shot Chart Detail,0021401104,554,201942,DeMar DeRozan,1610612761,Toronto Raptors,4,1,27,Made Shot,Turnaround Bank shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,-8,1,1,20150330,TOR,HOU
+Shot Chart Detail,0021401104,573,201942,DeMar DeRozan,1610612761,Toronto Raptors,4,0,18,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-112,138,1,1,20150330,TOR,HOU
+Shot Chart Detail,0021401119,30,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,8,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,-3,1,1,20150401,MIN,TOR
+Shot Chart Detail,0021401119,98,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,1,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,15,1,1,20150401,MIN,TOR
+Shot Chart Detail,0021401119,182,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,3,57,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,1,1,1,20150401,MIN,TOR
+Shot Chart Detail,0021401119,201,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,1,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,23,-95,219,1,1,20150401,MIN,TOR
+Shot Chart Detail,0021401119,231,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,11,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-114,157,1,1,20150401,MIN,TOR
+Shot Chart Detail,0021401119,306,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,2,43,Made Shot,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,45,34,1,1,20150401,MIN,TOR
+Shot Chart Detail,0021401130,13,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,9,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,9,213,1,1,20150403,BKN,TOR
+Shot Chart Detail,0021401130,62,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,5,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,174,14,1,1,20150403,BKN,TOR
+Shot Chart Detail,0021401130,154,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,7,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-149,11,1,1,20150403,BKN,TOR
+Shot Chart Detail,0021401130,247,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,11,35,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,149,-5,1,1,20150403,BKN,TOR
+Shot Chart Detail,0021401130,266,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,8,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-82,12,1,1,20150403,BKN,TOR
+Shot Chart Detail,0021401130,281,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,7,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,3,1,1,20150403,BKN,TOR
+Shot Chart Detail,0021401130,347,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,0,29,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,6,1,1,20150403,BKN,TOR
+Shot Chart Detail,0021401130,407,201942,DeMar DeRozan,1610612761,Toronto Raptors,4,7,8,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,0,167,1,1,20150403,BKN,TOR
+Shot Chart Detail,0021401130,480,201942,DeMar DeRozan,1610612761,Toronto Raptors,4,1,5,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,21,42,1,1,20150403,BKN,TOR
+Shot Chart Detail,0021401130,483,201942,DeMar DeRozan,1610612761,Toronto Raptors,4,0,36,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,165,58,1,1,20150403,BKN,TOR
+Shot Chart Detail,0021401140,31,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,7,59,Made Shot,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,23,34,1,1,20150404,TOR,BOS
+Shot Chart Detail,0021401140,47,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,5,42,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,0,1,1,20150404,TOR,BOS
+Shot Chart Detail,0021401140,93,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,1,33,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,40,101,1,1,20150404,TOR,BOS
+Shot Chart Detail,0021401140,199,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,3,55,Made Shot,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,37,58,1,1,20150404,TOR,BOS
+Shot Chart Detail,0021401140,211,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,2,40,Made Shot,Driving Bank shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,9,1,1,20150404,TOR,BOS
+Shot Chart Detail,0021401140,229,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,1,15,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,0,71,1,1,20150404,TOR,BOS
+Shot Chart Detail,0021401140,320,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,5,52,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-24,4,1,1,20150404,TOR,BOS
+Shot Chart Detail,0021401140,467,201942,DeMar DeRozan,1610612761,Toronto Raptors,4,5,15,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,32,116,1,1,20150404,TOR,BOS
+Shot Chart Detail,0021401140,474,201942,DeMar DeRozan,1610612761,Toronto Raptors,4,4,21,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,97,83,1,1,20150404,TOR,BOS
+Shot Chart Detail,0021401140,512,201942,DeMar DeRozan,1610612761,Toronto Raptors,4,1,24,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-27,1,1,1,20150404,TOR,BOS
+Shot Chart Detail,0021401140,529,201942,DeMar DeRozan,1610612761,Toronto Raptors,4,0,30,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,6,1,1,20150404,TOR,BOS
+Shot Chart Detail,0021401140,541,201942,DeMar DeRozan,1610612761,Toronto Raptors,4,0,6,Made Shot,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-23,44,1,1,20150404,TOR,BOS
+Shot Chart Detail,0021401140,577,201942,DeMar DeRozan,1610612761,Toronto Raptors,5,2,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-24,6,1,1,20150404,TOR,BOS
+Shot Chart Detail,0021401140,582,201942,DeMar DeRozan,1610612761,Toronto Raptors,5,1,41,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,111,20,1,1,20150404,TOR,BOS
+Shot Chart Detail,0021401160,15,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,9,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-98,131,1,1,20150408,CHA,TOR
+Shot Chart Detail,0021401160,44,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,6,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-111,86,1,1,20150408,CHA,TOR
+Shot Chart Detail,0021401160,226,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,11,38,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-141,85,1,1,20150408,CHA,TOR
+Shot Chart Detail,0021401160,260,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,8,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-103,135,1,1,20150408,CHA,TOR
+Shot Chart Detail,0021401160,262,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,8,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,6,1,1,20150408,CHA,TOR
+Shot Chart Detail,0021401160,439,201942,DeMar DeRozan,1610612761,Toronto Raptors,4,2,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,11,1,1,20150408,CHA,TOR
+Shot Chart Detail,0021401175,2,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,11,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,113,153,1,1,20150410,ORL,TOR
+Shot Chart Detail,0021401175,37,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,7,58,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150410,ORL,TOR
+Shot Chart Detail,0021401175,178,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,7,59,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,0,134,1,1,20150410,ORL,TOR
+Shot Chart Detail,0021401175,201,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,5,15,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-149,20,1,1,20150410,ORL,TOR
+Shot Chart Detail,0021401175,234,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,1,46,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,-3,1,1,20150410,ORL,TOR
+Shot Chart Detail,0021401175,275,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,9,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,1,246,1,1,20150410,ORL,TOR
+Shot Chart Detail,0021401175,306,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,6,19,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,11,1,1,20150410,ORL,TOR
+Shot Chart Detail,0021401175,340,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,3,26,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,12,1,1,20150410,ORL,TOR
+Shot Chart Detail,0021401175,506,201942,DeMar DeRozan,1610612761,Toronto Raptors,4,0,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-11,140,1,1,20150410,ORL,TOR
+Shot Chart Detail,0021401175,515,201942,DeMar DeRozan,1610612761,Toronto Raptors,4,0,18,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,1,20,1,1,20150410,ORL,TOR
+Shot Chart Detail,0021401188,63,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,4,56,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-136,44,1,1,20150411,MIA,TOR
+Shot Chart Detail,0021401188,76,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,3,51,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-239,20,1,1,20150411,MIA,TOR
+Shot Chart Detail,0021401188,91,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,2,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-98,131,1,1,20150411,MIA,TOR
+Shot Chart Detail,0021401188,256,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,3,49,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,195,26,1,1,20150411,MIA,TOR
+Shot Chart Detail,0021401188,367,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,7,39,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-5,137,1,1,20150411,MIA,TOR
+Shot Chart Detail,0021401188,550,201942,DeMar DeRozan,1610612761,Toronto Raptors,4,3,35,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-5,135,1,1,20150411,MIA,TOR
+Shot Chart Detail,0021401188,573,201942,DeMar DeRozan,1610612761,Toronto Raptors,4,1,21,Made Shot,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-35,25,1,1,20150411,MIA,TOR
+Shot Chart Detail,0021401228,22,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,8,17,Made Shot,Turnaround Bank shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,99,9,1,1,20150415,TOR,CHA
+Shot Chart Detail,0021401228,41,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,5,42,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,6,159,1,1,20150415,TOR,CHA
+Shot Chart Detail,0021401228,57,201942,DeMar DeRozan,1610612761,Toronto Raptors,1,3,41,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,15,25,1,1,20150415,TOR,CHA
+Shot Chart Detail,0021401228,210,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,0,36,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-24,14,1,1,20150415,TOR,CHA
+Shot Chart Detail,0021401228,213,201942,DeMar DeRozan,1610612761,Toronto Raptors,2,0,0,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-73,187,1,1,20150415,TOR,CHA
+Shot Chart Detail,0021401228,279,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,1,39,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-90,165,1,1,20150415,TOR,CHA
+Shot Chart Detail,0021401228,282,201942,DeMar DeRozan,1610612761,Toronto Raptors,3,1,5,Made Shot,Turnaround Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,42,47,1,1,20150415,TOR,CHA
+Shot Chart Detail,0021401228,389,201942,DeMar DeRozan,1610612761,Toronto Raptors,4,1,19,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,159,88,1,1,20150415,TOR,CHA

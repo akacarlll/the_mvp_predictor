@@ -1,0 +1,599 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0020800002,390,2732,Ben Gordon,1610612741,Chicago Bulls,3,3,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-76,203,1,1,20081028,CHI,MIL
+Shot Chart Detail,0020800002,399,2732,Ben Gordon,1610612741,Chicago Bulls,3,1,24,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,44,1,1,20081028,CHI,MIL
+Shot Chart Detail,0020800002,419,2732,Ben Gordon,1610612741,Chicago Bulls,4,11,41,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,236,-13,1,1,20081028,CHI,MIL
+Shot Chart Detail,0020800002,484,2732,Ben Gordon,1610612741,Chicago Bulls,4,6,33,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081028,CHI,MIL
+Shot Chart Detail,0020800002,493,2732,Ben Gordon,1610612741,Chicago Bulls,4,5,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,206,1,1,1,20081028,CHI,MIL
+Shot Chart Detail,0020800002,519,2732,Ben Gordon,1610612741,Chicago Bulls,4,3,0,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,-10,1,1,20081028,CHI,MIL
+Shot Chart Detail,0020800022,359,2732,Ben Gordon,1610612741,Chicago Bulls,3,4,29,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,12,1,1,20081031,BOS,CHI
+Shot Chart Detail,0020800022,407,2732,Ben Gordon,1610612741,Chicago Bulls,3,1,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,43,189,1,1,20081031,BOS,CHI
+Shot Chart Detail,0020800022,525,2732,Ben Gordon,1610612741,Chicago Bulls,4,4,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-191,156,1,1,20081031,BOS,CHI
+Shot Chart Detail,0020800034,383,2732,Ben Gordon,1610612741,Chicago Bulls,3,1,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,108,153,1,1,20081101,CHI,MEM
+Shot Chart Detail,0020800034,393,2732,Ben Gordon,1610612741,Chicago Bulls,3,0,0,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-45,69,1,1,20081101,CHI,MEM
+Shot Chart Detail,0020800034,402,2732,Ben Gordon,1610612741,Chicago Bulls,4,11,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,185,162,1,1,20081101,CHI,MEM
+Shot Chart Detail,0020800043,153,2732,Ben Gordon,1610612741,Chicago Bulls,2,11,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-160,97,1,1,20081103,ORL,CHI
+Shot Chart Detail,0020800043,246,2732,Ben Gordon,1610612741,Chicago Bulls,2,3,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-172,127,1,1,20081103,ORL,CHI
+Shot Chart Detail,0020800043,250,2732,Ben Gordon,1610612741,Chicago Bulls,2,3,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-209,126,1,1,20081103,ORL,CHI
+Shot Chart Detail,0020800043,371,2732,Ben Gordon,1610612741,Chicago Bulls,3,4,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-150,205,1,1,20081103,ORL,CHI
+Shot Chart Detail,0020800043,375,2732,Ben Gordon,1610612741,Chicago Bulls,3,3,45,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,116,71,1,1,20081103,ORL,CHI
+Shot Chart Detail,0020800043,410,2732,Ben Gordon,1610612741,Chicago Bulls,3,0,4,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-86,140,1,1,20081103,ORL,CHI
+Shot Chart Detail,0020800043,559,2732,Ben Gordon,1610612741,Chicago Bulls,4,0,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,163,0,1,1,20081103,ORL,CHI
+Shot Chart Detail,0020800055,112,2732,Ben Gordon,1610612741,Chicago Bulls,1,2,1,Made Shot,Jump Bank Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,193,154,1,1,20081105,CLE,CHI
+Shot Chart Detail,0020800055,133,2732,Ben Gordon,1610612741,Chicago Bulls,1,0,30,Made Shot,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-2,60,1,1,20081105,CLE,CHI
+Shot Chart Detail,0020800055,151,2732,Ben Gordon,1610612741,Chicago Bulls,2,10,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,163,203,1,1,20081105,CLE,CHI
+Shot Chart Detail,0020800055,214,2732,Ben Gordon,1610612741,Chicago Bulls,2,4,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,12,1,1,20081105,CLE,CHI
+Shot Chart Detail,0020800055,382,2732,Ben Gordon,1610612741,Chicago Bulls,3,1,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,6,249,1,1,20081105,CLE,CHI
+Shot Chart Detail,0020800055,389,2732,Ben Gordon,1610612741,Chicago Bulls,3,0,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,114,219,1,1,20081105,CLE,CHI
+Shot Chart Detail,0020800055,406,2732,Ben Gordon,1610612741,Chicago Bulls,4,11,43,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,17,1,1,20081105,CLE,CHI
+Shot Chart Detail,0020800055,454,2732,Ben Gordon,1610612741,Chicago Bulls,4,7,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-19,146,1,1,20081105,CLE,CHI
+Shot Chart Detail,0020800055,457,2732,Ben Gordon,1610612741,Chicago Bulls,4,6,54,Made Shot,Running Bank shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-130,52,1,1,20081105,CLE,CHI
+Shot Chart Detail,0020800055,527,2732,Ben Gordon,1610612741,Chicago Bulls,4,1,50,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-8,1,1,20081105,CLE,CHI
+Shot Chart Detail,0020800055,540,2732,Ben Gordon,1610612741,Chicago Bulls,4,1,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,157,186,1,1,20081105,CLE,CHI
+Shot Chart Detail,0020800073,90,2732,Ben Gordon,1610612741,Chicago Bulls,1,1,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,78,170,1,1,20081107,CHI,PHX
+Shot Chart Detail,0020800073,118,2732,Ben Gordon,1610612741,Chicago Bulls,2,11,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,94,242,1,1,20081107,CHI,PHX
+Shot Chart Detail,0020800073,131,2732,Ben Gordon,1610612741,Chicago Bulls,2,10,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,166,118,1,1,20081107,CHI,PHX
+Shot Chart Detail,0020800073,334,2732,Ben Gordon,1610612741,Chicago Bulls,3,3,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,177,194,1,1,20081107,CHI,PHX
+Shot Chart Detail,0020800073,373,2732,Ben Gordon,1610612741,Chicago Bulls,3,1,17,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,43,61,1,1,20081107,CHI,PHX
+Shot Chart Detail,0020800073,383,2732,Ben Gordon,1610612741,Chicago Bulls,3,0,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-78,247,1,1,20081107,CHI,PHX
+Shot Chart Detail,0020800073,426,2732,Ben Gordon,1610612741,Chicago Bulls,4,8,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-139,86,1,1,20081107,CHI,PHX
+Shot Chart Detail,0020800073,439,2732,Ben Gordon,1610612741,Chicago Bulls,4,6,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,125,230,1,1,20081107,CHI,PHX
+Shot Chart Detail,0020800082,16,2732,Ben Gordon,1610612741,Chicago Bulls,1,10,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-112,0,1,1,20081108,CHI,CLE
+Shot Chart Detail,0020800082,102,2732,Ben Gordon,1610612741,Chicago Bulls,1,3,6,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081108,CHI,CLE
+Shot Chart Detail,0020800082,120,2732,Ben Gordon,1610612741,Chicago Bulls,1,1,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,128,181,1,1,20081108,CHI,CLE
+Shot Chart Detail,0020800082,129,2732,Ben Gordon,1610612741,Chicago Bulls,1,0,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,133,201,1,1,20081108,CHI,CLE
+Shot Chart Detail,0020800082,133,2732,Ben Gordon,1610612741,Chicago Bulls,1,0,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081108,CHI,CLE
+Shot Chart Detail,0020800082,144,2732,Ben Gordon,1610612741,Chicago Bulls,2,11,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,121,143,1,1,20081108,CHI,CLE
+Shot Chart Detail,0020800082,337,2732,Ben Gordon,1610612741,Chicago Bulls,3,4,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,0,211,1,1,20081108,CHI,CLE
+Shot Chart Detail,0020800082,430,2732,Ben Gordon,1610612741,Chicago Bulls,4,5,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,193,66,1,1,20081108,CHI,CLE
+Shot Chart Detail,0020800082,467,2732,Ben Gordon,1610612741,Chicago Bulls,4,3,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-5,186,1,1,20081108,CHI,CLE
+Shot Chart Detail,0020800082,474,2732,Ben Gordon,1610612741,Chicago Bulls,4,2,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-105,41,1,1,20081108,CHI,CLE
+Shot Chart Detail,0020800101,93,2732,Ben Gordon,1610612741,Chicago Bulls,1,1,55,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-106,4,1,1,20081111,CHI,ATL
+Shot Chart Detail,0020800101,160,2732,Ben Gordon,1610612741,Chicago Bulls,2,8,0,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-11,39,1,1,20081111,CHI,ATL
+Shot Chart Detail,0020800101,167,2732,Ben Gordon,1610612741,Chicago Bulls,2,7,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-89,167,1,1,20081111,CHI,ATL
+Shot Chart Detail,0020800101,182,2732,Ben Gordon,1610612741,Chicago Bulls,2,6,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,157,145,1,1,20081111,CHI,ATL
+Shot Chart Detail,0020800101,195,2732,Ben Gordon,1610612741,Chicago Bulls,2,4,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-166,26,1,1,20081111,CHI,ATL
+Shot Chart Detail,0020800101,276,2732,Ben Gordon,1610612741,Chicago Bulls,3,10,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-161,178,1,1,20081111,CHI,ATL
+Shot Chart Detail,0020800101,511,2732,Ben Gordon,1610612741,Chicago Bulls,4,1,39,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081111,CHI,ATL
+Shot Chart Detail,0020800101,524,2732,Ben Gordon,1610612741,Chicago Bulls,4,0,36,Made Shot,Running Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081111,CHI,ATL
+Shot Chart Detail,0020800118,78,2732,Ben Gordon,1610612741,Chicago Bulls,1,5,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,133,137,1,1,20081113,CHI,DAL
+Shot Chart Detail,0020800118,81,2732,Ben Gordon,1610612741,Chicago Bulls,1,5,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,23,-166,170,1,1,20081113,CHI,DAL
+Shot Chart Detail,0020800118,115,2732,Ben Gordon,1610612741,Chicago Bulls,1,2,54,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081113,CHI,DAL
+Shot Chart Detail,0020800118,120,2732,Ben Gordon,1610612741,Chicago Bulls,1,2,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-158,23,1,1,20081113,CHI,DAL
+Shot Chart Detail,0020800118,231,2732,Ben Gordon,1610612741,Chicago Bulls,2,4,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081113,CHI,DAL
+Shot Chart Detail,0020800118,236,2732,Ben Gordon,1610612741,Chicago Bulls,2,3,53,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081113,CHI,DAL
+Shot Chart Detail,0020800118,240,2732,Ben Gordon,1610612741,Chicago Bulls,2,3,28,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,0,77,1,1,20081113,CHI,DAL
+Shot Chart Detail,0020800118,337,2732,Ben Gordon,1610612741,Chicago Bulls,3,9,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081113,CHI,DAL
+Shot Chart Detail,0020800118,440,2732,Ben Gordon,1610612741,Chicago Bulls,4,11,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081113,CHI,DAL
+Shot Chart Detail,0020800118,448,2732,Ben Gordon,1610612741,Chicago Bulls,4,10,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-134,203,1,1,20081113,CHI,DAL
+Shot Chart Detail,0020800118,501,2732,Ben Gordon,1610612741,Chicago Bulls,4,6,27,Made Shot,Running Bank shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-100,28,1,1,20081113,CHI,DAL
+Shot Chart Detail,0020800118,526,2732,Ben Gordon,1610612741,Chicago Bulls,4,4,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,114,151,1,1,20081113,CHI,DAL
+Shot Chart Detail,0020800137,17,2732,Ben Gordon,1610612741,Chicago Bulls,1,10,41,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,125,131,1,1,20081115,CHI,IND
+Shot Chart Detail,0020800137,38,2732,Ben Gordon,1610612741,Chicago Bulls,1,7,48,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,121,135,1,1,20081115,CHI,IND
+Shot Chart Detail,0020800137,47,2732,Ben Gordon,1610612741,Chicago Bulls,1,6,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,18,167,1,1,20081115,CHI,IND
+Shot Chart Detail,0020800137,280,2732,Ben Gordon,1610612741,Chicago Bulls,2,0,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,138,118,1,1,20081115,CHI,IND
+Shot Chart Detail,0020800137,364,2732,Ben Gordon,1610612741,Chicago Bulls,3,5,6,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-4,159,1,1,20081115,CHI,IND
+Shot Chart Detail,0020800137,441,2732,Ben Gordon,1610612741,Chicago Bulls,4,10,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-70,151,1,1,20081115,CHI,IND
+Shot Chart Detail,0020800158,91,2732,Ben Gordon,1610612741,Chicago Bulls,1,3,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-190,208,1,1,20081118,LAL,CHI
+Shot Chart Detail,0020800158,166,2732,Ben Gordon,1610612741,Chicago Bulls,2,10,40,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081118,LAL,CHI
+Shot Chart Detail,0020800158,271,2732,Ben Gordon,1610612741,Chicago Bulls,2,2,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-193,178,1,1,20081118,LAL,CHI
+Shot Chart Detail,0020800158,274,2732,Ben Gordon,1610612741,Chicago Bulls,2,2,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081118,LAL,CHI
+Shot Chart Detail,0020800158,421,2732,Ben Gordon,1610612741,Chicago Bulls,3,3,7,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-10,41,1,1,20081118,LAL,CHI
+Shot Chart Detail,0020800158,545,2732,Ben Gordon,1610612741,Chicago Bulls,4,3,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-97,241,1,1,20081118,LAL,CHI
+Shot Chart Detail,0020800168,79,2732,Ben Gordon,1610612741,Chicago Bulls,1,2,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-75,156,1,1,20081119,POR,CHI
+Shot Chart Detail,0020800168,192,2732,Ben Gordon,1610612741,Chicago Bulls,2,7,9,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-2,69,1,1,20081119,POR,CHI
+Shot Chart Detail,0020800168,205,2732,Ben Gordon,1610612741,Chicago Bulls,2,5,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,105,167,1,1,20081119,POR,CHI
+Shot Chart Detail,0020800168,246,2732,Ben Gordon,1610612741,Chicago Bulls,2,2,8,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,15,164,1,1,20081119,POR,CHI
+Shot Chart Detail,0020800182,48,2732,Ben Gordon,1610612741,Chicago Bulls,1,6,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,0,1,1,20081121,GSW,CHI
+Shot Chart Detail,0020800182,50,2732,Ben Gordon,1610612741,Chicago Bulls,1,5,40,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,9,1,1,20081121,GSW,CHI
+Shot Chart Detail,0020800182,190,2732,Ben Gordon,1610612741,Chicago Bulls,2,3,51,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-182,172,1,1,20081121,GSW,CHI
+Shot Chart Detail,0020800182,193,2732,Ben Gordon,1610612741,Chicago Bulls,2,3,26,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,9,1,1,20081121,GSW,CHI
+Shot Chart Detail,0020800182,195,2732,Ben Gordon,1610612741,Chicago Bulls,2,2,52,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-114,192,1,1,20081121,GSW,CHI
+Shot Chart Detail,0020800182,287,2732,Ben Gordon,1610612741,Chicago Bulls,3,7,21,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,21,211,-2,1,1,20081121,GSW,CHI
+Shot Chart Detail,0020800196,137,2732,Ben Gordon,1610612741,Chicago Bulls,2,9,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-136,168,1,1,20081123,DEN,CHI
+Shot Chart Detail,0020800196,186,2732,Ben Gordon,1610612741,Chicago Bulls,2,5,29,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,231,6,1,1,20081123,DEN,CHI
+Shot Chart Detail,0020800196,200,2732,Ben Gordon,1610612741,Chicago Bulls,2,3,43,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-235,56,1,1,20081123,DEN,CHI
+Shot Chart Detail,0020800196,262,2732,Ben Gordon,1610612741,Chicago Bulls,2,0,11,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,69,64,1,1,20081123,DEN,CHI
+Shot Chart Detail,0020800196,387,2732,Ben Gordon,1610612741,Chicago Bulls,3,3,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,209,142,1,1,20081123,DEN,CHI
+Shot Chart Detail,0020800196,491,2732,Ben Gordon,1610612741,Chicago Bulls,4,7,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-153,197,1,1,20081123,DEN,CHI
+Shot Chart Detail,0020800196,500,2732,Ben Gordon,1610612741,Chicago Bulls,4,7,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-4,250,1,1,20081123,DEN,CHI
+Shot Chart Detail,0020800202,45,2732,Ben Gordon,1610612741,Chicago Bulls,1,8,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,64,246,1,1,20081124,UTA,CHI
+Shot Chart Detail,0020800202,58,2732,Ben Gordon,1610612741,Chicago Bulls,1,6,15,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081124,UTA,CHI
+Shot Chart Detail,0020800202,189,2732,Ben Gordon,1610612741,Chicago Bulls,2,3,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-52,164,1,1,20081124,UTA,CHI
+Shot Chart Detail,0020800202,263,2732,Ben Gordon,1610612741,Chicago Bulls,3,6,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-157,142,1,1,20081124,UTA,CHI
+Shot Chart Detail,0020800202,291,2732,Ben Gordon,1610612741,Chicago Bulls,3,2,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,129,159,1,1,20081124,UTA,CHI
+Shot Chart Detail,0020800202,300,2732,Ben Gordon,1610612741,Chicago Bulls,3,1,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,22,-56,222,1,1,20081124,UTA,CHI
+Shot Chart Detail,0020800218,79,2732,Ben Gordon,1610612741,Chicago Bulls,1,4,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,12,1,1,20081126,SAS,CHI
+Shot Chart Detail,0020800218,104,2732,Ben Gordon,1610612741,Chicago Bulls,1,1,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,23,215,105,1,1,20081126,SAS,CHI
+Shot Chart Detail,0020800218,125,2732,Ben Gordon,1610612741,Chicago Bulls,2,11,44,Made Shot,Running Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,26,30,1,1,20081126,SAS,CHI
+Shot Chart Detail,0020800218,220,2732,Ben Gordon,1610612741,Chicago Bulls,2,2,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,3,1,1,20081126,SAS,CHI
+Shot Chart Detail,0020800218,251,2732,Ben Gordon,1610612741,Chicago Bulls,2,0,1,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,39,88,1,1,20081126,SAS,CHI
+Shot Chart Detail,0020800218,284,2732,Ben Gordon,1610612741,Chicago Bulls,3,8,28,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,20,80,1,1,20081126,SAS,CHI
+Shot Chart Detail,0020800218,304,2732,Ben Gordon,1610612741,Chicago Bulls,3,7,0,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,225,52,1,1,20081126,SAS,CHI
+Shot Chart Detail,0020800218,310,2732,Ben Gordon,1610612741,Chicago Bulls,3,6,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,-2,1,1,20081126,SAS,CHI
+Shot Chart Detail,0020800218,318,2732,Ben Gordon,1610612741,Chicago Bulls,3,5,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,182,-13,1,1,20081126,SAS,CHI
+Shot Chart Detail,0020800248,110,2732,Ben Gordon,1610612741,Chicago Bulls,1,1,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081130,PHI,CHI
+Shot Chart Detail,0020800248,115,2732,Ben Gordon,1610612741,Chicago Bulls,1,0,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-215,142,1,1,20081130,PHI,CHI
+Shot Chart Detail,0020800248,254,2732,Ben Gordon,1610612741,Chicago Bulls,3,11,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,13,208,1,1,20081130,PHI,CHI
+Shot Chart Detail,0020800248,273,2732,Ben Gordon,1610612741,Chicago Bulls,3,9,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,222,149,1,1,20081130,PHI,CHI
+Shot Chart Detail,0020800248,285,2732,Ben Gordon,1610612741,Chicago Bulls,3,8,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,159,93,1,1,20081130,PHI,CHI
+Shot Chart Detail,0020800248,299,2732,Ben Gordon,1610612741,Chicago Bulls,3,5,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,233,121,1,1,20081130,PHI,CHI
+Shot Chart Detail,0020800248,391,2732,Ben Gordon,1610612741,Chicago Bulls,4,10,10,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,12,78,93,1,1,20081130,PHI,CHI
+Shot Chart Detail,0020800258,12,2732,Ben Gordon,1610612741,Chicago Bulls,1,10,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081202,CHI,PHI
+Shot Chart Detail,0020800258,110,2732,Ben Gordon,1610612741,Chicago Bulls,1,0,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-81,138,1,1,20081202,CHI,PHI
+Shot Chart Detail,0020800258,196,2732,Ben Gordon,1610612741,Chicago Bulls,2,3,53,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,13,55,1,1,20081202,CHI,PHI
+Shot Chart Detail,0020800258,229,2732,Ben Gordon,1610612741,Chicago Bulls,2,0,54,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,58,83,1,1,20081202,CHI,PHI
+Shot Chart Detail,0020800258,287,2732,Ben Gordon,1610612741,Chicago Bulls,3,7,4,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,7,1,1,20081202,CHI,PHI
+Shot Chart Detail,0020800258,335,2732,Ben Gordon,1610612741,Chicago Bulls,3,2,53,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081202,CHI,PHI
+Shot Chart Detail,0020800270,7,2732,Ben Gordon,1610612741,Chicago Bulls,1,11,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081203,MIL,CHI
+Shot Chart Detail,0020800270,300,2732,Ben Gordon,1610612741,Chicago Bulls,3,5,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-13,179,1,1,20081203,MIL,CHI
+Shot Chart Detail,0020800270,304,2732,Ben Gordon,1610612741,Chicago Bulls,3,4,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,89,149,1,1,20081203,MIL,CHI
+Shot Chart Detail,0020800270,313,2732,Ben Gordon,1610612741,Chicago Bulls,3,3,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,177,30,1,1,20081203,MIL,CHI
+Shot Chart Detail,0020800270,330,2732,Ben Gordon,1610612741,Chicago Bulls,3,2,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,95,129,1,1,20081203,MIL,CHI
+Shot Chart Detail,0020800270,333,2732,Ben Gordon,1610612741,Chicago Bulls,3,1,55,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081203,MIL,CHI
+Shot Chart Detail,0020800270,345,2732,Ben Gordon,1610612741,Chicago Bulls,3,0,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-130,88,1,1,20081203,MIL,CHI
+Shot Chart Detail,0020800270,352,2732,Ben Gordon,1610612741,Chicago Bulls,3,0,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,95,143,1,1,20081203,MIL,CHI
+Shot Chart Detail,0020800292,27,2732,Ben Gordon,1610612741,Chicago Bulls,1,8,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,110,179,1,1,20081206,CHI,WAS
+Shot Chart Detail,0020800292,43,2732,Ben Gordon,1610612741,Chicago Bulls,1,6,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,195,-6,1,1,20081206,CHI,WAS
+Shot Chart Detail,0020800292,114,2732,Ben Gordon,1610612741,Chicago Bulls,2,9,54,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-87,112,1,1,20081206,CHI,WAS
+Shot Chart Detail,0020800292,155,2732,Ben Gordon,1610612741,Chicago Bulls,2,3,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,73,181,1,1,20081206,CHI,WAS
+Shot Chart Detail,0020800292,188,2732,Ben Gordon,1610612741,Chicago Bulls,2,1,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-175,172,1,1,20081206,CHI,WAS
+Shot Chart Detail,0020800292,210,2732,Ben Gordon,1610612741,Chicago Bulls,2,0,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081206,CHI,WAS
+Shot Chart Detail,0020800292,267,2732,Ben Gordon,1610612741,Chicago Bulls,3,7,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,185,58,1,1,20081206,CHI,WAS
+Shot Chart Detail,0020800292,299,2732,Ben Gordon,1610612741,Chicago Bulls,3,3,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,171,192,1,1,20081206,CHI,WAS
+Shot Chart Detail,0020800292,320,2732,Ben Gordon,1610612741,Chicago Bulls,3,1,23,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081206,CHI,WAS
+Shot Chart Detail,0020800308,5,2732,Ben Gordon,1610612741,Chicago Bulls,1,11,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,157,72,1,1,20081209,CHI,NYK
+Shot Chart Detail,0020800308,204,2732,Ben Gordon,1610612741,Chicago Bulls,2,3,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081209,CHI,NYK
+Shot Chart Detail,0020800308,267,2732,Ben Gordon,1610612741,Chicago Bulls,3,10,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-97,200,1,1,20081209,CHI,NYK
+Shot Chart Detail,0020800308,287,2732,Ben Gordon,1610612741,Chicago Bulls,3,8,1,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,13,168,1,1,20081209,CHI,NYK
+Shot Chart Detail,0020800308,307,2732,Ben Gordon,1610612741,Chicago Bulls,3,5,36,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,3,1,1,20081209,CHI,NYK
+Shot Chart Detail,0020800308,443,2732,Ben Gordon,1610612741,Chicago Bulls,4,2,52,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,239,-2,1,1,20081209,CHI,NYK
+Shot Chart Detail,0020800331,6,2732,Ben Gordon,1610612741,Chicago Bulls,1,10,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,212,140,1,1,20081212,MEM,CHI
+Shot Chart Detail,0020800331,34,2732,Ben Gordon,1610612741,Chicago Bulls,1,8,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-11,260,1,1,20081212,MEM,CHI
+Shot Chart Detail,0020800331,38,2732,Ben Gordon,1610612741,Chicago Bulls,1,7,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-218,143,1,1,20081212,MEM,CHI
+Shot Chart Detail,0020800331,71,2732,Ben Gordon,1610612741,Chicago Bulls,1,4,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-146,220,1,1,20081212,MEM,CHI
+Shot Chart Detail,0020800331,75,2732,Ben Gordon,1610612741,Chicago Bulls,1,4,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-150,206,1,1,20081212,MEM,CHI
+Shot Chart Detail,0020800331,267,2732,Ben Gordon,1610612741,Chicago Bulls,3,8,59,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-226,-21,1,1,20081212,MEM,CHI
+Shot Chart Detail,0020800331,348,2732,Ben Gordon,1610612741,Chicago Bulls,3,1,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-81,195,1,1,20081212,MEM,CHI
+Shot Chart Detail,0020800331,497,2732,Ben Gordon,1610612741,Chicago Bulls,4,0,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-163,195,1,1,20081212,MEM,CHI
+Shot Chart Detail,0020800340,21,2732,Ben Gordon,1610612741,Chicago Bulls,1,9,23,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081213,CHI,NJN
+Shot Chart Detail,0020800340,80,2732,Ben Gordon,1610612741,Chicago Bulls,1,4,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,122,83,1,1,20081213,CHI,NJN
+Shot Chart Detail,0020800340,85,2732,Ben Gordon,1610612741,Chicago Bulls,1,3,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,160,146,1,1,20081213,CHI,NJN
+Shot Chart Detail,0020800340,90,2732,Ben Gordon,1610612741,Chicago Bulls,1,2,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-7,184,1,1,20081213,CHI,NJN
+Shot Chart Detail,0020800340,117,2732,Ben Gordon,1610612741,Chicago Bulls,1,0,51,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,181,48,1,1,20081213,CHI,NJN
+Shot Chart Detail,0020800340,160,2732,Ben Gordon,1610612741,Chicago Bulls,2,8,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081213,CHI,NJN
+Shot Chart Detail,0020800340,259,2732,Ben Gordon,1610612741,Chicago Bulls,3,11,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,133,201,1,1,20081213,CHI,NJN
+Shot Chart Detail,0020800340,295,2732,Ben Gordon,1610612741,Chicago Bulls,3,7,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-67,242,1,1,20081213,CHI,NJN
+Shot Chart Detail,0020800340,316,2732,Ben Gordon,1610612741,Chicago Bulls,3,4,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-117,184,1,1,20081213,CHI,NJN
+Shot Chart Detail,0020800340,343,2732,Ben Gordon,1610612741,Chicago Bulls,3,1,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,146,156,1,1,20081213,CHI,NJN
+Shot Chart Detail,0020800340,382,2732,Ben Gordon,1610612741,Chicago Bulls,4,10,41,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,1,1,1,20081213,CHI,NJN
+Shot Chart Detail,0020800340,464,2732,Ben Gordon,1610612741,Chicago Bulls,4,2,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,23,244,1,1,20081213,CHI,NJN
+Shot Chart Detail,0020800360,11,2732,Ben Gordon,1610612741,Chicago Bulls,1,10,31,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081216,CHA,CHI
+Shot Chart Detail,0020800360,44,2732,Ben Gordon,1610612741,Chicago Bulls,1,7,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-5,258,1,1,20081216,CHA,CHI
+Shot Chart Detail,0020800360,116,2732,Ben Gordon,1610612741,Chicago Bulls,1,0,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-158,58,1,1,20081216,CHA,CHI
+Shot Chart Detail,0020800360,135,2732,Ben Gordon,1610612741,Chicago Bulls,2,9,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,70,242,1,1,20081216,CHA,CHI
+Shot Chart Detail,0020800360,376,2732,Ben Gordon,1610612741,Chicago Bulls,4,10,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,170,200,1,1,20081216,CHA,CHI
+Shot Chart Detail,0020800360,456,2732,Ben Gordon,1610612741,Chicago Bulls,4,2,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-149,45,1,1,20081216,CHA,CHI
+Shot Chart Detail,0020800360,477,2732,Ben Gordon,1610612741,Chicago Bulls,4,0,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081216,CHA,CHI
+Shot Chart Detail,0020800373,11,2732,Ben Gordon,1610612741,Chicago Bulls,1,9,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081217,CHI,LAC
+Shot Chart Detail,0020800373,219,2732,Ben Gordon,1610612741,Chicago Bulls,2,2,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,24,255,1,1,20081217,CHI,LAC
+Shot Chart Detail,0020800373,386,2732,Ben Gordon,1610612741,Chicago Bulls,3,0,38,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,236,82,1,1,20081217,CHI,LAC
+Shot Chart Detail,0020800373,403,2732,Ben Gordon,1610612741,Chicago Bulls,4,11,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,140,110,1,1,20081217,CHI,LAC
+Shot Chart Detail,0020800373,414,2732,Ben Gordon,1610612741,Chicago Bulls,4,9,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,32,247,1,1,20081217,CHI,LAC
+Shot Chart Detail,0020800373,491,2732,Ben Gordon,1610612741,Chicago Bulls,4,1,54,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081217,CHI,LAC
+Shot Chart Detail,0020800373,516,2732,Ben Gordon,1610612741,Chicago Bulls,4,0,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,72,235,1,1,20081217,CHI,LAC
+Shot Chart Detail,0020800380,136,2732,Ben Gordon,1610612741,Chicago Bulls,2,9,23,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,99,157,1,1,20081219,BOS,CHI
+Shot Chart Detail,0020800380,140,2732,Ben Gordon,1610612741,Chicago Bulls,2,8,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,31,274,1,1,20081219,BOS,CHI
+Shot Chart Detail,0020800380,182,2732,Ben Gordon,1610612741,Chicago Bulls,2,3,35,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-152,53,1,1,20081219,BOS,CHI
+Shot Chart Detail,0020800380,238,2732,Ben Gordon,1610612741,Chicago Bulls,3,9,1,Made Shot,Fadeaway Bank shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-108,138,1,1,20081219,BOS,CHI
+Shot Chart Detail,0020800395,65,2732,Ben Gordon,1610612741,Chicago Bulls,1,5,46,Made Shot,Running Bank shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-100,60,1,1,20081220,CHI,UTA
+Shot Chart Detail,0020800395,72,2732,Ben Gordon,1610612741,Chicago Bulls,1,5,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,78,238,1,1,20081220,CHI,UTA
+Shot Chart Detail,0020800395,76,2732,Ben Gordon,1610612741,Chicago Bulls,1,4,28,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081220,CHI,UTA
+Shot Chart Detail,0020800395,98,2732,Ben Gordon,1610612741,Chicago Bulls,1,2,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081220,CHI,UTA
+Shot Chart Detail,0020800395,309,2732,Ben Gordon,1610612741,Chicago Bulls,3,5,24,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081220,CHI,UTA
+Shot Chart Detail,0020800395,338,2732,Ben Gordon,1610612741,Chicago Bulls,3,2,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-191,156,1,1,20081220,CHI,UTA
+Shot Chart Detail,0020800395,342,2732,Ben Gordon,1610612741,Chicago Bulls,3,1,3,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-7,71,1,1,20081220,CHI,UTA
+Shot Chart Detail,0020800395,437,2732,Ben Gordon,1610612741,Chicago Bulls,4,4,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,116,227,1,1,20081220,CHI,UTA
+Shot Chart Detail,0020800415,46,2732,Ben Gordon,1610612741,Chicago Bulls,1,6,6,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,23,1,1,20081223,DET,CHI
+Shot Chart Detail,0020800415,200,2732,Ben Gordon,1610612741,Chicago Bulls,2,4,37,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081223,DET,CHI
+Shot Chart Detail,0020800415,293,2732,Ben Gordon,1610612741,Chicago Bulls,3,8,55,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081223,DET,CHI
+Shot Chart Detail,0020800415,429,2732,Ben Gordon,1610612741,Chicago Bulls,4,8,57,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,64,83,1,1,20081223,DET,CHI
+Shot Chart Detail,0020800415,435,2732,Ben Gordon,1610612741,Chicago Bulls,4,7,53,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081223,DET,CHI
+Shot Chart Detail,0020800415,447,2732,Ben Gordon,1610612741,Chicago Bulls,4,6,48,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,196,72,1,1,20081223,DET,CHI
+Shot Chart Detail,0020800415,450,2732,Ben Gordon,1610612741,Chicago Bulls,4,6,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081223,DET,CHI
+Shot Chart Detail,0020800415,458,2732,Ben Gordon,1610612741,Chicago Bulls,4,5,34,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-125,86,1,1,20081223,DET,CHI
+Shot Chart Detail,0020800426,27,2732,Ben Gordon,1610612741,Chicago Bulls,1,8,53,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081226,MIA,CHI
+Shot Chart Detail,0020800426,73,2732,Ben Gordon,1610612741,Chicago Bulls,1,4,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-147,194,1,1,20081226,MIA,CHI
+Shot Chart Detail,0020800426,93,2732,Ben Gordon,1610612741,Chicago Bulls,1,2,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,192,146,1,1,20081226,MIA,CHI
+Shot Chart Detail,0020800426,114,2732,Ben Gordon,1610612741,Chicago Bulls,1,0,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,102,222,1,1,20081226,MIA,CHI
+Shot Chart Detail,0020800426,276,2732,Ben Gordon,1610612741,Chicago Bulls,3,8,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-127,173,1,1,20081226,MIA,CHI
+Shot Chart Detail,0020800426,337,2732,Ben Gordon,1610612741,Chicago Bulls,3,1,12,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,69,56,1,1,20081226,MIA,CHI
+Shot Chart Detail,0020800436,27,2732,Ben Gordon,1610612741,Chicago Bulls,1,7,34,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-15,34,1,1,20081227,ATL,CHI
+Shot Chart Detail,0020800436,49,2732,Ben Gordon,1610612741,Chicago Bulls,1,5,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-71,269,1,1,20081227,ATL,CHI
+Shot Chart Detail,0020800436,52,2732,Ben Gordon,1610612741,Chicago Bulls,1,4,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,29,162,250,1,1,20081227,ATL,CHI
+Shot Chart Detail,0020800436,78,2732,Ben Gordon,1610612741,Chicago Bulls,1,2,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-133,134,1,1,20081227,ATL,CHI
+Shot Chart Detail,0020800436,80,2732,Ben Gordon,1610612741,Chicago Bulls,1,2,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-174,203,1,1,20081227,ATL,CHI
+Shot Chart Detail,0020800436,91,2732,Ben Gordon,1610612741,Chicago Bulls,1,0,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-127,145,1,1,20081227,ATL,CHI
+Shot Chart Detail,0020800436,291,2732,Ben Gordon,1610612741,Chicago Bulls,3,10,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,181,211,1,1,20081227,ATL,CHI
+Shot Chart Detail,0020800436,358,2732,Ben Gordon,1610612741,Chicago Bulls,3,1,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,70,266,1,1,20081227,ATL,CHI
+Shot Chart Detail,0020800436,371,2732,Ben Gordon,1610612741,Chicago Bulls,3,0,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,23,283,1,1,20081227,ATL,CHI
+Shot Chart Detail,0020800436,513,2732,Ben Gordon,1610612741,Chicago Bulls,4,0,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,64,179,1,1,20081227,ATL,CHI
+Shot Chart Detail,0020800452,44,2732,Ben Gordon,1610612741,Chicago Bulls,1,8,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-149,102,1,1,20081229,NJN,CHI
+Shot Chart Detail,0020800452,62,2732,Ben Gordon,1610612741,Chicago Bulls,1,6,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,184,192,1,1,20081229,NJN,CHI
+Shot Chart Detail,0020800452,80,2732,Ben Gordon,1610612741,Chicago Bulls,1,3,26,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081229,NJN,CHI
+Shot Chart Detail,0020800452,173,2732,Ben Gordon,1610612741,Chicago Bulls,2,5,47,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,-2,1,1,20081229,NJN,CHI
+Shot Chart Detail,0020800452,199,2732,Ben Gordon,1610612741,Chicago Bulls,2,2,47,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081229,NJN,CHI
+Shot Chart Detail,0020800452,288,2732,Ben Gordon,1610612741,Chicago Bulls,3,4,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,190,151,1,1,20081229,NJN,CHI
+Shot Chart Detail,0020800452,433,2732,Ben Gordon,1610612741,Chicago Bulls,4,2,56,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,226,31,1,1,20081229,NJN,CHI
+Shot Chart Detail,0020800452,453,2732,Ben Gordon,1610612741,Chicago Bulls,4,1,46,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,-3,1,1,20081229,NJN,CHI
+Shot Chart Detail,0020800467,159,2732,Ben Gordon,1610612741,Chicago Bulls,2,8,29,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081231,CHI,ORL
+Shot Chart Detail,0020800467,180,2732,Ben Gordon,1610612741,Chicago Bulls,2,6,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081231,CHI,ORL
+Shot Chart Detail,0020800467,408,2732,Ben Gordon,1610612741,Chicago Bulls,4,10,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-125,176,1,1,20081231,CHI,ORL
+Shot Chart Detail,0020800467,425,2732,Ben Gordon,1610612741,Chicago Bulls,4,8,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-202,145,1,1,20081231,CHI,ORL
+Shot Chart Detail,0020800467,431,2732,Ben Gordon,1610612741,Chicago Bulls,4,7,35,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,0,104,1,1,20081231,CHI,ORL
+Shot Chart Detail,0020800467,449,2732,Ben Gordon,1610612741,Chicago Bulls,4,5,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,91,238,1,1,20081231,CHI,ORL
+Shot Chart Detail,0020800476,183,2732,Ben Gordon,1610612741,Chicago Bulls,2,9,28,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,-3,1,1,20090102,CLE,CHI
+Shot Chart Detail,0020800476,199,2732,Ben Gordon,1610612741,Chicago Bulls,2,8,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,152,66,1,1,20090102,CLE,CHI
+Shot Chart Detail,0020800476,213,2732,Ben Gordon,1610612741,Chicago Bulls,2,6,24,Made Shot,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,65,33,1,1,20090102,CLE,CHI
+Shot Chart Detail,0020800476,307,2732,Ben Gordon,1610612741,Chicago Bulls,2,0,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,42,153,1,1,20090102,CLE,CHI
+Shot Chart Detail,0020800476,311,2732,Ben Gordon,1610612741,Chicago Bulls,2,0,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,105,60,1,1,20090102,CLE,CHI
+Shot Chart Detail,0020800476,375,2732,Ben Gordon,1610612741,Chicago Bulls,3,6,12,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-51,63,1,1,20090102,CLE,CHI
+Shot Chart Detail,0020800476,397,2732,Ben Gordon,1610612741,Chicago Bulls,3,3,46,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-133,45,1,1,20090102,CLE,CHI
+Shot Chart Detail,0020800492,42,2732,Ben Gordon,1610612741,Chicago Bulls,1,7,44,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090103,CHI,MIN
+Shot Chart Detail,0020800492,196,2732,Ben Gordon,1610612741,Chicago Bulls,2,6,59,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-243,4,1,1,20090103,CHI,MIN
+Shot Chart Detail,0020800492,256,2732,Ben Gordon,1610612741,Chicago Bulls,2,2,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,36,257,1,1,20090103,CHI,MIN
+Shot Chart Detail,0020800492,265,2732,Ben Gordon,1610612741,Chicago Bulls,2,1,18,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090103,CHI,MIN
+Shot Chart Detail,0020800492,410,2732,Ben Gordon,1610612741,Chicago Bulls,3,0,6,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-103,96,1,1,20090103,CHI,MIN
+Shot Chart Detail,0020800492,495,2732,Ben Gordon,1610612741,Chicago Bulls,4,4,2,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,6,1,1,20090103,CHI,MIN
+Shot Chart Detail,0020800492,543,2732,Ben Gordon,1610612741,Chicago Bulls,4,0,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-128,42,1,1,20090103,CHI,MIN
+Shot Chart Detail,0020800511,10,2732,Ben Gordon,1610612741,Chicago Bulls,1,10,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090106,CHI,SAC
+Shot Chart Detail,0020800511,32,2732,Ben Gordon,1610612741,Chicago Bulls,1,8,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,92,195,1,1,20090106,CHI,SAC
+Shot Chart Detail,0020800511,41,2732,Ben Gordon,1610612741,Chicago Bulls,1,7,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-122,151,1,1,20090106,CHI,SAC
+Shot Chart Detail,0020800511,252,2732,Ben Gordon,1610612741,Chicago Bulls,2,1,14,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-221,-3,1,1,20090106,CHI,SAC
+Shot Chart Detail,0020800511,266,2732,Ben Gordon,1610612741,Chicago Bulls,3,11,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,83,175,1,1,20090106,CHI,SAC
+Shot Chart Detail,0020800511,357,2732,Ben Gordon,1610612741,Chicago Bulls,3,1,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090106,CHI,SAC
+Shot Chart Detail,0020800534,5,2732,Ben Gordon,1610612741,Chicago Bulls,1,11,16,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-103,63,1,1,20090109,CHI,WAS
+Shot Chart Detail,0020800534,33,2732,Ben Gordon,1610612741,Chicago Bulls,1,8,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,133,233,1,1,20090109,CHI,WAS
+Shot Chart Detail,0020800534,44,2732,Ben Gordon,1610612741,Chicago Bulls,1,6,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-131,176,1,1,20090109,CHI,WAS
+Shot Chart Detail,0020800534,87,2732,Ben Gordon,1610612741,Chicago Bulls,1,1,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-153,80,1,1,20090109,CHI,WAS
+Shot Chart Detail,0020800534,221,2732,Ben Gordon,1610612741,Chicago Bulls,3,9,23,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,247,0,1,1,20090109,CHI,WAS
+Shot Chart Detail,0020800534,276,2732,Ben Gordon,1610612741,Chicago Bulls,3,3,48,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,143,85,1,1,20090109,CHI,WAS
+Shot Chart Detail,0020800534,284,2732,Ben Gordon,1610612741,Chicago Bulls,3,2,46,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,0,1,1,20090109,CHI,WAS
+Shot Chart Detail,0020800534,308,2732,Ben Gordon,1610612741,Chicago Bulls,3,0,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,78,246,1,1,20090109,CHI,WAS
+Shot Chart Detail,0020800534,411,2732,Ben Gordon,1610612741,Chicago Bulls,4,2,24,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090109,CHI,WAS
+Shot Chart Detail,0020800542,49,2732,Ben Gordon,1610612741,Chicago Bulls,1,8,24,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,50,58,1,1,20090110,CHI,OKC
+Shot Chart Detail,0020800542,58,2732,Ben Gordon,1610612741,Chicago Bulls,1,7,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,144,211,1,1,20090110,CHI,OKC
+Shot Chart Detail,0020800542,93,2732,Ben Gordon,1610612741,Chicago Bulls,1,4,11,Made Shot,Running Bank shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-93,12,1,1,20090110,CHI,OKC
+Shot Chart Detail,0020800542,136,2732,Ben Gordon,1610612741,Chicago Bulls,1,0,52,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090110,CHI,OKC
+Shot Chart Detail,0020800542,165,2732,Ben Gordon,1610612741,Chicago Bulls,2,9,0,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-171,56,1,1,20090110,CHI,OKC
+Shot Chart Detail,0020800542,262,2732,Ben Gordon,1610612741,Chicago Bulls,3,11,14,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090110,CHI,OKC
+Shot Chart Detail,0020800542,301,2732,Ben Gordon,1610612741,Chicago Bulls,3,6,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,22,-191,123,1,1,20090110,CHI,OKC
+Shot Chart Detail,0020800542,315,2732,Ben Gordon,1610612741,Chicago Bulls,3,4,30,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090110,CHI,OKC
+Shot Chart Detail,0020800542,485,2732,Ben Gordon,1610612741,Chicago Bulls,4,1,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-86,138,1,1,20090110,CHI,OKC
+Shot Chart Detail,0020800557,45,2732,Ben Gordon,1610612741,Chicago Bulls,1,6,9,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,-10,1,1,20090112,CHI,POR
+Shot Chart Detail,0020800557,221,2732,Ben Gordon,1610612741,Chicago Bulls,2,4,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090112,CHI,POR
+Shot Chart Detail,0020800557,241,2732,Ben Gordon,1610612741,Chicago Bulls,2,2,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090112,CHI,POR
+Shot Chart Detail,0020800557,328,2732,Ben Gordon,1610612741,Chicago Bulls,3,5,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090112,CHI,POR
+Shot Chart Detail,0020800557,534,2732,Ben Gordon,1610612741,Chicago Bulls,4,1,38,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090112,CHI,POR
+Shot Chart Detail,0020800568,89,2732,Ben Gordon,1610612741,Chicago Bulls,1,2,13,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090114,TOR,CHI
+Shot Chart Detail,0020800568,314,2732,Ben Gordon,1610612741,Chicago Bulls,3,5,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-130,203,1,1,20090114,TOR,CHI
+Shot Chart Detail,0020800568,317,2732,Ben Gordon,1610612741,Chicago Bulls,3,5,4,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090114,TOR,CHI
+Shot Chart Detail,0020800568,440,2732,Ben Gordon,1610612741,Chicago Bulls,4,4,0,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,30,1,1,20090114,TOR,CHI
+Shot Chart Detail,0020800578,141,2732,Ben Gordon,1610612741,Chicago Bulls,2,7,12,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090115,CHI,CLE
+Shot Chart Detail,0020800578,381,2732,Ben Gordon,1610612741,Chicago Bulls,4,7,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-114,143,1,1,20090115,CHI,CLE
+Shot Chart Detail,0020800594,2,2732,Ben Gordon,1610612741,Chicago Bulls,1,11,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-38,189,1,1,20090117,CHI,SAS
+Shot Chart Detail,0020800594,5,2732,Ben Gordon,1610612741,Chicago Bulls,1,10,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,4,154,1,1,20090117,CHI,SAS
+Shot Chart Detail,0020800594,24,2732,Ben Gordon,1610612741,Chicago Bulls,1,8,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,110,149,1,1,20090117,CHI,SAS
+Shot Chart Detail,0020800594,26,2732,Ben Gordon,1610612741,Chicago Bulls,1,8,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-52,162,1,1,20090117,CHI,SAS
+Shot Chart Detail,0020800594,128,2732,Ben Gordon,1610612741,Chicago Bulls,2,9,39,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,124,219,1,1,20090117,CHI,SAS
+Shot Chart Detail,0020800594,243,2732,Ben Gordon,1610612741,Chicago Bulls,3,10,38,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-144,1,1,1,20090117,CHI,SAS
+Shot Chart Detail,0020800594,345,2732,Ben Gordon,1610612741,Chicago Bulls,4,11,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,102,173,1,1,20090117,CHI,SAS
+Shot Chart Detail,0020800594,354,2732,Ben Gordon,1610612741,Chicago Bulls,4,9,57,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,163,25,1,1,20090117,CHI,SAS
+Shot Chart Detail,0020800594,364,2732,Ben Gordon,1610612741,Chicago Bulls,4,9,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,136,145,1,1,20090117,CHI,SAS
+Shot Chart Detail,0020800601,129,2732,Ben Gordon,1610612741,Chicago Bulls,2,11,5,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,0,1,1,20090119,NYK,CHI
+Shot Chart Detail,0020800601,190,2732,Ben Gordon,1610612741,Chicago Bulls,2,5,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-205,148,1,1,20090119,NYK,CHI
+Shot Chart Detail,0020800601,401,2732,Ben Gordon,1610612741,Chicago Bulls,4,10,51,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090119,NYK,CHI
+Shot Chart Detail,0020800613,10,2732,Ben Gordon,1610612741,Chicago Bulls,1,10,58,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090120,CHI,ATL
+Shot Chart Detail,0020800613,78,2732,Ben Gordon,1610612741,Chicago Bulls,1,2,37,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,147,99,1,1,20090120,CHI,ATL
+Shot Chart Detail,0020800613,362,2732,Ben Gordon,1610612741,Chicago Bulls,3,1,49,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090120,CHI,ATL
+Shot Chart Detail,0020800613,434,2732,Ben Gordon,1610612741,Chicago Bulls,4,8,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-144,194,1,1,20090120,CHI,ATL
+Shot Chart Detail,0020800613,452,2732,Ben Gordon,1610612741,Chicago Bulls,4,6,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-188,28,1,1,20090120,CHI,ATL
+Shot Chart Detail,0020800613,477,2732,Ben Gordon,1610612741,Chicago Bulls,4,3,39,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090120,CHI,ATL
+Shot Chart Detail,0020800636,12,2732,Ben Gordon,1610612741,Chicago Bulls,1,9,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,144,216,1,1,20090123,CHI,TOR
+Shot Chart Detail,0020800636,56,2732,Ben Gordon,1610612741,Chicago Bulls,1,4,4,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090123,CHI,TOR
+Shot Chart Detail,0020800636,200,2732,Ben Gordon,1610612741,Chicago Bulls,2,2,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,97,148,1,1,20090123,CHI,TOR
+Shot Chart Detail,0020800636,410,2732,Ben Gordon,1610612741,Chicago Bulls,4,9,8,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,23,93,1,1,20090123,CHI,TOR
+Shot Chart Detail,0020800636,420,2732,Ben Gordon,1610612741,Chicago Bulls,4,8,14,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-35,165,1,1,20090123,CHI,TOR
+Shot Chart Detail,0020800652,34,2732,Ben Gordon,1610612741,Chicago Bulls,1,9,27,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090125,MIN,CHI
+Shot Chart Detail,0020800652,41,2732,Ben Gordon,1610612741,Chicago Bulls,1,8,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090125,MIN,CHI
+Shot Chart Detail,0020800652,51,2732,Ben Gordon,1610612741,Chicago Bulls,1,7,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,155,37,1,1,20090125,MIN,CHI
+Shot Chart Detail,0020800652,143,2732,Ben Gordon,1610612741,Chicago Bulls,2,10,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,111,228,1,1,20090125,MIN,CHI
+Shot Chart Detail,0020800652,151,2732,Ben Gordon,1610612741,Chicago Bulls,2,10,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-127,148,1,1,20090125,MIN,CHI
+Shot Chart Detail,0020800652,195,2732,Ben Gordon,1610612741,Chicago Bulls,2,6,26,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,6,1,1,20090125,MIN,CHI
+Shot Chart Detail,0020800652,390,2732,Ben Gordon,1610612741,Chicago Bulls,4,9,47,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090125,MIN,CHI
+Shot Chart Detail,0020800652,448,2732,Ben Gordon,1610612741,Chicago Bulls,4,4,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,132,132,1,1,20090125,MIN,CHI
+Shot Chart Detail,0020800652,505,2732,Ben Gordon,1610612741,Chicago Bulls,5,4,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,97,159,1,1,20090125,MIN,CHI
+Shot Chart Detail,0020800652,518,2732,Ben Gordon,1610612741,Chicago Bulls,5,3,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,204,149,1,1,20090125,MIN,CHI
+Shot Chart Detail,0020800678,179,2732,Ben Gordon,1610612741,Chicago Bulls,2,6,25,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-19,19,1,1,20090128,LAC,CHI
+Shot Chart Detail,0020800678,310,2732,Ben Gordon,1610612741,Chicago Bulls,3,7,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-71,172,1,1,20090128,LAC,CHI
+Shot Chart Detail,0020800678,337,2732,Ben Gordon,1610612741,Chicago Bulls,3,3,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,196,154,1,1,20090128,LAC,CHI
+Shot Chart Detail,0020800678,369,2732,Ben Gordon,1610612741,Chicago Bulls,3,0,4,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-37,89,1,1,20090128,LAC,CHI
+Shot Chart Detail,0020800691,207,2732,Ben Gordon,1610612741,Chicago Bulls,2,4,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,171,183,1,1,20090130,SAC,CHI
+Shot Chart Detail,0020800691,295,2732,Ben Gordon,1610612741,Chicago Bulls,3,10,39,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-54,33,1,1,20090130,SAC,CHI
+Shot Chart Detail,0020800691,297,2732,Ben Gordon,1610612741,Chicago Bulls,3,10,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,195,55,1,1,20090130,SAC,CHI
+Shot Chart Detail,0020800691,339,2732,Ben Gordon,1610612741,Chicago Bulls,3,5,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,189,33,1,1,20090130,SAC,CHI
+Shot Chart Detail,0020800691,392,2732,Ben Gordon,1610612741,Chicago Bulls,3,1,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-163,129,1,1,20090130,SAC,CHI
+Shot Chart Detail,0020800691,481,2732,Ben Gordon,1610612741,Chicago Bulls,4,5,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,154,108,1,1,20090130,SAC,CHI
+Shot Chart Detail,0020800691,487,2732,Ben Gordon,1610612741,Chicago Bulls,4,4,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,162,23,1,1,20090130,SAC,CHI
+Shot Chart Detail,0020800700,4,2732,Ben Gordon,1610612741,Chicago Bulls,1,11,19,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,-8,1,1,20090131,PHX,CHI
+Shot Chart Detail,0020800700,21,2732,Ben Gordon,1610612741,Chicago Bulls,1,8,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,226,104,1,1,20090131,PHX,CHI
+Shot Chart Detail,0020800700,100,2732,Ben Gordon,1610612741,Chicago Bulls,1,1,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-35,251,1,1,20090131,PHX,CHI
+Shot Chart Detail,0020800700,251,2732,Ben Gordon,1610612741,Chicago Bulls,2,2,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,157,142,1,1,20090131,PHX,CHI
+Shot Chart Detail,0020800700,290,2732,Ben Gordon,1610612741,Chicago Bulls,3,10,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,203,41,1,1,20090131,PHX,CHI
+Shot Chart Detail,0020800700,408,2732,Ben Gordon,1610612741,Chicago Bulls,3,1,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,100,181,1,1,20090131,PHX,CHI
+Shot Chart Detail,0020800700,434,2732,Ben Gordon,1610612741,Chicago Bulls,4,10,39,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,34,1,1,20090131,PHX,CHI
+Shot Chart Detail,0020800700,512,2732,Ben Gordon,1610612741,Chicago Bulls,4,3,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-111,227,1,1,20090131,PHX,CHI
+Shot Chart Detail,0020800718,239,2732,Ben Gordon,1610612741,Chicago Bulls,2,2,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090203,HOU,CHI
+Shot Chart Detail,0020800718,258,2732,Ben Gordon,1610612741,Chicago Bulls,2,1,16,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,159,71,1,1,20090203,HOU,CHI
+Shot Chart Detail,0020800718,280,2732,Ben Gordon,1610612741,Chicago Bulls,3,10,39,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090203,HOU,CHI
+Shot Chart Detail,0020800718,287,2732,Ben Gordon,1610612741,Chicago Bulls,3,9,53,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-68,0,1,1,20090203,HOU,CHI
+Shot Chart Detail,0020800718,290,2732,Ben Gordon,1610612741,Chicago Bulls,3,9,31,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-169,67,1,1,20090203,HOU,CHI
+Shot Chart Detail,0020800718,509,2732,Ben Gordon,1610612741,Chicago Bulls,4,1,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-190,154,1,1,20090203,HOU,CHI
+Shot Chart Detail,0020800718,512,2732,Ben Gordon,1610612741,Chicago Bulls,4,1,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-180,194,1,1,20090203,HOU,CHI
+Shot Chart Detail,0020800727,2,2732,Ben Gordon,1610612741,Chicago Bulls,1,11,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090204,NOH,CHI
+Shot Chart Detail,0020800727,29,2732,Ben Gordon,1610612741,Chicago Bulls,1,8,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,1,249,1,1,20090204,NOH,CHI
+Shot Chart Detail,0020800727,47,2732,Ben Gordon,1610612741,Chicago Bulls,1,5,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,166,97,1,1,20090204,NOH,CHI
+Shot Chart Detail,0020800727,114,2732,Ben Gordon,1610612741,Chicago Bulls,2,10,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090204,NOH,CHI
+Shot Chart Detail,0020800727,188,2732,Ben Gordon,1610612741,Chicago Bulls,2,3,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,223,102,1,1,20090204,NOH,CHI
+Shot Chart Detail,0020800727,247,2732,Ben Gordon,1610612741,Chicago Bulls,3,10,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-174,194,1,1,20090204,NOH,CHI
+Shot Chart Detail,0020800727,293,2732,Ben Gordon,1610612741,Chicago Bulls,3,6,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,22,12,224,1,1,20090204,NOH,CHI
+Shot Chart Detail,0020800747,114,2732,Ben Gordon,1610612741,Chicago Bulls,2,11,43,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090207,DAL,CHI
+Shot Chart Detail,0020800747,173,2732,Ben Gordon,1610612741,Chicago Bulls,2,6,1,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,19,1,1,20090207,DAL,CHI
+Shot Chart Detail,0020800747,187,2732,Ben Gordon,1610612741,Chicago Bulls,2,5,12,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090207,DAL,CHI
+Shot Chart Detail,0020800747,224,2732,Ben Gordon,1610612741,Chicago Bulls,2,1,27,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090207,DAL,CHI
+Shot Chart Detail,0020800747,290,2732,Ben Gordon,1610612741,Chicago Bulls,3,9,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,125,214,1,1,20090207,DAL,CHI
+Shot Chart Detail,0020800747,399,2732,Ben Gordon,1610612741,Chicago Bulls,4,10,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,130,206,1,1,20090207,DAL,CHI
+Shot Chart Detail,0020800747,402,2732,Ben Gordon,1610612741,Chicago Bulls,4,10,22,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,141,22,1,1,20090207,DAL,CHI
+Shot Chart Detail,0020800747,580,2732,Ben Gordon,1610612741,Chicago Bulls,5,2,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,84,146,1,1,20090207,DAL,CHI
+Shot Chart Detail,0020800747,627,2732,Ben Gordon,1610612741,Chicago Bulls,5,0,0,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,231,-8,1,1,20090207,DAL,CHI
+Shot Chart Detail,0020800769,72,2732,Ben Gordon,1610612741,Chicago Bulls,1,4,51,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-139,37,1,1,20090210,CHI,DET
+Shot Chart Detail,0020800769,87,2732,Ben Gordon,1610612741,Chicago Bulls,1,4,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-164,184,1,1,20090210,CHI,DET
+Shot Chart Detail,0020800769,109,2732,Ben Gordon,1610612741,Chicago Bulls,1,2,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,15,209,1,1,20090210,CHI,DET
+Shot Chart Detail,0020800769,143,2732,Ben Gordon,1610612741,Chicago Bulls,1,0,1,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090210,CHI,DET
+Shot Chart Detail,0020800769,152,2732,Ben Gordon,1610612741,Chicago Bulls,2,11,12,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,21,85,1,1,20090210,CHI,DET
+Shot Chart Detail,0020800769,257,2732,Ben Gordon,1610612741,Chicago Bulls,2,0,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-139,175,1,1,20090210,CHI,DET
+Shot Chart Detail,0020800769,275,2732,Ben Gordon,1610612741,Chicago Bulls,3,9,23,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,231,-16,1,1,20090210,CHI,DET
+Shot Chart Detail,0020800769,519,2732,Ben Gordon,1610612741,Chicago Bulls,4,0,16,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,-21,1,1,20090210,CHI,DET
+Shot Chart Detail,0020800785,11,2732,Ben Gordon,1610612741,Chicago Bulls,1,9,55,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090212,CHI,MIA
+Shot Chart Detail,0020800785,22,2732,Ben Gordon,1610612741,Chicago Bulls,1,9,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-142,89,1,1,20090212,CHI,MIA
+Shot Chart Detail,0020800785,29,2732,Ben Gordon,1610612741,Chicago Bulls,1,8,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-98,165,1,1,20090212,CHI,MIA
+Shot Chart Detail,0020800785,74,2732,Ben Gordon,1610612741,Chicago Bulls,1,3,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090212,CHI,MIA
+Shot Chart Detail,0020800785,251,2732,Ben Gordon,1610612741,Chicago Bulls,3,9,8,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090212,CHI,MIA
+Shot Chart Detail,0020800785,269,2732,Ben Gordon,1610612741,Chicago Bulls,3,7,52,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090212,CHI,MIA
+Shot Chart Detail,0020800785,278,2732,Ben Gordon,1610612741,Chicago Bulls,3,6,41,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090212,CHI,MIA
+Shot Chart Detail,0020800785,305,2732,Ben Gordon,1610612741,Chicago Bulls,3,4,12,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090212,CHI,MIA
+Shot Chart Detail,0020800785,362,2732,Ben Gordon,1610612741,Chicago Bulls,4,10,45,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,122,104,1,1,20090212,CHI,MIA
+Shot Chart Detail,0020800785,444,2732,Ben Gordon,1610612741,Chicago Bulls,4,3,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,129,36,1,1,20090212,CHI,MIA
+Shot Chart Detail,0020800801,15,2732,Ben Gordon,1610612741,Chicago Bulls,1,10,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090218,MIL,CHI
+Shot Chart Detail,0020800801,153,2732,Ben Gordon,1610612741,Chicago Bulls,2,9,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-109,140,1,1,20090218,MIL,CHI
+Shot Chart Detail,0020800801,182,2732,Ben Gordon,1610612741,Chicago Bulls,2,6,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090218,MIL,CHI
+Shot Chart Detail,0020800801,191,2732,Ben Gordon,1610612741,Chicago Bulls,2,5,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,111,143,1,1,20090218,MIL,CHI
+Shot Chart Detail,0020800801,272,2732,Ben Gordon,1610612741,Chicago Bulls,3,10,6,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,-14,1,1,20090218,MIL,CHI
+Shot Chart Detail,0020800801,279,2732,Ben Gordon,1610612741,Chicago Bulls,3,9,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090218,MIL,CHI
+Shot Chart Detail,0020800816,62,2732,Ben Gordon,1610612741,Chicago Bulls,1,4,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,157,205,1,1,20090220,CHI,DEN
+Shot Chart Detail,0020800816,88,2732,Ben Gordon,1610612741,Chicago Bulls,1,1,51,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090220,CHI,DEN
+Shot Chart Detail,0020800816,200,2732,Ben Gordon,1610612741,Chicago Bulls,2,4,31,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090220,CHI,DEN
+Shot Chart Detail,0020800816,206,2732,Ben Gordon,1610612741,Chicago Bulls,2,3,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-180,186,1,1,20090220,CHI,DEN
+Shot Chart Detail,0020800816,213,2732,Ben Gordon,1610612741,Chicago Bulls,2,3,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-15,170,1,1,20090220,CHI,DEN
+Shot Chart Detail,0020800816,216,2732,Ben Gordon,1610612741,Chicago Bulls,2,2,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-114,30,1,1,20090220,CHI,DEN
+Shot Chart Detail,0020800816,257,2732,Ben Gordon,1610612741,Chicago Bulls,3,10,53,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,14,1,1,20090220,CHI,DEN
+Shot Chart Detail,0020800816,276,2732,Ben Gordon,1610612741,Chicago Bulls,3,9,43,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090220,CHI,DEN
+Shot Chart Detail,0020800816,315,2732,Ben Gordon,1610612741,Chicago Bulls,3,4,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,77,247,1,1,20090220,CHI,DEN
+Shot Chart Detail,0020800816,330,2732,Ben Gordon,1610612741,Chicago Bulls,3,3,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090220,CHI,DEN
+Shot Chart Detail,0020800816,349,2732,Ben Gordon,1610612741,Chicago Bulls,3,2,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,31,178,1,1,20090220,CHI,DEN
+Shot Chart Detail,0020800816,445,2732,Ben Gordon,1610612741,Chicago Bulls,4,7,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090220,CHI,DEN
+Shot Chart Detail,0020800816,523,2732,Ben Gordon,1610612741,Chicago Bulls,4,1,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,91,167,1,1,20090220,CHI,DEN
+Shot Chart Detail,0020800827,5,2732,Ben Gordon,1610612741,Chicago Bulls,1,11,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,110,168,1,1,20090222,IND,CHI
+Shot Chart Detail,0020800827,18,2732,Ben Gordon,1610612741,Chicago Bulls,1,10,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,135,115,1,1,20090222,IND,CHI
+Shot Chart Detail,0020800827,71,2732,Ben Gordon,1610612741,Chicago Bulls,1,5,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,91,157,1,1,20090222,IND,CHI
+Shot Chart Detail,0020800827,94,2732,Ben Gordon,1610612741,Chicago Bulls,1,3,21,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,0,1,1,20090222,IND,CHI
+Shot Chart Detail,0020800827,152,2732,Ben Gordon,1610612741,Chicago Bulls,2,9,6,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,146,140,1,1,20090222,IND,CHI
+Shot Chart Detail,0020800827,155,2732,Ben Gordon,1610612741,Chicago Bulls,2,8,33,Made Shot,Running Bank shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,99,64,1,1,20090222,IND,CHI
+Shot Chart Detail,0020800827,173,2732,Ben Gordon,1610612741,Chicago Bulls,2,6,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,193,-5,1,1,20090222,IND,CHI
+Shot Chart Detail,0020800827,242,2732,Ben Gordon,1610612741,Chicago Bulls,2,0,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-199,151,1,1,20090222,IND,CHI
+Shot Chart Detail,0020800827,247,2732,Ben Gordon,1610612741,Chicago Bulls,2,0,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,51,181,1,1,20090222,IND,CHI
+Shot Chart Detail,0020800827,354,2732,Ben Gordon,1610612741,Chicago Bulls,3,1,3,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,0,167,1,1,20090222,IND,CHI
+Shot Chart Detail,0020800827,468,2732,Ben Gordon,1610612741,Chicago Bulls,4,3,41,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,155,3,1,1,20090222,IND,CHI
+Shot Chart Detail,0020800827,480,2732,Ben Gordon,1610612741,Chicago Bulls,4,2,15,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,140,0,1,1,20090222,IND,CHI
+Shot Chart Detail,0020800845,34,2732,Ben Gordon,1610612741,Chicago Bulls,1,8,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-169,127,1,1,20090224,CHI,ORL
+Shot Chart Detail,0020800845,38,2732,Ben Gordon,1610612741,Chicago Bulls,1,7,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,133,132,1,1,20090224,CHI,ORL
+Shot Chart Detail,0020800845,72,2732,Ben Gordon,1610612741,Chicago Bulls,1,3,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,106,134,1,1,20090224,CHI,ORL
+Shot Chart Detail,0020800845,86,2732,Ben Gordon,1610612741,Chicago Bulls,1,2,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-78,172,1,1,20090224,CHI,ORL
+Shot Chart Detail,0020800845,89,2732,Ben Gordon,1610612741,Chicago Bulls,1,2,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,204,25,1,1,20090224,CHI,ORL
+Shot Chart Detail,0020800845,300,2732,Ben Gordon,1610612741,Chicago Bulls,3,5,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,171,143,1,1,20090224,CHI,ORL
+Shot Chart Detail,0020800845,357,2732,Ben Gordon,1610612741,Chicago Bulls,4,10,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-60,164,1,1,20090224,CHI,ORL
+Shot Chart Detail,0020800845,371,2732,Ben Gordon,1610612741,Chicago Bulls,4,9,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-146,131,1,1,20090224,CHI,ORL
+Shot Chart Detail,0020800845,451,2732,Ben Gordon,1610612741,Chicago Bulls,4,3,39,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-97,99,1,1,20090224,CHI,ORL
+Shot Chart Detail,0020800852,20,2732,Ben Gordon,1610612741,Chicago Bulls,1,9,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-65,244,1,1,20090225,NJN,CHI
+Shot Chart Detail,0020800852,27,2732,Ben Gordon,1610612741,Chicago Bulls,1,7,59,Made Shot,Running Bank shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-100,60,1,1,20090225,NJN,CHI
+Shot Chart Detail,0020800852,97,2732,Ben Gordon,1610612741,Chicago Bulls,1,2,7,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090225,NJN,CHI
+Shot Chart Detail,0020800852,379,2732,Ben Gordon,1610612741,Chicago Bulls,4,10,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,138,47,1,1,20090225,NJN,CHI
+Shot Chart Detail,0020800852,469,2732,Ben Gordon,1610612741,Chicago Bulls,4,1,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090225,NJN,CHI
+Shot Chart Detail,0020800852,475,2732,Ben Gordon,1610612741,Chicago Bulls,4,1,28,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090225,NJN,CHI
+Shot Chart Detail,0020800865,3,2732,Ben Gordon,1610612741,Chicago Bulls,1,11,44,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,16,-160,0,1,1,20090227,WAS,CHI
+Shot Chart Detail,0020800865,191,2732,Ben Gordon,1610612741,Chicago Bulls,2,6,29,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,26,82,1,1,20090227,WAS,CHI
+Shot Chart Detail,0020800865,290,2732,Ben Gordon,1610612741,Chicago Bulls,3,11,25,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,3,1,1,20090227,WAS,CHI
+Shot Chart Detail,0020800879,19,2732,Ben Gordon,1610612741,Chicago Bulls,1,10,4,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,9,104,1,1,20090228,CHI,HOU
+Shot Chart Detail,0020800879,41,2732,Ben Gordon,1610612741,Chicago Bulls,1,7,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,182,28,1,1,20090228,CHI,HOU
+Shot Chart Detail,0020800879,429,2732,Ben Gordon,1610612741,Chicago Bulls,4,5,36,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-51,45,1,1,20090228,CHI,HOU
+Shot Chart Detail,0020800879,433,2732,Ben Gordon,1610612741,Chicago Bulls,4,5,11,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-97,238,1,1,20090228,CHI,HOU
+Shot Chart Detail,0020800879,470,2732,Ben Gordon,1610612741,Chicago Bulls,4,1,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090228,CHI,HOU
+Shot Chart Detail,0020800879,473,2732,Ben Gordon,1610612741,Chicago Bulls,4,1,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-108,140,1,1,20090228,CHI,HOU
+Shot Chart Detail,0020800897,76,2732,Ben Gordon,1610612741,Chicago Bulls,1,4,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090303,CHA,CHI
+Shot Chart Detail,0020800897,105,2732,Ben Gordon,1610612741,Chicago Bulls,1,1,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-75,184,1,1,20090303,CHA,CHI
+Shot Chart Detail,0020800897,125,2732,Ben Gordon,1610612741,Chicago Bulls,1,0,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,155,165,1,1,20090303,CHA,CHI
+Shot Chart Detail,0020800897,272,2732,Ben Gordon,1610612741,Chicago Bulls,3,8,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-93,205,1,1,20090303,CHA,CHI
+Shot Chart Detail,0020800897,291,2732,Ben Gordon,1610612741,Chicago Bulls,3,7,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090303,CHA,CHI
+Shot Chart Detail,0020800897,302,2732,Ben Gordon,1610612741,Chicago Bulls,3,5,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090303,CHA,CHI
+Shot Chart Detail,0020800910,169,2732,Ben Gordon,1610612741,Chicago Bulls,2,6,44,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090304,CHI,GSW
+Shot Chart Detail,0020800910,193,2732,Ben Gordon,1610612741,Chicago Bulls,2,3,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090304,CHI,GSW
+Shot Chart Detail,0020800910,257,2732,Ben Gordon,1610612741,Chicago Bulls,3,9,45,Made Shot,Pullup Bank shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-146,55,1,1,20090304,CHI,GSW
+Shot Chart Detail,0020800910,390,2732,Ben Gordon,1610612741,Chicago Bulls,4,9,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-152,190,1,1,20090304,CHI,GSW
+Shot Chart Detail,0020800910,410,2732,Ben Gordon,1610612741,Chicago Bulls,4,6,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-125,137,1,1,20090304,CHI,GSW
+Shot Chart Detail,0020800910,481,2732,Ben Gordon,1610612741,Chicago Bulls,4,2,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090304,CHI,GSW
+Shot Chart Detail,0020800922,44,2732,Ben Gordon,1610612741,Chicago Bulls,1,7,57,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090306,CHI,MIL
+Shot Chart Detail,0020800922,94,2732,Ben Gordon,1610612741,Chicago Bulls,1,3,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,149,201,1,1,20090306,CHI,MIL
+Shot Chart Detail,0020800922,187,2732,Ben Gordon,1610612741,Chicago Bulls,2,8,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,149,113,1,1,20090306,CHI,MIL
+Shot Chart Detail,0020800922,189,2732,Ben Gordon,1610612741,Chicago Bulls,2,7,24,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,-3,1,1,20090306,CHI,MIL
+Shot Chart Detail,0020800922,192,2732,Ben Gordon,1610612741,Chicago Bulls,2,6,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,173,184,1,1,20090306,CHI,MIL
+Shot Chart Detail,0020800922,242,2732,Ben Gordon,1610612741,Chicago Bulls,2,3,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-190,148,1,1,20090306,CHI,MIL
+Shot Chart Detail,0020800922,346,2732,Ben Gordon,1610612741,Chicago Bulls,3,8,27,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-105,9,1,1,20090306,CHI,MIL
+Shot Chart Detail,0020800922,358,2732,Ben Gordon,1610612741,Chicago Bulls,3,6,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-142,124,1,1,20090306,CHI,MIL
+Shot Chart Detail,0020800922,455,2732,Ben Gordon,1610612741,Chicago Bulls,4,10,20,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,80,197,1,1,20090306,CHI,MIL
+Shot Chart Detail,0020800922,488,2732,Ben Gordon,1610612741,Chicago Bulls,4,5,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-45,197,1,1,20090306,CHI,MIL
+Shot Chart Detail,0020800945,18,2732,Ben Gordon,1610612741,Chicago Bulls,1,9,23,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,61,14,1,1,20090309,MIA,CHI
+Shot Chart Detail,0020800945,31,2732,Ben Gordon,1610612741,Chicago Bulls,1,8,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,86,170,1,1,20090309,MIA,CHI
+Shot Chart Detail,0020800945,145,2732,Ben Gordon,1610612741,Chicago Bulls,2,8,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090309,MIA,CHI
+Shot Chart Detail,0020800945,186,2732,Ben Gordon,1610612741,Chicago Bulls,2,4,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,95,252,1,1,20090309,MIA,CHI
+Shot Chart Detail,0020800945,316,2732,Ben Gordon,1610612741,Chicago Bulls,3,5,49,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-117,64,1,1,20090309,MIA,CHI
+Shot Chart Detail,0020800945,330,2732,Ben Gordon,1610612741,Chicago Bulls,3,4,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,160,211,1,1,20090309,MIA,CHI
+Shot Chart Detail,0020800945,446,2732,Ben Gordon,1610612741,Chicago Bulls,4,7,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,201,157,1,1,20090309,MIA,CHI
+Shot Chart Detail,0020800945,457,2732,Ben Gordon,1610612741,Chicago Bulls,4,6,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090309,MIA,CHI
+Shot Chart Detail,0020800945,477,2732,Ben Gordon,1610612741,Chicago Bulls,4,4,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-177,186,1,1,20090309,MIA,CHI
+Shot Chart Detail,0020800945,480,2732,Ben Gordon,1610612741,Chicago Bulls,4,3,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,207,143,1,1,20090309,MIA,CHI
+Shot Chart Detail,0020800945,488,2732,Ben Gordon,1610612741,Chicago Bulls,4,3,7,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,239,19,1,1,20090309,MIA,CHI
+Shot Chart Detail,0020800945,498,2732,Ben Gordon,1610612741,Chicago Bulls,4,1,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,196,148,1,1,20090309,MIA,CHI
+Shot Chart Detail,0020800945,612,2732,Ben Gordon,1610612741,Chicago Bulls,5,0,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,185,179,1,1,20090309,MIA,CHI
+Shot Chart Detail,0020800945,634,2732,Ben Gordon,1610612741,Chicago Bulls,6,4,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-120,170,1,1,20090309,MIA,CHI
+Shot Chart Detail,0020800956,272,2732,Ben Gordon,1610612741,Chicago Bulls,3,11,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-76,168,1,1,20090311,ORL,CHI
+Shot Chart Detail,0020800969,36,2732,Ben Gordon,1610612741,Chicago Bulls,1,8,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,82,98,1,1,20090313,PHI,CHI
+Shot Chart Detail,0020800969,50,2732,Ben Gordon,1610612741,Chicago Bulls,1,4,38,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090313,PHI,CHI
+Shot Chart Detail,0020800969,53,2732,Ben Gordon,1610612741,Chicago Bulls,1,4,5,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,141,93,1,1,20090313,PHI,CHI
+Shot Chart Detail,0020800969,472,2732,Ben Gordon,1610612741,Chicago Bulls,4,0,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-40,255,1,1,20090313,PHI,CHI
+Shot Chart Detail,0020800981,22,2732,Ben Gordon,1610612741,Chicago Bulls,1,9,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,22,4,222,1,1,20090314,CHI,NOH
+Shot Chart Detail,0020800981,54,2732,Ben Gordon,1610612741,Chicago Bulls,1,5,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,166,37,1,1,20090314,CHI,NOH
+Shot Chart Detail,0020800981,125,2732,Ben Gordon,1610612741,Chicago Bulls,2,9,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,155,157,1,1,20090314,CHI,NOH
+Shot Chart Detail,0020800981,128,2732,Ben Gordon,1610612741,Chicago Bulls,2,9,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-175,179,1,1,20090314,CHI,NOH
+Shot Chart Detail,0020800981,213,2732,Ben Gordon,1610612741,Chicago Bulls,2,0,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-205,151,1,1,20090314,CHI,NOH
+Shot Chart Detail,0020800981,249,2732,Ben Gordon,1610612741,Chicago Bulls,3,8,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090314,CHI,NOH
+Shot Chart Detail,0020800981,277,2732,Ben Gordon,1610612741,Chicago Bulls,3,3,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,155,159,1,1,20090314,CHI,NOH
+Shot Chart Detail,0020800981,299,2732,Ben Gordon,1610612741,Chicago Bulls,3,0,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,78,168,1,1,20090314,CHI,NOH
+Shot Chart Detail,0020800981,318,2732,Ben Gordon,1610612741,Chicago Bulls,4,10,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,91,242,1,1,20090314,CHI,NOH
+Shot Chart Detail,0020800981,364,2732,Ben Gordon,1610612741,Chicago Bulls,4,6,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090314,CHI,NOH
+Shot Chart Detail,0020800981,383,2732,Ben Gordon,1610612741,Chicago Bulls,4,3,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,75,206,1,1,20090314,CHI,NOH
+Shot Chart Detail,0020801003,36,2732,Ben Gordon,1610612741,Chicago Bulls,1,7,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-7,219,1,1,20090317,CHI,BOS
+Shot Chart Detail,0020801003,312,2732,Ben Gordon,1610612741,Chicago Bulls,3,7,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-84,183,1,1,20090317,CHI,BOS
+Shot Chart Detail,0020801003,356,2732,Ben Gordon,1610612741,Chicago Bulls,3,4,39,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,50,1,1,20090317,CHI,BOS
+Shot Chart Detail,0020801003,418,2732,Ben Gordon,1610612741,Chicago Bulls,3,0,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,138,205,1,1,20090317,CHI,BOS
+Shot Chart Detail,0020801003,459,2732,Ben Gordon,1610612741,Chicago Bulls,4,9,6,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090317,CHI,BOS
+Shot Chart Detail,0020801016,47,2732,Ben Gordon,1610612741,Chicago Bulls,1,5,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,21,181,116,1,1,20090318,OKC,CHI
+Shot Chart Detail,0020801016,57,2732,Ben Gordon,1610612741,Chicago Bulls,1,4,57,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090318,OKC,CHI
+Shot Chart Detail,0020801016,150,2732,Ben Gordon,1610612741,Chicago Bulls,2,8,34,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,56,41,1,1,20090318,OKC,CHI
+Shot Chart Detail,0020801016,183,2732,Ben Gordon,1610612741,Chicago Bulls,2,4,54,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090318,OKC,CHI
+Shot Chart Detail,0020801016,194,2732,Ben Gordon,1610612741,Chicago Bulls,2,3,23,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090318,OKC,CHI
+Shot Chart Detail,0020801016,216,2732,Ben Gordon,1610612741,Chicago Bulls,2,2,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090318,OKC,CHI
+Shot Chart Detail,0020801016,219,2732,Ben Gordon,1610612741,Chicago Bulls,2,1,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-169,75,1,1,20090318,OKC,CHI
+Shot Chart Detail,0020801016,275,2732,Ben Gordon,1610612741,Chicago Bulls,3,7,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,32,165,1,1,20090318,OKC,CHI
+Shot Chart Detail,0020801038,46,2732,Ben Gordon,1610612741,Chicago Bulls,1,6,49,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090321,CHI,LAL
+Shot Chart Detail,0020801038,68,2732,Ben Gordon,1610612741,Chicago Bulls,1,3,5,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,11,-64,101,1,1,20090321,CHI,LAL
+Shot Chart Detail,0020801038,70,2732,Ben Gordon,1610612741,Chicago Bulls,1,2,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090321,CHI,LAL
+Shot Chart Detail,0020801038,77,2732,Ben Gordon,1610612741,Chicago Bulls,1,2,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-185,157,1,1,20090321,CHI,LAL
+Shot Chart Detail,0020801038,516,2732,Ben Gordon,1610612741,Chicago Bulls,4,1,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-161,197,1,1,20090321,CHI,LAL
+Shot Chart Detail,0020801049,214,2732,Ben Gordon,1610612741,Chicago Bulls,3,11,43,Made Shot,Running Bank shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,28,15,1,1,20090323,WAS,CHI
+Shot Chart Detail,0020801049,270,2732,Ben Gordon,1610612741,Chicago Bulls,3,6,42,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,1,1,1,20090323,WAS,CHI
+Shot Chart Detail,0020801049,316,2732,Ben Gordon,1610612741,Chicago Bulls,3,3,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,217,132,1,1,20090323,WAS,CHI
+Shot Chart Detail,0020801049,351,2732,Ben Gordon,1610612741,Chicago Bulls,3,1,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-175,-13,1,1,20090323,WAS,CHI
+Shot Chart Detail,0020801049,462,2732,Ben Gordon,1610612741,Chicago Bulls,4,3,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-13,190,1,1,20090323,WAS,CHI
+Shot Chart Detail,0020801049,468,2732,Ben Gordon,1610612741,Chicago Bulls,4,2,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,138,121,1,1,20090323,WAS,CHI
+Shot Chart Detail,0020801049,476,2732,Ben Gordon,1610612741,Chicago Bulls,4,1,43,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,88,61,1,1,20090323,WAS,CHI
+Shot Chart Detail,0020801055,22,2732,Ben Gordon,1610612741,Chicago Bulls,1,9,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-60,164,1,1,20090324,CHI,DET
+Shot Chart Detail,0020801055,75,2732,Ben Gordon,1610612741,Chicago Bulls,1,2,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,95,173,1,1,20090324,CHI,DET
+Shot Chart Detail,0020801055,170,2732,Ben Gordon,1610612741,Chicago Bulls,2,5,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-30,189,1,1,20090324,CHI,DET
+Shot Chart Detail,0020801055,173,2732,Ben Gordon,1610612741,Chicago Bulls,2,4,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-169,135,1,1,20090324,CHI,DET
+Shot Chart Detail,0020801055,242,2732,Ben Gordon,1610612741,Chicago Bulls,3,10,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,92,159,1,1,20090324,CHI,DET
+Shot Chart Detail,0020801055,310,2732,Ben Gordon,1610612741,Chicago Bulls,3,2,58,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090324,CHI,DET
+Shot Chart Detail,0020801055,321,2732,Ben Gordon,1610612741,Chicago Bulls,3,1,34,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-41,58,1,1,20090324,CHI,DET
+Shot Chart Detail,0020801071,5,2732,Ben Gordon,1610612741,Chicago Bulls,1,11,16,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090326,CHI,MIA
+Shot Chart Detail,0020801071,148,2732,Ben Gordon,1610612741,Chicago Bulls,2,7,16,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-51,105,1,1,20090326,CHI,MIA
+Shot Chart Detail,0020801071,214,2732,Ben Gordon,1610612741,Chicago Bulls,3,11,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,119,153,1,1,20090326,CHI,MIA
+Shot Chart Detail,0020801071,381,2732,Ben Gordon,1610612741,Chicago Bulls,4,9,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-87,178,1,1,20090326,CHI,MIA
+Shot Chart Detail,0020801071,418,2732,Ben Gordon,1610612741,Chicago Bulls,4,5,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-209,123,1,1,20090326,CHI,MIA
+Shot Chart Detail,0020801071,421,2732,Ben Gordon,1610612741,Chicago Bulls,4,5,5,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-226,12,1,1,20090326,CHI,MIA
+Shot Chart Detail,0020801083,38,2732,Ben Gordon,1610612741,Chicago Bulls,1,6,49,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-95,146,1,1,20090328,CHI,IND
+Shot Chart Detail,0020801083,110,2732,Ben Gordon,1610612741,Chicago Bulls,2,11,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-35,189,1,1,20090328,CHI,IND
+Shot Chart Detail,0020801083,112,2732,Ben Gordon,1610612741,Chicago Bulls,2,11,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,122,162,1,1,20090328,CHI,IND
+Shot Chart Detail,0020801083,128,2732,Ben Gordon,1610612741,Chicago Bulls,2,9,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-201,-3,1,1,20090328,CHI,IND
+Shot Chart Detail,0020801083,137,2732,Ben Gordon,1610612741,Chicago Bulls,2,8,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-141,214,1,1,20090328,CHI,IND
+Shot Chart Detail,0020801083,157,2732,Ben Gordon,1610612741,Chicago Bulls,2,7,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-108,124,1,1,20090328,CHI,IND
+Shot Chart Detail,0020801083,178,2732,Ben Gordon,1610612741,Chicago Bulls,2,5,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,163,145,1,1,20090328,CHI,IND
+Shot Chart Detail,0020801083,263,2732,Ben Gordon,1610612741,Chicago Bulls,3,8,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,170,190,1,1,20090328,CHI,IND
+Shot Chart Detail,0020801083,320,2732,Ben Gordon,1610612741,Chicago Bulls,3,2,23,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090328,CHI,IND
+Shot Chart Detail,0020801083,328,2732,Ben Gordon,1610612741,Chicago Bulls,3,1,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,171,42,1,1,20090328,CHI,IND
+Shot Chart Detail,0020801083,362,2732,Ben Gordon,1610612741,Chicago Bulls,4,11,5,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,118,14,1,1,20090328,CHI,IND
+Shot Chart Detail,0020801094,41,2732,Ben Gordon,1610612741,Chicago Bulls,1,8,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,168,30,1,1,20090329,TOR,CHI
+Shot Chart Detail,0020801094,54,2732,Ben Gordon,1610612741,Chicago Bulls,1,6,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,184,167,1,1,20090329,TOR,CHI
+Shot Chart Detail,0020801094,106,2732,Ben Gordon,1610612741,Chicago Bulls,1,0,32,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,132,172,1,1,20090329,TOR,CHI
+Shot Chart Detail,0020801094,223,2732,Ben Gordon,1610612741,Chicago Bulls,2,1,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,138,175,1,1,20090329,TOR,CHI
+Shot Chart Detail,0020801094,262,2732,Ben Gordon,1610612741,Chicago Bulls,3,9,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-175,183,1,1,20090329,TOR,CHI
+Shot Chart Detail,0020801094,273,2732,Ben Gordon,1610612741,Chicago Bulls,3,8,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,70,179,1,1,20090329,TOR,CHI
+Shot Chart Detail,0020801094,284,2732,Ben Gordon,1610612741,Chicago Bulls,3,7,13,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,162,58,1,1,20090329,TOR,CHI
+Shot Chart Detail,0020801094,297,2732,Ben Gordon,1610612741,Chicago Bulls,3,5,8,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090329,TOR,CHI
+Shot Chart Detail,0020801094,380,2732,Ben Gordon,1610612741,Chicago Bulls,4,9,57,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-41,167,1,1,20090329,TOR,CHI
+Shot Chart Detail,0020801094,414,2732,Ben Gordon,1610612741,Chicago Bulls,4,7,35,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,130,142,1,1,20090329,TOR,CHI
+Shot Chart Detail,0020801094,435,2732,Ben Gordon,1610612741,Chicago Bulls,4,6,10,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-4,194,1,1,20090329,TOR,CHI
+Shot Chart Detail,0020801094,459,2732,Ben Gordon,1610612741,Chicago Bulls,4,3,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090329,TOR,CHI
+Shot Chart Detail,0020801094,480,2732,Ben Gordon,1610612741,Chicago Bulls,4,1,16,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,140,126,1,1,20090329,TOR,CHI
+Shot Chart Detail,0020801094,533,2732,Ben Gordon,1610612741,Chicago Bulls,4,0,0,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,100,197,1,1,20090329,TOR,CHI
+Shot Chart Detail,0020801094,593,2732,Ben Gordon,1610612741,Chicago Bulls,5,0,2,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090329,TOR,CHI
+Shot Chart Detail,0020801106,185,2732,Ben Gordon,1610612741,Chicago Bulls,2,6,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-179,0,1,1,20090331,IND,CHI
+Shot Chart Detail,0020801106,237,2732,Ben Gordon,1610612741,Chicago Bulls,2,0,52,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,121,85,1,1,20090331,IND,CHI
+Shot Chart Detail,0020801106,277,2732,Ben Gordon,1610612741,Chicago Bulls,3,7,58,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,95,159,1,1,20090331,IND,CHI
+Shot Chart Detail,0020801106,320,2732,Ben Gordon,1610612741,Chicago Bulls,3,1,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,7,1,1,20090331,IND,CHI
+Shot Chart Detail,0020801106,469,2732,Ben Gordon,1610612741,Chicago Bulls,4,0,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,45,160,1,1,20090331,IND,CHI
+Shot Chart Detail,0020801136,441,2732,Ben Gordon,1610612741,Chicago Bulls,4,9,11,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-133,159,1,1,20090404,CHI,NJN
+Shot Chart Detail,0020801136,463,2732,Ben Gordon,1610612741,Chicago Bulls,4,5,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,155,198,1,1,20090404,CHI,NJN
+Shot Chart Detail,0020801136,517,2732,Ben Gordon,1610612741,Chicago Bulls,4,0,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-182,165,1,1,20090404,CHI,NJN
+Shot Chart Detail,0020801158,21,2732,Ben Gordon,1610612741,Chicago Bulls,1,9,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,200,23,1,1,20090407,CHI,NYK
+Shot Chart Detail,0020801158,34,2732,Ben Gordon,1610612741,Chicago Bulls,1,8,44,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090407,CHI,NYK
+Shot Chart Detail,0020801158,49,2732,Ben Gordon,1610612741,Chicago Bulls,1,6,14,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090407,CHI,NYK
+Shot Chart Detail,0020801158,71,2732,Ben Gordon,1610612741,Chicago Bulls,1,4,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,206,138,1,1,20090407,CHI,NYK
+Shot Chart Detail,0020801158,319,2732,Ben Gordon,1610612741,Chicago Bulls,3,5,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-116,214,1,1,20090407,CHI,NYK
+Shot Chart Detail,0020801158,340,2732,Ben Gordon,1610612741,Chicago Bulls,3,2,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-172,50,1,1,20090407,CHI,NYK
+Shot Chart Detail,0020801173,48,2732,Ben Gordon,1610612741,Chicago Bulls,1,5,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-180,7,1,1,20090409,CHI,PHI
+Shot Chart Detail,0020801173,60,2732,Ben Gordon,1610612741,Chicago Bulls,1,5,14,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,13,55,1,1,20090409,CHI,PHI
+Shot Chart Detail,0020801173,192,2732,Ben Gordon,1610612741,Chicago Bulls,2,3,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,163,195,1,1,20090409,CHI,PHI
+Shot Chart Detail,0020801173,195,2732,Ben Gordon,1610612741,Chicago Bulls,2,3,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,151,198,1,1,20090409,CHI,PHI
+Shot Chart Detail,0020801173,248,2732,Ben Gordon,1610612741,Chicago Bulls,3,9,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,181,96,1,1,20090409,CHI,PHI
+Shot Chart Detail,0020801173,252,2732,Ben Gordon,1610612741,Chicago Bulls,3,8,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-198,19,1,1,20090409,CHI,PHI
+Shot Chart Detail,0020801173,262,2732,Ben Gordon,1610612741,Chicago Bulls,3,7,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,83,241,1,1,20090409,CHI,PHI
+Shot Chart Detail,0020801173,349,2732,Ben Gordon,1610612741,Chicago Bulls,4,10,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,129,222,1,1,20090409,CHI,PHI
+Shot Chart Detail,0020801173,453,2732,Ben Gordon,1610612741,Chicago Bulls,4,1,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090409,CHI,PHI
+Shot Chart Detail,0020801192,6,2732,Ben Gordon,1610612741,Chicago Bulls,1,10,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-177,178,1,1,20090411,CHI,CHA
+Shot Chart Detail,0020801192,21,2732,Ben Gordon,1610612741,Chicago Bulls,1,8,11,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090411,CHI,CHA
+Shot Chart Detail,0020801192,50,2732,Ben Gordon,1610612741,Chicago Bulls,1,4,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090411,CHI,CHA
+Shot Chart Detail,0020801192,96,2732,Ben Gordon,1610612741,Chicago Bulls,2,11,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-161,189,1,1,20090411,CHI,CHA
+Shot Chart Detail,0020801192,110,2732,Ben Gordon,1610612741,Chicago Bulls,2,9,13,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,20,1,1,20090411,CHI,CHA
+Shot Chart Detail,0020801192,149,2732,Ben Gordon,1610612741,Chicago Bulls,2,5,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-116,219,1,1,20090411,CHI,CHA
+Shot Chart Detail,0020801192,191,2732,Ben Gordon,1610612741,Chicago Bulls,2,1,7,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090411,CHI,CHA
+Shot Chart Detail,0020801192,236,2732,Ben Gordon,1610612741,Chicago Bulls,3,9,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-79,250,1,1,20090411,CHI,CHA
+Shot Chart Detail,0020801192,283,2732,Ben Gordon,1610612741,Chicago Bulls,3,5,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,118,102,1,1,20090411,CHI,CHA
+Shot Chart Detail,0020801192,377,2732,Ben Gordon,1610612741,Chicago Bulls,4,11,44,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090411,CHI,CHA
+Shot Chart Detail,0020801192,386,2732,Ben Gordon,1610612741,Chicago Bulls,4,11,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-152,41,1,1,20090411,CHI,CHA
+Shot Chart Detail,0020801192,477,2732,Ben Gordon,1610612741,Chicago Bulls,4,4,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,130,224,1,1,20090411,CHI,CHA
+Shot Chart Detail,0020801192,530,2732,Ben Gordon,1610612741,Chicago Bulls,4,1,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,147,205,1,1,20090411,CHI,CHA
+Shot Chart Detail,0020801204,13,2732,Ben Gordon,1610612741,Chicago Bulls,1,10,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,135,101,1,1,20090413,DET,CHI
+Shot Chart Detail,0020801204,47,2732,Ben Gordon,1610612741,Chicago Bulls,1,6,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-93,241,1,1,20090413,DET,CHI
+Shot Chart Detail,0020801204,61,2732,Ben Gordon,1610612741,Chicago Bulls,1,4,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,143,203,1,1,20090413,DET,CHI
+Shot Chart Detail,0020801204,84,2732,Ben Gordon,1610612741,Chicago Bulls,1,2,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,40,266,1,1,20090413,DET,CHI
+Shot Chart Detail,0020801204,253,2732,Ben Gordon,1610612741,Chicago Bulls,3,8,31,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090413,DET,CHI
+Shot Chart Detail,0020801204,282,2732,Ben Gordon,1610612741,Chicago Bulls,3,6,16,Made Shot,Running Bank shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-128,37,1,1,20090413,DET,CHI
+Shot Chart Detail,0020801204,313,2732,Ben Gordon,1610612741,Chicago Bulls,3,2,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-131,165,1,1,20090413,DET,CHI
+Shot Chart Detail,0020801204,478,2732,Ben Gordon,1610612741,Chicago Bulls,4,0,14,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090413,DET,CHI
+Shot Chart Detail,0020801218,22,2732,Ben Gordon,1610612741,Chicago Bulls,1,8,49,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-48,78,1,1,20090415,CHI,TOR
+Shot Chart Detail,0020801218,184,2732,Ben Gordon,1610612741,Chicago Bulls,2,5,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,171,126,1,1,20090415,CHI,TOR
+Shot Chart Detail,0020801218,196,2732,Ben Gordon,1610612741,Chicago Bulls,2,4,38,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090415,CHI,TOR
+Shot Chart Detail,0020801218,281,2732,Ben Gordon,1610612741,Chicago Bulls,3,10,12,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,0,1,1,20090415,CHI,TOR
+Shot Chart Detail,0020801218,357,2732,Ben Gordon,1610612741,Chicago Bulls,3,2,50,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-8,60,1,1,20090415,CHI,TOR
+Shot Chart Detail,0020801218,446,2732,Ben Gordon,1610612741,Chicago Bulls,4,6,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,65,187,1,1,20090415,CHI,TOR
+Shot Chart Detail,0020801218,457,2732,Ben Gordon,1610612741,Chicago Bulls,4,5,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-65,160,1,1,20090415,CHI,TOR
+Shot Chart Detail,0020801218,484,2732,Ben Gordon,1610612741,Chicago Bulls,4,2,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,151,22,1,1,20090415,CHI,TOR
+Shot Chart Detail,0020801218,508,2732,Ben Gordon,1610612741,Chicago Bulls,4,0,41,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090415,CHI,TOR

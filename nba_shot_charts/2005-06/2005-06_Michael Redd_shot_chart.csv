@@ -1,0 +1,683 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0020500001,3,2072,Michael Redd,1610612749,Milwaukee Bucks,1,11,31,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-143,61,1,1,20051101,PHI,MIL
+Shot Chart Detail,0020500001,16,2072,Michael Redd,1610612749,Milwaukee Bucks,1,9,59,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,-16,1,1,20051101,PHI,MIL
+Shot Chart Detail,0020500001,220,2072,Michael Redd,1610612749,Milwaukee Bucks,2,1,16,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051101,PHI,MIL
+Shot Chart Detail,0020500001,325,2072,Michael Redd,1610612749,Milwaukee Bucks,3,3,5,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,54,102,1,1,20051101,PHI,MIL
+Shot Chart Detail,0020500001,427,2072,Michael Redd,1610612749,Milwaukee Bucks,4,3,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-13,199,1,1,20051101,PHI,MIL
+Shot Chart Detail,0020500001,461,2072,Michael Redd,1610612749,Milwaukee Bucks,4,0,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-130,229,1,1,20051101,PHI,MIL
+Shot Chart Detail,0020500001,476,2072,Michael Redd,1610612749,Milwaukee Bucks,5,4,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,121,135,1,1,20051101,PHI,MIL
+Shot Chart Detail,0020500001,482,2072,Michael Redd,1610612749,Milwaukee Bucks,5,3,13,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,15,67,137,1,1,20051101,PHI,MIL
+Shot Chart Detail,0020500008,97,2072,Michael Redd,1610612749,Milwaukee Bucks,1,3,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-133,3,1,1,20051102,NJN,MIL
+Shot Chart Detail,0020500008,226,2072,Michael Redd,1610612749,Milwaukee Bucks,2,2,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-214,117,1,1,20051102,NJN,MIL
+Shot Chart Detail,0020500008,284,2072,Michael Redd,1610612749,Milwaukee Bucks,3,8,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-222,109,1,1,20051102,NJN,MIL
+Shot Chart Detail,0020500008,294,2072,Michael Redd,1610612749,Milwaukee Bucks,3,6,51,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051102,NJN,MIL
+Shot Chart Detail,0020500008,320,2072,Michael Redd,1610612749,Milwaukee Bucks,3,3,50,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051102,NJN,MIL
+Shot Chart Detail,0020500008,322,2072,Michael Redd,1610612749,Milwaukee Bucks,3,3,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,154,109,1,1,20051102,NJN,MIL
+Shot Chart Detail,0020500008,332,2072,Michael Redd,1610612749,Milwaukee Bucks,3,2,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-177,64,1,1,20051102,NJN,MIL
+Shot Chart Detail,0020500008,353,2072,Michael Redd,1610612749,Milwaukee Bucks,3,0,52,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,-23,1,1,20051102,NJN,MIL
+Shot Chart Detail,0020500008,368,2072,Michael Redd,1610612749,Milwaukee Bucks,3,0,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051102,NJN,MIL
+Shot Chart Detail,0020500008,380,2072,Michael Redd,1610612749,Milwaukee Bucks,4,11,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,172,-5,1,1,20051102,NJN,MIL
+Shot Chart Detail,0020500008,412,2072,Michael Redd,1610612749,Milwaukee Bucks,4,7,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,207,-16,1,1,20051102,NJN,MIL
+Shot Chart Detail,0020500008,424,2072,Michael Redd,1610612749,Milwaukee Bucks,4,6,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-166,95,1,1,20051102,NJN,MIL
+Shot Chart Detail,0020500037,8,2072,Michael Redd,1610612749,Milwaukee Bucks,1,11,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,117,117,1,1,20051105,MIL,MIA
+Shot Chart Detail,0020500037,67,2072,Michael Redd,1610612749,Milwaukee Bucks,1,5,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,218,130,1,1,20051105,MIL,MIA
+Shot Chart Detail,0020500037,168,2072,Michael Redd,1610612749,Milwaukee Bucks,2,3,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051105,MIL,MIA
+Shot Chart Detail,0020500037,183,2072,Michael Redd,1610612749,Milwaukee Bucks,2,1,47,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051105,MIL,MIA
+Shot Chart Detail,0020500037,209,2072,Michael Redd,1610612749,Milwaukee Bucks,3,10,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051105,MIL,MIA
+Shot Chart Detail,0020500037,262,2072,Michael Redd,1610612749,Milwaukee Bucks,3,3,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051105,MIL,MIA
+Shot Chart Detail,0020500037,285,2072,Michael Redd,1610612749,Milwaukee Bucks,3,0,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,0,265,1,1,20051105,MIL,MIA
+Shot Chart Detail,0020500037,289,2072,Michael Redd,1610612749,Milwaukee Bucks,3,0,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051105,MIL,MIA
+Shot Chart Detail,0020500052,8,2072,Michael Redd,1610612749,Milwaukee Bucks,1,10,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-163,194,1,1,20051108,MIL,GSW
+Shot Chart Detail,0020500052,17,2072,Michael Redd,1610612749,Milwaukee Bucks,1,9,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051108,MIL,GSW
+Shot Chart Detail,0020500052,94,2072,Michael Redd,1610612749,Milwaukee Bucks,1,1,9,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-57,25,1,1,20051108,MIL,GSW
+Shot Chart Detail,0020500052,185,2072,Michael Redd,1610612749,Milwaukee Bucks,2,3,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051108,MIL,GSW
+Shot Chart Detail,0020500052,187,2072,Michael Redd,1610612749,Milwaukee Bucks,2,3,39,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051108,MIL,GSW
+Shot Chart Detail,0020500052,201,2072,Michael Redd,1610612749,Milwaukee Bucks,2,2,40,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,14,77,125,1,1,20051108,MIL,GSW
+Shot Chart Detail,0020500052,224,2072,Michael Redd,1610612749,Milwaukee Bucks,3,11,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-94,102,1,1,20051108,MIL,GSW
+Shot Chart Detail,0020500052,257,2072,Michael Redd,1610612749,Milwaukee Bucks,3,8,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051108,MIL,GSW
+Shot Chart Detail,0020500052,289,2072,Michael Redd,1610612749,Milwaukee Bucks,3,4,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051108,MIL,GSW
+Shot Chart Detail,0020500087,20,2072,Michael Redd,1610612749,Milwaukee Bucks,1,9,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-133,-16,1,1,20051112,MIL,IND
+Shot Chart Detail,0020500087,28,2072,Michael Redd,1610612749,Milwaukee Bucks,1,8,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051112,MIL,IND
+Shot Chart Detail,0020500087,36,2072,Michael Redd,1610612749,Milwaukee Bucks,1,8,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,92,84,1,1,20051112,MIL,IND
+Shot Chart Detail,0020500087,244,2072,Michael Redd,1610612749,Milwaukee Bucks,2,0,52,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,75,15,1,1,20051112,MIL,IND
+Shot Chart Detail,0020500087,265,2072,Michael Redd,1610612749,Milwaukee Bucks,3,10,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,161,12,1,1,20051112,MIL,IND
+Shot Chart Detail,0020500087,491,2072,Michael Redd,1610612749,Milwaukee Bucks,4,3,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-140,94,1,1,20051112,MIL,IND
+Shot Chart Detail,0020500087,543,2072,Michael Redd,1610612749,Milwaukee Bucks,4,0,25,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-237,51,1,1,20051112,MIL,IND
+Shot Chart Detail,0020500108,49,2072,Michael Redd,1610612749,Milwaukee Bucks,1,7,31,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051115,LAC,MIL
+Shot Chart Detail,0020500108,55,2072,Michael Redd,1610612749,Milwaukee Bucks,1,6,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-25,164,1,1,20051115,LAC,MIL
+Shot Chart Detail,0020500108,232,2072,Michael Redd,1610612749,Milwaukee Bucks,2,2,53,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051115,LAC,MIL
+Shot Chart Detail,0020500108,245,2072,Michael Redd,1610612749,Milwaukee Bucks,2,1,24,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-59,46,1,1,20051115,LAC,MIL
+Shot Chart Detail,0020500108,292,2072,Michael Redd,1610612749,Milwaukee Bucks,3,7,46,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051115,LAC,MIL
+Shot Chart Detail,0020500108,385,2072,Michael Redd,1610612749,Milwaukee Bucks,4,10,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-143,222,1,1,20051115,LAC,MIL
+Shot Chart Detail,0020500116,14,2072,Michael Redd,1610612749,Milwaukee Bucks,1,10,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,59,257,1,1,20051116,GSW,MIL
+Shot Chart Detail,0020500116,21,2072,Michael Redd,1610612749,Milwaukee Bucks,1,9,7,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,3,1,1,20051116,GSW,MIL
+Shot Chart Detail,0020500116,108,2072,Michael Redd,1610612749,Milwaukee Bucks,2,10,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,12,1,1,20051116,GSW,MIL
+Shot Chart Detail,0020500116,150,2072,Michael Redd,1610612749,Milwaukee Bucks,2,7,44,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-25,7,1,1,20051116,GSW,MIL
+Shot Chart Detail,0020500116,296,2072,Michael Redd,1610612749,Milwaukee Bucks,3,5,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-100,233,1,1,20051116,GSW,MIL
+Shot Chart Detail,0020500116,317,2072,Michael Redd,1610612749,Milwaukee Bucks,3,4,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,197,156,1,1,20051116,GSW,MIL
+Shot Chart Detail,0020500116,336,2072,Michael Redd,1610612749,Milwaukee Bucks,3,3,8,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-33,59,1,1,20051116,GSW,MIL
+Shot Chart Detail,0020500116,414,2072,Michael Redd,1610612749,Milwaukee Bucks,4,7,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-159,0,1,1,20051116,GSW,MIL
+Shot Chart Detail,0020500116,450,2072,Michael Redd,1610612749,Milwaukee Bucks,4,2,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,15,1,1,20051116,GSW,MIL
+Shot Chart Detail,0020500128,44,2072,Michael Redd,1610612749,Milwaukee Bucks,1,6,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,167,184,1,1,20051118,SAC,MIL
+Shot Chart Detail,0020500128,101,2072,Michael Redd,1610612749,Milwaukee Bucks,1,1,18,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,25,240,74,1,1,20051118,SAC,MIL
+Shot Chart Detail,0020500128,228,2072,Michael Redd,1610612749,Milwaukee Bucks,2,0,7,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,3,48,1,1,20051118,SAC,MIL
+Shot Chart Detail,0020500128,254,2072,Michael Redd,1610612749,Milwaukee Bucks,3,9,8,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051118,SAC,MIL
+Shot Chart Detail,0020500128,256,2072,Michael Redd,1610612749,Milwaukee Bucks,3,8,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,182,-3,1,1,20051118,SAC,MIL
+Shot Chart Detail,0020500128,414,2072,Michael Redd,1610612749,Milwaukee Bucks,4,5,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051118,SAC,MIL
+Shot Chart Detail,0020500128,447,2072,Michael Redd,1610612749,Milwaukee Bucks,4,4,3,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-51,8,1,1,20051118,SAC,MIL
+Shot Chart Detail,0020500147,4,2072,Michael Redd,1610612749,Milwaukee Bucks,1,11,32,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051121,UTA,MIL
+Shot Chart Detail,0020500147,74,2072,Michael Redd,1610612749,Milwaukee Bucks,1,4,29,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051121,UTA,MIL
+Shot Chart Detail,0020500147,192,2072,Michael Redd,1610612749,Milwaukee Bucks,2,4,1,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051121,UTA,MIL
+Shot Chart Detail,0020500147,216,2072,Michael Redd,1610612749,Milwaukee Bucks,2,2,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051121,UTA,MIL
+Shot Chart Detail,0020500147,237,2072,Michael Redd,1610612749,Milwaukee Bucks,2,0,41,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051121,UTA,MIL
+Shot Chart Detail,0020500147,305,2072,Michael Redd,1610612749,Milwaukee Bucks,3,5,30,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-31,30,1,1,20051121,UTA,MIL
+Shot Chart Detail,0020500147,396,2072,Michael Redd,1610612749,Milwaukee Bucks,4,10,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,177,164,1,1,20051121,UTA,MIL
+Shot Chart Detail,0020500162,40,2072,Michael Redd,1610612749,Milwaukee Bucks,1,7,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,0,145,1,1,20051123,MIL,PHI
+Shot Chart Detail,0020500162,44,2072,Michael Redd,1610612749,Milwaukee Bucks,1,6,59,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,-3,1,1,20051123,MIL,PHI
+Shot Chart Detail,0020500162,133,2072,Michael Redd,1610612749,Milwaukee Bucks,2,11,47,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051123,MIL,PHI
+Shot Chart Detail,0020500162,243,2072,Michael Redd,1610612749,Milwaukee Bucks,2,1,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-151,82,1,1,20051123,MIL,PHI
+Shot Chart Detail,0020500162,269,2072,Michael Redd,1610612749,Milwaukee Bucks,3,11,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,151,194,1,1,20051123,MIL,PHI
+Shot Chart Detail,0020500162,364,2072,Michael Redd,1610612749,Milwaukee Bucks,3,4,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-145,118,1,1,20051123,MIL,PHI
+Shot Chart Detail,0020500162,381,2072,Michael Redd,1610612749,Milwaukee Bucks,3,1,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051123,MIL,PHI
+Shot Chart Detail,0020500162,476,2072,Michael Redd,1610612749,Milwaukee Bucks,4,7,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,89,181,1,1,20051123,MIL,PHI
+Shot Chart Detail,0020500162,511,2072,Michael Redd,1610612749,Milwaukee Bucks,4,4,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-110,178,1,1,20051123,MIL,PHI
+Shot Chart Detail,0020500162,538,2072,Michael Redd,1610612749,Milwaukee Bucks,4,2,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,187,7,1,1,20051123,MIL,PHI
+Shot Chart Detail,0020500162,543,2072,Michael Redd,1610612749,Milwaukee Bucks,4,1,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,153,166,1,1,20051123,MIL,PHI
+Shot Chart Detail,0020500175,7,2072,Michael Redd,1610612749,Milwaukee Bucks,1,10,49,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,245,13,1,1,20051125,MIN,MIL
+Shot Chart Detail,0020500175,124,2072,Michael Redd,1610612749,Milwaukee Bucks,2,7,58,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051125,MIN,MIL
+Shot Chart Detail,0020500175,160,2072,Michael Redd,1610612749,Milwaukee Bucks,2,4,7,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,0,49,1,1,20051125,MIN,MIL
+Shot Chart Detail,0020500175,174,2072,Michael Redd,1610612749,Milwaukee Bucks,2,2,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,135,210,1,1,20051125,MIN,MIL
+Shot Chart Detail,0020500175,214,2072,Michael Redd,1610612749,Milwaukee Bucks,3,11,45,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051125,MIN,MIL
+Shot Chart Detail,0020500175,251,2072,Michael Redd,1610612749,Milwaukee Bucks,3,6,18,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,164,15,1,1,20051125,MIN,MIL
+Shot Chart Detail,0020500175,287,2072,Michael Redd,1610612749,Milwaukee Bucks,3,2,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,222,130,1,1,20051125,MIN,MIL
+Shot Chart Detail,0020500175,364,2072,Michael Redd,1610612749,Milwaukee Bucks,4,5,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-171,183,1,1,20051125,MIN,MIL
+Shot Chart Detail,0020500175,400,2072,Michael Redd,1610612749,Milwaukee Bucks,4,1,23,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051125,MIN,MIL
+Shot Chart Detail,0020500188,19,2072,Michael Redd,1610612749,Milwaukee Bucks,1,9,31,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051126,MIL,DET
+Shot Chart Detail,0020500188,137,2072,Michael Redd,1610612749,Milwaukee Bucks,2,9,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,36,181,1,1,20051126,MIL,DET
+Shot Chart Detail,0020500188,241,2072,Michael Redd,1610612749,Milwaukee Bucks,3,10,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,184,181,1,1,20051126,MIL,DET
+Shot Chart Detail,0020500188,312,2072,Michael Redd,1610612749,Milwaukee Bucks,3,1,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,177,204,1,1,20051126,MIL,DET
+Shot Chart Detail,0020500188,315,2072,Michael Redd,1610612749,Milwaukee Bucks,3,0,28,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-243,-8,1,1,20051126,MIL,DET
+Shot Chart Detail,0020500188,320,2072,Michael Redd,1610612749,Milwaukee Bucks,4,11,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-138,127,1,1,20051126,MIL,DET
+Shot Chart Detail,0020500188,372,2072,Michael Redd,1610612749,Milwaukee Bucks,4,5,50,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,17,1,1,20051126,MIL,DET
+Shot Chart Detail,0020500219,5,2072,Michael Redd,1610612749,Milwaukee Bucks,1,11,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,10,257,1,1,20051202,WAS,MIL
+Shot Chart Detail,0020500219,7,2072,Michael Redd,1610612749,Milwaukee Bucks,1,10,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,182,-19,1,1,20051202,WAS,MIL
+Shot Chart Detail,0020500219,103,2072,Michael Redd,1610612749,Milwaukee Bucks,1,0,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,149,114,1,1,20051202,WAS,MIL
+Shot Chart Detail,0020500219,105,2072,Michael Redd,1610612749,Milwaukee Bucks,1,0,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,0,1,1,20051202,WAS,MIL
+Shot Chart Detail,0020500219,192,2072,Michael Redd,1610612749,Milwaukee Bucks,2,0,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,-9,1,1,20051202,WAS,MIL
+Shot Chart Detail,0020500219,243,2072,Michael Redd,1610612749,Milwaukee Bucks,3,7,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,-5,1,1,20051202,WAS,MIL
+Shot Chart Detail,0020500233,13,2072,Michael Redd,1610612749,Milwaukee Bucks,1,10,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-117,238,1,1,20051203,MIL,ORL
+Shot Chart Detail,0020500233,27,2072,Michael Redd,1610612749,Milwaukee Bucks,1,8,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,167,-16,1,1,20051203,MIL,ORL
+Shot Chart Detail,0020500233,49,2072,Michael Redd,1610612749,Milwaukee Bucks,1,5,16,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,238,30,1,1,20051203,MIL,ORL
+Shot Chart Detail,0020500233,69,2072,Michael Redd,1610612749,Milwaukee Bucks,1,2,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,199,184,1,1,20051203,MIL,ORL
+Shot Chart Detail,0020500233,191,2072,Michael Redd,1610612749,Milwaukee Bucks,2,0,59,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051203,MIL,ORL
+Shot Chart Detail,0020500233,212,2072,Michael Redd,1610612749,Milwaukee Bucks,3,10,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,163,30,1,1,20051203,MIL,ORL
+Shot Chart Detail,0020500233,221,2072,Michael Redd,1610612749,Milwaukee Bucks,3,8,12,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,-13,1,1,20051203,MIL,ORL
+Shot Chart Detail,0020500233,270,2072,Michael Redd,1610612749,Milwaukee Bucks,3,2,44,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051203,MIL,ORL
+Shot Chart Detail,0020500233,304,2072,Michael Redd,1610612749,Milwaukee Bucks,4,10,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,212,164,1,1,20051203,MIL,ORL
+Shot Chart Detail,0020500233,323,2072,Michael Redd,1610612749,Milwaukee Bucks,4,8,24,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,-6,1,1,20051203,MIL,ORL
+Shot Chart Detail,0020500233,353,2072,Michael Redd,1610612749,Milwaukee Bucks,4,3,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,209,160,1,1,20051203,MIL,ORL
+Shot Chart Detail,0020500251,73,2072,Michael Redd,1610612749,Milwaukee Bucks,1,3,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,177,72,1,1,20051206,MIL,LAL
+Shot Chart Detail,0020500251,190,2072,Michael Redd,1610612749,Milwaukee Bucks,2,1,42,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051206,MIL,LAL
+Shot Chart Detail,0020500251,207,2072,Michael Redd,1610612749,Milwaukee Bucks,3,10,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051206,MIL,LAL
+Shot Chart Detail,0020500251,218,2072,Michael Redd,1610612749,Milwaukee Bucks,3,9,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,130,-21,1,1,20051206,MIL,LAL
+Shot Chart Detail,0020500251,224,2072,Michael Redd,1610612749,Milwaukee Bucks,3,8,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,123,-13,1,1,20051206,MIL,LAL
+Shot Chart Detail,0020500251,257,2072,Michael Redd,1610612749,Milwaukee Bucks,3,4,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051206,MIL,LAL
+Shot Chart Detail,0020500251,261,2072,Michael Redd,1610612749,Milwaukee Bucks,3,3,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051206,MIL,LAL
+Shot Chart Detail,0020500259,58,2072,Michael Redd,1610612749,Milwaukee Bucks,1,5,26,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051207,PHI,MIL
+Shot Chart Detail,0020500259,148,2072,Michael Redd,1610612749,Milwaukee Bucks,2,9,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,39,250,1,1,20051207,PHI,MIL
+Shot Chart Detail,0020500259,178,2072,Michael Redd,1610612749,Milwaukee Bucks,2,5,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,126,229,1,1,20051207,PHI,MIL
+Shot Chart Detail,0020500259,184,2072,Michael Redd,1610612749,Milwaukee Bucks,2,4,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051207,PHI,MIL
+Shot Chart Detail,0020500259,191,2072,Michael Redd,1610612749,Milwaukee Bucks,2,4,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,62,151,1,1,20051207,PHI,MIL
+Shot Chart Detail,0020500259,240,2072,Michael Redd,1610612749,Milwaukee Bucks,3,10,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,22,0,227,1,1,20051207,PHI,MIL
+Shot Chart Detail,0020500259,382,2072,Michael Redd,1610612749,Milwaukee Bucks,4,7,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,161,-18,1,1,20051207,PHI,MIL
+Shot Chart Detail,0020500259,427,2072,Michael Redd,1610612749,Milwaukee Bucks,4,1,26,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051207,PHI,MIL
+Shot Chart Detail,0020500287,2,2072,Michael Redd,1610612749,Milwaukee Bucks,1,11,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051210,MIL,CLE
+Shot Chart Detail,0020500287,25,2072,Michael Redd,1610612749,Milwaukee Bucks,1,8,42,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051210,MIL,CLE
+Shot Chart Detail,0020500287,42,2072,Michael Redd,1610612749,Milwaukee Bucks,1,6,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,225,141,1,1,20051210,MIL,CLE
+Shot Chart Detail,0020500287,76,2072,Michael Redd,1610612749,Milwaukee Bucks,1,2,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051210,MIL,CLE
+Shot Chart Detail,0020500287,229,2072,Michael Redd,1610612749,Milwaukee Bucks,3,10,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-166,199,1,1,20051210,MIL,CLE
+Shot Chart Detail,0020500287,236,2072,Michael Redd,1610612749,Milwaukee Bucks,3,9,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,151,153,1,1,20051210,MIL,CLE
+Shot Chart Detail,0020500287,240,2072,Michael Redd,1610612749,Milwaukee Bucks,3,8,43,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,49,97,1,1,20051210,MIL,CLE
+Shot Chart Detail,0020500287,261,2072,Michael Redd,1610612749,Milwaukee Bucks,3,6,20,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-2,137,1,1,20051210,MIL,CLE
+Shot Chart Detail,0020500287,336,2072,Michael Redd,1610612749,Milwaukee Bucks,4,11,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051210,MIL,CLE
+Shot Chart Detail,0020500296,5,2072,Michael Redd,1610612749,Milwaukee Bucks,1,11,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,22,-18,222,1,1,20051212,NYK,MIL
+Shot Chart Detail,0020500296,16,2072,Michael Redd,1610612749,Milwaukee Bucks,1,9,14,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-11,51,1,1,20051212,NYK,MIL
+Shot Chart Detail,0020500296,66,2072,Michael Redd,1610612749,Milwaukee Bucks,1,2,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,125,215,1,1,20051212,NYK,MIL
+Shot Chart Detail,0020500296,159,2072,Michael Redd,1610612749,Milwaukee Bucks,2,4,14,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,236,-23,1,1,20051212,NYK,MIL
+Shot Chart Detail,0020500296,162,2072,Michael Redd,1610612749,Milwaukee Bucks,2,3,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,21,192,1,1,20051212,NYK,MIL
+Shot Chart Detail,0020500296,219,2072,Michael Redd,1610612749,Milwaukee Bucks,3,11,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,92,235,1,1,20051212,NYK,MIL
+Shot Chart Detail,0020500296,247,2072,Michael Redd,1610612749,Milwaukee Bucks,3,6,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,118,224,1,1,20051212,NYK,MIL
+Shot Chart Detail,0020500296,310,2072,Michael Redd,1610612749,Milwaukee Bucks,4,10,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-163,196,1,1,20051212,NYK,MIL
+Shot Chart Detail,0020500296,394,2072,Michael Redd,1610612749,Milwaukee Bucks,4,3,49,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051212,NYK,MIL
+Shot Chart Detail,0020500313,79,2072,Michael Redd,1610612749,Milwaukee Bucks,1,3,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,186,89,1,1,20051214,MIL,MIA
+Shot Chart Detail,0020500313,93,2072,Michael Redd,1610612749,Milwaukee Bucks,1,2,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-112,-21,1,1,20051214,MIL,MIA
+Shot Chart Detail,0020500313,193,2072,Michael Redd,1610612749,Milwaukee Bucks,2,5,8,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,26,138,1,1,20051214,MIL,MIA
+Shot Chart Detail,0020500313,213,2072,Michael Redd,1610612749,Milwaukee Bucks,2,2,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-141,-16,1,1,20051214,MIL,MIA
+Shot Chart Detail,0020500313,233,2072,Michael Redd,1610612749,Milwaukee Bucks,2,0,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051214,MIL,MIA
+Shot Chart Detail,0020500313,280,2072,Michael Redd,1610612749,Milwaukee Bucks,3,7,31,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051214,MIL,MIA
+Shot Chart Detail,0020500313,311,2072,Michael Redd,1610612749,Milwaukee Bucks,3,3,7,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,236,-19,1,1,20051214,MIL,MIA
+Shot Chart Detail,0020500313,385,2072,Michael Redd,1610612749,Milwaukee Bucks,4,8,9,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,236,-18,1,1,20051214,MIL,MIA
+Shot Chart Detail,0020500326,73,2072,Michael Redd,1610612749,Milwaukee Bucks,1,3,20,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,-1,1,1,20051216,BOS,MIL
+Shot Chart Detail,0020500326,106,2072,Michael Redd,1610612749,Milwaukee Bucks,1,1,25,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-38,41,1,1,20051216,BOS,MIL
+Shot Chart Detail,0020500326,109,2072,Michael Redd,1610612749,Milwaukee Bucks,1,1,8,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,3,2,1,1,20051216,BOS,MIL
+Shot Chart Detail,0020500326,189,2072,Michael Redd,1610612749,Milwaukee Bucks,2,5,51,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-246,31,1,1,20051216,BOS,MIL
+Shot Chart Detail,0020500326,210,2072,Michael Redd,1610612749,Milwaukee Bucks,2,3,58,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-238,15,1,1,20051216,BOS,MIL
+Shot Chart Detail,0020500326,270,2072,Michael Redd,1610612749,Milwaukee Bucks,3,10,56,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,8,66,1,1,20051216,BOS,MIL
+Shot Chart Detail,0020500326,295,2072,Michael Redd,1610612749,Milwaukee Bucks,3,7,16,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,8,5,1,1,20051216,BOS,MIL
+Shot Chart Detail,0020500326,301,2072,Michael Redd,1610612749,Milwaukee Bucks,3,6,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,21,209,58,1,1,20051216,BOS,MIL
+Shot Chart Detail,0020500326,376,2072,Michael Redd,1610612749,Milwaukee Bucks,4,11,38,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-48,45,1,1,20051216,BOS,MIL
+Shot Chart Detail,0020500339,49,2072,Michael Redd,1610612749,Milwaukee Bucks,1,5,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-141,95,1,1,20051217,MIL,UTA
+Shot Chart Detail,0020500339,71,2072,Michael Redd,1610612749,Milwaukee Bucks,1,1,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-215,145,1,1,20051217,MIL,UTA
+Shot Chart Detail,0020500339,160,2072,Michael Redd,1610612749,Milwaukee Bucks,2,3,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-117,235,1,1,20051217,MIL,UTA
+Shot Chart Detail,0020500339,274,2072,Michael Redd,1610612749,Milwaukee Bucks,3,2,47,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051217,MIL,UTA
+Shot Chart Detail,0020500339,395,2072,Michael Redd,1610612749,Milwaukee Bucks,4,1,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051217,MIL,UTA
+Shot Chart Detail,0020500339,420,2072,Michael Redd,1610612749,Milwaukee Bucks,4,0,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051217,MIL,UTA
+Shot Chart Detail,0020500356,11,2072,Michael Redd,1610612749,Milwaukee Bucks,1,10,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-125,61,1,1,20051220,MIL,SAS
+Shot Chart Detail,0020500356,13,2072,Michael Redd,1610612749,Milwaukee Bucks,1,10,15,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,54,0,1,1,20051220,MIL,SAS
+Shot Chart Detail,0020500356,23,2072,Michael Redd,1610612749,Milwaukee Bucks,1,8,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-97,97,1,1,20051220,MIL,SAS
+Shot Chart Detail,0020500356,45,2072,Michael Redd,1610612749,Milwaukee Bucks,1,5,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-179,53,1,1,20051220,MIL,SAS
+Shot Chart Detail,0020500356,183,2072,Michael Redd,1610612749,Milwaukee Bucks,2,2,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,112,26,1,1,20051220,MIL,SAS
+Shot Chart Detail,0020500356,221,2072,Michael Redd,1610612749,Milwaukee Bucks,3,9,31,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,0,66,1,1,20051220,MIL,SAS
+Shot Chart Detail,0020500356,241,2072,Michael Redd,1610612749,Milwaukee Bucks,3,6,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051220,MIL,SAS
+Shot Chart Detail,0020500356,442,2072,Michael Redd,1610612749,Milwaukee Bucks,5,3,27,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,46,25,1,1,20051220,MIL,SAS
+Shot Chart Detail,0020500380,7,2072,Michael Redd,1610612749,Milwaukee Bucks,1,11,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-128,77,1,1,20051223,MIL,NOK
+Shot Chart Detail,0020500380,9,2072,Michael Redd,1610612749,Milwaukee Bucks,1,10,37,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-26,79,1,1,20051223,MIL,NOK
+Shot Chart Detail,0020500380,25,2072,Michael Redd,1610612749,Milwaukee Bucks,1,8,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051223,MIL,NOK
+Shot Chart Detail,0020500380,58,2072,Michael Redd,1610612749,Milwaukee Bucks,1,3,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,146,59,1,1,20051223,MIL,NOK
+Shot Chart Detail,0020500380,161,2072,Michael Redd,1610612749,Milwaukee Bucks,2,5,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051223,MIL,NOK
+Shot Chart Detail,0020500380,239,2072,Michael Redd,1610612749,Milwaukee Bucks,3,11,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,47,268,1,1,20051223,MIL,NOK
+Shot Chart Detail,0020500380,304,2072,Michael Redd,1610612749,Milwaukee Bucks,3,4,8,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051223,MIL,NOK
+Shot Chart Detail,0020500380,343,2072,Michael Redd,1610612749,Milwaukee Bucks,3,1,1,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-3,53,1,1,20051223,MIL,NOK
+Shot Chart Detail,0020500380,406,2072,Michael Redd,1610612749,Milwaukee Bucks,4,7,9,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051223,MIL,NOK
+Shot Chart Detail,0020500380,436,2072,Michael Redd,1610612749,Milwaukee Bucks,4,3,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-146,109,1,1,20051223,MIL,NOK
+Shot Chart Detail,0020500380,441,2072,Michael Redd,1610612749,Milwaukee Bucks,4,3,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-199,156,1,1,20051223,MIL,NOK
+Shot Chart Detail,0020500380,448,2072,Michael Redd,1610612749,Milwaukee Bucks,4,1,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-99,68,1,1,20051223,MIL,NOK
+Shot Chart Detail,0020500388,223,2072,Michael Redd,1610612749,Milwaukee Bucks,2,1,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,148,30,1,1,20051226,ORL,MIL
+Shot Chart Detail,0020500388,285,2072,Michael Redd,1610612749,Milwaukee Bucks,3,6,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051226,ORL,MIL
+Shot Chart Detail,0020500388,339,2072,Michael Redd,1610612749,Milwaukee Bucks,3,0,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,41,240,1,1,20051226,ORL,MIL
+Shot Chart Detail,0020500388,355,2072,Michael Redd,1610612749,Milwaukee Bucks,4,9,54,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051226,ORL,MIL
+Shot Chart Detail,0020500399,66,2072,Michael Redd,1610612749,Milwaukee Bucks,1,5,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051227,MIA,MIL
+Shot Chart Detail,0020500399,74,2072,Michael Redd,1610612749,Milwaukee Bucks,1,3,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,41,243,1,1,20051227,MIA,MIL
+Shot Chart Detail,0020500399,236,2072,Michael Redd,1610612749,Milwaukee Bucks,2,1,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051227,MIA,MIL
+Shot Chart Detail,0020500399,298,2072,Michael Redd,1610612749,Milwaukee Bucks,3,5,9,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051227,MIA,MIL
+Shot Chart Detail,0020500422,46,2072,Michael Redd,1610612749,Milwaukee Bucks,1,6,37,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,233,64,1,1,20051230,MIL,NYK
+Shot Chart Detail,0020500422,66,2072,Michael Redd,1610612749,Milwaukee Bucks,1,4,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-105,-14,1,1,20051230,MIL,NYK
+Shot Chart Detail,0020500422,280,2072,Michael Redd,1610612749,Milwaukee Bucks,2,0,1,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051230,MIL,NYK
+Shot Chart Detail,0020500422,331,2072,Michael Redd,1610612749,Milwaukee Bucks,3,5,28,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,36,1,1,20051230,MIL,NYK
+Shot Chart Detail,0020500422,340,2072,Michael Redd,1610612749,Milwaukee Bucks,3,4,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051230,MIL,NYK
+Shot Chart Detail,0020500422,440,2072,Michael Redd,1610612749,Milwaukee Bucks,4,7,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051230,MIL,NYK
+Shot Chart Detail,0020500439,57,2072,Michael Redd,1610612749,Milwaukee Bucks,1,6,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060102,CHI,MIL
+Shot Chart Detail,0020500439,68,2072,Michael Redd,1610612749,Milwaukee Bucks,1,4,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,82,160,1,1,20060102,CHI,MIL
+Shot Chart Detail,0020500439,210,2072,Michael Redd,1610612749,Milwaukee Bucks,2,3,58,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,13,75,115,1,1,20060102,CHI,MIL
+Shot Chart Detail,0020500439,216,2072,Michael Redd,1610612749,Milwaukee Bucks,2,3,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060102,CHI,MIL
+Shot Chart Detail,0020500439,270,2072,Michael Redd,1610612749,Milwaukee Bucks,3,9,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-122,51,1,1,20060102,CHI,MIL
+Shot Chart Detail,0020500439,296,2072,Michael Redd,1610612749,Milwaukee Bucks,3,6,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060102,CHI,MIL
+Shot Chart Detail,0020500439,326,2072,Michael Redd,1610612749,Milwaukee Bucks,3,4,50,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,243,-18,1,1,20060102,CHI,MIL
+Shot Chart Detail,0020500439,337,2072,Michael Redd,1610612749,Milwaukee Bucks,3,3,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060102,CHI,MIL
+Shot Chart Detail,0020500439,351,2072,Michael Redd,1610612749,Milwaukee Bucks,3,1,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,21,212,-3,1,1,20060102,CHI,MIL
+Shot Chart Detail,0020500439,353,2072,Michael Redd,1610612749,Milwaukee Bucks,3,1,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-64,192,1,1,20060102,CHI,MIL
+Shot Chart Detail,0020500439,439,2072,Michael Redd,1610612749,Milwaukee Bucks,4,3,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060102,CHI,MIL
+Shot Chart Detail,0020500450,27,2072,Michael Redd,1610612749,Milwaukee Bucks,1,7,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-143,33,1,1,20060104,MIL,CLE
+Shot Chart Detail,0020500450,58,2072,Michael Redd,1610612749,Milwaukee Bucks,1,3,5,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,20,1,1,20060104,MIL,CLE
+Shot Chart Detail,0020500450,141,2072,Michael Redd,1610612749,Milwaukee Bucks,2,8,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060104,MIL,CLE
+Shot Chart Detail,0020500450,160,2072,Michael Redd,1610612749,Milwaukee Bucks,2,6,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,151,68,1,1,20060104,MIL,CLE
+Shot Chart Detail,0020500450,283,2072,Michael Redd,1610612749,Milwaukee Bucks,3,5,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,164,219,1,1,20060104,MIL,CLE
+Shot Chart Detail,0020500450,318,2072,Michael Redd,1610612749,Milwaukee Bucks,3,1,38,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,-5,1,1,20060104,MIL,CLE
+Shot Chart Detail,0020500450,438,2072,Michael Redd,1610612749,Milwaukee Bucks,4,0,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060104,MIL,CLE
+Shot Chart Detail,0020500467,62,2072,Michael Redd,1610612749,Milwaukee Bucks,1,4,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060106,MIL,CHI
+Shot Chart Detail,0020500467,123,2072,Michael Redd,1610612749,Milwaukee Bucks,2,9,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,135,-23,1,1,20060106,MIL,CHI
+Shot Chart Detail,0020500467,155,2072,Michael Redd,1610612749,Milwaukee Bucks,2,6,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,112,-6,1,1,20060106,MIL,CHI
+Shot Chart Detail,0020500467,163,2072,Michael Redd,1610612749,Milwaukee Bucks,2,4,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-95,252,1,1,20060106,MIL,CHI
+Shot Chart Detail,0020500467,261,2072,Michael Redd,1610612749,Milwaukee Bucks,3,8,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060106,MIL,CHI
+Shot Chart Detail,0020500467,300,2072,Michael Redd,1610612749,Milwaukee Bucks,3,4,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,112,247,1,1,20060106,MIL,CHI
+Shot Chart Detail,0020500467,404,2072,Michael Redd,1610612749,Milwaukee Bucks,4,5,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060106,MIL,CHI
+Shot Chart Detail,0020500467,416,2072,Michael Redd,1610612749,Milwaukee Bucks,4,3,10,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060106,MIL,CHI
+Shot Chart Detail,0020500476,22,2072,Michael Redd,1610612749,Milwaukee Bucks,1,9,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,154,-21,1,1,20060107,CLE,MIL
+Shot Chart Detail,0020500476,38,2072,Michael Redd,1610612749,Milwaukee Bucks,1,7,17,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,-26,1,1,20060107,CLE,MIL
+Shot Chart Detail,0020500476,80,2072,Michael Redd,1610612749,Milwaukee Bucks,1,2,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,174,179,1,1,20060107,CLE,MIL
+Shot Chart Detail,0020500476,92,2072,Michael Redd,1610612749,Milwaukee Bucks,1,1,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,207,-29,1,1,20060107,CLE,MIL
+Shot Chart Detail,0020500476,142,2072,Michael Redd,1610612749,Milwaukee Bucks,2,7,32,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-3,58,1,1,20060107,CLE,MIL
+Shot Chart Detail,0020500476,165,2072,Michael Redd,1610612749,Milwaukee Bucks,2,6,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,2,1,1,20060107,CLE,MIL
+Shot Chart Detail,0020500476,240,2072,Michael Redd,1610612749,Milwaukee Bucks,3,10,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-131,140,1,1,20060107,CLE,MIL
+Shot Chart Detail,0020500476,284,2072,Michael Redd,1610612749,Milwaukee Bucks,3,4,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-186,10,1,1,20060107,CLE,MIL
+Shot Chart Detail,0020500476,308,2072,Michael Redd,1610612749,Milwaukee Bucks,3,2,41,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-241,-26,1,1,20060107,CLE,MIL
+Shot Chart Detail,0020500476,370,2072,Michael Redd,1610612749,Milwaukee Bucks,4,8,7,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,-3,1,1,20060107,CLE,MIL
+Shot Chart Detail,0020500476,401,2072,Michael Redd,1610612749,Milwaukee Bucks,4,4,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-146,23,1,1,20060107,CLE,MIL
+Shot Chart Detail,0020500476,459,2072,Michael Redd,1610612749,Milwaukee Bucks,4,0,8,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,12,1,1,20060107,CLE,MIL
+Shot Chart Detail,0020500494,37,2072,Michael Redd,1610612749,Milwaukee Bucks,1,6,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,158,69,1,1,20060110,MIL,MIN
+Shot Chart Detail,0020500494,90,2072,Michael Redd,1610612749,Milwaukee Bucks,1,1,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-171,46,1,1,20060110,MIL,MIN
+Shot Chart Detail,0020500494,170,2072,Michael Redd,1610612749,Milwaukee Bucks,2,3,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060110,MIL,MIN
+Shot Chart Detail,0020500494,236,2072,Michael Redd,1610612749,Milwaukee Bucks,3,11,5,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,38,1,1,20060110,MIL,MIN
+Shot Chart Detail,0020500494,305,2072,Michael Redd,1610612749,Milwaukee Bucks,3,1,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-115,168,1,1,20060110,MIL,MIN
+Shot Chart Detail,0020500494,307,2072,Michael Redd,1610612749,Milwaukee Bucks,3,0,28,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-71,35,1,1,20060110,MIL,MIN
+Shot Chart Detail,0020500494,335,2072,Michael Redd,1610612749,Milwaukee Bucks,4,10,3,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,-6,1,1,20060110,MIL,MIN
+Shot Chart Detail,0020500494,377,2072,Michael Redd,1610612749,Milwaukee Bucks,4,4,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,72,163,1,1,20060110,MIL,MIN
+Shot Chart Detail,0020500494,386,2072,Michael Redd,1610612749,Milwaukee Bucks,4,3,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060110,MIL,MIN
+Shot Chart Detail,0020500494,397,2072,Michael Redd,1610612749,Milwaukee Bucks,4,1,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-128,49,1,1,20060110,MIL,MIN
+Shot Chart Detail,0020500504,13,2072,Michael Redd,1610612749,Milwaukee Bucks,1,9,31,Made Shot,Driving Finger Roll Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,5,36,1,1,20060111,IND,MIL
+Shot Chart Detail,0020500504,241,2072,Michael Redd,1610612749,Milwaukee Bucks,3,10,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,24,25,1,1,20060111,IND,MIL
+Shot Chart Detail,0020500504,263,2072,Michael Redd,1610612749,Milwaukee Bucks,3,8,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,16,145,1,1,20060111,IND,MIL
+Shot Chart Detail,0020500504,315,2072,Michael Redd,1610612749,Milwaukee Bucks,3,2,26,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,-14,1,1,20060111,IND,MIL
+Shot Chart Detail,0020500515,2,2072,Michael Redd,1610612749,Milwaukee Bucks,1,11,50,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,40,1,1,20060113,CHA,MIL
+Shot Chart Detail,0020500515,183,2072,Michael Redd,1610612749,Milwaukee Bucks,2,3,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060113,CHA,MIL
+Shot Chart Detail,0020500515,205,2072,Michael Redd,1610612749,Milwaukee Bucks,2,1,40,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,25,1,1,20060113,CHA,MIL
+Shot Chart Detail,0020500515,246,2072,Michael Redd,1610612749,Milwaukee Bucks,3,7,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-158,22,1,1,20060113,CHA,MIL
+Shot Chart Detail,0020500515,382,2072,Michael Redd,1610612749,Milwaukee Bucks,4,9,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060113,CHA,MIL
+Shot Chart Detail,0020500515,401,2072,Michael Redd,1610612749,Milwaukee Bucks,4,8,7,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060113,CHA,MIL
+Shot Chart Detail,0020500515,471,2072,Michael Redd,1610612749,Milwaukee Bucks,4,0,46,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-151,0,1,1,20060113,CHA,MIL
+Shot Chart Detail,0020500525,27,2072,Michael Redd,1610612749,Milwaukee Bucks,1,8,40,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060114,MIL,DEN
+Shot Chart Detail,0020500525,41,2072,Michael Redd,1610612749,Milwaukee Bucks,1,7,0,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-222,-1,1,1,20060114,MIL,DEN
+Shot Chart Detail,0020500525,49,2072,Michael Redd,1610612749,Milwaukee Bucks,1,6,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,189,178,1,1,20060114,MIL,DEN
+Shot Chart Detail,0020500525,90,2072,Michael Redd,1610612749,Milwaukee Bucks,1,1,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060114,MIL,DEN
+Shot Chart Detail,0020500525,251,2072,Michael Redd,1610612749,Milwaukee Bucks,3,11,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-92,86,1,1,20060114,MIL,DEN
+Shot Chart Detail,0020500525,356,2072,Michael Redd,1610612749,Milwaukee Bucks,3,0,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060114,MIL,DEN
+Shot Chart Detail,0020500525,435,2072,Michael Redd,1610612749,Milwaukee Bucks,4,3,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060114,MIL,DEN
+Shot Chart Detail,0020500525,449,2072,Michael Redd,1610612749,Milwaukee Bucks,4,2,9,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060114,MIL,DEN
+Shot Chart Detail,0020500525,490,2072,Michael Redd,1610612749,Milwaukee Bucks,4,0,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060114,MIL,DEN
+Shot Chart Detail,0020500546,21,2072,Michael Redd,1610612749,Milwaukee Bucks,1,9,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-186,164,1,1,20060116,DAL,MIL
+Shot Chart Detail,0020500546,51,2072,Michael Redd,1610612749,Milwaukee Bucks,1,4,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-177,13,1,1,20060116,DAL,MIL
+Shot Chart Detail,0020500546,56,2072,Michael Redd,1610612749,Milwaukee Bucks,1,3,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,171,120,1,1,20060116,DAL,MIL
+Shot Chart Detail,0020500546,252,2072,Michael Redd,1610612749,Milwaukee Bucks,3,10,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,121,151,1,1,20060116,DAL,MIL
+Shot Chart Detail,0020500546,278,2072,Michael Redd,1610612749,Milwaukee Bucks,3,7,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,192,158,1,1,20060116,DAL,MIL
+Shot Chart Detail,0020500546,305,2072,Michael Redd,1610612749,Milwaukee Bucks,3,4,32,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060116,DAL,MIL
+Shot Chart Detail,0020500546,358,2072,Michael Redd,1610612749,Milwaukee Bucks,4,10,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,169,69,1,1,20060116,DAL,MIL
+Shot Chart Detail,0020500546,386,2072,Michael Redd,1610612749,Milwaukee Bucks,4,7,57,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060116,DAL,MIL
+Shot Chart Detail,0020500558,36,2072,Michael Redd,1610612749,Milwaukee Bucks,1,5,53,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,10,1,1,20060118,SAS,MIL
+Shot Chart Detail,0020500558,58,2072,Michael Redd,1610612749,Milwaukee Bucks,1,3,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,166,-5,1,1,20060118,SAS,MIL
+Shot Chart Detail,0020500558,63,2072,Michael Redd,1610612749,Milwaukee Bucks,1,2,27,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,8,54,1,1,20060118,SAS,MIL
+Shot Chart Detail,0020500558,237,2072,Michael Redd,1610612749,Milwaukee Bucks,3,9,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-3,0,1,1,20060118,SAS,MIL
+Shot Chart Detail,0020500558,242,2072,Michael Redd,1610612749,Milwaukee Bucks,3,8,40,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-67,17,1,1,20060118,SAS,MIL
+Shot Chart Detail,0020500558,245,2072,Michael Redd,1610612749,Milwaukee Bucks,3,8,1,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,3,72,1,1,20060118,SAS,MIL
+Shot Chart Detail,0020500558,296,2072,Michael Redd,1610612749,Milwaukee Bucks,3,2,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,7,1,1,20060118,SAS,MIL
+Shot Chart Detail,0020500558,310,2072,Michael Redd,1610612749,Milwaukee Bucks,3,0,34,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-112,2,1,1,20060118,SAS,MIL
+Shot Chart Detail,0020500558,377,2072,Michael Redd,1610612749,Milwaukee Bucks,4,4,12,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-39,41,1,1,20060118,SAS,MIL
+Shot Chart Detail,0020500558,440,2072,Michael Redd,1610612749,Milwaukee Bucks,4,0,8,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,3,1,1,20060118,SAS,MIL
+Shot Chart Detail,0020500566,46,2072,Michael Redd,1610612749,Milwaukee Bucks,1,7,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060120,ATL,MIL
+Shot Chart Detail,0020500566,59,2072,Michael Redd,1610612749,Milwaukee Bucks,1,6,16,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060120,ATL,MIL
+Shot Chart Detail,0020500566,84,2072,Michael Redd,1610612749,Milwaukee Bucks,1,3,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060120,ATL,MIL
+Shot Chart Detail,0020500566,93,2072,Michael Redd,1610612749,Milwaukee Bucks,1,2,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060120,ATL,MIL
+Shot Chart Detail,0020500566,183,2072,Michael Redd,1610612749,Milwaukee Bucks,2,5,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-171,68,1,1,20060120,ATL,MIL
+Shot Chart Detail,0020500566,190,2072,Michael Redd,1610612749,Milwaukee Bucks,2,4,48,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060120,ATL,MIL
+Shot Chart Detail,0020500566,198,2072,Michael Redd,1610612749,Milwaukee Bucks,2,4,1,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060120,ATL,MIL
+Shot Chart Detail,0020500566,231,2072,Michael Redd,1610612749,Milwaukee Bucks,2,1,13,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060120,ATL,MIL
+Shot Chart Detail,0020500566,274,2072,Michael Redd,1610612749,Milwaukee Bucks,3,8,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,135,77,1,1,20060120,ATL,MIL
+Shot Chart Detail,0020500566,296,2072,Michael Redd,1610612749,Milwaukee Bucks,3,5,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,144,210,1,1,20060120,ATL,MIL
+Shot Chart Detail,0020500566,412,2072,Michael Redd,1610612749,Milwaukee Bucks,4,8,34,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-141,0,1,1,20060120,ATL,MIL
+Shot Chart Detail,0020500566,427,2072,Michael Redd,1610612749,Milwaukee Bucks,4,7,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,121,222,1,1,20060120,ATL,MIL
+Shot Chart Detail,0020500581,28,2072,Michael Redd,1610612749,Milwaukee Bucks,1,8,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060121,MIL,CHA
+Shot Chart Detail,0020500581,45,2072,Michael Redd,1610612749,Milwaukee Bucks,1,6,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060121,MIL,CHA
+Shot Chart Detail,0020500581,67,2072,Michael Redd,1610612749,Milwaukee Bucks,1,4,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,92,82,1,1,20060121,MIL,CHA
+Shot Chart Detail,0020500581,180,2072,Michael Redd,1610612749,Milwaukee Bucks,2,7,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060121,MIL,CHA
+Shot Chart Detail,0020500581,185,2072,Michael Redd,1610612749,Milwaukee Bucks,2,6,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-15,189,1,1,20060121,MIL,CHA
+Shot Chart Detail,0020500581,194,2072,Michael Redd,1610612749,Milwaukee Bucks,2,6,19,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060121,MIL,CHA
+Shot Chart Detail,0020500581,274,2072,Michael Redd,1610612749,Milwaukee Bucks,3,10,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060121,MIL,CHA
+Shot Chart Detail,0020500581,318,2072,Michael Redd,1610612749,Milwaukee Bucks,3,5,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-176,0,1,1,20060121,MIL,CHA
+Shot Chart Detail,0020500581,329,2072,Michael Redd,1610612749,Milwaukee Bucks,3,3,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-2,284,1,1,20060121,MIL,CHA
+Shot Chart Detail,0020500581,331,2072,Michael Redd,1610612749,Milwaukee Bucks,3,2,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-220,123,1,1,20060121,MIL,CHA
+Shot Chart Detail,0020500581,342,2072,Michael Redd,1610612749,Milwaukee Bucks,3,1,23,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,-16,1,1,20060121,MIL,CHA
+Shot Chart Detail,0020500581,419,2072,Michael Redd,1610612749,Milwaukee Bucks,4,6,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-191,164,1,1,20060121,MIL,CHA
+Shot Chart Detail,0020500581,439,2072,Michael Redd,1610612749,Milwaukee Bucks,4,4,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060121,MIL,CHA
+Shot Chart Detail,0020500581,442,2072,Michael Redd,1610612749,Milwaukee Bucks,4,3,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,133,87,1,1,20060121,MIL,CHA
+Shot Chart Detail,0020500594,26,2072,Michael Redd,1610612749,Milwaukee Bucks,1,9,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,227,148,1,1,20060123,MIL,HOU
+Shot Chart Detail,0020500594,69,2072,Michael Redd,1610612749,Milwaukee Bucks,1,4,35,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060123,MIL,HOU
+Shot Chart Detail,0020500594,200,2072,Michael Redd,1610612749,Milwaukee Bucks,2,1,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060123,MIL,HOU
+Shot Chart Detail,0020500594,227,2072,Michael Redd,1610612749,Milwaukee Bucks,3,11,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-120,0,1,1,20060123,MIL,HOU
+Shot Chart Detail,0020500594,234,2072,Michael Redd,1610612749,Milwaukee Bucks,3,9,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-117,97,1,1,20060123,MIL,HOU
+Shot Chart Detail,0020500594,286,2072,Michael Redd,1610612749,Milwaukee Bucks,3,3,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,82,-16,1,1,20060123,MIL,HOU
+Shot Chart Detail,0020500594,300,2072,Michael Redd,1610612749,Milwaukee Bucks,3,2,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,47,161,1,1,20060123,MIL,HOU
+Shot Chart Detail,0020500608,16,2072,Michael Redd,1610612749,Milwaukee Bucks,1,9,30,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060125,DET,MIL
+Shot Chart Detail,0020500608,58,2072,Michael Redd,1610612749,Milwaukee Bucks,1,3,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-181,178,1,1,20060125,DET,MIL
+Shot Chart Detail,0020500608,102,2072,Michael Redd,1610612749,Milwaukee Bucks,2,11,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,23,160,1,1,20060125,DET,MIL
+Shot Chart Detail,0020500608,163,2072,Michael Redd,1610612749,Milwaukee Bucks,2,5,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-16,260,1,1,20060125,DET,MIL
+Shot Chart Detail,0020500608,206,2072,Michael Redd,1610612749,Milwaukee Bucks,3,11,14,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,6,66,1,1,20060125,DET,MIL
+Shot Chart Detail,0020500608,215,2072,Michael Redd,1610612749,Milwaukee Bucks,3,9,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,230,112,1,1,20060125,DET,MIL
+Shot Chart Detail,0020500608,231,2072,Michael Redd,1610612749,Milwaukee Bucks,3,7,49,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,241,59,1,1,20060125,DET,MIL
+Shot Chart Detail,0020500608,272,2072,Michael Redd,1610612749,Milwaukee Bucks,3,3,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-113,25,1,1,20060125,DET,MIL
+Shot Chart Detail,0020500608,285,2072,Michael Redd,1610612749,Milwaukee Bucks,3,1,45,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-87,74,1,1,20060125,DET,MIL
+Shot Chart Detail,0020500608,353,2072,Michael Redd,1610612749,Milwaukee Bucks,4,6,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,164,46,1,1,20060125,DET,MIL
+Shot Chart Detail,0020500608,400,2072,Michael Redd,1610612749,Milwaukee Bucks,4,1,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,71,247,1,1,20060125,DET,MIL
+Shot Chart Detail,0020500608,403,2072,Michael Redd,1610612749,Milwaukee Bucks,4,0,50,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,69,128,1,1,20060125,DET,MIL
+Shot Chart Detail,0020500608,408,2072,Michael Redd,1610612749,Milwaukee Bucks,4,0,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,154,141,1,1,20060125,DET,MIL
+Shot Chart Detail,0020500608,428,2072,Michael Redd,1610612749,Milwaukee Bucks,5,3,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060125,DET,MIL
+Shot Chart Detail,0020500608,439,2072,Michael Redd,1610612749,Milwaukee Bucks,5,2,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-133,130,1,1,20060125,DET,MIL
+Shot Chart Detail,0020500608,460,2072,Michael Redd,1610612749,Milwaukee Bucks,5,0,10,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060125,DET,MIL
+Shot Chart Detail,0020500627,39,2072,Michael Redd,1610612749,Milwaukee Bucks,1,6,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060127,MIL,TOR
+Shot Chart Detail,0020500627,52,2072,Michael Redd,1610612749,Milwaukee Bucks,1,4,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060127,MIL,TOR
+Shot Chart Detail,0020500627,222,2072,Michael Redd,1610612749,Milwaukee Bucks,3,10,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,131,58,1,1,20060127,MIL,TOR
+Shot Chart Detail,0020500627,242,2072,Michael Redd,1610612749,Milwaukee Bucks,3,9,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,110,243,1,1,20060127,MIL,TOR
+Shot Chart Detail,0020500627,286,2072,Michael Redd,1610612749,Milwaukee Bucks,3,4,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060127,MIL,TOR
+Shot Chart Detail,0020500627,327,2072,Michael Redd,1610612749,Milwaukee Bucks,4,11,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,130,-13,1,1,20060127,MIL,TOR
+Shot Chart Detail,0020500643,182,2072,Michael Redd,1610612749,Milwaukee Bucks,2,3,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060129,MIL,BOS
+Shot Chart Detail,0020500643,326,2072,Michael Redd,1610612749,Milwaukee Bucks,4,11,43,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-31,35,1,1,20060129,MIL,BOS
+Shot Chart Detail,0020500643,329,2072,Michael Redd,1610612749,Milwaukee Bucks,4,11,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,31,268,1,1,20060129,MIL,BOS
+Shot Chart Detail,0020500643,388,2072,Michael Redd,1610612749,Milwaukee Bucks,4,4,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-120,130,1,1,20060129,MIL,BOS
+Shot Chart Detail,0020500643,400,2072,Michael Redd,1610612749,Milwaukee Bucks,4,2,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060129,MIL,BOS
+Shot Chart Detail,0020500643,408,2072,Michael Redd,1610612749,Milwaukee Bucks,4,1,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-94,250,1,1,20060129,MIL,BOS
+Shot Chart Detail,0020500651,64,2072,Michael Redd,1610612749,Milwaukee Bucks,1,5,37,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060130,NOK,MIL
+Shot Chart Detail,0020500651,151,2072,Michael Redd,1610612749,Milwaukee Bucks,2,8,59,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-153,15,1,1,20060130,NOK,MIL
+Shot Chart Detail,0020500651,160,2072,Michael Redd,1610612749,Milwaukee Bucks,2,7,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,143,77,1,1,20060130,NOK,MIL
+Shot Chart Detail,0020500651,163,2072,Michael Redd,1610612749,Milwaukee Bucks,2,7,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-169,45,1,1,20060130,NOK,MIL
+Shot Chart Detail,0020500651,167,2072,Michael Redd,1610612749,Milwaukee Bucks,2,6,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-123,130,1,1,20060130,NOK,MIL
+Shot Chart Detail,0020500651,181,2072,Michael Redd,1610612749,Milwaukee Bucks,2,5,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060130,NOK,MIL
+Shot Chart Detail,0020500651,227,2072,Michael Redd,1610612749,Milwaukee Bucks,2,1,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-103,161,1,1,20060130,NOK,MIL
+Shot Chart Detail,0020500651,233,2072,Michael Redd,1610612749,Milwaukee Bucks,2,0,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-108,184,1,1,20060130,NOK,MIL
+Shot Chart Detail,0020500651,256,2072,Michael Redd,1610612749,Milwaukee Bucks,3,10,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-148,77,1,1,20060130,NOK,MIL
+Shot Chart Detail,0020500651,278,2072,Michael Redd,1610612749,Milwaukee Bucks,3,8,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-11,179,1,1,20060130,NOK,MIL
+Shot Chart Detail,0020500651,282,2072,Michael Redd,1610612749,Milwaukee Bucks,3,8,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060130,NOK,MIL
+Shot Chart Detail,0020500651,425,2072,Michael Redd,1610612749,Milwaukee Bucks,4,7,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060130,NOK,MIL
+Shot Chart Detail,0020500690,50,2072,Michael Redd,1610612749,Milwaukee Bucks,1,5,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-159,206,1,1,20060204,MIL,MEM
+Shot Chart Detail,0020500690,119,2072,Michael Redd,1610612749,Milwaukee Bucks,2,10,26,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-67,17,1,1,20060204,MIL,MEM
+Shot Chart Detail,0020500690,197,2072,Michael Redd,1610612749,Milwaukee Bucks,2,1,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,205,140,1,1,20060204,MIL,MEM
+Shot Chart Detail,0020500690,224,2072,Michael Redd,1610612749,Milwaukee Bucks,3,10,3,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,133,-18,1,1,20060204,MIL,MEM
+Shot Chart Detail,0020500690,262,2072,Michael Redd,1610612749,Milwaukee Bucks,3,5,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-123,30,1,1,20060204,MIL,MEM
+Shot Chart Detail,0020500690,268,2072,Michael Redd,1610612749,Milwaukee Bucks,3,4,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-135,77,1,1,20060204,MIL,MEM
+Shot Chart Detail,0020500690,306,2072,Michael Redd,1610612749,Milwaukee Bucks,3,0,11,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-33,61,1,1,20060204,MIL,MEM
+Shot Chart Detail,0020500707,200,2072,Michael Redd,1610612749,Milwaukee Bucks,2,2,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,43,155,1,1,20060206,CLE,MIL
+Shot Chart Detail,0020500707,222,2072,Michael Redd,1610612749,Milwaukee Bucks,3,11,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-184,2,1,1,20060206,CLE,MIL
+Shot Chart Detail,0020500707,224,2072,Michael Redd,1610612749,Milwaukee Bucks,3,10,49,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-61,89,1,1,20060206,CLE,MIL
+Shot Chart Detail,0020500707,227,2072,Michael Redd,1610612749,Milwaukee Bucks,3,10,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-125,77,1,1,20060206,CLE,MIL
+Shot Chart Detail,0020500707,399,2072,Michael Redd,1610612749,Milwaukee Bucks,4,2,14,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,7,1,1,20060206,CLE,MIL
+Shot Chart Detail,0020500707,405,2072,Michael Redd,1610612749,Milwaukee Bucks,4,1,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-33,252,1,1,20060206,CLE,MIL
+Shot Chart Detail,0020500717,49,2072,Michael Redd,1610612749,Milwaukee Bucks,1,4,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,67,140,1,1,20060208,MIL,ORL
+Shot Chart Detail,0020500717,78,2072,Michael Redd,1610612749,Milwaukee Bucks,1,1,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060208,MIL,ORL
+Shot Chart Detail,0020500717,193,2072,Michael Redd,1610612749,Milwaukee Bucks,2,1,59,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,-13,1,1,20060208,MIL,ORL
+Shot Chart Detail,0020500717,198,2072,Michael Redd,1610612749,Milwaukee Bucks,2,1,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-131,225,1,1,20060208,MIL,ORL
+Shot Chart Detail,0020500717,272,2072,Michael Redd,1610612749,Milwaukee Bucks,3,4,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060208,MIL,ORL
+Shot Chart Detail,0020500717,306,2072,Michael Redd,1610612749,Milwaukee Bucks,3,1,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-131,105,1,1,20060208,MIL,ORL
+Shot Chart Detail,0020500717,381,2072,Michael Redd,1610612749,Milwaukee Bucks,4,6,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,97,135,1,1,20060208,MIL,ORL
+Shot Chart Detail,0020500717,392,2072,Michael Redd,1610612749,Milwaukee Bucks,4,5,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-82,28,1,1,20060208,MIL,ORL
+Shot Chart Detail,0020500717,409,2072,Michael Redd,1610612749,Milwaukee Bucks,4,2,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,141,-16,1,1,20060208,MIL,ORL
+Shot Chart Detail,0020500717,501,2072,Michael Redd,1610612749,Milwaukee Bucks,6,3,24,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,30,1,1,20060208,MIL,ORL
+Shot Chart Detail,0020500739,17,2072,Michael Redd,1610612749,Milwaukee Bucks,1,9,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-207,153,1,1,20060211,MIL,CHA
+Shot Chart Detail,0020500739,147,2072,Michael Redd,1610612749,Milwaukee Bucks,2,8,0,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,34,18,1,1,20060211,MIL,CHA
+Shot Chart Detail,0020500739,205,2072,Michael Redd,1610612749,Milwaukee Bucks,2,2,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060211,MIL,CHA
+Shot Chart Detail,0020500739,241,2072,Michael Redd,1610612749,Milwaukee Bucks,3,10,57,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060211,MIL,CHA
+Shot Chart Detail,0020500739,298,2072,Michael Redd,1610612749,Milwaukee Bucks,3,3,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060211,MIL,CHA
+Shot Chart Detail,0020500739,357,2072,Michael Redd,1610612749,Milwaukee Bucks,4,10,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,24,204,1,1,20060211,MIL,CHA
+Shot Chart Detail,0020500747,2,2072,Michael Redd,1610612749,Milwaukee Bucks,1,11,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,24,204,1,1,20060212,NJN,MIL
+Shot Chart Detail,0020500747,26,2072,Michael Redd,1610612749,Milwaukee Bucks,1,7,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-49,235,1,1,20060212,NJN,MIL
+Shot Chart Detail,0020500747,160,2072,Michael Redd,1610612749,Milwaukee Bucks,2,5,57,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,47,138,1,1,20060212,NJN,MIL
+Shot Chart Detail,0020500747,163,2072,Michael Redd,1610612749,Milwaukee Bucks,2,5,28,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-222,-1,1,1,20060212,NJN,MIL
+Shot Chart Detail,0020500747,229,2072,Michael Redd,1610612749,Milwaukee Bucks,3,9,42,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060212,NJN,MIL
+Shot Chart Detail,0020500747,256,2072,Michael Redd,1610612749,Milwaukee Bucks,3,5,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-146,114,1,1,20060212,NJN,MIL
+Shot Chart Detail,0020500747,361,2072,Michael Redd,1610612749,Milwaukee Bucks,4,6,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,49,161,1,1,20060212,NJN,MIL
+Shot Chart Detail,0020500747,376,2072,Michael Redd,1610612749,Milwaukee Bucks,4,4,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-200,-14,1,1,20060212,NJN,MIL
+Shot Chart Detail,0020500761,60,2072,Michael Redd,1610612749,Milwaukee Bucks,1,4,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-133,-16,1,1,20060214,MIL,SEA
+Shot Chart Detail,0020500761,68,2072,Michael Redd,1610612749,Milwaukee Bucks,1,3,43,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060214,MIL,SEA
+Shot Chart Detail,0020500761,128,2072,Michael Redd,1610612749,Milwaukee Bucks,2,10,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-204,178,1,1,20060214,MIL,SEA
+Shot Chart Detail,0020500761,156,2072,Michael Redd,1610612749,Milwaukee Bucks,2,6,34,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,0,138,1,1,20060214,MIL,SEA
+Shot Chart Detail,0020500761,173,2072,Michael Redd,1610612749,Milwaukee Bucks,2,4,59,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060214,MIL,SEA
+Shot Chart Detail,0020500761,221,2072,Michael Redd,1610612749,Milwaukee Bucks,2,0,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060214,MIL,SEA
+Shot Chart Detail,0020500761,259,2072,Michael Redd,1610612749,Milwaukee Bucks,3,7,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,181,-19,1,1,20060214,MIL,SEA
+Shot Chart Detail,0020500766,8,2072,Michael Redd,1610612749,Milwaukee Bucks,1,10,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,22,-23,219,1,1,20060215,IND,MIL
+Shot Chart Detail,0020500766,22,2072,Michael Redd,1610612749,Milwaukee Bucks,1,9,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,17,1,1,20060215,IND,MIL
+Shot Chart Detail,0020500766,26,2072,Michael Redd,1610612749,Milwaukee Bucks,1,9,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-164,17,1,1,20060215,IND,MIL
+Shot Chart Detail,0020500766,44,2072,Michael Redd,1610612749,Milwaukee Bucks,1,7,2,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-174,15,1,1,20060215,IND,MIL
+Shot Chart Detail,0020500766,92,2072,Michael Redd,1610612749,Milwaukee Bucks,1,1,44,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,8,22,1,1,20060215,IND,MIL
+Shot Chart Detail,0020500766,108,2072,Michael Redd,1610612749,Milwaukee Bucks,1,0,28,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-62,51,1,1,20060215,IND,MIL
+Shot Chart Detail,0020500766,264,2072,Michael Redd,1610612749,Milwaukee Bucks,3,11,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-110,135,1,1,20060215,IND,MIL
+Shot Chart Detail,0020500766,293,2072,Michael Redd,1610612749,Milwaukee Bucks,3,7,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-181,3,1,1,20060215,IND,MIL
+Shot Chart Detail,0020500766,379,2072,Michael Redd,1610612749,Milwaukee Bucks,4,9,47,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-174,-6,1,1,20060215,IND,MIL
+Shot Chart Detail,0020500766,422,2072,Michael Redd,1610612749,Milwaukee Bucks,4,6,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-164,105,1,1,20060215,IND,MIL
+Shot Chart Detail,0020500783,271,2072,Michael Redd,1610612749,Milwaukee Bucks,3,4,26,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060221,MIL,NJN
+Shot Chart Detail,0020500783,284,2072,Michael Redd,1610612749,Milwaukee Bucks,3,3,39,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060221,MIL,NJN
+Shot Chart Detail,0020500783,299,2072,Michael Redd,1610612749,Milwaukee Bucks,3,2,20,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060221,MIL,NJN
+Shot Chart Detail,0020500783,303,2072,Michael Redd,1610612749,Milwaukee Bucks,3,1,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,140,150,1,1,20060221,MIL,NJN
+Shot Chart Detail,0020500796,18,2072,Michael Redd,1610612749,Milwaukee Bucks,1,9,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-154,54,1,1,20060222,CHI,MIL
+Shot Chart Detail,0020500796,29,2072,Michael Redd,1610612749,Milwaukee Bucks,1,8,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,23,-149,187,1,1,20060222,CHI,MIL
+Shot Chart Detail,0020500796,51,2072,Michael Redd,1610612749,Milwaukee Bucks,1,6,16,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-62,132,1,1,20060222,CHI,MIL
+Shot Chart Detail,0020500796,74,2072,Michael Redd,1610612749,Milwaukee Bucks,1,4,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060222,CHI,MIL
+Shot Chart Detail,0020500796,115,2072,Michael Redd,1610612749,Milwaukee Bucks,1,0,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,115,155,1,1,20060222,CHI,MIL
+Shot Chart Detail,0020500796,125,2072,Michael Redd,1610612749,Milwaukee Bucks,2,11,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,166,150,1,1,20060222,CHI,MIL
+Shot Chart Detail,0020500796,128,2072,Michael Redd,1610612749,Milwaukee Bucks,2,11,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060222,CHI,MIL
+Shot Chart Detail,0020500796,213,2072,Michael Redd,1610612749,Milwaukee Bucks,2,2,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-189,46,1,1,20060222,CHI,MIL
+Shot Chart Detail,0020500796,286,2072,Michael Redd,1610612749,Milwaukee Bucks,3,7,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,51,209,1,1,20060222,CHI,MIL
+Shot Chart Detail,0020500796,302,2072,Michael Redd,1610612749,Milwaukee Bucks,3,4,49,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060222,CHI,MIL
+Shot Chart Detail,0020500796,322,2072,Michael Redd,1610612749,Milwaukee Bucks,3,2,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,153,53,1,1,20060222,CHI,MIL
+Shot Chart Detail,0020500796,388,2072,Michael Redd,1610612749,Milwaukee Bucks,4,7,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,21,179,120,1,1,20060222,CHI,MIL
+Shot Chart Detail,0020500810,98,2072,Michael Redd,1610612749,Milwaukee Bucks,1,0,29,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,228,74,1,1,20060224,MIL,PHI
+Shot Chart Detail,0020500810,190,2072,Michael Redd,1610612749,Milwaukee Bucks,2,2,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060224,MIL,PHI
+Shot Chart Detail,0020500810,201,2072,Michael Redd,1610612749,Milwaukee Bucks,2,0,48,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,43,46,1,1,20060224,MIL,PHI
+Shot Chart Detail,0020500810,384,2072,Michael Redd,1610612749,Milwaukee Bucks,4,6,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-133,138,1,1,20060224,MIL,PHI
+Shot Chart Detail,0020500810,400,2072,Michael Redd,1610612749,Milwaukee Bucks,4,4,9,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,-14,1,1,20060224,MIL,PHI
+Shot Chart Detail,0020500810,443,2072,Michael Redd,1610612749,Milwaukee Bucks,4,0,14,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060224,MIL,PHI
+Shot Chart Detail,0020500817,191,2072,Michael Redd,1610612749,Milwaukee Bucks,2,4,12,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060225,ATL,MIL
+Shot Chart Detail,0020500817,278,2072,Michael Redd,1610612749,Milwaukee Bucks,3,9,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060225,ATL,MIL
+Shot Chart Detail,0020500817,309,2072,Michael Redd,1610612749,Milwaukee Bucks,3,6,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,95,148,1,1,20060225,ATL,MIL
+Shot Chart Detail,0020500817,313,2072,Michael Redd,1610612749,Milwaukee Bucks,3,5,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060225,ATL,MIL
+Shot Chart Detail,0020500817,368,2072,Michael Redd,1610612749,Milwaukee Bucks,3,0,35,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,3,28,1,1,20060225,ATL,MIL
+Shot Chart Detail,0020500817,420,2072,Michael Redd,1610612749,Milwaukee Bucks,4,6,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-90,143,1,1,20060225,ATL,MIL
+Shot Chart Detail,0020500817,446,2072,Michael Redd,1610612749,Milwaukee Bucks,4,4,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,223,118,1,1,20060225,ATL,MIL
+Shot Chart Detail,0020500835,38,2072,Michael Redd,1610612749,Milwaukee Bucks,1,7,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060227,DEN,MIL
+Shot Chart Detail,0020500835,61,2072,Michael Redd,1610612749,Milwaukee Bucks,1,4,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,49,181,1,1,20060227,DEN,MIL
+Shot Chart Detail,0020500835,73,2072,Michael Redd,1610612749,Milwaukee Bucks,1,3,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,23,163,168,1,1,20060227,DEN,MIL
+Shot Chart Detail,0020500835,155,2072,Michael Redd,1610612749,Milwaukee Bucks,2,6,11,Made Shot,Fadeaway Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,240,0,1,1,20060227,DEN,MIL
+Shot Chart Detail,0020500835,192,2072,Michael Redd,1610612749,Milwaukee Bucks,2,2,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,205,132,1,1,20060227,DEN,MIL
+Shot Chart Detail,0020500835,236,2072,Michael Redd,1610612749,Milwaukee Bucks,3,10,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,205,133,1,1,20060227,DEN,MIL
+Shot Chart Detail,0020500835,246,2072,Michael Redd,1610612749,Milwaukee Bucks,3,8,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-169,91,1,1,20060227,DEN,MIL
+Shot Chart Detail,0020500851,40,2072,Michael Redd,1610612749,Milwaukee Bucks,1,6,36,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-149,2,1,1,20060301,PHX,MIL
+Shot Chart Detail,0020500851,103,2072,Michael Redd,1610612749,Milwaukee Bucks,1,0,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,143,145,1,1,20060301,PHX,MIL
+Shot Chart Detail,0020500851,113,2072,Michael Redd,1610612749,Milwaukee Bucks,2,11,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,163,7,1,1,20060301,PHX,MIL
+Shot Chart Detail,0020500851,210,2072,Michael Redd,1610612749,Milwaukee Bucks,2,3,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060301,PHX,MIL
+Shot Chart Detail,0020500851,228,2072,Michael Redd,1610612749,Milwaukee Bucks,2,1,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060301,PHX,MIL
+Shot Chart Detail,0020500851,289,2072,Michael Redd,1610612749,Milwaukee Bucks,3,6,58,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060301,PHX,MIL
+Shot Chart Detail,0020500851,311,2072,Michael Redd,1610612749,Milwaukee Bucks,3,5,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,103,128,1,1,20060301,PHX,MIL
+Shot Chart Detail,0020500851,346,2072,Michael Redd,1610612749,Milwaukee Bucks,3,2,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,153,150,1,1,20060301,PHX,MIL
+Shot Chart Detail,0020500851,356,2072,Michael Redd,1610612749,Milwaukee Bucks,3,1,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,166,15,1,1,20060301,PHX,MIL
+Shot Chart Detail,0020500851,372,2072,Michael Redd,1610612749,Milwaukee Bucks,4,11,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,102,189,1,1,20060301,PHX,MIL
+Shot Chart Detail,0020500851,375,2072,Michael Redd,1610612749,Milwaukee Bucks,4,11,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-148,118,1,1,20060301,PHX,MIL
+Shot Chart Detail,0020500851,404,2072,Michael Redd,1610612749,Milwaukee Bucks,4,8,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,161,202,1,1,20060301,PHX,MIL
+Shot Chart Detail,0020500851,423,2072,Michael Redd,1610612749,Milwaukee Bucks,4,6,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060301,PHX,MIL
+Shot Chart Detail,0020500870,17,2072,Michael Redd,1610612749,Milwaukee Bucks,1,10,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-94,114,1,1,20060304,MIL,NYK
+Shot Chart Detail,0020500870,82,2072,Michael Redd,1610612749,Milwaukee Bucks,1,3,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-118,143,1,1,20060304,MIL,NYK
+Shot Chart Detail,0020500870,116,2072,Michael Redd,1610612749,Milwaukee Bucks,2,11,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060304,MIL,NYK
+Shot Chart Detail,0020500870,134,2072,Michael Redd,1610612749,Milwaukee Bucks,2,9,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060304,MIL,NYK
+Shot Chart Detail,0020500870,217,2072,Michael Redd,1610612749,Milwaukee Bucks,2,0,0,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,-5,1,1,20060304,MIL,NYK
+Shot Chart Detail,0020500870,235,2072,Michael Redd,1610612749,Milwaukee Bucks,3,9,26,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,54,1,1,20060304,MIL,NYK
+Shot Chart Detail,0020500870,238,2072,Michael Redd,1610612749,Milwaukee Bucks,3,8,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,115,135,1,1,20060304,MIL,NYK
+Shot Chart Detail,0020500870,368,2072,Michael Redd,1610612749,Milwaukee Bucks,4,7,35,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060304,MIL,NYK
+Shot Chart Detail,0020500870,424,2072,Michael Redd,1610612749,Milwaukee Bucks,4,0,26,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-31,0,1,1,20060304,MIL,NYK
+Shot Chart Detail,0020500902,39,2072,Michael Redd,1610612749,Milwaukee Bucks,1,8,4,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,0,1,1,20060308,MIL,SAC
+Shot Chart Detail,0020500902,45,2072,Michael Redd,1610612749,Milwaukee Bucks,1,7,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060308,MIL,SAC
+Shot Chart Detail,0020500902,60,2072,Michael Redd,1610612749,Milwaukee Bucks,1,5,29,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,-11,1,1,20060308,MIL,SAC
+Shot Chart Detail,0020500902,143,2072,Michael Redd,1610612749,Milwaukee Bucks,2,8,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,205,17,1,1,20060308,MIL,SAC
+Shot Chart Detail,0020500902,211,2072,Michael Redd,1610612749,Milwaukee Bucks,2,1,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-148,-18,1,1,20060308,MIL,SAC
+Shot Chart Detail,0020500902,225,2072,Michael Redd,1610612749,Milwaukee Bucks,2,0,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-156,17,1,1,20060308,MIL,SAC
+Shot Chart Detail,0020500902,255,2072,Michael Redd,1610612749,Milwaukee Bucks,3,9,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,22,-207,92,1,1,20060308,MIL,SAC
+Shot Chart Detail,0020500902,276,2072,Michael Redd,1610612749,Milwaukee Bucks,3,6,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,79,150,1,1,20060308,MIL,SAC
+Shot Chart Detail,0020500902,312,2072,Michael Redd,1610612749,Milwaukee Bucks,3,4,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,153,-5,1,1,20060308,MIL,SAC
+Shot Chart Detail,0020500902,360,2072,Michael Redd,1610612749,Milwaukee Bucks,4,8,38,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-29,31,1,1,20060308,MIL,SAC
+Shot Chart Detail,0020500902,370,2072,Michael Redd,1610612749,Milwaukee Bucks,4,7,17,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,141,53,1,1,20060308,MIL,SAC
+Shot Chart Detail,0020500902,374,2072,Michael Redd,1610612749,Milwaukee Bucks,4,6,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060308,MIL,SAC
+Shot Chart Detail,0020500902,446,2072,Michael Redd,1610612749,Milwaukee Bucks,4,0,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-210,151,1,1,20060308,MIL,SAC
+Shot Chart Detail,0020500912,4,2072,Michael Redd,1610612749,Milwaukee Bucks,1,11,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,12,1,1,20060310,BOS,MIL
+Shot Chart Detail,0020500912,92,2072,Michael Redd,1610612749,Milwaukee Bucks,1,1,8,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,0,1,1,20060310,BOS,MIL
+Shot Chart Detail,0020500912,186,2072,Michael Redd,1610612749,Milwaukee Bucks,2,3,49,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,10,1,1,20060310,BOS,MIL
+Shot Chart Detail,0020500912,219,2072,Michael Redd,1610612749,Milwaukee Bucks,3,11,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-25,243,1,1,20060310,BOS,MIL
+Shot Chart Detail,0020500912,295,2072,Michael Redd,1610612749,Milwaukee Bucks,3,1,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,8,1,1,20060310,BOS,MIL
+Shot Chart Detail,0020500912,375,2072,Michael Redd,1610612749,Milwaukee Bucks,4,7,9,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,0,1,1,20060310,BOS,MIL
+Shot Chart Detail,0020500912,387,2072,Michael Redd,1610612749,Milwaukee Bucks,4,6,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,8,-6,1,1,20060310,BOS,MIL
+Shot Chart Detail,0020500923,29,2072,Michael Redd,1610612749,Milwaukee Bucks,1,6,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060311,MIL,LAC
+Shot Chart Detail,0020500923,37,2072,Michael Redd,1610612749,Milwaukee Bucks,1,5,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,200,161,1,1,20060311,MIL,LAC
+Shot Chart Detail,0020500923,173,2072,Michael Redd,1610612749,Milwaukee Bucks,2,3,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,205,178,1,1,20060311,MIL,LAC
+Shot Chart Detail,0020500923,202,2072,Michael Redd,1610612749,Milwaukee Bucks,2,1,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,0,181,1,1,20060311,MIL,LAC
+Shot Chart Detail,0020500923,321,2072,Michael Redd,1610612749,Milwaukee Bucks,3,1,16,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060311,MIL,LAC
+Shot Chart Detail,0020500923,324,2072,Michael Redd,1610612749,Milwaukee Bucks,3,0,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-113,31,1,1,20060311,MIL,LAC
+Shot Chart Detail,0020500923,329,2072,Michael Redd,1610612749,Milwaukee Bucks,3,0,29,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060311,MIL,LAC
+Shot Chart Detail,0020500923,350,2072,Michael Redd,1610612749,Milwaukee Bucks,4,9,58,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,0,109,1,1,20060311,MIL,LAC
+Shot Chart Detail,0020500938,28,2072,Michael Redd,1610612749,Milwaukee Bucks,1,8,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060313,MIL,ATL
+Shot Chart Detail,0020500938,197,2072,Michael Redd,1610612749,Milwaukee Bucks,2,1,42,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-71,33,1,1,20060313,MIL,ATL
+Shot Chart Detail,0020500938,226,2072,Michael Redd,1610612749,Milwaukee Bucks,2,0,6,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060313,MIL,ATL
+Shot Chart Detail,0020500938,248,2072,Michael Redd,1610612749,Milwaukee Bucks,3,10,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060313,MIL,ATL
+Shot Chart Detail,0020500938,256,2072,Michael Redd,1610612749,Milwaukee Bucks,3,9,16,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,228,82,1,1,20060313,MIL,ATL
+Shot Chart Detail,0020500938,314,2072,Michael Redd,1610612749,Milwaukee Bucks,3,3,29,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-46,43,1,1,20060313,MIL,ATL
+Shot Chart Detail,0020500956,22,2072,Michael Redd,1610612749,Milwaukee Bucks,1,9,26,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,236,0,1,1,20060315,MIL,CHI
+Shot Chart Detail,0020500956,64,2072,Michael Redd,1610612749,Milwaukee Bucks,1,5,47,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060315,MIL,CHI
+Shot Chart Detail,0020500956,79,2072,Michael Redd,1610612749,Milwaukee Bucks,1,4,36,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060315,MIL,CHI
+Shot Chart Detail,0020500956,221,2072,Michael Redd,1610612749,Milwaukee Bucks,2,1,8,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-52,97,1,1,20060315,MIL,CHI
+Shot Chart Detail,0020500956,225,2072,Michael Redd,1610612749,Milwaukee Bucks,2,0,7,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060315,MIL,CHI
+Shot Chart Detail,0020500956,290,2072,Michael Redd,1610612749,Milwaukee Bucks,3,5,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060315,MIL,CHI
+Shot Chart Detail,0020500956,301,2072,Michael Redd,1610612749,Milwaukee Bucks,3,4,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060315,MIL,CHI
+Shot Chart Detail,0020500956,393,2072,Michael Redd,1610612749,Milwaukee Bucks,4,7,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,15,140,1,1,20060315,MIL,CHI
+Shot Chart Detail,0020500963,18,2072,Michael Redd,1610612749,Milwaukee Bucks,1,10,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060317,TOR,MIL
+Shot Chart Detail,0020500963,50,2072,Michael Redd,1610612749,Milwaukee Bucks,1,6,2,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060317,TOR,MIL
+Shot Chart Detail,0020500963,110,2072,Michael Redd,1610612749,Milwaukee Bucks,1,0,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-21,250,1,1,20060317,TOR,MIL
+Shot Chart Detail,0020500963,209,2072,Michael Redd,1610612749,Milwaukee Bucks,2,2,39,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060317,TOR,MIL
+Shot Chart Detail,0020500963,285,2072,Michael Redd,1610612749,Milwaukee Bucks,3,6,7,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,0,1,1,20060317,TOR,MIL
+Shot Chart Detail,0020500963,347,2072,Michael Redd,1610612749,Milwaukee Bucks,3,0,41,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060317,TOR,MIL
+Shot Chart Detail,0020500963,468,2072,Michael Redd,1610612749,Milwaukee Bucks,4,0,37,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060317,TOR,MIL
+Shot Chart Detail,0020500977,57,2072,Michael Redd,1610612749,Milwaukee Bucks,1,6,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060318,MIL,POR
+Shot Chart Detail,0020500977,62,2072,Michael Redd,1610612749,Milwaukee Bucks,1,5,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-133,-1,1,1,20060318,MIL,POR
+Shot Chart Detail,0020500977,69,2072,Michael Redd,1610612749,Milwaukee Bucks,1,5,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,82,163,1,1,20060318,MIL,POR
+Shot Chart Detail,0020500977,81,2072,Michael Redd,1610612749,Milwaukee Bucks,1,3,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060318,MIL,POR
+Shot Chart Detail,0020500977,173,2072,Michael Redd,1610612749,Milwaukee Bucks,2,8,14,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060318,MIL,POR
+Shot Chart Detail,0020500977,189,2072,Michael Redd,1610612749,Milwaukee Bucks,2,6,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,189,-19,1,1,20060318,MIL,POR
+Shot Chart Detail,0020500977,192,2072,Michael Redd,1610612749,Milwaukee Bucks,2,6,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,213,141,1,1,20060318,MIL,POR
+Shot Chart Detail,0020500977,210,2072,Michael Redd,1610612749,Milwaukee Bucks,2,3,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060318,MIL,POR
+Shot Chart Detail,0020500977,224,2072,Michael Redd,1610612749,Milwaukee Bucks,2,2,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-143,-16,1,1,20060318,MIL,POR
+Shot Chart Detail,0020500977,234,2072,Michael Redd,1610612749,Milwaukee Bucks,2,0,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-84,-21,1,1,20060318,MIL,POR
+Shot Chart Detail,0020500977,252,2072,Michael Redd,1610612749,Milwaukee Bucks,3,11,21,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,-6,1,1,20060318,MIL,POR
+Shot Chart Detail,0020500977,371,2072,Michael Redd,1610612749,Milwaukee Bucks,4,8,28,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,143,-9,1,1,20060318,MIL,POR
+Shot Chart Detail,0020500991,34,2072,Michael Redd,1610612749,Milwaukee Bucks,1,7,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,121,49,1,1,20060320,POR,MIL
+Shot Chart Detail,0020500991,53,2072,Michael Redd,1610612749,Milwaukee Bucks,1,5,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060320,POR,MIL
+Shot Chart Detail,0020500991,71,2072,Michael Redd,1610612749,Milwaukee Bucks,1,3,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,166,189,1,1,20060320,POR,MIL
+Shot Chart Detail,0020500991,75,2072,Michael Redd,1610612749,Milwaukee Bucks,1,2,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060320,POR,MIL
+Shot Chart Detail,0020500991,199,2072,Michael Redd,1610612749,Milwaukee Bucks,2,2,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,205,141,1,1,20060320,POR,MIL
+Shot Chart Detail,0020500991,274,2072,Michael Redd,1610612749,Milwaukee Bucks,3,5,37,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060320,POR,MIL
+Shot Chart Detail,0020500991,376,2072,Michael Redd,1610612749,Milwaukee Bucks,4,6,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-177,59,1,1,20060320,POR,MIL
+Shot Chart Detail,0020500991,417,2072,Michael Redd,1610612749,Milwaukee Bucks,4,2,43,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060320,POR,MIL
+Shot Chart Detail,0020501009,2,2072,Michael Redd,1610612749,Milwaukee Bucks,1,11,45,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-172,-6,1,1,20060322,SEA,MIL
+Shot Chart Detail,0020501009,8,2072,Michael Redd,1610612749,Milwaukee Bucks,1,11,12,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-36,28,1,1,20060322,SEA,MIL
+Shot Chart Detail,0020501009,75,2072,Michael Redd,1610612749,Milwaukee Bucks,1,4,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,77,174,1,1,20060322,SEA,MIL
+Shot Chart Detail,0020501009,328,2072,Michael Redd,1610612749,Milwaukee Bucks,3,8,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,144,215,1,1,20060322,SEA,MIL
+Shot Chart Detail,0020501009,334,2072,Michael Redd,1610612749,Milwaukee Bucks,3,7,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-172,7,1,1,20060322,SEA,MIL
+Shot Chart Detail,0020501009,353,2072,Michael Redd,1610612749,Milwaukee Bucks,3,6,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-179,41,1,1,20060322,SEA,MIL
+Shot Chart Detail,0020501009,361,2072,Michael Redd,1610612749,Milwaukee Bucks,3,5,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-48,192,1,1,20060322,SEA,MIL
+Shot Chart Detail,0020501009,476,2072,Michael Redd,1610612749,Milwaukee Bucks,4,9,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060322,SEA,MIL
+Shot Chart Detail,0020501026,51,2072,Michael Redd,1610612749,Milwaukee Bucks,1,6,59,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060324,LAL,MIL
+Shot Chart Detail,0020501026,74,2072,Michael Redd,1610612749,Milwaukee Bucks,1,4,10,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-243,26,1,1,20060324,LAL,MIL
+Shot Chart Detail,0020501026,80,2072,Michael Redd,1610612749,Milwaukee Bucks,1,3,13,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,61,137,1,1,20060324,LAL,MIL
+Shot Chart Detail,0020501026,216,2072,Michael Redd,1610612749,Milwaukee Bucks,2,1,50,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-222,13,1,1,20060324,LAL,MIL
+Shot Chart Detail,0020501026,261,2072,Michael Redd,1610612749,Milwaukee Bucks,3,8,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,144,196,1,1,20060324,LAL,MIL
+Shot Chart Detail,0020501026,426,2072,Michael Redd,1610612749,Milwaukee Bucks,4,2,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-95,178,1,1,20060324,LAL,MIL
+Shot Chart Detail,0020501036,14,2072,Michael Redd,1610612749,Milwaukee Bucks,1,10,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,112,104,1,1,20060326,MIL,TOR
+Shot Chart Detail,0020501036,43,2072,Michael Redd,1610612749,Milwaukee Bucks,1,7,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,194,186,1,1,20060326,MIL,TOR
+Shot Chart Detail,0020501036,73,2072,Michael Redd,1610612749,Milwaukee Bucks,1,3,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060326,MIL,TOR
+Shot Chart Detail,0020501036,280,2072,Michael Redd,1610612749,Milwaukee Bucks,3,6,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060326,MIL,TOR
+Shot Chart Detail,0020501036,304,2072,Michael Redd,1610612749,Milwaukee Bucks,3,2,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,144,229,1,1,20060326,MIL,TOR
+Shot Chart Detail,0020501036,377,2072,Michael Redd,1610612749,Milwaukee Bucks,4,7,12,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,15,1,1,20060326,MIL,TOR
+Shot Chart Detail,0020501036,422,2072,Michael Redd,1610612749,Milwaukee Bucks,4,2,57,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060326,MIL,TOR
+Shot Chart Detail,0020501036,467,2072,Michael Redd,1610612749,Milwaukee Bucks,5,3,29,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,95,-21,1,1,20060326,MIL,TOR
+Shot Chart Detail,0020501036,472,2072,Michael Redd,1610612749,Milwaukee Bucks,5,2,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-67,248,1,1,20060326,MIL,TOR
+Shot Chart Detail,0020501049,43,2072,Michael Redd,1610612749,Milwaukee Bucks,1,6,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,29,195,215,1,1,20060328,MIL,PHX
+Shot Chart Detail,0020501049,117,2072,Michael Redd,1610612749,Milwaukee Bucks,2,10,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060328,MIL,PHX
+Shot Chart Detail,0020501049,258,2072,Michael Redd,1610612749,Milwaukee Bucks,3,5,27,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,233,69,1,1,20060328,MIL,PHX
+Shot Chart Detail,0020501049,263,2072,Michael Redd,1610612749,Milwaukee Bucks,3,4,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,136,225,1,1,20060328,MIL,PHX
+Shot Chart Detail,0020501049,268,2072,Michael Redd,1610612749,Milwaukee Bucks,3,3,10,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-230,71,1,1,20060328,MIL,PHX
+Shot Chart Detail,0020501049,302,2072,Michael Redd,1610612749,Milwaukee Bucks,3,0,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060328,MIL,PHX
+Shot Chart Detail,0020501049,307,2072,Michael Redd,1610612749,Milwaukee Bucks,3,0,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-195,186,1,1,20060328,MIL,PHX
+Shot Chart Detail,0020501049,350,2072,Michael Redd,1610612749,Milwaukee Bucks,4,7,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,174,202,1,1,20060328,MIL,PHX
+Shot Chart Detail,0020501049,386,2072,Michael Redd,1610612749,Milwaukee Bucks,4,3,45,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-26,33,1,1,20060328,MIL,PHX
+Shot Chart Detail,0020501072,7,2072,Michael Redd,1610612749,Milwaukee Bucks,1,11,21,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,-6,1,1,20060331,DET,MIL
+Shot Chart Detail,0020501072,20,2072,Michael Redd,1610612749,Milwaukee Bucks,1,9,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-174,192,1,1,20060331,DET,MIL
+Shot Chart Detail,0020501072,22,2072,Michael Redd,1610612749,Milwaukee Bucks,1,9,23,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060331,DET,MIL
+Shot Chart Detail,0020501072,62,2072,Michael Redd,1610612749,Milwaukee Bucks,1,3,46,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060331,DET,MIL
+Shot Chart Detail,0020501072,103,2072,Michael Redd,1610612749,Milwaukee Bucks,2,10,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060331,DET,MIL
+Shot Chart Detail,0020501072,181,2072,Michael Redd,1610612749,Milwaukee Bucks,2,2,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-6,265,1,1,20060331,DET,MIL
+Shot Chart Detail,0020501072,188,2072,Michael Redd,1610612749,Milwaukee Bucks,2,2,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060331,DET,MIL
+Shot Chart Detail,0020501072,194,2072,Michael Redd,1610612749,Milwaukee Bucks,2,1,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,204,155,1,1,20060331,DET,MIL
+Shot Chart Detail,0020501072,196,2072,Michael Redd,1610612749,Milwaukee Bucks,2,1,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-122,224,1,1,20060331,DET,MIL
+Shot Chart Detail,0020501072,207,2072,Michael Redd,1610612749,Milwaukee Bucks,3,11,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,212,146,1,1,20060331,DET,MIL
+Shot Chart Detail,0020501072,278,2072,Michael Redd,1610612749,Milwaukee Bucks,3,3,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-164,145,1,1,20060331,DET,MIL
+Shot Chart Detail,0020501072,401,2072,Michael Redd,1610612749,Milwaukee Bucks,4,3,9,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,110,22,1,1,20060331,DET,MIL
+Shot Chart Detail,0020501072,414,2072,Michael Redd,1610612749,Milwaukee Bucks,4,1,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-136,86,1,1,20060331,DET,MIL
+Shot Chart Detail,0020501081,14,2072,Michael Redd,1610612749,Milwaukee Bucks,1,9,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-108,171,1,1,20060401,MIL,IND
+Shot Chart Detail,0020501081,28,2072,Michael Redd,1610612749,Milwaukee Bucks,1,8,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,95,115,1,1,20060401,MIL,IND
+Shot Chart Detail,0020501081,54,2072,Michael Redd,1610612749,Milwaukee Bucks,1,4,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060401,MIL,IND
+Shot Chart Detail,0020501081,199,2072,Michael Redd,1610612749,Milwaukee Bucks,2,1,16,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-43,23,1,1,20060401,MIL,IND
+Shot Chart Detail,0020501081,209,2072,Michael Redd,1610612749,Milwaukee Bucks,2,0,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060401,MIL,IND
+Shot Chart Detail,0020501081,215,2072,Michael Redd,1610612749,Milwaukee Bucks,3,11,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-136,64,1,1,20060401,MIL,IND
+Shot Chart Detail,0020501081,222,2072,Michael Redd,1610612749,Milwaukee Bucks,3,10,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,67,158,1,1,20060401,MIL,IND
+Shot Chart Detail,0020501081,224,2072,Michael Redd,1610612749,Milwaukee Bucks,3,10,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060401,MIL,IND
+Shot Chart Detail,0020501081,228,2072,Michael Redd,1610612749,Milwaukee Bucks,3,9,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,184,-24,1,1,20060401,MIL,IND
+Shot Chart Detail,0020501081,230,2072,Michael Redd,1610612749,Milwaukee Bucks,3,8,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-200,164,1,1,20060401,MIL,IND
+Shot Chart Detail,0020501081,237,2072,Michael Redd,1610612749,Milwaukee Bucks,3,7,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-195,158,1,1,20060401,MIL,IND
+Shot Chart Detail,0020501081,274,2072,Michael Redd,1610612749,Milwaukee Bucks,3,3,20,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,-14,1,1,20060401,MIL,IND
+Shot Chart Detail,0020501081,283,2072,Michael Redd,1610612749,Milwaukee Bucks,3,2,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,125,240,1,1,20060401,MIL,IND
+Shot Chart Detail,0020501081,310,2072,Michael Redd,1610612749,Milwaukee Bucks,4,11,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-146,35,1,1,20060401,MIL,IND
+Shot Chart Detail,0020501081,365,2072,Michael Redd,1610612749,Milwaukee Bucks,4,5,17,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,69,-5,1,1,20060401,MIL,IND
+Shot Chart Detail,0020501081,394,2072,Michael Redd,1610612749,Milwaukee Bucks,4,1,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,167,202,1,1,20060401,MIL,IND
+Shot Chart Detail,0020501100,100,2072,Michael Redd,1610612749,Milwaukee Bucks,1,0,53,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060404,MIA,MIL
+Shot Chart Detail,0020501100,249,2072,Michael Redd,1610612749,Milwaukee Bucks,3,11,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-161,94,1,1,20060404,MIA,MIL
+Shot Chart Detail,0020501100,252,2072,Michael Redd,1610612749,Milwaukee Bucks,3,11,10,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,51,35,1,1,20060404,MIA,MIL
+Shot Chart Detail,0020501100,286,2072,Michael Redd,1610612749,Milwaukee Bucks,3,7,48,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-5,66,1,1,20060404,MIA,MIL
+Shot Chart Detail,0020501100,321,2072,Michael Redd,1610612749,Milwaukee Bucks,3,4,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,-192,94,1,1,20060404,MIA,MIL
+Shot Chart Detail,0020501111,68,2072,Michael Redd,1610612749,Milwaukee Bucks,1,4,17,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,12,-64,110,1,1,20060405,ORL,MIL
+Shot Chart Detail,0020501111,102,2072,Michael Redd,1610612749,Milwaukee Bucks,1,1,0,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,105,40,1,1,20060405,ORL,MIL
+Shot Chart Detail,0020501111,226,2072,Michael Redd,1610612749,Milwaukee Bucks,2,1,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060405,ORL,MIL
+Shot Chart Detail,0020501111,236,2072,Michael Redd,1610612749,Milwaukee Bucks,2,0,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-163,214,1,1,20060405,ORL,MIL
+Shot Chart Detail,0020501111,308,2072,Michael Redd,1610612749,Milwaukee Bucks,3,4,23,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060405,ORL,MIL
+Shot Chart Detail,0020501111,332,2072,Michael Redd,1610612749,Milwaukee Bucks,3,1,56,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060405,ORL,MIL
+Shot Chart Detail,0020501111,334,2072,Michael Redd,1610612749,Milwaukee Bucks,3,1,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060405,ORL,MIL
+Shot Chart Detail,0020501111,460,2072,Michael Redd,1610612749,Milwaukee Bucks,4,0,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060405,ORL,MIL
+Shot Chart Detail,0020501125,67,2072,Michael Redd,1610612749,Milwaukee Bucks,1,3,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-136,158,1,1,20060407,MEM,MIL
+Shot Chart Detail,0020501125,307,2072,Michael Redd,1610612749,Milwaukee Bucks,3,2,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,177,186,1,1,20060407,MEM,MIL
+Shot Chart Detail,0020501125,317,2072,Michael Redd,1610612749,Milwaukee Bucks,3,1,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,131,212,1,1,20060407,MEM,MIL
+Shot Chart Detail,0020501125,400,2072,Michael Redd,1610612749,Milwaukee Bucks,4,5,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-117,146,1,1,20060407,MEM,MIL
+Shot Chart Detail,0020501125,412,2072,Michael Redd,1610612749,Milwaukee Bucks,4,4,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,182,10,1,1,20060407,MEM,MIL
+Shot Chart Detail,0020501125,434,2072,Michael Redd,1610612749,Milwaukee Bucks,4,2,42,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060407,MEM,MIL
+Shot Chart Detail,0020501125,446,2072,Michael Redd,1610612749,Milwaukee Bucks,4,1,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,31,238,1,1,20060407,MEM,MIL
+Shot Chart Detail,0020501142,13,2072,Michael Redd,1610612749,Milwaukee Bucks,1,10,40,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060409,MIL,NJN
+Shot Chart Detail,0020501142,147,2072,Michael Redd,1610612749,Milwaukee Bucks,2,8,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060409,MIL,NJN
+Shot Chart Detail,0020501142,172,2072,Michael Redd,1610612749,Milwaukee Bucks,2,6,13,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,232,82,1,1,20060409,MIL,NJN
+Shot Chart Detail,0020501142,243,2072,Michael Redd,1610612749,Milwaukee Bucks,3,10,54,Made Shot,Running Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,-8,1,1,20060409,MIL,NJN
+Shot Chart Detail,0020501142,246,2072,Michael Redd,1610612749,Milwaukee Bucks,3,10,23,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,5,31,1,1,20060409,MIL,NJN
+Shot Chart Detail,0020501142,375,2072,Michael Redd,1610612749,Milwaukee Bucks,4,8,46,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060409,MIL,NJN
+Shot Chart Detail,0020501168,20,2072,Michael Redd,1610612749,Milwaukee Bucks,1,9,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,82,105,1,1,20060412,MIL,WAS
+Shot Chart Detail,0020501168,218,2072,Michael Redd,1610612749,Milwaukee Bucks,3,11,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,117,43,1,1,20060412,MIL,WAS
+Shot Chart Detail,0020501168,229,2072,Michael Redd,1610612749,Milwaukee Bucks,3,9,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,161,2,1,1,20060412,MIL,WAS
+Shot Chart Detail,0020501168,231,2072,Michael Redd,1610612749,Milwaukee Bucks,3,8,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-163,197,1,1,20060412,MIL,WAS
+Shot Chart Detail,0020501168,298,2072,Michael Redd,1610612749,Milwaukee Bucks,3,1,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-64,171,1,1,20060412,MIL,WAS
+Shot Chart Detail,0020501168,383,2072,Michael Redd,1610612749,Milwaukee Bucks,4,7,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-85,140,1,1,20060412,MIL,WAS
+Shot Chart Detail,0020501168,387,2072,Michael Redd,1610612749,Milwaukee Bucks,4,6,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-141,53,1,1,20060412,MIL,WAS
+Shot Chart Detail,0020501168,446,2072,Michael Redd,1610612749,Milwaukee Bucks,4,0,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060412,MIL,WAS
+Shot Chart Detail,0020501168,454,2072,Michael Redd,1610612749,Milwaukee Bucks,4,0,19,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-41,33,1,1,20060412,MIL,WAS
+Shot Chart Detail,0020501180,8,2072,Michael Redd,1610612749,Milwaukee Bucks,1,10,20,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,8,132,1,1,20060414,NYK,MIL
+Shot Chart Detail,0020501180,15,2072,Michael Redd,1610612749,Milwaukee Bucks,1,9,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,153,192,1,1,20060414,NYK,MIL
+Shot Chart Detail,0020501180,56,2072,Michael Redd,1610612749,Milwaukee Bucks,1,4,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060414,NYK,MIL
+Shot Chart Detail,0020501180,83,2072,Michael Redd,1610612749,Milwaukee Bucks,1,1,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-23,146,1,1,20060414,NYK,MIL
+Shot Chart Detail,0020501180,94,2072,Michael Redd,1610612749,Milwaukee Bucks,1,0,38,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060414,NYK,MIL
+Shot Chart Detail,0020501180,194,2072,Michael Redd,1610612749,Milwaukee Bucks,2,3,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,197,0,1,1,20060414,NYK,MIL
+Shot Chart Detail,0020501180,208,2072,Michael Redd,1610612749,Milwaukee Bucks,2,2,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-189,77,1,1,20060414,NYK,MIL
+Shot Chart Detail,0020501180,282,2072,Michael Redd,1610612749,Milwaukee Bucks,3,6,45,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,228,49,1,1,20060414,NYK,MIL
+Shot Chart Detail,0020501180,284,2072,Michael Redd,1610612749,Milwaukee Bucks,3,6,27,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060414,NYK,MIL
+Shot Chart Detail,0020501190,9,2072,Michael Redd,1610612749,Milwaukee Bucks,1,10,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060415,MIL,ATL
+Shot Chart Detail,0020501190,77,2072,Michael Redd,1610612749,Milwaukee Bucks,1,2,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060415,MIL,ATL
+Shot Chart Detail,0020501190,80,2072,Michael Redd,1610612749,Milwaukee Bucks,1,1,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060415,MIL,ATL
+Shot Chart Detail,0020501190,119,2072,Michael Redd,1610612749,Milwaukee Bucks,2,9,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060415,MIL,ATL
+Shot Chart Detail,0020501190,220,2072,Michael Redd,1610612749,Milwaukee Bucks,2,1,30,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,-6,1,1,20060415,MIL,ATL
+Shot Chart Detail,0020501190,250,2072,Michael Redd,1610612749,Milwaukee Bucks,3,10,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-2,288,1,1,20060415,MIL,ATL
+Shot Chart Detail,0020501190,317,2072,Michael Redd,1610612749,Milwaukee Bucks,3,3,6,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-10,64,1,1,20060415,MIL,ATL
+Shot Chart Detail,0020501190,320,2072,Michael Redd,1610612749,Milwaukee Bucks,3,2,24,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060415,MIL,ATL
+Shot Chart Detail,0020501190,406,2072,Michael Redd,1610612749,Milwaukee Bucks,4,6,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060415,MIL,ATL
+Shot Chart Detail,0020501190,448,2072,Michael Redd,1610612749,Milwaukee Bucks,4,2,3,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-228,71,1,1,20060415,MIL,ATL
+Shot Chart Detail,0020501190,468,2072,Michael Redd,1610612749,Milwaukee Bucks,4,0,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-62,253,1,1,20060415,MIL,ATL
+Shot Chart Detail,0020501207,94,2072,Michael Redd,1610612749,Milwaukee Bucks,1,0,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,64,158,1,1,20060417,MIL,DET
+Shot Chart Detail,0020501207,146,2072,Michael Redd,1610612749,Milwaukee Bucks,2,6,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,98,110,1,1,20060417,MIL,DET
+Shot Chart Detail,0020501207,164,2072,Michael Redd,1610612749,Milwaukee Bucks,2,4,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060417,MIL,DET
+Shot Chart Detail,0020501207,207,2072,Michael Redd,1610612749,Milwaukee Bucks,2,0,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060417,MIL,DET
+Shot Chart Detail,0020501207,240,2072,Michael Redd,1610612749,Milwaukee Bucks,3,8,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,202,168,1,1,20060417,MIL,DET
+Shot Chart Detail,0020501207,282,2072,Michael Redd,1610612749,Milwaukee Bucks,3,4,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060417,MIL,DET
+Shot Chart Detail,0020501207,299,2072,Michael Redd,1610612749,Milwaukee Bucks,3,3,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-131,115,1,1,20060417,MIL,DET
+Shot Chart Detail,0020501207,302,2072,Michael Redd,1610612749,Milwaukee Bucks,3,2,23,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,238,-28,1,1,20060417,MIL,DET
+Shot Chart Detail,0020501213,44,2072,Michael Redd,1610612749,Milwaukee Bucks,1,6,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,156,204,1,1,20060418,WAS,MIL
+Shot Chart Detail,0020501213,76,2072,Michael Redd,1610612749,Milwaukee Bucks,1,2,49,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-3,1,1,20060418,WAS,MIL
+Shot Chart Detail,0020501213,168,2072,Michael Redd,1610612749,Milwaukee Bucks,2,4,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,21,212,-28,1,1,20060418,WAS,MIL
+Shot Chart Detail,0020501213,208,2072,Michael Redd,1610612749,Milwaukee Bucks,2,0,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,-11,1,1,20060418,WAS,MIL
+Shot Chart Detail,0020501213,233,2072,Michael Redd,1610612749,Milwaukee Bucks,3,9,42,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-172,63,1,1,20060418,WAS,MIL
+Shot Chart Detail,0020501213,253,2072,Michael Redd,1610612749,Milwaukee Bucks,3,7,16,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,-24,1,1,20060418,WAS,MIL
+Shot Chart Detail,0020501213,273,2072,Michael Redd,1610612749,Milwaukee Bucks,3,4,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,21,258,1,1,20060418,WAS,MIL
+Shot Chart Detail,0020501213,275,2072,Michael Redd,1610612749,Milwaukee Bucks,3,3,50,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,71,123,1,1,20060418,WAS,MIL
+Shot Chart Detail,0020501213,279,2072,Michael Redd,1610612749,Milwaukee Bucks,3,3,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-192,74,1,1,20060418,WAS,MIL
+Shot Chart Detail,0020501213,283,2072,Michael Redd,1610612749,Milwaukee Bucks,3,2,45,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,71,125,1,1,20060418,WAS,MIL
+Shot Chart Detail,0020501213,343,2072,Michael Redd,1610612749,Milwaukee Bucks,4,11,31,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,105,160,1,1,20060418,WAS,MIL

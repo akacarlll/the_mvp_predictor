@@ -1,0 +1,539 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0020500015,25,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,9,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,118,48,1,1,20051102,SEA,LAC
+Shot Chart Detail,0020500015,47,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,6,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-149,117,1,1,20051102,SEA,LAC
+Shot Chart Detail,0020500015,188,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,5,15,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,12,1,1,20051102,SEA,LAC
+Shot Chart Detail,0020500015,213,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,1,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,205,140,1,1,20051102,SEA,LAC
+Shot Chart Detail,0020500015,307,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,4,33,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,-6,1,1,20051102,SEA,LAC
+Shot Chart Detail,0020500015,414,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,5,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,182,174,1,1,20051102,SEA,LAC
+Shot Chart Detail,0020500030,14,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,9,59,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051104,SEA,MIN
+Shot Chart Detail,0020500030,56,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,4,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-128,82,1,1,20051104,SEA,MIN
+Shot Chart Detail,0020500030,219,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,0,0,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-51,91,1,1,20051104,SEA,MIN
+Shot Chart Detail,0020500030,290,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,4,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,105,100,1,1,20051104,SEA,MIN
+Shot Chart Detail,0020500030,418,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,3,22,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-77,7,1,1,20051104,SEA,MIN
+Shot Chart Detail,0020500053,3,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,11,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,130,36,1,1,20051108,MEM,SEA
+Shot Chart Detail,0020500053,8,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,10,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-74,164,1,1,20051108,MEM,SEA
+Shot Chart Detail,0020500053,161,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,8,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051108,MEM,SEA
+Shot Chart Detail,0020500053,169,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,7,36,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-128,-3,1,1,20051108,MEM,SEA
+Shot Chart Detail,0020500072,2,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,11,52,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,-1,1,1,20051111,WAS,SEA
+Shot Chart Detail,0020500072,24,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,8,9,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-2,45,1,1,20051111,WAS,SEA
+Shot Chart Detail,0020500072,30,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,7,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-171,183,1,1,20051111,WAS,SEA
+Shot Chart Detail,0020500072,62,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,3,33,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,25,1,1,20051111,WAS,SEA
+Shot Chart Detail,0020500072,286,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,11,27,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-94,-23,1,1,20051111,WAS,SEA
+Shot Chart Detail,0020500072,320,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,6,34,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,-6,1,1,20051111,WAS,SEA
+Shot Chart Detail,0020500072,359,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,3,20,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-156,25,1,1,20051111,WAS,SEA
+Shot Chart Detail,0020500089,18,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,10,7,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051113,TOR,SEA
+Shot Chart Detail,0020500089,21,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,9,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,204,153,1,1,20051113,TOR,SEA
+Shot Chart Detail,0020500089,37,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,7,58,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-64,15,1,1,20051113,TOR,SEA
+Shot Chart Detail,0020500089,88,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,3,21,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-3,66,1,1,20051113,TOR,SEA
+Shot Chart Detail,0020500089,152,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,8,31,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,13,1,1,20051113,TOR,SEA
+Shot Chart Detail,0020500089,202,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,3,30,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,3,118,1,1,20051113,TOR,SEA
+Shot Chart Detail,0020500089,338,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,3,40,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,125,54,1,1,20051113,TOR,SEA
+Shot Chart Detail,0020500089,341,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,3,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,166,3,1,1,20051113,TOR,SEA
+Shot Chart Detail,0020500089,345,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,2,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-44,248,1,1,20051113,TOR,SEA
+Shot Chart Detail,0020500089,429,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,7,6,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,87,61,1,1,20051113,TOR,SEA
+Shot Chart Detail,0020500089,432,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,6,33,Made Shot,Finger Roll Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051113,TOR,SEA
+Shot Chart Detail,0020500089,559,1740,Rashard Lewis,1610612760,Seattle SuperSonics,5,2,28,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,0,71,1,1,20051113,TOR,SEA
+Shot Chart Detail,0020500101,21,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,9,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051115,NJN,SEA
+Shot Chart Detail,0020500101,38,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,7,56,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,243,31,1,1,20051115,NJN,SEA
+Shot Chart Detail,0020500101,70,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,3,38,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,85,30,1,1,20051115,NJN,SEA
+Shot Chart Detail,0020500101,103,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,0,26,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,240,-13,1,1,20051115,NJN,SEA
+Shot Chart Detail,0020500101,226,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,0,57,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051115,NJN,SEA
+Shot Chart Detail,0020500101,260,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,8,41,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-130,46,1,1,20051115,NJN,SEA
+Shot Chart Detail,0020500101,281,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,6,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,146,174,1,1,20051115,NJN,SEA
+Shot Chart Detail,0020500101,328,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,2,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,23,-210,112,1,1,20051115,NJN,SEA
+Shot Chart Detail,0020500101,339,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,0,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-143,197,1,1,20051115,NJN,SEA
+Shot Chart Detail,0020500101,407,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,6,4,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051115,NJN,SEA
+Shot Chart Detail,0020500110,31,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,7,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-100,174,1,1,20051116,BOS,SEA
+Shot Chart Detail,0020500110,50,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,4,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-143,117,1,1,20051116,BOS,SEA
+Shot Chart Detail,0020500110,124,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,9,20,Made Shot,Alley Oop Layup shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-49,12,1,1,20051116,BOS,SEA
+Shot Chart Detail,0020500110,134,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,8,7,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,8,-80,0,1,1,20051116,BOS,SEA
+Shot Chart Detail,0020500110,206,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,1,40,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-243,0,1,1,20051116,BOS,SEA
+Shot Chart Detail,0020500110,365,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,8,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,0,1,1,20051116,BOS,SEA
+Shot Chart Detail,0020500110,425,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,1,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,-9,1,1,20051116,BOS,SEA
+Shot Chart Detail,0020500131,34,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,7,2,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051118,SEA,CHI
+Shot Chart Detail,0020500131,53,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,4,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-39,191,1,1,20051118,SEA,CHI
+Shot Chart Detail,0020500131,67,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,2,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-126,104,1,1,20051118,SEA,CHI
+Shot Chart Detail,0020500131,81,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,1,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,161,64,1,1,20051118,SEA,CHI
+Shot Chart Detail,0020500131,107,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,0,3,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,67,17,1,1,20051118,SEA,CHI
+Shot Chart Detail,0020500131,225,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,0,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,23,252,1,1,20051118,SEA,CHI
+Shot Chart Detail,0020500131,278,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,6,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-189,31,1,1,20051118,SEA,CHI
+Shot Chart Detail,0020500131,286,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,5,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-187,46,1,1,20051118,SEA,CHI
+Shot Chart Detail,0020500131,306,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,3,44,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-54,53,1,1,20051118,SEA,CHI
+Shot Chart Detail,0020500131,330,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,0,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,158,202,1,1,20051118,SEA,CHI
+Shot Chart Detail,0020500131,372,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,8,10,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,0,1,1,20051118,SEA,CHI
+Shot Chart Detail,0020500144,20,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,8,57,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-20,45,1,1,20051120,SEA,SAC
+Shot Chart Detail,0020500144,22,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,8,25,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051120,SEA,SAC
+Shot Chart Detail,0020500144,30,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,6,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-136,225,1,1,20051120,SEA,SAC
+Shot Chart Detail,0020500144,32,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,6,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,133,53,1,1,20051120,SEA,SAC
+Shot Chart Detail,0020500144,218,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,10,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,151,191,1,1,20051120,SEA,SAC
+Shot Chart Detail,0020500155,157,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,6,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051122,SEA,UTA
+Shot Chart Detail,0020500155,174,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,5,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-102,51,1,1,20051122,SEA,UTA
+Shot Chart Detail,0020500155,246,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,10,48,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-64,0,1,1,20051122,SEA,UTA
+Shot Chart Detail,0020500155,278,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,6,6,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-241,-1,1,1,20051122,SEA,UTA
+Shot Chart Detail,0020500155,396,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,5,10,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,-5,1,1,20051122,SEA,UTA
+Shot Chart Detail,0020500155,405,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,3,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,144,201,1,1,20051122,SEA,UTA
+Shot Chart Detail,0020500155,407,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,3,13,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-77,-3,1,1,20051122,SEA,UTA
+Shot Chart Detail,0020500155,432,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,1,12,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051122,SEA,UTA
+Shot Chart Detail,0020500168,10,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,10,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,143,102,1,1,20051124,LAL,SEA
+Shot Chart Detail,0020500168,61,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,5,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,131,125,1,1,20051124,LAL,SEA
+Shot Chart Detail,0020500168,137,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,9,40,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-21,100,1,1,20051124,LAL,SEA
+Shot Chart Detail,0020500168,159,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,7,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-202,178,1,1,20051124,LAL,SEA
+Shot Chart Detail,0020500168,178,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,5,42,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-3,46,1,1,20051124,LAL,SEA
+Shot Chart Detail,0020500168,196,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,4,9,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,54,26,1,1,20051124,LAL,SEA
+Shot Chart Detail,0020500168,220,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,2,22,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051124,LAL,SEA
+Shot Chart Detail,0020500168,276,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,9,41,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-6,53,1,1,20051124,LAL,SEA
+Shot Chart Detail,0020500168,285,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,9,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-140,133,1,1,20051124,LAL,SEA
+Shot Chart Detail,0020500168,325,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,4,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-176,192,1,1,20051124,LAL,SEA
+Shot Chart Detail,0020500168,456,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,3,22,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,18,1,1,20051124,LAL,SEA
+Shot Chart Detail,0020500168,460,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,2,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,52,278,1,1,20051124,LAL,SEA
+Shot Chart Detail,0020500181,36,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,8,10,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-102,-11,1,1,20051126,SEA,NOK
+Shot Chart Detail,0020500181,72,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,3,6,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,5,1,1,20051126,SEA,NOK
+Shot Chart Detail,0020500181,80,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,2,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051126,SEA,NOK
+Shot Chart Detail,0020500181,276,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,7,55,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-25,28,1,1,20051126,SEA,NOK
+Shot Chart Detail,0020500181,297,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,4,39,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051126,SEA,NOK
+Shot Chart Detail,0020500181,343,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,0,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-218,155,1,1,20051126,SEA,NOK
+Shot Chart Detail,0020500181,428,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,3,5,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051126,SEA,NOK
+Shot Chart Detail,0020500181,453,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,1,8,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-246,-18,1,1,20051126,SEA,NOK
+Shot Chart Detail,0020500215,17,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,9,40,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,0,1,1,20051130,SEA,CHA
+Shot Chart Detail,0020500215,20,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,8,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-149,169,1,1,20051130,SEA,CHA
+Shot Chart Detail,0020500215,28,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,7,24,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-46,53,1,1,20051130,SEA,CHA
+Shot Chart Detail,0020500215,53,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,4,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,22,0,222,1,1,20051130,SEA,CHA
+Shot Chart Detail,0020500215,88,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,0,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-118,51,1,1,20051130,SEA,CHA
+Shot Chart Detail,0020500215,135,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,6,53,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051130,SEA,CHA
+Shot Chart Detail,0020500215,193,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,1,47,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051130,SEA,CHA
+Shot Chart Detail,0020500215,203,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,0,35,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051130,SEA,CHA
+Shot Chart Detail,0020500215,254,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,7,37,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-72,28,1,1,20051130,SEA,CHA
+Shot Chart Detail,0020500215,404,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,5,3,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-39,61,1,1,20051130,SEA,CHA
+Shot Chart Detail,0020500215,429,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,1,34,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-143,36,1,1,20051130,SEA,CHA
+Shot Chart Detail,0020500230,19,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,9,18,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-46,43,1,1,20051202,SEA,CLE
+Shot Chart Detail,0020500230,35,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,6,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-62,257,1,1,20051202,SEA,CLE
+Shot Chart Detail,0020500230,44,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,5,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-194,186,1,1,20051202,SEA,CLE
+Shot Chart Detail,0020500230,51,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,3,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-138,174,1,1,20051202,SEA,CLE
+Shot Chart Detail,0020500230,65,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,2,26,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-146,-19,1,1,20051202,SEA,CLE
+Shot Chart Detail,0020500230,67,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,2,5,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,59,41,1,1,20051202,SEA,CLE
+Shot Chart Detail,0020500230,209,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,0,0,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-62,45,1,1,20051202,SEA,CLE
+Shot Chart Detail,0020500230,270,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,6,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-218,143,1,1,20051202,SEA,CLE
+Shot Chart Detail,0020500230,276,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,5,28,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,5,1,1,20051202,SEA,CLE
+Shot Chart Detail,0020500230,311,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,2,31,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051202,SEA,CLE
+Shot Chart Detail,0020500230,408,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,5,38,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,135,-14,1,1,20051202,SEA,CLE
+Shot Chart Detail,0020500243,38,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,6,22,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-49,151,1,1,20051204,SEA,IND
+Shot Chart Detail,0020500243,56,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,3,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-177,-16,1,1,20051204,SEA,IND
+Shot Chart Detail,0020500243,82,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,1,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-164,-24,1,1,20051204,SEA,IND
+Shot Chart Detail,0020500243,245,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,8,55,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-243,-19,1,1,20051204,SEA,IND
+Shot Chart Detail,0020500243,259,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,7,40,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,59,30,1,1,20051204,SEA,IND
+Shot Chart Detail,0020500243,263,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,6,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-220,137,1,1,20051204,SEA,IND
+Shot Chart Detail,0020500257,15,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,10,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-172,41,1,1,20051206,SEA,NYK
+Shot Chart Detail,0020500257,35,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,8,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-174,204,1,1,20051206,SEA,NYK
+Shot Chart Detail,0020500257,45,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,7,12,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,-5,1,1,20051206,SEA,NYK
+Shot Chart Detail,0020500257,54,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,5,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,176,-6,1,1,20051206,SEA,NYK
+Shot Chart Detail,0020500257,310,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,3,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,154,199,1,1,20051206,SEA,NYK
+Shot Chart Detail,0020500257,396,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,7,51,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-67,2,1,1,20051206,SEA,NYK
+Shot Chart Detail,0020500276,11,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,10,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,179,174,1,1,20051209,UTA,SEA
+Shot Chart Detail,0020500276,14,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,10,20,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-66,26,1,1,20051209,UTA,SEA
+Shot Chart Detail,0020500276,25,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,8,42,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,26,1,1,20051209,UTA,SEA
+Shot Chart Detail,0020500276,31,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,7,46,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-74,17,1,1,20051209,UTA,SEA
+Shot Chart Detail,0020500276,84,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,3,1,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-38,15,1,1,20051209,UTA,SEA
+Shot Chart Detail,0020500276,190,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,5,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,23,148,178,1,1,20051209,UTA,SEA
+Shot Chart Detail,0020500276,206,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,3,18,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-156,-21,1,1,20051209,UTA,SEA
+Shot Chart Detail,0020500276,282,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,6,40,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-153,-36,1,1,20051209,UTA,SEA
+Shot Chart Detail,0020500276,322,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,2,28,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-66,12,1,1,20051209,UTA,SEA
+Shot Chart Detail,0020500276,430,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,3,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,182,169,1,1,20051209,UTA,SEA
+Shot Chart Detail,0020500289,29,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,7,39,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-5,81,1,1,20051210,SEA,SAC
+Shot Chart Detail,0020500289,31,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,7,17,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051210,SEA,SAC
+Shot Chart Detail,0020500289,78,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,1,16,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-146,-6,1,1,20051210,SEA,SAC
+Shot Chart Detail,0020500289,90,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,0,4,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-49,77,1,1,20051210,SEA,SAC
+Shot Chart Detail,0020500289,338,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,1,7,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051210,SEA,SAC
+Shot Chart Detail,0020500289,365,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,10,43,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-43,53,1,1,20051210,SEA,SAC
+Shot Chart Detail,0020500289,385,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,8,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,177,178,1,1,20051210,SEA,SAC
+Shot Chart Detail,0020500306,41,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,7,28,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051213,SEA,GSW
+Shot Chart Detail,0020500306,90,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,2,24,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-25,38,1,1,20051213,SEA,GSW
+Shot Chart Detail,0020500306,293,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,6,33,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,72,3,1,1,20051213,SEA,GSW
+Shot Chart Detail,0020500306,295,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,6,8,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,10,1,1,20051213,SEA,GSW
+Shot Chart Detail,0020500321,18,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,8,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-103,202,1,1,20051215,SEA,HOU
+Shot Chart Detail,0020500321,20,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,8,13,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-74,-1,1,1,20051215,SEA,HOU
+Shot Chart Detail,0020500321,46,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,5,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,10,253,1,1,20051215,SEA,HOU
+Shot Chart Detail,0020500321,247,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,7,52,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-44,-1,1,1,20051215,SEA,HOU
+Shot Chart Detail,0020500321,310,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,0,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-184,87,1,1,20051215,SEA,HOU
+Shot Chart Detail,0020500331,30,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,7,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-138,209,1,1,20051216,POR,SEA
+Shot Chart Detail,0020500331,37,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,7,3,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051216,POR,SEA
+Shot Chart Detail,0020500331,62,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,4,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,8,248,1,1,20051216,POR,SEA
+Shot Chart Detail,0020500331,69,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,3,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-166,174,1,1,20051216,POR,SEA
+Shot Chart Detail,0020500331,72,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,2,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-75,145,1,1,20051216,POR,SEA
+Shot Chart Detail,0020500331,88,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,1,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-80,233,1,1,20051216,POR,SEA
+Shot Chart Detail,0020500331,98,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,0,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,10,140,1,1,20051216,POR,SEA
+Shot Chart Detail,0020500331,138,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,6,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,87,232,1,1,20051216,POR,SEA
+Shot Chart Detail,0020500331,242,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,5,46,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-62,13,1,1,20051216,POR,SEA
+Shot Chart Detail,0020500331,294,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,0,25,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051216,POR,SEA
+Shot Chart Detail,0020500331,339,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,7,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,146,122,1,1,20051216,POR,SEA
+Shot Chart Detail,0020500331,377,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,3,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-205,135,1,1,20051216,POR,SEA
+Shot Chart Detail,0020500351,5,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,11,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-207,171,1,1,20051219,SEA,WAS
+Shot Chart Detail,0020500351,12,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,9,58,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051219,SEA,WAS
+Shot Chart Detail,0020500351,29,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,7,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,59,253,1,1,20051219,SEA,WAS
+Shot Chart Detail,0020500351,34,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,6,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-140,169,1,1,20051219,SEA,WAS
+Shot Chart Detail,0020500351,66,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,1,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,64,238,1,1,20051219,SEA,WAS
+Shot Chart Detail,0020500351,165,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,4,5,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051219,SEA,WAS
+Shot Chart Detail,0020500351,171,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,3,14,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-69,-1,1,1,20051219,SEA,WAS
+Shot Chart Detail,0020500351,241,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,6,2,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-120,-9,1,1,20051219,SEA,WAS
+Shot Chart Detail,0020500351,348,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,7,6,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,238,8,1,1,20051219,SEA,WAS
+Shot Chart Detail,0020500351,397,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,2,19,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-161,-8,1,1,20051219,SEA,WAS
+Shot Chart Detail,0020500358,35,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,7,33,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051220,PHX,SEA
+Shot Chart Detail,0020500358,47,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,5,58,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,21,71,1,1,20051220,PHX,SEA
+Shot Chart Detail,0020500358,199,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,4,26,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-84,23,1,1,20051220,PHX,SEA
+Shot Chart Detail,0020500358,274,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,8,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-140,128,1,1,20051220,PHX,SEA
+Shot Chart Detail,0020500358,352,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,1,22,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051220,PHX,SEA
+Shot Chart Detail,0020500358,408,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,7,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-189,151,1,1,20051220,PHX,SEA
+Shot Chart Detail,0020500384,11,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,10,9,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-44,43,1,1,20051223,SEA,DAL
+Shot Chart Detail,0020500384,36,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,7,19,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051223,SEA,DAL
+Shot Chart Detail,0020500384,82,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,2,34,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051223,SEA,DAL
+Shot Chart Detail,0020500384,184,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,3,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051223,SEA,DAL
+Shot Chart Detail,0020500384,254,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,9,48,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,29,43,1,1,20051223,SEA,DAL
+Shot Chart Detail,0020500384,301,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,5,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-200,36,1,1,20051223,SEA,DAL
+Shot Chart Detail,0020500384,450,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,1,47,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051223,SEA,DAL
+Shot Chart Detail,0020500395,27,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,8,40,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051226,SEA,BOS
+Shot Chart Detail,0020500395,32,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,7,31,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-138,-8,1,1,20051226,SEA,BOS
+Shot Chart Detail,0020500395,51,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,5,22,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051226,SEA,BOS
+Shot Chart Detail,0020500395,62,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,3,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,151,-5,1,1,20051226,SEA,BOS
+Shot Chart Detail,0020500395,81,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,2,1,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051226,SEA,BOS
+Shot Chart Detail,0020500395,178,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,6,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,89,26,1,1,20051226,SEA,BOS
+Shot Chart Detail,0020500395,450,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,7,36,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-20,33,1,1,20051226,SEA,BOS
+Shot Chart Detail,0020500395,485,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,4,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-163,30,1,1,20051226,SEA,BOS
+Shot Chart Detail,0020500410,15,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,9,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051228,MIN,SEA
+Shot Chart Detail,0020500410,183,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,4,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-146,194,1,1,20051228,MIN,SEA
+Shot Chart Detail,0020500410,258,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,9,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,118,173,1,1,20051228,MIN,SEA
+Shot Chart Detail,0020500410,429,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,4,37,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051228,MIN,SEA
+Shot Chart Detail,0020500416,22,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,9,8,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051229,DEN,SEA
+Shot Chart Detail,0020500416,60,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,3,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,3,252,1,1,20051229,DEN,SEA
+Shot Chart Detail,0020500416,63,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,3,28,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051229,DEN,SEA
+Shot Chart Detail,0020500416,215,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,2,7,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,74,41,1,1,20051229,DEN,SEA
+Shot Chart Detail,0020500416,231,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,0,2,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,44,64,1,1,20051229,DEN,SEA
+Shot Chart Detail,0020500416,259,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,9,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-217,110,1,1,20051229,DEN,SEA
+Shot Chart Detail,0020500416,290,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,5,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-215,125,1,1,20051229,DEN,SEA
+Shot Chart Detail,0020500416,402,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,7,56,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051229,DEN,SEA
+Shot Chart Detail,0020500416,409,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,7,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,222,109,1,1,20051229,DEN,SEA
+Shot Chart Detail,0020500432,3,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,11,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,97,178,1,1,20051231,SEA,MEM
+Shot Chart Detail,0020500432,53,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,2,54,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,23,58,1,1,20051231,SEA,MEM
+Shot Chart Detail,0020500432,56,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,2,11,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,-13,1,1,20051231,SEA,MEM
+Shot Chart Detail,0020500432,84,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,11,8,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,72,15,1,1,20051231,SEA,MEM
+Shot Chart Detail,0020500432,184,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,0,4,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051231,SEA,MEM
+Shot Chart Detail,0020500432,321,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,6,54,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,38,97,1,1,20051231,SEA,MEM
+Shot Chart Detail,0020500432,328,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,5,13,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-10,59,1,1,20051231,SEA,MEM
+Shot Chart Detail,0020500437,4,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,11,41,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,57,17,1,1,20060102,IND,SEA
+Shot Chart Detail,0020500437,25,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,8,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-75,242,1,1,20060102,IND,SEA
+Shot Chart Detail,0020500437,115,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,10,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,74,169,1,1,20060102,IND,SEA
+Shot Chart Detail,0020500437,203,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,1,59,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,17,1,1,20060102,IND,SEA
+Shot Chart Detail,0020500437,286,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,4,30,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,240,2,1,1,20060102,IND,SEA
+Shot Chart Detail,0020500453,31,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,7,26,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-64,56,1,1,20060104,CHI,SEA
+Shot Chart Detail,0020500453,81,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,2,17,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060104,CHI,SEA
+Shot Chart Detail,0020500453,264,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,8,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060104,CHI,SEA
+Shot Chart Detail,0020500453,299,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,4,20,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-248,5,1,1,20060104,CHI,SEA
+Shot Chart Detail,0020500453,360,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,10,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060104,CHI,SEA
+Shot Chart Detail,0020500453,425,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,4,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060104,CHI,SEA
+Shot Chart Detail,0020500463,13,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,9,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-113,191,1,1,20060106,DET,SEA
+Shot Chart Detail,0020500463,51,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,4,8,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,90,31,1,1,20060106,DET,SEA
+Shot Chart Detail,0020500463,225,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,11,25,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,34,59,1,1,20060106,DET,SEA
+Shot Chart Detail,0020500463,241,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,9,53,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,136,59,1,1,20060106,DET,SEA
+Shot Chart Detail,0020500463,263,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,7,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,163,20,1,1,20060106,DET,SEA
+Shot Chart Detail,0020500463,279,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,5,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-131,105,1,1,20060106,DET,SEA
+Shot Chart Detail,0020500463,292,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,4,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-100,135,1,1,20060106,DET,SEA
+Shot Chart Detail,0020500463,324,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,1,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,151,120,1,1,20060106,DET,SEA
+Shot Chart Detail,0020500463,334,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,0,29,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060106,DET,SEA
+Shot Chart Detail,0020500463,357,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,10,34,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060106,DET,SEA
+Shot Chart Detail,0020500463,382,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,8,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060106,DET,SEA
+Shot Chart Detail,0020500463,453,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,2,38,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,121,23,1,1,20060106,DET,SEA
+Shot Chart Detail,0020500482,12,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,10,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060108,NYK,SEA
+Shot Chart Detail,0020500482,21,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,8,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-138,232,1,1,20060108,NYK,SEA
+Shot Chart Detail,0020500482,40,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,5,54,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060108,NYK,SEA
+Shot Chart Detail,0020500482,86,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,0,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,141,158,1,1,20060108,NYK,SEA
+Shot Chart Detail,0020500482,162,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,6,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-117,227,1,1,20060108,NYK,SEA
+Shot Chart Detail,0020500482,250,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,10,37,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,13,-79,105,1,1,20060108,NYK,SEA
+Shot Chart Detail,0020500486,10,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,10,23,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,-19,1,1,20060109,PHI,SEA
+Shot Chart Detail,0020500486,14,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,9,38,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060109,PHI,SEA
+Shot Chart Detail,0020500486,132,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,6,8,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060109,PHI,SEA
+Shot Chart Detail,0020500486,412,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,2,41,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060109,PHI,SEA
+Shot Chart Detail,0020500508,3,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,11,37,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060111,SEA,ORL
+Shot Chart Detail,0020500508,17,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,9,0,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-64,0,1,1,20060111,SEA,ORL
+Shot Chart Detail,0020500508,21,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,8,19,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-238,2,1,1,20060111,SEA,ORL
+Shot Chart Detail,0020500508,86,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,1,1,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-74,46,1,1,20060111,SEA,ORL
+Shot Chart Detail,0020500508,202,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,2,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-179,-11,1,1,20060111,SEA,ORL
+Shot Chart Detail,0020500508,240,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,11,36,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-26,36,1,1,20060111,SEA,ORL
+Shot Chart Detail,0020500508,259,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,9,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,84,0,1,1,20060111,SEA,ORL
+Shot Chart Detail,0020500508,297,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,5,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,71,248,1,1,20060111,SEA,ORL
+Shot Chart Detail,0020500508,303,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,4,34,Made Shot,Running Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,17,1,1,20060111,SEA,ORL
+Shot Chart Detail,0020500508,325,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,2,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-95,0,1,1,20060111,SEA,ORL
+Shot Chart Detail,0020500508,370,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,9,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-103,232,1,1,20060111,SEA,ORL
+Shot Chart Detail,0020500508,393,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,7,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-146,225,1,1,20060111,SEA,ORL
+Shot Chart Detail,0020500521,19,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,10,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,199,156,1,1,20060113,SEA,MIA
+Shot Chart Detail,0020500521,33,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,8,36,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,90,-8,1,1,20060113,SEA,MIA
+Shot Chart Detail,0020500521,47,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,6,54,Made Shot,Jump Bank Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,33,13,1,1,20060113,SEA,MIA
+Shot Chart Detail,0020500521,189,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,4,49,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060113,SEA,MIA
+Shot Chart Detail,0020500521,218,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,2,27,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-57,58,1,1,20060113,SEA,MIA
+Shot Chart Detail,0020500521,253,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,11,47,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-48,72,1,1,20060113,SEA,MIA
+Shot Chart Detail,0020500521,280,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,9,14,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060113,SEA,MIA
+Shot Chart Detail,0020500521,335,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,4,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-230,130,1,1,20060113,SEA,MIA
+Shot Chart Detail,0020500521,410,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,10,0,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-82,3,1,1,20060113,SEA,MIA
+Shot Chart Detail,0020500521,467,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,4,44,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-13,43,1,1,20060113,SEA,MIA
+Shot Chart Detail,0020500531,6,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,11,17,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-2,72,1,1,20060114,LAC,SEA
+Shot Chart Detail,0020500531,42,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,7,11,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-163,-8,1,1,20060114,LAC,SEA
+Shot Chart Detail,0020500531,192,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,5,43,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060114,LAC,SEA
+Shot Chart Detail,0020500531,226,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,2,27,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060114,LAC,SEA
+Shot Chart Detail,0020500531,228,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,1,54,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,232,64,1,1,20060114,LAC,SEA
+Shot Chart Detail,0020500531,240,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,0,11,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060114,LAC,SEA
+Shot Chart Detail,0020500544,30,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,9,24,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,13,1,1,20060116,GSW,SEA
+Shot Chart Detail,0020500544,49,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,6,45,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060116,GSW,SEA
+Shot Chart Detail,0020500544,164,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,6,7,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,0,97,1,1,20060116,GSW,SEA
+Shot Chart Detail,0020500544,177,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,4,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,163,41,1,1,20060116,GSW,SEA
+Shot Chart Detail,0020500544,254,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,9,15,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,31,36,1,1,20060116,GSW,SEA
+Shot Chart Detail,0020500576,14,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,10,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,130,8,1,1,20060120,SEA,TOR
+Shot Chart Detail,0020500576,92,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,1,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060120,SEA,TOR
+Shot Chart Detail,0020500576,101,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,0,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,148,-11,1,1,20060120,SEA,TOR
+Shot Chart Detail,0020500576,204,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,1,29,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-118,-14,1,1,20060120,SEA,TOR
+Shot Chart Detail,0020500576,216,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,0,22,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060120,SEA,TOR
+Shot Chart Detail,0020500576,279,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,4,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-195,179,1,1,20060120,SEA,TOR
+Shot Chart Detail,0020500576,311,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,0,45,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-246,-19,1,1,20060120,SEA,TOR
+Shot Chart Detail,0020500576,404,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,3,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-94,0,1,1,20060120,SEA,TOR
+Shot Chart Detail,0020500576,414,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,2,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-212,161,1,1,20060120,SEA,TOR
+Shot Chart Detail,0020500589,8,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,10,49,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060122,PHX,SEA
+Shot Chart Detail,0020500589,28,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,9,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,163,125,1,1,20060122,PHX,SEA
+Shot Chart Detail,0020500589,78,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,5,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-194,153,1,1,20060122,PHX,SEA
+Shot Chart Detail,0020500589,93,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,3,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,169,53,1,1,20060122,PHX,SEA
+Shot Chart Detail,0020500589,445,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,3,18,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-52,33,1,1,20060122,PHX,SEA
+Shot Chart Detail,0020500589,558,1740,Rashard Lewis,1610612760,Seattle SuperSonics,6,1,24,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,0,81,1,1,20060122,PHX,SEA
+Shot Chart Detail,0020500612,8,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,10,37,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,3,87,1,1,20060125,UTA,SEA
+Shot Chart Detail,0020500612,142,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,8,28,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060125,UTA,SEA
+Shot Chart Detail,0020500612,161,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,6,6,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,44,30,1,1,20060125,UTA,SEA
+Shot Chart Detail,0020500612,181,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,4,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060125,UTA,SEA
+Shot Chart Detail,0020500612,186,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,4,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060125,UTA,SEA
+Shot Chart Detail,0020500612,267,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,7,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-202,153,1,1,20060125,UTA,SEA
+Shot Chart Detail,0020500618,4,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,11,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-103,-3,1,1,20060126,SEA,DAL
+Shot Chart Detail,0020500618,15,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,10,16,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060126,SEA,DAL
+Shot Chart Detail,0020500618,35,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,6,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-138,212,1,1,20060126,SEA,DAL
+Shot Chart Detail,0020500618,69,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,3,7,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,-5,1,1,20060126,SEA,DAL
+Shot Chart Detail,0020500618,146,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,6,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,205,141,1,1,20060126,SEA,DAL
+Shot Chart Detail,0020500618,173,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,2,53,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060126,SEA,DAL
+Shot Chart Detail,0020500618,296,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,3,29,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-54,51,1,1,20060126,SEA,DAL
+Shot Chart Detail,0020500618,394,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,6,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060126,SEA,DAL
+Shot Chart Detail,0020500618,399,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,5,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-205,174,1,1,20060126,SEA,DAL
+Shot Chart Detail,0020500618,429,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,1,56,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-72,10,1,1,20060126,SEA,DAL
+Shot Chart Detail,0020500638,20,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,10,27,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060128,SEA,NJN
+Shot Chart Detail,0020500638,194,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,2,52,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060128,SEA,NJN
+Shot Chart Detail,0020500638,230,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,11,9,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,227,43,1,1,20060128,SEA,NJN
+Shot Chart Detail,0020500638,232,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,10,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,22,200,94,1,1,20060128,SEA,NJN
+Shot Chart Detail,0020500638,277,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,6,16,Made Shot,Running Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,24,30,1,1,20060128,SEA,NJN
+Shot Chart Detail,0020500654,6,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,11,0,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,20,31,1,1,20060130,SEA,POR
+Shot Chart Detail,0020500654,10,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,10,28,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-25,81,1,1,20060130,SEA,POR
+Shot Chart Detail,0020500654,34,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,7,46,Made Shot,Follow Up Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060130,SEA,POR
+Shot Chart Detail,0020500654,58,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,4,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,177,187,1,1,20060130,SEA,POR
+Shot Chart Detail,0020500654,61,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,4,26,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060130,SEA,POR
+Shot Chart Detail,0020500654,176,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,5,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-71,235,1,1,20060130,SEA,POR
+Shot Chart Detail,0020500654,210,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,2,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-149,210,1,1,20060130,SEA,POR
+Shot Chart Detail,0020500654,327,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,2,15,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060130,SEA,POR
+Shot Chart Detail,0020500654,465,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,0,21,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,8,1,1,20060130,SEA,POR
+Shot Chart Detail,0020500673,8,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,10,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060201,SEA,GSW
+Shot Chart Detail,0020500673,26,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,9,18,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-44,3,1,1,20060201,SEA,GSW
+Shot Chart Detail,0020500673,75,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,3,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060201,SEA,GSW
+Shot Chart Detail,0020500673,231,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,0,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060201,SEA,GSW
+Shot Chart Detail,0020500673,261,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,9,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060201,SEA,GSW
+Shot Chart Detail,0020500673,310,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,5,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-25,0,1,1,20060201,SEA,GSW
+Shot Chart Detail,0020500673,337,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,2,41,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060201,SEA,GSW
+Shot Chart Detail,0020500673,369,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,0,4,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,34,22,1,1,20060201,SEA,GSW
+Shot Chart Detail,0020500673,456,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,3,30,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060201,SEA,GSW
+Shot Chart Detail,0020500681,10,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,10,36,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,138,56,1,1,20060203,HOU,SEA
+Shot Chart Detail,0020500681,87,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,2,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,113,219,1,1,20060203,HOU,SEA
+Shot Chart Detail,0020500681,203,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,2,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,-212,-1,1,1,20060203,HOU,SEA
+Shot Chart Detail,0020500681,213,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,2,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060203,HOU,SEA
+Shot Chart Detail,0020500681,332,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,1,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060203,HOU,SEA
+Shot Chart Detail,0020500681,402,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,5,35,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-238,10,1,1,20060203,HOU,SEA
+Shot Chart Detail,0020500691,331,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,2,46,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060204,DAL,SEA
+Shot Chart Detail,0020500701,14,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,9,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,144,31,1,1,20060206,CHA,SEA
+Shot Chart Detail,0020500701,79,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,2,24,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060206,CHA,SEA
+Shot Chart Detail,0020500701,111,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,0,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060206,CHA,SEA
+Shot Chart Detail,0020500701,217,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,1,18,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060206,CHA,SEA
+Shot Chart Detail,0020500701,224,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,0,39,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060206,CHA,SEA
+Shot Chart Detail,0020500701,368,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,11,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060206,CHA,SEA
+Shot Chart Detail,0020500701,400,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,8,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-23,250,1,1,20060206,CHA,SEA
+Shot Chart Detail,0020500701,451,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,4,13,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060206,CHA,SEA
+Shot Chart Detail,0020500701,463,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,2,56,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-79,0,1,1,20060206,CHA,SEA
+Shot Chart Detail,0020500718,71,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,3,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-154,95,1,1,20060208,NOK,SEA
+Shot Chart Detail,0020500718,82,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,2,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-151,196,1,1,20060208,NOK,SEA
+Shot Chart Detail,0020500718,129,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,9,59,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-34,22,1,1,20060208,NOK,SEA
+Shot Chart Detail,0020500718,237,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,1,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-154,110,1,1,20060208,NOK,SEA
+Shot Chart Detail,0020500718,268,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,9,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-153,5,1,1,20060208,NOK,SEA
+Shot Chart Detail,0020500718,287,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,7,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060208,NOK,SEA
+Shot Chart Detail,0020500718,330,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,3,21,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060208,NOK,SEA
+Shot Chart Detail,0020500718,395,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,9,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,20,240,1,1,20060208,NOK,SEA
+Shot Chart Detail,0020500718,424,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,7,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,13,240,1,1,20060208,NOK,SEA
+Shot Chart Detail,0020500718,433,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,5,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,23,-61,232,1,1,20060208,NOK,SEA
+Shot Chart Detail,0020500718,435,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,4,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-2,242,1,1,20060208,NOK,SEA
+Shot Chart Detail,0020500718,467,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,1,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-125,215,1,1,20060208,NOK,SEA
+Shot Chart Detail,0020500736,65,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,5,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,87,7,1,1,20060210,SEA,ATL
+Shot Chart Detail,0020500761,14,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,10,30,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060214,MIL,SEA
+Shot Chart Detail,0020500761,26,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,8,17,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-77,-11,1,1,20060214,MIL,SEA
+Shot Chart Detail,0020500761,35,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,7,13,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060214,MIL,SEA
+Shot Chart Detail,0020500761,55,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,5,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060214,MIL,SEA
+Shot Chart Detail,0020500761,144,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,7,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-138,227,1,1,20060214,MIL,SEA
+Shot Chart Detail,0020500761,365,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,7,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-123,240,1,1,20060214,MIL,SEA
+Shot Chart Detail,0020500761,370,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,6,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-158,-9,1,1,20060214,MIL,SEA
+Shot Chart Detail,0020500761,373,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,6,25,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,61,1,1,20060214,MIL,SEA
+Shot Chart Detail,0020500772,53,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,5,50,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,33,35,1,1,20060215,MIN,SEA
+Shot Chart Detail,0020500786,29,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,8,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,7,1,1,20060221,SAS,SEA
+Shot Chart Detail,0020500786,73,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,3,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,156,59,1,1,20060221,SAS,SEA
+Shot Chart Detail,0020500786,281,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,9,30,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-94,48,1,1,20060221,SAS,SEA
+Shot Chart Detail,0020500792,6,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,11,3,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060222,ATL,SEA
+Shot Chart Detail,0020500792,151,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,8,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,133,74,1,1,20060222,ATL,SEA
+Shot Chart Detail,0020500792,185,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,3,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,148,105,1,1,20060222,ATL,SEA
+Shot Chart Detail,0020500792,254,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,7,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060222,ATL,SEA
+Shot Chart Detail,0020500792,256,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,7,2,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-145,8,1,1,20060222,ATL,SEA
+Shot Chart Detail,0020500792,258,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,6,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,182,7,1,1,20060222,ATL,SEA
+Shot Chart Detail,0020500792,300,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,1,57,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060222,ATL,SEA
+Shot Chart Detail,0020500792,371,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,7,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060222,ATL,SEA
+Shot Chart Detail,0020500792,412,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,3,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060222,ATL,SEA
+Shot Chart Detail,0020500792,444,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,1,20,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-6,76,1,1,20060222,ATL,SEA
+Shot Chart Detail,0020500803,23,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,8,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-85,250,1,1,20060224,ORL,SEA
+Shot Chart Detail,0020500803,100,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,1,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060224,ORL,SEA
+Shot Chart Detail,0020500803,122,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,11,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060224,ORL,SEA
+Shot Chart Detail,0020500803,171,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,7,0,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060224,ORL,SEA
+Shot Chart Detail,0020500803,362,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,11,4,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-2,53,1,1,20060224,ORL,SEA
+Shot Chart Detail,0020500803,365,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,10,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,174,192,1,1,20060224,ORL,SEA
+Shot Chart Detail,0020500818,26,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,9,49,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-84,5,1,1,20060225,MIA,SEA
+Shot Chart Detail,0020500818,74,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,6,8,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-123,115,1,1,20060225,MIA,SEA
+Shot Chart Detail,0020500818,146,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,10,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,187,166,1,1,20060225,MIA,SEA
+Shot Chart Detail,0020500818,205,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,6,28,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060225,MIA,SEA
+Shot Chart Detail,0020500818,305,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,11,15,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,79,31,1,1,20060225,MIA,SEA
+Shot Chart Detail,0020500818,335,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,7,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,227,91,1,1,20060225,MIA,SEA
+Shot Chart Detail,0020500818,358,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,4,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,192,158,1,1,20060225,MIA,SEA
+Shot Chart Detail,0020500818,374,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,2,5,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-241,-16,1,1,20060225,MIA,SEA
+Shot Chart Detail,0020500840,56,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,6,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,133,53,1,1,20060228,SEA,NOK
+Shot Chart Detail,0020500840,108,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,1,37,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-39,25,1,1,20060228,SEA,NOK
+Shot Chart Detail,0020500840,216,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,3,25,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,28,22,1,1,20060228,SEA,NOK
+Shot Chart Detail,0020500840,231,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,2,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-100,5,1,1,20060228,SEA,NOK
+Shot Chart Detail,0020500840,249,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,0,43,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,7,1,1,20060228,SEA,NOK
+Shot Chart Detail,0020500840,268,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,11,32,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,54,13,1,1,20060228,SEA,NOK
+Shot Chart Detail,0020500840,342,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,2,22,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060228,SEA,NOK
+Shot Chart Detail,0020500840,494,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,2,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060228,SEA,NOK
+Shot Chart Detail,0020500866,12,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,9,50,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060303,SEA,DET
+Shot Chart Detail,0020500866,19,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,8,43,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,120,-11,1,1,20060303,SEA,DET
+Shot Chart Detail,0020500866,24,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,7,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-107,-5,1,1,20060303,SEA,DET
+Shot Chart Detail,0020500866,235,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,1,13,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-69,17,1,1,20060303,SEA,DET
+Shot Chart Detail,0020500866,286,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,6,56,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,36,30,1,1,20060303,SEA,DET
+Shot Chart Detail,0020500866,295,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,6,15,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,47,20,1,1,20060303,SEA,DET
+Shot Chart Detail,0020500866,313,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,4,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-177,68,1,1,20060303,SEA,DET
+Shot Chart Detail,0020500866,393,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,9,18,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-141,43,1,1,20060303,SEA,DET
+Shot Chart Detail,0020500882,10,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,10,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-120,161,1,1,20060305,SEA,UTA
+Shot Chart Detail,0020500882,23,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,8,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,174,194,1,1,20060305,SEA,UTA
+Shot Chart Detail,0020500882,68,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,4,9,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,39,0,1,1,20060305,SEA,UTA
+Shot Chart Detail,0020500882,162,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,7,57,Made Shot,Running Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,13,31,1,1,20060305,SEA,UTA
+Shot Chart Detail,0020500882,241,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,1,58,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,51,22,1,1,20060305,SEA,UTA
+Shot Chart Detail,0020500882,246,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,1,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-238,104,1,1,20060305,SEA,UTA
+Shot Chart Detail,0020500882,325,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,5,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,144,219,1,1,20060305,SEA,UTA
+Shot Chart Detail,0020500882,330,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,4,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,3,1,1,20060305,SEA,UTA
+Shot Chart Detail,0020500906,11,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,10,41,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060308,SEA,MEM
+Shot Chart Detail,0020500906,107,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,0,12,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,64,28,1,1,20060308,SEA,MEM
+Shot Chart Detail,0020500906,205,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,2,55,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-77,31,1,1,20060308,SEA,MEM
+Shot Chart Detail,0020500906,284,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,7,9,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,29,41,1,1,20060308,SEA,MEM
+Shot Chart Detail,0020500918,167,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,8,14,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,3,1,1,20060310,SEA,MIN
+Shot Chart Detail,0020500918,316,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,5,29,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-8,41,1,1,20060310,SEA,MIN
+Shot Chart Detail,0020500918,331,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,3,57,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,13,1,1,20060310,SEA,MIN
+Shot Chart Detail,0020500930,19,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,10,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-179,176,1,1,20060312,LAL,SEA
+Shot Chart Detail,0020500930,42,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,7,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-194,-1,1,1,20060312,LAL,SEA
+Shot Chart Detail,0020500930,69,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,4,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,131,168,1,1,20060312,LAL,SEA
+Shot Chart Detail,0020500930,91,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,2,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060312,LAL,SEA
+Shot Chart Detail,0020500930,184,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,5,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-130,156,1,1,20060312,LAL,SEA
+Shot Chart Detail,0020500930,195,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,4,31,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060312,LAL,SEA
+Shot Chart Detail,0020500930,227,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,1,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060312,LAL,SEA
+Shot Chart Detail,0020500930,355,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,0,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-159,209,1,1,20060312,LAL,SEA
+Shot Chart Detail,0020500930,459,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,1,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060312,LAL,SEA
+Shot Chart Detail,0020500949,36,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,7,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060314,SEA,PHX
+Shot Chart Detail,0020500949,67,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,4,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,31,250,1,1,20060314,SEA,PHX
+Shot Chart Detail,0020500949,230,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,1,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-128,12,1,1,20060314,SEA,PHX
+Shot Chart Detail,0020500949,253,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,11,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,8,5,1,1,20060314,SEA,PHX
+Shot Chart Detail,0020500949,255,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,11,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,15,1,1,20060314,SEA,PHX
+Shot Chart Detail,0020500949,269,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,9,7,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,49,26,1,1,20060314,SEA,PHX
+Shot Chart Detail,0020500949,355,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,1,44,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,18,1,1,20060314,SEA,PHX
+Shot Chart Detail,0020500949,410,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,8,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,120,-6,1,1,20060314,SEA,PHX
+Shot Chart Detail,0020500949,419,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,7,8,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,47,22,1,1,20060314,SEA,PHX
+Shot Chart Detail,0020500949,453,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,3,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,113,140,1,1,20060314,SEA,PHX
+Shot Chart Detail,0020500962,2,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,11,41,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,102,72,1,1,20060316,SEA,PHI
+Shot Chart Detail,0020500962,59,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,5,2,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-66,7,1,1,20060316,SEA,PHI
+Shot Chart Detail,0020500962,68,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,4,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,144,207,1,1,20060316,SEA,PHI
+Shot Chart Detail,0020500962,107,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,0,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,151,224,1,1,20060316,SEA,PHI
+Shot Chart Detail,0020500962,283,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,5,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,95,-5,1,1,20060316,SEA,PHI
+Shot Chart Detail,0020500962,297,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,4,43,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-243,-8,1,1,20060316,SEA,PHI
+Shot Chart Detail,0020500962,434,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,3,16,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-238,-23,1,1,20060316,SEA,PHI
+Shot Chart Detail,0020501001,21,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,9,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,163,69,1,1,20060321,SAC,SEA
+Shot Chart Detail,0020501001,59,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,5,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060321,SAC,SEA
+Shot Chart Detail,0020501001,74,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,2,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-158,161,1,1,20060321,SAC,SEA
+Shot Chart Detail,0020501001,194,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,4,10,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,238,36,1,1,20060321,SAC,SEA
+Shot Chart Detail,0020501001,367,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,1,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,90,31,1,1,20060321,SAC,SEA
+Shot Chart Detail,0020501009,39,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,7,48,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060322,SEA,MIL
+Shot Chart Detail,0020501009,219,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,3,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-56,255,1,1,20060322,SEA,MIL
+Shot Chart Detail,0020501009,314,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,9,23,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-238,25,1,1,20060322,SEA,MIL
+Shot Chart Detail,0020501009,323,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,8,41,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,7,1,1,20060322,SEA,MIL
+Shot Chart Detail,0020501009,382,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,4,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060322,SEA,MIL
+Shot Chart Detail,0020501009,426,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,1,2,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-112,-6,1,1,20060322,SEA,MIL
+Shot Chart Detail,0020501009,509,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,7,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,156,206,1,1,20060322,SEA,MIL
+Shot Chart Detail,0020501009,531,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,4,52,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-80,22,1,1,20060322,SEA,MIL
+Shot Chart Detail,0020501024,300,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,9,2,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,1,87,1,1,20060324,DEN,SEA
+Shot Chart Detail,0020501024,465,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,7,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-110,219,1,1,20060324,DEN,SEA
+Shot Chart Detail,0020501024,472,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,6,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,85,233,1,1,20060324,DEN,SEA
+Shot Chart Detail,0020501039,20,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,9,12,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,130,5,1,1,20060326,SEA,SAS
+Shot Chart Detail,0020501039,38,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,6,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-148,209,1,1,20060326,SEA,SAS
+Shot Chart Detail,0020501039,266,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,11,43,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060326,SEA,SAS
+Shot Chart Detail,0020501039,296,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,8,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,169,0,1,1,20060326,SEA,SAS
+Shot Chart Detail,0020501039,369,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,1,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-128,-9,1,1,20060326,SEA,SAS
+Shot Chart Detail,0020501039,472,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,4,33,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060326,SEA,SAS
+Shot Chart Detail,0020501050,30,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,7,57,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060328,MEM,SEA
+Shot Chart Detail,0020501050,33,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,7,24,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,41,36,1,1,20060328,MEM,SEA
+Shot Chart Detail,0020501050,38,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,6,52,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,35,1,1,20060328,MEM,SEA
+Shot Chart Detail,0020501050,204,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,1,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060328,MEM,SEA
+Shot Chart Detail,0020501050,289,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,4,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,182,53,1,1,20060328,MEM,SEA
+Shot Chart Detail,0020501050,304,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,2,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,125,38,1,1,20060328,MEM,SEA
+Shot Chart Detail,0020501078,50,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,7,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-143,0,1,1,20060331,SEA,LAL
+Shot Chart Detail,0020501078,94,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,2,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-202,7,1,1,20060331,SEA,LAL
+Shot Chart Detail,0020501078,110,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,0,49,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060331,SEA,LAL
+Shot Chart Detail,0020501078,215,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,3,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060331,SEA,LAL
+Shot Chart Detail,0020501078,428,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,7,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,158,191,1,1,20060331,SEA,LAL
+Shot Chart Detail,0020501106,147,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,9,19,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-28,53,1,1,20060404,SEA,HOU
+Shot Chart Detail,0020501106,360,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,0,42,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-245,-5,1,1,20060404,SEA,HOU
+Shot Chart Detail,0020501106,444,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,5,39,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,0,66,1,1,20060404,SEA,HOU
+Shot Chart Detail,0020501147,5,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,11,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060409,SEA,PHX
+Shot Chart Detail,0020501147,33,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,8,12,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,0,45,1,1,20060409,SEA,PHX
+Shot Chart Detail,0020501147,62,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,4,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-85,186,1,1,20060409,SEA,PHX
+Shot Chart Detail,0020501147,100,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,2,6,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060409,SEA,PHX
+Shot Chart Detail,0020501147,285,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,9,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,107,225,1,1,20060409,SEA,PHX
+Shot Chart Detail,0020501147,302,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,7,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,16,257,1,1,20060409,SEA,PHX
+Shot Chart Detail,0020501147,307,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,7,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-174,199,1,1,20060409,SEA,PHX
+Shot Chart Detail,0020501147,477,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,4,47,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,41,1,1,20060409,SEA,PHX
+Shot Chart Detail,0020501159,19,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,10,7,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-125,0,1,1,20060411,SAS,SEA
+Shot Chart Detail,0020501159,90,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,2,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,12,1,1,20060411,SAS,SEA
+Shot Chart Detail,0020501159,257,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,11,14,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,3,2,1,1,20060411,SAS,SEA
+Shot Chart Detail,0020501159,372,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,11,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,15,1,1,20060411,SAS,SEA
+Shot Chart Detail,0020501169,3,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,11,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-148,89,1,1,20060412,NOK,SEA
+Shot Chart Detail,0020501169,90,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,3,17,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,31,1,1,20060412,NOK,SEA
+Shot Chart Detail,0020501169,100,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,2,19,Made Shot,Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,87,0,1,1,20060412,NOK,SEA
+Shot Chart Detail,0020501169,107,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,0,48,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060412,NOK,SEA
+Shot Chart Detail,0020501169,262,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,10,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,151,58,1,1,20060412,NOK,SEA
+Shot Chart Detail,0020501169,320,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,5,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-176,171,1,1,20060412,NOK,SEA
+Shot Chart Detail,0020501169,455,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,4,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-191,160,1,1,20060412,NOK,SEA
+Shot Chart Detail,0020501187,66,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,6,6,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,52,10,1,1,20060414,SEA,LAC
+Shot Chart Detail,0020501187,91,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,4,20,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060414,SEA,LAC
+Shot Chart Detail,0020501187,115,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,1,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-197,166,1,1,20060414,SEA,LAC
+Shot Chart Detail,0020501187,134,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,0,6,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,18,53,1,1,20060414,SEA,LAC
+Shot Chart Detail,0020501187,232,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,2,26,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,6,40,1,1,20060414,SEA,LAC
+Shot Chart Detail,0020501187,294,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,7,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-75,173,1,1,20060414,SEA,LAC
+Shot Chart Detail,0020501201,36,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,7,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,6,263,1,1,20060416,LAC,SEA
+Shot Chart Detail,0020501201,106,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,1,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060416,LAC,SEA
+Shot Chart Detail,0020501201,280,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,9,7,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,176,12,1,1,20060416,LAC,SEA
+Shot Chart Detail,0020501201,327,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,4,36,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,67,26,1,1,20060416,LAC,SEA
+Shot Chart Detail,0020501216,31,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,7,39,Made Shot,Jump Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,82,10,1,1,20060418,SAC,SEA
+Shot Chart Detail,0020501216,74,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,3,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-87,229,1,1,20060418,SAC,SEA
+Shot Chart Detail,0020501216,191,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,4,11,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-57,12,1,1,20060418,SAC,SEA
+Shot Chart Detail,0020501216,201,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,3,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060418,SAC,SEA
+Shot Chart Detail,0020501216,276,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,7,49,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060418,SAC,SEA
+Shot Chart Detail,0020501216,279,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,7,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-145,201,1,1,20060418,SAC,SEA
+Shot Chart Detail,0020501216,295,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,4,42,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,7,1,1,20060418,SAC,SEA
+Shot Chart Detail,0020501216,326,1740,Rashard Lewis,1610612760,Seattle SuperSonics,3,0,53,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-125,0,1,1,20060418,SAC,SEA
+Shot Chart Detail,0020501230,4,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,11,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-95,153,1,1,20060419,SEA,DEN
+Shot Chart Detail,0020501230,18,1740,Rashard Lewis,1610612760,Seattle SuperSonics,1,9,16,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,22,1,1,20060419,SEA,DEN
+Shot Chart Detail,0020501230,254,1740,Rashard Lewis,1610612760,Seattle SuperSonics,2,1,21,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,-11,1,1,20060419,SEA,DEN
+Shot Chart Detail,0020501230,425,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,9,35,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-10,168,1,1,20060419,SEA,DEN
+Shot Chart Detail,0020501230,428,1740,Rashard Lewis,1610612760,Seattle SuperSonics,4,9,2,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-46,23,1,1,20060419,SEA,DEN

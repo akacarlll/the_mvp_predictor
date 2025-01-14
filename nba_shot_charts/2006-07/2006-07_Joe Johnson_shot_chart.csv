@@ -1,0 +1,537 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0020600003,78,2207,Joe Johnson,1610612737,Atlanta Hawks,1,2,53,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,15,95,1,1,20061101,PHI,ATL
+Shot Chart Detail,0020600003,123,2207,Joe Johnson,1610612737,Atlanta Hawks,2,10,50,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,13,-74,117,1,1,20061101,PHI,ATL
+Shot Chart Detail,0020600003,172,2207,Joe Johnson,1610612737,Atlanta Hawks,2,6,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-200,151,1,1,20061101,PHI,ATL
+Shot Chart Detail,0020600003,216,2207,Joe Johnson,1610612737,Atlanta Hawks,2,1,31,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061101,PHI,ATL
+Shot Chart Detail,0020600003,289,2207,Joe Johnson,1610612737,Atlanta Hawks,3,5,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,176,192,1,1,20061101,PHI,ATL
+Shot Chart Detail,0020600003,321,2207,Joe Johnson,1610612737,Atlanta Hawks,3,2,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,236,138,1,1,20061101,PHI,ATL
+Shot Chart Detail,0020600003,327,2207,Joe Johnson,1610612737,Atlanta Hawks,3,1,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061101,PHI,ATL
+Shot Chart Detail,0020600003,351,2207,Joe Johnson,1610612737,Atlanta Hawks,3,0,8,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,7,1,1,20061101,PHI,ATL
+Shot Chart Detail,0020600003,459,2207,Joe Johnson,1610612737,Atlanta Hawks,4,2,9,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061101,PHI,ATL
+Shot Chart Detail,0020600022,159,2207,Joe Johnson,1610612737,Atlanta Hawks,2,9,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-115,137,1,1,20061103,ATL,NYK
+Shot Chart Detail,0020600022,176,2207,Joe Johnson,1610612737,Atlanta Hawks,2,8,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,77,174,1,1,20061103,ATL,NYK
+Shot Chart Detail,0020600022,210,2207,Joe Johnson,1610612737,Atlanta Hawks,2,5,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-108,40,1,1,20061103,ATL,NYK
+Shot Chart Detail,0020600022,236,2207,Joe Johnson,1610612737,Atlanta Hawks,2,4,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,0,1,1,20061103,ATL,NYK
+Shot Chart Detail,0020600022,330,2207,Joe Johnson,1610612737,Atlanta Hawks,3,11,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,121,250,1,1,20061103,ATL,NYK
+Shot Chart Detail,0020600022,333,2207,Joe Johnson,1610612737,Atlanta Hawks,3,10,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-10,271,1,1,20061103,ATL,NYK
+Shot Chart Detail,0020600022,355,2207,Joe Johnson,1610612737,Atlanta Hawks,3,8,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-217,143,1,1,20061103,ATL,NYK
+Shot Chart Detail,0020600022,395,2207,Joe Johnson,1610612737,Atlanta Hawks,3,4,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-182,38,1,1,20061103,ATL,NYK
+Shot Chart Detail,0020600022,538,2207,Joe Johnson,1610612737,Atlanta Hawks,4,3,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-123,145,1,1,20061103,ATL,NYK
+Shot Chart Detail,0020600022,547,2207,Joe Johnson,1610612737,Atlanta Hawks,4,3,19,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,29,86,1,1,20061103,ATL,NYK
+Shot Chart Detail,0020600022,579,2207,Joe Johnson,1610612737,Atlanta Hawks,4,0,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061103,ATL,NYK
+Shot Chart Detail,0020600022,590,2207,Joe Johnson,1610612737,Atlanta Hawks,4,0,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-151,148,1,1,20061103,ATL,NYK
+Shot Chart Detail,0020600042,5,2207,Joe Johnson,1610612737,Atlanta Hawks,1,11,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,97,10,1,1,20061105,ATL,ORL
+Shot Chart Detail,0020600042,11,2207,Joe Johnson,1610612737,Atlanta Hawks,1,10,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-3,253,1,1,20061105,ATL,ORL
+Shot Chart Detail,0020600042,191,2207,Joe Johnson,1610612737,Atlanta Hawks,2,8,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-23,179,1,1,20061105,ATL,ORL
+Shot Chart Detail,0020600042,213,2207,Joe Johnson,1610612737,Atlanta Hawks,2,6,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,123,120,1,1,20061105,ATL,ORL
+Shot Chart Detail,0020600042,332,2207,Joe Johnson,1610612737,Atlanta Hawks,3,9,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,199,25,1,1,20061105,ATL,ORL
+Shot Chart Detail,0020600042,373,2207,Joe Johnson,1610612737,Atlanta Hawks,3,7,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,156,22,1,1,20061105,ATL,ORL
+Shot Chart Detail,0020600042,409,2207,Joe Johnson,1610612737,Atlanta Hawks,3,3,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-187,194,1,1,20061105,ATL,ORL
+Shot Chart Detail,0020600042,416,2207,Joe Johnson,1610612737,Atlanta Hawks,3,3,14,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,23,89,1,1,20061105,ATL,ORL
+Shot Chart Detail,0020600042,427,2207,Joe Johnson,1610612737,Atlanta Hawks,3,2,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-131,109,1,1,20061105,ATL,ORL
+Shot Chart Detail,0020600042,526,2207,Joe Johnson,1610612737,Atlanta Hawks,4,4,56,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-52,26,1,1,20061105,ATL,ORL
+Shot Chart Detail,0020600042,531,2207,Joe Johnson,1610612737,Atlanta Hawks,4,4,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-187,51,1,1,20061105,ATL,ORL
+Shot Chart Detail,0020600052,69,2207,Joe Johnson,1610612737,Atlanta Hawks,1,3,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-159,132,1,1,20061107,CLE,ATL
+Shot Chart Detail,0020600052,71,2207,Joe Johnson,1610612737,Atlanta Hawks,1,3,31,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,-3,1,1,20061107,CLE,ATL
+Shot Chart Detail,0020600052,175,2207,Joe Johnson,1610612737,Atlanta Hawks,2,5,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-103,181,1,1,20061107,CLE,ATL
+Shot Chart Detail,0020600052,265,2207,Joe Johnson,1610612737,Atlanta Hawks,3,10,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,3,23,1,1,20061107,CLE,ATL
+Shot Chart Detail,0020600052,271,2207,Joe Johnson,1610612737,Atlanta Hawks,3,9,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-145,202,1,1,20061107,CLE,ATL
+Shot Chart Detail,0020600052,487,2207,Joe Johnson,1610612737,Atlanta Hawks,4,1,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,209,178,1,1,20061107,CLE,ATL
+Shot Chart Detail,0020600052,552,2207,Joe Johnson,1610612737,Atlanta Hawks,5,2,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,2,1,1,20061107,CLE,ATL
+Shot Chart Detail,0020600052,560,2207,Joe Johnson,1610612737,Atlanta Hawks,5,1,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,141,212,1,1,20061107,CLE,ATL
+Shot Chart Detail,0020600072,29,2207,Joe Johnson,1610612737,Atlanta Hawks,1,9,14,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-29,59,1,1,20061110,TOR,ATL
+Shot Chart Detail,0020600072,34,2207,Joe Johnson,1610612737,Atlanta Hawks,1,8,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,167,181,1,1,20061110,TOR,ATL
+Shot Chart Detail,0020600072,56,2207,Joe Johnson,1610612737,Atlanta Hawks,1,6,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-174,2,1,1,20061110,TOR,ATL
+Shot Chart Detail,0020600072,82,2207,Joe Johnson,1610612737,Atlanta Hawks,1,3,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,182,33,1,1,20061110,TOR,ATL
+Shot Chart Detail,0020600072,137,2207,Joe Johnson,1610612737,Atlanta Hawks,2,10,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,112,0,1,1,20061110,TOR,ATL
+Shot Chart Detail,0020600072,139,2207,Joe Johnson,1610612737,Atlanta Hawks,2,10,20,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-13,54,1,1,20061110,TOR,ATL
+Shot Chart Detail,0020600072,165,2207,Joe Johnson,1610612737,Atlanta Hawks,2,7,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,41,210,1,1,20061110,TOR,ATL
+Shot Chart Detail,0020600072,170,2207,Joe Johnson,1610612737,Atlanta Hawks,2,6,39,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,30,1,1,20061110,TOR,ATL
+Shot Chart Detail,0020600072,202,2207,Joe Johnson,1610612737,Atlanta Hawks,2,3,7,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061110,TOR,ATL
+Shot Chart Detail,0020600072,261,2207,Joe Johnson,1610612737,Atlanta Hawks,3,8,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,172,174,1,1,20061110,TOR,ATL
+Shot Chart Detail,0020600072,271,2207,Joe Johnson,1610612737,Atlanta Hawks,3,7,46,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061110,TOR,ATL
+Shot Chart Detail,0020600072,279,2207,Joe Johnson,1610612737,Atlanta Hawks,3,6,47,Made Shot,Driving Finger Roll Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061110,TOR,ATL
+Shot Chart Detail,0020600082,94,2207,Joe Johnson,1610612737,Atlanta Hawks,1,1,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,0,1,1,20061111,ATL,SEA
+Shot Chart Detail,0020600082,120,2207,Joe Johnson,1610612737,Atlanta Hawks,1,0,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-171,219,1,1,20061111,ATL,SEA
+Shot Chart Detail,0020600082,152,2207,Joe Johnson,1610612737,Atlanta Hawks,2,9,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,8,1,1,20061111,ATL,SEA
+Shot Chart Detail,0020600082,273,2207,Joe Johnson,1610612737,Atlanta Hawks,3,10,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,115,238,1,1,20061111,ATL,SEA
+Shot Chart Detail,0020600082,277,2207,Joe Johnson,1610612737,Atlanta Hawks,3,10,3,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,18,71,1,1,20061111,ATL,SEA
+Shot Chart Detail,0020600082,283,2207,Joe Johnson,1610612737,Atlanta Hawks,3,9,0,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-6,86,1,1,20061111,ATL,SEA
+Shot Chart Detail,0020600082,329,2207,Joe Johnson,1610612737,Atlanta Hawks,3,4,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,41,265,1,1,20061111,ATL,SEA
+Shot Chart Detail,0020600082,332,2207,Joe Johnson,1610612737,Atlanta Hawks,3,3,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,-3,1,1,20061111,ATL,SEA
+Shot Chart Detail,0020600082,396,2207,Joe Johnson,1610612737,Atlanta Hawks,4,10,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,8,0,1,1,20061111,ATL,SEA
+Shot Chart Detail,0020600082,416,2207,Joe Johnson,1610612737,Atlanta Hawks,4,8,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,102,91,1,1,20061111,ATL,SEA
+Shot Chart Detail,0020600082,421,2207,Joe Johnson,1610612737,Atlanta Hawks,4,7,54,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,12,-67,107,1,1,20061111,ATL,SEA
+Shot Chart Detail,0020600082,559,2207,Joe Johnson,1610612737,Atlanta Hawks,5,0,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,8,0,1,1,20061111,ATL,SEA
+Shot Chart Detail,0020600100,30,2207,Joe Johnson,1610612737,Atlanta Hawks,1,9,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061114,ATL,MIL
+Shot Chart Detail,0020600100,94,2207,Joe Johnson,1610612737,Atlanta Hawks,1,3,27,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-243,0,1,1,20061114,ATL,MIL
+Shot Chart Detail,0020600100,155,2207,Joe Johnson,1610612737,Atlanta Hawks,2,11,6,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-243,-6,1,1,20061114,ATL,MIL
+Shot Chart Detail,0020600100,345,2207,Joe Johnson,1610612737,Atlanta Hawks,3,9,43,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,43,92,1,1,20061114,ATL,MIL
+Shot Chart Detail,0020600100,380,2207,Joe Johnson,1610612737,Atlanta Hawks,3,7,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,12,1,1,20061114,ATL,MIL
+Shot Chart Detail,0020600100,395,2207,Joe Johnson,1610612737,Atlanta Hawks,3,6,12,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-26,33,1,1,20061114,ATL,MIL
+Shot Chart Detail,0020600100,398,2207,Joe Johnson,1610612737,Atlanta Hawks,3,5,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-210,160,1,1,20061114,ATL,MIL
+Shot Chart Detail,0020600100,567,2207,Joe Johnson,1610612737,Atlanta Hawks,4,2,24,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,77,15,1,1,20061114,ATL,MIL
+Shot Chart Detail,0020600100,570,2207,Joe Johnson,1610612737,Atlanta Hawks,4,1,43,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-8,51,1,1,20061114,ATL,MIL
+Shot Chart Detail,0020600100,575,2207,Joe Johnson,1610612737,Atlanta Hawks,4,1,13,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-51,56,1,1,20061114,ATL,MIL
+Shot Chart Detail,0020600130,37,2207,Joe Johnson,1610612737,Atlanta Hawks,1,7,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,-1,1,1,20061118,ATL,MIA
+Shot Chart Detail,0020600130,84,2207,Joe Johnson,1610612737,Atlanta Hawks,1,2,29,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-33,76,1,1,20061118,ATL,MIA
+Shot Chart Detail,0020600130,200,2207,Joe Johnson,1610612737,Atlanta Hawks,2,4,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-57,166,1,1,20061118,ATL,MIA
+Shot Chart Detail,0020600130,271,2207,Joe Johnson,1610612737,Atlanta Hawks,3,9,39,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-77,45,1,1,20061118,ATL,MIA
+Shot Chart Detail,0020600130,306,2207,Joe Johnson,1610612737,Atlanta Hawks,3,6,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,7,1,1,20061118,ATL,MIA
+Shot Chart Detail,0020600130,358,2207,Joe Johnson,1610612737,Atlanta Hawks,3,1,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-8,22,1,1,20061118,ATL,MIA
+Shot Chart Detail,0020600130,394,2207,Joe Johnson,1610612737,Atlanta Hawks,4,10,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,69,268,1,1,20061118,ATL,MIA
+Shot Chart Detail,0020600130,603,2207,Joe Johnson,1610612737,Atlanta Hawks,5,0,16,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,33,30,1,1,20061118,ATL,MIA
+Shot Chart Detail,0020600161,18,2207,Joe Johnson,1610612737,Atlanta Hawks,1,9,43,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,0,1,1,20061122,DET,ATL
+Shot Chart Detail,0020600161,82,2207,Joe Johnson,1610612737,Atlanta Hawks,1,2,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061122,DET,ATL
+Shot Chart Detail,0020600161,243,2207,Joe Johnson,1610612737,Atlanta Hawks,3,10,52,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,7,1,1,20061122,DET,ATL
+Shot Chart Detail,0020600161,251,2207,Joe Johnson,1610612737,Atlanta Hawks,3,9,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-161,20,1,1,20061122,DET,ATL
+Shot Chart Detail,0020600161,269,2207,Joe Johnson,1610612737,Atlanta Hawks,3,7,4,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061122,DET,ATL
+Shot Chart Detail,0020600161,377,2207,Joe Johnson,1610612737,Atlanta Hawks,4,8,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-166,18,1,1,20061122,DET,ATL
+Shot Chart Detail,0020600161,452,2207,Joe Johnson,1610612737,Atlanta Hawks,4,0,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,140,23,1,1,20061122,DET,ATL
+Shot Chart Detail,0020600161,458,2207,Joe Johnson,1610612737,Atlanta Hawks,4,0,32,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,-3,1,1,20061122,DET,ATL
+Shot Chart Detail,0020600173,2,2207,Joe Johnson,1610612737,Atlanta Hawks,1,11,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-67,160,1,1,20061124,ATL,TOR
+Shot Chart Detail,0020600173,60,2207,Joe Johnson,1610612737,Atlanta Hawks,1,5,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,125,118,1,1,20061124,ATL,TOR
+Shot Chart Detail,0020600173,75,2207,Joe Johnson,1610612737,Atlanta Hawks,1,3,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,197,183,1,1,20061124,ATL,TOR
+Shot Chart Detail,0020600173,77,2207,Joe Johnson,1610612737,Atlanta Hawks,1,3,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-54,181,1,1,20061124,ATL,TOR
+Shot Chart Detail,0020600173,81,2207,Joe Johnson,1610612737,Atlanta Hawks,1,2,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,184,204,1,1,20061124,ATL,TOR
+Shot Chart Detail,0020600173,131,2207,Joe Johnson,1610612737,Atlanta Hawks,2,9,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061124,ATL,TOR
+Shot Chart Detail,0020600173,220,2207,Joe Johnson,1610612737,Atlanta Hawks,2,2,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,10,1,1,20061124,ATL,TOR
+Shot Chart Detail,0020600173,345,2207,Joe Johnson,1610612737,Atlanta Hawks,3,3,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,182,202,1,1,20061124,ATL,TOR
+Shot Chart Detail,0020600173,366,2207,Joe Johnson,1610612737,Atlanta Hawks,3,1,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,10,1,1,20061124,ATL,TOR
+Shot Chart Detail,0020600173,445,2207,Joe Johnson,1610612737,Atlanta Hawks,4,6,44,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,3,1,1,20061124,ATL,TOR
+Shot Chart Detail,0020600173,478,2207,Joe Johnson,1610612737,Atlanta Hawks,4,3,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-181,23,1,1,20061124,ATL,TOR
+Shot Chart Detail,0020600186,68,2207,Joe Johnson,1610612737,Atlanta Hawks,1,4,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,166,87,1,1,20061125,ORL,ATL
+Shot Chart Detail,0020600186,97,2207,Joe Johnson,1610612737,Atlanta Hawks,1,2,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061125,ORL,ATL
+Shot Chart Detail,0020600186,127,2207,Joe Johnson,1610612737,Atlanta Hawks,1,0,4,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-56,69,1,1,20061125,ORL,ATL
+Shot Chart Detail,0020600186,138,2207,Joe Johnson,1610612737,Atlanta Hawks,2,10,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061125,ORL,ATL
+Shot Chart Detail,0020600186,299,2207,Joe Johnson,1610612737,Atlanta Hawks,3,8,0,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,13,58,1,1,20061125,ORL,ATL
+Shot Chart Detail,0020600186,460,2207,Joe Johnson,1610612737,Atlanta Hawks,4,3,28,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061125,ORL,ATL
+Shot Chart Detail,0020600204,16,2207,Joe Johnson,1610612737,Atlanta Hawks,1,9,33,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,3,2,1,1,20061128,WAS,ATL
+Shot Chart Detail,0020600204,86,2207,Joe Johnson,1610612737,Atlanta Hawks,1,2,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-84,109,1,1,20061128,WAS,ATL
+Shot Chart Detail,0020600204,202,2207,Joe Johnson,1610612737,Atlanta Hawks,2,4,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,118,232,1,1,20061128,WAS,ATL
+Shot Chart Detail,0020600204,267,2207,Joe Johnson,1610612737,Atlanta Hawks,3,11,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,184,-29,1,1,20061128,WAS,ATL
+Shot Chart Detail,0020600204,280,2207,Joe Johnson,1610612737,Atlanta Hawks,3,9,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,2,1,1,20061128,WAS,ATL
+Shot Chart Detail,0020600204,305,2207,Joe Johnson,1610612737,Atlanta Hawks,3,6,44,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,236,-8,1,1,20061128,WAS,ATL
+Shot Chart Detail,0020600204,322,2207,Joe Johnson,1610612737,Atlanta Hawks,3,4,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2,20,1,1,20061128,WAS,ATL
+Shot Chart Detail,0020600204,353,2207,Joe Johnson,1610612737,Atlanta Hawks,3,1,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-128,110,1,1,20061128,WAS,ATL
+Shot Chart Detail,0020600204,404,2207,Joe Johnson,1610612737,Atlanta Hawks,4,8,58,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,0,1,1,20061128,WAS,ATL
+Shot Chart Detail,0020600204,411,2207,Joe Johnson,1610612737,Atlanta Hawks,4,8,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,8,-6,1,1,20061128,WAS,ATL
+Shot Chart Detail,0020600204,415,2207,Joe Johnson,1610612737,Atlanta Hawks,4,7,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,225,127,1,1,20061128,WAS,ATL
+Shot Chart Detail,0020600204,453,2207,Joe Johnson,1610612737,Atlanta Hawks,4,3,39,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,44,72,1,1,20061128,WAS,ATL
+Shot Chart Detail,0020600213,147,2207,Joe Johnson,1610612737,Atlanta Hawks,2,11,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061129,ATL,CHA
+Shot Chart Detail,0020600213,159,2207,Joe Johnson,1610612737,Atlanta Hawks,2,11,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,49,158,1,1,20061129,ATL,CHA
+Shot Chart Detail,0020600213,165,2207,Joe Johnson,1610612737,Atlanta Hawks,2,10,52,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,3,1,1,20061129,ATL,CHA
+Shot Chart Detail,0020600213,170,2207,Joe Johnson,1610612737,Atlanta Hawks,2,9,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-184,84,1,1,20061129,ATL,CHA
+Shot Chart Detail,0020600213,173,2207,Joe Johnson,1610612737,Atlanta Hawks,2,9,17,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,240,45,1,1,20061129,ATL,CHA
+Shot Chart Detail,0020600213,179,2207,Joe Johnson,1610612737,Atlanta Hawks,2,8,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,187,189,1,1,20061129,ATL,CHA
+Shot Chart Detail,0020600213,184,2207,Joe Johnson,1610612737,Atlanta Hawks,2,7,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,167,219,1,1,20061129,ATL,CHA
+Shot Chart Detail,0020600213,188,2207,Joe Johnson,1610612737,Atlanta Hawks,2,6,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-143,128,1,1,20061129,ATL,CHA
+Shot Chart Detail,0020600213,201,2207,Joe Johnson,1610612737,Atlanta Hawks,2,5,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061129,ATL,CHA
+Shot Chart Detail,0020600213,267,2207,Joe Johnson,1610612737,Atlanta Hawks,3,11,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061129,ATL,CHA
+Shot Chart Detail,0020600213,279,2207,Joe Johnson,1610612737,Atlanta Hawks,3,9,53,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,36,1,1,20061129,ATL,CHA
+Shot Chart Detail,0020600213,294,2207,Joe Johnson,1610612737,Atlanta Hawks,3,8,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-110,250,1,1,20061129,ATL,CHA
+Shot Chart Detail,0020600213,479,2207,Joe Johnson,1610612737,Atlanta Hawks,4,3,27,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-5,87,1,1,20061129,ATL,CHA
+Shot Chart Detail,0020600226,35,2207,Joe Johnson,1610612737,Atlanta Hawks,1,8,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-100,125,1,1,20061201,ATL,CLE
+Shot Chart Detail,0020600226,38,2207,Joe Johnson,1610612737,Atlanta Hawks,1,8,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,138,107,1,1,20061201,ATL,CLE
+Shot Chart Detail,0020600226,63,2207,Joe Johnson,1610612737,Atlanta Hawks,1,6,40,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,20,36,1,1,20061201,ATL,CLE
+Shot Chart Detail,0020600226,112,2207,Joe Johnson,1610612737,Atlanta Hawks,1,2,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,151,100,1,1,20061201,ATL,CLE
+Shot Chart Detail,0020600226,120,2207,Joe Johnson,1610612737,Atlanta Hawks,1,1,49,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061201,ATL,CLE
+Shot Chart Detail,0020600226,125,2207,Joe Johnson,1610612737,Atlanta Hawks,1,0,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,103,166,1,1,20061201,ATL,CLE
+Shot Chart Detail,0020600226,238,2207,Joe Johnson,1610612737,Atlanta Hawks,2,3,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061201,ATL,CLE
+Shot Chart Detail,0020600226,272,2207,Joe Johnson,1610612737,Atlanta Hawks,2,0,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061201,ATL,CLE
+Shot Chart Detail,0020600226,325,2207,Joe Johnson,1610612737,Atlanta Hawks,3,8,43,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061201,ATL,CLE
+Shot Chart Detail,0020600226,396,2207,Joe Johnson,1610612737,Atlanta Hawks,3,1,57,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-146,120,1,1,20061201,ATL,CLE
+Shot Chart Detail,0020600226,462,2207,Joe Johnson,1610612737,Atlanta Hawks,4,8,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061201,ATL,CLE
+Shot Chart Detail,0020600226,497,2207,Joe Johnson,1610612737,Atlanta Hawks,4,5,5,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,228,45,1,1,20061201,ATL,CLE
+Shot Chart Detail,0020600246,40,2207,Joe Johnson,1610612737,Atlanta Hawks,1,7,31,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061203,POR,ATL
+Shot Chart Detail,0020600246,97,2207,Joe Johnson,1610612737,Atlanta Hawks,1,1,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,141,202,1,1,20061203,POR,ATL
+Shot Chart Detail,0020600246,163,2207,Joe Johnson,1610612737,Atlanta Hawks,2,6,9,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,0,1,1,20061203,POR,ATL
+Shot Chart Detail,0020600246,186,2207,Joe Johnson,1610612737,Atlanta Hawks,2,3,38,Made Shot,Turnaround Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-31,20,1,1,20061203,POR,ATL
+Shot Chart Detail,0020600246,203,2207,Joe Johnson,1610612737,Atlanta Hawks,2,2,4,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,46,12,1,1,20061203,POR,ATL
+Shot Chart Detail,0020600246,208,2207,Joe Johnson,1610612737,Atlanta Hawks,2,0,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,23,33,237,1,1,20061203,POR,ATL
+Shot Chart Detail,0020600246,225,2207,Joe Johnson,1610612737,Atlanta Hawks,3,11,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,23,97,209,1,1,20061203,POR,ATL
+Shot Chart Detail,0020600246,232,2207,Joe Johnson,1610612737,Atlanta Hawks,3,10,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061203,POR,ATL
+Shot Chart Detail,0020600246,242,2207,Joe Johnson,1610612737,Atlanta Hawks,3,9,16,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,8,1,1,20061203,POR,ATL
+Shot Chart Detail,0020600246,255,2207,Joe Johnson,1610612737,Atlanta Hawks,3,7,40,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-16,82,1,1,20061203,POR,ATL
+Shot Chart Detail,0020600246,302,2207,Joe Johnson,1610612737,Atlanta Hawks,3,2,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061203,POR,ATL
+Shot Chart Detail,0020600246,330,2207,Joe Johnson,1610612737,Atlanta Hawks,4,11,6,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-39,74,1,1,20061203,POR,ATL
+Shot Chart Detail,0020600246,361,2207,Joe Johnson,1610612737,Atlanta Hawks,4,7,27,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061203,POR,ATL
+Shot Chart Detail,0020600246,381,2207,Joe Johnson,1610612737,Atlanta Hawks,4,5,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-95,178,1,1,20061203,POR,ATL
+Shot Chart Detail,0020600259,13,2207,Joe Johnson,1610612737,Atlanta Hawks,1,10,36,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,57,51,1,1,20061205,SEA,ATL
+Shot Chart Detail,0020600259,120,2207,Joe Johnson,1610612737,Atlanta Hawks,1,1,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-71,158,1,1,20061205,SEA,ATL
+Shot Chart Detail,0020600259,167,2207,Joe Johnson,1610612737,Atlanta Hawks,2,9,16,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-149,8,1,1,20061205,SEA,ATL
+Shot Chart Detail,0020600259,208,2207,Joe Johnson,1610612737,Atlanta Hawks,2,5,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061205,SEA,ATL
+Shot Chart Detail,0020600259,223,2207,Joe Johnson,1610612737,Atlanta Hawks,2,4,20,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-46,15,1,1,20061205,SEA,ATL
+Shot Chart Detail,0020600259,257,2207,Joe Johnson,1610612737,Atlanta Hawks,2,1,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061205,SEA,ATL
+Shot Chart Detail,0020600259,312,2207,Joe Johnson,1610612737,Atlanta Hawks,3,9,15,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-11,49,1,1,20061205,SEA,ATL
+Shot Chart Detail,0020600259,322,2207,Joe Johnson,1610612737,Atlanta Hawks,3,8,12,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,25,1,1,20061205,SEA,ATL
+Shot Chart Detail,0020600259,350,2207,Joe Johnson,1610612737,Atlanta Hawks,3,5,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061205,SEA,ATL
+Shot Chart Detail,0020600259,374,2207,Joe Johnson,1610612737,Atlanta Hawks,3,3,23,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061205,SEA,ATL
+Shot Chart Detail,0020600259,380,2207,Joe Johnson,1610612737,Atlanta Hawks,3,2,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-176,187,1,1,20061205,SEA,ATL
+Shot Chart Detail,0020600259,435,2207,Joe Johnson,1610612737,Atlanta Hawks,4,10,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-195,8,1,1,20061205,SEA,ATL
+Shot Chart Detail,0020600259,463,2207,Joe Johnson,1610612737,Atlanta Hawks,4,8,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,161,89,1,1,20061205,SEA,ATL
+Shot Chart Detail,0020600259,480,2207,Joe Johnson,1610612737,Atlanta Hawks,4,6,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-192,173,1,1,20061205,SEA,ATL
+Shot Chart Detail,0020600269,14,2207,Joe Johnson,1610612737,Atlanta Hawks,1,10,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,80,158,1,1,20061206,DEN,ATL
+Shot Chart Detail,0020600269,16,2207,Joe Johnson,1610612737,Atlanta Hawks,1,9,49,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-13,56,1,1,20061206,DEN,ATL
+Shot Chart Detail,0020600269,37,2207,Joe Johnson,1610612737,Atlanta Hawks,1,7,6,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,1,61,1,1,20061206,DEN,ATL
+Shot Chart Detail,0020600269,211,2207,Joe Johnson,1610612737,Atlanta Hawks,2,4,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-133,53,1,1,20061206,DEN,ATL
+Shot Chart Detail,0020600269,321,2207,Joe Johnson,1610612737,Atlanta Hawks,3,6,10,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,11,69,1,1,20061206,DEN,ATL
+Shot Chart Detail,0020600269,434,2207,Joe Johnson,1610612737,Atlanta Hawks,4,8,25,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061206,DEN,ATL
+Shot Chart Detail,0020600269,447,2207,Joe Johnson,1610612737,Atlanta Hawks,4,7,13,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,238,-13,1,1,20061206,DEN,ATL
+Shot Chart Detail,0020600269,462,2207,Joe Johnson,1610612737,Atlanta Hawks,4,6,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061206,DEN,ATL
+Shot Chart Detail,0020600269,493,2207,Joe Johnson,1610612737,Atlanta Hawks,4,3,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,220,160,1,1,20061206,DEN,ATL
+Shot Chart Detail,0020600284,16,2207,Joe Johnson,1610612737,Atlanta Hawks,1,9,26,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061208,LAL,ATL
+Shot Chart Detail,0020600284,68,2207,Joe Johnson,1610612737,Atlanta Hawks,1,2,51,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061208,LAL,ATL
+Shot Chart Detail,0020600284,72,2207,Joe Johnson,1610612737,Atlanta Hawks,1,2,19,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,20,66,1,1,20061208,LAL,ATL
+Shot Chart Detail,0020600284,119,2207,Joe Johnson,1610612737,Atlanta Hawks,2,10,30,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-222,10,1,1,20061208,LAL,ATL
+Shot Chart Detail,0020600284,128,2207,Joe Johnson,1610612737,Atlanta Hawks,2,8,59,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,87,79,1,1,20061208,LAL,ATL
+Shot Chart Detail,0020600284,169,2207,Joe Johnson,1610612737,Atlanta Hawks,2,5,30,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061208,LAL,ATL
+Shot Chart Detail,0020600284,178,2207,Joe Johnson,1610612737,Atlanta Hawks,2,4,33,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,236,-6,1,1,20061208,LAL,ATL
+Shot Chart Detail,0020600284,276,2207,Joe Johnson,1610612737,Atlanta Hawks,3,6,16,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061208,LAL,ATL
+Shot Chart Detail,0020600284,281,2207,Joe Johnson,1610612737,Atlanta Hawks,3,5,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,156,17,1,1,20061208,LAL,ATL
+Shot Chart Detail,0020600284,303,2207,Joe Johnson,1610612737,Atlanta Hawks,3,3,35,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061208,LAL,ATL
+Shot Chart Detail,0020600284,349,2207,Joe Johnson,1610612737,Atlanta Hawks,3,0,8,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-23,58,1,1,20061208,LAL,ATL
+Shot Chart Detail,0020600284,359,2207,Joe Johnson,1610612737,Atlanta Hawks,4,10,39,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061208,LAL,ATL
+Shot Chart Detail,0020600284,429,2207,Joe Johnson,1610612737,Atlanta Hawks,4,5,27,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061208,LAL,ATL
+Shot Chart Detail,0020600342,2,2207,Joe Johnson,1610612737,Atlanta Hawks,1,11,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-189,30,1,1,20061216,ATL,CHI
+Shot Chart Detail,0020600342,62,2207,Joe Johnson,1610612737,Atlanta Hawks,1,5,3,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,238,31,1,1,20061216,ATL,CHI
+Shot Chart Detail,0020600342,79,2207,Joe Johnson,1610612737,Atlanta Hawks,1,3,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061216,ATL,CHI
+Shot Chart Detail,0020600342,177,2207,Joe Johnson,1610612737,Atlanta Hawks,2,7,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,120,247,1,1,20061216,ATL,CHI
+Shot Chart Detail,0020600342,203,2207,Joe Johnson,1610612737,Atlanta Hawks,2,4,26,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061216,ATL,CHI
+Shot Chart Detail,0020600342,238,2207,Joe Johnson,1610612737,Atlanta Hawks,2,0,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,146,143,1,1,20061216,ATL,CHI
+Shot Chart Detail,0020600342,329,2207,Joe Johnson,1610612737,Atlanta Hawks,3,5,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-182,33,1,1,20061216,ATL,CHI
+Shot Chart Detail,0020600342,367,2207,Joe Johnson,1610612737,Atlanta Hawks,3,2,19,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-243,10,1,1,20061216,ATL,CHI
+Shot Chart Detail,0020600342,385,2207,Joe Johnson,1610612737,Atlanta Hawks,3,0,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-161,82,1,1,20061216,ATL,CHI
+Shot Chart Detail,0020600365,30,2207,Joe Johnson,1610612737,Atlanta Hawks,1,9,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061220,ATL,UTA
+Shot Chart Detail,0020600365,52,2207,Joe Johnson,1610612737,Atlanta Hawks,1,7,8,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061220,ATL,UTA
+Shot Chart Detail,0020600365,80,2207,Joe Johnson,1610612737,Atlanta Hawks,1,4,45,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061220,ATL,UTA
+Shot Chart Detail,0020600365,170,2207,Joe Johnson,1610612737,Atlanta Hawks,2,8,31,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061220,ATL,UTA
+Shot Chart Detail,0020600365,320,2207,Joe Johnson,1610612737,Atlanta Hawks,3,7,5,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061220,ATL,UTA
+Shot Chart Detail,0020600365,334,2207,Joe Johnson,1610612737,Atlanta Hawks,3,5,56,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,59,179,1,1,20061220,ATL,UTA
+Shot Chart Detail,0020600365,357,2207,Joe Johnson,1610612737,Atlanta Hawks,3,3,53,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,241,18,1,1,20061220,ATL,UTA
+Shot Chart Detail,0020600365,452,2207,Joe Johnson,1610612737,Atlanta Hawks,4,9,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061220,ATL,UTA
+Shot Chart Detail,0020600365,553,2207,Joe Johnson,1610612737,Atlanta Hawks,4,0,42,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061220,ATL,UTA
+Shot Chart Detail,0020600383,7,2207,Joe Johnson,1610612737,Atlanta Hawks,1,11,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061222,ATL,IND
+Shot Chart Detail,0020600383,56,2207,Joe Johnson,1610612737,Atlanta Hawks,1,5,40,Made Shot,Turnaround Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061222,ATL,IND
+Shot Chart Detail,0020600383,59,2207,Joe Johnson,1610612737,Atlanta Hawks,1,5,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-205,164,1,1,20061222,ATL,IND
+Shot Chart Detail,0020600383,72,2207,Joe Johnson,1610612737,Atlanta Hawks,1,4,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-102,35,1,1,20061222,ATL,IND
+Shot Chart Detail,0020600383,202,2207,Joe Johnson,1610612737,Atlanta Hawks,2,6,8,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,12,1,1,20061222,ATL,IND
+Shot Chart Detail,0020600383,210,2207,Joe Johnson,1610612737,Atlanta Hawks,2,5,35,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061222,ATL,IND
+Shot Chart Detail,0020600383,223,2207,Joe Johnson,1610612737,Atlanta Hawks,2,4,33,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,184,91,1,1,20061222,ATL,IND
+Shot Chart Detail,0020600383,257,2207,Joe Johnson,1610612737,Atlanta Hawks,2,2,13,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,33,105,1,1,20061222,ATL,IND
+Shot Chart Detail,0020600383,272,2207,Joe Johnson,1610612737,Atlanta Hawks,2,0,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061222,ATL,IND
+Shot Chart Detail,0020600383,284,2207,Joe Johnson,1610612737,Atlanta Hawks,2,0,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061222,ATL,IND
+Shot Chart Detail,0020600383,291,2207,Joe Johnson,1610612737,Atlanta Hawks,3,11,40,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,46,77,1,1,20061222,ATL,IND
+Shot Chart Detail,0020600383,325,2207,Joe Johnson,1610612737,Atlanta Hawks,3,8,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061222,ATL,IND
+Shot Chart Detail,0020600383,404,2207,Joe Johnson,1610612737,Atlanta Hawks,3,0,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061222,ATL,IND
+Shot Chart Detail,0020600383,521,2207,Joe Johnson,1610612737,Atlanta Hawks,4,3,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-5,209,1,1,20061222,ATL,IND
+Shot Chart Detail,0020600395,17,2207,Joe Johnson,1610612737,Atlanta Hawks,1,9,56,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-16,99,1,1,20061223,DET,ATL
+Shot Chart Detail,0020600395,49,2207,Joe Johnson,1610612737,Atlanta Hawks,1,6,22,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061223,DET,ATL
+Shot Chart Detail,0020600395,136,2207,Joe Johnson,1610612737,Atlanta Hawks,2,10,3,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,94,48,1,1,20061223,DET,ATL
+Shot Chart Detail,0020600395,160,2207,Joe Johnson,1610612737,Atlanta Hawks,2,7,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-181,0,1,1,20061223,DET,ATL
+Shot Chart Detail,0020600395,283,2207,Joe Johnson,1610612737,Atlanta Hawks,3,7,28,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,28,68,1,1,20061223,DET,ATL
+Shot Chart Detail,0020600395,346,2207,Joe Johnson,1610612737,Atlanta Hawks,3,1,44,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061223,DET,ATL
+Shot Chart Detail,0020600417,57,2207,Joe Johnson,1610612737,Atlanta Hawks,1,5,30,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061227,ATL,CLE
+Shot Chart Detail,0020600417,140,2207,Joe Johnson,1610612737,Atlanta Hawks,2,10,42,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,10,1,1,20061227,ATL,CLE
+Shot Chart Detail,0020600417,198,2207,Joe Johnson,1610612737,Atlanta Hawks,2,5,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061227,ATL,CLE
+Shot Chart Detail,0020600417,308,2207,Joe Johnson,1610612737,Atlanta Hawks,3,7,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-166,109,1,1,20061227,ATL,CLE
+Shot Chart Detail,0020600437,24,2207,Joe Johnson,1610612737,Atlanta Hawks,1,8,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061229,HOU,ATL
+Shot Chart Detail,0020600437,155,2207,Joe Johnson,1610612737,Atlanta Hawks,2,6,35,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061229,HOU,ATL
+Shot Chart Detail,0020600437,204,2207,Joe Johnson,1610612737,Atlanta Hawks,2,1,47,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061229,HOU,ATL
+Shot Chart Detail,0020600437,211,2207,Joe Johnson,1610612737,Atlanta Hawks,2,1,9,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-33,174,1,1,20061229,HOU,ATL
+Shot Chart Detail,0020600437,334,2207,Joe Johnson,1610612737,Atlanta Hawks,3,2,29,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-56,160,1,1,20061229,HOU,ATL
+Shot Chart Detail,0020600451,39,2207,Joe Johnson,1610612737,Atlanta Hawks,1,7,20,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,3,30,1,1,20061231,SAS,ATL
+Shot Chart Detail,0020600451,67,2207,Joe Johnson,1610612737,Atlanta Hawks,1,4,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-205,-6,1,1,20061231,SAS,ATL
+Shot Chart Detail,0020600451,97,2207,Joe Johnson,1610612737,Atlanta Hawks,1,1,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-90,141,1,1,20061231,SAS,ATL
+Shot Chart Detail,0020600451,212,2207,Joe Johnson,1610612737,Atlanta Hawks,2,1,14,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-3,12,1,1,20061231,SAS,ATL
+Shot Chart Detail,0020600451,277,2207,Joe Johnson,1610612737,Atlanta Hawks,3,5,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-61,237,1,1,20061231,SAS,ATL
+Shot Chart Detail,0020600451,281,2207,Joe Johnson,1610612737,Atlanta Hawks,3,4,26,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,20,58,1,1,20061231,SAS,ATL
+Shot Chart Detail,0020600451,428,2207,Joe Johnson,1610612737,Atlanta Hawks,4,3,33,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,-9,1,1,20061231,SAS,ATL
+Shot Chart Detail,0020600451,446,2207,Joe Johnson,1610612737,Atlanta Hawks,4,2,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-115,215,1,1,20061231,SAS,ATL
+Shot Chart Detail,0020600479,149,2207,Joe Johnson,1610612737,Atlanta Hawks,2,8,3,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,10,122,1,1,20070105,TOR,ATL
+Shot Chart Detail,0020600479,160,2207,Joe Johnson,1610612737,Atlanta Hawks,2,6,23,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,61,125,1,1,20070105,TOR,ATL
+Shot Chart Detail,0020600479,181,2207,Joe Johnson,1610612737,Atlanta Hawks,2,4,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-6,253,1,1,20070105,TOR,ATL
+Shot Chart Detail,0020600479,217,2207,Joe Johnson,1610612737,Atlanta Hawks,2,0,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,117,151,1,1,20070105,TOR,ATL
+Shot Chart Detail,0020600479,244,2207,Joe Johnson,1610612737,Atlanta Hawks,3,10,11,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070105,TOR,ATL
+Shot Chart Detail,0020600479,315,2207,Joe Johnson,1610612737,Atlanta Hawks,3,3,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,0,214,1,1,20070105,TOR,ATL
+Shot Chart Detail,0020600479,402,2207,Joe Johnson,1610612737,Atlanta Hawks,4,6,16,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,82,64,1,1,20070105,TOR,ATL
+Shot Chart Detail,0020600491,51,2207,Joe Johnson,1610612737,Atlanta Hawks,1,5,17,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-62,114,1,1,20070106,ATL,LAC
+Shot Chart Detail,0020600491,64,2207,Joe Johnson,1610612737,Atlanta Hawks,1,3,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,205,181,1,1,20070106,ATL,LAC
+Shot Chart Detail,0020600491,83,2207,Joe Johnson,1610612737,Atlanta Hawks,1,1,53,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,236,48,1,1,20070106,ATL,LAC
+Shot Chart Detail,0020600491,193,2207,Joe Johnson,1610612737,Atlanta Hawks,2,4,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,140,160,1,1,20070106,ATL,LAC
+Shot Chart Detail,0020600491,250,2207,Joe Johnson,1610612737,Atlanta Hawks,2,0,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-71,163,1,1,20070106,ATL,LAC
+Shot Chart Detail,0020600491,278,2207,Joe Johnson,1610612737,Atlanta Hawks,3,9,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,82,161,1,1,20070106,ATL,LAC
+Shot Chart Detail,0020600491,320,2207,Joe Johnson,1610612737,Atlanta Hawks,3,4,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-92,82,1,1,20070106,ATL,LAC
+Shot Chart Detail,0020600491,449,2207,Joe Johnson,1610612737,Atlanta Hawks,4,4,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,110,158,1,1,20070106,ATL,LAC
+Shot Chart Detail,0020600509,10,2207,Joe Johnson,1610612737,Atlanta Hawks,1,11,0,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,-14,1,1,20070109,IND,ATL
+Shot Chart Detail,0020600509,269,2207,Joe Johnson,1610612737,Atlanta Hawks,3,7,38,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,243,-1,1,1,20070109,IND,ATL
+Shot Chart Detail,0020600509,304,2207,Joe Johnson,1610612737,Atlanta Hawks,3,4,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-118,166,1,1,20070109,IND,ATL
+Shot Chart Detail,0020600517,12,2207,Joe Johnson,1610612737,Atlanta Hawks,1,10,17,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,47,56,1,1,20070110,ATL,NOK
+Shot Chart Detail,0020600517,56,2207,Joe Johnson,1610612737,Atlanta Hawks,1,5,17,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070110,ATL,NOK
+Shot Chart Detail,0020600517,211,2207,Joe Johnson,1610612737,Atlanta Hawks,2,2,48,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,164,91,1,1,20070110,ATL,NOK
+Shot Chart Detail,0020600517,233,2207,Joe Johnson,1610612737,Atlanta Hawks,2,1,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-182,81,1,1,20070110,ATL,NOK
+Shot Chart Detail,0020600517,315,2207,Joe Johnson,1610612737,Atlanta Hawks,3,4,33,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,28,89,1,1,20070110,ATL,NOK
+Shot Chart Detail,0020600517,396,2207,Joe Johnson,1610612737,Atlanta Hawks,4,8,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,140,232,1,1,20070110,ATL,NOK
+Shot Chart Detail,0020600534,33,2207,Joe Johnson,1610612737,Atlanta Hawks,1,8,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-168,45,1,1,20070112,ATL,DET
+Shot Chart Detail,0020600534,44,2207,Joe Johnson,1610612737,Atlanta Hawks,1,7,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-39,171,1,1,20070112,ATL,DET
+Shot Chart Detail,0020600534,61,2207,Joe Johnson,1610612737,Atlanta Hawks,1,5,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,179,28,1,1,20070112,ATL,DET
+Shot Chart Detail,0020600534,66,2207,Joe Johnson,1610612737,Atlanta Hawks,1,4,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,223,133,1,1,20070112,ATL,DET
+Shot Chart Detail,0020600534,87,2207,Joe Johnson,1610612737,Atlanta Hawks,1,2,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-195,30,1,1,20070112,ATL,DET
+Shot Chart Detail,0020600534,250,2207,Joe Johnson,1610612737,Atlanta Hawks,3,11,10,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-71,168,1,1,20070112,ATL,DET
+Shot Chart Detail,0020600534,283,2207,Joe Johnson,1610612737,Atlanta Hawks,3,7,10,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,241,41,1,1,20070112,ATL,DET
+Shot Chart Detail,0020600534,285,2207,Joe Johnson,1610612737,Atlanta Hawks,3,6,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-28,261,1,1,20070112,ATL,DET
+Shot Chart Detail,0020600534,314,2207,Joe Johnson,1610612737,Atlanta Hawks,3,3,55,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070112,ATL,DET
+Shot Chart Detail,0020600534,326,2207,Joe Johnson,1610612737,Atlanta Hawks,3,2,39,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,53,1,1,20070112,ATL,DET
+Shot Chart Detail,0020600534,355,2207,Joe Johnson,1610612737,Atlanta Hawks,4,11,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070112,ATL,DET
+Shot Chart Detail,0020600534,370,2207,Joe Johnson,1610612737,Atlanta Hawks,4,9,15,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-34,133,1,1,20070112,ATL,DET
+Shot Chart Detail,0020600534,451,2207,Joe Johnson,1610612737,Atlanta Hawks,4,2,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070112,ATL,DET
+Shot Chart Detail,0020600558,264,2207,Joe Johnson,1610612737,Atlanta Hawks,2,2,4,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,59,122,1,1,20070115,ATL,BOS
+Shot Chart Detail,0020600558,266,2207,Joe Johnson,1610612737,Atlanta Hawks,2,1,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,149,140,1,1,20070115,ATL,BOS
+Shot Chart Detail,0020600558,294,2207,Joe Johnson,1610612737,Atlanta Hawks,3,11,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-202,20,1,1,20070115,ATL,BOS
+Shot Chart Detail,0020600558,301,2207,Joe Johnson,1610612737,Atlanta Hawks,3,9,49,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-243,58,1,1,20070115,ATL,BOS
+Shot Chart Detail,0020600558,346,2207,Joe Johnson,1610612737,Atlanta Hawks,3,5,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,22,-8,224,1,1,20070115,ATL,BOS
+Shot Chart Detail,0020600558,394,2207,Joe Johnson,1610612737,Atlanta Hawks,4,11,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070115,ATL,BOS
+Shot Chart Detail,0020600558,404,2207,Joe Johnson,1610612737,Atlanta Hawks,4,10,37,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070115,ATL,BOS
+Shot Chart Detail,0020600558,444,2207,Joe Johnson,1610612737,Atlanta Hawks,4,5,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-177,196,1,1,20070115,ATL,BOS
+Shot Chart Detail,0020600574,21,2207,Joe Johnson,1610612737,Atlanta Hawks,1,9,21,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-103,31,1,1,20070117,MIN,ATL
+Shot Chart Detail,0020600574,36,2207,Joe Johnson,1610612737,Atlanta Hawks,1,7,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070117,MIN,ATL
+Shot Chart Detail,0020600574,45,2207,Joe Johnson,1610612737,Atlanta Hawks,1,6,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-156,99,1,1,20070117,MIN,ATL
+Shot Chart Detail,0020600574,70,2207,Joe Johnson,1610612737,Atlanta Hawks,1,4,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,128,160,1,1,20070117,MIN,ATL
+Shot Chart Detail,0020600574,87,2207,Joe Johnson,1610612737,Atlanta Hawks,1,3,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,113,153,1,1,20070117,MIN,ATL
+Shot Chart Detail,0020600574,98,2207,Joe Johnson,1610612737,Atlanta Hawks,1,1,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,199,135,1,1,20070117,MIN,ATL
+Shot Chart Detail,0020600574,152,2207,Joe Johnson,1610612737,Atlanta Hawks,2,7,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,153,192,1,1,20070117,MIN,ATL
+Shot Chart Detail,0020600574,157,2207,Joe Johnson,1610612737,Atlanta Hawks,2,7,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-44,238,1,1,20070117,MIN,ATL
+Shot Chart Detail,0020600574,194,2207,Joe Johnson,1610612737,Atlanta Hawks,2,3,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-156,23,1,1,20070117,MIN,ATL
+Shot Chart Detail,0020600574,205,2207,Joe Johnson,1610612737,Atlanta Hawks,2,2,10,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,-5,1,1,20070117,MIN,ATL
+Shot Chart Detail,0020600574,231,2207,Joe Johnson,1610612737,Atlanta Hawks,3,11,41,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-241,20,1,1,20070117,MIN,ATL
+Shot Chart Detail,0020600574,338,2207,Joe Johnson,1610612737,Atlanta Hawks,4,10,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-168,63,1,1,20070117,MIN,ATL
+Shot Chart Detail,0020600586,34,2207,Joe Johnson,1610612737,Atlanta Hawks,1,7,57,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,5,115,1,1,20070119,ATL,CHA
+Shot Chart Detail,0020600586,86,2207,Joe Johnson,1610612737,Atlanta Hawks,1,2,37,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,31,82,1,1,20070119,ATL,CHA
+Shot Chart Detail,0020600586,88,2207,Joe Johnson,1610612737,Atlanta Hawks,1,2,11,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070119,ATL,CHA
+Shot Chart Detail,0020600586,97,2207,Joe Johnson,1610612737,Atlanta Hawks,1,1,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,182,28,1,1,20070119,ATL,CHA
+Shot Chart Detail,0020600586,177,2207,Joe Johnson,1610612737,Atlanta Hawks,2,6,47,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,11,66,1,1,20070119,ATL,CHA
+Shot Chart Detail,0020600586,194,2207,Joe Johnson,1610612737,Atlanta Hawks,2,4,40,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-3,31,1,1,20070119,ATL,CHA
+Shot Chart Detail,0020600586,314,2207,Joe Johnson,1610612737,Atlanta Hawks,3,5,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070119,ATL,CHA
+Shot Chart Detail,0020600586,335,2207,Joe Johnson,1610612737,Atlanta Hawks,3,2,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,172,43,1,1,20070119,ATL,CHA
+Shot Chart Detail,0020600593,2,2207,Joe Johnson,1610612737,Atlanta Hawks,1,11,39,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,69,3,1,1,20070120,CHA,ATL
+Shot Chart Detail,0020600593,226,2207,Joe Johnson,1610612737,Atlanta Hawks,3,10,56,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-44,61,1,1,20070120,CHA,ATL
+Shot Chart Detail,0020600593,247,2207,Joe Johnson,1610612737,Atlanta Hawks,3,8,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-136,146,1,1,20070120,CHA,ATL
+Shot Chart Detail,0020600593,271,2207,Joe Johnson,1610612737,Atlanta Hawks,3,5,14,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,34,31,1,1,20070120,CHA,ATL
+Shot Chart Detail,0020600593,279,2207,Joe Johnson,1610612737,Atlanta Hawks,3,4,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-41,174,1,1,20070120,CHA,ATL
+Shot Chart Detail,0020600593,377,2207,Joe Johnson,1610612737,Atlanta Hawks,4,3,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,61,168,1,1,20070120,CHA,ATL
+Shot Chart Detail,0020600593,380,2207,Joe Johnson,1610612737,Atlanta Hawks,4,2,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-95,237,1,1,20070120,CHA,ATL
+Shot Chart Detail,0020600618,22,2207,Joe Johnson,1610612737,Atlanta Hawks,1,8,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,146,150,1,1,20070123,CHI,ATL
+Shot Chart Detail,0020600618,64,2207,Joe Johnson,1610612737,Atlanta Hawks,1,3,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-161,112,1,1,20070123,CHI,ATL
+Shot Chart Detail,0020600618,164,2207,Joe Johnson,1610612737,Atlanta Hawks,2,6,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,102,186,1,1,20070123,CHI,ATL
+Shot Chart Detail,0020600618,220,2207,Joe Johnson,1610612737,Atlanta Hawks,2,0,24,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-51,107,1,1,20070123,CHI,ATL
+Shot Chart Detail,0020600618,261,2207,Joe Johnson,1610612737,Atlanta Hawks,3,7,45,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070123,CHI,ATL
+Shot Chart Detail,0020600618,269,2207,Joe Johnson,1610612737,Atlanta Hawks,3,6,52,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-18,120,1,1,20070123,CHI,ATL
+Shot Chart Detail,0020600618,289,2207,Joe Johnson,1610612737,Atlanta Hawks,3,4,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,84,143,1,1,20070123,CHI,ATL
+Shot Chart Detail,0020600618,307,2207,Joe Johnson,1610612737,Atlanta Hawks,3,3,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-64,168,1,1,20070123,CHI,ATL
+Shot Chart Detail,0020600618,343,2207,Joe Johnson,1610612737,Atlanta Hawks,3,0,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070123,CHI,ATL
+Shot Chart Detail,0020600618,381,2207,Joe Johnson,1610612737,Atlanta Hawks,4,9,38,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070123,CHI,ATL
+Shot Chart Detail,0020600618,387,2207,Joe Johnson,1610612737,Atlanta Hawks,4,9,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-168,36,1,1,20070123,CHI,ATL
+Shot Chart Detail,0020600618,462,2207,Joe Johnson,1610612737,Atlanta Hawks,4,1,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,128,169,1,1,20070123,CHI,ATL
+Shot Chart Detail,0020600625,136,2207,Joe Johnson,1610612737,Atlanta Hawks,2,10,39,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-69,58,1,1,20070124,BOS,ATL
+Shot Chart Detail,0020600625,171,2207,Joe Johnson,1610612737,Atlanta Hawks,2,7,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,0,1,1,20070124,BOS,ATL
+Shot Chart Detail,0020600625,314,2207,Joe Johnson,1610612737,Atlanta Hawks,3,5,35,Made Shot,Jump Shot,3PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,23,194,135,1,1,20070124,BOS,ATL
+Shot Chart Detail,0020600625,317,2207,Joe Johnson,1610612737,Atlanta Hawks,3,5,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,6,158,1,1,20070124,BOS,ATL
+Shot Chart Detail,0020600625,380,2207,Joe Johnson,1610612737,Atlanta Hawks,4,11,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-90,92,1,1,20070124,BOS,ATL
+Shot Chart Detail,0020600625,417,2207,Joe Johnson,1610612737,Atlanta Hawks,4,7,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-200,-1,1,1,20070124,BOS,ATL
+Shot Chart Detail,0020600625,467,2207,Joe Johnson,1610612737,Atlanta Hawks,4,1,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-149,143,1,1,20070124,BOS,ATL
+Shot Chart Detail,0020600636,3,2207,Joe Johnson,1610612737,Atlanta Hawks,1,11,13,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-136,91,1,1,20070126,ORL,ATL
+Shot Chart Detail,0020600636,34,2207,Joe Johnson,1610612737,Atlanta Hawks,1,7,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,135,99,1,1,20070126,ORL,ATL
+Shot Chart Detail,0020600636,50,2207,Joe Johnson,1610612737,Atlanta Hawks,1,5,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-138,100,1,1,20070126,ORL,ATL
+Shot Chart Detail,0020600636,69,2207,Joe Johnson,1610612737,Atlanta Hawks,1,3,20,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,245,-14,1,1,20070126,ORL,ATL
+Shot Chart Detail,0020600636,200,2207,Joe Johnson,1610612737,Atlanta Hawks,2,1,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-130,77,1,1,20070126,ORL,ATL
+Shot Chart Detail,0020600636,208,2207,Joe Johnson,1610612737,Atlanta Hawks,2,0,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070126,ORL,ATL
+Shot Chart Detail,0020600636,232,2207,Joe Johnson,1610612737,Atlanta Hawks,3,9,20,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,136,-18,1,1,20070126,ORL,ATL
+Shot Chart Detail,0020600636,235,2207,Joe Johnson,1610612737,Atlanta Hawks,3,8,56,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,149,-14,1,1,20070126,ORL,ATL
+Shot Chart Detail,0020600636,255,2207,Joe Johnson,1610612737,Atlanta Hawks,3,5,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,133,109,1,1,20070126,ORL,ATL
+Shot Chart Detail,0020600636,260,2207,Joe Johnson,1610612737,Atlanta Hawks,3,4,48,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,236,-9,1,1,20070126,ORL,ATL
+Shot Chart Detail,0020600636,339,2207,Joe Johnson,1610612737,Atlanta Hawks,4,7,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,140,130,1,1,20070126,ORL,ATL
+Shot Chart Detail,0020600636,342,2207,Joe Johnson,1610612737,Atlanta Hawks,4,7,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-133,104,1,1,20070126,ORL,ATL
+Shot Chart Detail,0020600636,399,2207,Joe Johnson,1610612737,Atlanta Hawks,4,2,24,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,44,48,1,1,20070126,ORL,ATL
+Shot Chart Detail,0020600636,409,2207,Joe Johnson,1610612737,Atlanta Hawks,4,1,48,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-71,46,1,1,20070126,ORL,ATL
+Shot Chart Detail,0020600646,174,2207,Joe Johnson,1610612737,Atlanta Hawks,2,5,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-110,238,1,1,20070127,ATL,PHI
+Shot Chart Detail,0020600646,176,2207,Joe Johnson,1610612737,Atlanta Hawks,2,4,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070127,ATL,PHI
+Shot Chart Detail,0020600646,180,2207,Joe Johnson,1610612737,Atlanta Hawks,2,3,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,158,30,1,1,20070127,ATL,PHI
+Shot Chart Detail,0020600646,231,2207,Joe Johnson,1610612737,Atlanta Hawks,3,11,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070127,ATL,PHI
+Shot Chart Detail,0020600646,307,2207,Joe Johnson,1610612737,Atlanta Hawks,3,4,2,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,0,132,1,1,20070127,ATL,PHI
+Shot Chart Detail,0020600646,412,2207,Joe Johnson,1610612737,Atlanta Hawks,4,6,56,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-2,64,1,1,20070127,ATL,PHI
+Shot Chart Detail,0020600661,2,2207,Joe Johnson,1610612737,Atlanta Hawks,1,11,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,146,105,1,1,20070129,ATL,ORL
+Shot Chart Detail,0020600661,15,2207,Joe Johnson,1610612737,Atlanta Hawks,1,10,10,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,0,1,1,20070129,ATL,ORL
+Shot Chart Detail,0020600661,52,2207,Joe Johnson,1610612737,Atlanta Hawks,1,6,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070129,ATL,ORL
+Shot Chart Detail,0020600661,193,2207,Joe Johnson,1610612737,Atlanta Hawks,2,3,54,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,31,61,1,1,20070129,ATL,ORL
+Shot Chart Detail,0020600661,300,2207,Joe Johnson,1610612737,Atlanta Hawks,3,5,37,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,16,114,1,1,20070129,ATL,ORL
+Shot Chart Detail,0020600661,318,2207,Joe Johnson,1610612737,Atlanta Hawks,3,4,9,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-243,49,1,1,20070129,ATL,ORL
+Shot Chart Detail,0020600661,339,2207,Joe Johnson,1610612737,Atlanta Hawks,3,1,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,169,197,1,1,20070129,ATL,ORL
+Shot Chart Detail,0020600661,387,2207,Joe Johnson,1610612737,Atlanta Hawks,4,8,3,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,131,120,1,1,20070129,ATL,ORL
+Shot Chart Detail,0020600661,389,2207,Joe Johnson,1610612737,Atlanta Hawks,4,7,28,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-28,54,1,1,20070129,ATL,ORL
+Shot Chart Detail,0020600661,405,2207,Joe Johnson,1610612737,Atlanta Hawks,4,5,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-145,148,1,1,20070129,ATL,ORL
+Shot Chart Detail,0020600661,409,2207,Joe Johnson,1610612737,Atlanta Hawks,4,5,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-153,100,1,1,20070129,ATL,ORL
+Shot Chart Detail,0020600661,436,2207,Joe Johnson,1610612737,Atlanta Hawks,4,3,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-143,215,1,1,20070129,ATL,ORL
+Shot Chart Detail,0020600676,70,2207,Joe Johnson,1610612737,Atlanta Hawks,1,3,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070131,ATL,GSW
+Shot Chart Detail,0020600676,109,2207,Joe Johnson,1610612737,Atlanta Hawks,1,0,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,158,215,1,1,20070131,ATL,GSW
+Shot Chart Detail,0020600676,129,2207,Joe Johnson,1610612737,Atlanta Hawks,2,10,23,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,33,1,1,20070131,ATL,GSW
+Shot Chart Detail,0020600676,212,2207,Joe Johnson,1610612737,Atlanta Hawks,2,3,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,169,48,1,1,20070131,ATL,GSW
+Shot Chart Detail,0020600676,217,2207,Joe Johnson,1610612737,Atlanta Hawks,2,2,55,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,25,1,1,20070131,ATL,GSW
+Shot Chart Detail,0020600676,278,2207,Joe Johnson,1610612737,Atlanta Hawks,3,9,40,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-2,45,1,1,20070131,ATL,GSW
+Shot Chart Detail,0020600676,288,2207,Joe Johnson,1610612737,Atlanta Hawks,3,8,19,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,49,59,1,1,20070131,ATL,GSW
+Shot Chart Detail,0020600676,306,2207,Joe Johnson,1610612737,Atlanta Hawks,3,6,36,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-238,54,1,1,20070131,ATL,GSW
+Shot Chart Detail,0020600676,319,2207,Joe Johnson,1610612737,Atlanta Hawks,3,5,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,212,145,1,1,20070131,ATL,GSW
+Shot Chart Detail,0020600676,403,2207,Joe Johnson,1610612737,Atlanta Hawks,4,10,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-194,171,1,1,20070131,ATL,GSW
+Shot Chart Detail,0020600693,62,2207,Joe Johnson,1610612737,Atlanta Hawks,1,4,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070202,ATL,TOR
+Shot Chart Detail,0020600693,84,2207,Joe Johnson,1610612737,Atlanta Hawks,1,2,59,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070202,ATL,TOR
+Shot Chart Detail,0020600693,254,2207,Joe Johnson,1610612737,Atlanta Hawks,3,11,17,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-64,61,1,1,20070202,ATL,TOR
+Shot Chart Detail,0020600693,260,2207,Joe Johnson,1610612737,Atlanta Hawks,3,10,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,90,160,1,1,20070202,ATL,TOR
+Shot Chart Detail,0020600693,265,2207,Joe Johnson,1610612737,Atlanta Hawks,3,9,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070202,ATL,TOR
+Shot Chart Detail,0020600693,275,2207,Joe Johnson,1610612737,Atlanta Hawks,3,8,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070202,ATL,TOR
+Shot Chart Detail,0020600693,305,2207,Joe Johnson,1610612737,Atlanta Hawks,3,5,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070202,ATL,TOR
+Shot Chart Detail,0020600693,311,2207,Joe Johnson,1610612737,Atlanta Hawks,3,4,29,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,169,28,1,1,20070202,ATL,TOR
+Shot Chart Detail,0020600693,316,2207,Joe Johnson,1610612737,Atlanta Hawks,3,3,51,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070202,ATL,TOR
+Shot Chart Detail,0020600693,329,2207,Joe Johnson,1610612737,Atlanta Hawks,3,2,28,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,59,1,1,20070202,ATL,TOR
+Shot Chart Detail,0020600693,368,2207,Joe Johnson,1610612737,Atlanta Hawks,4,10,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-187,68,1,1,20070202,ATL,TOR
+Shot Chart Detail,0020600693,408,2207,Joe Johnson,1610612737,Atlanta Hawks,4,5,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,138,229,1,1,20070202,ATL,TOR
+Shot Chart Detail,0020600710,16,2207,Joe Johnson,1610612737,Atlanta Hawks,1,9,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-94,150,1,1,20070204,NJN,ATL
+Shot Chart Detail,0020600710,24,2207,Joe Johnson,1610612737,Atlanta Hawks,1,8,54,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,-16,1,1,20070204,NJN,ATL
+Shot Chart Detail,0020600710,255,2207,Joe Johnson,1610612737,Atlanta Hawks,3,7,4,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070204,NJN,ATL
+Shot Chart Detail,0020600710,264,2207,Joe Johnson,1610612737,Atlanta Hawks,3,5,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070204,NJN,ATL
+Shot Chart Detail,0020600710,269,2207,Joe Johnson,1610612737,Atlanta Hawks,3,4,55,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,241,-5,1,1,20070204,NJN,ATL
+Shot Chart Detail,0020600710,295,2207,Joe Johnson,1610612737,Atlanta Hawks,3,1,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-92,196,1,1,20070204,NJN,ATL
+Shot Chart Detail,0020600710,301,2207,Joe Johnson,1610612737,Atlanta Hawks,3,1,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,23,-51,233,1,1,20070204,NJN,ATL
+Shot Chart Detail,0020600710,319,2207,Joe Johnson,1610612737,Atlanta Hawks,4,11,29,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,135,86,1,1,20070204,NJN,ATL
+Shot Chart Detail,0020600710,321,2207,Joe Johnson,1610612737,Atlanta Hawks,4,10,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,189,79,1,1,20070204,NJN,ATL
+Shot Chart Detail,0020600710,353,2207,Joe Johnson,1610612737,Atlanta Hawks,4,8,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070204,NJN,ATL
+Shot Chart Detail,0020600710,430,2207,Joe Johnson,1610612737,Atlanta Hawks,4,0,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,131,76,1,1,20070204,NJN,ATL
+Shot Chart Detail,0020600710,453,2207,Joe Johnson,1610612737,Atlanta Hawks,5,3,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,92,260,1,1,20070204,NJN,ATL
+Shot Chart Detail,0020600714,100,2207,Joe Johnson,1610612737,Atlanta Hawks,1,1,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070205,ATL,LAL
+Shot Chart Detail,0020600714,105,2207,Joe Johnson,1610612737,Atlanta Hawks,1,0,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070205,ATL,LAL
+Shot Chart Detail,0020600714,123,2207,Joe Johnson,1610612737,Atlanta Hawks,2,10,40,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,31,71,1,1,20070205,ATL,LAL
+Shot Chart Detail,0020600714,207,2207,Joe Johnson,1610612737,Atlanta Hawks,2,3,35,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,47,12,1,1,20070205,ATL,LAL
+Shot Chart Detail,0020600714,263,2207,Joe Johnson,1610612737,Atlanta Hawks,3,10,48,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,236,46,1,1,20070205,ATL,LAL
+Shot Chart Detail,0020600714,265,2207,Joe Johnson,1610612737,Atlanta Hawks,3,10,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,87,158,1,1,20070205,ATL,LAL
+Shot Chart Detail,0020600714,314,2207,Joe Johnson,1610612737,Atlanta Hawks,3,5,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070205,ATL,LAL
+Shot Chart Detail,0020600714,426,2207,Joe Johnson,1610612737,Atlanta Hawks,4,5,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-194,192,1,1,20070205,ATL,LAL
+Shot Chart Detail,0020600714,443,2207,Joe Johnson,1610612737,Atlanta Hawks,4,3,19,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-5,26,1,1,20070205,ATL,LAL
+Shot Chart Detail,0020600714,466,2207,Joe Johnson,1610612737,Atlanta Hawks,4,1,15,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,28,179,1,1,20070205,ATL,LAL
+Shot Chart Detail,0020600728,53,2207,Joe Johnson,1610612737,Atlanta Hawks,1,5,26,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-28,100,1,1,20070207,ATL,NJN
+Shot Chart Detail,0020600728,192,2207,Joe Johnson,1610612737,Atlanta Hawks,2,4,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070207,ATL,NJN
+Shot Chart Detail,0020600728,245,2207,Joe Johnson,1610612737,Atlanta Hawks,3,10,33,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,13,80,114,1,1,20070207,ATL,NJN
+Shot Chart Detail,0020600728,438,2207,Joe Johnson,1610612737,Atlanta Hawks,4,3,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-136,87,1,1,20070207,ATL,NJN
+Shot Chart Detail,0020600728,480,2207,Joe Johnson,1610612737,Atlanta Hawks,4,0,14,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070207,ATL,NJN
+Shot Chart Detail,0020600747,53,2207,Joe Johnson,1610612737,Atlanta Hawks,1,6,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,141,114,1,1,20070209,PHX,ATL
+Shot Chart Detail,0020600747,127,2207,Joe Johnson,1610612737,Atlanta Hawks,2,10,39,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-46,64,1,1,20070209,PHX,ATL
+Shot Chart Detail,0020600747,182,2207,Joe Johnson,1610612737,Atlanta Hawks,2,5,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,43,204,1,1,20070209,PHX,ATL
+Shot Chart Detail,0020600747,223,2207,Joe Johnson,1610612737,Atlanta Hawks,2,0,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070209,PHX,ATL
+Shot Chart Detail,0020600747,254,2207,Joe Johnson,1610612737,Atlanta Hawks,3,9,57,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,0,61,1,1,20070209,PHX,ATL
+Shot Chart Detail,0020600747,281,2207,Joe Johnson,1610612737,Atlanta Hawks,3,6,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-174,133,1,1,20070209,PHX,ATL
+Shot Chart Detail,0020600747,366,2207,Joe Johnson,1610612737,Atlanta Hawks,4,10,41,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,43,66,1,1,20070209,PHX,ATL
+Shot Chart Detail,0020600747,371,2207,Joe Johnson,1610612737,Atlanta Hawks,4,10,13,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,54,84,1,1,20070209,PHX,ATL
+Shot Chart Detail,0020600747,404,2207,Joe Johnson,1610612737,Atlanta Hawks,4,5,22,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,236,2,1,1,20070209,PHX,ATL
+Shot Chart Detail,0020600747,439,2207,Joe Johnson,1610612737,Atlanta Hawks,4,2,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,125,233,1,1,20070209,PHX,ATL
+Shot Chart Detail,0020600763,91,2207,Joe Johnson,1610612737,Atlanta Hawks,1,2,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-141,161,1,1,20070211,GSW,ATL
+Shot Chart Detail,0020600763,103,2207,Joe Johnson,1610612737,Atlanta Hawks,1,2,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,110,233,1,1,20070211,GSW,ATL
+Shot Chart Detail,0020600763,112,2207,Joe Johnson,1610612737,Atlanta Hawks,1,1,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-202,150,1,1,20070211,GSW,ATL
+Shot Chart Detail,0020600763,239,2207,Joe Johnson,1610612737,Atlanta Hawks,2,0,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,141,118,1,1,20070211,GSW,ATL
+Shot Chart Detail,0020600763,327,2207,Joe Johnson,1610612737,Atlanta Hawks,3,3,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,189,161,1,1,20070211,GSW,ATL
+Shot Chart Detail,0020600763,370,2207,Joe Johnson,1610612737,Atlanta Hawks,4,11,41,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,186,10,1,1,20070211,GSW,ATL
+Shot Chart Detail,0020600763,395,2207,Joe Johnson,1610612737,Atlanta Hawks,4,9,8,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-29,33,1,1,20070211,GSW,ATL
+Shot Chart Detail,0020600763,453,2207,Joe Johnson,1610612737,Atlanta Hawks,4,3,18,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,36,26,1,1,20070211,GSW,ATL
+Shot Chart Detail,0020600767,5,2207,Joe Johnson,1610612737,Atlanta Hawks,1,11,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-161,146,1,1,20070212,UTA,ATL
+Shot Chart Detail,0020600767,14,2207,Joe Johnson,1610612737,Atlanta Hawks,1,9,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-199,35,1,1,20070212,UTA,ATL
+Shot Chart Detail,0020600767,174,2207,Joe Johnson,1610612737,Atlanta Hawks,2,4,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,179,174,1,1,20070212,UTA,ATL
+Shot Chart Detail,0020600767,203,2207,Joe Johnson,1610612737,Atlanta Hawks,2,1,50,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070212,UTA,ATL
+Shot Chart Detail,0020600767,264,2207,Joe Johnson,1610612737,Atlanta Hawks,3,6,50,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070212,UTA,ATL
+Shot Chart Detail,0020600786,11,2207,Joe Johnson,1610612737,Atlanta Hawks,1,10,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,169,202,1,1,20070214,LAC,ATL
+Shot Chart Detail,0020600786,64,2207,Joe Johnson,1610612737,Atlanta Hawks,1,4,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,131,171,1,1,20070214,LAC,ATL
+Shot Chart Detail,0020600786,169,2207,Joe Johnson,1610612737,Atlanta Hawks,2,3,22,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,43,127,1,1,20070214,LAC,ATL
+Shot Chart Detail,0020600786,174,2207,Joe Johnson,1610612737,Atlanta Hawks,2,2,57,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,31,69,1,1,20070214,LAC,ATL
+Shot Chart Detail,0020600786,180,2207,Joe Johnson,1610612737,Atlanta Hawks,2,2,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,117,130,1,1,20070214,LAC,ATL
+Shot Chart Detail,0020600786,244,2207,Joe Johnson,1610612737,Atlanta Hawks,3,9,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070214,LAC,ATL
+Shot Chart Detail,0020600786,313,2207,Joe Johnson,1610612737,Atlanta Hawks,3,2,40,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-15,82,1,1,20070214,LAC,ATL
+Shot Chart Detail,0020600786,353,2207,Joe Johnson,1610612737,Atlanta Hawks,4,10,22,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,41,46,1,1,20070214,LAC,ATL
+Shot Chart Detail,0020600786,479,2207,Joe Johnson,1610612737,Atlanta Hawks,4,0,19,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,1,41,1,1,20070214,LAC,ATL
+Shot Chart Detail,0020600795,28,2207,Joe Johnson,1610612737,Atlanta Hawks,1,9,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,135,45,1,1,20070220,CHI,ATL
+Shot Chart Detail,0020600795,187,2207,Joe Johnson,1610612737,Atlanta Hawks,2,2,59,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070220,CHI,ATL
+Shot Chart Detail,0020600802,91,2207,Joe Johnson,1610612737,Atlanta Hawks,1,3,7,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070221,ATL,SAS
+Shot Chart Detail,0020600802,108,2207,Joe Johnson,1610612737,Atlanta Hawks,1,1,36,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,100,163,1,1,20070221,ATL,SAS
+Shot Chart Detail,0020600802,151,2207,Joe Johnson,1610612737,Atlanta Hawks,2,10,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,57,169,1,1,20070221,ATL,SAS
+Shot Chart Detail,0020600802,165,2207,Joe Johnson,1610612737,Atlanta Hawks,2,9,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-197,36,1,1,20070221,ATL,SAS
+Shot Chart Detail,0020600802,168,2207,Joe Johnson,1610612737,Atlanta Hawks,2,8,59,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,11,43,1,1,20070221,ATL,SAS
+Shot Chart Detail,0020600802,225,2207,Joe Johnson,1610612737,Atlanta Hawks,2,4,3,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,107,76,1,1,20070221,ATL,SAS
+Shot Chart Detail,0020600802,267,2207,Joe Johnson,1610612737,Atlanta Hawks,2,0,47,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070221,ATL,SAS
+Shot Chart Detail,0020600802,270,2207,Joe Johnson,1610612737,Atlanta Hawks,2,0,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,161,207,1,1,20070221,ATL,SAS
+Shot Chart Detail,0020600802,295,2207,Joe Johnson,1610612737,Atlanta Hawks,3,9,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-182,35,1,1,20070221,ATL,SAS
+Shot Chart Detail,0020600802,332,2207,Joe Johnson,1610612737,Atlanta Hawks,3,6,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070221,ATL,SAS
+Shot Chart Detail,0020600802,351,2207,Joe Johnson,1610612737,Atlanta Hawks,3,4,36,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-61,86,1,1,20070221,ATL,SAS
+Shot Chart Detail,0020600802,491,2207,Joe Johnson,1610612737,Atlanta Hawks,4,3,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070221,ATL,SAS
+Shot Chart Detail,0020600802,503,2207,Joe Johnson,1610612737,Atlanta Hawks,4,1,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-169,112,1,1,20070221,ATL,SAS
+Shot Chart Detail,0020600802,513,2207,Joe Johnson,1610612737,Atlanta Hawks,4,1,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070221,ATL,SAS
+Shot Chart Detail,0020600819,2,2207,Joe Johnson,1610612737,Atlanta Hawks,1,11,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-38,169,1,1,20070223,ATL,HOU
+Shot Chart Detail,0020600819,15,2207,Joe Johnson,1610612737,Atlanta Hawks,1,9,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,197,168,1,1,20070223,ATL,HOU
+Shot Chart Detail,0020600819,18,2207,Joe Johnson,1610612737,Atlanta Hawks,1,8,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-110,166,1,1,20070223,ATL,HOU
+Shot Chart Detail,0020600819,62,2207,Joe Johnson,1610612737,Atlanta Hawks,1,3,37,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-82,91,1,1,20070223,ATL,HOU
+Shot Chart Detail,0020600819,212,2207,Joe Johnson,1610612737,Atlanta Hawks,2,0,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-123,232,1,1,20070223,ATL,HOU
+Shot Chart Detail,0020600819,269,2207,Joe Johnson,1610612737,Atlanta Hawks,3,6,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-199,40,1,1,20070223,ATL,HOU
+Shot Chart Detail,0020600819,333,2207,Joe Johnson,1610612737,Atlanta Hawks,3,1,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-186,59,1,1,20070223,ATL,HOU
+Shot Chart Detail,0020600819,340,2207,Joe Johnson,1610612737,Atlanta Hawks,3,0,41,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070223,ATL,HOU
+Shot Chart Detail,0020600819,388,2207,Joe Johnson,1610612737,Atlanta Hawks,4,7,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-8,196,1,1,20070223,ATL,HOU
+Shot Chart Detail,0020600819,394,2207,Joe Johnson,1610612737,Atlanta Hawks,4,6,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-169,118,1,1,20070223,ATL,HOU
+Shot Chart Detail,0020600819,432,2207,Joe Johnson,1610612737,Atlanta Hawks,4,3,12,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-5,163,1,1,20070223,ATL,HOU
+Shot Chart Detail,0020600819,457,2207,Joe Johnson,1610612737,Atlanta Hawks,4,0,49,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-29,69,1,1,20070223,ATL,HOU
+Shot Chart Detail,0020600833,105,2207,Joe Johnson,1610612737,Atlanta Hawks,1,1,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070225,ATL,PHX
+Shot Chart Detail,0020600833,152,2207,Joe Johnson,1610612737,Atlanta Hawks,2,8,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,23,255,1,1,20070225,ATL,PHX
+Shot Chart Detail,0020600833,197,2207,Joe Johnson,1610612737,Atlanta Hawks,2,5,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070225,ATL,PHX
+Shot Chart Detail,0020600833,269,2207,Joe Johnson,1610612737,Atlanta Hawks,3,8,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070225,ATL,PHX
+Shot Chart Detail,0020600833,276,2207,Joe Johnson,1610612737,Atlanta Hawks,3,7,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-222,155,1,1,20070225,ATL,PHX
+Shot Chart Detail,0020600833,305,2207,Joe Johnson,1610612737,Atlanta Hawks,3,5,2,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,26,81,1,1,20070225,ATL,PHX
+Shot Chart Detail,0020600833,388,2207,Joe Johnson,1610612737,Atlanta Hawks,4,9,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070225,ATL,PHX
+Shot Chart Detail,0020600833,406,2207,Joe Johnson,1610612737,Atlanta Hawks,4,8,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070225,ATL,PHX
+Shot Chart Detail,0020600833,429,2207,Joe Johnson,1610612737,Atlanta Hawks,4,5,36,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-64,59,1,1,20070225,ATL,PHX
+Shot Chart Detail,0020600846,3,2207,Joe Johnson,1610612737,Atlanta Hawks,1,11,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070226,DAL,ATL
+Shot Chart Detail,0020600846,44,2207,Joe Johnson,1610612737,Atlanta Hawks,1,7,44,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,107,8,1,1,20070226,DAL,ATL
+Shot Chart Detail,0020600846,57,2207,Joe Johnson,1610612737,Atlanta Hawks,1,6,17,Made Shot,Running Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070226,DAL,ATL
+Shot Chart Detail,0020600846,145,2207,Joe Johnson,1610612737,Atlanta Hawks,2,8,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070226,DAL,ATL
+Shot Chart Detail,0020600846,175,2207,Joe Johnson,1610612737,Atlanta Hawks,2,4,30,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-15,117,1,1,20070226,DAL,ATL
+Shot Chart Detail,0020600846,192,2207,Joe Johnson,1610612737,Atlanta Hawks,2,2,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,189,40,1,1,20070226,DAL,ATL
+Shot Chart Detail,0020600846,226,2207,Joe Johnson,1610612737,Atlanta Hawks,3,10,41,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,29,143,1,1,20070226,DAL,ATL
+Shot Chart Detail,0020600846,264,2207,Joe Johnson,1610612737,Atlanta Hawks,3,6,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,79,232,1,1,20070226,DAL,ATL
+Shot Chart Detail,0020600846,311,2207,Joe Johnson,1610612737,Atlanta Hawks,3,1,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-138,48,1,1,20070226,DAL,ATL
+Shot Chart Detail,0020600846,318,2207,Joe Johnson,1610612737,Atlanta Hawks,3,0,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,184,31,1,1,20070226,DAL,ATL
+Shot Chart Detail,0020600846,396,2207,Joe Johnson,1610612737,Atlanta Hawks,4,4,52,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070226,DAL,ATL
+Shot Chart Detail,0020600846,404,2207,Joe Johnson,1610612737,Atlanta Hawks,4,4,7,Made Shot,Driving Finger Roll Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,11,35,1,1,20070226,DAL,ATL
+Shot Chart Detail,0020600859,3,2207,Joe Johnson,1610612737,Atlanta Hawks,1,11,33,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,46,110,1,1,20070228,NOK,ATL
+Shot Chart Detail,0020600859,29,2207,Joe Johnson,1610612737,Atlanta Hawks,1,6,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-115,153,1,1,20070228,NOK,ATL
+Shot Chart Detail,0020600859,173,2207,Joe Johnson,1610612737,Atlanta Hawks,2,5,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,3,179,1,1,20070228,NOK,ATL
+Shot Chart Detail,0020600859,213,2207,Joe Johnson,1610612737,Atlanta Hawks,2,0,1,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070228,NOK,ATL
+Shot Chart Detail,0020600859,228,2207,Joe Johnson,1610612737,Atlanta Hawks,3,10,46,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070228,NOK,ATL
+Shot Chart Detail,0020600859,237,2207,Joe Johnson,1610612737,Atlanta Hawks,3,10,3,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,33,1,1,20070228,NOK,ATL
+Shot Chart Detail,0020600859,280,2207,Joe Johnson,1610612737,Atlanta Hawks,3,5,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070228,NOK,ATL
+Shot Chart Detail,0020600859,318,2207,Joe Johnson,1610612737,Atlanta Hawks,3,2,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,148,202,1,1,20070228,NOK,ATL
+Shot Chart Detail,0020600859,432,2207,Joe Johnson,1610612737,Atlanta Hawks,4,2,21,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,51,33,1,1,20070228,NOK,ATL
+Shot Chart Detail,0020600859,453,2207,Joe Johnson,1610612737,Atlanta Hawks,4,0,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070228,NOK,ATL
+Shot Chart Detail,0020600870,34,2207,Joe Johnson,1610612737,Atlanta Hawks,1,8,1,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,62,-18,1,1,20070302,WAS,ATL
+Shot Chart Detail,0020600870,173,2207,Joe Johnson,1610612737,Atlanta Hawks,2,5,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,130,120,1,1,20070302,WAS,ATL
+Shot Chart Detail,0020600870,274,2207,Joe Johnson,1610612737,Atlanta Hawks,3,7,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-87,237,1,1,20070302,WAS,ATL
+Shot Chart Detail,0020600870,289,2207,Joe Johnson,1610612737,Atlanta Hawks,3,5,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,7,1,1,20070302,WAS,ATL
+Shot Chart Detail,0020600870,291,2207,Joe Johnson,1610612737,Atlanta Hawks,3,4,58,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,-34,1,1,20070302,WAS,ATL
+Shot Chart Detail,0020600870,359,2207,Joe Johnson,1610612737,Atlanta Hawks,4,11,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,21,200,77,1,1,20070302,WAS,ATL
+Shot Chart Detail,0020600870,384,2207,Joe Johnson,1610612737,Atlanta Hawks,4,8,38,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-59,17,1,1,20070302,WAS,ATL
+Shot Chart Detail,0020600870,387,2207,Joe Johnson,1610612737,Atlanta Hawks,4,7,41,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-115,-34,1,1,20070302,WAS,ATL
+Shot Chart Detail,0020600880,66,2207,Joe Johnson,1610612737,Atlanta Hawks,1,5,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,16,174,1,1,20070303,ATL,NYK
+Shot Chart Detail,0020600880,69,2207,Joe Johnson,1610612737,Atlanta Hawks,1,4,36,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,26,99,1,1,20070303,ATL,NYK
+Shot Chart Detail,0020600880,72,2207,Joe Johnson,1610612737,Atlanta Hawks,1,3,54,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070303,ATL,NYK
+Shot Chart Detail,0020600880,74,2207,Joe Johnson,1610612737,Atlanta Hawks,1,3,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-5,252,1,1,20070303,ATL,NYK
+Shot Chart Detail,0020600880,82,2207,Joe Johnson,1610612737,Atlanta Hawks,1,2,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,133,227,1,1,20070303,ATL,NYK
+Shot Chart Detail,0020600880,240,2207,Joe Johnson,1610612737,Atlanta Hawks,2,0,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,192,196,1,1,20070303,ATL,NYK
+Shot Chart Detail,0020600880,246,2207,Joe Johnson,1610612737,Atlanta Hawks,3,11,25,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-25,95,1,1,20070303,ATL,NYK
+Shot Chart Detail,0020600880,259,2207,Joe Johnson,1610612737,Atlanta Hawks,3,9,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-33,174,1,1,20070303,ATL,NYK
+Shot Chart Detail,0020600880,407,2207,Joe Johnson,1610612737,Atlanta Hawks,4,6,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-149,237,1,1,20070303,ATL,NYK
+Shot Chart Detail,0020600880,456,2207,Joe Johnson,1610612737,Atlanta Hawks,4,0,50,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070303,ATL,NYK
+Shot Chart Detail,0020600880,491,2207,Joe Johnson,1610612737,Atlanta Hawks,5,2,48,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070303,ATL,NYK
+Shot Chart Detail,0020600880,515,2207,Joe Johnson,1610612737,Atlanta Hawks,5,0,51,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,25,-235,87,1,1,20070303,ATL,NYK
+Shot Chart Detail,0020600896,2,2207,Joe Johnson,1610612737,Atlanta Hawks,1,11,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,54,181,1,1,20070305,MIA,ATL
+Shot Chart Detail,0020600896,78,2207,Joe Johnson,1610612737,Atlanta Hawks,1,4,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-107,161,1,1,20070305,MIA,ATL
+Shot Chart Detail,0020600896,217,2207,Joe Johnson,1610612737,Atlanta Hawks,2,2,58,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070305,MIA,ATL
+Shot Chart Detail,0020600896,403,2207,Joe Johnson,1610612737,Atlanta Hawks,4,9,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,149,206,1,1,20070305,MIA,ATL

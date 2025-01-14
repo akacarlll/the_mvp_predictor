@@ -1,0 +1,483 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0021300006,41,201145,Jeff Green,1610612738,Boston Celtics,1,6,52,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,0,1,1,20131030,TOR,BOS
+Shot Chart Detail,0021300006,115,201145,Jeff Green,1610612738,Boston Celtics,1,0,58,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,8,1,1,20131030,TOR,BOS
+Shot Chart Detail,0021300006,242,201145,Jeff Green,1610612738,Boston Celtics,2,3,30,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-10,56,1,1,20131030,TOR,BOS
+Shot Chart Detail,0021300006,307,201145,Jeff Green,1610612738,Boston Celtics,3,11,31,Made Shot,Driving Bank shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,6,30,1,1,20131030,TOR,BOS
+Shot Chart Detail,0021300006,370,201145,Jeff Green,1610612738,Boston Celtics,3,3,51,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,9,36,1,1,20131030,TOR,BOS
+Shot Chart Detail,0021300006,404,201145,Jeff Green,1610612738,Boston Celtics,3,0,47,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,-13,1,1,20131030,TOR,BOS
+Shot Chart Detail,0021300006,430,201145,Jeff Green,1610612738,Boston Celtics,4,10,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-229,127,1,1,20131030,TOR,BOS
+Shot Chart Detail,0021300006,515,201145,Jeff Green,1610612738,Boston Celtics,4,4,8,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,149,93,1,1,20131030,TOR,BOS
+Shot Chart Detail,0021300024,31,201145,Jeff Green,1610612738,Boston Celtics,1,9,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,135,222,1,1,20131101,BOS,MIL
+Shot Chart Detail,0021300024,60,201145,Jeff Green,1610612738,Boston Celtics,1,5,17,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,12,1,1,20131101,BOS,MIL
+Shot Chart Detail,0021300024,67,201145,Jeff Green,1610612738,Boston Celtics,1,4,41,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,4,1,1,20131101,BOS,MIL
+Shot Chart Detail,0021300024,120,201145,Jeff Green,1610612738,Boston Celtics,2,11,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,11,1,1,20131101,BOS,MIL
+Shot Chart Detail,0021300041,134,201145,Jeff Green,1610612738,Boston Celtics,2,8,35,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-172,63,1,1,20131103,DET,BOS
+Shot Chart Detail,0021300041,254,201145,Jeff Green,1610612738,Boston Celtics,3,8,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,3,1,1,20131103,DET,BOS
+Shot Chart Detail,0021300041,264,201145,Jeff Green,1610612738,Boston Celtics,3,7,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,3,1,1,20131103,DET,BOS
+Shot Chart Detail,0021300049,10,201145,Jeff Green,1610612738,Boston Celtics,1,10,25,Made Shot,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,43,41,1,1,20131104,MEM,BOS
+Shot Chart Detail,0021300049,43,201145,Jeff Green,1610612738,Boston Celtics,1,6,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,77,247,1,1,20131104,MEM,BOS
+Shot Chart Detail,0021300049,82,201145,Jeff Green,1610612738,Boston Celtics,1,2,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,1,1,1,20131104,MEM,BOS
+Shot Chart Detail,0021300049,208,201145,Jeff Green,1610612738,Boston Celtics,2,4,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,9,140,1,1,20131104,MEM,BOS
+Shot Chart Detail,0021300049,225,201145,Jeff Green,1610612738,Boston Celtics,2,2,38,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,99,36,1,1,20131104,MEM,BOS
+Shot Chart Detail,0021300049,344,201145,Jeff Green,1610612738,Boston Celtics,3,1,51,Made Shot,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,53,47,1,1,20131104,MEM,BOS
+Shot Chart Detail,0021300064,48,201145,Jeff Green,1610612738,Boston Celtics,1,5,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,3,1,1,20131106,BOS,UTA
+Shot Chart Detail,0021300064,87,201145,Jeff Green,1610612738,Boston Celtics,1,3,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,23,-89,213,1,1,20131106,BOS,UTA
+Shot Chart Detail,0021300064,91,201145,Jeff Green,1610612738,Boston Celtics,1,3,9,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,0,1,1,20131106,BOS,UTA
+Shot Chart Detail,0021300064,163,201145,Jeff Green,1610612738,Boston Celtics,2,8,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,36,144,334,1,1,20131106,BOS,UTA
+Shot Chart Detail,0021300064,203,201145,Jeff Green,1610612738,Boston Celtics,2,4,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,54,206,1,1,20131106,BOS,UTA
+Shot Chart Detail,0021300064,291,201145,Jeff Green,1610612738,Boston Celtics,3,8,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,67,239,1,1,20131106,BOS,UTA
+Shot Chart Detail,0021300075,263,201145,Jeff Green,1610612738,Boston Celtics,2,3,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,6,23,1,1,20131108,ORL,BOS
+Shot Chart Detail,0021300075,272,201145,Jeff Green,1610612738,Boston Celtics,2,2,22,Made Shot,Driving Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-8,19,1,1,20131108,ORL,BOS
+Shot Chart Detail,0021300075,382,201145,Jeff Green,1610612738,Boston Celtics,3,6,15,Made Shot,Driving Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-13,28,1,1,20131108,ORL,BOS
+Shot Chart Detail,0021300075,428,201145,Jeff Green,1610612738,Boston Celtics,3,2,41,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,15,1,1,20131108,ORL,BOS
+Shot Chart Detail,0021300075,587,201145,Jeff Green,1610612738,Boston Celtics,4,2,58,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,9,1,1,20131108,ORL,BOS
+Shot Chart Detail,0021300089,20,201145,Jeff Green,1610612738,Boston Celtics,1,9,7,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,7,1,1,20131109,MIA,BOS
+Shot Chart Detail,0021300089,132,201145,Jeff Green,1610612738,Boston Celtics,2,11,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-161,187,1,1,20131109,MIA,BOS
+Shot Chart Detail,0021300089,181,201145,Jeff Green,1610612738,Boston Celtics,2,8,37,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-46,25,1,1,20131109,MIA,BOS
+Shot Chart Detail,0021300089,272,201145,Jeff Green,1610612738,Boston Celtics,3,11,34,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-224,77,1,1,20131109,MIA,BOS
+Shot Chart Detail,0021300089,311,201145,Jeff Green,1610612738,Boston Celtics,3,7,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-182,168,1,1,20131109,MIA,BOS
+Shot Chart Detail,0021300089,402,201145,Jeff Green,1610612738,Boston Celtics,4,10,51,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,25,1,1,20131109,MIA,BOS
+Shot Chart Detail,0021300089,440,201145,Jeff Green,1610612738,Boston Celtics,4,6,49,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,7,1,1,20131109,MIA,BOS
+Shot Chart Detail,0021300089,535,201145,Jeff Green,1610612738,Boston Celtics,4,0,0,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,239,-3,1,1,20131109,MIA,BOS
+Shot Chart Detail,0021300101,18,201145,Jeff Green,1610612738,Boston Celtics,1,9,27,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,1,1,1,20131111,BOS,ORL
+Shot Chart Detail,0021300101,155,201145,Jeff Green,1610612738,Boston Celtics,2,8,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,1,1,1,20131111,BOS,ORL
+Shot Chart Detail,0021300101,415,201145,Jeff Green,1610612738,Boston Celtics,4,8,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-164,3,1,1,20131111,BOS,ORL
+Shot Chart Detail,0021300101,459,201145,Jeff Green,1610612738,Boston Celtics,4,4,52,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,7,1,1,20131111,BOS,ORL
+Shot Chart Detail,0021300101,505,201145,Jeff Green,1610612738,Boston Celtics,4,1,32,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,226,-5,1,1,20131111,BOS,ORL
+Shot Chart Detail,0021300113,9,201145,Jeff Green,1610612738,Boston Celtics,1,10,44,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,3,1,1,20131113,BOS,CHA
+Shot Chart Detail,0021300113,168,201145,Jeff Green,1610612738,Boston Celtics,2,7,50,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,72,7,1,1,20131113,BOS,CHA
+Shot Chart Detail,0021300113,177,201145,Jeff Green,1610612738,Boston Celtics,2,6,56,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,37,36,1,1,20131113,BOS,CHA
+Shot Chart Detail,0021300113,215,201145,Jeff Green,1610612738,Boston Celtics,2,4,24,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,3,1,1,20131113,BOS,CHA
+Shot Chart Detail,0021300113,255,201145,Jeff Green,1610612738,Boston Celtics,2,1,49,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,3,1,1,20131113,BOS,CHA
+Shot Chart Detail,0021300113,283,201145,Jeff Green,1610612738,Boston Celtics,3,11,46,Made Shot,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,39,12,1,1,20131113,BOS,CHA
+Shot Chart Detail,0021300113,526,201145,Jeff Green,1610612738,Boston Celtics,4,1,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,9,1,1,20131113,BOS,CHA
+Shot Chart Detail,0021300128,18,201145,Jeff Green,1610612738,Boston Celtics,1,10,15,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,0,1,1,20131115,BOS,POR
+Shot Chart Detail,0021300128,65,201145,Jeff Green,1610612738,Boston Celtics,1,6,52,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,3,1,1,20131115,BOS,POR
+Shot Chart Detail,0021300128,300,201145,Jeff Green,1610612738,Boston Celtics,3,10,28,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-5,99,1,1,20131115,BOS,POR
+Shot Chart Detail,0021300128,303,201145,Jeff Green,1610612738,Boston Celtics,3,9,48,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,1,1,1,20131115,BOS,POR
+Shot Chart Detail,0021300159,302,201145,Jeff Green,1610612738,Boston Celtics,3,10,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,17,1,1,20131119,HOU,BOS
+Shot Chart Detail,0021300159,347,201145,Jeff Green,1610612738,Boston Celtics,3,5,48,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,95,206,1,1,20131119,HOU,BOS
+Shot Chart Detail,0021300170,49,201145,Jeff Green,1610612738,Boston Celtics,1,6,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-57,153,1,1,20131120,SAS,BOS
+Shot Chart Detail,0021300170,58,201145,Jeff Green,1610612738,Boston Celtics,1,5,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,7,1,1,20131120,SAS,BOS
+Shot Chart Detail,0021300170,75,201145,Jeff Green,1610612738,Boston Celtics,1,2,23,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,77,25,1,1,20131120,SAS,BOS
+Shot Chart Detail,0021300170,162,201145,Jeff Green,1610612738,Boston Celtics,2,5,11,Made Shot,Running Bank shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,84,14,1,1,20131120,SAS,BOS
+Shot Chart Detail,0021300170,285,201145,Jeff Green,1610612738,Boston Celtics,3,7,33,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,17,1,1,20131120,SAS,BOS
+Shot Chart Detail,0021300170,420,201145,Jeff Green,1610612738,Boston Celtics,4,5,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-11,252,1,1,20131120,SAS,BOS
+Shot Chart Detail,0021300170,451,201145,Jeff Green,1610612738,Boston Celtics,4,3,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,140,203,1,1,20131120,SAS,BOS
+Shot Chart Detail,0021300179,30,201145,Jeff Green,1610612738,Boston Celtics,1,7,35,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,7,1,1,20131122,BOS,IND
+Shot Chart Detail,0021300179,39,201145,Jeff Green,1610612738,Boston Celtics,1,6,25,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-57,44,1,1,20131122,BOS,IND
+Shot Chart Detail,0021300179,89,201145,Jeff Green,1610612738,Boston Celtics,1,1,1,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-78,15,1,1,20131122,BOS,IND
+Shot Chart Detail,0021300179,153,201145,Jeff Green,1610612738,Boston Celtics,2,4,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-105,154,1,1,20131122,BOS,IND
+Shot Chart Detail,0021300179,177,201145,Jeff Green,1610612738,Boston Celtics,2,2,47,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,11,1,1,20131122,BOS,IND
+Shot Chart Detail,0021300179,350,201145,Jeff Green,1610612738,Boston Celtics,4,9,52,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,75,23,1,1,20131122,BOS,IND
+Shot Chart Detail,0021300179,408,201145,Jeff Green,1610612738,Boston Celtics,4,4,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-123,91,1,1,20131122,BOS,IND
+Shot Chart Detail,0021300179,437,201145,Jeff Green,1610612738,Boston Celtics,4,1,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,121,220,1,1,20131122,BOS,IND
+Shot Chart Detail,0021300190,7,201145,Jeff Green,1610612738,Boston Celtics,1,10,28,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,11,1,1,20131123,ATL,BOS
+Shot Chart Detail,0021300190,9,201145,Jeff Green,1610612738,Boston Celtics,1,9,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,54,213,1,1,20131123,ATL,BOS
+Shot Chart Detail,0021300190,204,201145,Jeff Green,1610612738,Boston Celtics,2,3,22,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,0,1,1,20131123,ATL,BOS
+Shot Chart Detail,0021300190,221,201145,Jeff Green,1610612738,Boston Celtics,2,2,15,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-231,25,1,1,20131123,ATL,BOS
+Shot Chart Detail,0021300202,215,201145,Jeff Green,1610612738,Boston Celtics,2,5,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,-6,1,1,20131125,CHA,BOS
+Shot Chart Detail,0021300202,247,201145,Jeff Green,1610612738,Boston Celtics,2,1,15,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,11,1,1,20131125,CHA,BOS
+Shot Chart Detail,0021300202,292,201145,Jeff Green,1610612738,Boston Celtics,3,8,53,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,-11,1,1,20131125,CHA,BOS
+Shot Chart Detail,0021300202,326,201145,Jeff Green,1610612738,Boston Celtics,3,5,0,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-10,50,1,1,20131125,CHA,BOS
+Shot Chart Detail,0021300202,368,201145,Jeff Green,1610612738,Boston Celtics,4,11,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,4,1,1,20131125,CHA,BOS
+Shot Chart Detail,0021300217,26,201145,Jeff Green,1610612738,Boston Celtics,1,7,4,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-179,50,1,1,20131127,BOS,MEM
+Shot Chart Detail,0021300217,29,201145,Jeff Green,1610612738,Boston Celtics,1,6,30,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,4,1,1,20131127,BOS,MEM
+Shot Chart Detail,0021300217,53,201145,Jeff Green,1610612738,Boston Celtics,1,4,2,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,-3,1,1,20131127,BOS,MEM
+Shot Chart Detail,0021300217,195,201145,Jeff Green,1610612738,Boston Celtics,2,4,10,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,-5,1,1,20131127,BOS,MEM
+Shot Chart Detail,0021300217,291,201145,Jeff Green,1610612738,Boston Celtics,3,5,7,Made Shot,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,54,19,1,1,20131127,BOS,MEM
+Shot Chart Detail,0021300217,349,201145,Jeff Green,1610612738,Boston Celtics,3,0,32,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,4,1,1,20131127,BOS,MEM
+Shot Chart Detail,0021300217,439,201145,Jeff Green,1610612738,Boston Celtics,4,4,35,Made Shot,Reverse Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,11,1,1,20131127,BOS,MEM
+Shot Chart Detail,0021300217,451,201145,Jeff Green,1610612738,Boston Celtics,4,3,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-3,1,1,20131127,BOS,MEM
+Shot Chart Detail,0021300217,501,201145,Jeff Green,1610612738,Boston Celtics,4,0,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,166,231,1,1,20131127,BOS,MEM
+Shot Chart Detail,0021300232,29,201145,Jeff Green,1610612738,Boston Celtics,1,7,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,89,176,1,1,20131129,BOS,CLE
+Shot Chart Detail,0021300232,36,201145,Jeff Green,1610612738,Boston Celtics,1,6,43,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-5,1,1,20131129,BOS,CLE
+Shot Chart Detail,0021300232,197,201145,Jeff Green,1610612738,Boston Celtics,2,6,21,Made Shot,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-23,37,1,1,20131129,BOS,CLE
+Shot Chart Detail,0021300232,258,201145,Jeff Green,1610612738,Boston Celtics,2,1,39,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,15,1,1,20131129,BOS,CLE
+Shot Chart Detail,0021300232,265,201145,Jeff Green,1610612738,Boston Celtics,2,0,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,11,1,1,20131129,BOS,CLE
+Shot Chart Detail,0021300232,288,201145,Jeff Green,1610612738,Boston Celtics,2,0,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,-3,1,1,20131129,BOS,CLE
+Shot Chart Detail,0021300232,294,201145,Jeff Green,1610612738,Boston Celtics,3,11,43,Made Shot,Reverse Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,-3,1,1,20131129,BOS,CLE
+Shot Chart Detail,0021300232,305,201145,Jeff Green,1610612738,Boston Celtics,3,10,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,110,189,1,1,20131129,BOS,CLE
+Shot Chart Detail,0021300232,363,201145,Jeff Green,1610612738,Boston Celtics,3,3,13,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,45,1,1,20131129,BOS,CLE
+Shot Chart Detail,0021300232,518,201145,Jeff Green,1610612738,Boston Celtics,4,3,10,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,6,1,1,20131129,BOS,CLE
+Shot Chart Detail,0021300247,22,201145,Jeff Green,1610612738,Boston Celtics,1,8,34,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,56,-14,1,1,20131130,MIL,BOS
+Shot Chart Detail,0021300247,39,201145,Jeff Green,1610612738,Boston Celtics,1,6,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,-3,1,1,20131130,MIL,BOS
+Shot Chart Detail,0021300247,66,201145,Jeff Green,1610612738,Boston Celtics,1,3,33,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-21,56,1,1,20131130,MIL,BOS
+Shot Chart Detail,0021300247,247,201145,Jeff Green,1610612738,Boston Celtics,3,9,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,3,1,1,20131130,MIL,BOS
+Shot Chart Detail,0021300247,348,201145,Jeff Green,1610612738,Boston Celtics,3,0,0,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-40,39,1,1,20131130,MIL,BOS
+Shot Chart Detail,0021300247,430,201145,Jeff Green,1610612738,Boston Celtics,4,4,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-217,157,1,1,20131130,MIL,BOS
+Shot Chart Detail,0021300247,453,201145,Jeff Green,1610612738,Boston Celtics,4,1,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-128,242,1,1,20131130,MIL,BOS
+Shot Chart Detail,0021300262,19,201145,Jeff Green,1610612738,Boston Celtics,1,9,5,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,0,1,1,20131203,BOS,MIL
+Shot Chart Detail,0021300262,203,201145,Jeff Green,1610612738,Boston Celtics,2,3,44,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2,28,1,1,20131203,BOS,MIL
+Shot Chart Detail,0021300262,253,201145,Jeff Green,1610612738,Boston Celtics,3,11,41,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,95,82,1,1,20131203,BOS,MIL
+Shot Chart Detail,0021300262,266,201145,Jeff Green,1610612738,Boston Celtics,3,8,56,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-67,197,1,1,20131203,BOS,MIL
+Shot Chart Detail,0021300262,333,201145,Jeff Green,1610612738,Boston Celtics,3,2,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,140,225,1,1,20131203,BOS,MIL
+Shot Chart Detail,0021300262,339,201145,Jeff Green,1610612738,Boston Celtics,3,2,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-155,197,1,1,20131203,BOS,MIL
+Shot Chart Detail,0021300283,2,201145,Jeff Green,1610612738,Boston Celtics,1,11,45,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,17,1,1,20131206,BOS,DEN
+Shot Chart Detail,0021300283,70,201145,Jeff Green,1610612738,Boston Celtics,1,5,9,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,28,14,1,1,20131206,BOS,DEN
+Shot Chart Detail,0021300283,120,201145,Jeff Green,1610612738,Boston Celtics,1,0,30,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-13,97,1,1,20131206,BOS,DEN
+Shot Chart Detail,0021300283,123,201145,Jeff Green,1610612738,Boston Celtics,1,0,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,29,21,296,1,1,20131206,BOS,DEN
+Shot Chart Detail,0021300283,244,201145,Jeff Green,1610612738,Boston Celtics,2,1,49,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,127,173,1,1,20131206,BOS,DEN
+Shot Chart Detail,0021300283,461,201145,Jeff Green,1610612738,Boston Celtics,4,4,20,Made Shot,Turnaround Bank shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,129,31,1,1,20131206,BOS,DEN
+Shot Chart Detail,0021300299,13,201145,Jeff Green,1610612738,Boston Celtics,1,10,32,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,244,1,1,1,20131208,NYK,BOS
+Shot Chart Detail,0021300299,69,201145,Jeff Green,1610612738,Boston Celtics,1,3,24,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20131208,NYK,BOS
+Shot Chart Detail,0021300299,79,201145,Jeff Green,1610612738,Boston Celtics,1,2,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,7,1,1,20131208,NYK,BOS
+Shot Chart Detail,0021300299,223,201145,Jeff Green,1610612738,Boston Celtics,2,2,50,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,11,1,1,20131208,NYK,BOS
+Shot Chart Detail,0021300299,241,201145,Jeff Green,1610612738,Boston Celtics,2,0,58,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,17,1,1,20131208,NYK,BOS
+Shot Chart Detail,0021300299,244,201145,Jeff Green,1610612738,Boston Celtics,2,0,37,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-32,19,1,1,20131208,NYK,BOS
+Shot Chart Detail,0021300314,4,201145,Jeff Green,1610612738,Boston Celtics,1,11,23,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,12,1,1,20131210,BKN,BOS
+Shot Chart Detail,0021300314,24,201145,Jeff Green,1610612738,Boston Celtics,1,8,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,146,225,1,1,20131210,BKN,BOS
+Shot Chart Detail,0021300314,217,201145,Jeff Green,1610612738,Boston Celtics,3,10,25,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,236,15,1,1,20131210,BKN,BOS
+Shot Chart Detail,0021300314,262,201145,Jeff Green,1610612738,Boston Celtics,3,5,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-193,-22,1,1,20131210,BKN,BOS
+Shot Chart Detail,0021300314,368,201145,Jeff Green,1610612738,Boston Celtics,4,8,38,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,239,6,1,1,20131210,BKN,BOS
+Shot Chart Detail,0021300314,495,201145,Jeff Green,1610612738,Boston Celtics,4,0,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,39,187,353,1,1,20131210,BKN,BOS
+Shot Chart Detail,0021300319,29,201145,Jeff Green,1610612738,Boston Celtics,1,7,16,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,124,15,1,1,20131211,BOS,LAC
+Shot Chart Detail,0021300319,63,201145,Jeff Green,1610612738,Boston Celtics,1,4,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,152,91,1,1,20131211,BOS,LAC
+Shot Chart Detail,0021300319,119,201145,Jeff Green,1610612738,Boston Celtics,2,10,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,50,249,1,1,20131211,BOS,LAC
+Shot Chart Detail,0021300319,122,201145,Jeff Green,1610612738,Boston Celtics,2,10,9,Made Shot,Driving Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,7,1,1,20131211,BOS,LAC
+Shot Chart Detail,0021300319,219,201145,Jeff Green,1610612738,Boston Celtics,2,2,56,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,0,72,1,1,20131211,BOS,LAC
+Shot Chart Detail,0021300319,241,201145,Jeff Green,1610612738,Boston Celtics,2,1,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,89,190,1,1,20131211,BOS,LAC
+Shot Chart Detail,0021300319,276,201145,Jeff Green,1610612738,Boston Celtics,3,10,29,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,1,1,1,20131211,BOS,LAC
+Shot Chart Detail,0021300319,313,201145,Jeff Green,1610612738,Boston Celtics,3,6,3,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,3,1,1,20131211,BOS,LAC
+Shot Chart Detail,0021300319,418,201145,Jeff Green,1610612738,Boston Celtics,4,11,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,163,44,1,1,20131211,BOS,LAC
+Shot Chart Detail,0021300319,528,201145,Jeff Green,1610612738,Boston Celtics,4,1,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-141,220,1,1,20131211,BOS,LAC
+Shot Chart Detail,0021300333,51,201145,Jeff Green,1610612738,Boston Celtics,1,5,10,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-228,44,1,1,20131213,BOS,NYK
+Shot Chart Detail,0021300333,447,201145,Jeff Green,1610612738,Boston Celtics,4,4,28,Made Shot,Driving Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,22,1,1,20131213,BOS,NYK
+Shot Chart Detail,0021300333,475,201145,Jeff Green,1610612738,Boston Celtics,4,0,9,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,0,1,1,20131213,BOS,NYK
+Shot Chart Detail,0021300358,60,201145,Jeff Green,1610612738,Boston Celtics,1,6,23,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,226,61,1,1,20131216,BOS,MIN
+Shot Chart Detail,0021300358,226,201145,Jeff Green,1610612738,Boston Celtics,2,3,45,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,11,1,1,20131216,BOS,MIN
+Shot Chart Detail,0021300358,332,201145,Jeff Green,1610612738,Boston Celtics,3,7,16,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,40,19,1,1,20131216,BOS,MIN
+Shot Chart Detail,0021300373,22,201145,Jeff Green,1610612738,Boston Celtics,1,10,6,Made Shot,Driving Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,0,1,1,20131218,BOS,DET
+Shot Chart Detail,0021300373,33,201145,Jeff Green,1610612738,Boston Celtics,1,8,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,125,222,1,1,20131218,BOS,DET
+Shot Chart Detail,0021300373,65,201145,Jeff Green,1610612738,Boston Celtics,1,5,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,133,134,1,1,20131218,BOS,DET
+Shot Chart Detail,0021300373,201,201145,Jeff Green,1610612738,Boston Celtics,2,5,8,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,15,-79,131,1,1,20131218,BOS,DET
+Shot Chart Detail,0021300373,282,201145,Jeff Green,1610612738,Boston Celtics,3,9,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,-2,1,1,20131218,BOS,DET
+Shot Chart Detail,0021300373,319,201145,Jeff Green,1610612738,Boston Celtics,3,5,31,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,0,1,1,20131218,BOS,DET
+Shot Chart Detail,0021300393,189,201145,Jeff Green,1610612738,Boston Celtics,2,4,57,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,19,1,1,20131221,BOS,WAS
+Shot Chart Detail,0021300393,210,201145,Jeff Green,1610612738,Boston Celtics,2,3,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,11,1,1,20131221,BOS,WAS
+Shot Chart Detail,0021300393,227,201145,Jeff Green,1610612738,Boston Celtics,2,1,32,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-27,17,1,1,20131221,BOS,WAS
+Shot Chart Detail,0021300393,427,201145,Jeff Green,1610612738,Boston Celtics,4,6,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,4,1,1,20131221,BOS,WAS
+Shot Chart Detail,0021300404,227,201145,Jeff Green,1610612738,Boston Celtics,2,0,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,29,4,1,1,20131222,IND,BOS
+Shot Chart Detail,0021300404,249,201145,Jeff Green,1610612738,Boston Celtics,3,10,52,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,15,1,1,20131222,IND,BOS
+Shot Chart Detail,0021300404,311,201145,Jeff Green,1610612738,Boston Celtics,3,4,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-125,235,1,1,20131222,IND,BOS
+Shot Chart Detail,0021300404,328,201145,Jeff Green,1610612738,Boston Celtics,3,2,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-207,165,1,1,20131222,IND,BOS
+Shot Chart Detail,0021300436,36,201145,Jeff Green,1610612738,Boston Celtics,1,6,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-177,14,1,1,20131228,BOS,CLE
+Shot Chart Detail,0021300436,51,201145,Jeff Green,1610612738,Boston Celtics,1,5,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,29,249,1,1,20131228,BOS,CLE
+Shot Chart Detail,0021300436,69,201145,Jeff Green,1610612738,Boston Celtics,1,3,47,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,28,1,1,20131228,BOS,CLE
+Shot Chart Detail,0021300436,92,201145,Jeff Green,1610612738,Boston Celtics,1,1,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,3,1,1,20131228,BOS,CLE
+Shot Chart Detail,0021300436,218,201145,Jeff Green,1610612738,Boston Celtics,2,1,40,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,4,1,1,20131228,BOS,CLE
+Shot Chart Detail,0021300460,3,201145,Jeff Green,1610612738,Boston Celtics,1,11,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-139,178,1,1,20131231,BOS,ATL
+Shot Chart Detail,0021300460,79,201145,Jeff Green,1610612738,Boston Celtics,1,3,28,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,7,1,1,20131231,BOS,ATL
+Shot Chart Detail,0021300460,90,201145,Jeff Green,1610612738,Boston Celtics,1,2,55,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,28,11,1,1,20131231,BOS,ATL
+Shot Chart Detail,0021300460,337,201145,Jeff Green,1610612738,Boston Celtics,3,7,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,81,157,1,1,20131231,BOS,ATL
+Shot Chart Detail,0021300475,27,201145,Jeff Green,1610612738,Boston Celtics,1,7,51,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,1,1,1,20140102,CHI,BOS
+Shot Chart Detail,0021300475,189,201145,Jeff Green,1610612738,Boston Celtics,2,5,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,11,1,1,20140102,CHI,BOS
+Shot Chart Detail,0021300475,306,201145,Jeff Green,1610612738,Boston Celtics,3,8,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,17,1,1,20140102,CHI,BOS
+Shot Chart Detail,0021300475,356,201145,Jeff Green,1610612738,Boston Celtics,3,3,47,Made Shot,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,42,63,1,1,20140102,CHI,BOS
+Shot Chart Detail,0021300475,533,201145,Jeff Green,1610612738,Boston Celtics,4,1,2,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,236,12,1,1,20140102,CHI,BOS
+Shot Chart Detail,0021300484,31,201145,Jeff Green,1610612738,Boston Celtics,1,7,58,Made Shot,Driving Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,0,1,1,20140103,BOS,NOP
+Shot Chart Detail,0021300484,201,201145,Jeff Green,1610612738,Boston Celtics,2,1,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,14,1,1,20140103,BOS,NOP
+Shot Chart Detail,0021300484,293,201145,Jeff Green,1610612738,Boston Celtics,3,4,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,4,1,1,20140103,BOS,NOP
+Shot Chart Detail,0021300484,302,201145,Jeff Green,1610612738,Boston Celtics,3,3,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,81,242,1,1,20140103,BOS,NOP
+Shot Chart Detail,0021300484,476,201145,Jeff Green,1610612738,Boston Celtics,4,4,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,193,175,1,1,20140103,BOS,NOP
+Shot Chart Detail,0021300502,24,201145,Jeff Green,1610612738,Boston Celtics,1,9,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-147,203,1,1,20140105,OKC,BOS
+Shot Chart Detail,0021300502,71,201145,Jeff Green,1610612738,Boston Celtics,1,5,25,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,15,1,1,20140105,OKC,BOS
+Shot Chart Detail,0021300502,313,201145,Jeff Green,1610612738,Boston Celtics,3,8,59,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,64,14,1,1,20140105,OKC,BOS
+Shot Chart Detail,0021300502,316,201145,Jeff Green,1610612738,Boston Celtics,3,8,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,11,1,1,20140105,OKC,BOS
+Shot Chart Detail,0021300502,356,201145,Jeff Green,1610612738,Boston Celtics,3,5,6,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,-2,1,1,20140105,OKC,BOS
+Shot Chart Detail,0021300502,383,201145,Jeff Green,1610612738,Boston Celtics,3,2,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,140,217,1,1,20140105,OKC,BOS
+Shot Chart Detail,0021300502,386,201145,Jeff Green,1610612738,Boston Celtics,3,1,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-221,110,1,1,20140105,OKC,BOS
+Shot Chart Detail,0021300502,463,201145,Jeff Green,1610612738,Boston Celtics,4,7,20,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,-3,1,1,20140105,OKC,BOS
+Shot Chart Detail,0021300517,39,201145,Jeff Green,1610612738,Boston Celtics,1,7,54,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-27,56,1,1,20140107,DEN,BOS
+Shot Chart Detail,0021300517,73,201145,Jeff Green,1610612738,Boston Celtics,1,5,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-29,1,1,1,20140107,DEN,BOS
+Shot Chart Detail,0021300517,79,201145,Jeff Green,1610612738,Boston Celtics,1,4,50,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,4,1,1,20140107,DEN,BOS
+Shot Chart Detail,0021300517,88,201145,Jeff Green,1610612738,Boston Celtics,1,4,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,176,189,1,1,20140107,DEN,BOS
+Shot Chart Detail,0021300517,381,201145,Jeff Green,1610612738,Boston Celtics,3,7,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,6,1,1,20140107,DEN,BOS
+Shot Chart Detail,0021300517,523,201145,Jeff Green,1610612738,Boston Celtics,4,10,44,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,166,3,1,1,20140107,DEN,BOS
+Shot Chart Detail,0021300517,571,201145,Jeff Green,1610612738,Boston Celtics,4,6,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-204,-2,1,1,20140107,DEN,BOS
+Shot Chart Detail,0021300528,32,201145,Jeff Green,1610612738,Boston Celtics,1,7,59,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,17,1,1,20140108,LAC,BOS
+Shot Chart Detail,0021300528,229,201145,Jeff Green,1610612738,Boston Celtics,2,2,50,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,4,1,1,20140108,LAC,BOS
+Shot Chart Detail,0021300528,382,201145,Jeff Green,1610612738,Boston Celtics,3,2,29,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,1,48,1,1,20140108,LAC,BOS
+Shot Chart Detail,0021300528,384,201145,Jeff Green,1610612738,Boston Celtics,3,1,58,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,236,14,1,1,20140108,LAC,BOS
+Shot Chart Detail,0021300528,544,201145,Jeff Green,1610612738,Boston Celtics,4,3,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-10,28,1,1,20140108,LAC,BOS
+Shot Chart Detail,0021300541,23,201145,Jeff Green,1610612738,Boston Celtics,1,8,52,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,80,148,1,1,20140110,GSW,BOS
+Shot Chart Detail,0021300541,25,201145,Jeff Green,1610612738,Boston Celtics,1,8,20,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,140,146,1,1,20140110,GSW,BOS
+Shot Chart Detail,0021300541,38,201145,Jeff Green,1610612738,Boston Celtics,1,6,27,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,7,1,1,20140110,GSW,BOS
+Shot Chart Detail,0021300541,76,201145,Jeff Green,1610612738,Boston Celtics,1,2,55,Made Shot,Reverse Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,11,1,1,20140110,GSW,BOS
+Shot Chart Detail,0021300541,92,201145,Jeff Green,1610612738,Boston Celtics,1,1,9,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,4,1,1,20140110,GSW,BOS
+Shot Chart Detail,0021300541,255,201145,Jeff Green,1610612738,Boston Celtics,3,9,51,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,21,105,1,1,20140110,GSW,BOS
+Shot Chart Detail,0021300541,296,201145,Jeff Green,1610612738,Boston Celtics,3,6,17,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,14,1,1,20140110,GSW,BOS
+Shot Chart Detail,0021300541,299,201145,Jeff Green,1610612738,Boston Celtics,3,5,52,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,9,1,1,20140110,GSW,BOS
+Shot Chart Detail,0021300541,471,201145,Jeff Green,1610612738,Boston Celtics,4,3,10,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,6,1,1,20140110,GSW,BOS
+Shot Chart Detail,0021300541,485,201145,Jeff Green,1610612738,Boston Celtics,4,2,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,190,176,1,1,20140110,GSW,BOS
+Shot Chart Detail,0021300541,521,201145,Jeff Green,1610612738,Boston Celtics,4,0,11,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-29,37,1,1,20140110,GSW,BOS
+Shot Chart Detail,0021300551,2,201145,Jeff Green,1610612738,Boston Celtics,1,11,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,-5,1,1,20140111,POR,BOS
+Shot Chart Detail,0021300551,23,201145,Jeff Green,1610612738,Boston Celtics,1,8,57,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,-2,1,1,20140111,POR,BOS
+Shot Chart Detail,0021300551,216,201145,Jeff Green,1610612738,Boston Celtics,2,0,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,22,15,227,1,1,20140111,POR,BOS
+Shot Chart Detail,0021300551,328,201145,Jeff Green,1610612738,Boston Celtics,3,2,46,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,-2,1,1,20140111,POR,BOS
+Shot Chart Detail,0021300551,479,201145,Jeff Green,1610612738,Boston Celtics,4,2,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-26,0,1,1,20140111,POR,BOS
+Shot Chart Detail,0021300551,484,201145,Jeff Green,1610612738,Boston Celtics,4,2,21,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,-3,1,1,20140111,POR,BOS
+Shot Chart Detail,0021300556,219,201145,Jeff Green,1610612738,Boston Celtics,2,3,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,0,1,1,20140113,BOS,HOU
+Shot Chart Detail,0021300556,314,201145,Jeff Green,1610612738,Boston Celtics,3,6,17,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,29,7,1,1,20140113,BOS,HOU
+Shot Chart Detail,0021300569,20,201145,Jeff Green,1610612738,Boston Celtics,1,9,42,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,26,17,1,1,20140115,BOS,TOR
+Shot Chart Detail,0021300569,84,201145,Jeff Green,1610612738,Boston Celtics,1,3,53,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,4,1,1,20140115,BOS,TOR
+Shot Chart Detail,0021300569,390,201145,Jeff Green,1610612738,Boston Celtics,3,1,0,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-232,67,1,1,20140115,BOS,TOR
+Shot Chart Detail,0021300569,487,201145,Jeff Green,1610612738,Boston Celtics,4,3,43,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20140115,BOS,TOR
+Shot Chart Detail,0021300586,20,201145,Jeff Green,1610612738,Boston Celtics,1,9,14,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,18,72,1,1,20140117,BOS,LAL
+Shot Chart Detail,0021300586,51,201145,Jeff Green,1610612738,Boston Celtics,1,6,52,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,3,1,1,20140117,BOS,LAL
+Shot Chart Detail,0021300586,269,201145,Jeff Green,1610612738,Boston Celtics,2,0,3,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-54,26,1,1,20140117,BOS,LAL
+Shot Chart Detail,0021300586,341,201145,Jeff Green,1610612738,Boston Celtics,3,4,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-223,116,1,1,20140117,BOS,LAL
+Shot Chart Detail,0021300602,2,201145,Jeff Green,1610612738,Boston Celtics,1,11,40,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,40,80,1,1,20140119,ORL,BOS
+Shot Chart Detail,0021300602,20,201145,Jeff Green,1610612738,Boston Celtics,1,9,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-27,249,1,1,20140119,ORL,BOS
+Shot Chart Detail,0021300602,205,201145,Jeff Green,1610612738,Boston Celtics,2,4,18,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,1,1,1,20140119,ORL,BOS
+Shot Chart Detail,0021300602,587,201145,Jeff Green,1610612738,Boston Celtics,4,0,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,6,1,1,20140119,ORL,BOS
+Shot Chart Detail,0021300617,18,201145,Jeff Green,1610612738,Boston Celtics,1,10,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,165,12,1,1,20140121,MIA,BOS
+Shot Chart Detail,0021300617,89,201145,Jeff Green,1610612738,Boston Celtics,1,3,7,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,9,23,1,1,20140121,MIA,BOS
+Shot Chart Detail,0021300617,187,201145,Jeff Green,1610612738,Boston Celtics,2,4,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-210,126,1,1,20140121,MIA,BOS
+Shot Chart Detail,0021300617,229,201145,Jeff Green,1610612738,Boston Celtics,2,0,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-210,134,1,1,20140121,MIA,BOS
+Shot Chart Detail,0021300617,320,201145,Jeff Green,1610612738,Boston Celtics,3,1,39,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,6,1,1,20140121,MIA,BOS
+Shot Chart Detail,0021300625,12,201145,Jeff Green,1610612738,Boston Celtics,1,10,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,184,194,1,1,20140122,WAS,BOS
+Shot Chart Detail,0021300625,20,201145,Jeff Green,1610612738,Boston Celtics,1,9,56,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,132,83,1,1,20140122,WAS,BOS
+Shot Chart Detail,0021300625,41,201145,Jeff Green,1610612738,Boston Celtics,1,8,10,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,236,58,1,1,20140122,WAS,BOS
+Shot Chart Detail,0021300625,164,201145,Jeff Green,1610612738,Boston Celtics,2,9,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,209,165,1,1,20140122,WAS,BOS
+Shot Chart Detail,0021300625,232,201145,Jeff Green,1610612738,Boston Celtics,2,4,22,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,9,1,1,20140122,WAS,BOS
+Shot Chart Detail,0021300625,235,201145,Jeff Green,1610612738,Boston Celtics,2,3,43,Made Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,69,127,1,1,20140122,WAS,BOS
+Shot Chart Detail,0021300625,254,201145,Jeff Green,1610612738,Boston Celtics,2,2,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-65,247,1,1,20140122,WAS,BOS
+Shot Chart Detail,0021300625,368,201145,Jeff Green,1610612738,Boston Celtics,3,5,13,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,163,19,1,1,20140122,WAS,BOS
+Shot Chart Detail,0021300625,371,201145,Jeff Green,1610612738,Boston Celtics,3,4,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-70,277,1,1,20140122,WAS,BOS
+Shot Chart Detail,0021300625,452,201145,Jeff Green,1610612738,Boston Celtics,4,8,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-171,186,1,1,20140122,WAS,BOS
+Shot Chart Detail,0021300625,537,201145,Jeff Green,1610612738,Boston Celtics,4,2,35,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,179,17,1,1,20140122,WAS,BOS
+Shot Chart Detail,0021300625,546,201145,Jeff Green,1610612738,Boston Celtics,4,1,18,Made Shot,Fadeaway Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-187,198,1,1,20140122,WAS,BOS
+Shot Chart Detail,0021300625,592,201145,Jeff Green,1610612738,Boston Celtics,5,3,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-112,230,1,1,20140122,WAS,BOS
+Shot Chart Detail,0021300625,600,201145,Jeff Green,1610612738,Boston Celtics,5,2,7,Made Shot,Running Bank Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,54,23,1,1,20140122,WAS,BOS
+Shot Chart Detail,0021300636,12,201145,Jeff Green,1610612738,Boston Celtics,1,9,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-155,124,1,1,20140124,BOS,OKC
+Shot Chart Detail,0021300636,110,201145,Jeff Green,1610612738,Boston Celtics,2,11,37,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-155,4,1,1,20140124,BOS,OKC
+Shot Chart Detail,0021300636,117,201145,Jeff Green,1610612738,Boston Celtics,2,10,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,124,176,1,1,20140124,BOS,OKC
+Shot Chart Detail,0021300636,122,201145,Jeff Green,1610612738,Boston Celtics,2,9,53,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-68,56,1,1,20140124,BOS,OKC
+Shot Chart Detail,0021300636,195,201145,Jeff Green,1610612738,Boston Celtics,2,2,31,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,4,1,1,20140124,BOS,OKC
+Shot Chart Detail,0021300636,260,201145,Jeff Green,1610612738,Boston Celtics,3,7,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,135,179,1,1,20140124,BOS,OKC
+Shot Chart Detail,0021300636,434,201145,Jeff Green,1610612738,Boston Celtics,4,2,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,203,145,1,1,20140124,BOS,OKC
+Shot Chart Detail,0021300658,279,201145,Jeff Green,1610612738,Boston Celtics,3,7,56,Made Shot,Driving Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,6,1,1,20140126,BOS,BKN
+Shot Chart Detail,0021300658,299,201145,Jeff Green,1610612738,Boston Celtics,3,5,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,215,126,1,1,20140126,BOS,BKN
+Shot Chart Detail,0021300670,197,201145,Jeff Green,1610612738,Boston Celtics,2,4,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,192,164,1,1,20140128,NYK,BOS
+Shot Chart Detail,0021300670,240,201145,Jeff Green,1610612738,Boston Celtics,2,1,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,174,72,1,1,20140128,NYK,BOS
+Shot Chart Detail,0021300670,285,201145,Jeff Green,1610612738,Boston Celtics,3,9,40,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,231,-10,1,1,20140128,NYK,BOS
+Shot Chart Detail,0021300670,353,201145,Jeff Green,1610612738,Boston Celtics,3,3,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,176,138,1,1,20140128,NYK,BOS
+Shot Chart Detail,0021300678,80,201145,Jeff Green,1610612738,Boston Celtics,1,5,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,15,15,1,1,20140129,BOS,PHI
+Shot Chart Detail,0021300678,103,201145,Jeff Green,1610612738,Boston Celtics,1,3,22,Made Shot,Driving Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,4,1,1,20140129,BOS,PHI
+Shot Chart Detail,0021300678,139,201145,Jeff Green,1610612738,Boston Celtics,1,1,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,58,249,1,1,20140129,BOS,PHI
+Shot Chart Detail,0021300678,445,201145,Jeff Green,1610612738,Boston Celtics,4,10,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-131,205,1,1,20140129,BOS,PHI
+Shot Chart Detail,0021300678,499,201145,Jeff Green,1610612738,Boston Celtics,4,5,23,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,162,22,1,1,20140129,BOS,PHI
+Shot Chart Detail,0021300709,243,201145,Jeff Green,1610612738,Boston Celtics,2,0,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,106,230,1,1,20140202,BOS,ORL
+Shot Chart Detail,0021300709,472,201145,Jeff Green,1610612738,Boston Celtics,4,1,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,23,212,101,1,1,20140202,BOS,ORL
+Shot Chart Detail,0021300726,27,201145,Jeff Green,1610612738,Boston Celtics,1,9,29,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,11,1,1,20140205,PHI,BOS
+Shot Chart Detail,0021300726,55,201145,Jeff Green,1610612738,Boston Celtics,1,6,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,12,1,1,20140205,PHI,BOS
+Shot Chart Detail,0021300726,80,201145,Jeff Green,1610612738,Boston Celtics,1,4,20,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-155,93,1,1,20140205,PHI,BOS
+Shot Chart Detail,0021300726,249,201145,Jeff Green,1610612738,Boston Celtics,2,2,37,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,3,1,1,20140205,PHI,BOS
+Shot Chart Detail,0021300726,253,201145,Jeff Green,1610612738,Boston Celtics,2,2,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-182,183,1,1,20140205,PHI,BOS
+Shot Chart Detail,0021300726,340,201145,Jeff Green,1610612738,Boston Celtics,3,7,30,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,17,50,1,1,20140205,PHI,BOS
+Shot Chart Detail,0021300726,355,201145,Jeff Green,1610612738,Boston Celtics,3,5,59,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,241,19,1,1,20140205,PHI,BOS
+Shot Chart Detail,0021300726,365,201145,Jeff Green,1610612738,Boston Celtics,3,5,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-11,258,1,1,20140205,PHI,BOS
+Shot Chart Detail,0021300726,385,201145,Jeff Green,1610612738,Boston Celtics,3,3,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-174,173,1,1,20140205,PHI,BOS
+Shot Chart Detail,0021300726,509,201145,Jeff Green,1610612738,Boston Celtics,4,4,18,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-8,22,1,1,20140205,PHI,BOS
+Shot Chart Detail,0021300726,529,201145,Jeff Green,1610612738,Boston Celtics,4,1,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,19,1,1,20140205,PHI,BOS
+Shot Chart Detail,0021300743,62,201145,Jeff Green,1610612738,Boston Celtics,1,5,34,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,-2,1,1,20140207,BOS,SAC
+Shot Chart Detail,0021300743,264,201145,Jeff Green,1610612738,Boston Celtics,2,2,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,141,30,1,1,20140207,BOS,SAC
+Shot Chart Detail,0021300743,315,201145,Jeff Green,1610612738,Boston Celtics,3,9,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,1,1,1,20140207,BOS,SAC
+Shot Chart Detail,0021300743,360,201145,Jeff Green,1610612738,Boston Celtics,3,4,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-185,195,1,1,20140207,BOS,SAC
+Shot Chart Detail,0021300743,375,201145,Jeff Green,1610612738,Boston Celtics,3,2,42,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,-13,1,1,20140207,BOS,SAC
+Shot Chart Detail,0021300743,391,201145,Jeff Green,1610612738,Boston Celtics,3,0,58,Made Shot,Running Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,0,1,1,20140207,BOS,SAC
+Shot Chart Detail,0021300758,51,201145,Jeff Green,1610612738,Boston Celtics,1,6,27,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,1,1,1,20140209,BOS,DAL
+Shot Chart Detail,0021300758,108,201145,Jeff Green,1610612738,Boston Celtics,1,1,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,100,228,1,1,20140209,BOS,DAL
+Shot Chart Detail,0021300758,319,201145,Jeff Green,1610612738,Boston Celtics,3,7,28,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,4,1,1,20140209,BOS,DAL
+Shot Chart Detail,0021300758,343,201145,Jeff Green,1610612738,Boston Celtics,3,3,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-35,186,1,1,20140209,BOS,DAL
+Shot Chart Detail,0021300758,479,201145,Jeff Green,1610612738,Boston Celtics,4,2,25,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,179,176,1,1,20140209,BOS,DAL
+Shot Chart Detail,0021300758,481,201145,Jeff Green,1610612738,Boston Celtics,4,1,54,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-24,6,1,1,20140209,BOS,DAL
+Shot Chart Detail,0021300767,47,201145,Jeff Green,1610612738,Boston Celtics,1,6,14,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,65,4,1,1,20140210,MIL,BOS
+Shot Chart Detail,0021300767,220,201145,Jeff Green,1610612738,Boston Celtics,2,4,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-6,1,1,20140210,MIL,BOS
+Shot Chart Detail,0021300767,254,201145,Jeff Green,1610612738,Boston Celtics,2,1,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-163,123,1,1,20140210,MIL,BOS
+Shot Chart Detail,0021300767,282,201145,Jeff Green,1610612738,Boston Celtics,3,10,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,103,170,1,1,20140210,MIL,BOS
+Shot Chart Detail,0021300767,314,201145,Jeff Green,1610612738,Boston Celtics,3,6,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,1,1,1,20140210,MIL,BOS
+Shot Chart Detail,0021300767,355,201145,Jeff Green,1610612738,Boston Celtics,3,2,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,84,151,1,1,20140210,MIL,BOS
+Shot Chart Detail,0021300767,377,201145,Jeff Green,1610612738,Boston Celtics,4,11,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,40,170,1,1,20140210,MIL,BOS
+Shot Chart Detail,0021300767,379,201145,Jeff Green,1610612738,Boston Celtics,4,11,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,47,170,1,1,20140210,MIL,BOS
+Shot Chart Detail,0021300767,417,201145,Jeff Green,1610612738,Boston Celtics,4,8,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-123,233,1,1,20140210,MIL,BOS
+Shot Chart Detail,0021300767,437,201145,Jeff Green,1610612738,Boston Celtics,4,6,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,143,-24,1,1,20140210,MIL,BOS
+Shot Chart Detail,0021300767,457,201145,Jeff Green,1610612738,Boston Celtics,4,4,27,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,64,-3,1,1,20140210,MIL,BOS
+Shot Chart Detail,0021300780,93,201145,Jeff Green,1610612738,Boston Celtics,1,1,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,171,183,1,1,20140212,BOS,SAS
+Shot Chart Detail,0021300780,208,201145,Jeff Green,1610612738,Boston Celtics,2,0,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,4,1,1,20140212,BOS,SAS
+Shot Chart Detail,0021300780,235,201145,Jeff Green,1610612738,Boston Celtics,3,8,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,3,1,1,20140212,BOS,SAS
+Shot Chart Detail,0021300780,253,201145,Jeff Green,1610612738,Boston Celtics,3,7,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,94,209,1,1,20140212,BOS,SAS
+Shot Chart Detail,0021300807,21,201145,Jeff Green,1610612738,Boston Celtics,1,9,24,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-62,129,1,1,20140219,PHX,BOS
+Shot Chart Detail,0021300807,42,201145,Jeff Green,1610612738,Boston Celtics,1,7,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,7,1,1,20140219,PHX,BOS
+Shot Chart Detail,0021300807,53,201145,Jeff Green,1610612738,Boston Celtics,1,6,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,159,165,1,1,20140219,PHX,BOS
+Shot Chart Detail,0021300807,83,201145,Jeff Green,1610612738,Boston Celtics,1,3,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-161,118,1,1,20140219,PHX,BOS
+Shot Chart Detail,0021300807,313,201145,Jeff Green,1610612738,Boston Celtics,3,9,14,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,233,58,1,1,20140219,PHX,BOS
+Shot Chart Detail,0021300824,10,201145,Jeff Green,1610612738,Boston Celtics,1,11,4,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,7,1,1,20140221,LAL,BOS
+Shot Chart Detail,0021300824,13,201145,Jeff Green,1610612738,Boston Celtics,1,10,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,3,1,1,20140221,LAL,BOS
+Shot Chart Detail,0021300824,19,201145,Jeff Green,1610612738,Boston Celtics,1,9,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,130,238,1,1,20140221,LAL,BOS
+Shot Chart Detail,0021300824,40,201145,Jeff Green,1610612738,Boston Celtics,1,8,8,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,-2,1,1,20140221,LAL,BOS
+Shot Chart Detail,0021300824,277,201145,Jeff Green,1610612738,Boston Celtics,3,10,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,1,1,1,20140221,LAL,BOS
+Shot Chart Detail,0021300824,288,201145,Jeff Green,1610612738,Boston Celtics,3,9,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-23,252,1,1,20140221,LAL,BOS
+Shot Chart Detail,0021300824,453,201145,Jeff Green,1610612738,Boston Celtics,4,8,23,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,-3,1,1,20140221,LAL,BOS
+Shot Chart Detail,0021300824,523,201145,Jeff Green,1610612738,Boston Celtics,4,0,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-161,236,1,1,20140221,LAL,BOS
+Shot Chart Detail,0021300831,247,201145,Jeff Green,1610612738,Boston Celtics,2,2,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-130,132,1,1,20140222,SAC,BOS
+Shot Chart Detail,0021300831,252,201145,Jeff Green,1610612738,Boston Celtics,2,1,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-103,236,1,1,20140222,SAC,BOS
+Shot Chart Detail,0021300831,269,201145,Jeff Green,1610612738,Boston Celtics,2,0,7,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-114,132,1,1,20140222,SAC,BOS
+Shot Chart Detail,0021300831,338,201145,Jeff Green,1610612738,Boston Celtics,3,5,24,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,10,63,1,1,20140222,SAC,BOS
+Shot Chart Detail,0021300831,346,201145,Jeff Green,1610612738,Boston Celtics,3,3,48,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-92,34,1,1,20140222,SAC,BOS
+Shot Chart Detail,0021300831,361,201145,Jeff Green,1610612738,Boston Celtics,3,2,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-71,244,1,1,20140222,SAC,BOS
+Shot Chart Detail,0021300831,483,201145,Jeff Green,1610612738,Boston Celtics,4,4,31,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,9,1,1,20140222,SAC,BOS
+Shot Chart Detail,0021300845,66,201145,Jeff Green,1610612738,Boston Celtics,1,4,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,1,170,1,1,20140224,UTA,BOS
+Shot Chart Detail,0021300845,73,201145,Jeff Green,1610612738,Boston Celtics,1,3,50,Made Shot,Running Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,34,14,1,1,20140224,UTA,BOS
+Shot Chart Detail,0021300845,164,201145,Jeff Green,1610612738,Boston Celtics,2,6,45,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,1,1,1,20140224,UTA,BOS
+Shot Chart Detail,0021300845,208,201145,Jeff Green,1610612738,Boston Celtics,2,2,59,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,7,1,1,20140224,UTA,BOS
+Shot Chart Detail,0021300845,223,201145,Jeff Green,1610612738,Boston Celtics,2,0,58,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,231,4,1,1,20140224,UTA,BOS
+Shot Chart Detail,0021300845,382,201145,Jeff Green,1610612738,Boston Celtics,4,9,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-147,206,1,1,20140224,UTA,BOS
+Shot Chart Detail,0021300845,398,201145,Jeff Green,1610612738,Boston Celtics,4,7,53,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,11,1,1,20140224,UTA,BOS
+Shot Chart Detail,0021300854,113,201145,Jeff Green,1610612738,Boston Celtics,1,0,24,Made Shot,Reverse Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,3,1,1,20140226,BOS,ATL
+Shot Chart Detail,0021300854,168,201145,Jeff Green,1610612738,Boston Celtics,2,6,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,192,11,1,1,20140226,BOS,ATL
+Shot Chart Detail,0021300854,181,201145,Jeff Green,1610612738,Boston Celtics,2,5,40,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-125,154,1,1,20140226,BOS,ATL
+Shot Chart Detail,0021300854,249,201145,Jeff Green,1610612738,Boston Celtics,2,0,48,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,3,1,1,20140226,BOS,ATL
+Shot Chart Detail,0021300854,454,201145,Jeff Green,1610612738,Boston Celtics,4,5,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-89,137,1,1,20140226,BOS,ATL
+Shot Chart Detail,0021300854,476,201145,Jeff Green,1610612738,Boston Celtics,4,4,3,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,242,4,1,1,20140226,BOS,ATL
+Shot Chart Detail,0021300854,518,201145,Jeff Green,1610612738,Boston Celtics,4,1,11,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,21,22,1,1,20140226,BOS,ATL
+Shot Chart Detail,0021300877,13,201145,Jeff Green,1610612738,Boston Celtics,1,10,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,4,261,1,1,20140301,BOS,IND
+Shot Chart Detail,0021300877,55,201145,Jeff Green,1610612738,Boston Celtics,1,6,9,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,22,1,1,20140301,BOS,IND
+Shot Chart Detail,0021300877,173,201145,Jeff Green,1610612738,Boston Celtics,2,7,31,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-101,101,1,1,20140301,BOS,IND
+Shot Chart Detail,0021300877,203,201145,Jeff Green,1610612738,Boston Celtics,2,6,6,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,105,26,1,1,20140301,BOS,IND
+Shot Chart Detail,0021300877,250,201145,Jeff Green,1610612738,Boston Celtics,2,1,46,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,19,1,1,20140301,BOS,IND
+Shot Chart Detail,0021300877,307,201145,Jeff Green,1610612738,Boston Celtics,3,5,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,28,1,1,1,20140301,BOS,IND
+Shot Chart Detail,0021300877,328,201145,Jeff Green,1610612738,Boston Celtics,3,2,56,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,-2,1,1,20140301,BOS,IND
+Shot Chart Detail,0021300877,352,201145,Jeff Green,1610612738,Boston Celtics,3,1,38,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,132,116,1,1,20140301,BOS,IND
+Shot Chart Detail,0021300877,377,201145,Jeff Green,1610612738,Boston Celtics,4,10,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-152,138,1,1,20140301,BOS,IND
+Shot Chart Detail,0021300877,518,201145,Jeff Green,1610612738,Boston Celtics,4,0,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,12,1,1,20140301,BOS,IND
+Shot Chart Detail,0021300907,97,201145,Jeff Green,1610612738,Boston Celtics,1,1,46,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,39,12,1,1,20140305,BOS,GSW
+Shot Chart Detail,0021300907,260,201145,Jeff Green,1610612738,Boston Celtics,2,0,50,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,13,30,1,1,20140305,BOS,GSW
+Shot Chart Detail,0021300920,11,201145,Jeff Green,1610612738,Boston Celtics,1,10,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,77,203,1,1,20140307,BOS,BKN
+Shot Chart Detail,0021300920,33,201145,Jeff Green,1610612738,Boston Celtics,1,7,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-134,74,1,1,20140307,BOS,BKN
+Shot Chart Detail,0021300920,287,201145,Jeff Green,1610612738,Boston Celtics,3,10,51,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,6,1,1,20140307,BOS,BKN
+Shot Chart Detail,0021300920,292,201145,Jeff Green,1610612738,Boston Celtics,3,10,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,21,193,99,1,1,20140307,BOS,BKN
+Shot Chart Detail,0021300920,294,201145,Jeff Green,1610612738,Boston Celtics,3,9,23,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,22,203,85,1,1,20140307,BOS,BKN
+Shot Chart Detail,0021300920,402,201145,Jeff Green,1610612738,Boston Celtics,3,1,46,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,15,78,137,1,1,20140307,BOS,BKN
+Shot Chart Detail,0021300937,221,201145,Jeff Green,1610612738,Boston Celtics,2,6,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,106,228,1,1,20140309,BOS,DET
+Shot Chart Detail,0021300937,260,201145,Jeff Green,1610612738,Boston Celtics,2,4,22,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,0,1,1,20140309,BOS,DET
+Shot Chart Detail,0021300937,281,201145,Jeff Green,1610612738,Boston Celtics,2,3,32,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,6,1,1,20140309,BOS,DET
+Shot Chart Detail,0021300937,295,201145,Jeff Green,1610612738,Boston Celtics,2,2,12,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,7,1,1,20140309,BOS,DET
+Shot Chart Detail,0021300937,311,201145,Jeff Green,1610612738,Boston Celtics,2,0,38,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,29,-2,1,1,20140309,BOS,DET
+Shot Chart Detail,0021300937,343,201145,Jeff Green,1610612738,Boston Celtics,3,8,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-144,200,1,1,20140309,BOS,DET
+Shot Chart Detail,0021300937,348,201145,Jeff Green,1610612738,Boston Celtics,3,7,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,99,250,1,1,20140309,BOS,DET
+Shot Chart Detail,0021300937,351,201145,Jeff Green,1610612738,Boston Celtics,3,6,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,29,168,238,1,1,20140309,BOS,DET
+Shot Chart Detail,0021300937,376,201145,Jeff Green,1610612738,Boston Celtics,3,4,41,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,40,3,1,1,20140309,BOS,DET
+Shot Chart Detail,0021300937,386,201145,Jeff Green,1610612738,Boston Celtics,3,3,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,121,236,1,1,20140309,BOS,DET
+Shot Chart Detail,0021300937,517,201145,Jeff Green,1610612738,Boston Celtics,4,4,22,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,88,143,1,1,20140309,BOS,DET
+Shot Chart Detail,0021300950,206,201145,Jeff Green,1610612738,Boston Celtics,2,2,4,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,6,1,1,20140311,IND,BOS
+Shot Chart Detail,0021300950,294,201145,Jeff Green,1610612738,Boston Celtics,3,7,18,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,102,44,1,1,20140311,IND,BOS
+Shot Chart Detail,0021300950,339,201145,Jeff Green,1610612738,Boston Celtics,3,2,42,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,9,1,1,20140311,IND,BOS
+Shot Chart Detail,0021300962,37,201145,Jeff Green,1610612738,Boston Celtics,1,7,19,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,73,77,1,1,20140312,BOS,NYK
+Shot Chart Detail,0021300962,70,201145,Jeff Green,1610612738,Boston Celtics,1,4,25,Made Shot,Driving Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,4,1,1,20140312,BOS,NYK
+Shot Chart Detail,0021300962,256,201145,Jeff Green,1610612738,Boston Celtics,2,0,36,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,0,1,1,20140312,BOS,NYK
+Shot Chart Detail,0021300962,289,201145,Jeff Green,1610612738,Boston Celtics,3,8,57,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,144,164,1,1,20140312,BOS,NYK
+Shot Chart Detail,0021300962,293,201145,Jeff Green,1610612738,Boston Celtics,3,8,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,177,179,1,1,20140312,BOS,NYK
+Shot Chart Detail,0021300962,300,201145,Jeff Green,1610612738,Boston Celtics,3,7,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,159,88,1,1,20140312,BOS,NYK
+Shot Chart Detail,0021300962,358,201145,Jeff Green,1610612738,Boston Celtics,3,2,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,7,1,1,20140312,BOS,NYK
+Shot Chart Detail,0021300962,367,201145,Jeff Green,1610612738,Boston Celtics,3,1,45,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,1,1,1,20140312,BOS,NYK
+Shot Chart Detail,0021300962,370,201145,Jeff Green,1610612738,Boston Celtics,3,1,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-160,192,1,1,20140312,BOS,NYK
+Shot Chart Detail,0021300962,433,201145,Jeff Green,1610612738,Boston Celtics,4,7,20,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,1,1,1,20140312,BOS,NYK
+Shot Chart Detail,0021300975,188,201145,Jeff Green,1610612738,Boston Celtics,2,6,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,105,183,1,1,20140314,BOS,PHX
+Shot Chart Detail,0021300975,213,201145,Jeff Green,1610612738,Boston Celtics,2,3,21,Made Shot,Pullup Jump shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,25,-239,74,1,1,20140314,BOS,PHX
+Shot Chart Detail,0021300990,2,201145,Jeff Green,1610612738,Boston Celtics,1,11,36,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,6,1,1,20140316,NOP,BOS
+Shot Chart Detail,0021300990,82,201145,Jeff Green,1610612738,Boston Celtics,1,2,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,15,14,1,1,20140316,NOP,BOS
+Shot Chart Detail,0021300990,98,201145,Jeff Green,1610612738,Boston Celtics,1,0,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,152,216,1,1,20140316,NOP,BOS
+Shot Chart Detail,0021300990,181,201145,Jeff Green,1610612738,Boston Celtics,2,3,58,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,15,1,1,20140316,NOP,BOS
+Shot Chart Detail,0021300990,197,201145,Jeff Green,1610612738,Boston Celtics,2,2,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,0,250,1,1,20140316,NOP,BOS
+Shot Chart Detail,0021300990,212,201145,Jeff Green,1610612738,Boston Celtics,2,1,42,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,241,45,1,1,20140316,NOP,BOS
+Shot Chart Detail,0021300990,276,201145,Jeff Green,1610612738,Boston Celtics,3,8,19,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,20,1,1,20140316,NOP,BOS
+Shot Chart Detail,0021300990,463,201145,Jeff Green,1610612738,Boston Celtics,4,5,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,13,17,1,1,20140316,NOP,BOS
+Shot Chart Detail,0021300990,478,201145,Jeff Green,1610612738,Boston Celtics,4,4,9,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,19,1,1,20140316,NOP,BOS
+Shot Chart Detail,0021300990,483,201145,Jeff Green,1610612738,Boston Celtics,4,3,31,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-229,28,1,1,20140316,NOP,BOS
+Shot Chart Detail,0021300990,520,201145,Jeff Green,1610612738,Boston Celtics,4,0,38,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,-2,1,1,20140316,NOP,BOS
+Shot Chart Detail,0021300990,639,201145,Jeff Green,1610612738,Boston Celtics,5,0,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,12,1,1,20140316,NOP,BOS
+Shot Chart Detail,0021301001,43,201145,Jeff Green,1610612738,Boston Celtics,1,6,11,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,7,20,1,1,20140317,DAL,BOS
+Shot Chart Detail,0021301001,350,201145,Jeff Green,1610612738,Boston Celtics,3,2,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,151,209,1,1,20140317,DAL,BOS
+Shot Chart Detail,0021301009,30,201145,Jeff Green,1610612738,Boston Celtics,1,7,58,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,133,7,1,1,20140319,BOS,MIA
+Shot Chart Detail,0021301009,34,201145,Jeff Green,1610612738,Boston Celtics,1,7,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-188,172,1,1,20140319,BOS,MIA
+Shot Chart Detail,0021301009,206,201145,Jeff Green,1610612738,Boston Celtics,2,1,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-123,216,1,1,20140319,BOS,MIA
+Shot Chart Detail,0021301009,248,201145,Jeff Green,1610612738,Boston Celtics,3,9,50,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,-2,1,1,20140319,BOS,MIA
+Shot Chart Detail,0021301009,427,201145,Jeff Green,1610612738,Boston Celtics,4,2,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-92,235,1,1,20140319,BOS,MIA
+Shot Chart Detail,0021301026,58,201145,Jeff Green,1610612738,Boston Celtics,1,6,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,168,224,1,1,20140321,BKN,BOS
+Shot Chart Detail,0021301026,87,201145,Jeff Green,1610612738,Boston Celtics,1,3,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,9,1,1,20140321,BKN,BOS
+Shot Chart Detail,0021301026,114,201145,Jeff Green,1610612738,Boston Celtics,1,1,42,Made Shot,Driving Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,9,1,1,20140321,BKN,BOS
+Shot Chart Detail,0021301026,207,201145,Jeff Green,1610612738,Boston Celtics,2,2,29,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-67,184,1,1,20140321,BKN,BOS
+Shot Chart Detail,0021301026,340,201145,Jeff Green,1610612738,Boston Celtics,3,1,4,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-7,93,1,1,20140321,BKN,BOS
+Shot Chart Detail,0021301026,374,201145,Jeff Green,1610612738,Boston Celtics,4,9,40,Made Shot,Driving Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,9,19,1,1,20140321,BKN,BOS
+Shot Chart Detail,0021301063,85,201145,Jeff Green,1610612738,Boston Celtics,1,1,36,Made Shot,Driving Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,0,1,1,20140326,BOS,TOR
+Shot Chart Detail,0021301063,87,201145,Jeff Green,1610612738,Boston Celtics,1,1,9,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,6,1,1,20140326,BOS,TOR
+Shot Chart Detail,0021301063,262,201145,Jeff Green,1610612738,Boston Celtics,3,8,52,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-116,50,1,1,20140326,BOS,TOR
+Shot Chart Detail,0021301076,2,201145,Jeff Green,1610612738,Boston Celtics,1,11,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-125,213,1,1,20140328,TOR,BOS
+Shot Chart Detail,0021301076,68,201145,Jeff Green,1610612738,Boston Celtics,1,5,25,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,6,1,1,20140328,TOR,BOS
+Shot Chart Detail,0021301076,176,201145,Jeff Green,1610612738,Boston Celtics,2,5,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-182,167,1,1,20140328,TOR,BOS
+Shot Chart Detail,0021301076,183,201145,Jeff Green,1610612738,Boston Celtics,2,5,12,Made Shot,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-19,7,1,1,20140328,TOR,BOS
+Shot Chart Detail,0021301076,221,201145,Jeff Green,1610612738,Boston Celtics,2,2,20,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,9,1,1,20140328,TOR,BOS
+Shot Chart Detail,0021301076,299,201145,Jeff Green,1610612738,Boston Celtics,3,6,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,4,1,1,20140328,TOR,BOS
+Shot Chart Detail,0021301076,302,201145,Jeff Green,1610612738,Boston Celtics,3,6,27,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,47,42,1,1,20140328,TOR,BOS
+Shot Chart Detail,0021301097,35,201145,Jeff Green,1610612738,Boston Celtics,1,8,52,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,3,1,1,20140330,BOS,CHI
+Shot Chart Detail,0021301097,41,201145,Jeff Green,1610612738,Boston Celtics,1,7,29,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-232,78,1,1,20140330,BOS,CHI
+Shot Chart Detail,0021301097,67,201145,Jeff Green,1610612738,Boston Celtics,1,4,31,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-144,89,1,1,20140330,BOS,CHI
+Shot Chart Detail,0021301097,117,201145,Jeff Green,1610612738,Boston Celtics,1,0,0,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,-3,1,1,20140330,BOS,CHI
+Shot Chart Detail,0021301097,433,201145,Jeff Green,1610612738,Boston Celtics,4,2,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,203,135,1,1,20140330,BOS,CHI
+Shot Chart Detail,0021301097,441,201145,Jeff Green,1610612738,Boston Celtics,4,2,13,Made Shot,Turnaround Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-221,58,1,1,20140330,BOS,CHI
+Shot Chart Detail,0021301106,31,201145,Jeff Green,1610612738,Boston Celtics,1,8,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,125,145,1,1,20140331,CHI,BOS
+Shot Chart Detail,0021301106,162,201145,Jeff Green,1610612738,Boston Celtics,2,6,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,22,-4,220,1,1,20140331,CHI,BOS
+Shot Chart Detail,0021301106,272,201145,Jeff Green,1610612738,Boston Celtics,3,7,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,114,230,1,1,20140331,CHI,BOS
+Shot Chart Detail,0021301106,304,201145,Jeff Green,1610612738,Boston Celtics,3,5,7,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,62,83,1,1,20140331,CHI,BOS
+Shot Chart Detail,0021301119,13,201145,Jeff Green,1610612738,Boston Celtics,1,9,35,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,91,179,1,1,20140402,WAS,BOS
+Shot Chart Detail,0021301119,102,201145,Jeff Green,1610612738,Boston Celtics,1,1,42,Made Shot,Driving Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,6,1,1,20140402,WAS,BOS
+Shot Chart Detail,0021301119,417,201145,Jeff Green,1610612738,Boston Celtics,4,9,48,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,3,1,1,20140402,WAS,BOS
+Shot Chart Detail,0021301133,61,201145,Jeff Green,1610612738,Boston Celtics,1,5,23,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-218,123,1,1,20140404,BOS,PHI
+Shot Chart Detail,0021301133,79,201145,Jeff Green,1610612738,Boston Celtics,1,3,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,141,178,1,1,20140404,BOS,PHI
+Shot Chart Detail,0021301133,503,201145,Jeff Green,1610612738,Boston Celtics,4,6,4,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,23,33,1,1,20140404,BOS,PHI
+Shot Chart Detail,0021301133,525,201145,Jeff Green,1610612738,Boston Celtics,4,3,44,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,3,1,1,20140404,BOS,PHI
+Shot Chart Detail,0021301146,31,201145,Jeff Green,1610612738,Boston Celtics,1,8,50,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,4,1,1,20140405,DET,BOS
+Shot Chart Detail,0021301146,38,201145,Jeff Green,1610612738,Boston Celtics,1,7,51,Made Shot,Driving Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,7,1,1,20140405,DET,BOS
+Shot Chart Detail,0021301146,53,201145,Jeff Green,1610612738,Boston Celtics,1,5,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-179,197,1,1,20140405,DET,BOS
+Shot Chart Detail,0021301146,90,201145,Jeff Green,1610612738,Boston Celtics,1,1,16,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,-2,1,1,20140405,DET,BOS
+Shot Chart Detail,0021301146,155,201145,Jeff Green,1610612738,Boston Celtics,2,7,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-166,200,1,1,20140405,DET,BOS
+Shot Chart Detail,0021301146,244,201145,Jeff Green,1610612738,Boston Celtics,2,0,33,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,42,1,1,20140405,DET,BOS
+Shot Chart Detail,0021301146,298,201145,Jeff Green,1610612738,Boston Celtics,3,6,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-147,97,1,1,20140405,DET,BOS
+Shot Chart Detail,0021301146,415,201145,Jeff Green,1610612738,Boston Celtics,4,6,36,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,81,19,1,1,20140405,DET,BOS
+Shot Chart Detail,0021301166,60,201145,Jeff Green,1610612738,Boston Celtics,1,4,35,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,-3,1,1,20140409,ATL,BOS
+Shot Chart Detail,0021301166,76,201145,Jeff Green,1610612738,Boston Celtics,1,3,1,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,6,1,1,20140409,ATL,BOS
+Shot Chart Detail,0021301166,263,201145,Jeff Green,1610612738,Boston Celtics,3,11,20,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-3,11,1,1,20140409,ATL,BOS
+Shot Chart Detail,0021301166,383,201145,Jeff Green,1610612738,Boston Celtics,3,1,41,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,242,48,1,1,20140409,ATL,BOS
+Shot Chart Detail,0021301166,400,201145,Jeff Green,1610612738,Boston Celtics,3,0,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,108,230,1,1,20140409,ATL,BOS
+Shot Chart Detail,0021301178,15,201145,Jeff Green,1610612738,Boston Celtics,1,10,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,45,181,1,1,20140411,BOS,CHA
+Shot Chart Detail,0021301178,73,201145,Jeff Green,1610612738,Boston Celtics,1,3,54,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,88,28,1,1,20140411,BOS,CHA
+Shot Chart Detail,0021301178,82,201145,Jeff Green,1610612738,Boston Celtics,1,2,49,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-123,214,1,1,20140411,BOS,CHA
+Shot Chart Detail,0021301178,207,201145,Jeff Green,1610612738,Boston Celtics,2,0,53,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-75,4,1,1,20140411,BOS,CHA
+Shot Chart Detail,0021301178,232,201145,Jeff Green,1610612738,Boston Celtics,3,10,3,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,6,37,1,1,20140411,BOS,CHA
+Shot Chart Detail,0021301178,295,201145,Jeff Green,1610612738,Boston Celtics,3,3,24,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,11,1,1,20140411,BOS,CHA
+Shot Chart Detail,0021301178,308,201145,Jeff Green,1610612738,Boston Celtics,3,2,21,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,36,34,1,1,20140411,BOS,CHA
+Shot Chart Detail,0021301178,430,201145,Jeff Green,1610612738,Boston Celtics,4,2,40,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,4,1,1,20140411,BOS,CHA
+Shot Chart Detail,0021301193,36,201145,Jeff Green,1610612738,Boston Celtics,1,9,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,189,-33,1,1,20140412,CLE,BOS
+Shot Chart Detail,0021301193,108,201145,Jeff Green,1610612738,Boston Celtics,1,3,3,Made Shot,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,69,25,1,1,20140412,CLE,BOS
+Shot Chart Detail,0021301193,293,201145,Jeff Green,1610612738,Boston Celtics,2,0,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,207,151,1,1,20140412,CLE,BOS
+Shot Chart Detail,0021301193,304,201145,Jeff Green,1610612738,Boston Celtics,3,11,45,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,228,56,1,1,20140412,CLE,BOS
+Shot Chart Detail,0021301193,358,201145,Jeff Green,1610612738,Boston Celtics,3,6,42,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,17,1,1,20140412,CLE,BOS
+Shot Chart Detail,0021301193,456,201145,Jeff Green,1610612738,Boston Celtics,4,10,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-223,121,1,1,20140412,CLE,BOS
+Shot Chart Detail,0021301204,3,201145,Jeff Green,1610612738,Boston Celtics,1,11,32,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,133,-25,1,1,20140414,PHI,BOS
+Shot Chart Detail,0021301204,14,201145,Jeff Green,1610612738,Boston Celtics,1,10,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,119,-35,1,1,20140414,PHI,BOS
+Shot Chart Detail,0021301204,59,201145,Jeff Green,1610612738,Boston Celtics,1,6,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,239,91,1,1,20140414,PHI,BOS
+Shot Chart Detail,0021301204,81,201145,Jeff Green,1610612738,Boston Celtics,1,4,34,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,4,1,1,20140414,PHI,BOS
+Shot Chart Detail,0021301204,97,201145,Jeff Green,1610612738,Boston Celtics,1,3,38,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,7,1,1,20140414,PHI,BOS
+Shot Chart Detail,0021301204,275,201145,Jeff Green,1610612738,Boston Celtics,2,1,15,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,84,0,1,1,20140414,PHI,BOS
+Shot Chart Detail,0021301204,369,201145,Jeff Green,1610612738,Boston Celtics,3,2,59,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,0,1,1,20140414,PHI,BOS
+Shot Chart Detail,0021301204,458,201145,Jeff Green,1610612738,Boston Celtics,4,6,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,173,208,1,1,20140414,PHI,BOS
+Shot Chart Detail,0021301204,464,201145,Jeff Green,1610612738,Boston Celtics,4,5,49,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,-2,1,1,20140414,PHI,BOS
+Shot Chart Detail,0021301204,476,201145,Jeff Green,1610612738,Boston Celtics,4,5,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,1,1,1,20140414,PHI,BOS
+Shot Chart Detail,0021301222,133,201145,Jeff Green,1610612738,Boston Celtics,2,11,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,9,1,1,20140416,BOS,WAS
+Shot Chart Detail,0021301222,144,201145,Jeff Green,1610612738,Boston Celtics,2,10,20,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,14,1,1,20140416,BOS,WAS
+Shot Chart Detail,0021301222,179,201145,Jeff Green,1610612738,Boston Celtics,2,6,33,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,18,157,1,1,20140416,BOS,WAS
+Shot Chart Detail,0021301222,194,201145,Jeff Green,1610612738,Boston Celtics,2,4,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-193,157,1,1,20140416,BOS,WAS
+Shot Chart Detail,0021301222,239,201145,Jeff Green,1610612738,Boston Celtics,2,1,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-136,219,1,1,20140416,BOS,WAS
+Shot Chart Detail,0021301222,295,201145,Jeff Green,1610612738,Boston Celtics,3,7,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,17,1,1,20140416,BOS,WAS

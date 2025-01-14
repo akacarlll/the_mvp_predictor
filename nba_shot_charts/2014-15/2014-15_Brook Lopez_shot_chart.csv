@@ -1,0 +1,507 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0021400044,215,201572,Brook Lopez,1610612751,Brooklyn Nets,2,2,43,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141103,BKN,OKC
+Shot Chart Detail,0021400044,236,201572,Brook Lopez,1610612751,Brooklyn Nets,2,0,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,45,157,1,1,20141103,BKN,OKC
+Shot Chart Detail,0021400044,254,201572,Brook Lopez,1610612751,Brooklyn Nets,3,11,9,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,26,36,1,1,20141103,BKN,OKC
+Shot Chart Detail,0021400044,279,201572,Brook Lopez,1610612751,Brooklyn Nets,3,9,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,-3,1,1,20141103,BKN,OKC
+Shot Chart Detail,0021400044,326,201572,Brook Lopez,1610612751,Brooklyn Nets,3,4,51,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141103,BKN,OKC
+Shot Chart Detail,0021400044,413,201572,Brook Lopez,1610612751,Brooklyn Nets,4,7,27,Made Shot,Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,103,6,1,1,20141103,BKN,OKC
+Shot Chart Detail,0021400060,22,201572,Brook Lopez,1610612751,Brooklyn Nets,1,9,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,1,1,1,20141105,BKN,MIN
+Shot Chart Detail,0021400060,99,201572,Brook Lopez,1610612751,Brooklyn Nets,1,2,9,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-11,50,1,1,20141105,BKN,MIN
+Shot Chart Detail,0021400060,104,201572,Brook Lopez,1610612751,Brooklyn Nets,1,1,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,94,29,1,1,20141105,BKN,MIN
+Shot Chart Detail,0021400060,314,201572,Brook Lopez,1610612751,Brooklyn Nets,3,5,58,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141105,BKN,MIN
+Shot Chart Detail,0021400060,316,201572,Brook Lopez,1610612751,Brooklyn Nets,3,5,24,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-21,63,1,1,20141105,BKN,MIN
+Shot Chart Detail,0021400075,2,201572,Brook Lopez,1610612751,Brooklyn Nets,1,11,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,14,1,1,20141107,BKN,NYK
+Shot Chart Detail,0021400075,9,201572,Brook Lopez,1610612751,Brooklyn Nets,1,10,40,Made Shot,Hook Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-97,17,1,1,20141107,BKN,NYK
+Shot Chart Detail,0021400075,49,201572,Brook Lopez,1610612751,Brooklyn Nets,1,6,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,83,179,1,1,20141107,BKN,NYK
+Shot Chart Detail,0021400075,289,201572,Brook Lopez,1610612751,Brooklyn Nets,3,10,9,Made Shot,Hook Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-93,22,1,1,20141107,BKN,NYK
+Shot Chart Detail,0021400075,292,201572,Brook Lopez,1610612751,Brooklyn Nets,3,9,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,29,12,1,1,20141107,BKN,NYK
+Shot Chart Detail,0021400075,436,201572,Brook Lopez,1610612751,Brooklyn Nets,4,9,27,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,0,72,1,1,20141107,BKN,NYK
+Shot Chart Detail,0021400090,25,201572,Brook Lopez,1610612751,Brooklyn Nets,1,9,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,1,1,1,20141109,BKN,ORL
+Shot Chart Detail,0021400090,42,201572,Brook Lopez,1610612751,Brooklyn Nets,1,7,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,-6,1,1,20141109,BKN,ORL
+Shot Chart Detail,0021400090,292,201572,Brook Lopez,1610612751,Brooklyn Nets,3,6,4,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,12,1,1,20141109,BKN,ORL
+Shot Chart Detail,0021400090,307,201572,Brook Lopez,1610612751,Brooklyn Nets,3,4,44,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,-3,1,1,20141109,BKN,ORL
+Shot Chart Detail,0021400116,46,201572,Brook Lopez,1610612751,Brooklyn Nets,1,5,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,4,1,1,20141112,PHX,BKN
+Shot Chart Detail,0021400116,72,201572,Brook Lopez,1610612751,Brooklyn Nets,1,2,18,Made Shot,Turnaround Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,81,23,1,1,20141112,PHX,BKN
+Shot Chart Detail,0021400116,187,201572,Brook Lopez,1610612751,Brooklyn Nets,2,4,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,0,1,1,20141112,PHX,BKN
+Shot Chart Detail,0021400116,227,201572,Brook Lopez,1610612751,Brooklyn Nets,2,2,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,9,1,1,20141112,PHX,BKN
+Shot Chart Detail,0021400116,231,201572,Brook Lopez,1610612751,Brooklyn Nets,2,1,16,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,10,30,1,1,20141112,PHX,BKN
+Shot Chart Detail,0021400116,242,201572,Brook Lopez,1610612751,Brooklyn Nets,2,0,46,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,-3,1,1,20141112,PHX,BKN
+Shot Chart Detail,0021400121,4,201572,Brook Lopez,1610612751,Brooklyn Nets,1,11,35,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,22,1,1,20141113,GSW,BKN
+Shot Chart Detail,0021400121,25,201572,Brook Lopez,1610612751,Brooklyn Nets,1,9,0,Made Shot,Pullup Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,7,105,1,1,20141113,GSW,BKN
+Shot Chart Detail,0021400121,35,201572,Brook Lopez,1610612751,Brooklyn Nets,1,8,19,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,0,121,1,1,20141113,GSW,BKN
+Shot Chart Detail,0021400121,64,201572,Brook Lopez,1610612751,Brooklyn Nets,1,5,37,Made Shot,Driving Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141113,GSW,BKN
+Shot Chart Detail,0021400121,306,201572,Brook Lopez,1610612751,Brooklyn Nets,3,8,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,12,1,1,20141113,GSW,BKN
+Shot Chart Detail,0021400121,478,201572,Brook Lopez,1610612751,Brooklyn Nets,4,3,58,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,11,1,1,20141113,GSW,BKN
+Shot Chart Detail,0021400121,484,201572,Brook Lopez,1610612751,Brooklyn Nets,4,2,47,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-43,162,1,1,20141113,GSW,BKN
+Shot Chart Detail,0021400138,33,201572,Brook Lopez,1610612751,Brooklyn Nets,1,8,40,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-149,69,1,1,20141115,POR,BKN
+Shot Chart Detail,0021400138,39,201572,Brook Lopez,1610612751,Brooklyn Nets,1,7,38,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,7,60,1,1,20141115,POR,BKN
+Shot Chart Detail,0021400138,42,201572,Brook Lopez,1610612751,Brooklyn Nets,1,7,5,Made Shot,Driving Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-35,3,1,1,20141115,POR,BKN
+Shot Chart Detail,0021400138,199,201572,Brook Lopez,1610612751,Brooklyn Nets,2,6,43,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,-2,1,1,20141115,POR,BKN
+Shot Chart Detail,0021400138,216,201572,Brook Lopez,1610612751,Brooklyn Nets,2,5,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,0,1,1,20141115,POR,BKN
+Shot Chart Detail,0021400138,240,201572,Brook Lopez,1610612751,Brooklyn Nets,2,3,11,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,29,26,1,1,20141115,POR,BKN
+Shot Chart Detail,0021400138,299,201572,Brook Lopez,1610612751,Brooklyn Nets,3,8,33,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-78,42,1,1,20141115,POR,BKN
+Shot Chart Detail,0021400138,334,201572,Brook Lopez,1610612751,Brooklyn Nets,3,3,24,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,32,104,1,1,20141115,POR,BKN
+Shot Chart Detail,0021400138,350,201572,Brook Lopez,1610612751,Brooklyn Nets,3,2,15,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,7,88,1,1,20141115,POR,BKN
+Shot Chart Detail,0021400138,355,201572,Brook Lopez,1610612751,Brooklyn Nets,3,1,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,7,1,1,20141115,POR,BKN
+Shot Chart Detail,0021400149,142,201572,Brook Lopez,1610612751,Brooklyn Nets,2,9,2,Made Shot,Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,129,3,1,1,20141117,BKN,MIA
+Shot Chart Detail,0021400149,156,201572,Brook Lopez,1610612751,Brooklyn Nets,2,7,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,4,1,1,20141117,BKN,MIA
+Shot Chart Detail,0021400164,4,201572,Brook Lopez,1610612751,Brooklyn Nets,1,11,17,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-133,47,1,1,20141119,BKN,MIL
+Shot Chart Detail,0021400164,32,201572,Brook Lopez,1610612751,Brooklyn Nets,1,8,23,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141119,BKN,MIL
+Shot Chart Detail,0021400164,53,201572,Brook Lopez,1610612751,Brooklyn Nets,1,6,12,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-23,80,1,1,20141119,BKN,MIL
+Shot Chart Detail,0021400164,66,201572,Brook Lopez,1610612751,Brooklyn Nets,1,4,16,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-105,25,1,1,20141119,BKN,MIL
+Shot Chart Detail,0021400164,282,201572,Brook Lopez,1610612751,Brooklyn Nets,3,7,42,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-64,9,1,1,20141119,BKN,MIL
+Shot Chart Detail,0021400164,324,201572,Brook Lopez,1610612751,Brooklyn Nets,3,4,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,28,4,1,1,20141119,BKN,MIL
+Shot Chart Detail,0021400164,355,201572,Brook Lopez,1610612751,Brooklyn Nets,3,1,0,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,53,159,1,1,20141119,BKN,MIL
+Shot Chart Detail,0021400164,464,201572,Brook Lopez,1610612751,Brooklyn Nets,4,3,4,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,9,1,1,20141119,BKN,MIL
+Shot Chart Detail,0021400164,482,201572,Brook Lopez,1610612751,Brooklyn Nets,4,1,14,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141119,BKN,MIL
+Shot Chart Detail,0021400164,508,201572,Brook Lopez,1610612751,Brooklyn Nets,5,3,25,Made Shot,Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,100,4,1,1,20141119,BKN,MIL
+Shot Chart Detail,0021400164,574,201572,Brook Lopez,1610612751,Brooklyn Nets,6,1,56,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,20,66,1,1,20141119,BKN,MIL
+Shot Chart Detail,0021400178,6,201572,Brook Lopez,1610612751,Brooklyn Nets,1,11,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,-3,1,1,20141121,OKC,BKN
+Shot Chart Detail,0021400178,14,201572,Brook Lopez,1610612751,Brooklyn Nets,1,10,0,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,4,129,1,1,20141121,OKC,BKN
+Shot Chart Detail,0021400178,50,201572,Brook Lopez,1610612751,Brooklyn Nets,1,4,44,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,0,44,1,1,20141121,OKC,BKN
+Shot Chart Detail,0021400178,89,201572,Brook Lopez,1610612751,Brooklyn Nets,1,0,41,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,1,23,1,1,20141121,OKC,BKN
+Shot Chart Detail,0021400178,196,201572,Brook Lopez,1610612751,Brooklyn Nets,2,2,27,Made Shot,Turnaround Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,108,12,1,1,20141121,OKC,BKN
+Shot Chart Detail,0021400178,417,201572,Brook Lopez,1610612751,Brooklyn Nets,4,7,3,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,1,55,1,1,20141121,OKC,BKN
+Shot Chart Detail,0021400191,8,201572,Brook Lopez,1610612751,Brooklyn Nets,1,10,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-4,28,1,1,20141122,SAS,BKN
+Shot Chart Detail,0021400191,201,201572,Brook Lopez,1610612751,Brooklyn Nets,2,1,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,11,1,1,20141122,SAS,BKN
+Shot Chart Detail,0021400191,207,201572,Brook Lopez,1610612751,Brooklyn Nets,2,0,48,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-68,26,1,1,20141122,SAS,BKN
+Shot Chart Detail,0021400213,3,201572,Brook Lopez,1610612751,Brooklyn Nets,1,11,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-136,105,1,1,20141126,PHI,BKN
+Shot Chart Detail,0021400213,16,201572,Brook Lopez,1610612751,Brooklyn Nets,1,9,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-52,208,1,1,20141126,PHI,BKN
+Shot Chart Detail,0021400213,34,201572,Brook Lopez,1610612751,Brooklyn Nets,1,7,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,-19,1,1,20141126,PHI,BKN
+Shot Chart Detail,0021400213,93,201572,Brook Lopez,1610612751,Brooklyn Nets,1,1,38,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,94,-14,1,1,20141126,PHI,BKN
+Shot Chart Detail,0021400213,166,201572,Brook Lopez,1610612751,Brooklyn Nets,2,6,53,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,28,3,1,1,20141126,PHI,BKN
+Shot Chart Detail,0021400213,203,201572,Brook Lopez,1610612751,Brooklyn Nets,2,4,10,Made Shot,Jump Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,86,3,1,1,20141126,PHI,BKN
+Shot Chart Detail,0021400213,254,201572,Brook Lopez,1610612751,Brooklyn Nets,3,10,36,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,78,0,1,1,20141126,PHI,BKN
+Shot Chart Detail,0021400213,289,201572,Brook Lopez,1610612751,Brooklyn Nets,3,6,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-13,179,1,1,20141126,PHI,BKN
+Shot Chart Detail,0021400213,293,201572,Brook Lopez,1610612751,Brooklyn Nets,3,5,55,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,4,41,1,1,20141126,PHI,BKN
+Shot Chart Detail,0021400242,5,201572,Brook Lopez,1610612751,Brooklyn Nets,1,11,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-29,184,1,1,20141130,BKN,CHI
+Shot Chart Detail,0021400242,20,201572,Brook Lopez,1610612751,Brooklyn Nets,1,8,49,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-68,1,1,1,20141130,BKN,CHI
+Shot Chart Detail,0021400242,187,201572,Brook Lopez,1610612751,Brooklyn Nets,2,5,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,14,1,1,20141130,BKN,CHI
+Shot Chart Detail,0021400242,200,201572,Brook Lopez,1610612751,Brooklyn Nets,2,4,30,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,94,75,1,1,20141130,BKN,CHI
+Shot Chart Detail,0021400242,233,201572,Brook Lopez,1610612751,Brooklyn Nets,2,2,10,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-24,48,1,1,20141130,BKN,CHI
+Shot Chart Detail,0021400256,12,201572,Brook Lopez,1610612751,Brooklyn Nets,1,10,36,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-10,82,1,1,20141202,NYK,BKN
+Shot Chart Detail,0021400256,23,201572,Brook Lopez,1610612751,Brooklyn Nets,1,10,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,0,1,1,20141202,NYK,BKN
+Shot Chart Detail,0021400256,25,201572,Brook Lopez,1610612751,Brooklyn Nets,1,9,37,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141202,NYK,BKN
+Shot Chart Detail,0021400256,86,201572,Brook Lopez,1610612751,Brooklyn Nets,1,3,17,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,29,101,1,1,20141202,NYK,BKN
+Shot Chart Detail,0021400256,190,201572,Brook Lopez,1610612751,Brooklyn Nets,2,6,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,12,1,1,20141202,NYK,BKN
+Shot Chart Detail,0021400256,207,201572,Brook Lopez,1610612751,Brooklyn Nets,2,5,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,4,26,1,1,20141202,NYK,BKN
+Shot Chart Detail,0021400256,213,201572,Brook Lopez,1610612751,Brooklyn Nets,2,4,27,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,1,1,1,20141202,NYK,BKN
+Shot Chart Detail,0021400256,225,201572,Brook Lopez,1610612751,Brooklyn Nets,2,3,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-34,179,1,1,20141202,NYK,BKN
+Shot Chart Detail,0021400256,239,201572,Brook Lopez,1610612751,Brooklyn Nets,2,2,2,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-18,50,1,1,20141202,NYK,BKN
+Shot Chart Detail,0021400256,489,201572,Brook Lopez,1610612751,Brooklyn Nets,4,3,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,45,205,1,1,20141202,NYK,BKN
+Shot Chart Detail,0021400266,57,201572,Brook Lopez,1610612751,Brooklyn Nets,1,5,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,149,140,1,1,20141203,BKN,SAS
+Shot Chart Detail,0021400266,215,201572,Brook Lopez,1610612751,Brooklyn Nets,2,1,22,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-19,3,1,1,20141203,BKN,SAS
+Shot Chart Detail,0021400266,249,201572,Brook Lopez,1610612751,Brooklyn Nets,3,9,16,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,42,52,1,1,20141203,BKN,SAS
+Shot Chart Detail,0021400266,380,201572,Brook Lopez,1610612751,Brooklyn Nets,4,7,49,Made Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,42,1,1,1,20141203,BKN,SAS
+Shot Chart Detail,0021400266,391,201572,Brook Lopez,1610612751,Brooklyn Nets,4,7,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,39,6,1,1,20141203,BKN,SAS
+Shot Chart Detail,0021400266,458,201572,Brook Lopez,1610612751,Brooklyn Nets,4,0,18,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-30,200,1,1,20141203,BKN,SAS
+Shot Chart Detail,0021400280,17,201572,Brook Lopez,1610612751,Brooklyn Nets,1,9,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-119,148,1,1,20141205,BKN,ATL
+Shot Chart Detail,0021400280,25,201572,Brook Lopez,1610612751,Brooklyn Nets,1,7,45,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-164,55,1,1,20141205,BKN,ATL
+Shot Chart Detail,0021400280,196,201572,Brook Lopez,1610612751,Brooklyn Nets,2,3,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,0,1,1,20141205,BKN,ATL
+Shot Chart Detail,0021400280,219,201572,Brook Lopez,1610612751,Brooklyn Nets,2,2,24,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-68,17,1,1,20141205,BKN,ATL
+Shot Chart Detail,0021400280,264,201572,Brook Lopez,1610612751,Brooklyn Nets,3,8,57,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-24,7,1,1,20141205,BKN,ATL
+Shot Chart Detail,0021400280,276,201572,Brook Lopez,1610612751,Brooklyn Nets,3,8,4,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,1,1,1,20141205,BKN,ATL
+Shot Chart Detail,0021400280,280,201572,Brook Lopez,1610612751,Brooklyn Nets,3,7,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,32,183,1,1,20141205,BKN,ATL
+Shot Chart Detail,0021400280,301,201572,Brook Lopez,1610612751,Brooklyn Nets,3,5,33,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,37,4,1,1,20141205,BKN,ATL
+Shot Chart Detail,0021400280,306,201572,Brook Lopez,1610612751,Brooklyn Nets,3,4,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,0,1,1,20141205,BKN,ATL
+Shot Chart Detail,0021400421,124,201572,Brook Lopez,1610612751,Brooklyn Nets,2,9,49,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,6,20,1,1,20141223,BKN,DEN
+Shot Chart Detail,0021400421,336,201572,Brook Lopez,1610612751,Brooklyn Nets,3,1,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,17,1,1,20141223,BKN,DEN
+Shot Chart Detail,0021400421,364,201572,Brook Lopez,1610612751,Brooklyn Nets,3,0,9,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,99,66,1,1,20141223,BKN,DEN
+Shot Chart Detail,0021400432,94,201572,Brook Lopez,1610612751,Brooklyn Nets,1,1,42,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,80,26,1,1,20141226,BOS,BKN
+Shot Chart Detail,0021400432,103,201572,Brook Lopez,1610612751,Brooklyn Nets,1,0,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,43,186,1,1,20141226,BOS,BKN
+Shot Chart Detail,0021400432,336,201572,Brook Lopez,1610612751,Brooklyn Nets,3,3,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,0,200,1,1,20141226,BOS,BKN
+Shot Chart Detail,0021400432,379,201572,Brook Lopez,1610612751,Brooklyn Nets,4,11,39,Made Shot,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141226,BOS,BKN
+Shot Chart Detail,0021400461,195,201572,Brook Lopez,1610612751,Brooklyn Nets,2,5,9,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-147,7,1,1,20141229,BKN,SAC
+Shot Chart Detail,0021400461,197,201572,Brook Lopez,1610612751,Brooklyn Nets,2,4,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,7,22,1,1,20141229,BKN,SAC
+Shot Chart Detail,0021400461,370,201572,Brook Lopez,1610612751,Brooklyn Nets,3,1,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-95,168,1,1,20141229,BKN,SAC
+Shot Chart Detail,0021400461,410,201572,Brook Lopez,1610612751,Brooklyn Nets,4,10,1,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,6,63,1,1,20141229,BKN,SAC
+Shot Chart Detail,0021400461,418,201572,Brook Lopez,1610612751,Brooklyn Nets,4,9,3,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,3,1,1,20141229,BKN,SAC
+Shot Chart Detail,0021400467,2,201572,Brook Lopez,1610612751,Brooklyn Nets,1,11,54,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-16,108,1,1,20141230,CHI,BKN
+Shot Chart Detail,0021400467,26,201572,Brook Lopez,1610612751,Brooklyn Nets,1,8,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,9,1,1,20141230,CHI,BKN
+Shot Chart Detail,0021400467,39,201572,Brook Lopez,1610612751,Brooklyn Nets,1,6,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,89,42,1,1,20141230,CHI,BKN
+Shot Chart Detail,0021400467,209,201572,Brook Lopez,1610612751,Brooklyn Nets,2,4,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-122,159,1,1,20141230,CHI,BKN
+Shot Chart Detail,0021400467,212,201572,Brook Lopez,1610612751,Brooklyn Nets,2,4,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,7,22,1,1,20141230,CHI,BKN
+Shot Chart Detail,0021400467,262,201572,Brook Lopez,1610612751,Brooklyn Nets,2,0,24,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-19,50,1,1,20141230,CHI,BKN
+Shot Chart Detail,0021400467,277,201572,Brook Lopez,1610612751,Brooklyn Nets,3,10,32,Made Shot,Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,81,12,1,1,20141230,CHI,BKN
+Shot Chart Detail,0021400467,322,201572,Brook Lopez,1610612751,Brooklyn Nets,3,6,7,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,7,86,1,1,20141230,CHI,BKN
+Shot Chart Detail,0021400467,324,201572,Brook Lopez,1610612751,Brooklyn Nets,3,5,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-117,159,1,1,20141230,CHI,BKN
+Shot Chart Detail,0021400467,347,201572,Brook Lopez,1610612751,Brooklyn Nets,3,3,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,127,167,1,1,20141230,CHI,BKN
+Shot Chart Detail,0021400467,352,201572,Brook Lopez,1610612751,Brooklyn Nets,3,2,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-109,178,1,1,20141230,CHI,BKN
+Shot Chart Detail,0021400467,408,201572,Brook Lopez,1610612751,Brooklyn Nets,4,8,40,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,4,53,1,1,20141230,CHI,BKN
+Shot Chart Detail,0021400467,440,201572,Brook Lopez,1610612751,Brooklyn Nets,4,5,36,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,61,6,1,1,20141230,CHI,BKN
+Shot Chart Detail,0021400485,55,201572,Brook Lopez,1610612751,Brooklyn Nets,1,5,37,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,0,48,1,1,20150102,ORL,BKN
+Shot Chart Detail,0021400485,84,201572,Brook Lopez,1610612751,Brooklyn Nets,1,2,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,184,75,1,1,20150102,ORL,BKN
+Shot Chart Detail,0021400485,111,201572,Brook Lopez,1610612751,Brooklyn Nets,2,11,23,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150102,ORL,BKN
+Shot Chart Detail,0021400485,317,201572,Brook Lopez,1610612751,Brooklyn Nets,3,2,25,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-15,47,1,1,20150102,ORL,BKN
+Shot Chart Detail,0021400485,363,201572,Brook Lopez,1610612751,Brooklyn Nets,4,10,55,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-65,66,1,1,20150102,ORL,BKN
+Shot Chart Detail,0021400485,370,201572,Brook Lopez,1610612751,Brooklyn Nets,4,9,56,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150102,ORL,BKN
+Shot Chart Detail,0021400485,376,201572,Brook Lopez,1610612751,Brooklyn Nets,4,8,51,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150102,ORL,BKN
+Shot Chart Detail,0021400505,357,201572,Brook Lopez,1610612751,Brooklyn Nets,3,2,40,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,0,1,1,20150104,MIA,BKN
+Shot Chart Detail,0021400505,397,201572,Brook Lopez,1610612751,Brooklyn Nets,4,10,24,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,23,86,1,1,20150104,MIA,BKN
+Shot Chart Detail,0021400505,400,201572,Brook Lopez,1610612751,Brooklyn Nets,4,9,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,3,1,1,20150104,MIA,BKN
+Shot Chart Detail,0021400505,436,201572,Brook Lopez,1610612751,Brooklyn Nets,4,5,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,88,138,1,1,20150104,MIA,BKN
+Shot Chart Detail,0021400505,441,201572,Brook Lopez,1610612751,Brooklyn Nets,4,4,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,114,153,1,1,20150104,MIA,BKN
+Shot Chart Detail,0021400505,468,201572,Brook Lopez,1610612751,Brooklyn Nets,4,2,10,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,47,86,1,1,20150104,MIA,BKN
+Shot Chart Detail,0021400511,2,201572,Brook Lopez,1610612751,Brooklyn Nets,1,11,42,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-152,15,1,1,20150105,BKN,DAL
+Shot Chart Detail,0021400511,19,201572,Brook Lopez,1610612751,Brooklyn Nets,1,9,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,28,9,1,1,20150105,BKN,DAL
+Shot Chart Detail,0021400511,21,201572,Brook Lopez,1610612751,Brooklyn Nets,1,8,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,12,201,1,1,20150105,BKN,DAL
+Shot Chart Detail,0021400511,30,201572,Brook Lopez,1610612751,Brooklyn Nets,1,8,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-166,-5,1,1,20150105,BKN,DAL
+Shot Chart Detail,0021400511,34,201572,Brook Lopez,1610612751,Brooklyn Nets,1,7,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,0,201,1,1,20150105,BKN,DAL
+Shot Chart Detail,0021400511,53,201572,Brook Lopez,1610612751,Brooklyn Nets,1,4,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,78,181,1,1,20150105,BKN,DAL
+Shot Chart Detail,0021400511,76,201572,Brook Lopez,1610612751,Brooklyn Nets,1,2,58,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-59,31,1,1,20150105,BKN,DAL
+Shot Chart Detail,0021400511,83,201572,Brook Lopez,1610612751,Brooklyn Nets,1,2,18,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,0,1,1,20150105,BKN,DAL
+Shot Chart Detail,0021400511,85,201572,Brook Lopez,1610612751,Brooklyn Nets,1,1,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,129,132,1,1,20150105,BKN,DAL
+Shot Chart Detail,0021400511,265,201572,Brook Lopez,1610612751,Brooklyn Nets,3,9,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,99,175,1,1,20150105,BKN,DAL
+Shot Chart Detail,0021400511,356,201572,Brook Lopez,1610612751,Brooklyn Nets,3,2,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-24,-2,1,1,20150105,BKN,DAL
+Shot Chart Detail,0021400527,79,201572,Brook Lopez,1610612751,Brooklyn Nets,1,2,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,19,1,1,20150107,BKN,BOS
+Shot Chart Detail,0021400527,335,201572,Brook Lopez,1610612751,Brooklyn Nets,3,1,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,113,142,1,1,20150107,BKN,BOS
+Shot Chart Detail,0021400539,5,201572,Brook Lopez,1610612751,Brooklyn Nets,1,11,25,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150109,BKN,PHI
+Shot Chart Detail,0021400539,17,201572,Brook Lopez,1610612751,Brooklyn Nets,1,9,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,170,19,1,1,20150109,BKN,PHI
+Shot Chart Detail,0021400539,30,201572,Brook Lopez,1610612751,Brooklyn Nets,1,6,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,21,203,1,1,20150109,BKN,PHI
+Shot Chart Detail,0021400539,150,201572,Brook Lopez,1610612751,Brooklyn Nets,2,8,13,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-23,48,1,1,20150109,BKN,PHI
+Shot Chart Detail,0021400539,252,201572,Brook Lopez,1610612751,Brooklyn Nets,3,10,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-158,127,1,1,20150109,BKN,PHI
+Shot Chart Detail,0021400539,274,201572,Brook Lopez,1610612751,Brooklyn Nets,3,8,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,190,37,1,1,20150109,BKN,PHI
+Shot Chart Detail,0021400539,327,201572,Brook Lopez,1610612751,Brooklyn Nets,3,3,49,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,1,42,1,1,20150109,BKN,PHI
+Shot Chart Detail,0021400539,345,201572,Brook Lopez,1610612751,Brooklyn Nets,3,2,51,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-4,31,1,1,20150109,BKN,PHI
+Shot Chart Detail,0021400539,501,201572,Brook Lopez,1610612751,Brooklyn Nets,4,0,25,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,56,121,1,1,20150109,BKN,PHI
+Shot Chart Detail,0021400551,83,201572,Brook Lopez,1610612751,Brooklyn Nets,1,2,20,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-149,11,1,1,20150110,DET,BKN
+Shot Chart Detail,0021400551,461,201572,Brook Lopez,1610612751,Brooklyn Nets,4,0,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,9,1,1,20150110,DET,BKN
+Shot Chart Detail,0021400551,468,201572,Brook Lopez,1610612751,Brooklyn Nets,4,0,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-103,250,1,1,20150110,DET,BKN
+Shot Chart Detail,0021400564,126,201572,Brook Lopez,1610612751,Brooklyn Nets,2,11,38,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,-8,1,1,20150112,BKN,HOU
+Shot Chart Detail,0021400564,136,201572,Brook Lopez,1610612751,Brooklyn Nets,2,10,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-76,186,1,1,20150112,BKN,HOU
+Shot Chart Detail,0021400564,147,201572,Brook Lopez,1610612751,Brooklyn Nets,2,8,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,43,198,1,1,20150112,BKN,HOU
+Shot Chart Detail,0021400564,280,201572,Brook Lopez,1610612751,Brooklyn Nets,3,8,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,182,102,1,1,20150112,BKN,HOU
+Shot Chart Detail,0021400564,344,201572,Brook Lopez,1610612751,Brooklyn Nets,3,2,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,9,1,1,20150112,BKN,HOU
+Shot Chart Detail,0021400576,2,201572,Brook Lopez,1610612751,Brooklyn Nets,1,11,45,Made Shot,Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,102,12,1,1,20150114,BKN,MEM
+Shot Chart Detail,0021400576,11,201572,Brook Lopez,1610612751,Brooklyn Nets,1,9,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-8,172,1,1,20150114,BKN,MEM
+Shot Chart Detail,0021400576,90,201572,Brook Lopez,1610612751,Brooklyn Nets,1,1,1,Made Shot,Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,81,41,1,1,20150114,BKN,MEM
+Shot Chart Detail,0021400576,405,201572,Brook Lopez,1610612751,Brooklyn Nets,4,7,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,-2,1,1,20150114,BKN,MEM
+Shot Chart Detail,0021400576,422,201572,Brook Lopez,1610612751,Brooklyn Nets,4,4,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,0,1,1,20150114,BKN,MEM
+Shot Chart Detail,0021400590,298,201572,Brook Lopez,1610612751,Brooklyn Nets,3,6,8,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150116,WAS,BKN
+Shot Chart Detail,0021400590,303,201572,Brook Lopez,1610612751,Brooklyn Nets,3,5,30,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-150,55,1,1,20150116,WAS,BKN
+Shot Chart Detail,0021400590,311,201572,Brook Lopez,1610612751,Brooklyn Nets,3,4,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,6,1,1,20150116,WAS,BKN
+Shot Chart Detail,0021400590,336,201572,Brook Lopez,1610612751,Brooklyn Nets,3,3,26,Made Shot,Driving Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,40,33,1,1,20150116,WAS,BKN
+Shot Chart Detail,0021400590,394,201572,Brook Lopez,1610612751,Brooklyn Nets,4,10,18,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150116,WAS,BKN
+Shot Chart Detail,0021400590,396,201572,Brook Lopez,1610612751,Brooklyn Nets,4,9,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,9,1,1,20150116,WAS,BKN
+Shot Chart Detail,0021400590,425,201572,Brook Lopez,1610612751,Brooklyn Nets,4,7,33,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,24,80,1,1,20150116,WAS,BKN
+Shot Chart Detail,0021400590,434,201572,Brook Lopez,1610612751,Brooklyn Nets,4,6,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-92,190,1,1,20150116,WAS,BKN
+Shot Chart Detail,0021400605,97,201572,Brook Lopez,1610612751,Brooklyn Nets,1,1,54,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-10,108,1,1,20150117,BKN,WAS
+Shot Chart Detail,0021400605,117,201572,Brook Lopez,1610612751,Brooklyn Nets,1,0,38,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,-5,1,1,20150117,BKN,WAS
+Shot Chart Detail,0021400605,140,201572,Brook Lopez,1610612751,Brooklyn Nets,2,10,41,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,45,28,1,1,20150117,BKN,WAS
+Shot Chart Detail,0021400605,153,201572,Brook Lopez,1610612751,Brooklyn Nets,2,9,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-26,-2,1,1,20150117,BKN,WAS
+Shot Chart Detail,0021400605,258,201572,Brook Lopez,1610612751,Brooklyn Nets,2,0,11,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-35,4,1,1,20150117,BKN,WAS
+Shot Chart Detail,0021400635,53,201572,Brook Lopez,1610612751,Brooklyn Nets,1,6,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,0,1,1,20150121,SAC,BKN
+Shot Chart Detail,0021400635,97,201572,Brook Lopez,1610612751,Brooklyn Nets,1,2,28,Made Shot,Jump Bank Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,69,31,1,1,20150121,SAC,BKN
+Shot Chart Detail,0021400635,115,201572,Brook Lopez,1610612751,Brooklyn Nets,1,1,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,1,1,1,20150121,SAC,BKN
+Shot Chart Detail,0021400635,146,201572,Brook Lopez,1610612751,Brooklyn Nets,2,9,40,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,99,56,1,1,20150121,SAC,BKN
+Shot Chart Detail,0021400635,161,201572,Brook Lopez,1610612751,Brooklyn Nets,2,8,20,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-27,37,1,1,20150121,SAC,BKN
+Shot Chart Detail,0021400635,236,201572,Brook Lopez,1610612751,Brooklyn Nets,2,2,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,4,154,1,1,20150121,SAC,BKN
+Shot Chart Detail,0021400635,311,201572,Brook Lopez,1610612751,Brooklyn Nets,3,5,17,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-56,39,1,1,20150121,SAC,BKN
+Shot Chart Detail,0021400635,481,201572,Brook Lopez,1610612751,Brooklyn Nets,4,3,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,1,1,1,20150121,SAC,BKN
+Shot Chart Detail,0021400640,33,201572,Brook Lopez,1610612751,Brooklyn Nets,1,7,38,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-29,56,1,1,20150122,LAC,BKN
+Shot Chart Detail,0021400655,63,201572,Brook Lopez,1610612751,Brooklyn Nets,1,2,57,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,97,83,1,1,20150124,UTA,BKN
+Shot Chart Detail,0021400655,332,201572,Brook Lopez,1610612751,Brooklyn Nets,4,10,53,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,24,101,1,1,20150124,UTA,BKN
+Shot Chart Detail,0021400668,9,201572,Brook Lopez,1610612751,Brooklyn Nets,1,10,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,0,175,1,1,20150406,BKN,POR
+Shot Chart Detail,0021400668,16,201572,Brook Lopez,1610612751,Brooklyn Nets,1,9,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,54,149,1,1,20150406,BKN,POR
+Shot Chart Detail,0021400668,42,201572,Brook Lopez,1610612751,Brooklyn Nets,1,7,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-29,6,1,1,20150406,BKN,POR
+Shot Chart Detail,0021400668,72,201572,Brook Lopez,1610612751,Brooklyn Nets,1,3,37,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,-6,1,1,20150406,BKN,POR
+Shot Chart Detail,0021400668,96,201572,Brook Lopez,1610612751,Brooklyn Nets,1,2,21,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-7,26,1,1,20150406,BKN,POR
+Shot Chart Detail,0021400668,117,201572,Brook Lopez,1610612751,Brooklyn Nets,1,0,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,-6,1,1,20150406,BKN,POR
+Shot Chart Detail,0021400668,274,201572,Brook Lopez,1610612751,Brooklyn Nets,3,11,14,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,1,89,1,1,20150406,BKN,POR
+Shot Chart Detail,0021400668,276,201572,Brook Lopez,1610612751,Brooklyn Nets,3,10,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,86,165,1,1,20150406,BKN,POR
+Shot Chart Detail,0021400668,286,201572,Brook Lopez,1610612751,Brooklyn Nets,3,8,54,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,80,88,1,1,20150406,BKN,POR
+Shot Chart Detail,0021400668,310,201572,Brook Lopez,1610612751,Brooklyn Nets,3,5,40,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,19,1,1,20150406,BKN,POR
+Shot Chart Detail,0021400668,315,201572,Brook Lopez,1610612751,Brooklyn Nets,3,5,4,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-24,0,1,1,20150406,BKN,POR
+Shot Chart Detail,0021400668,323,201572,Brook Lopez,1610612751,Brooklyn Nets,3,4,13,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,-3,1,1,20150406,BKN,POR
+Shot Chart Detail,0021400668,421,201572,Brook Lopez,1610612751,Brooklyn Nets,4,7,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,2,192,1,1,20150406,BKN,POR
+Shot Chart Detail,0021400668,442,201572,Brook Lopez,1610612751,Brooklyn Nets,4,4,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-101,31,1,1,20150406,BKN,POR
+Shot Chart Detail,0021400668,463,201572,Brook Lopez,1610612751,Brooklyn Nets,4,1,30,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,0,1,1,20150406,BKN,POR
+Shot Chart Detail,0021400683,109,201572,Brook Lopez,1610612751,Brooklyn Nets,1,0,43,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,31,80,1,1,20150128,ATL,BKN
+Shot Chart Detail,0021400683,112,201572,Brook Lopez,1610612751,Brooklyn Nets,1,0,7,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,0,1,1,20150128,ATL,BKN
+Shot Chart Detail,0021400683,140,201572,Brook Lopez,1610612751,Brooklyn Nets,2,9,8,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,4,105,1,1,20150128,ATL,BKN
+Shot Chart Detail,0021400683,269,201572,Brook Lopez,1610612751,Brooklyn Nets,2,1,53,Made Shot,Turnaround Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,88,36,1,1,20150128,ATL,BKN
+Shot Chart Detail,0021400683,451,201572,Brook Lopez,1610612751,Brooklyn Nets,4,10,51,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,95,45,1,1,20150128,ATL,BKN
+Shot Chart Detail,0021400683,459,201572,Brook Lopez,1610612751,Brooklyn Nets,4,10,5,Made Shot,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,40,42,1,1,20150128,ATL,BKN
+Shot Chart Detail,0021400699,51,201572,Brook Lopez,1610612751,Brooklyn Nets,1,5,44,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-84,129,1,1,20150130,BKN,TOR
+Shot Chart Detail,0021400699,68,201572,Brook Lopez,1610612751,Brooklyn Nets,1,3,51,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,80,23,1,1,20150130,BKN,TOR
+Shot Chart Detail,0021400699,75,201572,Brook Lopez,1610612751,Brooklyn Nets,1,2,41,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,0,1,1,20150130,BKN,TOR
+Shot Chart Detail,0021400699,88,201572,Brook Lopez,1610612751,Brooklyn Nets,1,0,59,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-35,52,1,1,20150130,BKN,TOR
+Shot Chart Detail,0021400699,113,201572,Brook Lopez,1610612751,Brooklyn Nets,2,11,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,54,179,1,1,20150130,BKN,TOR
+Shot Chart Detail,0021400699,115,201572,Brook Lopez,1610612751,Brooklyn Nets,2,10,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,81,15,1,1,20150130,BKN,TOR
+Shot Chart Detail,0021400699,185,201572,Brook Lopez,1610612751,Brooklyn Nets,2,5,25,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150130,BKN,TOR
+Shot Chart Detail,0021400699,209,201572,Brook Lopez,1610612751,Brooklyn Nets,2,2,15,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,21,50,1,1,20150130,BKN,TOR
+Shot Chart Detail,0021400699,276,201572,Brook Lopez,1610612751,Brooklyn Nets,3,7,43,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,15,1,1,20150130,BKN,TOR
+Shot Chart Detail,0021400699,280,201572,Brook Lopez,1610612751,Brooklyn Nets,3,7,10,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150130,BKN,TOR
+Shot Chart Detail,0021400699,435,201572,Brook Lopez,1610612751,Brooklyn Nets,4,4,12,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,77,37,1,1,20150130,BKN,TOR
+Shot Chart Detail,0021400699,441,201572,Brook Lopez,1610612751,Brooklyn Nets,4,3,42,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,17,1,1,20150130,BKN,TOR
+Shot Chart Detail,0021400699,443,201572,Brook Lopez,1610612751,Brooklyn Nets,4,2,58,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,19,1,1,20150130,BKN,TOR
+Shot Chart Detail,0021400699,531,201572,Brook Lopez,1610612751,Brooklyn Nets,5,2,57,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,10,56,1,1,20150130,BKN,TOR
+Shot Chart Detail,0021400699,542,201572,Brook Lopez,1610612751,Brooklyn Nets,5,1,24,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,4,1,1,20150130,BKN,TOR
+Shot Chart Detail,0021400720,73,201572,Brook Lopez,1610612751,Brooklyn Nets,1,5,32,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,6,52,1,1,20150202,BKN,LAC
+Shot Chart Detail,0021400720,116,201572,Brook Lopez,1610612751,Brooklyn Nets,1,1,40,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,0,67,1,1,20150202,BKN,LAC
+Shot Chart Detail,0021400720,118,201572,Brook Lopez,1610612751,Brooklyn Nets,1,1,2,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,56,66,1,1,20150202,BKN,LAC
+Shot Chart Detail,0021400720,147,201572,Brook Lopez,1610612751,Brooklyn Nets,2,9,5,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,12,45,1,1,20150202,BKN,LAC
+Shot Chart Detail,0021400720,174,201572,Brook Lopez,1610612751,Brooklyn Nets,2,6,22,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,0,127,1,1,20150202,BKN,LAC
+Shot Chart Detail,0021400720,179,201572,Brook Lopez,1610612751,Brooklyn Nets,2,5,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,88,165,1,1,20150202,BKN,LAC
+Shot Chart Detail,0021400720,199,201572,Brook Lopez,1610612751,Brooklyn Nets,2,3,51,Made Shot,Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,94,0,1,1,20150202,BKN,LAC
+Shot Chart Detail,0021400720,209,201572,Brook Lopez,1610612751,Brooklyn Nets,2,3,13,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150202,BKN,LAC
+Shot Chart Detail,0021400720,211,201572,Brook Lopez,1610612751,Brooklyn Nets,2,2,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-147,131,1,1,20150202,BKN,LAC
+Shot Chart Detail,0021400720,298,201572,Brook Lopez,1610612751,Brooklyn Nets,3,6,11,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,64,6,1,1,20150202,BKN,LAC
+Shot Chart Detail,0021400720,435,201572,Brook Lopez,1610612751,Brooklyn Nets,4,7,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,32,3,1,1,20150202,BKN,LAC
+Shot Chart Detail,0021400720,466,201572,Brook Lopez,1610612751,Brooklyn Nets,4,3,23,Made Shot,Driving Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,83,47,1,1,20150202,BKN,LAC
+Shot Chart Detail,0021400734,116,201572,Brook Lopez,1610612751,Brooklyn Nets,2,11,18,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,22,1,1,20150204,TOR,BKN
+Shot Chart Detail,0021400734,158,201572,Brook Lopez,1610612751,Brooklyn Nets,2,6,38,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,10,71,1,1,20150204,TOR,BKN
+Shot Chart Detail,0021400734,182,201572,Brook Lopez,1610612751,Brooklyn Nets,2,3,51,Made Shot,Jump Hook Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-136,48,1,1,20150204,TOR,BKN
+Shot Chart Detail,0021400734,453,201572,Brook Lopez,1610612751,Brooklyn Nets,4,2,52,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-23,26,1,1,20150204,TOR,BKN
+Shot Chart Detail,0021400746,61,201572,Brook Lopez,1610612751,Brooklyn Nets,1,5,12,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-34,48,1,1,20150206,BKN,NYK
+Shot Chart Detail,0021400746,64,201572,Brook Lopez,1610612751,Brooklyn Nets,1,4,47,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,9,20,1,1,20150206,BKN,NYK
+Shot Chart Detail,0021400746,109,201572,Brook Lopez,1610612751,Brooklyn Nets,1,1,6,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,-10,1,1,20150206,BKN,NYK
+Shot Chart Detail,0021400746,125,201572,Brook Lopez,1610612751,Brooklyn Nets,2,11,27,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,7,118,1,1,20150206,BKN,NYK
+Shot Chart Detail,0021400746,159,201572,Brook Lopez,1610612751,Brooklyn Nets,2,7,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,-6,1,1,20150206,BKN,NYK
+Shot Chart Detail,0021400746,161,201572,Brook Lopez,1610612751,Brooklyn Nets,2,7,8,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-49,12,1,1,20150206,BKN,NYK
+Shot Chart Detail,0021400746,182,201572,Brook Lopez,1610612751,Brooklyn Nets,2,4,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,-2,1,1,20150206,BKN,NYK
+Shot Chart Detail,0021400746,259,201572,Brook Lopez,1610612751,Brooklyn Nets,3,11,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,-11,1,1,20150206,BKN,NYK
+Shot Chart Detail,0021400746,314,201572,Brook Lopez,1610612751,Brooklyn Nets,3,6,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2,23,1,1,20150206,BKN,NYK
+Shot Chart Detail,0021400746,367,201572,Brook Lopez,1610612751,Brooklyn Nets,3,1,21,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,59,52,1,1,20150206,BKN,NYK
+Shot Chart Detail,0021400746,466,201572,Brook Lopez,1610612751,Brooklyn Nets,4,1,38,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-51,75,1,1,20150206,BKN,NYK
+Shot Chart Detail,0021400759,11,201572,Brook Lopez,1610612751,Brooklyn Nets,1,11,15,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-30,26,1,1,20150207,WAS,BKN
+Shot Chart Detail,0021400759,69,201572,Brook Lopez,1610612751,Brooklyn Nets,1,6,18,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-128,9,1,1,20150207,WAS,BKN
+Shot Chart Detail,0021400759,75,201572,Brook Lopez,1610612751,Brooklyn Nets,1,5,38,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,6,1,1,20150207,WAS,BKN
+Shot Chart Detail,0021400759,95,201572,Brook Lopez,1610612751,Brooklyn Nets,1,2,36,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,9,67,1,1,20150207,WAS,BKN
+Shot Chart Detail,0021400759,106,201572,Brook Lopez,1610612751,Brooklyn Nets,1,2,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,122,37,1,1,20150207,WAS,BKN
+Shot Chart Detail,0021400759,234,201572,Brook Lopez,1610612751,Brooklyn Nets,2,1,45,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-18,39,1,1,20150207,WAS,BKN
+Shot Chart Detail,0021400759,339,201572,Brook Lopez,1610612751,Brooklyn Nets,3,8,2,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,53,124,1,1,20150207,WAS,BKN
+Shot Chart Detail,0021400759,395,201572,Brook Lopez,1610612751,Brooklyn Nets,3,3,29,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,59,50,1,1,20150207,WAS,BKN
+Shot Chart Detail,0021400778,86,201572,Brook Lopez,1610612751,Brooklyn Nets,1,2,11,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,0,1,1,20150209,MIL,BKN
+Shot Chart Detail,0021400778,114,201572,Brook Lopez,1610612751,Brooklyn Nets,2,11,41,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-33,6,1,1,20150209,MIL,BKN
+Shot Chart Detail,0021400778,295,201572,Brook Lopez,1610612751,Brooklyn Nets,3,5,48,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,56,-10,1,1,20150209,MIL,BKN
+Shot Chart Detail,0021400778,374,201572,Brook Lopez,1610612751,Brooklyn Nets,3,0,3,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150209,MIL,BKN
+Shot Chart Detail,0021400778,389,201572,Brook Lopez,1610612751,Brooklyn Nets,4,10,36,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,7,108,1,1,20150209,MIL,BKN
+Shot Chart Detail,0021400786,51,201572,Brook Lopez,1610612751,Brooklyn Nets,1,5,26,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,9,1,1,20150210,MEM,BKN
+Shot Chart Detail,0021400786,222,201572,Brook Lopez,1610612751,Brooklyn Nets,2,3,11,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,12,1,1,20150210,MEM,BKN
+Shot Chart Detail,0021400786,234,201572,Brook Lopez,1610612751,Brooklyn Nets,2,1,27,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,1,131,1,1,20150210,MEM,BKN
+Shot Chart Detail,0021400786,241,201572,Brook Lopez,1610612751,Brooklyn Nets,2,0,52,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,1,124,1,1,20150210,MEM,BKN
+Shot Chart Detail,0021400786,301,201572,Brook Lopez,1610612751,Brooklyn Nets,3,6,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,4,1,1,20150210,MEM,BKN
+Shot Chart Detail,0021400815,89,201572,Brook Lopez,1610612751,Brooklyn Nets,1,3,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-6,1,1,20150220,LAL,BKN
+Shot Chart Detail,0021400815,106,201572,Brook Lopez,1610612751,Brooklyn Nets,1,2,35,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,12,1,1,20150220,LAL,BKN
+Shot Chart Detail,0021400815,109,201572,Brook Lopez,1610612751,Brooklyn Nets,1,2,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,11,1,1,20150220,LAL,BKN
+Shot Chart Detail,0021400815,167,201572,Brook Lopez,1610612751,Brooklyn Nets,2,8,22,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-41,99,1,1,20150220,LAL,BKN
+Shot Chart Detail,0021400815,309,201572,Brook Lopez,1610612751,Brooklyn Nets,3,7,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,136,126,1,1,20150220,LAL,BKN
+Shot Chart Detail,0021400815,311,201572,Brook Lopez,1610612751,Brooklyn Nets,3,7,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,21,205,1,1,20150220,LAL,BKN
+Shot Chart Detail,0021400815,361,201572,Brook Lopez,1610612751,Brooklyn Nets,3,1,44,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,0,91,1,1,20150220,LAL,BKN
+Shot Chart Detail,0021400815,413,201572,Brook Lopez,1610612751,Brooklyn Nets,4,10,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,17,1,1,20150220,LAL,BKN
+Shot Chart Detail,0021400834,154,201572,Brook Lopez,1610612751,Brooklyn Nets,2,8,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,149,151,1,1,20150223,DEN,BKN
+Shot Chart Detail,0021400834,169,201572,Brook Lopez,1610612751,Brooklyn Nets,2,7,57,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,56,20,1,1,20150223,DEN,BKN
+Shot Chart Detail,0021400834,192,201572,Brook Lopez,1610612751,Brooklyn Nets,2,5,57,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,0,75,1,1,20150223,DEN,BKN
+Shot Chart Detail,0021400834,404,201572,Brook Lopez,1610612751,Brooklyn Nets,3,1,5,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,129,61,1,1,20150223,DEN,BKN
+Shot Chart Detail,0021400834,411,201572,Brook Lopez,1610612751,Brooklyn Nets,3,0,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-13,20,1,1,20150223,DEN,BKN
+Shot Chart Detail,0021400834,505,201572,Brook Lopez,1610612751,Brooklyn Nets,4,5,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,97,175,1,1,20150223,DEN,BKN
+Shot Chart Detail,0021400849,95,201572,Brook Lopez,1610612751,Brooklyn Nets,1,3,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,9,1,1,20150225,NOP,BKN
+Shot Chart Detail,0021400849,125,201572,Brook Lopez,1610612751,Brooklyn Nets,1,0,39,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,7,1,1,20150225,NOP,BKN
+Shot Chart Detail,0021400849,142,201572,Brook Lopez,1610612751,Brooklyn Nets,2,10,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,17,1,1,20150225,NOP,BKN
+Shot Chart Detail,0021400849,168,201572,Brook Lopez,1610612751,Brooklyn Nets,2,8,26,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-5,61,1,1,20150225,NOP,BKN
+Shot Chart Detail,0021400849,175,201572,Brook Lopez,1610612751,Brooklyn Nets,2,7,38,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-7,25,1,1,20150225,NOP,BKN
+Shot Chart Detail,0021400849,186,201572,Brook Lopez,1610612751,Brooklyn Nets,2,5,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-149,170,1,1,20150225,NOP,BKN
+Shot Chart Detail,0021400849,190,201572,Brook Lopez,1610612751,Brooklyn Nets,2,5,11,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,51,93,1,1,20150225,NOP,BKN
+Shot Chart Detail,0021400863,345,201572,Brook Lopez,1610612751,Brooklyn Nets,3,2,2,Made Shot,Jump Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,94,1,1,1,20150227,HOU,BKN
+Shot Chart Detail,0021400863,385,201572,Brook Lopez,1610612751,Brooklyn Nets,4,11,21,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,102,85,1,1,20150227,HOU,BKN
+Shot Chart Detail,0021400863,414,201572,Brook Lopez,1610612751,Brooklyn Nets,4,8,15,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,6,1,1,20150227,HOU,BKN
+Shot Chart Detail,0021400863,481,201572,Brook Lopez,1610612751,Brooklyn Nets,4,2,35,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,1,1,1,20150227,HOU,BKN
+Shot Chart Detail,0021400874,55,201572,Brook Lopez,1610612751,Brooklyn Nets,1,5,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,7,1,1,20150228,DAL,BKN
+Shot Chart Detail,0021400874,64,201572,Brook Lopez,1610612751,Brooklyn Nets,1,3,53,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-142,19,1,1,20150228,DAL,BKN
+Shot Chart Detail,0021400874,390,201572,Brook Lopez,1610612751,Brooklyn Nets,3,0,2,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,3,1,1,20150228,DAL,BKN
+Shot Chart Detail,0021400886,42,201572,Brook Lopez,1610612751,Brooklyn Nets,1,6,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,132,30,1,1,20150302,BKN,GSW
+Shot Chart Detail,0021400886,51,201572,Brook Lopez,1610612751,Brooklyn Nets,1,4,53,Made Shot,Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,91,47,1,1,20150302,BKN,GSW
+Shot Chart Detail,0021400886,68,201572,Brook Lopez,1610612751,Brooklyn Nets,1,2,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-138,102,1,1,20150302,BKN,GSW
+Shot Chart Detail,0021400886,73,201572,Brook Lopez,1610612751,Brooklyn Nets,1,2,24,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-10,52,1,1,20150302,BKN,GSW
+Shot Chart Detail,0021400886,85,201572,Brook Lopez,1610612751,Brooklyn Nets,1,1,41,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,7,1,1,20150302,BKN,GSW
+Shot Chart Detail,0021400886,89,201572,Brook Lopez,1610612751,Brooklyn Nets,1,1,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,67,183,1,1,20150302,BKN,GSW
+Shot Chart Detail,0021400886,138,201572,Brook Lopez,1610612751,Brooklyn Nets,2,8,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,0,1,1,20150302,BKN,GSW
+Shot Chart Detail,0021400886,199,201572,Brook Lopez,1610612751,Brooklyn Nets,2,2,42,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-10,52,1,1,20150302,BKN,GSW
+Shot Chart Detail,0021400886,331,201572,Brook Lopez,1610612751,Brooklyn Nets,3,3,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,160,142,1,1,20150302,BKN,GSW
+Shot Chart Detail,0021400886,350,201572,Brook Lopez,1610612751,Brooklyn Nets,3,1,50,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,53,55,1,1,20150302,BKN,GSW
+Shot Chart Detail,0021400886,379,201572,Brook Lopez,1610612751,Brooklyn Nets,4,11,3,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150302,BKN,GSW
+Shot Chart Detail,0021400899,37,201572,Brook Lopez,1610612751,Brooklyn Nets,1,7,49,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,0,61,1,1,20150304,BKN,CHA
+Shot Chart Detail,0021400899,63,201572,Brook Lopez,1610612751,Brooklyn Nets,1,3,46,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-54,58,1,1,20150304,BKN,CHA
+Shot Chart Detail,0021400916,80,201572,Brook Lopez,1610612751,Brooklyn Nets,1,5,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-26,4,1,1,20150306,BKN,PHX
+Shot Chart Detail,0021400916,85,201572,Brook Lopez,1610612751,Brooklyn Nets,1,4,32,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,77,14,1,1,20150306,BKN,PHX
+Shot Chart Detail,0021400916,336,201572,Brook Lopez,1610612751,Brooklyn Nets,3,6,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-15,15,1,1,20150306,BKN,PHX
+Shot Chart Detail,0021400916,395,201572,Brook Lopez,1610612751,Brooklyn Nets,3,2,44,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,1,1,1,20150306,BKN,PHX
+Shot Chart Detail,0021400916,428,201572,Brook Lopez,1610612751,Brooklyn Nets,4,11,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,3,1,1,20150306,BKN,PHX
+Shot Chart Detail,0021400916,585,201572,Brook Lopez,1610612751,Brooklyn Nets,5,3,39,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-2,69,1,1,20150306,BKN,PHX
+Shot Chart Detail,0021400933,13,201572,Brook Lopez,1610612751,Brooklyn Nets,1,10,24,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-18,9,1,1,20150308,BKN,UTA
+Shot Chart Detail,0021400933,16,201572,Brook Lopez,1610612751,Brooklyn Nets,1,9,46,Made Shot,Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,105,3,1,1,20150308,BKN,UTA
+Shot Chart Detail,0021400933,50,201572,Brook Lopez,1610612751,Brooklyn Nets,1,4,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,91,28,1,1,20150308,BKN,UTA
+Shot Chart Detail,0021400933,78,201572,Brook Lopez,1610612751,Brooklyn Nets,1,0,39,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,11,1,1,20150308,BKN,UTA
+Shot Chart Detail,0021400933,97,201572,Brook Lopez,1610612751,Brooklyn Nets,2,10,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,1,22,1,1,20150308,BKN,UTA
+Shot Chart Detail,0021400933,348,201572,Brook Lopez,1610612751,Brooklyn Nets,4,6,16,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-18,-10,1,1,20150308,BKN,UTA
+Shot Chart Detail,0021400933,352,201572,Brook Lopez,1610612751,Brooklyn Nets,4,5,55,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-21,104,1,1,20150308,BKN,UTA
+Shot Chart Detail,0021400933,360,201572,Brook Lopez,1610612751,Brooklyn Nets,4,5,23,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150308,BKN,UTA
+Shot Chart Detail,0021400947,30,201572,Brook Lopez,1610612751,Brooklyn Nets,1,7,55,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-67,44,1,1,20150310,BKN,NOP
+Shot Chart Detail,0021400947,43,201572,Brook Lopez,1610612751,Brooklyn Nets,1,6,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,-2,1,1,20150310,BKN,NOP
+Shot Chart Detail,0021400947,57,201572,Brook Lopez,1610612751,Brooklyn Nets,1,4,32,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150310,BKN,NOP
+Shot Chart Detail,0021400947,65,201572,Brook Lopez,1610612751,Brooklyn Nets,1,3,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,24,22,1,1,20150310,BKN,NOP
+Shot Chart Detail,0021400947,72,201572,Brook Lopez,1610612751,Brooklyn Nets,1,2,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-160,25,1,1,20150310,BKN,NOP
+Shot Chart Detail,0021400947,98,201572,Brook Lopez,1610612751,Brooklyn Nets,1,0,17,Made Shot,Driving Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150310,BKN,NOP
+Shot Chart Detail,0021400947,186,201572,Brook Lopez,1610612751,Brooklyn Nets,2,4,33,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,-6,1,1,20150310,BKN,NOP
+Shot Chart Detail,0021400955,13,201572,Brook Lopez,1610612751,Brooklyn Nets,1,10,36,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150311,MIA,BKN
+Shot Chart Detail,0021400955,228,201572,Brook Lopez,1610612751,Brooklyn Nets,2,4,59,Made Shot,Jump Bank Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,34,17,1,1,20150311,MIA,BKN
+Shot Chart Detail,0021400955,247,201572,Brook Lopez,1610612751,Brooklyn Nets,2,3,28,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150311,MIA,BKN
+Shot Chart Detail,0021400955,254,201572,Brook Lopez,1610612751,Brooklyn Nets,2,2,30,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,0,83,1,1,20150311,MIA,BKN
+Shot Chart Detail,0021400955,376,201572,Brook Lopez,1610612751,Brooklyn Nets,3,4,14,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,99,67,1,1,20150311,MIA,BKN
+Shot Chart Detail,0021400955,538,201572,Brook Lopez,1610612751,Brooklyn Nets,4,4,1,Made Shot,Jump Bank Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,12,1,1,20150311,MIA,BKN
+Shot Chart Detail,0021400978,3,201572,Brook Lopez,1610612751,Brooklyn Nets,1,11,44,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,-10,1,1,20150314,PHI,BKN
+Shot Chart Detail,0021400978,302,201572,Brook Lopez,1610612751,Brooklyn Nets,3,10,32,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,141,25,1,1,20150314,PHI,BKN
+Shot Chart Detail,0021400994,23,201572,Brook Lopez,1610612751,Brooklyn Nets,1,9,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,7,1,1,20150316,MIN,BKN
+Shot Chart Detail,0021400994,50,201572,Brook Lopez,1610612751,Brooklyn Nets,1,5,34,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,29,36,1,1,20150316,MIN,BKN
+Shot Chart Detail,0021400994,211,201572,Brook Lopez,1610612751,Brooklyn Nets,2,2,32,Made Shot,Jump Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150316,MIN,BKN
+Shot Chart Detail,0021400994,221,201572,Brook Lopez,1610612751,Brooklyn Nets,2,1,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,17,1,1,20150316,MIN,BKN
+Shot Chart Detail,0021400994,263,201572,Brook Lopez,1610612751,Brooklyn Nets,3,8,53,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150316,MIN,BKN
+Shot Chart Detail,0021400994,312,201572,Brook Lopez,1610612751,Brooklyn Nets,3,5,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,7,1,1,20150316,MIN,BKN
+Shot Chart Detail,0021400994,317,201572,Brook Lopez,1610612751,Brooklyn Nets,3,5,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,1,1,1,20150316,MIN,BKN
+Shot Chart Detail,0021401005,44,201572,Brook Lopez,1610612751,Brooklyn Nets,1,6,45,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150318,CLE,BKN
+Shot Chart Detail,0021401005,112,201572,Brook Lopez,1610612751,Brooklyn Nets,1,1,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,36,200,1,1,20150318,CLE,BKN
+Shot Chart Detail,0021401005,185,201572,Brook Lopez,1610612751,Brooklyn Nets,2,6,2,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-15,17,1,1,20150318,CLE,BKN
+Shot Chart Detail,0021401005,300,201572,Brook Lopez,1610612751,Brooklyn Nets,3,6,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,84,170,1,1,20150318,CLE,BKN
+Shot Chart Detail,0021401022,18,201572,Brook Lopez,1610612751,Brooklyn Nets,1,9,43,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-11,67,1,1,20150320,BKN,MIL
+Shot Chart Detail,0021401022,32,201572,Brook Lopez,1610612751,Brooklyn Nets,1,8,10,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-21,39,1,1,20150320,BKN,MIL
+Shot Chart Detail,0021401022,71,201572,Brook Lopez,1610612751,Brooklyn Nets,1,4,14,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,-3,1,1,20150320,BKN,MIL
+Shot Chart Detail,0021401022,107,201572,Brook Lopez,1610612751,Brooklyn Nets,1,1,56,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-38,50,1,1,20150320,BKN,MIL
+Shot Chart Detail,0021401022,225,201572,Brook Lopez,1610612751,Brooklyn Nets,2,4,43,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,29,58,1,1,20150320,BKN,MIL
+Shot Chart Detail,0021401022,261,201572,Brook Lopez,1610612751,Brooklyn Nets,2,2,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,-3,1,1,20150320,BKN,MIL
+Shot Chart Detail,0021401022,263,201572,Brook Lopez,1610612751,Brooklyn Nets,2,1,34,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-60,131,1,1,20150320,BKN,MIL
+Shot Chart Detail,0021401022,326,201572,Brook Lopez,1610612751,Brooklyn Nets,3,8,1,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,11,1,1,20150320,BKN,MIL
+Shot Chart Detail,0021401022,340,201572,Brook Lopez,1610612751,Brooklyn Nets,3,6,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,11,1,1,20150320,BKN,MIL
+Shot Chart Detail,0021401022,346,201572,Brook Lopez,1610612751,Brooklyn Nets,3,6,14,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,59,72,1,1,20150320,BKN,MIL
+Shot Chart Detail,0021401022,564,201572,Brook Lopez,1610612751,Brooklyn Nets,5,0,53,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-26,-3,1,1,20150320,BKN,MIL
+Shot Chart Detail,0021401022,635,201572,Brook Lopez,1610612751,Brooklyn Nets,7,4,45,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150320,BKN,MIL
+Shot Chart Detail,0021401022,645,201572,Brook Lopez,1610612751,Brooklyn Nets,7,4,8,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-5,53,1,1,20150320,BKN,MIL
+Shot Chart Detail,0021401032,5,201572,Brook Lopez,1610612751,Brooklyn Nets,1,11,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-163,-13,1,1,20150321,IND,BKN
+Shot Chart Detail,0021401032,25,201572,Brook Lopez,1610612751,Brooklyn Nets,1,9,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,125,186,1,1,20150321,IND,BKN
+Shot Chart Detail,0021401032,41,201572,Brook Lopez,1610612751,Brooklyn Nets,1,6,36,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-19,86,1,1,20150321,IND,BKN
+Shot Chart Detail,0021401032,80,201572,Brook Lopez,1610612751,Brooklyn Nets,1,2,4,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-48,85,1,1,20150321,IND,BKN
+Shot Chart Detail,0021401032,194,201572,Brook Lopez,1610612751,Brooklyn Nets,2,2,22,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,155,69,1,1,20150321,IND,BKN
+Shot Chart Detail,0021401032,219,201572,Brook Lopez,1610612751,Brooklyn Nets,3,11,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,10,189,1,1,20150321,IND,BKN
+Shot Chart Detail,0021401032,242,201572,Brook Lopez,1610612751,Brooklyn Nets,3,8,27,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,6,1,1,20150321,IND,BKN
+Shot Chart Detail,0021401032,258,201572,Brook Lopez,1610612751,Brooklyn Nets,3,6,56,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-71,83,1,1,20150321,IND,BKN
+Shot Chart Detail,0021401032,332,201572,Brook Lopez,1610612751,Brooklyn Nets,3,1,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-11,162,1,1,20150321,IND,BKN
+Shot Chart Detail,0021401032,355,201572,Brook Lopez,1610612751,Brooklyn Nets,3,0,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,12,1,1,20150321,IND,BKN
+Shot Chart Detail,0021401032,442,201572,Brook Lopez,1610612751,Brooklyn Nets,4,3,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,6,184,1,1,20150321,IND,BKN
+Shot Chart Detail,0021401049,68,201572,Brook Lopez,1610612751,Brooklyn Nets,1,5,10,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-64,64,1,1,20150323,BKN,BOS
+Shot Chart Detail,0021401049,91,201572,Brook Lopez,1610612751,Brooklyn Nets,1,3,0,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,6,71,1,1,20150323,BKN,BOS
+Shot Chart Detail,0021401049,103,201572,Brook Lopez,1610612751,Brooklyn Nets,1,1,23,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150323,BKN,BOS
+Shot Chart Detail,0021401049,227,201572,Brook Lopez,1610612751,Brooklyn Nets,2,2,55,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-43,67,1,1,20150323,BKN,BOS
+Shot Chart Detail,0021401049,242,201572,Brook Lopez,1610612751,Brooklyn Nets,2,1,16,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,45,110,1,1,20150323,BKN,BOS
+Shot Chart Detail,0021401049,271,201572,Brook Lopez,1610612751,Brooklyn Nets,3,10,55,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,47,118,1,1,20150323,BKN,BOS
+Shot Chart Detail,0021401049,276,201572,Brook Lopez,1610612751,Brooklyn Nets,3,9,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,0,183,1,1,20150323,BKN,BOS
+Shot Chart Detail,0021401049,286,201572,Brook Lopez,1610612751,Brooklyn Nets,3,8,45,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,0,89,1,1,20150323,BKN,BOS
+Shot Chart Detail,0021401049,321,201572,Brook Lopez,1610612751,Brooklyn Nets,3,5,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2,23,1,1,20150323,BKN,BOS
+Shot Chart Detail,0021401049,332,201572,Brook Lopez,1610612751,Brooklyn Nets,3,4,27,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,0,88,1,1,20150323,BKN,BOS
+Shot Chart Detail,0021401049,399,201572,Brook Lopez,1610612751,Brooklyn Nets,4,11,13,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,32,34,1,1,20150323,BKN,BOS
+Shot Chart Detail,0021401049,403,201572,Brook Lopez,1610612751,Brooklyn Nets,4,10,43,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,94,30,1,1,20150323,BKN,BOS
+Shot Chart Detail,0021401060,19,201572,Brook Lopez,1610612751,Brooklyn Nets,1,9,26,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,56,83,1,1,20150325,CHA,BKN
+Shot Chart Detail,0021401060,56,201572,Brook Lopez,1610612751,Brooklyn Nets,1,6,20,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,162,31,1,1,20150325,CHA,BKN
+Shot Chart Detail,0021401060,86,201572,Brook Lopez,1610612751,Brooklyn Nets,1,1,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-38,179,1,1,20150325,CHA,BKN
+Shot Chart Detail,0021401060,212,201572,Brook Lopez,1610612751,Brooklyn Nets,2,2,11,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,17,47,1,1,20150325,CHA,BKN
+Shot Chart Detail,0021401060,218,201572,Brook Lopez,1610612751,Brooklyn Nets,2,1,20,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,56,80,1,1,20150325,CHA,BKN
+Shot Chart Detail,0021401060,223,201572,Brook Lopez,1610612751,Brooklyn Nets,2,0,26,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-27,58,1,1,20150325,CHA,BKN
+Shot Chart Detail,0021401060,232,201572,Brook Lopez,1610612751,Brooklyn Nets,3,11,17,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-95,44,1,1,20150325,CHA,BKN
+Shot Chart Detail,0021401060,256,201572,Brook Lopez,1610612751,Brooklyn Nets,3,8,47,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,20,83,1,1,20150325,CHA,BKN
+Shot Chart Detail,0021401060,272,201572,Brook Lopez,1610612751,Brooklyn Nets,3,7,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,195,44,1,1,20150325,CHA,BKN
+Shot Chart Detail,0021401060,298,201572,Brook Lopez,1610612751,Brooklyn Nets,3,4,19,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,67,78,1,1,20150325,CHA,BKN
+Shot Chart Detail,0021401060,313,201572,Brook Lopez,1610612751,Brooklyn Nets,3,2,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-16,189,1,1,20150325,CHA,BKN
+Shot Chart Detail,0021401060,328,201572,Brook Lopez,1610612751,Brooklyn Nets,3,1,36,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,48,53,1,1,20150325,CHA,BKN
+Shot Chart Detail,0021401060,380,201572,Brook Lopez,1610612751,Brooklyn Nets,4,8,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-158,75,1,1,20150325,CHA,BKN
+Shot Chart Detail,0021401060,435,201572,Brook Lopez,1610612751,Brooklyn Nets,4,3,58,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,20,96,1,1,20150325,CHA,BKN
+Shot Chart Detail,0021401060,455,201572,Brook Lopez,1610612751,Brooklyn Nets,4,2,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,182,20,1,1,20150325,CHA,BKN
+Shot Chart Detail,0021401060,472,201572,Brook Lopez,1610612751,Brooklyn Nets,4,0,23,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,4,69,1,1,20150325,CHA,BKN
+Shot Chart Detail,0021401078,15,201572,Brook Lopez,1610612751,Brooklyn Nets,1,10,11,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150327,BKN,CLE
+Shot Chart Detail,0021401078,36,201572,Brook Lopez,1610612751,Brooklyn Nets,1,8,14,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,-8,1,1,20150327,BKN,CLE
+Shot Chart Detail,0021401078,66,201572,Brook Lopez,1610612751,Brooklyn Nets,1,4,56,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,15,71,1,1,20150327,BKN,CLE
+Shot Chart Detail,0021401078,84,201572,Brook Lopez,1610612751,Brooklyn Nets,1,3,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,0,1,1,20150327,BKN,CLE
+Shot Chart Detail,0021401078,236,201572,Brook Lopez,1610612751,Brooklyn Nets,3,11,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,97,88,1,1,20150327,BKN,CLE
+Shot Chart Detail,0021401078,329,201572,Brook Lopez,1610612751,Brooklyn Nets,3,2,23,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-2,56,1,1,20150327,BKN,CLE
+Shot Chart Detail,0021401078,338,201572,Brook Lopez,1610612751,Brooklyn Nets,3,1,45,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,7,1,1,20150327,BKN,CLE
+Shot Chart Detail,0021401093,16,201572,Brook Lopez,1610612751,Brooklyn Nets,1,9,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,3,1,1,20150329,BKN,LAL
+Shot Chart Detail,0021401093,22,201572,Brook Lopez,1610612751,Brooklyn Nets,1,9,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,7,1,1,20150329,BKN,LAL
+Shot Chart Detail,0021401093,44,201572,Brook Lopez,1610612751,Brooklyn Nets,1,6,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,-2,1,1,20150329,BKN,LAL
+Shot Chart Detail,0021401093,46,201572,Brook Lopez,1610612751,Brooklyn Nets,1,5,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,1,1,1,20150329,BKN,LAL
+Shot Chart Detail,0021401093,63,201572,Brook Lopez,1610612751,Brooklyn Nets,1,2,57,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-8,135,1,1,20150329,BKN,LAL
+Shot Chart Detail,0021401093,85,201572,Brook Lopez,1610612751,Brooklyn Nets,1,0,14,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-49,129,1,1,20150329,BKN,LAL
+Shot Chart Detail,0021401093,117,201572,Brook Lopez,1610612751,Brooklyn Nets,2,9,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,34,0,1,1,20150329,BKN,LAL
+Shot Chart Detail,0021401093,200,201572,Brook Lopez,1610612751,Brooklyn Nets,2,1,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,3,1,1,20150329,BKN,LAL
+Shot Chart Detail,0021401093,239,201572,Brook Lopez,1610612751,Brooklyn Nets,3,9,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,86,11,1,1,20150329,BKN,LAL
+Shot Chart Detail,0021401093,257,201572,Brook Lopez,1610612751,Brooklyn Nets,3,8,18,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,72,17,1,1,20150329,BKN,LAL
+Shot Chart Detail,0021401093,274,201572,Brook Lopez,1610612751,Brooklyn Nets,3,5,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-19,7,1,1,20150329,BKN,LAL
+Shot Chart Detail,0021401093,353,201572,Brook Lopez,1610612751,Brooklyn Nets,4,9,59,Made Shot,Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,97,0,1,1,20150329,BKN,LAL
+Shot Chart Detail,0021401093,418,201572,Brook Lopez,1610612751,Brooklyn Nets,4,3,37,Made Shot,Driving Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150329,BKN,LAL
+Shot Chart Detail,0021401108,54,201572,Brook Lopez,1610612751,Brooklyn Nets,1,5,28,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-54,93,1,1,20150331,BKN,IND
+Shot Chart Detail,0021401108,62,201572,Brook Lopez,1610612751,Brooklyn Nets,1,4,17,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150331,BKN,IND
+Shot Chart Detail,0021401108,67,201572,Brook Lopez,1610612751,Brooklyn Nets,1,3,39,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150331,BKN,IND
+Shot Chart Detail,0021401108,76,201572,Brook Lopez,1610612751,Brooklyn Nets,1,2,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,6,1,1,20150331,BKN,IND
+Shot Chart Detail,0021401108,79,201572,Brook Lopez,1610612751,Brooklyn Nets,1,2,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,0,1,1,20150331,BKN,IND
+Shot Chart Detail,0021401108,91,201572,Brook Lopez,1610612751,Brooklyn Nets,1,0,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,15,192,1,1,20150331,BKN,IND
+Shot Chart Detail,0021401108,179,201572,Brook Lopez,1610612751,Brooklyn Nets,2,5,31,Made Shot,Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,118,22,1,1,20150331,BKN,IND
+Shot Chart Detail,0021401108,220,201572,Brook Lopez,1610612751,Brooklyn Nets,2,1,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-26,0,1,1,20150331,BKN,IND
+Shot Chart Detail,0021401108,234,201572,Brook Lopez,1610612751,Brooklyn Nets,2,0,1,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,4,88,1,1,20150331,BKN,IND
+Shot Chart Detail,0021401108,286,201572,Brook Lopez,1610612751,Brooklyn Nets,3,6,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,-2,1,1,20150331,BKN,IND
+Shot Chart Detail,0021401108,369,201572,Brook Lopez,1610612751,Brooklyn Nets,3,0,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,-3,1,1,20150331,BKN,IND
+Shot Chart Detail,0021401116,38,201572,Brook Lopez,1610612751,Brooklyn Nets,1,8,21,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-2,47,1,1,20150401,NYK,BKN
+Shot Chart Detail,0021401116,55,201572,Brook Lopez,1610612751,Brooklyn Nets,1,6,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,11,1,1,20150401,NYK,BKN
+Shot Chart Detail,0021401116,66,201572,Brook Lopez,1610612751,Brooklyn Nets,1,5,10,Made Shot,Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,102,7,1,1,20150401,NYK,BKN
+Shot Chart Detail,0021401116,166,201572,Brook Lopez,1610612751,Brooklyn Nets,2,7,50,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,65,72,1,1,20150401,NYK,BKN
+Shot Chart Detail,0021401116,303,201572,Brook Lopez,1610612751,Brooklyn Nets,3,4,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-45,184,1,1,20150401,NYK,BKN
+Shot Chart Detail,0021401116,336,201572,Brook Lopez,1610612751,Brooklyn Nets,3,1,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,15,1,1,20150401,NYK,BKN
+Shot Chart Detail,0021401116,417,201572,Brook Lopez,1610612751,Brooklyn Nets,4,4,53,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-10,129,1,1,20150401,NYK,BKN
+Shot Chart Detail,0021401116,452,201572,Brook Lopez,1610612751,Brooklyn Nets,4,1,24,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,6,1,1,20150401,NYK,BKN
+Shot Chart Detail,0021401116,470,201572,Brook Lopez,1610612751,Brooklyn Nets,4,0,2,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,11,17,1,1,20150401,NYK,BKN
+Shot Chart Detail,0021401130,2,201572,Brook Lopez,1610612751,Brooklyn Nets,1,11,39,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,1,1,1,20150403,BKN,TOR
+Shot Chart Detail,0021401130,40,201572,Brook Lopez,1610612751,Brooklyn Nets,1,7,44,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,1,1,1,20150403,BKN,TOR
+Shot Chart Detail,0021401130,63,201572,Brook Lopez,1610612751,Brooklyn Nets,1,5,1,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-35,71,1,1,20150403,BKN,TOR
+Shot Chart Detail,0021401130,83,201572,Brook Lopez,1610612751,Brooklyn Nets,1,3,13,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,7,1,1,20150403,BKN,TOR
+Shot Chart Detail,0021401130,193,201572,Brook Lopez,1610612751,Brooklyn Nets,2,4,40,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150403,BKN,TOR
+Shot Chart Detail,0021401130,322,201572,Brook Lopez,1610612751,Brooklyn Nets,3,2,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,-3,1,1,20150403,BKN,TOR
+Shot Chart Detail,0021401130,330,201572,Brook Lopez,1610612751,Brooklyn Nets,3,1,48,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,78,60,1,1,20150403,BKN,TOR
+Shot Chart Detail,0021401130,348,201572,Brook Lopez,1610612751,Brooklyn Nets,3,0,11,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,26,80,1,1,20150403,BKN,TOR
+Shot Chart Detail,0021401130,360,201572,Brook Lopez,1610612751,Brooklyn Nets,4,11,6,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,3,1,1,20150403,BKN,TOR
+Shot Chart Detail,0021401130,373,201572,Brook Lopez,1610612751,Brooklyn Nets,4,9,53,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,28,0,1,1,20150403,BKN,TOR
+Shot Chart Detail,0021401130,387,201572,Brook Lopez,1610612751,Brooklyn Nets,4,8,34,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150403,BKN,TOR
+Shot Chart Detail,0021401130,422,201572,Brook Lopez,1610612751,Brooklyn Nets,4,5,41,Made Shot,Driving Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150403,BKN,TOR
+Shot Chart Detail,0021401130,464,201572,Brook Lopez,1610612751,Brooklyn Nets,4,2,53,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,1,75,1,1,20150403,BKN,TOR
+Shot Chart Detail,0021401138,20,201572,Brook Lopez,1610612751,Brooklyn Nets,1,9,46,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,45,63,1,1,20150404,ATL,BKN
+Shot Chart Detail,0021401138,55,201572,Brook Lopez,1610612751,Brooklyn Nets,1,6,14,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-2,1,1,20150404,ATL,BKN
+Shot Chart Detail,0021401138,209,201572,Brook Lopez,1610612751,Brooklyn Nets,2,3,39,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,62,93,1,1,20150404,ATL,BKN
+Shot Chart Detail,0021401138,253,201572,Brook Lopez,1610612751,Brooklyn Nets,3,11,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,0,1,1,20150404,ATL,BKN
+Shot Chart Detail,0021401138,277,201572,Brook Lopez,1610612751,Brooklyn Nets,3,7,45,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,7,1,1,20150404,ATL,BKN
+Shot Chart Detail,0021401163,14,201572,Brook Lopez,1610612751,Brooklyn Nets,1,9,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,6,1,1,20150408,BKN,ATL
+Shot Chart Detail,0021401163,24,201572,Brook Lopez,1610612751,Brooklyn Nets,1,8,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,1,1,1,20150408,BKN,ATL
+Shot Chart Detail,0021401163,47,201572,Brook Lopez,1610612751,Brooklyn Nets,1,5,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,15,14,1,1,20150408,BKN,ATL
+Shot Chart Detail,0021401163,92,201572,Brook Lopez,1610612751,Brooklyn Nets,1,0,41,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,6,1,1,20150408,BKN,ATL
+Shot Chart Detail,0021401163,189,201572,Brook Lopez,1610612751,Brooklyn Nets,2,5,29,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-48,77,1,1,20150408,BKN,ATL
+Shot Chart Detail,0021401163,238,201572,Brook Lopez,1610612751,Brooklyn Nets,2,0,49,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150408,BKN,ATL
+Shot Chart Detail,0021401163,323,201572,Brook Lopez,1610612751,Brooklyn Nets,3,4,54,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-16,69,1,1,20150408,BKN,ATL
+Shot Chart Detail,0021401163,412,201572,Brook Lopez,1610612751,Brooklyn Nets,4,9,44,Made Shot,Hook Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-84,4,1,1,20150408,BKN,ATL
+Shot Chart Detail,0021401177,17,201572,Brook Lopez,1610612751,Brooklyn Nets,1,9,36,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,59,101,1,1,20150410,BKN,WAS
+Shot Chart Detail,0021401177,22,201572,Brook Lopez,1610612751,Brooklyn Nets,1,8,49,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-7,126,1,1,20150410,BKN,WAS
+Shot Chart Detail,0021401177,33,201572,Brook Lopez,1610612751,Brooklyn Nets,1,7,6,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-70,20,1,1,20150410,BKN,WAS
+Shot Chart Detail,0021401177,66,201572,Brook Lopez,1610612751,Brooklyn Nets,1,3,38,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,4,1,1,20150410,BKN,WAS
+Shot Chart Detail,0021401177,76,201572,Brook Lopez,1610612751,Brooklyn Nets,1,3,12,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,10,25,1,1,20150410,BKN,WAS
+Shot Chart Detail,0021401177,89,201572,Brook Lopez,1610612751,Brooklyn Nets,1,1,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,103,151,1,1,20150410,BKN,WAS
+Shot Chart Detail,0021401177,106,201572,Brook Lopez,1610612751,Brooklyn Nets,1,0,16,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-5,48,1,1,20150410,BKN,WAS
+Shot Chart Detail,0021401177,173,201572,Brook Lopez,1610612751,Brooklyn Nets,2,5,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,3,1,1,20150410,BKN,WAS
+Shot Chart Detail,0021401177,196,201572,Brook Lopez,1610612751,Brooklyn Nets,2,3,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-150,148,1,1,20150410,BKN,WAS
+Shot Chart Detail,0021401177,226,201572,Brook Lopez,1610612751,Brooklyn Nets,2,0,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,2,149,1,1,20150410,BKN,WAS
+Shot Chart Detail,0021401177,405,201572,Brook Lopez,1610612751,Brooklyn Nets,4,7,29,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150410,BKN,WAS
+Shot Chart Detail,0021401177,421,201572,Brook Lopez,1610612751,Brooklyn Nets,4,6,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,3,1,1,20150410,BKN,WAS
+Shot Chart Detail,0021401193,38,201572,Brook Lopez,1610612751,Brooklyn Nets,1,7,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,-3,1,1,20150412,MIL,BKN
+Shot Chart Detail,0021401193,62,201572,Brook Lopez,1610612751,Brooklyn Nets,1,4,32,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,65,14,1,1,20150412,MIL,BKN
+Shot Chart Detail,0021401193,289,201572,Brook Lopez,1610612751,Brooklyn Nets,3,7,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,177,-8,1,1,20150412,MIL,BKN
+Shot Chart Detail,0021401206,38,201572,Brook Lopez,1610612751,Brooklyn Nets,1,8,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,165,37,1,1,20150413,BKN,CHI
+Shot Chart Detail,0021401206,102,201572,Brook Lopez,1610612751,Brooklyn Nets,1,0,38,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,6,1,1,20150413,BKN,CHI
+Shot Chart Detail,0021401206,203,201572,Brook Lopez,1610612751,Brooklyn Nets,2,3,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,7,1,1,20150413,BKN,CHI
+Shot Chart Detail,0021401206,234,201572,Brook Lopez,1610612751,Brooklyn Nets,2,0,51,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,19,1,1,20150413,BKN,CHI
+Shot Chart Detail,0021401206,408,201572,Brook Lopez,1610612751,Brooklyn Nets,4,8,41,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,13,20,1,1,20150413,BKN,CHI
+Shot Chart Detail,0021401224,26,201572,Brook Lopez,1610612751,Brooklyn Nets,1,9,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,-5,1,1,20150415,BKN,ORL
+Shot Chart Detail,0021401224,55,201572,Brook Lopez,1610612751,Brooklyn Nets,1,5,14,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,31,107,1,1,20150415,BKN,ORL
+Shot Chart Detail,0021401224,73,201572,Brook Lopez,1610612751,Brooklyn Nets,1,2,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,7,1,1,20150415,BKN,ORL
+Shot Chart Detail,0021401224,244,201572,Brook Lopez,1610612751,Brooklyn Nets,3,9,56,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-4,47,1,1,20150415,BKN,ORL

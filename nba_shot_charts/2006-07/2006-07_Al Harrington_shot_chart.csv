@@ -1,0 +1,496 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0020600004,23,1733,Al Harrington,1610612754,Indiana Pacers,1,9,27,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061101,CHA,IND
+Shot Chart Detail,0020600004,425,1733,Al Harrington,1610612754,Indiana Pacers,4,11,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061101,CHA,IND
+Shot Chart Detail,0020600004,439,1733,Al Harrington,1610612754,Indiana Pacers,4,9,18,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061101,CHA,IND
+Shot Chart Detail,0020600020,282,1733,Al Harrington,1610612754,Indiana Pacers,3,10,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-151,5,1,1,20061103,IND,NOK
+Shot Chart Detail,0020600033,12,1733,Al Harrington,1610612754,Indiana Pacers,1,10,30,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061104,NYK,IND
+Shot Chart Detail,0020600033,29,1733,Al Harrington,1610612754,Indiana Pacers,1,8,17,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061104,NYK,IND
+Shot Chart Detail,0020600033,47,1733,Al Harrington,1610612754,Indiana Pacers,1,6,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061104,NYK,IND
+Shot Chart Detail,0020600033,88,1733,Al Harrington,1610612754,Indiana Pacers,1,2,43,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,70,93,1,1,20061104,NYK,IND
+Shot Chart Detail,0020600033,138,1733,Al Harrington,1610612754,Indiana Pacers,2,9,50,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-226,21,1,1,20061104,NYK,IND
+Shot Chart Detail,0020600033,221,1733,Al Harrington,1610612754,Indiana Pacers,2,3,2,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061104,NYK,IND
+Shot Chart Detail,0020600033,234,1733,Al Harrington,1610612754,Indiana Pacers,2,2,3,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061104,NYK,IND
+Shot Chart Detail,0020600033,263,1733,Al Harrington,1610612754,Indiana Pacers,3,11,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,144,133,1,1,20061104,NYK,IND
+Shot Chart Detail,0020600033,266,1733,Al Harrington,1610612754,Indiana Pacers,3,10,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,133,54,1,1,20061104,NYK,IND
+Shot Chart Detail,0020600033,269,1733,Al Harrington,1610612754,Indiana Pacers,3,10,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,133,207,1,1,20061104,NYK,IND
+Shot Chart Detail,0020600033,310,1733,Al Harrington,1610612754,Indiana Pacers,3,5,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061104,NYK,IND
+Shot Chart Detail,0020600033,377,1733,Al Harrington,1610612754,Indiana Pacers,4,10,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-96,67,1,1,20061104,NYK,IND
+Shot Chart Detail,0020600033,453,1733,Al Harrington,1610612754,Indiana Pacers,4,3,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061104,NYK,IND
+Shot Chart Detail,0020600033,480,1733,Al Harrington,1610612754,Indiana Pacers,4,1,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061104,NYK,IND
+Shot Chart Detail,0020600053,21,1733,Al Harrington,1610612754,Indiana Pacers,1,9,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,-3,1,1,20061107,IND,PHI
+Shot Chart Detail,0020600053,107,1733,Al Harrington,1610612754,Indiana Pacers,2,11,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-189,59,1,1,20061107,IND,PHI
+Shot Chart Detail,0020600053,137,1733,Al Harrington,1610612754,Indiana Pacers,2,8,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-112,135,1,1,20061107,IND,PHI
+Shot Chart Detail,0020600053,212,1733,Al Harrington,1610612754,Indiana Pacers,2,2,30,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,0,1,1,20061107,IND,PHI
+Shot Chart Detail,0020600053,240,1733,Al Harrington,1610612754,Indiana Pacers,3,11,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-31,247,1,1,20061107,IND,PHI
+Shot Chart Detail,0020600053,260,1733,Al Harrington,1610612754,Indiana Pacers,3,9,49,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,240,26,1,1,20061107,IND,PHI
+Shot Chart Detail,0020600059,41,1733,Al Harrington,1610612754,Indiana Pacers,1,7,33,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,1,1,1,20061108,WAS,IND
+Shot Chart Detail,0020600059,48,1733,Al Harrington,1610612754,Indiana Pacers,1,6,42,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,0,1,1,20061108,WAS,IND
+Shot Chart Detail,0020600059,51,1733,Al Harrington,1610612754,Indiana Pacers,1,6,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,-8,1,1,20061108,WAS,IND
+Shot Chart Detail,0020600059,54,1733,Al Harrington,1610612754,Indiana Pacers,1,5,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,2,1,1,20061108,WAS,IND
+Shot Chart Detail,0020600059,177,1733,Al Harrington,1610612754,Indiana Pacers,2,4,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,136,104,1,1,20061108,WAS,IND
+Shot Chart Detail,0020600059,179,1733,Al Harrington,1610612754,Indiana Pacers,2,4,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-3,0,1,1,20061108,WAS,IND
+Shot Chart Detail,0020600059,183,1733,Al Harrington,1610612754,Indiana Pacers,2,3,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-13,22,1,1,20061108,WAS,IND
+Shot Chart Detail,0020600059,266,1733,Al Harrington,1610612754,Indiana Pacers,3,10,59,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,0,1,1,20061108,WAS,IND
+Shot Chart Detail,0020600059,375,1733,Al Harrington,1610612754,Indiana Pacers,3,1,41,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,20,-23,1,1,20061108,WAS,IND
+Shot Chart Detail,0020600059,401,1733,Al Harrington,1610612754,Indiana Pacers,4,11,36,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,7,1,1,20061108,WAS,IND
+Shot Chart Detail,0020600076,12,1733,Al Harrington,1610612754,Indiana Pacers,1,10,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,92,133,1,1,20061110,IND,ORL
+Shot Chart Detail,0020600076,15,1733,Al Harrington,1610612754,Indiana Pacers,1,10,2,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-13,20,1,1,20061110,IND,ORL
+Shot Chart Detail,0020600076,29,1733,Al Harrington,1610612754,Indiana Pacers,1,8,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-168,53,1,1,20061110,IND,ORL
+Shot Chart Detail,0020600076,34,1733,Al Harrington,1610612754,Indiana Pacers,1,8,21,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,108,82,1,1,20061110,IND,ORL
+Shot Chart Detail,0020600076,63,1733,Al Harrington,1610612754,Indiana Pacers,1,5,20,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-3,72,1,1,20061110,IND,ORL
+Shot Chart Detail,0020600076,83,1733,Al Harrington,1610612754,Indiana Pacers,1,3,35,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,20,35,1,1,20061110,IND,ORL
+Shot Chart Detail,0020600076,302,1733,Al Harrington,1610612754,Indiana Pacers,3,7,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-46,150,1,1,20061110,IND,ORL
+Shot Chart Detail,0020600076,322,1733,Al Harrington,1610612754,Indiana Pacers,3,5,32,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-31,2,1,1,20061110,IND,ORL
+Shot Chart Detail,0020600076,344,1733,Al Harrington,1610612754,Indiana Pacers,3,2,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-149,94,1,1,20061110,IND,ORL
+Shot Chart Detail,0020600076,350,1733,Al Harrington,1610612754,Indiana Pacers,3,2,17,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,3,23,1,1,20061110,IND,ORL
+Shot Chart Detail,0020600076,405,1733,Al Harrington,1610612754,Indiana Pacers,4,7,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-123,133,1,1,20061110,IND,ORL
+Shot Chart Detail,0020600076,427,1733,Al Harrington,1610612754,Indiana Pacers,4,5,45,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,0,1,1,20061110,IND,ORL
+Shot Chart Detail,0020600076,432,1733,Al Harrington,1610612754,Indiana Pacers,4,4,29,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,95,30,1,1,20061110,IND,ORL
+Shot Chart Detail,0020600086,3,1733,Al Harrington,1610612754,Indiana Pacers,1,11,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,110,173,1,1,20061111,CHI,IND
+Shot Chart Detail,0020600086,10,1733,Al Harrington,1610612754,Indiana Pacers,1,10,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-153,191,1,1,20061111,CHI,IND
+Shot Chart Detail,0020600086,65,1733,Al Harrington,1610612754,Indiana Pacers,1,3,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061111,CHI,IND
+Shot Chart Detail,0020600086,162,1733,Al Harrington,1610612754,Indiana Pacers,2,4,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-168,138,1,1,20061111,CHI,IND
+Shot Chart Detail,0020600086,185,1733,Al Harrington,1610612754,Indiana Pacers,2,2,0,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061111,CHI,IND
+Shot Chart Detail,0020600086,251,1733,Al Harrington,1610612754,Indiana Pacers,3,6,48,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061111,CHI,IND
+Shot Chart Detail,0020600086,406,1733,Al Harrington,1610612754,Indiana Pacers,4,3,34,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061111,CHI,IND
+Shot Chart Detail,0020600110,7,1733,Al Harrington,1610612754,Indiana Pacers,1,11,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,3,1,1,20061115,BOS,IND
+Shot Chart Detail,0020600110,10,1733,Al Harrington,1610612754,Indiana Pacers,1,10,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,23,-117,207,1,1,20061115,BOS,IND
+Shot Chart Detail,0020600110,94,1733,Al Harrington,1610612754,Indiana Pacers,1,1,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-80,235,1,1,20061115,BOS,IND
+Shot Chart Detail,0020600110,120,1733,Al Harrington,1610612754,Indiana Pacers,2,11,20,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,3,12,1,1,20061115,BOS,IND
+Shot Chart Detail,0020600110,125,1733,Al Harrington,1610612754,Indiana Pacers,2,10,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,5,207,1,1,20061115,BOS,IND
+Shot Chart Detail,0020600110,214,1733,Al Harrington,1610612754,Indiana Pacers,2,1,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,-6,1,1,20061115,BOS,IND
+Shot Chart Detail,0020600110,216,1733,Al Harrington,1610612754,Indiana Pacers,2,1,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,29,10,1,1,20061115,BOS,IND
+Shot Chart Detail,0020600110,323,1733,Al Harrington,1610612754,Indiana Pacers,3,3,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,3,20,1,1,20061115,BOS,IND
+Shot Chart Detail,0020600110,428,1733,Al Harrington,1610612754,Indiana Pacers,4,6,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,3,1,1,20061115,BOS,IND
+Shot Chart Detail,0020600119,6,1733,Al Harrington,1610612754,Indiana Pacers,1,11,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,169,8,1,1,20061117,IND,NJN
+Shot Chart Detail,0020600119,128,1733,Al Harrington,1610612754,Indiana Pacers,2,10,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-8,252,1,1,20061117,IND,NJN
+Shot Chart Detail,0020600119,137,1733,Al Harrington,1610612754,Indiana Pacers,2,8,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,167,183,1,1,20061117,IND,NJN
+Shot Chart Detail,0020600119,367,1733,Al Harrington,1610612754,Indiana Pacers,4,8,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,2,1,1,20061117,IND,NJN
+Shot Chart Detail,0020600119,372,1733,Al Harrington,1610612754,Indiana Pacers,4,8,16,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,95,41,1,1,20061117,IND,NJN
+Shot Chart Detail,0020600119,383,1733,Al Harrington,1610612754,Indiana Pacers,4,7,17,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-102,-9,1,1,20061117,IND,NJN
+Shot Chart Detail,0020600119,413,1733,Al Harrington,1610612754,Indiana Pacers,4,3,48,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,18,1,1,20061117,IND,NJN
+Shot Chart Detail,0020600153,6,1733,Al Harrington,1610612754,Indiana Pacers,1,11,14,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-6,1,1,20061121,IND,MIL
+Shot Chart Detail,0020600153,217,1733,Al Harrington,1610612754,Indiana Pacers,2,0,13,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,13,1,1,20061121,IND,MIL
+Shot Chart Detail,0020600153,369,1733,Al Harrington,1610612754,Indiana Pacers,4,8,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,0,1,1,20061121,IND,MIL
+Shot Chart Detail,0020600160,10,1733,Al Harrington,1610612754,Indiana Pacers,1,10,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061122,ORL,IND
+Shot Chart Detail,0020600160,457,1733,Al Harrington,1610612754,Indiana Pacers,4,4,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-115,166,1,1,20061122,ORL,IND
+Shot Chart Detail,0020600176,18,1733,Al Harrington,1610612754,Indiana Pacers,1,9,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-25,5,1,1,20061124,IND,CLE
+Shot Chart Detail,0020600176,202,1733,Al Harrington,1610612754,Indiana Pacers,2,4,49,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-8,22,1,1,20061124,IND,CLE
+Shot Chart Detail,0020600176,207,1733,Al Harrington,1610612754,Indiana Pacers,2,4,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,2,1,1,20061124,IND,CLE
+Shot Chart Detail,0020600176,287,1733,Al Harrington,1610612754,Indiana Pacers,3,6,34,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,3,1,1,20061124,IND,CLE
+Shot Chart Detail,0020600176,377,1733,Al Harrington,1610612754,Indiana Pacers,4,11,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,5,1,1,20061124,IND,CLE
+Shot Chart Detail,0020600195,65,1733,Al Harrington,1610612754,Indiana Pacers,1,4,12,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061126,TOR,IND
+Shot Chart Detail,0020600195,141,1733,Al Harrington,1610612754,Indiana Pacers,2,8,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-6,248,1,1,20061126,TOR,IND
+Shot Chart Detail,0020600195,278,1733,Al Harrington,1610612754,Indiana Pacers,3,6,48,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061126,TOR,IND
+Shot Chart Detail,0020600195,426,1733,Al Harrington,1610612754,Indiana Pacers,4,5,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061126,TOR,IND
+Shot Chart Detail,0020600211,15,1733,Al Harrington,1610612754,Indiana Pacers,1,10,15,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061128,POR,IND
+Shot Chart Detail,0020600211,52,1733,Al Harrington,1610612754,Indiana Pacers,1,6,18,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,66,1,1,20061128,POR,IND
+Shot Chart Detail,0020600211,126,1733,Al Harrington,1610612754,Indiana Pacers,2,11,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,23,-57,233,1,1,20061128,POR,IND
+Shot Chart Detail,0020600211,138,1733,Al Harrington,1610612754,Indiana Pacers,2,9,46,Made Shot,Driving Finger Roll Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061128,POR,IND
+Shot Chart Detail,0020600211,267,1733,Al Harrington,1610612754,Indiana Pacers,3,9,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061128,POR,IND
+Shot Chart Detail,0020600211,300,1733,Al Harrington,1610612754,Indiana Pacers,3,5,46,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-223,72,1,1,20061128,POR,IND
+Shot Chart Detail,0020600211,462,1733,Al Harrington,1610612754,Indiana Pacers,4,1,22,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061128,POR,IND
+Shot Chart Detail,0020600221,30,1733,Al Harrington,1610612754,Indiana Pacers,1,8,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-166,138,1,1,20061129,GSW,IND
+Shot Chart Detail,0020600221,37,1733,Al Harrington,1610612754,Indiana Pacers,1,7,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-184,184,1,1,20061129,GSW,IND
+Shot Chart Detail,0020600221,122,1733,Al Harrington,1610612754,Indiana Pacers,1,0,36,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061129,GSW,IND
+Shot Chart Detail,0020600221,198,1733,Al Harrington,1610612754,Indiana Pacers,2,6,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,8,1,1,20061129,GSW,IND
+Shot Chart Detail,0020600221,221,1733,Al Harrington,1610612754,Indiana Pacers,2,3,59,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-29,5,1,1,20061129,GSW,IND
+Shot Chart Detail,0020600221,267,1733,Al Harrington,1610612754,Indiana Pacers,3,11,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-210,150,1,1,20061129,GSW,IND
+Shot Chart Detail,0020600221,273,1733,Al Harrington,1610612754,Indiana Pacers,3,10,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-5,257,1,1,20061129,GSW,IND
+Shot Chart Detail,0020600221,300,1733,Al Harrington,1610612754,Indiana Pacers,3,7,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-62,247,1,1,20061129,GSW,IND
+Shot Chart Detail,0020600221,339,1733,Al Harrington,1610612754,Indiana Pacers,3,4,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-182,178,1,1,20061129,GSW,IND
+Shot Chart Detail,0020600221,494,1733,Al Harrington,1610612754,Indiana Pacers,4,0,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,120,227,1,1,20061129,GSW,IND
+Shot Chart Detail,0020600233,35,1733,Al Harrington,1610612754,Indiana Pacers,1,9,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,133,84,1,1,20061201,SEA,IND
+Shot Chart Detail,0020600233,68,1733,Al Harrington,1610612754,Indiana Pacers,1,6,42,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061201,SEA,IND
+Shot Chart Detail,0020600233,106,1733,Al Harrington,1610612754,Indiana Pacers,1,4,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-212,138,1,1,20061201,SEA,IND
+Shot Chart Detail,0020600233,207,1733,Al Harrington,1610612754,Indiana Pacers,2,7,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-140,155,1,1,20061201,SEA,IND
+Shot Chart Detail,0020600233,227,1733,Al Harrington,1610612754,Indiana Pacers,2,5,39,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-34,8,1,1,20061201,SEA,IND
+Shot Chart Detail,0020600233,255,1733,Al Harrington,1610612754,Indiana Pacers,2,2,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-191,184,1,1,20061201,SEA,IND
+Shot Chart Detail,0020600233,259,1733,Al Harrington,1610612754,Indiana Pacers,2,2,27,Made Shot,Driving Finger Roll Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061201,SEA,IND
+Shot Chart Detail,0020600233,300,1733,Al Harrington,1610612754,Indiana Pacers,3,11,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-191,186,1,1,20061201,SEA,IND
+Shot Chart Detail,0020600233,366,1733,Al Harrington,1610612754,Indiana Pacers,3,5,9,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-233,84,1,1,20061201,SEA,IND
+Shot Chart Detail,0020600233,429,1733,Al Harrington,1610612754,Indiana Pacers,4,11,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,144,202,1,1,20061201,SEA,IND
+Shot Chart Detail,0020600233,512,1733,Al Harrington,1610612754,Indiana Pacers,4,4,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061201,SEA,IND
+Shot Chart Detail,0020600240,19,1733,Al Harrington,1610612754,Indiana Pacers,1,9,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061202,DEN,IND
+Shot Chart Detail,0020600240,26,1733,Al Harrington,1610612754,Indiana Pacers,1,9,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061202,DEN,IND
+Shot Chart Detail,0020600240,52,1733,Al Harrington,1610612754,Indiana Pacers,1,7,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,182,31,1,1,20061202,DEN,IND
+Shot Chart Detail,0020600240,62,1733,Al Harrington,1610612754,Indiana Pacers,1,5,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061202,DEN,IND
+Shot Chart Detail,0020600240,213,1733,Al Harrington,1610612754,Indiana Pacers,2,4,3,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-28,105,1,1,20061202,DEN,IND
+Shot Chart Detail,0020600240,411,1733,Al Harrington,1610612754,Indiana Pacers,4,11,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,166,20,1,1,20061202,DEN,IND
+Shot Chart Detail,0020600240,460,1733,Al Harrington,1610612754,Indiana Pacers,4,8,10,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-20,48,1,1,20061202,DEN,IND
+Shot Chart Detail,0020600254,278,1733,Al Harrington,1610612754,Indiana Pacers,3,9,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061204,LAL,IND
+Shot Chart Detail,0020600254,310,1733,Al Harrington,1610612754,Indiana Pacers,3,6,35,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,238,54,1,1,20061204,LAL,IND
+Shot Chart Detail,0020600263,25,1733,Al Harrington,1610612754,Indiana Pacers,1,8,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,8,2,1,1,20061206,IND,ORL
+Shot Chart Detail,0020600263,83,1733,Al Harrington,1610612754,Indiana Pacers,1,1,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-2,202,1,1,20061206,IND,ORL
+Shot Chart Detail,0020600263,104,1733,Al Harrington,1610612754,Indiana Pacers,2,11,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,2,1,1,20061206,IND,ORL
+Shot Chart Detail,0020600263,121,1733,Al Harrington,1610612754,Indiana Pacers,2,9,28,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,28,0,1,1,20061206,IND,ORL
+Shot Chart Detail,0020600263,196,1733,Al Harrington,1610612754,Indiana Pacers,2,1,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,33,2,1,1,20061206,IND,ORL
+Shot Chart Detail,0020600263,207,1733,Al Harrington,1610612754,Indiana Pacers,2,0,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,7,1,1,20061206,IND,ORL
+Shot Chart Detail,0020600263,237,1733,Al Harrington,1610612754,Indiana Pacers,3,9,26,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,0,1,1,20061206,IND,ORL
+Shot Chart Detail,0020600263,308,1733,Al Harrington,1610612754,Indiana Pacers,3,1,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-38,255,1,1,20061206,IND,ORL
+Shot Chart Detail,0020600263,319,1733,Al Harrington,1610612754,Indiana Pacers,3,0,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,8,1,1,20061206,IND,ORL
+Shot Chart Detail,0020600263,432,1733,Al Harrington,1610612754,Indiana Pacers,4,1,37,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,236,17,1,1,20061206,IND,ORL
+Shot Chart Detail,0020600276,15,1733,Al Harrington,1610612754,Indiana Pacers,1,10,2,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,-13,1,1,20061208,IND,POR
+Shot Chart Detail,0020600276,197,1733,Al Harrington,1610612754,Indiana Pacers,2,5,26,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,8,1,1,20061208,IND,POR
+Shot Chart Detail,0020600276,268,1733,Al Harrington,1610612754,Indiana Pacers,3,11,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-33,201,1,1,20061208,IND,POR
+Shot Chart Detail,0020600276,274,1733,Al Harrington,1610612754,Indiana Pacers,3,10,54,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,3,1,1,20061208,IND,POR
+Shot Chart Detail,0020600276,433,1733,Al Harrington,1610612754,Indiana Pacers,4,6,40,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,0,1,1,20061208,IND,POR
+Shot Chart Detail,0020600276,441,1733,Al Harrington,1610612754,Indiana Pacers,4,6,8,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,0,1,1,20061208,IND,POR
+Shot Chart Detail,0020600276,470,1733,Al Harrington,1610612754,Indiana Pacers,4,3,30,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-141,10,1,1,20061208,IND,POR
+Shot Chart Detail,0020600290,96,1733,Al Harrington,1610612754,Indiana Pacers,1,2,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-146,105,1,1,20061209,CLE,IND
+Shot Chart Detail,0020600290,262,1733,Al Harrington,1610612754,Indiana Pacers,3,10,13,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,3,28,1,1,20061209,CLE,IND
+Shot Chart Detail,0020600290,411,1733,Al Harrington,1610612754,Indiana Pacers,4,10,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,172,191,1,1,20061209,CLE,IND
+Shot Chart Detail,0020600318,22,1733,Al Harrington,1610612754,Indiana Pacers,1,9,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,20,245,1,1,20061213,IND,DET
+Shot Chart Detail,0020600318,78,1733,Al Harrington,1610612754,Indiana Pacers,1,2,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,8,10,1,1,20061213,IND,DET
+Shot Chart Detail,0020600318,87,1733,Al Harrington,1610612754,Indiana Pacers,1,1,46,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,0,49,1,1,20061213,IND,DET
+Shot Chart Detail,0020600318,91,1733,Al Harrington,1610612754,Indiana Pacers,1,1,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,-18,1,1,20061213,IND,DET
+Shot Chart Detail,0020600318,95,1733,Al Harrington,1610612754,Indiana Pacers,1,0,37,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,23,41,1,1,20061213,IND,DET
+Shot Chart Detail,0020600318,247,1733,Al Harrington,1610612754,Indiana Pacers,3,11,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,-1,1,1,20061213,IND,DET
+Shot Chart Detail,0020600318,318,1733,Al Harrington,1610612754,Indiana Pacers,3,2,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-156,-1,1,1,20061213,IND,DET
+Shot Chart Detail,0020600331,12,1733,Al Harrington,1610612754,Indiana Pacers,1,10,25,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,-5,1,1,20061215,IND,NYK
+Shot Chart Detail,0020600331,150,1733,Al Harrington,1610612754,Indiana Pacers,2,8,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-90,235,1,1,20061215,IND,NYK
+Shot Chart Detail,0020600331,247,1733,Al Harrington,1610612754,Indiana Pacers,3,11,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-225,112,1,1,20061215,IND,NYK
+Shot Chart Detail,0020600331,306,1733,Al Harrington,1610612754,Indiana Pacers,3,5,2,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2,23,1,1,20061215,IND,NYK
+Shot Chart Detail,0020600331,335,1733,Al Harrington,1610612754,Indiana Pacers,3,1,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,131,125,1,1,20061215,IND,NYK
+Shot Chart Detail,0020600331,355,1733,Al Harrington,1610612754,Indiana Pacers,4,11,42,Made Shot,Hook Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,95,22,1,1,20061215,IND,NYK
+Shot Chart Detail,0020600331,382,1733,Al Harrington,1610612754,Indiana Pacers,4,9,31,Made Shot,Slam Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,0,49,1,1,20061215,IND,NYK
+Shot Chart Detail,0020600364,101,1733,Al Harrington,1610612754,Indiana Pacers,1,0,1,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-156,115,1,1,20061220,PHI,IND
+Shot Chart Detail,0020600364,229,1733,Al Harrington,1610612754,Indiana Pacers,3,9,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-163,178,1,1,20061220,PHI,IND
+Shot Chart Detail,0020600364,237,1733,Al Harrington,1610612754,Indiana Pacers,3,8,43,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,38,17,1,1,20061220,PHI,IND
+Shot Chart Detail,0020600383,24,1733,Al Harrington,1610612754,Indiana Pacers,1,8,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-233,109,1,1,20061222,ATL,IND
+Shot Chart Detail,0020600383,28,1733,Al Harrington,1610612754,Indiana Pacers,1,8,31,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061222,ATL,IND
+Shot Chart Detail,0020600383,312,1733,Al Harrington,1610612754,Indiana Pacers,3,9,42,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-192,63,1,1,20061222,ATL,IND
+Shot Chart Detail,0020600383,326,1733,Al Harrington,1610612754,Indiana Pacers,3,8,22,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061222,ATL,IND
+Shot Chart Detail,0020600383,329,1733,Al Harrington,1610612754,Indiana Pacers,3,7,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-241,89,1,1,20061222,ATL,IND
+Shot Chart Detail,0020600383,358,1733,Al Harrington,1610612754,Indiana Pacers,3,5,44,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061222,ATL,IND
+Shot Chart Detail,0020600383,484,1733,Al Harrington,1610612754,Indiana Pacers,4,6,11,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-6,104,1,1,20061222,ATL,IND
+Shot Chart Detail,0020600383,543,1733,Al Harrington,1610612754,Indiana Pacers,4,1,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-103,252,1,1,20061222,ATL,IND
+Shot Chart Detail,0020600392,40,1733,Al Harrington,1610612754,Indiana Pacers,1,7,39,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-241,33,1,1,20061223,IND,MIN
+Shot Chart Detail,0020600392,126,1733,Al Harrington,1610612754,Indiana Pacers,2,11,11,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,5,1,1,20061223,IND,MIN
+Shot Chart Detail,0020600392,158,1733,Al Harrington,1610612754,Indiana Pacers,2,7,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,12,1,1,20061223,IND,MIN
+Shot Chart Detail,0020600392,205,1733,Al Harrington,1610612754,Indiana Pacers,2,3,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-131,217,1,1,20061223,IND,MIN
+Shot Chart Detail,0020600405,18,1733,Al Harrington,1610612754,Indiana Pacers,1,9,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,66,151,1,1,20061226,IND,HOU
+Shot Chart Detail,0020600405,68,1733,Al Harrington,1610612754,Indiana Pacers,1,3,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,11,20,1,1,20061226,IND,HOU
+Shot Chart Detail,0020600405,233,1733,Al Harrington,1610612754,Indiana Pacers,2,0,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,6,25,1,1,20061226,IND,HOU
+Shot Chart Detail,0020600405,259,1733,Al Harrington,1610612754,Indiana Pacers,3,9,50,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,7,1,1,20061226,IND,HOU
+Shot Chart Detail,0020600405,292,1733,Al Harrington,1610612754,Indiana Pacers,3,6,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,8,1,1,20061226,IND,HOU
+Shot Chart Detail,0020600405,295,1733,Al Harrington,1610612754,Indiana Pacers,3,5,46,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-2,35,1,1,20061226,IND,HOU
+Shot Chart Detail,0020600405,310,1733,Al Harrington,1610612754,Indiana Pacers,3,3,56,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,0,49,1,1,20061226,IND,HOU
+Shot Chart Detail,0020600405,415,1733,Al Harrington,1610612754,Indiana Pacers,4,6,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,5,1,1,20061226,IND,HOU
+Shot Chart Detail,0020600405,421,1733,Al Harrington,1610612754,Indiana Pacers,4,5,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,12,1,1,20061226,IND,HOU
+Shot Chart Detail,0020600405,460,1733,Al Harrington,1610612754,Indiana Pacers,4,0,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,-3,1,1,20061226,IND,HOU
+Shot Chart Detail,0020600434,148,1733,Al Harrington,1610612754,Indiana Pacers,2,9,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,97,242,1,1,20061229,DET,IND
+Shot Chart Detail,0020600434,225,1733,Al Harrington,1610612754,Indiana Pacers,2,1,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-212,145,1,1,20061229,DET,IND
+Shot Chart Detail,0020600434,227,1733,Al Harrington,1610612754,Indiana Pacers,2,1,25,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,40,1,1,20061229,DET,IND
+Shot Chart Detail,0020600434,257,1733,Al Harrington,1610612754,Indiana Pacers,3,10,38,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,5,1,1,20061229,DET,IND
+Shot Chart Detail,0020600434,369,1733,Al Harrington,1610612754,Indiana Pacers,4,10,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,161,0,1,1,20061229,DET,IND
+Shot Chart Detail,0020600434,375,1733,Al Harrington,1610612754,Indiana Pacers,4,9,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-72,153,1,1,20061229,DET,IND
+Shot Chart Detail,0020600443,32,1733,Al Harrington,1610612754,Indiana Pacers,1,6,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-135,118,1,1,20061230,IND,CHA
+Shot Chart Detail,0020600443,184,1733,Al Harrington,1610612754,Indiana Pacers,2,6,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-207,132,1,1,20061230,IND,CHA
+Shot Chart Detail,0020600443,341,1733,Al Harrington,1610612754,Indiana Pacers,3,4,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,0,1,1,20061230,IND,CHA
+Shot Chart Detail,0020600443,400,1733,Al Harrington,1610612754,Indiana Pacers,4,11,24,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-8,22,1,1,20061230,IND,CHA
+Shot Chart Detail,0020600477,131,1733,Al Harrington,1610612754,Indiana Pacers,2,11,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,64,171,1,1,20070104,DAL,IND
+Shot Chart Detail,0020600477,133,1733,Al Harrington,1610612754,Indiana Pacers,2,10,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,169,143,1,1,20070104,DAL,IND
+Shot Chart Detail,0020600477,211,1733,Al Harrington,1610612754,Indiana Pacers,2,3,21,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070104,DAL,IND
+Shot Chart Detail,0020600477,226,1733,Al Harrington,1610612754,Indiana Pacers,2,1,57,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070104,DAL,IND
+Shot Chart Detail,0020600477,270,1733,Al Harrington,1610612754,Indiana Pacers,3,8,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-210,140,1,1,20070104,DAL,IND
+Shot Chart Detail,0020600477,305,1733,Al Harrington,1610612754,Indiana Pacers,3,4,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,6,245,1,1,20070104,DAL,IND
+Shot Chart Detail,0020600477,333,1733,Al Harrington,1610612754,Indiana Pacers,3,1,19,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-141,48,1,1,20070104,DAL,IND
+Shot Chart Detail,0020600477,424,1733,Al Harrington,1610612754,Indiana Pacers,4,5,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-164,26,1,1,20070104,DAL,IND
+Shot Chart Detail,0020600493,7,1733,Al Harrington,1610612754,Indiana Pacers,1,10,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,161,191,1,1,20070106,NOK,IND
+Shot Chart Detail,0020600493,24,1733,Al Harrington,1610612754,Indiana Pacers,1,9,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,118,212,1,1,20070106,NOK,IND
+Shot Chart Detail,0020600493,36,1733,Al Harrington,1610612754,Indiana Pacers,1,6,46,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,34,36,1,1,20070106,NOK,IND
+Shot Chart Detail,0020600493,54,1733,Al Harrington,1610612754,Indiana Pacers,1,5,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,85,199,1,1,20070106,NOK,IND
+Shot Chart Detail,0020600493,78,1733,Al Harrington,1610612754,Indiana Pacers,1,1,57,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,105,-3,1,1,20070106,NOK,IND
+Shot Chart Detail,0020600493,210,1733,Al Harrington,1610612754,Indiana Pacers,2,2,41,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070106,NOK,IND
+Shot Chart Detail,0020600493,281,1733,Al Harrington,1610612754,Indiana Pacers,3,7,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,176,164,1,1,20070106,NOK,IND
+Shot Chart Detail,0020600493,307,1733,Al Harrington,1610612754,Indiana Pacers,3,4,52,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,57,45,1,1,20070106,NOK,IND
+Shot Chart Detail,0020600493,318,1733,Al Harrington,1610612754,Indiana Pacers,3,3,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070106,NOK,IND
+Shot Chart Detail,0020600493,353,1733,Al Harrington,1610612754,Indiana Pacers,3,0,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-154,33,1,1,20070106,NOK,IND
+Shot Chart Detail,0020600509,219,1733,Al Harrington,1610612754,Indiana Pacers,2,1,2,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-159,0,1,1,20070109,IND,ATL
+Shot Chart Detail,0020600509,254,1733,Al Harrington,1610612754,Indiana Pacers,3,9,27,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-11,45,1,1,20070109,IND,ATL
+Shot Chart Detail,0020600509,260,1733,Al Harrington,1610612754,Indiana Pacers,3,8,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,5,1,1,20070109,IND,ATL
+Shot Chart Detail,0020600509,270,1733,Al Harrington,1610612754,Indiana Pacers,3,7,19,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-241,-16,1,1,20070109,IND,ATL
+Shot Chart Detail,0020600509,281,1733,Al Harrington,1610612754,Indiana Pacers,3,6,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,2,1,1,20070109,IND,ATL
+Shot Chart Detail,0020600509,305,1733,Al Harrington,1610612754,Indiana Pacers,3,3,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,218,130,1,1,20070109,IND,ATL
+Shot Chart Detail,0020600518,271,1733,Al Harrington,1610612754,Indiana Pacers,3,7,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-164,181,1,1,20070110,BOS,IND
+Shot Chart Detail,0020600531,392,1733,Al Harrington,1610612754,Indiana Pacers,4,9,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,12,1,1,20070112,IND,DAL
+Shot Chart Detail,0020600560,35,1733,Al Harrington,1610612754,Indiana Pacers,1,6,54,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-54,160,1,1,20070115,NJN,IND
+Shot Chart Detail,0020600560,138,1733,Al Harrington,1610612754,Indiana Pacers,2,8,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070115,NJN,IND
+Shot Chart Detail,0020600560,183,1733,Al Harrington,1610612754,Indiana Pacers,2,5,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,123,114,1,1,20070115,NJN,IND
+Shot Chart Detail,0020600560,191,1733,Al Harrington,1610612754,Indiana Pacers,2,4,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070115,NJN,IND
+Shot Chart Detail,0020600560,318,1733,Al Harrington,1610612754,Indiana Pacers,3,4,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-94,230,1,1,20070115,NJN,IND
+Shot Chart Detail,0020600560,399,1733,Al Harrington,1610612754,Indiana Pacers,4,9,35,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,-6,1,1,20070115,NJN,IND
+Shot Chart Detail,0020600560,408,1733,Al Harrington,1610612754,Indiana Pacers,4,8,24,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070115,NJN,IND
+Shot Chart Detail,0020600601,129,1733,Al Harrington,1610612744,Golden State Warriors,1,0,34,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,5,1,1,20070120,GSW,CLE
+Shot Chart Detail,0020600601,133,1733,Al Harrington,1610612744,Golden State Warriors,1,0,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-29,265,1,1,20070120,GSW,CLE
+Shot Chart Detail,0020600601,142,1733,Al Harrington,1610612744,Golden State Warriors,2,11,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-156,92,1,1,20070120,GSW,CLE
+Shot Chart Detail,0020600601,267,1733,Al Harrington,1610612744,Golden State Warriors,3,11,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-220,133,1,1,20070120,GSW,CLE
+Shot Chart Detail,0020600614,11,1733,Al Harrington,1610612744,Golden State Warriors,1,10,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-166,133,1,1,20070122,LAL,GSW
+Shot Chart Detail,0020600614,28,1733,Al Harrington,1610612744,Golden State Warriors,1,7,59,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070122,LAL,GSW
+Shot Chart Detail,0020600614,37,1733,Al Harrington,1610612744,Golden State Warriors,1,6,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070122,LAL,GSW
+Shot Chart Detail,0020600614,46,1733,Al Harrington,1610612744,Golden State Warriors,1,5,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-164,82,1,1,20070122,LAL,GSW
+Shot Chart Detail,0020600614,58,1733,Al Harrington,1610612744,Golden State Warriors,1,4,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070122,LAL,GSW
+Shot Chart Detail,0020600614,146,1733,Al Harrington,1610612744,Golden State Warriors,2,9,10,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-94,104,1,1,20070122,LAL,GSW
+Shot Chart Detail,0020600614,161,1733,Al Harrington,1610612744,Golden State Warriors,2,7,29,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,26,1,1,20070122,LAL,GSW
+Shot Chart Detail,0020600614,288,1733,Al Harrington,1610612744,Golden State Warriors,3,9,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070122,LAL,GSW
+Shot Chart Detail,0020600614,298,1733,Al Harrington,1610612744,Golden State Warriors,3,8,1,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070122,LAL,GSW
+Shot Chart Detail,0020600614,321,1733,Al Harrington,1610612744,Golden State Warriors,3,6,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-125,237,1,1,20070122,LAL,GSW
+Shot Chart Detail,0020600614,342,1733,Al Harrington,1610612744,Golden State Warriors,3,3,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070122,LAL,GSW
+Shot Chart Detail,0020600614,359,1733,Al Harrington,1610612744,Golden State Warriors,3,1,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070122,LAL,GSW
+Shot Chart Detail,0020600614,429,1733,Al Harrington,1610612744,Golden State Warriors,4,8,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,187,-5,1,1,20070122,LAL,GSW
+Shot Chart Detail,0020600631,58,1733,Al Harrington,1610612744,Golden State Warriors,1,5,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,13,1,1,20070124,GSW,NJN
+Shot Chart Detail,0020600631,175,1733,Al Harrington,1610612744,Golden State Warriors,2,6,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,15,1,1,20070124,GSW,NJN
+Shot Chart Detail,0020600631,212,1733,Al Harrington,1610612744,Golden State Warriors,2,3,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,12,1,1,20070124,GSW,NJN
+Shot Chart Detail,0020600631,217,1733,Al Harrington,1610612744,Golden State Warriors,2,3,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,8,1,1,20070124,GSW,NJN
+Shot Chart Detail,0020600631,232,1733,Al Harrington,1610612744,Golden State Warriors,2,2,20,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,13,1,1,20070124,GSW,NJN
+Shot Chart Detail,0020600631,249,1733,Al Harrington,1610612744,Golden State Warriors,2,0,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,153,225,1,1,20070124,GSW,NJN
+Shot Chart Detail,0020600631,327,1733,Al Harrington,1610612744,Golden State Warriors,3,4,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,75,173,1,1,20070124,GSW,NJN
+Shot Chart Detail,0020600631,448,1733,Al Harrington,1610612744,Golden State Warriors,4,4,46,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-3,45,1,1,20070124,GSW,NJN
+Shot Chart Detail,0020600631,471,1733,Al Harrington,1610612744,Golden State Warriors,4,2,36,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,-9,1,1,20070124,GSW,NJN
+Shot Chart Detail,0020600631,480,1733,Al Harrington,1610612744,Golden State Warriors,4,2,11,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070124,GSW,NJN
+Shot Chart Detail,0020600654,2,1733,Al Harrington,1610612744,Golden State Warriors,1,11,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-199,155,1,1,20070127,GSW,CHA
+Shot Chart Detail,0020600654,5,1733,Al Harrington,1610612744,Golden State Warriors,1,11,7,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,33,1,1,20070127,GSW,CHA
+Shot Chart Detail,0020600654,27,1733,Al Harrington,1610612744,Golden State Warriors,1,8,19,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,-1,1,1,20070127,GSW,CHA
+Shot Chart Detail,0020600654,70,1733,Al Harrington,1610612744,Golden State Warriors,1,3,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-174,179,1,1,20070127,GSW,CHA
+Shot Chart Detail,0020600654,137,1733,Al Harrington,1610612744,Golden State Warriors,2,10,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-49,253,1,1,20070127,GSW,CHA
+Shot Chart Detail,0020600654,173,1733,Al Harrington,1610612744,Golden State Warriors,2,7,45,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,0,137,1,1,20070127,GSW,CHA
+Shot Chart Detail,0020600654,241,1733,Al Harrington,1610612744,Golden State Warriors,2,2,33,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-6,76,1,1,20070127,GSW,CHA
+Shot Chart Detail,0020600654,283,1733,Al Harrington,1610612744,Golden State Warriors,3,9,57,Made Shot,Running Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,20,1,1,20070127,GSW,CHA
+Shot Chart Detail,0020600654,347,1733,Al Harrington,1610612744,Golden State Warriors,3,4,11,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070127,GSW,CHA
+Shot Chart Detail,0020600669,78,1733,Al Harrington,1610612744,Golden State Warriors,1,4,9,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-3,-3,1,1,20070130,CLE,GSW
+Shot Chart Detail,0020600669,256,1733,Al Harrington,1610612744,Golden State Warriors,2,2,52,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,3,-5,1,1,20070130,CLE,GSW
+Shot Chart Detail,0020600669,342,1733,Al Harrington,1610612744,Golden State Warriors,3,6,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,126,178,1,1,20070130,CLE,GSW
+Shot Chart Detail,0020600669,500,1733,Al Harrington,1610612744,Golden State Warriors,4,6,8,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,-1,1,1,20070130,CLE,GSW
+Shot Chart Detail,0020600676,31,1733,Al Harrington,1610612744,Golden State Warriors,1,8,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070131,ATL,GSW
+Shot Chart Detail,0020600676,65,1733,Al Harrington,1610612744,Golden State Warriors,1,4,21,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070131,ATL,GSW
+Shot Chart Detail,0020600676,104,1733,Al Harrington,1610612744,Golden State Warriors,1,0,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070131,ATL,GSW
+Shot Chart Detail,0020600676,242,1733,Al Harrington,1610612744,Golden State Warriors,2,1,9,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070131,ATL,GSW
+Shot Chart Detail,0020600676,250,1733,Al Harrington,1610612744,Golden State Warriors,2,0,33,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-31,81,1,1,20070131,ATL,GSW
+Shot Chart Detail,0020600676,307,1733,Al Harrington,1610612744,Golden State Warriors,3,6,31,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070131,ATL,GSW
+Shot Chart Detail,0020600676,339,1733,Al Harrington,1610612744,Golden State Warriors,3,4,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-118,155,1,1,20070131,ATL,GSW
+Shot Chart Detail,0020600689,31,1733,Al Harrington,1610612744,Golden State Warriors,1,8,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,161,12,1,1,20070202,PHI,GSW
+Shot Chart Detail,0020600689,129,1733,Al Harrington,1610612744,Golden State Warriors,2,10,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-6,255,1,1,20070202,PHI,GSW
+Shot Chart Detail,0020600689,269,1733,Al Harrington,1610612744,Golden State Warriors,3,10,39,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070202,PHI,GSW
+Shot Chart Detail,0020600689,488,1733,Al Harrington,1610612744,Golden State Warriors,4,0,1,Made Shot,Driving Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-21,25,1,1,20070202,PHI,GSW
+Shot Chart Detail,0020600700,71,1733,Al Harrington,1610612744,Golden State Warriors,1,4,12,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,26,1,1,20070203,CHA,GSW
+Shot Chart Detail,0020600700,91,1733,Al Harrington,1610612744,Golden State Warriors,1,1,38,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070203,CHA,GSW
+Shot Chart Detail,0020600700,181,1733,Al Harrington,1610612744,Golden State Warriors,2,4,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070203,CHA,GSW
+Shot Chart Detail,0020600700,189,1733,Al Harrington,1610612744,Golden State Warriors,2,3,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-143,13,1,1,20070203,CHA,GSW
+Shot Chart Detail,0020600700,387,1733,Al Harrington,1610612744,Golden State Warriors,4,9,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-39,191,1,1,20070203,CHA,GSW
+Shot Chart Detail,0020600700,402,1733,Al Harrington,1610612744,Golden State Warriors,4,8,16,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-136,59,1,1,20070203,CHA,GSW
+Shot Chart Detail,0020600700,405,1733,Al Harrington,1610612744,Golden State Warriors,4,7,26,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-11,58,1,1,20070203,CHA,GSW
+Shot Chart Detail,0020600715,2,1733,Al Harrington,1610612744,Golden State Warriors,1,11,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-62,248,1,1,20070205,IND,GSW
+Shot Chart Detail,0020600715,8,1733,Al Harrington,1610612744,Golden State Warriors,1,10,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,98,156,1,1,20070205,IND,GSW
+Shot Chart Detail,0020600715,27,1733,Al Harrington,1610612744,Golden State Warriors,1,9,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-163,-1,1,1,20070205,IND,GSW
+Shot Chart Detail,0020600715,107,1733,Al Harrington,1610612744,Golden State Warriors,1,0,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,148,217,1,1,20070205,IND,GSW
+Shot Chart Detail,0020600715,305,1733,Al Harrington,1610612744,Golden State Warriors,3,7,10,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,1,33,1,1,20070205,IND,GSW
+Shot Chart Detail,0020600715,461,1733,Al Harrington,1610612744,Golden State Warriors,4,7,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-149,201,1,1,20070205,IND,GSW
+Shot Chart Detail,0020600732,10,1733,Al Harrington,1610612744,Golden State Warriors,1,10,28,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-164,12,1,1,20070207,MIN,GSW
+Shot Chart Detail,0020600732,77,1733,Al Harrington,1610612744,Golden State Warriors,1,2,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070207,MIN,GSW
+Shot Chart Detail,0020600732,120,1733,Al Harrington,1610612744,Golden State Warriors,2,9,58,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070207,MIN,GSW
+Shot Chart Detail,0020600732,201,1733,Al Harrington,1610612744,Golden State Warriors,2,2,52,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-64,38,1,1,20070207,MIN,GSW
+Shot Chart Detail,0020600732,295,1733,Al Harrington,1610612744,Golden State Warriors,3,5,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-163,201,1,1,20070207,MIN,GSW
+Shot Chart Detail,0020600732,379,1733,Al Harrington,1610612744,Golden State Warriors,4,9,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070207,MIN,GSW
+Shot Chart Detail,0020600748,2,1733,Al Harrington,1610612744,Golden State Warriors,1,11,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,108,237,1,1,20070209,GSW,CHI
+Shot Chart Detail,0020600748,12,1733,Al Harrington,1610612744,Golden State Warriors,1,10,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-154,95,1,1,20070209,GSW,CHI
+Shot Chart Detail,0020600748,23,1733,Al Harrington,1610612744,Golden State Warriors,1,9,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-159,15,1,1,20070209,GSW,CHI
+Shot Chart Detail,0020600748,42,1733,Al Harrington,1610612744,Golden State Warriors,1,7,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,52,247,1,1,20070209,GSW,CHI
+Shot Chart Detail,0020600748,87,1733,Al Harrington,1610612744,Golden State Warriors,1,3,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-154,100,1,1,20070209,GSW,CHI
+Shot Chart Detail,0020600748,142,1733,Al Harrington,1610612744,Golden State Warriors,2,11,23,Made Shot,Turnaround Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,24,26,1,1,20070209,GSW,CHI
+Shot Chart Detail,0020600748,153,1733,Al Harrington,1610612744,Golden State Warriors,2,9,44,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-174,3,1,1,20070209,GSW,CHI
+Shot Chart Detail,0020600748,180,1733,Al Harrington,1610612744,Golden State Warriors,2,7,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-205,5,1,1,20070209,GSW,CHI
+Shot Chart Detail,0020600748,397,1733,Al Harrington,1610612744,Golden State Warriors,3,2,23,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,12,1,1,20070209,GSW,CHI
+Shot Chart Detail,0020600748,502,1733,Al Harrington,1610612744,Golden State Warriors,4,5,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-77,245,1,1,20070209,GSW,CHI
+Shot Chart Detail,0020600763,3,1733,Al Harrington,1610612744,Golden State Warriors,1,11,44,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-133,63,1,1,20070211,GSW,ATL
+Shot Chart Detail,0020600763,87,1733,Al Harrington,1610612744,Golden State Warriors,1,3,26,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,49,31,1,1,20070211,GSW,ATL
+Shot Chart Detail,0020600763,277,1733,Al Harrington,1610612744,Golden State Warriors,3,8,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,17,1,1,20070211,GSW,ATL
+Shot Chart Detail,0020600766,4,1733,Al Harrington,1610612744,Golden State Warriors,1,11,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,23,210,114,1,1,20070212,DEN,GSW
+Shot Chart Detail,0020600766,11,1733,Al Harrington,1610612744,Golden State Warriors,1,10,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,18,247,1,1,20070212,DEN,GSW
+Shot Chart Detail,0020600766,16,1733,Al Harrington,1610612744,Golden State Warriors,1,9,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,36,201,1,1,20070212,DEN,GSW
+Shot Chart Detail,0020600766,76,1733,Al Harrington,1610612744,Golden State Warriors,1,3,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-148,26,1,1,20070212,DEN,GSW
+Shot Chart Detail,0020600766,113,1733,Al Harrington,1610612744,Golden State Warriors,1,0,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070212,DEN,GSW
+Shot Chart Detail,0020600766,232,1733,Al Harrington,1610612744,Golden State Warriors,2,1,15,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070212,DEN,GSW
+Shot Chart Detail,0020600766,284,1733,Al Harrington,1610612744,Golden State Warriors,3,9,17,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-34,100,1,1,20070212,DEN,GSW
+Shot Chart Detail,0020600766,302,1733,Al Harrington,1610612744,Golden State Warriors,3,7,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070212,DEN,GSW
+Shot Chart Detail,0020600766,314,1733,Al Harrington,1610612744,Golden State Warriors,3,6,0,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-20,43,1,1,20070212,DEN,GSW
+Shot Chart Detail,0020600766,367,1733,Al Harrington,1610612744,Golden State Warriors,3,1,1,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070212,DEN,GSW
+Shot Chart Detail,0020600766,389,1733,Al Harrington,1610612744,Golden State Warriors,4,10,40,Made Shot,Driving Finger Roll Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070212,DEN,GSW
+Shot Chart Detail,0020600787,60,1733,Al Harrington,1610612744,Golden State Warriors,1,5,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-177,176,1,1,20070214,GSW,NYK
+Shot Chart Detail,0020600787,92,1733,Al Harrington,1610612744,Golden State Warriors,1,2,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,5,1,1,20070214,GSW,NYK
+Shot Chart Detail,0020600787,122,1733,Al Harrington,1610612744,Golden State Warriors,2,10,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-135,72,1,1,20070214,GSW,NYK
+Shot Chart Detail,0020600787,182,1733,Al Harrington,1610612744,Golden State Warriors,2,4,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,138,69,1,1,20070214,GSW,NYK
+Shot Chart Detail,0020600787,266,1733,Al Harrington,1610612744,Golden State Warriors,3,9,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-74,238,1,1,20070214,GSW,NYK
+Shot Chart Detail,0020600787,282,1733,Al Harrington,1610612744,Golden State Warriors,3,8,43,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070214,GSW,NYK
+Shot Chart Detail,0020600787,435,1733,Al Harrington,1610612744,Golden State Warriors,4,5,4,Made Shot,Driving Finger Roll Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,12,1,1,20070214,GSW,NYK
+Shot Chart Detail,0020600810,34,1733,Al Harrington,1610612744,Golden State Warriors,1,7,11,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070221,GSW,MEM
+Shot Chart Detail,0020600810,193,1733,Al Harrington,1610612744,Golden State Warriors,2,5,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,15,1,1,20070221,GSW,MEM
+Shot Chart Detail,0020600810,211,1733,Al Harrington,1610612744,Golden State Warriors,2,4,21,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-51,64,1,1,20070221,GSW,MEM
+Shot Chart Detail,0020600810,245,1733,Al Harrington,1610612744,Golden State Warriors,2,0,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,36,248,1,1,20070221,GSW,MEM
+Shot Chart Detail,0020600810,277,1733,Al Harrington,1610612744,Golden State Warriors,3,10,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,17,1,1,20070221,GSW,MEM
+Shot Chart Detail,0020600810,288,1733,Al Harrington,1610612744,Golden State Warriors,3,9,7,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,138,79,1,1,20070221,GSW,MEM
+Shot Chart Detail,0020600810,326,1733,Al Harrington,1610612744,Golden State Warriors,3,5,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-131,138,1,1,20070221,GSW,MEM
+Shot Chart Detail,0020600810,397,1733,Al Harrington,1610612744,Golden State Warriors,4,11,2,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,-1,1,1,20070221,GSW,MEM
+Shot Chart Detail,0020600810,554,1733,Al Harrington,1610612744,Golden State Warriors,5,1,2,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-85,135,1,1,20070221,GSW,MEM
+Shot Chart Detail,0020600826,11,1733,Al Harrington,1610612744,Golden State Warriors,1,10,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070224,LAC,GSW
+Shot Chart Detail,0020600826,22,1733,Al Harrington,1610612744,Golden State Warriors,1,9,12,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070224,LAC,GSW
+Shot Chart Detail,0020600826,38,1733,Al Harrington,1610612744,Golden State Warriors,1,7,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,192,-1,1,1,20070224,LAC,GSW
+Shot Chart Detail,0020600826,75,1733,Al Harrington,1610612744,Golden State Warriors,1,4,2,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-15,77,1,1,20070224,LAC,GSW
+Shot Chart Detail,0020600826,221,1733,Al Harrington,1610612744,Golden State Warriors,2,2,38,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,5,125,1,1,20070224,LAC,GSW
+Shot Chart Detail,0020600826,226,1733,Al Harrington,1610612744,Golden State Warriors,2,2,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070224,LAC,GSW
+Shot Chart Detail,0020600826,260,1733,Al Harrington,1610612744,Golden State Warriors,3,10,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,172,178,1,1,20070224,LAC,GSW
+Shot Chart Detail,0020600826,284,1733,Al Harrington,1610612744,Golden State Warriors,3,8,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,13,210,1,1,20070224,LAC,GSW
+Shot Chart Detail,0020600826,295,1733,Al Harrington,1610612744,Golden State Warriors,3,6,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-131,220,1,1,20070224,LAC,GSW
+Shot Chart Detail,0020600826,327,1733,Al Harrington,1610612744,Golden State Warriors,3,3,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,112,238,1,1,20070224,LAC,GSW
+Shot Chart Detail,0020600838,50,1733,Al Harrington,1610612744,Golden State Warriors,1,6,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,15,1,1,20070225,GSW,LAL
+Shot Chart Detail,0020600838,211,1733,Al Harrington,1610612744,Golden State Warriors,2,4,4,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-64,30,1,1,20070225,GSW,LAL
+Shot Chart Detail,0020600838,421,1733,Al Harrington,1610612744,Golden State Warriors,4,6,25,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-123,8,1,1,20070225,GSW,LAL
+Shot Chart Detail,0020600853,5,1733,Al Harrington,1610612744,Golden State Warriors,1,11,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-164,36,1,1,20070227,MIL,GSW
+Shot Chart Detail,0020600853,14,1733,Al Harrington,1610612744,Golden State Warriors,1,10,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,140,84,1,1,20070227,MIL,GSW
+Shot Chart Detail,0020600853,16,1733,Al Harrington,1610612744,Golden State Warriors,1,9,32,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-39,26,1,1,20070227,MIL,GSW
+Shot Chart Detail,0020600853,33,1733,Al Harrington,1610612744,Golden State Warriors,1,7,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-161,209,1,1,20070227,MIL,GSW
+Shot Chart Detail,0020600853,58,1733,Al Harrington,1610612744,Golden State Warriors,1,5,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-112,-26,1,1,20070227,MIL,GSW
+Shot Chart Detail,0020600853,113,1733,Al Harrington,1610612744,Golden State Warriors,2,10,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,90,-16,1,1,20070227,MIL,GSW
+Shot Chart Detail,0020600853,126,1733,Al Harrington,1610612744,Golden State Warriors,2,9,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070227,MIL,GSW
+Shot Chart Detail,0020600860,158,1733,Al Harrington,1610612744,Golden State Warriors,2,8,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-13,148,1,1,20070228,CHI,GSW
+Shot Chart Detail,0020600860,199,1733,Al Harrington,1610612744,Golden State Warriors,2,5,45,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070228,CHI,GSW
+Shot Chart Detail,0020600860,213,1733,Al Harrington,1610612744,Golden State Warriors,2,4,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070228,CHI,GSW
+Shot Chart Detail,0020600860,494,1733,Al Harrington,1610612744,Golden State Warriors,4,1,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,163,82,1,1,20070228,CHI,GSW
+Shot Chart Detail,0020600871,21,1733,Al Harrington,1610612744,Golden State Warriors,1,9,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-131,0,1,1,20070302,NYK,GSW
+Shot Chart Detail,0020600871,25,1733,Al Harrington,1610612744,Golden State Warriors,1,8,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-151,-21,1,1,20070302,NYK,GSW
+Shot Chart Detail,0020600871,43,1733,Al Harrington,1610612744,Golden State Warriors,1,7,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-122,158,1,1,20070302,NYK,GSW
+Shot Chart Detail,0020600871,99,1733,Al Harrington,1610612744,Golden State Warriors,1,2,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-133,-9,1,1,20070302,NYK,GSW
+Shot Chart Detail,0020600871,146,1733,Al Harrington,1610612744,Golden State Warriors,2,9,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070302,NYK,GSW
+Shot Chart Detail,0020600871,183,1733,Al Harrington,1610612744,Golden State Warriors,2,6,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-164,191,1,1,20070302,NYK,GSW
+Shot Chart Detail,0020600871,225,1733,Al Harrington,1610612744,Golden State Warriors,2,1,11,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,-36,1,1,20070302,NYK,GSW
+Shot Chart Detail,0020600871,245,1733,Al Harrington,1610612744,Golden State Warriors,3,11,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,220,120,1,1,20070302,NYK,GSW
+Shot Chart Detail,0020600871,270,1733,Al Harrington,1610612744,Golden State Warriors,3,7,40,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-131,-14,1,1,20070302,NYK,GSW
+Shot Chart Detail,0020600871,479,1733,Al Harrington,1610612744,Golden State Warriors,4,0,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,213,140,1,1,20070302,NYK,GSW
+Shot Chart Detail,0020600888,4,1733,Al Harrington,1610612744,Golden State Warriors,1,11,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-182,8,1,1,20070304,WAS,GSW
+Shot Chart Detail,0020600888,7,1733,Al Harrington,1610612744,Golden State Warriors,1,10,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,141,74,1,1,20070304,WAS,GSW
+Shot Chart Detail,0020600888,31,1733,Al Harrington,1610612744,Golden State Warriors,1,8,57,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,22,1,1,20070304,WAS,GSW
+Shot Chart Detail,0020600888,38,1733,Al Harrington,1610612744,Golden State Warriors,1,8,6,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-187,-14,1,1,20070304,WAS,GSW
+Shot Chart Detail,0020600888,259,1733,Al Harrington,1610612744,Golden State Warriors,2,1,24,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,7,1,1,20070304,WAS,GSW
+Shot Chart Detail,0020600888,268,1733,Al Harrington,1610612744,Golden State Warriors,2,0,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-6,1,1,20070304,WAS,GSW
+Shot Chart Detail,0020600888,333,1733,Al Harrington,1610612744,Golden State Warriors,3,5,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,7,1,1,20070304,WAS,GSW
+Shot Chart Detail,0020600888,348,1733,Al Harrington,1610612744,Golden State Warriors,3,4,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,3,1,1,20070304,WAS,GSW
+Shot Chart Detail,0020600888,435,1733,Al Harrington,1610612744,Golden State Warriors,4,8,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,2,1,1,20070304,WAS,GSW
+Shot Chart Detail,0020600897,64,1733,Al Harrington,1610612744,Golden State Warriors,1,4,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-181,18,1,1,20070305,DET,GSW
+Shot Chart Detail,0020600897,89,1733,Al Harrington,1610612744,Golden State Warriors,1,1,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070305,DET,GSW
+Shot Chart Detail,0020600897,221,1733,Al Harrington,1610612744,Golden State Warriors,2,0,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-117,87,1,1,20070305,DET,GSW
+Shot Chart Detail,0020600897,240,1733,Al Harrington,1610612744,Golden State Warriors,3,11,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070305,DET,GSW
+Shot Chart Detail,0020600897,272,1733,Al Harrington,1610612744,Golden State Warriors,3,7,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-154,199,1,1,20070305,DET,GSW
+Shot Chart Detail,0020600897,279,1733,Al Harrington,1610612744,Golden State Warriors,3,6,35,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,-21,1,1,20070305,DET,GSW
+Shot Chart Detail,0020600897,421,1733,Al Harrington,1610612744,Golden State Warriors,4,3,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070305,DET,GSW
+Shot Chart Detail,0020600916,46,1733,Al Harrington,1610612744,Golden State Warriors,1,6,41,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-5,25,1,1,20070307,GSW,DEN
+Shot Chart Detail,0020600916,52,1733,Al Harrington,1610612744,Golden State Warriors,1,6,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-172,201,1,1,20070307,GSW,DEN
+Shot Chart Detail,0020600916,75,1733,Al Harrington,1610612744,Golden State Warriors,1,3,48,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,238,-9,1,1,20070307,GSW,DEN
+Shot Chart Detail,0020600916,113,1733,Al Harrington,1610612744,Golden State Warriors,1,1,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-51,150,1,1,20070307,GSW,DEN
+Shot Chart Detail,0020600916,276,1733,Al Harrington,1610612744,Golden State Warriors,3,9,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-3,258,1,1,20070307,GSW,DEN
+Shot Chart Detail,0020600916,315,1733,Al Harrington,1610612744,Golden State Warriors,3,5,36,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070307,GSW,DEN
+Shot Chart Detail,0020600916,485,1733,Al Harrington,1610612744,Golden State Warriors,4,1,32,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070307,GSW,DEN
+Shot Chart Detail,0020600926,23,1733,Al Harrington,1610612744,Golden State Warriors,1,9,16,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-26,118,1,1,20070309,GSW,LAC
+Shot Chart Detail,0020600926,28,1733,Al Harrington,1610612744,Golden State Warriors,1,8,37,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070309,GSW,LAC
+Shot Chart Detail,0020600926,123,1733,Al Harrington,1610612744,Golden State Warriors,1,0,12,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,17,1,1,20070309,GSW,LAC
+Shot Chart Detail,0020600926,136,1733,Al Harrington,1610612744,Golden State Warriors,2,11,22,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-20,25,1,1,20070309,GSW,LAC
+Shot Chart Detail,0020600926,156,1733,Al Harrington,1610612744,Golden State Warriors,2,9,11,Made Shot,Driving Finger Roll Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-20,26,1,1,20070309,GSW,LAC
+Shot Chart Detail,0020600926,349,1733,Al Harrington,1610612744,Golden State Warriors,3,0,55,Made Shot,Follow Up Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070309,GSW,LAC
+Shot Chart Detail,0020600942,37,1733,Al Harrington,1610612744,Golden State Warriors,1,7,36,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,12,1,1,20070311,POR,GSW
+Shot Chart Detail,0020600942,43,1733,Al Harrington,1610612744,Golden State Warriors,1,6,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070311,POR,GSW
+Shot Chart Detail,0020600942,167,1733,Al Harrington,1610612744,Golden State Warriors,2,6,7,Made Shot,Follow Up Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070311,POR,GSW
+Shot Chart Detail,0020600942,193,1733,Al Harrington,1610612744,Golden State Warriors,2,4,2,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070311,POR,GSW
+Shot Chart Detail,0020600942,203,1733,Al Harrington,1610612744,Golden State Warriors,2,3,23,Made Shot,Jump Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,13,30,1,1,20070311,POR,GSW
+Shot Chart Detail,0020600942,242,1733,Al Harrington,1610612744,Golden State Warriors,3,11,23,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,222,-1,1,1,20070311,POR,GSW
+Shot Chart Detail,0020600947,11,1733,Al Harrington,1610612744,Golden State Warriors,1,10,8,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,39,18,1,1,20070312,GSW,DAL
+Shot Chart Detail,0020600947,37,1733,Al Harrington,1610612744,Golden State Warriors,1,7,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-94,243,1,1,20070312,GSW,DAL
+Shot Chart Detail,0020600947,122,1733,Al Harrington,1610612744,Golden State Warriors,2,11,3,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,0,86,1,1,20070312,GSW,DAL
+Shot Chart Detail,0020600947,287,1733,Al Harrington,1610612744,Golden State Warriors,3,8,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-108,224,1,1,20070312,GSW,DAL
+Shot Chart Detail,0020600947,338,1733,Al Harrington,1610612744,Golden State Warriors,3,4,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-15,15,1,1,20070312,GSW,DAL
+Shot Chart Detail,0020600978,32,1733,Al Harrington,1610612744,Golden State Warriors,1,8,44,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-18,10,1,1,20070316,GSW,MIN
+Shot Chart Detail,0020600978,52,1733,Al Harrington,1610612744,Golden State Warriors,1,7,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,144,117,1,1,20070316,GSW,MIN
+Shot Chart Detail,0020600978,299,1733,Al Harrington,1610612744,Golden State Warriors,3,5,50,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,-5,1,1,20070316,GSW,MIN
+Shot Chart Detail,0020600978,313,1733,Al Harrington,1610612744,Golden State Warriors,3,4,19,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,22,1,1,20070316,GSW,MIN
+Shot Chart Detail,0020600987,7,1733,Al Harrington,1610612744,Golden State Warriors,1,11,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-202,51,1,1,20070317,SEA,GSW
+Shot Chart Detail,0020600987,52,1733,Al Harrington,1610612744,Golden State Warriors,1,7,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070317,SEA,GSW
+Shot Chart Detail,0020600987,92,1733,Al Harrington,1610612744,Golden State Warriors,1,3,40,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,228,68,1,1,20070317,SEA,GSW
+Shot Chart Detail,0020600987,97,1733,Al Harrington,1610612744,Golden State Warriors,1,3,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070317,SEA,GSW
+Shot Chart Detail,0020600987,107,1733,Al Harrington,1610612744,Golden State Warriors,1,2,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-8,253,1,1,20070317,SEA,GSW
+Shot Chart Detail,0020600987,266,1733,Al Harrington,1610612744,Golden State Warriors,2,0,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070317,SEA,GSW
+Shot Chart Detail,0020600987,309,1733,Al Harrington,1610612744,Golden State Warriors,3,8,47,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070317,SEA,GSW
+Shot Chart Detail,0020600987,319,1733,Al Harrington,1610612744,Golden State Warriors,3,7,22,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070317,SEA,GSW
+Shot Chart Detail,0020601003,9,1733,Al Harrington,1610612744,Golden State Warriors,1,10,43,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,22,1,1,20070320,UTA,GSW
+Shot Chart Detail,0020601003,29,1733,Al Harrington,1610612744,Golden State Warriors,1,8,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,156,183,1,1,20070320,UTA,GSW
+Shot Chart Detail,0020601003,90,1733,Al Harrington,1610612744,Golden State Warriors,1,1,39,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070320,UTA,GSW
+Shot Chart Detail,0020601003,126,1733,Al Harrington,1610612744,Golden State Warriors,2,9,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,112,219,1,1,20070320,UTA,GSW
+Shot Chart Detail,0020601003,128,1733,Al Harrington,1610612744,Golden State Warriors,2,9,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,159,191,1,1,20070320,UTA,GSW
+Shot Chart Detail,0020601003,151,1733,Al Harrington,1610612744,Golden State Warriors,2,6,42,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,15,1,1,20070320,UTA,GSW
+Shot Chart Detail,0020601003,249,1733,Al Harrington,1610612744,Golden State Warriors,3,9,46,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,174,82,1,1,20070320,UTA,GSW
+Shot Chart Detail,0020601003,438,1733,Al Harrington,1610612744,Golden State Warriors,4,1,23,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,-11,1,1,20070320,UTA,GSW
+Shot Chart Detail,0020601003,449,1733,Al Harrington,1610612744,Golden State Warriors,4,0,0,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,68,1,1,20070320,UTA,GSW
+Shot Chart Detail,0020601030,54,1733,Al Harrington,1610612744,Golden State Warriors,1,6,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-10,20,1,1,20070323,GSW,WAS
+Shot Chart Detail,0020601030,65,1733,Al Harrington,1610612744,Golden State Warriors,1,4,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,130,229,1,1,20070323,GSW,WAS
+Shot Chart Detail,0020601030,376,1733,Al Harrington,1610612744,Golden State Warriors,3,3,31,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070323,GSW,WAS
+Shot Chart Detail,0020601030,472,1733,Al Harrington,1610612744,Golden State Warriors,4,5,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,5,1,1,20070323,GSW,WAS
+Shot Chart Detail,0020601044,11,1733,Al Harrington,1610612744,Golden State Warriors,1,11,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070325,LAL,GSW
+Shot Chart Detail,0020601044,24,1733,Al Harrington,1610612744,Golden State Warriors,1,9,8,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,94,122,1,1,20070325,LAL,GSW
+Shot Chart Detail,0020601044,55,1733,Al Harrington,1610612744,Golden State Warriors,1,5,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,16,252,1,1,20070325,LAL,GSW
+Shot Chart Detail,0020601044,227,1733,Al Harrington,1610612744,Golden State Warriors,2,3,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,62,245,1,1,20070325,LAL,GSW
+Shot Chart Detail,0020601044,310,1733,Al Harrington,1610612744,Golden State Warriors,3,8,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-177,61,1,1,20070325,LAL,GSW
+Shot Chart Detail,0020601044,323,1733,Al Harrington,1610612744,Golden State Warriors,3,7,13,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-3,49,1,1,20070325,LAL,GSW
+Shot Chart Detail,0020601044,351,1733,Al Harrington,1610612744,Golden State Warriors,3,4,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-141,38,1,1,20070325,LAL,GSW
+Shot Chart Detail,0020601044,403,1733,Al Harrington,1610612744,Golden State Warriors,3,0,15,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070325,LAL,GSW
+Shot Chart Detail,0020601071,12,1733,Al Harrington,1610612744,Golden State Warriors,1,10,29,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070329,GSW,PHX
+Shot Chart Detail,0020601071,250,1733,Al Harrington,1610612744,Golden State Warriors,3,11,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,103,160,1,1,20070329,GSW,PHX
+Shot Chart Detail,0020601093,29,1733,Al Harrington,1610612744,Golden State Warriors,1,8,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-107,122,1,1,20070401,GSW,MEM
+Shot Chart Detail,0020601093,49,1733,Al Harrington,1610612744,Golden State Warriors,1,6,54,Made Shot,Follow Up Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070401,GSW,MEM
+Shot Chart Detail,0020601093,79,1733,Al Harrington,1610612744,Golden State Warriors,1,3,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-177,15,1,1,20070401,GSW,MEM
+Shot Chart Detail,0020601093,82,1733,Al Harrington,1610612744,Golden State Warriors,1,2,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,80,233,1,1,20070401,GSW,MEM
+Shot Chart Detail,0020601093,229,1733,Al Harrington,1610612744,Golden State Warriors,2,0,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-161,187,1,1,20070401,GSW,MEM
+Shot Chart Detail,0020601093,373,1733,Al Harrington,1610612744,Golden State Warriors,4,11,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-44,186,1,1,20070401,GSW,MEM
+Shot Chart Detail,0020601093,381,1733,Al Harrington,1610612744,Golden State Warriors,4,10,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-161,220,1,1,20070401,GSW,MEM
+Shot Chart Detail,0020601115,200,1733,Al Harrington,1610612744,Golden State Warriors,2,3,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-92,151,1,1,20070404,HOU,GSW
+Shot Chart Detail,0020601115,221,1733,Al Harrington,1610612744,Golden State Warriors,2,2,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-26,247,1,1,20070404,HOU,GSW
+Shot Chart Detail,0020601115,256,1733,Al Harrington,1610612744,Golden State Warriors,3,10,30,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070404,HOU,GSW
+Shot Chart Detail,0020601115,323,1733,Al Harrington,1610612744,Golden State Warriors,3,3,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-122,227,1,1,20070404,HOU,GSW
+Shot Chart Detail,0020601127,198,1733,Al Harrington,1610612744,Golden State Warriors,2,5,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-140,140,1,1,20070406,MEM,GSW
+Shot Chart Detail,0020601127,232,1733,Al Harrington,1610612744,Golden State Warriors,2,2,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-54,252,1,1,20070406,MEM,GSW
+Shot Chart Detail,0020601127,315,1733,Al Harrington,1610612744,Golden State Warriors,3,6,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070406,MEM,GSW
+Shot Chart Detail,0020601137,26,1733,Al Harrington,1610612744,Golden State Warriors,1,8,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,89,248,1,1,20070407,SAS,GSW
+Shot Chart Detail,0020601137,28,1733,Al Harrington,1610612744,Golden State Warriors,1,8,25,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,0,1,1,20070407,SAS,GSW
+Shot Chart Detail,0020601137,52,1733,Al Harrington,1610612744,Golden State Warriors,1,6,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-145,210,1,1,20070407,SAS,GSW
+Shot Chart Detail,0020601137,72,1733,Al Harrington,1610612744,Golden State Warriors,1,3,47,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-6,12,1,1,20070407,SAS,GSW
+Shot Chart Detail,0020601137,111,1733,Al Harrington,1610612744,Golden State Warriors,1,0,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,12,1,1,20070407,SAS,GSW
+Shot Chart Detail,0020601137,131,1733,Al Harrington,1610612744,Golden State Warriors,2,10,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-3,1,1,20070407,SAS,GSW
+Shot Chart Detail,0020601137,251,1733,Al Harrington,1610612744,Golden State Warriors,3,10,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-182,79,1,1,20070407,SAS,GSW
+Shot Chart Detail,0020601137,348,1733,Al Harrington,1610612744,Golden State Warriors,3,0,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-176,8,1,1,20070407,SAS,GSW
+Shot Chart Detail,0020601137,450,1733,Al Harrington,1610612744,Golden State Warriors,4,1,48,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,20,1,1,20070407,SAS,GSW
+Shot Chart Detail,0020601156,184,1733,Al Harrington,1610612744,Golden State Warriors,2,7,20,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,-3,1,1,20070409,GSW,UTA
+Shot Chart Detail,0020601156,187,1733,Al Harrington,1610612744,Golden State Warriors,2,6,54,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,8,1,1,20070409,GSW,UTA
+Shot Chart Detail,0020601156,248,1733,Al Harrington,1610612744,Golden State Warriors,2,2,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,8,1,1,20070409,GSW,UTA
+Shot Chart Detail,0020601156,301,1733,Al Harrington,1610612744,Golden State Warriors,3,10,18,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070409,GSW,UTA
+Shot Chart Detail,0020601156,318,1733,Al Harrington,1610612744,Golden State Warriors,3,7,54,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,10,1,1,20070409,GSW,UTA
+Shot Chart Detail,0020601156,324,1733,Al Harrington,1610612744,Golden State Warriors,3,7,20,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,10,1,1,20070409,GSW,UTA
+Shot Chart Detail,0020601184,42,1733,Al Harrington,1610612744,Golden State Warriors,1,7,14,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070413,SAC,GSW
+Shot Chart Detail,0020601184,49,1733,Al Harrington,1610612744,Golden State Warriors,1,6,21,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070413,SAC,GSW
+Shot Chart Detail,0020601184,442,1733,Al Harrington,1610612744,Golden State Warriors,4,10,55,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-57,31,1,1,20070413,SAC,GSW
+Shot Chart Detail,0020601184,457,1733,Al Harrington,1610612744,Golden State Warriors,4,8,50,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,18,1,1,20070413,SAC,GSW
+Shot Chart Detail,0020601184,461,1733,Al Harrington,1610612744,Golden State Warriors,4,7,56,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070413,SAC,GSW
+Shot Chart Detail,0020601198,30,1733,Al Harrington,1610612744,Golden State Warriors,1,8,51,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,89,155,1,1,20070415,GSW,MIN
+Shot Chart Detail,0020601198,42,1733,Al Harrington,1610612744,Golden State Warriors,1,7,46,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070415,GSW,MIN
+Shot Chart Detail,0020601198,283,1733,Al Harrington,1610612744,Golden State Warriors,3,8,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,13,1,1,20070415,GSW,MIN
+Shot Chart Detail,0020601198,303,1733,Al Harrington,1610612744,Golden State Warriors,3,6,5,Made Shot,Jump Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,8,35,1,1,20070415,GSW,MIN
+Shot Chart Detail,0020601198,309,1733,Al Harrington,1610612744,Golden State Warriors,3,5,5,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070415,GSW,MIN
+Shot Chart Detail,0020601198,342,1733,Al Harrington,1610612744,Golden State Warriors,3,1,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-100,238,1,1,20070415,GSW,MIN
+Shot Chart Detail,0020601198,351,1733,Al Harrington,1610612744,Golden State Warriors,3,0,55,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2,22,1,1,20070415,GSW,MIN
+Shot Chart Detail,0020601216,18,1733,Al Harrington,1610612744,Golden State Warriors,1,9,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-191,173,1,1,20070417,GSW,DAL
+Shot Chart Detail,0020601216,72,1733,Al Harrington,1610612744,Golden State Warriors,1,4,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-187,201,1,1,20070417,GSW,DAL
+Shot Chart Detail,0020601228,3,1733,Al Harrington,1610612744,Golden State Warriors,1,11,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-84,140,1,1,20070418,POR,GSW
+Shot Chart Detail,0020601228,18,1733,Al Harrington,1610612744,Golden State Warriors,1,9,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-23,247,1,1,20070418,POR,GSW
+Shot Chart Detail,0020601228,80,1733,Al Harrington,1610612744,Golden State Warriors,1,2,50,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,-5,1,1,20070418,POR,GSW
+Shot Chart Detail,0020601228,134,1733,Al Harrington,1610612744,Golden State Warriors,2,11,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070418,POR,GSW
+Shot Chart Detail,0020601228,265,1733,Al Harrington,1610612744,Golden State Warriors,3,10,29,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070418,POR,GSW
+Shot Chart Detail,0020601228,271,1733,Al Harrington,1610612744,Golden State Warriors,3,10,8,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070418,POR,GSW
+Shot Chart Detail,0020601228,319,1733,Al Harrington,1610612744,Golden State Warriors,3,4,34,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070418,POR,GSW
+Shot Chart Detail,0020601228,353,1733,Al Harrington,1610612744,Golden State Warriors,3,2,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070418,POR,GSW
+Shot Chart Detail,0020601228,368,1733,Al Harrington,1610612744,Golden State Warriors,3,0,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,6,189,1,1,20070418,POR,GSW
+Shot Chart Detail,0020601228,377,1733,Al Harrington,1610612744,Golden State Warriors,4,10,33,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070418,POR,GSW

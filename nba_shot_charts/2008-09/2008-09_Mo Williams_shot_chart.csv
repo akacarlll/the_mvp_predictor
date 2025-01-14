@@ -1,0 +1,527 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0020800001,32,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,8,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-153,198,1,1,20081028,BOS,CLE
+Shot Chart Detail,0020800001,48,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,6,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-160,66,1,1,20081028,BOS,CLE
+Shot Chart Detail,0020800001,311,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,6,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-201,142,1,1,20081028,BOS,CLE
+Shot Chart Detail,0020800001,511,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,1,18,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-201,148,1,1,20081028,BOS,CLE
+Shot Chart Detail,0020800016,8,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,10,51,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-49,86,1,1,20081030,CLE,CHA
+Shot Chart Detail,0020800016,111,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,0,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-139,116,1,1,20081030,CLE,CHA
+Shot Chart Detail,0020800016,141,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,9,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,-10,1,1,20081030,CLE,CHA
+Shot Chart Detail,0020800016,159,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,7,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,176,97,1,1,20081030,CLE,CHA
+Shot Chart Detail,0020800016,398,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,0,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,39,156,1,1,20081030,CLE,CHA
+Shot Chart Detail,0020800016,406,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,11,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-146,195,1,1,20081030,CLE,CHA
+Shot Chart Detail,0020800016,448,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,7,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,21,189,93,1,1,20081030,CLE,CHA
+Shot Chart Detail,0020800033,11,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,10,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-125,153,1,1,20081101,NOH,CLE
+Shot Chart Detail,0020800033,50,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,6,5,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,242,19,1,1,20081101,NOH,CLE
+Shot Chart Detail,0020800033,275,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,10,6,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,127,172,1,1,20081101,NOH,CLE
+Shot Chart Detail,0020800033,393,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,11,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081101,NOH,CLE
+Shot Chart Detail,0020800033,516,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,1,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081101,NOH,CLE
+Shot Chart Detail,0020800046,149,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,11,35,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-157,89,1,1,20081103,DAL,CLE
+Shot Chart Detail,0020800046,296,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,10,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,132,170,1,1,20081103,DAL,CLE
+Shot Chart Detail,0020800046,409,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,11,25,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-130,135,1,1,20081103,DAL,CLE
+Shot Chart Detail,0020800046,412,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,10,51,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-175,88,1,1,20081103,DAL,CLE
+Shot Chart Detail,0020800046,421,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,10,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-163,142,1,1,20081103,DAL,CLE
+Shot Chart Detail,0020800046,434,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,8,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-172,217,1,1,20081103,DAL,CLE
+Shot Chart Detail,0020800055,26,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,8,28,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,-2,1,1,20081105,CLE,CHI
+Shot Chart Detail,0020800055,134,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,0,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,84,69,1,1,20081105,CLE,CHI
+Shot Chart Detail,0020800055,312,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,6,43,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,50,69,1,1,20081105,CLE,CHI
+Shot Chart Detail,0020800055,435,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,9,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-171,91,1,1,20081105,CLE,CHI
+Shot Chart Detail,0020800055,511,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,2,45,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,1,1,1,20081105,CLE,CHI
+Shot Chart Detail,0020800070,12,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,9,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-142,74,1,1,20081107,CLE,IND
+Shot Chart Detail,0020800070,140,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,10,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-95,162,1,1,20081107,CLE,IND
+Shot Chart Detail,0020800070,152,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,9,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-174,200,1,1,20081107,CLE,IND
+Shot Chart Detail,0020800070,299,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,9,10,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,7,1,1,20081107,CLE,IND
+Shot Chart Detail,0020800070,490,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,4,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-114,228,1,1,20081107,CLE,IND
+Shot Chart Detail,0020800070,533,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,2,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-134,168,1,1,20081107,CLE,IND
+Shot Chart Detail,0020800082,81,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,4,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081108,CHI,CLE
+Shot Chart Detail,0020800082,121,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,1,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-128,126,1,1,20081108,CHI,CLE
+Shot Chart Detail,0020800082,126,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,1,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-174,64,1,1,20081108,CHI,CLE
+Shot Chart Detail,0020800082,426,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,6,13,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081108,CHI,CLE
+Shot Chart Detail,0020800099,138,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,10,50,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,51,60,1,1,20081111,CLE,MIL
+Shot Chart Detail,0020800099,212,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,6,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-161,119,1,1,20081111,CLE,MIL
+Shot Chart Detail,0020800099,305,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,11,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-114,220,1,1,20081111,CLE,MIL
+Shot Chart Detail,0020800117,5,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,11,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,110,227,1,1,20081113,CLE,DEN
+Shot Chart Detail,0020800117,16,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,9,22,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,47,58,1,1,20081113,CLE,DEN
+Shot Chart Detail,0020800117,34,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,6,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,163,104,1,1,20081113,CLE,DEN
+Shot Chart Detail,0020800117,36,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,6,14,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,146,31,1,1,20081113,CLE,DEN
+Shot Chart Detail,0020800117,127,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,9,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-202,28,1,1,20081113,CLE,DEN
+Shot Chart Detail,0020800117,138,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,8,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-100,153,1,1,20081113,CLE,DEN
+Shot Chart Detail,0020800117,220,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,0,26,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,226,31,1,1,20081113,CLE,DEN
+Shot Chart Detail,0020800117,386,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,6,23,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,32,58,1,1,20081113,CLE,DEN
+Shot Chart Detail,0020800117,389,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,5,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-131,211,1,1,20081113,CLE,DEN
+Shot Chart Detail,0020800117,439,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,1,19,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,3,1,1,20081113,CLE,DEN
+Shot Chart Detail,0020800135,10,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,10,50,Made Shot,Floating Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,4,37,1,1,20081115,CLE,UTA
+Shot Chart Detail,0020800135,18,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,10,2,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-49,127,1,1,20081115,CLE,UTA
+Shot Chart Detail,0020800135,30,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,8,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,70,235,1,1,20081115,CLE,UTA
+Shot Chart Detail,0020800135,235,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,1,51,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-8,66,1,1,20081115,CLE,UTA
+Shot Chart Detail,0020800135,270,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,11,9,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,14,1,1,20081115,CLE,UTA
+Shot Chart Detail,0020800135,302,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,6,58,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,1,1,1,20081115,CLE,UTA
+Shot Chart Detail,0020800135,460,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,6,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-111,224,1,1,20081115,CLE,UTA
+Shot Chart Detail,0020800135,463,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,6,9,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,-5,1,1,20081115,CLE,UTA
+Shot Chart Detail,0020800154,32,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,8,13,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,6,1,1,20081118,NJN,CLE
+Shot Chart Detail,0020800154,143,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,10,53,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081118,NJN,CLE
+Shot Chart Detail,0020800154,176,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,7,51,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081118,NJN,CLE
+Shot Chart Detail,0020800154,316,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,10,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,129,216,1,1,20081118,NJN,CLE
+Shot Chart Detail,0020800154,323,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,9,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,179,164,1,1,20081118,NJN,CLE
+Shot Chart Detail,0020800154,440,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,10,35,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,95,97,1,1,20081118,NJN,CLE
+Shot Chart Detail,0020800160,33,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,7,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-152,94,1,1,20081119,DET,CLE
+Shot Chart Detail,0020800160,221,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,1,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-120,238,1,1,20081119,DET,CLE
+Shot Chart Detail,0020800160,224,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,0,57,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-228,41,1,1,20081119,DET,CLE
+Shot Chart Detail,0020800160,233,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,0,0,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081119,DET,CLE
+Shot Chart Detail,0020800160,377,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,9,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-11,271,1,1,20081119,DET,CLE
+Shot Chart Detail,0020800160,379,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,9,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,214,160,1,1,20081119,DET,CLE
+Shot Chart Detail,0020800160,409,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,5,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-119,78,1,1,20081119,DET,CLE
+Shot Chart Detail,0020800160,425,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,2,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,170,131,1,1,20081119,DET,CLE
+Shot Chart Detail,0020800160,437,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,1,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-117,247,1,1,20081119,DET,CLE
+Shot Chart Detail,0020800186,16,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,10,2,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,-2,1,1,20081122,CLE,ATL
+Shot Chart Detail,0020800186,138,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,8,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,157,50,1,1,20081122,CLE,ATL
+Shot Chart Detail,0020800186,157,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,5,34,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,51,86,1,1,20081122,CLE,ATL
+Shot Chart Detail,0020800186,199,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,1,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,162,186,1,1,20081122,CLE,ATL
+Shot Chart Detail,0020800186,221,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,10,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-172,197,1,1,20081122,CLE,ATL
+Shot Chart Detail,0020800186,355,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,10,41,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-7,48,1,1,20081122,CLE,ATL
+Shot Chart Detail,0020800186,365,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,10,7,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,59,31,1,1,20081122,CLE,ATL
+Shot Chart Detail,0020800186,438,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,5,15,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,12,1,1,20081122,CLE,ATL
+Shot Chart Detail,0020800186,470,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,2,4,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,1,1,1,20081122,CLE,ATL
+Shot Chart Detail,0020800206,21,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,9,41,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081125,NYK,CLE
+Shot Chart Detail,0020800206,152,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,9,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-95,137,1,1,20081125,NYK,CLE
+Shot Chart Detail,0020800206,243,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,1,46,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-5,63,1,1,20081125,NYK,CLE
+Shot Chart Detail,0020800206,310,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,7,49,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,15,50,1,1,20081125,NYK,CLE
+Shot Chart Detail,0020800211,150,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,9,31,Made Shot,Running Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,28,28,1,1,20081126,CLE,OKC
+Shot Chart Detail,0020800211,173,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,6,51,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,36,1,1,20081126,CLE,OKC
+Shot Chart Detail,0020800227,5,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,11,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-117,94,1,1,20081128,CLE,GSW
+Shot Chart Detail,0020800227,53,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,6,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-125,56,1,1,20081128,CLE,GSW
+Shot Chart Detail,0020800227,152,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,9,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-141,211,1,1,20081128,CLE,GSW
+Shot Chart Detail,0020800227,175,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,7,26,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,42,33,1,1,20081128,CLE,GSW
+Shot Chart Detail,0020800227,230,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,3,9,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-27,44,1,1,20081128,CLE,GSW
+Shot Chart Detail,0020800227,296,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,9,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,21,204,67,1,1,20081128,CLE,GSW
+Shot Chart Detail,0020800243,26,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,8,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,138,58,1,1,20081129,MIL,CLE
+Shot Chart Detail,0020800243,133,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,10,7,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,65,34,1,1,20081129,MIL,CLE
+Shot Chart Detail,0020800243,159,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,7,14,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-32,116,1,1,20081129,MIL,CLE
+Shot Chart Detail,0020800243,175,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,6,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,116,138,1,1,20081129,MIL,CLE
+Shot Chart Detail,0020800243,287,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,7,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081129,MIL,CLE
+Shot Chart Detail,0020800243,494,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,0,54,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081129,MIL,CLE
+Shot Chart Detail,0020800265,27,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,9,3,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,0,34,1,1,20081203,CLE,NYK
+Shot Chart Detail,0020800265,42,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,6,55,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-45,108,1,1,20081203,CLE,NYK
+Shot Chart Detail,0020800265,72,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,3,51,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-4,44,1,1,20081203,CLE,NYK
+Shot Chart Detail,0020800265,123,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,11,40,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,7,1,1,20081203,CLE,NYK
+Shot Chart Detail,0020800265,157,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,7,41,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,228,55,1,1,20081203,CLE,NYK
+Shot Chart Detail,0020800265,268,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,0,43,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,23,1,1,20081203,CLE,NYK
+Shot Chart Detail,0020800279,4,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,11,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-133,85,1,1,20081205,CLE,IND
+Shot Chart Detail,0020800279,14,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,10,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,84,149,1,1,20081205,CLE,IND
+Shot Chart Detail,0020800279,135,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,8,47,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,6,45,1,1,20081205,CLE,IND
+Shot Chart Detail,0020800279,217,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,11,13,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,37,105,1,1,20081205,CLE,IND
+Shot Chart Detail,0020800279,230,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,8,55,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,2,56,1,1,20081205,CLE,IND
+Shot Chart Detail,0020800279,238,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,7,15,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,78,37,1,1,20081205,CLE,IND
+Shot Chart Detail,0020800279,352,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,8,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,77,148,1,1,20081205,CLE,IND
+Shot Chart Detail,0020800287,14,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,10,34,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-2,138,1,1,20081206,CHA,CLE
+Shot Chart Detail,0020800287,34,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,8,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081206,CHA,CLE
+Shot Chart Detail,0020800305,21,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,9,28,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,28,53,1,1,20081209,CLE,TOR
+Shot Chart Detail,0020800305,131,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,10,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,-3,1,1,20081209,CLE,TOR
+Shot Chart Detail,0020800305,173,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,6,35,Made Shot,Fadeaway Bank shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-120,47,1,1,20081209,CLE,TOR
+Shot Chart Detail,0020800305,280,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,10,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-117,121,1,1,20081209,CLE,TOR
+Shot Chart Detail,0020800305,283,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,9,31,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-52,66,1,1,20081209,CLE,TOR
+Shot Chart Detail,0020800305,321,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,5,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-232,104,1,1,20081209,CLE,TOR
+Shot Chart Detail,0020800318,11,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,10,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-171,187,1,1,20081210,PHI,CLE
+Shot Chart Detail,0020800318,27,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,7,37,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,0,101,1,1,20081210,PHI,CLE
+Shot Chart Detail,0020800318,36,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,6,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,103,105,1,1,20081210,PHI,CLE
+Shot Chart Detail,0020800318,111,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,11,1,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081210,PHI,CLE
+Shot Chart Detail,0020800318,155,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,7,9,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081210,PHI,CLE
+Shot Chart Detail,0020800318,167,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,5,43,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,40,12,1,1,20081210,PHI,CLE
+Shot Chart Detail,0020800318,202,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,1,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-149,101,1,1,20081210,PHI,CLE
+Shot Chart Detail,0020800318,251,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,8,36,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,0,1,1,20081210,PHI,CLE
+Shot Chart Detail,0020800318,272,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,6,36,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,67,67,1,1,20081210,PHI,CLE
+Shot Chart Detail,0020800318,479,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,3,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-109,162,1,1,20081210,PHI,CLE
+Shot Chart Detail,0020800318,503,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,1,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-175,-10,1,1,20081210,PHI,CLE
+Shot Chart Detail,0020800326,132,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,10,49,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-18,39,1,1,20081212,CLE,PHI
+Shot Chart Detail,0020800326,135,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,10,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,-5,1,1,20081212,CLE,PHI
+Shot Chart Detail,0020800326,169,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,7,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-134,151,1,1,20081212,CLE,PHI
+Shot Chart Detail,0020800326,461,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,3,53,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-248,14,1,1,20081212,CLE,PHI
+Shot Chart Detail,0020800326,464,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,3,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-138,129,1,1,20081212,CLE,PHI
+Shot Chart Detail,0020800337,37,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,6,46,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,67,119,1,1,20081213,ATL,CLE
+Shot Chart Detail,0020800337,119,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,10,33,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081213,ATL,CLE
+Shot Chart Detail,0020800337,144,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,8,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-97,149,1,1,20081213,ATL,CLE
+Shot Chart Detail,0020800337,221,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,1,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,174,77,1,1,20081213,ATL,CLE
+Shot Chart Detail,0020800337,266,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,9,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-16,187,1,1,20081213,ATL,CLE
+Shot Chart Detail,0020800337,269,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,9,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,0,151,1,1,20081213,ATL,CLE
+Shot Chart Detail,0020800337,314,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,4,44,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-224,58,1,1,20081213,ATL,CLE
+Shot Chart Detail,0020800337,324,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,3,49,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081213,ATL,CLE
+Shot Chart Detail,0020800337,371,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,11,1,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-30,1,1,1,20081213,ATL,CLE
+Shot Chart Detail,0020800337,446,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,5,3,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-130,69,1,1,20081213,ATL,CLE
+Shot Chart Detail,0020800337,462,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,3,38,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,37,83,1,1,20081213,ATL,CLE
+Shot Chart Detail,0020800372,9,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,10,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-150,99,1,1,20081217,MIN,CLE
+Shot Chart Detail,0020800372,20,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,8,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,82,210,1,1,20081217,MIN,CLE
+Shot Chart Detail,0020800372,221,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,7,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081217,MIN,CLE
+Shot Chart Detail,0020800388,45,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,7,32,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081219,DEN,CLE
+Shot Chart Detail,0020800388,140,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,10,22,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081219,DEN,CLE
+Shot Chart Detail,0020800388,164,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,8,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,154,190,1,1,20081219,DEN,CLE
+Shot Chart Detail,0020800402,121,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,8,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-52,151,1,1,20081221,OKC,CLE
+Shot Chart Detail,0020800402,143,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,6,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-43,242,1,1,20081221,OKC,CLE
+Shot Chart Detail,0020800402,193,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,1,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,200,53,1,1,20081221,OKC,CLE
+Shot Chart Detail,0020800402,246,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,8,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081221,OKC,CLE
+Shot Chart Detail,0020800402,256,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,6,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,3,1,1,20081221,OKC,CLE
+Shot Chart Detail,0020800402,372,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,6,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-4,198,1,1,20081221,OKC,CLE
+Shot Chart Detail,0020800402,389,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,4,49,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081221,OKC,CLE
+Shot Chart Detail,0020800402,416,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,3,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-141,203,1,1,20081221,OKC,CLE
+Shot Chart Detail,0020800411,27,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,8,18,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,1,1,1,20081223,CLE,HOU
+Shot Chart Detail,0020800411,32,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,7,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-21,160,1,1,20081223,CLE,HOU
+Shot Chart Detail,0020800411,112,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,10,31,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,-8,1,1,20081223,CLE,HOU
+Shot Chart Detail,0020800411,136,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,8,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-155,89,1,1,20081223,CLE,HOU
+Shot Chart Detail,0020800411,221,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,0,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-133,50,1,1,20081223,CLE,HOU
+Shot Chart Detail,0020800411,332,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,10,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-175,11,1,1,20081223,CLE,HOU
+Shot Chart Detail,0020800411,335,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,10,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-182,159,1,1,20081223,CLE,HOU
+Shot Chart Detail,0020800411,341,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,9,31,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,-10,1,1,20081223,CLE,HOU
+Shot Chart Detail,0020800424,37,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,5,46,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,36,135,1,1,20081225,CLE,WAS
+Shot Chart Detail,0020800424,99,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,10,38,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,7,1,1,20081225,CLE,WAS
+Shot Chart Detail,0020800424,108,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,9,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-198,149,1,1,20081225,CLE,WAS
+Shot Chart Detail,0020800424,139,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,6,6,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,226,28,1,1,20081225,CLE,WAS
+Shot Chart Detail,0020800424,236,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,9,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-147,203,1,1,20081225,CLE,WAS
+Shot Chart Detail,0020800424,402,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,4,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,15,162,1,1,20081225,CLE,WAS
+Shot Chart Detail,0020800424,451,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,1,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-213,115,1,1,20081225,CLE,WAS
+Shot Chart Detail,0020800446,163,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,10,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,67,167,1,1,20081228,CLE,MIA
+Shot Chart Detail,0020800446,165,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,9,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-185,28,1,1,20081228,CLE,MIA
+Shot Chart Detail,0020800446,273,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,0,38,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,7,1,1,20081228,CLE,MIA
+Shot Chart Detail,0020800446,295,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,10,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,4,1,1,20081228,CLE,MIA
+Shot Chart Detail,0020800446,298,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,9,32,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,25,1,1,20081228,CLE,MIA
+Shot Chart Detail,0020800446,472,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,5,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-161,102,1,1,20081228,CLE,MIA
+Shot Chart Detail,0020800446,479,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,4,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-147,205,1,1,20081228,CLE,MIA
+Shot Chart Detail,0020800460,297,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,9,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-45,247,1,1,20081230,MIA,CLE
+Shot Chart Detail,0020800460,405,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,11,24,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-231,33,1,1,20081230,MIA,CLE
+Shot Chart Detail,0020800476,277,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,2,29,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,7,1,1,20090102,CLE,CHI
+Shot Chart Detail,0020800476,310,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,0,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,162,36,1,1,20090102,CLE,CHI
+Shot Chart Detail,0020800496,38,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,5,15,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-231,37,1,1,20090104,WAS,CLE
+Shot Chart Detail,0020800496,200,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,2,30,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,-16,1,1,20090104,WAS,CLE
+Shot Chart Detail,0020800496,452,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,3,59,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-119,96,1,1,20090104,WAS,CLE
+Shot Chart Detail,0020800496,477,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,2,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,3,1,1,20090104,WAS,CLE
+Shot Chart Detail,0020800515,22,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,9,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,-3,1,1,20090107,CLE,CHA
+Shot Chart Detail,0020800515,56,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,4,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-150,74,1,1,20090107,CLE,CHA
+Shot Chart Detail,0020800515,112,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,11,41,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,-10,1,1,20090107,CLE,CHA
+Shot Chart Detail,0020800515,224,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,1,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,206,4,1,1,20090107,CLE,CHA
+Shot Chart Detail,0020800515,282,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,9,15,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,52,1,1,20090107,CLE,CHA
+Shot Chart Detail,0020800531,8,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,10,34,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,1,44,1,1,20090109,CLE,BOS
+Shot Chart Detail,0020800531,18,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,8,37,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,6,66,1,1,20090109,CLE,BOS
+Shot Chart Detail,0020800531,128,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,8,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,67,154,1,1,20090109,CLE,BOS
+Shot Chart Detail,0020800531,131,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,7,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,149,56,1,1,20090109,CLE,BOS
+Shot Chart Detail,0020800531,330,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,11,1,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,28,58,1,1,20090109,CLE,BOS
+Shot Chart Detail,0020800560,5,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,10,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-146,219,1,1,20090113,MEM,CLE
+Shot Chart Detail,0020800560,144,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,11,21,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-32,55,1,1,20090113,MEM,CLE
+Shot Chart Detail,0020800560,353,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,4,34,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,17,1,1,20090113,MEM,CLE
+Shot Chart Detail,0020800560,419,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,11,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,77,170,1,1,20090113,MEM,CLE
+Shot Chart Detail,0020800560,442,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,7,15,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,17,1,1,20090113,MEM,CLE
+Shot Chart Detail,0020800560,501,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,2,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090113,MEM,CLE
+Shot Chart Detail,0020800578,50,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,5,20,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090115,CHI,CLE
+Shot Chart Detail,0020800578,112,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,11,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-171,197,1,1,20090115,CHI,CLE
+Shot Chart Detail,0020800578,153,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,6,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,133,66,1,1,20090115,CHI,CLE
+Shot Chart Detail,0020800578,159,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,5,38,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,152,34,1,1,20090115,CHI,CLE
+Shot Chart Detail,0020800578,259,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,7,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,146,198,1,1,20090115,CHI,CLE
+Shot Chart Detail,0020800578,262,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,7,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-71,244,1,1,20090115,CHI,CLE
+Shot Chart Detail,0020800578,275,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,6,20,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,239,-2,1,1,20090115,CHI,CLE
+Shot Chart Detail,0020800578,354,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,10,22,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,21,129,1,1,20090115,CHI,CLE
+Shot Chart Detail,0020800578,389,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,6,35,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,-2,1,1,20090115,CHI,CLE
+Shot Chart Detail,0020800583,29,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,7,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,1,1,1,20090116,CLE,NOH
+Shot Chart Detail,0020800583,132,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,8,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,116,113,1,1,20090116,CLE,NOH
+Shot Chart Detail,0020800583,220,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,1,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-100,102,1,1,20090116,CLE,NOH
+Shot Chart Detail,0020800583,399,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,6,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,0,1,1,20090116,CLE,NOH
+Shot Chart Detail,0020800612,15,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,10,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-160,4,1,1,20090119,LAL,CLE
+Shot Chart Detail,0020800612,40,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,7,8,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-130,124,1,1,20090119,LAL,CLE
+Shot Chart Detail,0020800612,112,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,11,41,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,28,88,1,1,20090119,LAL,CLE
+Shot Chart Detail,0020800612,129,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,9,9,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-226,9,1,1,20090119,LAL,CLE
+Shot Chart Detail,0020800612,258,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,9,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090119,LAL,CLE
+Shot Chart Detail,0020800612,426,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,4,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,64,269,1,1,20090119,LAL,CLE
+Shot Chart Detail,0020800624,5,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,11,12,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,20,75,1,1,20090121,POR,CLE
+Shot Chart Detail,0020800624,48,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,6,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,132,170,1,1,20090121,POR,CLE
+Shot Chart Detail,0020800624,153,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,9,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,95,227,1,1,20090121,POR,CLE
+Shot Chart Detail,0020800624,202,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,5,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-202,153,1,1,20090121,POR,CLE
+Shot Chart Detail,0020800624,219,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,2,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,190,82,1,1,20090121,POR,CLE
+Shot Chart Detail,0020800624,232,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,1,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-161,183,1,1,20090121,POR,CLE
+Shot Chart Detail,0020800624,243,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,0,25,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-105,6,1,1,20090121,POR,CLE
+Shot Chart Detail,0020800624,280,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,8,19,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,-13,1,1,20090121,POR,CLE
+Shot Chart Detail,0020800624,373,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,11,4,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,42,149,1,1,20090121,POR,CLE
+Shot Chart Detail,0020800624,465,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,3,17,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,0,97,1,1,20090121,POR,CLE
+Shot Chart Detail,0020800624,479,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,2,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-218,104,1,1,20090121,POR,CLE
+Shot Chart Detail,0020800624,493,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,0,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-153,208,1,1,20090121,POR,CLE
+Shot Chart Detail,0020800638,331,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,8,33,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-75,156,1,1,20090123,GSW,CLE
+Shot Chart Detail,0020800638,350,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,6,39,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,7,1,1,20090123,GSW,CLE
+Shot Chart Detail,0020800638,390,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,3,10,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,17,1,1,20090123,GSW,CLE
+Shot Chart Detail,0020800638,452,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,11,40,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-4,172,1,1,20090123,GSW,CLE
+Shot Chart Detail,0020800638,462,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,9,56,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-73,197,1,1,20090123,GSW,CLE
+Shot Chart Detail,0020800638,567,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,0,51,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-226,12,1,1,20090123,GSW,CLE
+Shot Chart Detail,0020800644,12,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,10,47,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,12,-71,105,1,1,20090124,UTA,CLE
+Shot Chart Detail,0020800644,200,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,5,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,138,213,1,1,20090124,UTA,CLE
+Shot Chart Detail,0020800644,269,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,10,11,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,3,1,1,20090124,UTA,CLE
+Shot Chart Detail,0020800644,306,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,6,24,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,7,1,1,20090124,UTA,CLE
+Shot Chart Detail,0020800644,308,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,6,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,114,222,1,1,20090124,UTA,CLE
+Shot Chart Detail,0020800644,367,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,11,36,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,2,82,1,1,20090124,UTA,CLE
+Shot Chart Detail,0020800644,398,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,8,2,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,-10,1,1,20090124,UTA,CLE
+Shot Chart Detail,0020800644,441,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,2,41,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090124,UTA,CLE
+Shot Chart Detail,0020800662,8,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,10,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,86,157,1,1,20090127,CLE,SAC
+Shot Chart Detail,0020800662,13,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,9,49,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-5,126,1,1,20090127,CLE,SAC
+Shot Chart Detail,0020800662,30,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,8,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,-3,1,1,20090127,CLE,SAC
+Shot Chart Detail,0020800662,135,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,10,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,53,172,1,1,20090127,CLE,SAC
+Shot Chart Detail,0020800662,146,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,8,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,81,143,1,1,20090127,CLE,SAC
+Shot Chart Detail,0020800662,176,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,6,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-153,203,1,1,20090127,CLE,SAC
+Shot Chart Detail,0020800662,204,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,3,52,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,231,14,1,1,20090127,CLE,SAC
+Shot Chart Detail,0020800662,218,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,3,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-4,255,1,1,20090127,CLE,SAC
+Shot Chart Detail,0020800662,231,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,2,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-209,1,1,1,20090127,CLE,SAC
+Shot Chart Detail,0020800662,300,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,8,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-144,205,1,1,20090127,CLE,SAC
+Shot Chart Detail,0020800662,320,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,6,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-147,203,1,1,20090127,CLE,SAC
+Shot Chart Detail,0020800662,323,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,5,49,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,222,14,1,1,20090127,CLE,SAC
+Shot Chart Detail,0020800662,331,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,5,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,124,216,1,1,20090127,CLE,SAC
+Shot Chart Detail,0020800662,416,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,9,32,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,0,1,1,20090127,CLE,SAC
+Shot Chart Detail,0020800662,440,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,7,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,141,82,1,1,20090127,CLE,SAC
+Shot Chart Detail,0020800679,48,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,5,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,50,140,1,1,20090129,ORL,CLE
+Shot Chart Detail,0020800679,171,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,7,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-164,217,1,1,20090129,ORL,CLE
+Shot Chart Detail,0020800679,287,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,8,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-128,123,1,1,20090129,ORL,CLE
+Shot Chart Detail,0020800679,412,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,7,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,65,194,1,1,20090129,ORL,CLE
+Shot Chart Detail,0020800686,180,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,5,6,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,34,1,1,20090130,CLE,LAC
+Shot Chart Detail,0020800686,202,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,2,37,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,4,1,1,20090130,CLE,LAC
+Shot Chart Detail,0020800686,226,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,0,29,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,19,1,1,20090130,CLE,LAC
+Shot Chart Detail,0020800686,268,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,6,22,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,12,1,1,20090130,CLE,LAC
+Shot Chart Detail,0020800686,280,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,5,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-59,175,1,1,20090130,CLE,LAC
+Shot Chart Detail,0020800686,296,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,3,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,163,201,1,1,20090130,CLE,LAC
+Shot Chart Detail,0020800686,381,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,8,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,136,206,1,1,20090130,CLE,LAC
+Shot Chart Detail,0020800686,425,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,4,30,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-146,198,1,1,20090130,CLE,LAC
+Shot Chart Detail,0020800704,155,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,9,18,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-141,94,1,1,20090201,DET,CLE
+Shot Chart Detail,0020800704,164,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,8,14,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-26,67,1,1,20090201,DET,CLE
+Shot Chart Detail,0020800704,180,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,7,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090201,DET,CLE
+Shot Chart Detail,0020800704,273,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,10,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-130,78,1,1,20090201,DET,CLE
+Shot Chart Detail,0020800704,360,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,9,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-183,94,1,1,20090201,DET,CLE
+Shot Chart Detail,0020800704,384,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,7,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,6,160,1,1,20090201,DET,CLE
+Shot Chart Detail,0020800704,387,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,7,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-112,107,1,1,20090201,DET,CLE
+Shot Chart Detail,0020800704,427,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,1,40,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,102,30,1,1,20090201,DET,CLE
+Shot Chart Detail,0020800704,432,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,0,38,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,72,20,1,1,20090201,DET,CLE
+Shot Chart Detail,0020800714,11,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,9,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-127,132,1,1,20090203,CLE,TOR
+Shot Chart Detail,0020800714,70,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,2,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,86,231,1,1,20090203,CLE,TOR
+Shot Chart Detail,0020800714,132,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,8,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-172,118,1,1,20090203,CLE,TOR
+Shot Chart Detail,0020800714,155,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,6,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,163,179,1,1,20090203,CLE,TOR
+Shot Chart Detail,0020800714,267,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,7,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,62,176,1,1,20090203,CLE,TOR
+Shot Chart Detail,0020800714,278,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,6,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,4,1,1,20090203,CLE,TOR
+Shot Chart Detail,0020800714,402,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,10,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,23,-134,194,1,1,20090203,CLE,TOR
+Shot Chart Detail,0020800724,137,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,10,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-59,200,1,1,20090204,NYK,CLE
+Shot Chart Detail,0020800724,268,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,7,46,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,226,-21,1,1,20090204,NYK,CLE
+Shot Chart Detail,0020800724,375,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,10,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-171,175,1,1,20090204,NYK,CLE
+Shot Chart Detail,0020800751,7,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,10,42,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,20,1,1,20090208,CLE,LAL
+Shot Chart Detail,0020800751,72,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,3,37,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,6,1,1,20090208,CLE,LAL
+Shot Chart Detail,0020800751,124,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,11,5,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-234,64,1,1,20090208,CLE,LAL
+Shot Chart Detail,0020800751,148,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,8,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,135,121,1,1,20090208,CLE,LAL
+Shot Chart Detail,0020800751,181,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,5,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,132,69,1,1,20090208,CLE,LAL
+Shot Chart Detail,0020800751,242,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,0,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,0,1,1,20090208,CLE,LAL
+Shot Chart Detail,0020800751,283,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,7,22,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,12,85,1,1,20090208,CLE,LAL
+Shot Chart Detail,0020800765,116,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,10,52,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,83,162,1,1,20090210,IND,CLE
+Shot Chart Detail,0020800765,271,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,8,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,0,1,1,20090210,IND,CLE
+Shot Chart Detail,0020800765,273,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,8,10,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,1,39,1,1,20090210,IND,CLE
+Shot Chart Detail,0020800765,280,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,7,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-179,-8,1,1,20090210,IND,CLE
+Shot Chart Detail,0020800765,314,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,2,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,6,1,1,20090210,IND,CLE
+Shot Chart Detail,0020800765,406,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,7,5,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-49,148,1,1,20090210,IND,CLE
+Shot Chart Detail,0020800765,417,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,6,6,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,105,102,1,1,20090210,IND,CLE
+Shot Chart Detail,0020800774,4,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,11,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,1,1,1,20090211,CLE,PHX
+Shot Chart Detail,0020800774,7,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,11,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,121,214,1,1,20090211,CLE,PHX
+Shot Chart Detail,0020800774,34,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,7,26,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-10,105,1,1,20090211,CLE,PHX
+Shot Chart Detail,0020800774,92,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,3,25,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,225,69,1,1,20090211,CLE,PHX
+Shot Chart Detail,0020800774,132,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,0,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,166,88,1,1,20090211,CLE,PHX
+Shot Chart Detail,0020800774,174,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,9,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,113,36,1,1,20090211,CLE,PHX
+Shot Chart Detail,0020800774,212,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,6,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,135,205,1,1,20090211,CLE,PHX
+Shot Chart Detail,0020800774,251,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,3,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,111,228,1,1,20090211,CLE,PHX
+Shot Chart Detail,0020800774,253,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,3,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,-210,1,1,1,20090211,CLE,PHX
+Shot Chart Detail,0020800774,262,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,2,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-175,99,1,1,20090211,CLE,PHX
+Shot Chart Detail,0020800774,279,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,2,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-139,56,1,1,20090211,CLE,PHX
+Shot Chart Detail,0020800774,283,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,1,34,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-65,74,1,1,20090211,CLE,PHX
+Shot Chart Detail,0020800774,324,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,9,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,143,72,1,1,20090211,CLE,PHX
+Shot Chart Detail,0020800774,379,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,4,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-180,39,1,1,20090211,CLE,PHX
+Shot Chart Detail,0020800774,385,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,3,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,138,205,1,1,20090211,CLE,PHX
+Shot Chart Detail,0020800774,400,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,2,30,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,225,83,1,1,20090211,CLE,PHX
+Shot Chart Detail,0020800774,457,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,9,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,152,138,1,1,20090211,CLE,PHX
+Shot Chart Detail,0020800774,496,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,6,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,206,142,1,1,20090211,CLE,PHX
+Shot Chart Detail,0020800799,18,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,9,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-108,135,1,1,20090218,TOR,CLE
+Shot Chart Detail,0020800799,68,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,4,20,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-224,0,1,1,20090218,TOR,CLE
+Shot Chart Detail,0020800799,156,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,6,20,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,54,189,1,1,20090218,TOR,CLE
+Shot Chart Detail,0020800799,165,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,5,8,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,113,78,1,1,20090218,TOR,CLE
+Shot Chart Detail,0020800799,222,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,0,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-155,0,1,1,20090218,TOR,CLE
+Shot Chart Detail,0020800799,273,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,5,7,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-185,77,1,1,20090218,TOR,CLE
+Shot Chart Detail,0020800799,364,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,6,28,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-81,205,1,1,20090218,TOR,CLE
+Shot Chart Detail,0020800818,116,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,10,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,149,-16,1,1,20090220,MIL,CLE
+Shot Chart Detail,0020800818,125,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,9,21,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,12,1,1,20090220,MIL,CLE
+Shot Chart Detail,0020800818,267,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,11,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090220,MIL,CLE
+Shot Chart Detail,0020800818,303,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,8,30,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,242,4,1,1,20090220,MIL,CLE
+Shot Chart Detail,0020800818,308,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,8,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090220,MIL,CLE
+Shot Chart Detail,0020800818,408,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,11,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090220,MIL,CLE
+Shot Chart Detail,0020800818,477,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,4,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-90,254,1,1,20090220,MIL,CLE
+Shot Chart Detail,0020800818,512,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,1,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-187,-24,1,1,20090220,MIL,CLE
+Shot Chart Detail,0020800835,5,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,11,11,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,21,124,1,1,20090222,CLE,DET
+Shot Chart Detail,0020800835,119,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,10,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,136,206,1,1,20090222,CLE,DET
+Shot Chart Detail,0020800835,131,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,9,39,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-235,82,1,1,20090222,CLE,DET
+Shot Chart Detail,0020800835,165,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,5,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,23,122,198,1,1,20090222,CLE,DET
+Shot Chart Detail,0020800842,14,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,10,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,12,1,1,20090224,CLE,MEM
+Shot Chart Detail,0020800842,38,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,8,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-160,96,1,1,20090224,CLE,MEM
+Shot Chart Detail,0020800842,176,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,6,51,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-24,58,1,1,20090224,CLE,MEM
+Shot Chart Detail,0020800842,240,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,1,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,130,224,1,1,20090224,CLE,MEM
+Shot Chart Detail,0020800842,331,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,5,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-130,216,1,1,20090224,CLE,MEM
+Shot Chart Detail,0020800842,450,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,7,0,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,0,1,1,20090224,CLE,MEM
+Shot Chart Detail,0020800861,32,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,7,14,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,114,135,1,1,20090226,HOU,CLE
+Shot Chart Detail,0020800861,70,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,4,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090226,HOU,CLE
+Shot Chart Detail,0020800861,147,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,10,50,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-21,252,1,1,20090226,HOU,CLE
+Shot Chart Detail,0020800861,198,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,5,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,116,20,1,1,20090226,HOU,CLE
+Shot Chart Detail,0020800861,284,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,7,16,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,34,97,1,1,20090226,HOU,CLE
+Shot Chart Detail,0020800861,291,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,5,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,77,146,1,1,20090226,HOU,CLE
+Shot Chart Detail,0020800861,371,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,8,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-114,225,1,1,20090226,HOU,CLE
+Shot Chart Detail,0020800861,383,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,7,4,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,12,1,1,20090226,HOU,CLE
+Shot Chart Detail,0020800873,116,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,0,0,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-127,53,1,1,20090227,SAS,CLE
+Shot Chart Detail,0020800873,135,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,10,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-41,172,1,1,20090227,SAS,CLE
+Shot Chart Detail,0020800873,311,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,5,16,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,6,112,1,1,20090227,SAS,CLE
+Shot Chart Detail,0020800873,330,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,2,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,138,113,1,1,20090227,SAS,CLE
+Shot Chart Detail,0020800885,20,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,9,50,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,0,153,1,1,20090301,ATL,CLE
+Shot Chart Detail,0020800885,24,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,9,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,89,159,1,1,20090301,ATL,CLE
+Shot Chart Detail,0020800885,29,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,8,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-161,230,1,1,20090301,ATL,CLE
+Shot Chart Detail,0020800885,80,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,2,44,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,-2,1,1,20090301,ATL,CLE
+Shot Chart Detail,0020800885,295,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,9,39,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,239,41,1,1,20090301,ATL,CLE
+Shot Chart Detail,0020800885,315,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,7,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,94,178,1,1,20090301,ATL,CLE
+Shot Chart Detail,0020800885,410,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,10,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-166,42,1,1,20090301,ATL,CLE
+Shot Chart Detail,0020800885,506,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,0,47,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-226,56,1,1,20090301,ATL,CLE
+Shot Chart Detail,0020800894,28,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,7,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-89,153,1,1,20090302,MIA,CLE
+Shot Chart Detail,0020800894,61,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,4,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090302,MIA,CLE
+Shot Chart Detail,0020800894,194,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,3,44,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,10,129,1,1,20090302,MIA,CLE
+Shot Chart Detail,0020800894,275,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,10,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,165,112,1,1,20090302,MIA,CLE
+Shot Chart Detail,0020800894,297,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,6,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-95,134,1,1,20090302,MIA,CLE
+Shot Chart Detail,0020800894,345,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,2,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-106,135,1,1,20090302,MIA,CLE
+Shot Chart Detail,0020800894,389,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,11,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-116,151,1,1,20090302,MIA,CLE
+Shot Chart Detail,0020800894,420,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,7,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,154,192,1,1,20090302,MIA,CLE
+Shot Chart Detail,0020800894,424,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,6,31,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,4,1,1,20090302,MIA,CLE
+Shot Chart Detail,0020800894,447,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,4,7,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,70,25,1,1,20090302,MIA,CLE
+Shot Chart Detail,0020800905,10,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,10,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-19,274,1,1,20090304,CLE,MIL
+Shot Chart Detail,0020800905,144,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,7,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,114,219,1,1,20090304,CLE,MIL
+Shot Chart Detail,0020800905,256,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,10,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,-210,0,1,1,20090304,CLE,MIL
+Shot Chart Detail,0020800905,301,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,6,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-97,230,1,1,20090304,CLE,MIL
+Shot Chart Detail,0020800905,411,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,7,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-190,60,1,1,20090304,CLE,MIL
+Shot Chart Detail,0020800920,111,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,10,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-198,145,1,1,20090306,BOS,CLE
+Shot Chart Detail,0020800920,148,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,6,42,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-52,104,1,1,20090306,BOS,CLE
+Shot Chart Detail,0020800920,198,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,1,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,136,219,1,1,20090306,BOS,CLE
+Shot Chart Detail,0020800920,200,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,0,54,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,3,1,1,20090306,BOS,CLE
+Shot Chart Detail,0020800920,202,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,0,31,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,4,1,1,20090306,BOS,CLE
+Shot Chart Detail,0020800920,255,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,8,12,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,99,30,1,1,20090306,BOS,CLE
+Shot Chart Detail,0020800920,399,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,6,26,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,92,203,1,1,20090306,BOS,CLE
+Shot Chart Detail,0020800920,436,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,3,34,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-185,168,1,1,20090306,BOS,CLE
+Shot Chart Detail,0020800928,26,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,8,21,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,11,1,1,20090307,CLE,MIA
+Shot Chart Detail,0020800928,52,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,4,52,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-234,77,1,1,20090307,CLE,MIA
+Shot Chart Detail,0020800928,75,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,2,21,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-5,83,1,1,20090307,CLE,MIA
+Shot Chart Detail,0020800928,79,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,1,0,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,41,1,1,20090307,CLE,MIA
+Shot Chart Detail,0020800928,216,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,0,41,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,23,1,1,20090307,CLE,MIA
+Shot Chart Detail,0020800928,254,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,8,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-217,134,1,1,20090307,CLE,MIA
+Shot Chart Detail,0020800928,412,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,5,27,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,36,48,1,1,20090307,CLE,MIA
+Shot Chart Detail,0020800928,417,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,4,51,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,14,1,1,20090307,CLE,MIA
+Shot Chart Detail,0020800928,424,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,4,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,124,219,1,1,20090307,CLE,MIA
+Shot Chart Detail,0020800928,431,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,3,7,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,75,42,1,1,20090307,CLE,MIA
+Shot Chart Detail,0020800954,172,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,7,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-136,138,1,1,20090310,LAC,CLE
+Shot Chart Detail,0020800954,396,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,10,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,149,99,1,1,20090310,LAC,CLE
+Shot Chart Detail,0020800954,461,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,5,1,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,33,1,1,20090310,LAC,CLE
+Shot Chart Detail,0020800954,516,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,0,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-164,201,1,1,20090310,LAC,CLE
+Shot Chart Detail,0020800967,8,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,10,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,152,28,1,1,20090312,PHX,CLE
+Shot Chart Detail,0020800967,39,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,6,53,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-226,-8,1,1,20090312,PHX,CLE
+Shot Chart Detail,0020800967,58,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,4,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,160,203,1,1,20090312,PHX,CLE
+Shot Chart Detail,0020800967,61,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,3,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-202,145,1,1,20090312,PHX,CLE
+Shot Chart Detail,0020800967,118,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,11,31,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,-14,1,1,20090312,PHX,CLE
+Shot Chart Detail,0020800967,234,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,1,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-177,77,1,1,20090312,PHX,CLE
+Shot Chart Detail,0020800967,313,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,5,47,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,0,132,1,1,20090312,PHX,CLE
+Shot Chart Detail,0020800967,448,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,6,27,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,31,83,1,1,20090312,PHX,CLE
+Shot Chart Detail,0020800967,468,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,4,24,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,0,1,1,20090312,PHX,CLE
+Shot Chart Detail,0020800967,487,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,1,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,147,206,1,1,20090312,PHX,CLE
+Shot Chart Detail,0020800977,147,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,8,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,121,173,1,1,20090313,SAC,CLE
+Shot Chart Detail,0020800977,400,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,0,11,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-117,15,1,1,20090313,SAC,CLE
+Shot Chart Detail,0020800977,463,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,6,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,-183,116,1,1,20090313,SAC,CLE
+Shot Chart Detail,0020800986,37,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,8,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,135,225,1,1,20090315,CLE,NYK
+Shot Chart Detail,0020800986,49,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,6,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,36,156,1,1,20090315,CLE,NYK
+Shot Chart Detail,0020800986,68,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,4,38,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-229,48,1,1,20090315,CLE,NYK
+Shot Chart Detail,0020800986,153,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,8,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-172,108,1,1,20090315,CLE,NYK
+Shot Chart Detail,0020800986,175,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,6,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,184,75,1,1,20090315,CLE,NYK
+Shot Chart Detail,0020800986,279,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,6,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,220,97,1,1,20090315,CLE,NYK
+Shot Chart Detail,0020800986,316,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,3,10,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,64,1,1,20090315,CLE,NYK
+Shot Chart Detail,0020800986,371,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,10,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,140,217,1,1,20090315,CLE,NYK
+Shot Chart Detail,0020801002,28,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,8,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,4,1,1,20090317,CLE,ORL
+Shot Chart Detail,0020801002,139,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,10,0,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,70,53,1,1,20090317,CLE,ORL
+Shot Chart Detail,0020801002,142,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,9,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-34,190,1,1,20090317,CLE,ORL
+Shot Chart Detail,0020801002,154,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,8,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,88,173,1,1,20090317,CLE,ORL
+Shot Chart Detail,0020801002,157,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,7,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,182,162,1,1,20090317,CLE,ORL
+Shot Chart Detail,0020801002,264,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,8,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-180,44,1,1,20090317,CLE,ORL
+Shot Chart Detail,0020801002,404,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,7,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,114,149,1,1,20090317,CLE,ORL
+Shot Chart Detail,0020801002,417,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,6,1,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-231,60,1,1,20090317,CLE,ORL
+Shot Chart Detail,0020801002,446,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,1,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,129,211,1,1,20090317,CLE,ORL
+Shot Chart Detail,0020801021,26,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,8,8,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,-11,1,1,20090319,CLE,POR
+Shot Chart Detail,0020801021,139,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,9,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,32,247,1,1,20090319,CLE,POR
+Shot Chart Detail,0020801021,377,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,10,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-164,186,1,1,20090319,CLE,POR
+Shot Chart Detail,0020801021,380,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,10,11,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-64,22,1,1,20090319,CLE,POR
+Shot Chart Detail,0020801034,35,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,6,48,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,6,1,1,20090321,CLE,ATL
+Shot Chart Detail,0020801034,46,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,5,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,50,241,1,1,20090321,CLE,ATL
+Shot Chart Detail,0020801034,115,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,11,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,22,64,211,1,1,20090321,CLE,ATL
+Shot Chart Detail,0020801034,262,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,1,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,95,167,1,1,20090321,CLE,ATL
+Shot Chart Detail,0020801034,354,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,5,42,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,15,1,1,20090321,CLE,ATL
+Shot Chart Detail,0020801034,421,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,10,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-171,85,1,1,20090321,CLE,ATL
+Shot Chart Detail,0020801034,426,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,9,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-142,138,1,1,20090321,CLE,ATL
+Shot Chart Detail,0020801034,431,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,9,23,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-10,56,1,1,20090321,CLE,ATL
+Shot Chart Detail,0020801045,23,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,8,7,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090322,NJN,CLE
+Shot Chart Detail,0020801045,47,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,5,2,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-100,77,1,1,20090322,NJN,CLE
+Shot Chart Detail,0020801045,248,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,9,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-34,261,1,1,20090322,NJN,CLE
+Shot Chart Detail,0020801060,57,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,6,46,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,36,1,1,20090325,CLE,NJN
+Shot Chart Detail,0020801060,78,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,3,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,146,209,1,1,20090325,CLE,NJN
+Shot Chart Detail,0020801060,125,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,9,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-169,104,1,1,20090325,CLE,NJN
+Shot Chart Detail,0020801060,169,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,6,17,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-226,19,1,1,20090325,CLE,NJN
+Shot Chart Detail,0020801060,460,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,0,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-150,205,1,1,20090325,CLE,NJN
+Shot Chart Detail,0020801077,55,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,5,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,23,-130,200,1,1,20090327,CLE,MIN
+Shot Chart Detail,0020801077,57,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,4,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,0,1,1,20090327,CLE,MIN
+Shot Chart Detail,0020801077,131,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,10,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,233,93,1,1,20090327,CLE,MIN
+Shot Chart Detail,0020801077,149,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,8,18,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,32,72,1,1,20090327,CLE,MIN
+Shot Chart Detail,0020801077,151,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,7,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,187,67,1,1,20090327,CLE,MIN
+Shot Chart Detail,0020801077,170,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,5,25,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,-2,1,1,20090327,CLE,MIN
+Shot Chart Detail,0020801077,281,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,7,10,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,231,-5,1,1,20090327,CLE,MIN
+Shot Chart Detail,0020801077,330,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,3,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,23,140,186,1,1,20090327,CLE,MIN
+Shot Chart Detail,0020801091,198,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,5,37,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,4,1,1,20090329,CLE,DAL
+Shot Chart Detail,0020801091,201,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,5,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-73,157,1,1,20090329,CLE,DAL
+Shot Chart Detail,0020801091,224,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,3,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-147,222,1,1,20090329,CLE,DAL
+Shot Chart Detail,0020801091,282,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,9,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,20,170,1,1,20090329,CLE,DAL
+Shot Chart Detail,0020801091,302,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,6,27,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-231,39,1,1,20090329,CLE,DAL
+Shot Chart Detail,0020801091,307,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,5,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-112,129,1,1,20090329,CLE,DAL
+Shot Chart Detail,0020801091,404,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,8,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,146,119,1,1,20090329,CLE,DAL
+Shot Chart Detail,0020801105,126,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,11,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-147,216,1,1,20090331,CLE,DET
+Shot Chart Detail,0020801105,145,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,9,34,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,50,80,1,1,20090331,CLE,DET
+Shot Chart Detail,0020801105,163,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,5,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,-2,1,1,20090331,CLE,DET
+Shot Chart Detail,0020801105,264,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,9,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,23,1,235,1,1,20090331,CLE,DET
+Shot Chart Detail,0020801123,37,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,7,31,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,12,69,1,1,20090402,WAS,CLE
+Shot Chart Detail,0020801123,79,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,2,21,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-21,48,1,1,20090402,WAS,CLE
+Shot Chart Detail,0020801123,127,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,9,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-35,183,1,1,20090402,WAS,CLE
+Shot Chart Detail,0020801123,195,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,2,41,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,-2,1,1,20090402,WAS,CLE
+Shot Chart Detail,0020801123,276,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,7,34,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,4,1,1,20090402,WAS,CLE
+Shot Chart Detail,0020801123,365,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,10,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,29,260,1,1,20090402,WAS,CLE
+Shot Chart Detail,0020801123,387,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,7,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,17,1,1,20090402,WAS,CLE
+Shot Chart Detail,0020801130,84,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,3,45,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,0,53,1,1,20090403,ORL,CLE
+Shot Chart Detail,0020801130,316,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,4,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-108,233,1,1,20090403,ORL,CLE
+Shot Chart Detail,0020801130,345,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,2,3,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,234,63,1,1,20090403,ORL,CLE
+Shot Chart Detail,0020801142,72,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,4,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-130,214,1,1,20090405,CLE,SAS
+Shot Chart Detail,0020801142,152,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,9,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,133,179,1,1,20090405,CLE,SAS
+Shot Chart Detail,0020801142,155,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,9,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,88,91,1,1,20090405,CLE,SAS
+Shot Chart Detail,0020801142,179,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,6,37,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-23,71,1,1,20090405,CLE,SAS
+Shot Chart Detail,0020801142,248,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,0,18,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,36,1,1,20090405,CLE,SAS
+Shot Chart Detail,0020801142,263,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,9,37,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,11,1,1,20090405,CLE,SAS
+Shot Chart Detail,0020801142,278,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,7,3,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,9,1,1,20090405,CLE,SAS
+Shot Chart Detail,0020801142,280,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,6,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,171,26,1,1,20090405,CLE,SAS
+Shot Chart Detail,0020801142,388,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,9,32,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-146,71,1,1,20090405,CLE,SAS
+Shot Chart Detail,0020801162,35,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,8,39,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,226,9,1,1,20090408,CLE,WAS
+Shot Chart Detail,0020801162,53,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,6,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,207,17,1,1,20090408,CLE,WAS
+Shot Chart Detail,0020801162,161,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,7,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-81,143,1,1,20090408,CLE,WAS
+Shot Chart Detail,0020801162,248,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,10,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,69,239,1,1,20090408,CLE,WAS
+Shot Chart Detail,0020801162,317,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,4,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,132,176,1,1,20090408,CLE,WAS
+Shot Chart Detail,0020801162,400,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,8,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-78,216,1,1,20090408,CLE,WAS
+Shot Chart Detail,0020801177,24,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,9,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-4,186,1,1,20090410,PHI,CLE
+Shot Chart Detail,0020801177,40,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,6,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,121,107,1,1,20090410,PHI,CLE
+Shot Chart Detail,0020801177,135,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,9,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-217,145,1,1,20090410,PHI,CLE
+Shot Chart Detail,0020801177,291,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,7,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-201,173,1,1,20090410,PHI,CLE
+Shot Chart Detail,0020801177,297,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,5,57,Made Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-37,102,1,1,20090410,PHI,CLE
+Shot Chart Detail,0020801177,402,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,7,40,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-5,91,1,1,20090410,PHI,CLE
+Shot Chart Detail,0020801177,459,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,2,49,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,-28,1,1,20090410,PHI,CLE
+Shot Chart Detail,0020801197,166,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,9,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-164,71,1,1,20090412,CLE,BOS
+Shot Chart Detail,0020801197,293,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,10,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,177,184,1,1,20090412,CLE,BOS
+Shot Chart Detail,0020801197,332,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,5,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-164,159,1,1,20090412,CLE,BOS
+Shot Chart Detail,0020801197,350,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,4,22,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,42,83,1,1,20090412,CLE,BOS
+Shot Chart Detail,0020801197,360,2590,Mo Williams,1610612739,Cleveland Cavaliers,3,3,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,15,1,1,20090412,CLE,BOS
+Shot Chart Detail,0020801197,410,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,11,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,22,-210,93,1,1,20090412,CLE,BOS
+Shot Chart Detail,0020801202,55,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,5,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,170,209,1,1,20090413,IND,CLE
+Shot Chart Detail,0020801202,68,2590,Mo Williams,1610612739,Cleveland Cavaliers,1,4,15,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,-5,1,1,20090413,IND,CLE
+Shot Chart Detail,0020801202,141,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,10,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,190,195,1,1,20090413,IND,CLE
+Shot Chart Detail,0020801202,149,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,9,36,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,94,146,1,1,20090413,IND,CLE
+Shot Chart Detail,0020801202,163,2590,Mo Williams,1610612739,Cleveland Cavaliers,2,8,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,0,1,1,20090413,IND,CLE
+Shot Chart Detail,0020801202,529,2590,Mo Williams,1610612739,Cleveland Cavaliers,4,1,29,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,247,-3,1,1,20090413,IND,CLE

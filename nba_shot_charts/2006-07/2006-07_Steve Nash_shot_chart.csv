@@ -1,0 +1,518 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0020600002,8,959,Steve Nash,1610612756,Phoenix Suns,1,11,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,21,197,79,1,1,20061031,LAL,PHX
+Shot Chart Detail,0020600002,18,959,Steve Nash,1610612756,Phoenix Suns,1,9,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,117,229,1,1,20061031,LAL,PHX
+Shot Chart Detail,0020600002,196,959,Steve Nash,1610612756,Phoenix Suns,2,4,24,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,-14,1,1,20061031,LAL,PHX
+Shot Chart Detail,0020600002,260,959,Steve Nash,1610612756,Phoenix Suns,3,10,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-174,183,1,1,20061031,LAL,PHX
+Shot Chart Detail,0020600002,262,959,Steve Nash,1610612756,Phoenix Suns,3,9,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-131,110,1,1,20061031,LAL,PHX
+Shot Chart Detail,0020600002,299,959,Steve Nash,1610612756,Phoenix Suns,3,5,57,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061031,LAL,PHX
+Shot Chart Detail,0020600014,52,959,Steve Nash,1610612756,Phoenix Suns,1,5,50,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061101,PHX,LAC
+Shot Chart Detail,0020600014,256,959,Steve Nash,1610612756,Phoenix Suns,3,10,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,217,104,1,1,20061101,PHX,LAC
+Shot Chart Detail,0020600014,280,959,Steve Nash,1610612756,Phoenix Suns,3,8,27,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,64,58,1,1,20061101,PHX,LAC
+Shot Chart Detail,0020600014,286,959,Steve Nash,1610612756,Phoenix Suns,3,7,59,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,15,-64,137,1,1,20061101,PHX,LAC
+Shot Chart Detail,0020600014,290,959,Steve Nash,1610612756,Phoenix Suns,3,7,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-176,184,1,1,20061101,PHX,LAC
+Shot Chart Detail,0020600014,307,959,Steve Nash,1610612756,Phoenix Suns,3,6,6,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061101,PHX,LAC
+Shot Chart Detail,0020600014,463,959,Steve Nash,1610612756,Phoenix Suns,4,2,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,121,95,1,1,20061101,PHX,LAC
+Shot Chart Detail,0020600028,17,959,Steve Nash,1610612756,Phoenix Suns,1,10,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,85,233,1,1,20061103,PHX,UTA
+Shot Chart Detail,0020600028,34,959,Steve Nash,1610612756,Phoenix Suns,1,8,11,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061103,PHX,UTA
+Shot Chart Detail,0020600028,61,959,Steve Nash,1610612756,Phoenix Suns,1,5,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,169,186,1,1,20061103,PHX,UTA
+Shot Chart Detail,0020600028,213,959,Steve Nash,1610612756,Phoenix Suns,2,2,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061103,PHX,UTA
+Shot Chart Detail,0020600039,15,959,Steve Nash,1610612756,Phoenix Suns,1,10,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-141,233,1,1,20061104,LAC,PHX
+Shot Chart Detail,0020600039,94,959,Steve Nash,1610612756,Phoenix Suns,1,4,17,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-29,81,1,1,20061104,LAC,PHX
+Shot Chart Detail,0020600039,206,959,Steve Nash,1610612756,Phoenix Suns,2,5,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-107,252,1,1,20061104,LAC,PHX
+Shot Chart Detail,0020600039,311,959,Steve Nash,1610612756,Phoenix Suns,3,9,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,184,63,1,1,20061104,LAC,PHX
+Shot Chart Detail,0020600039,334,959,Steve Nash,1610612756,Phoenix Suns,3,7,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,161,229,1,1,20061104,LAC,PHX
+Shot Chart Detail,0020600039,379,959,Steve Nash,1610612756,Phoenix Suns,3,2,58,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,125,17,1,1,20061104,LAC,PHX
+Shot Chart Detail,0020600039,381,959,Steve Nash,1610612756,Phoenix Suns,3,2,27,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061104,LAC,PHX
+Shot Chart Detail,0020600039,392,959,Steve Nash,1610612756,Phoenix Suns,3,0,1,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061104,LAC,PHX
+Shot Chart Detail,0020600039,483,959,Steve Nash,1610612756,Phoenix Suns,4,2,42,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061104,LAC,PHX
+Shot Chart Detail,0020600039,525,959,Steve Nash,1610612756,Phoenix Suns,4,0,12,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-48,33,1,1,20061104,LAC,PHX
+Shot Chart Detail,0020600064,68,959,Steve Nash,1610612756,Phoenix Suns,1,5,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,15,1,1,20061108,SAS,PHX
+Shot Chart Detail,0020600064,74,959,Steve Nash,1610612756,Phoenix Suns,1,4,23,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,13,125,1,1,20061108,SAS,PHX
+Shot Chart Detail,0020600064,250,959,Steve Nash,1610612756,Phoenix Suns,3,10,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-128,225,1,1,20061108,SAS,PHX
+Shot Chart Detail,0020600064,267,959,Steve Nash,1610612756,Phoenix Suns,3,8,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-10,18,1,1,20061108,SAS,PHX
+Shot Chart Detail,0020600064,272,959,Steve Nash,1610612756,Phoenix Suns,3,7,41,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,34,38,1,1,20061108,SAS,PHX
+Shot Chart Detail,0020600064,282,959,Steve Nash,1610612756,Phoenix Suns,3,6,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,10,22,1,1,20061108,SAS,PHX
+Shot Chart Detail,0020600064,418,959,Steve Nash,1610612756,Phoenix Suns,4,5,28,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,241,2,1,1,20061108,SAS,PHX
+Shot Chart Detail,0020600064,452,959,Steve Nash,1610612756,Phoenix Suns,4,1,25,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-36,26,1,1,20061108,SAS,PHX
+Shot Chart Detail,0020600064,508,959,Steve Nash,1610612756,Phoenix Suns,5,3,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-115,107,1,1,20061108,SAS,PHX
+Shot Chart Detail,0020600070,18,959,Steve Nash,1610612756,Phoenix Suns,1,9,46,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061109,PHX,DAL
+Shot Chart Detail,0020600070,40,959,Steve Nash,1610612756,Phoenix Suns,1,7,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,177,192,1,1,20061109,PHX,DAL
+Shot Chart Detail,0020600070,221,959,Steve Nash,1610612756,Phoenix Suns,2,0,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,186,158,1,1,20061109,PHX,DAL
+Shot Chart Detail,0020600070,260,959,Steve Nash,1610612756,Phoenix Suns,3,8,19,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-52,76,1,1,20061109,PHX,DAL
+Shot Chart Detail,0020600070,270,959,Steve Nash,1610612756,Phoenix Suns,3,7,8,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,11,115,1,1,20061109,PHX,DAL
+Shot Chart Detail,0020600070,344,959,Steve Nash,1610612756,Phoenix Suns,4,10,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,80,237,1,1,20061109,PHX,DAL
+Shot Chart Detail,0020600070,360,959,Steve Nash,1610612756,Phoenix Suns,4,9,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-115,61,1,1,20061109,PHX,DAL
+Shot Chart Detail,0020600070,451,959,Steve Nash,1610612756,Phoenix Suns,4,1,31,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-23,81,1,1,20061109,PHX,DAL
+Shot Chart Detail,0020600088,104,959,Steve Nash,1610612756,Phoenix Suns,1,2,59,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061111,PHX,MEM
+Shot Chart Detail,0020600088,161,959,Steve Nash,1610612756,Phoenix Suns,2,9,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,164,176,1,1,20061111,PHX,MEM
+Shot Chart Detail,0020600088,164,959,Steve Nash,1610612756,Phoenix Suns,2,9,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,71,150,1,1,20061111,PHX,MEM
+Shot Chart Detail,0020600088,274,959,Steve Nash,1610612756,Phoenix Suns,3,10,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-156,132,1,1,20061111,PHX,MEM
+Shot Chart Detail,0020600150,7,959,Steve Nash,1610612756,Phoenix Suns,1,11,4,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,52,45,1,1,20061120,GSW,PHX
+Shot Chart Detail,0020600150,41,959,Steve Nash,1610612756,Phoenix Suns,1,6,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-69,201,1,1,20061120,GSW,PHX
+Shot Chart Detail,0020600150,157,959,Steve Nash,1610612756,Phoenix Suns,2,6,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-172,196,1,1,20061120,GSW,PHX
+Shot Chart Detail,0020600150,170,959,Steve Nash,1610612756,Phoenix Suns,2,5,8,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,10,1,1,20061120,GSW,PHX
+Shot Chart Detail,0020600150,272,959,Steve Nash,1610612756,Phoenix Suns,3,7,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,94,105,1,1,20061120,GSW,PHX
+Shot Chart Detail,0020600150,283,959,Steve Nash,1610612756,Phoenix Suns,3,6,15,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,90,74,1,1,20061120,GSW,PHX
+Shot Chart Detail,0020600150,449,959,Steve Nash,1610612756,Phoenix Suns,4,2,43,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,0,51,1,1,20061120,GSW,PHX
+Shot Chart Detail,0020600150,485,959,Steve Nash,1610612756,Phoenix Suns,4,0,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,144,224,1,1,20061120,GSW,PHX
+Shot Chart Detail,0020600166,2,959,Steve Nash,1610612756,Phoenix Suns,1,11,43,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061122,PHX,NOK
+Shot Chart Detail,0020600166,7,959,Steve Nash,1610612756,Phoenix Suns,1,10,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,28,143,1,1,20061122,PHX,NOK
+Shot Chart Detail,0020600166,68,959,Steve Nash,1610612756,Phoenix Suns,1,4,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,159,192,1,1,20061122,PHX,NOK
+Shot Chart Detail,0020600166,170,959,Steve Nash,1610612756,Phoenix Suns,2,6,12,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,80,48,1,1,20061122,PHX,NOK
+Shot Chart Detail,0020600166,292,959,Steve Nash,1610612756,Phoenix Suns,3,3,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,80,163,1,1,20061122,PHX,NOK
+Shot Chart Detail,0020600166,384,959,Steve Nash,1610612756,Phoenix Suns,4,6,40,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-18,64,1,1,20061122,PHX,NOK
+Shot Chart Detail,0020600166,406,959,Steve Nash,1610612756,Phoenix Suns,4,4,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,177,169,1,1,20061122,PHX,NOK
+Shot Chart Detail,0020600166,408,959,Steve Nash,1610612756,Phoenix Suns,4,3,39,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061122,PHX,NOK
+Shot Chart Detail,0020600182,12,959,Steve Nash,1610612756,Phoenix Suns,1,10,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-140,102,1,1,20061124,PHX,NJN
+Shot Chart Detail,0020600182,28,959,Steve Nash,1610612756,Phoenix Suns,1,7,41,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061124,PHX,NJN
+Shot Chart Detail,0020600182,64,959,Steve Nash,1610612756,Phoenix Suns,1,3,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,153,-9,1,1,20061124,PHX,NJN
+Shot Chart Detail,0020600182,74,959,Steve Nash,1610612756,Phoenix Suns,1,2,7,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061124,PHX,NJN
+Shot Chart Detail,0020600182,79,959,Steve Nash,1610612756,Phoenix Suns,1,1,7,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-18,138,1,1,20061124,PHX,NJN
+Shot Chart Detail,0020600182,225,959,Steve Nash,1610612756,Phoenix Suns,2,0,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,120,145,1,1,20061124,PHX,NJN
+Shot Chart Detail,0020600182,283,959,Steve Nash,1610612756,Phoenix Suns,3,7,5,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,23,1,1,20061124,PHX,NJN
+Shot Chart Detail,0020600182,385,959,Steve Nash,1610612756,Phoenix Suns,4,9,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,144,202,1,1,20061124,PHX,NJN
+Shot Chart Detail,0020600182,403,959,Steve Nash,1610612756,Phoenix Suns,4,7,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061124,PHX,NJN
+Shot Chart Detail,0020600197,27,959,Steve Nash,1610612756,Phoenix Suns,1,9,3,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-67,123,1,1,20061126,POR,PHX
+Shot Chart Detail,0020600197,34,959,Steve Nash,1610612756,Phoenix Suns,1,8,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,199,2,1,1,20061126,POR,PHX
+Shot Chart Detail,0020600197,187,959,Steve Nash,1610612756,Phoenix Suns,2,2,9,Made Shot,Driving Finger Roll Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061126,POR,PHX
+Shot Chart Detail,0020600197,200,959,Steve Nash,1610612756,Phoenix Suns,2,0,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-143,150,1,1,20061126,POR,PHX
+Shot Chart Detail,0020600197,249,959,Steve Nash,1610612756,Phoenix Suns,3,7,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-148,141,1,1,20061126,POR,PHX
+Shot Chart Detail,0020600197,254,959,Steve Nash,1610612756,Phoenix Suns,3,6,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-200,138,1,1,20061126,POR,PHX
+Shot Chart Detail,0020600197,367,959,Steve Nash,1610612756,Phoenix Suns,4,7,22,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061126,POR,PHX
+Shot Chart Detail,0020600197,388,959,Steve Nash,1610612756,Phoenix Suns,4,5,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-8,242,1,1,20061126,POR,PHX
+Shot Chart Detail,0020600197,391,959,Steve Nash,1610612756,Phoenix Suns,4,5,6,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061126,POR,PHX
+Shot Chart Detail,0020600218,10,959,Steve Nash,1610612756,Phoenix Suns,1,10,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-177,3,1,1,20061129,PHX,HOU
+Shot Chart Detail,0020600218,278,959,Steve Nash,1610612756,Phoenix Suns,3,8,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,16,255,1,1,20061129,PHX,HOU
+Shot Chart Detail,0020600218,397,959,Steve Nash,1610612756,Phoenix Suns,4,9,8,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,61,1,1,20061129,PHX,HOU
+Shot Chart Detail,0020600218,400,959,Steve Nash,1610612756,Phoenix Suns,4,8,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-164,150,1,1,20061129,PHX,HOU
+Shot Chart Detail,0020600218,450,959,Steve Nash,1610612756,Phoenix Suns,4,4,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,182,169,1,1,20061129,PHX,HOU
+Shot Chart Detail,0020600231,11,959,Steve Nash,1610612756,Phoenix Suns,1,10,23,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061201,PHX,MIL
+Shot Chart Detail,0020600231,188,959,Steve Nash,1610612756,Phoenix Suns,2,4,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,131,218,1,1,20061201,PHX,MIL
+Shot Chart Detail,0020600231,191,959,Steve Nash,1610612756,Phoenix Suns,2,3,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,7,246,1,1,20061201,PHX,MIL
+Shot Chart Detail,0020600231,198,959,Steve Nash,1610612756,Phoenix Suns,2,3,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-134,94,1,1,20061201,PHX,MIL
+Shot Chart Detail,0020600231,240,959,Steve Nash,1610612756,Phoenix Suns,3,9,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,14,258,1,1,20061201,PHX,MIL
+Shot Chart Detail,0020600231,242,959,Steve Nash,1610612756,Phoenix Suns,3,9,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,115,187,1,1,20061201,PHX,MIL
+Shot Chart Detail,0020600231,245,959,Steve Nash,1610612756,Phoenix Suns,3,8,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-200,155,1,1,20061201,PHX,MIL
+Shot Chart Detail,0020600231,270,959,Steve Nash,1610612756,Phoenix Suns,3,6,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,103,154,1,1,20061201,PHX,MIL
+Shot Chart Detail,0020600258,57,959,Steve Nash,1610612756,Phoenix Suns,1,6,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,169,206,1,1,20061205,PHX,SAC
+Shot Chart Detail,0020600258,69,959,Steve Nash,1610612756,Phoenix Suns,1,4,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,133,13,1,1,20061205,PHX,SAC
+Shot Chart Detail,0020600258,217,959,Steve Nash,1610612756,Phoenix Suns,2,1,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,177,183,1,1,20061205,PHX,SAC
+Shot Chart Detail,0020600258,435,959,Steve Nash,1610612756,Phoenix Suns,4,5,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-138,225,1,1,20061205,PHX,SAC
+Shot Chart Detail,0020600271,24,959,Steve Nash,1610612756,Phoenix Suns,1,9,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,146,197,1,1,20061207,NJN,PHX
+Shot Chart Detail,0020600271,56,959,Steve Nash,1610612756,Phoenix Suns,1,6,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,149,194,1,1,20061207,NJN,PHX
+Shot Chart Detail,0020600271,176,959,Steve Nash,1610612756,Phoenix Suns,2,6,0,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-79,23,1,1,20061207,NJN,PHX
+Shot Chart Detail,0020600271,204,959,Steve Nash,1610612756,Phoenix Suns,2,3,9,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061207,NJN,PHX
+Shot Chart Detail,0020600271,258,959,Steve Nash,1610612756,Phoenix Suns,3,9,45,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-5,41,1,1,20061207,NJN,PHX
+Shot Chart Detail,0020600271,295,959,Steve Nash,1610612756,Phoenix Suns,3,6,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-135,-5,1,1,20061207,NJN,PHX
+Shot Chart Detail,0020600271,396,959,Steve Nash,1610612756,Phoenix Suns,4,9,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-161,194,1,1,20061207,NJN,PHX
+Shot Chart Detail,0020600271,402,959,Steve Nash,1610612756,Phoenix Suns,4,8,43,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061207,NJN,PHX
+Shot Chart Detail,0020600271,408,959,Steve Nash,1610612756,Phoenix Suns,4,8,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-62,168,1,1,20061207,NJN,PHX
+Shot Chart Detail,0020600271,433,959,Steve Nash,1610612756,Phoenix Suns,4,5,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,47,245,1,1,20061207,NJN,PHX
+Shot Chart Detail,0020600271,445,959,Steve Nash,1610612756,Phoenix Suns,4,4,35,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061207,NJN,PHX
+Shot Chart Detail,0020600271,506,959,Steve Nash,1610612756,Phoenix Suns,4,0,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-23,289,1,1,20061207,NJN,PHX
+Shot Chart Detail,0020600271,542,959,Steve Nash,1610612756,Phoenix Suns,5,1,23,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061207,NJN,PHX
+Shot Chart Detail,0020600271,563,959,Steve Nash,1610612756,Phoenix Suns,6,4,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-174,146,1,1,20061207,NJN,PHX
+Shot Chart Detail,0020600271,577,959,Steve Nash,1610612756,Phoenix Suns,6,2,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-148,197,1,1,20061207,NJN,PHX
+Shot Chart Detail,0020600271,580,959,Steve Nash,1610612756,Phoenix Suns,6,2,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061207,NJN,PHX
+Shot Chart Detail,0020600277,4,959,Steve Nash,1610612756,Phoenix Suns,1,11,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,10,247,1,1,20061208,BOS,PHX
+Shot Chart Detail,0020600277,180,959,Steve Nash,1610612756,Phoenix Suns,2,6,51,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,11,-59,95,1,1,20061208,BOS,PHX
+Shot Chart Detail,0020600277,299,959,Steve Nash,1610612756,Phoenix Suns,3,8,10,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,14,-74,125,1,1,20061208,BOS,PHX
+Shot Chart Detail,0020600277,334,959,Steve Nash,1610612756,Phoenix Suns,3,3,44,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-3,3,1,1,20061208,BOS,PHX
+Shot Chart Detail,0020600277,344,959,Steve Nash,1610612756,Phoenix Suns,3,2,15,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,2,1,1,20061208,BOS,PHX
+Shot Chart Detail,0020600277,449,959,Steve Nash,1610612756,Phoenix Suns,4,1,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,74,155,1,1,20061208,BOS,PHX
+Shot Chart Detail,0020600296,170,959,Steve Nash,1610612756,Phoenix Suns,2,4,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,167,61,1,1,20061210,CHA,PHX
+Shot Chart Detail,0020600296,233,959,Steve Nash,1610612756,Phoenix Suns,3,10,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061210,CHA,PHX
+Shot Chart Detail,0020600296,244,959,Steve Nash,1610612756,Phoenix Suns,3,8,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061210,CHA,PHX
+Shot Chart Detail,0020600296,248,959,Steve Nash,1610612756,Phoenix Suns,3,8,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061210,CHA,PHX
+Shot Chart Detail,0020600296,277,959,Steve Nash,1610612756,Phoenix Suns,3,4,47,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061210,CHA,PHX
+Shot Chart Detail,0020600301,17,959,Steve Nash,1610612756,Phoenix Suns,1,10,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061211,ORL,PHX
+Shot Chart Detail,0020600301,45,959,Steve Nash,1610612756,Phoenix Suns,1,6,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,197,156,1,1,20061211,ORL,PHX
+Shot Chart Detail,0020600301,47,959,Steve Nash,1610612756,Phoenix Suns,1,5,36,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061211,ORL,PHX
+Shot Chart Detail,0020600301,223,959,Steve Nash,1610612756,Phoenix Suns,2,1,33,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,159,25,1,1,20061211,ORL,PHX
+Shot Chart Detail,0020600301,249,959,Steve Nash,1610612756,Phoenix Suns,3,10,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061211,ORL,PHX
+Shot Chart Detail,0020600301,425,959,Steve Nash,1610612756,Phoenix Suns,4,7,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,79,140,1,1,20061211,ORL,PHX
+Shot Chart Detail,0020600316,22,959,Steve Nash,1610612756,Phoenix Suns,1,9,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,207,0,1,1,20061213,MIA,PHX
+Shot Chart Detail,0020600316,54,959,Steve Nash,1610612756,Phoenix Suns,1,5,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,51,184,1,1,20061213,MIA,PHX
+Shot Chart Detail,0020600316,57,959,Steve Nash,1610612756,Phoenix Suns,1,5,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-140,202,1,1,20061213,MIA,PHX
+Shot Chart Detail,0020600316,250,959,Steve Nash,1610612756,Phoenix Suns,3,9,3,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,163,2,1,1,20061213,MIA,PHX
+Shot Chart Detail,0020600316,437,959,Steve Nash,1610612756,Phoenix Suns,4,2,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,20,250,1,1,20061213,MIA,PHX
+Shot Chart Detail,0020600338,41,959,Steve Nash,1610612756,Phoenix Suns,1,8,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061215,PHX,GSW
+Shot Chart Detail,0020600338,86,959,Steve Nash,1610612756,Phoenix Suns,1,3,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-225,132,1,1,20061215,PHX,GSW
+Shot Chart Detail,0020600338,95,959,Steve Nash,1610612756,Phoenix Suns,1,3,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-212,138,1,1,20061215,PHX,GSW
+Shot Chart Detail,0020600338,256,959,Steve Nash,1610612756,Phoenix Suns,2,0,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-192,176,1,1,20061215,PHX,GSW
+Shot Chart Detail,0020600338,353,959,Steve Nash,1610612756,Phoenix Suns,3,2,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,174,49,1,1,20061215,PHX,GSW
+Shot Chart Detail,0020600338,421,959,Steve Nash,1610612756,Phoenix Suns,4,8,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,149,209,1,1,20061215,PHX,GSW
+Shot Chart Detail,0020600350,211,959,Steve Nash,1610612756,Phoenix Suns,2,1,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,200,141,1,1,20061216,SAC,PHX
+Shot Chart Detail,0020600350,224,959,Steve Nash,1610612756,Phoenix Suns,2,0,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-161,184,1,1,20061216,SAC,PHX
+Shot Chart Detail,0020600350,242,959,Steve Nash,1610612756,Phoenix Suns,3,10,29,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,102,120,1,1,20061216,SAC,PHX
+Shot Chart Detail,0020600350,255,959,Steve Nash,1610612756,Phoenix Suns,3,9,21,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-75,10,1,1,20061216,SAC,PHX
+Shot Chart Detail,0020600350,269,959,Steve Nash,1610612756,Phoenix Suns,3,7,38,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061216,SAC,PHX
+Shot Chart Detail,0020600350,291,959,Steve Nash,1610612756,Phoenix Suns,3,5,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-71,156,1,1,20061216,SAC,PHX
+Shot Chart Detail,0020600350,456,959,Steve Nash,1610612756,Phoenix Suns,4,0,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,89,189,1,1,20061216,SAC,PHX
+Shot Chart Detail,0020600363,246,959,Steve Nash,1610612756,Phoenix Suns,3,10,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-194,171,1,1,20061219,PHX,TOR
+Shot Chart Detail,0020600363,274,959,Steve Nash,1610612756,Phoenix Suns,3,7,18,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,12,1,1,20061219,PHX,TOR
+Shot Chart Detail,0020600363,314,959,Steve Nash,1610612756,Phoenix Suns,3,4,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-100,240,1,1,20061219,PHX,TOR
+Shot Chart Detail,0020600373,50,959,Steve Nash,1610612756,Phoenix Suns,1,6,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-181,163,1,1,20070205,DEN,PHX
+Shot Chart Detail,0020600373,177,959,Steve Nash,1610612756,Phoenix Suns,2,6,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,21,171,1,1,20070205,DEN,PHX
+Shot Chart Detail,0020600373,186,959,Steve Nash,1610612756,Phoenix Suns,2,5,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070205,DEN,PHX
+Shot Chart Detail,0020600391,14,959,Steve Nash,1610612756,Phoenix Suns,1,10,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061222,PHX,WAS
+Shot Chart Detail,0020600391,25,959,Steve Nash,1610612756,Phoenix Suns,1,9,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-133,155,1,1,20061222,PHX,WAS
+Shot Chart Detail,0020600391,32,959,Steve Nash,1610612756,Phoenix Suns,1,8,42,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,15,76,1,1,20061222,PHX,WAS
+Shot Chart Detail,0020600391,204,959,Steve Nash,1610612756,Phoenix Suns,2,1,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,67,155,1,1,20061222,PHX,WAS
+Shot Chart Detail,0020600391,213,959,Steve Nash,1610612756,Phoenix Suns,2,0,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-158,114,1,1,20061222,PHX,WAS
+Shot Chart Detail,0020600391,222,959,Steve Nash,1610612756,Phoenix Suns,3,11,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,84,150,1,1,20061222,PHX,WAS
+Shot Chart Detail,0020600391,227,959,Steve Nash,1610612756,Phoenix Suns,3,10,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-205,161,1,1,20061222,PHX,WAS
+Shot Chart Detail,0020600391,253,959,Steve Nash,1610612756,Phoenix Suns,3,7,56,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-245,22,1,1,20061222,PHX,WAS
+Shot Chart Detail,0020600391,257,959,Steve Nash,1610612756,Phoenix Suns,3,7,28,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-13,99,1,1,20061222,PHX,WAS
+Shot Chart Detail,0020600391,259,959,Steve Nash,1610612756,Phoenix Suns,3,6,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,135,214,1,1,20061222,PHX,WAS
+Shot Chart Detail,0020600391,382,959,Steve Nash,1610612756,Phoenix Suns,4,7,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,148,199,1,1,20061222,PHX,WAS
+Shot Chart Detail,0020600391,433,959,Steve Nash,1610612756,Phoenix Suns,4,2,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-28,258,1,1,20061222,PHX,WAS
+Shot Chart Detail,0020600391,523,959,Steve Nash,1610612756,Phoenix Suns,5,1,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-200,171,1,1,20061222,PHX,WAS
+Shot Chart Detail,0020600391,552,959,Steve Nash,1610612756,Phoenix Suns,5,0,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-217,138,1,1,20061222,PHX,WAS
+Shot Chart Detail,0020600412,37,959,Steve Nash,1610612756,Phoenix Suns,1,7,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,113,153,1,1,20061226,PHX,POR
+Shot Chart Detail,0020600412,60,959,Steve Nash,1610612756,Phoenix Suns,1,4,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,146,95,1,1,20061226,PHX,POR
+Shot Chart Detail,0020600412,76,959,Steve Nash,1610612756,Phoenix Suns,1,3,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-151,212,1,1,20061226,PHX,POR
+Shot Chart Detail,0020600412,297,959,Steve Nash,1610612756,Phoenix Suns,3,2,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061226,PHX,POR
+Shot Chart Detail,0020600426,12,959,Steve Nash,1610612756,Phoenix Suns,1,10,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061228,DAL,PHX
+Shot Chart Detail,0020600426,47,959,Steve Nash,1610612756,Phoenix Suns,1,6,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,23,-136,197,1,1,20061228,DAL,PHX
+Shot Chart Detail,0020600426,71,959,Steve Nash,1610612756,Phoenix Suns,1,5,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,0,164,1,1,20061228,DAL,PHX
+Shot Chart Detail,0020600426,176,959,Steve Nash,1610612756,Phoenix Suns,2,6,59,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-52,91,1,1,20061228,DAL,PHX
+Shot Chart Detail,0020600426,192,959,Steve Nash,1610612756,Phoenix Suns,2,5,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-200,140,1,1,20061228,DAL,PHX
+Shot Chart Detail,0020600426,229,959,Steve Nash,1610612756,Phoenix Suns,2,1,4,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061228,DAL,PHX
+Shot Chart Detail,0020600426,268,959,Steve Nash,1610612756,Phoenix Suns,3,9,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,140,54,1,1,20061228,DAL,PHX
+Shot Chart Detail,0020600426,297,959,Steve Nash,1610612756,Phoenix Suns,3,6,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-164,179,1,1,20061228,DAL,PHX
+Shot Chart Detail,0020600426,320,959,Steve Nash,1610612756,Phoenix Suns,3,3,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,95,150,1,1,20061228,DAL,PHX
+Shot Chart Detail,0020600426,454,959,Steve Nash,1610612756,Phoenix Suns,4,3,39,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-118,17,1,1,20061228,DAL,PHX
+Shot Chart Detail,0020600438,14,959,Steve Nash,1610612756,Phoenix Suns,1,9,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-204,166,1,1,20061229,PHX,NYK
+Shot Chart Detail,0020600438,27,959,Steve Nash,1610612756,Phoenix Suns,1,8,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,135,217,1,1,20061229,PHX,NYK
+Shot Chart Detail,0020600438,39,959,Steve Nash,1610612756,Phoenix Suns,1,7,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-223,148,1,1,20061229,PHX,NYK
+Shot Chart Detail,0020600438,179,959,Steve Nash,1610612756,Phoenix Suns,2,6,40,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061229,PHX,NYK
+Shot Chart Detail,0020600438,209,959,Steve Nash,1610612756,Phoenix Suns,2,2,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,133,114,1,1,20061229,PHX,NYK
+Shot Chart Detail,0020600438,317,959,Steve Nash,1610612756,Phoenix Suns,3,3,28,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,25,1,1,20061229,PHX,NYK
+Shot Chart Detail,0020600438,359,959,Steve Nash,1610612756,Phoenix Suns,4,11,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,199,143,1,1,20061229,PHX,NYK
+Shot Chart Detail,0020600453,14,959,Steve Nash,1610612756,Phoenix Suns,1,9,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-100,237,1,1,20061231,DET,PHX
+Shot Chart Detail,0020600453,33,959,Steve Nash,1610612756,Phoenix Suns,1,6,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,213,150,1,1,20061231,DET,PHX
+Shot Chart Detail,0020600453,112,959,Steve Nash,1610612756,Phoenix Suns,2,8,39,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-87,40,1,1,20061231,DET,PHX
+Shot Chart Detail,0020600453,116,959,Steve Nash,1610612756,Phoenix Suns,2,8,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061231,DET,PHX
+Shot Chart Detail,0020600453,121,959,Steve Nash,1610612756,Phoenix Suns,2,6,56,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,-8,1,1,20061231,DET,PHX
+Shot Chart Detail,0020600453,162,959,Steve Nash,1610612756,Phoenix Suns,2,2,43,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,15,110,1,1,20061231,DET,PHX
+Shot Chart Detail,0020600453,199,959,Steve Nash,1610612756,Phoenix Suns,3,10,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,51,248,1,1,20061231,DET,PHX
+Shot Chart Detail,0020600453,233,959,Steve Nash,1610612756,Phoenix Suns,3,6,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,61,248,1,1,20061231,DET,PHX
+Shot Chart Detail,0020600453,248,959,Steve Nash,1610612756,Phoenix Suns,3,5,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,164,151,1,1,20061231,DET,PHX
+Shot Chart Detail,0020600453,382,959,Steve Nash,1610612756,Phoenix Suns,4,4,44,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,46,169,1,1,20061231,DET,PHX
+Shot Chart Detail,0020600453,385,959,Steve Nash,1610612756,Phoenix Suns,4,4,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-105,235,1,1,20061231,DET,PHX
+Shot Chart Detail,0020600453,404,959,Steve Nash,1610612756,Phoenix Suns,4,0,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061231,DET,PHX
+Shot Chart Detail,0020600463,174,959,Steve Nash,1610612756,Phoenix Suns,2,5,27,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070102,CHI,PHX
+Shot Chart Detail,0020600463,182,959,Steve Nash,1610612756,Phoenix Suns,2,4,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070102,CHI,PHX
+Shot Chart Detail,0020600463,302,959,Steve Nash,1610612756,Phoenix Suns,3,4,35,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-154,35,1,1,20070102,CHI,PHX
+Shot Chart Detail,0020600463,388,959,Steve Nash,1610612756,Phoenix Suns,4,7,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,190,191,1,1,20070102,CHI,PHX
+Shot Chart Detail,0020600467,286,959,Steve Nash,1610612756,Phoenix Suns,3,6,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-100,148,1,1,20070103,TOR,PHX
+Shot Chart Detail,0020600467,400,959,Steve Nash,1610612756,Phoenix Suns,4,7,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-13,248,1,1,20070103,TOR,PHX
+Shot Chart Detail,0020600467,412,959,Steve Nash,1610612756,Phoenix Suns,4,6,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,47,140,1,1,20070103,TOR,PHX
+Shot Chart Detail,0020600467,450,959,Steve Nash,1610612756,Phoenix Suns,4,1,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,189,151,1,1,20070103,TOR,PHX
+Shot Chart Detail,0020600467,466,959,Steve Nash,1610612756,Phoenix Suns,4,0,11,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,133,74,1,1,20070103,TOR,PHX
+Shot Chart Detail,0020600488,17,959,Steve Nash,1610612756,Phoenix Suns,1,10,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,135,214,1,1,20070105,PHX,MIA
+Shot Chart Detail,0020600488,35,959,Steve Nash,1610612756,Phoenix Suns,1,7,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-199,153,1,1,20070105,PHX,MIA
+Shot Chart Detail,0020600488,56,959,Steve Nash,1610612756,Phoenix Suns,1,4,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-115,155,1,1,20070105,PHX,MIA
+Shot Chart Detail,0020600488,63,959,Steve Nash,1610612756,Phoenix Suns,1,3,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070105,PHX,MIA
+Shot Chart Detail,0020600488,157,959,Steve Nash,1610612756,Phoenix Suns,2,6,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,169,192,1,1,20070105,PHX,MIA
+Shot Chart Detail,0020600488,260,959,Steve Nash,1610612756,Phoenix Suns,3,7,25,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,8,99,1,1,20070105,PHX,MIA
+Shot Chart Detail,0020600488,279,959,Steve Nash,1610612756,Phoenix Suns,3,4,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,220,122,1,1,20070105,PHX,MIA
+Shot Chart Detail,0020600488,390,959,Steve Nash,1610612756,Phoenix Suns,4,5,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070105,PHX,MIA
+Shot Chart Detail,0020600502,64,959,Steve Nash,1610612756,Phoenix Suns,1,6,29,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-51,74,1,1,20070107,PHX,GSW
+Shot Chart Detail,0020600502,97,959,Steve Nash,1610612756,Phoenix Suns,1,4,7,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-8,74,1,1,20070107,PHX,GSW
+Shot Chart Detail,0020600502,271,959,Steve Nash,1610612756,Phoenix Suns,2,1,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070107,PHX,GSW
+Shot Chart Detail,0020600502,276,959,Steve Nash,1610612756,Phoenix Suns,2,0,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-195,168,1,1,20070107,PHX,GSW
+Shot Chart Detail,0020600502,316,959,Steve Nash,1610612756,Phoenix Suns,3,8,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,200,153,1,1,20070107,PHX,GSW
+Shot Chart Detail,0020600502,341,959,Steve Nash,1610612756,Phoenix Suns,3,6,13,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-89,41,1,1,20070107,PHX,GSW
+Shot Chart Detail,0020600514,43,959,Steve Nash,1610612756,Phoenix Suns,1,7,25,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,20,59,1,1,20070109,PHX,SEA
+Shot Chart Detail,0020600514,50,959,Steve Nash,1610612756,Phoenix Suns,1,6,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-194,189,1,1,20070109,PHX,SEA
+Shot Chart Detail,0020600514,54,959,Steve Nash,1610612756,Phoenix Suns,1,6,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-154,217,1,1,20070109,PHX,SEA
+Shot Chart Detail,0020600514,82,959,Steve Nash,1610612756,Phoenix Suns,1,2,19,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070109,PHX,SEA
+Shot Chart Detail,0020600514,183,959,Steve Nash,1610612756,Phoenix Suns,2,4,44,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070109,PHX,SEA
+Shot Chart Detail,0020600514,185,959,Steve Nash,1610612756,Phoenix Suns,2,4,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070109,PHX,SEA
+Shot Chart Detail,0020600514,206,959,Steve Nash,1610612756,Phoenix Suns,2,1,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-66,243,1,1,20070109,PHX,SEA
+Shot Chart Detail,0020600514,222,959,Steve Nash,1610612756,Phoenix Suns,2,0,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-191,169,1,1,20070109,PHX,SEA
+Shot Chart Detail,0020600514,286,959,Steve Nash,1610612756,Phoenix Suns,3,5,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,176,181,1,1,20070109,PHX,SEA
+Shot Chart Detail,0020600514,317,959,Steve Nash,1610612756,Phoenix Suns,3,2,1,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070109,PHX,SEA
+Shot Chart Detail,0020600514,403,959,Steve Nash,1610612756,Phoenix Suns,4,5,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,92,138,1,1,20070109,PHX,SEA
+Shot Chart Detail,0020600529,155,959,Steve Nash,1610612756,Phoenix Suns,2,7,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070111,PHX,CLE
+Shot Chart Detail,0020600529,333,959,Steve Nash,1610612756,Phoenix Suns,3,2,47,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,15,-80,135,1,1,20070111,PHX,CLE
+Shot Chart Detail,0020600549,9,959,Steve Nash,1610612756,Phoenix Suns,1,10,42,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-31,97,1,1,20070113,PHX,ORL
+Shot Chart Detail,0020600549,25,959,Steve Nash,1610612756,Phoenix Suns,1,8,22,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070113,PHX,ORL
+Shot Chart Detail,0020600549,40,959,Steve Nash,1610612756,Phoenix Suns,1,6,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,-184,115,1,1,20070113,PHX,ORL
+Shot Chart Detail,0020600549,61,959,Steve Nash,1610612756,Phoenix Suns,1,4,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-84,110,1,1,20070113,PHX,ORL
+Shot Chart Detail,0020600549,79,959,Steve Nash,1610612756,Phoenix Suns,1,2,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,148,49,1,1,20070113,PHX,ORL
+Shot Chart Detail,0020600549,92,959,Steve Nash,1610612756,Phoenix Suns,1,0,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-164,74,1,1,20070113,PHX,ORL
+Shot Chart Detail,0020600549,156,959,Steve Nash,1610612756,Phoenix Suns,2,6,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,159,187,1,1,20070113,PHX,ORL
+Shot Chart Detail,0020600549,237,959,Steve Nash,1610612756,Phoenix Suns,3,8,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-154,214,1,1,20070113,PHX,ORL
+Shot Chart Detail,0020600563,21,959,Steve Nash,1610612756,Phoenix Suns,1,8,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-148,109,1,1,20070115,MEM,PHX
+Shot Chart Detail,0020600563,26,959,Steve Nash,1610612756,Phoenix Suns,1,8,2,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,-8,1,1,20070115,MEM,PHX
+Shot Chart Detail,0020600563,262,959,Steve Nash,1610612756,Phoenix Suns,3,8,39,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,56,130,1,1,20070115,MEM,PHX
+Shot Chart Detail,0020600563,429,959,Steve Nash,1610612756,Phoenix Suns,4,3,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,22,209,69,1,1,20070115,MEM,PHX
+Shot Chart Detail,0020600563,445,959,Steve Nash,1610612756,Phoenix Suns,4,1,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,71,242,1,1,20070115,MEM,PHX
+Shot Chart Detail,0020600575,24,959,Steve Nash,1610612756,Phoenix Suns,1,8,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,54,253,1,1,20070117,HOU,PHX
+Shot Chart Detail,0020600575,42,959,Steve Nash,1610612756,Phoenix Suns,1,6,35,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-56,72,1,1,20070117,HOU,PHX
+Shot Chart Detail,0020600575,170,959,Steve Nash,1610612756,Phoenix Suns,2,6,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-33,174,1,1,20070117,HOU,PHX
+Shot Chart Detail,0020600575,190,959,Steve Nash,1610612756,Phoenix Suns,2,3,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,118,237,1,1,20070117,HOU,PHX
+Shot Chart Detail,0020600575,247,959,Steve Nash,1610612756,Phoenix Suns,3,8,57,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,11,-66,89,1,1,20070117,HOU,PHX
+Shot Chart Detail,0020600575,400,959,Steve Nash,1610612756,Phoenix Suns,4,4,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-87,238,1,1,20070117,HOU,PHX
+Shot Chart Detail,0020600575,433,959,Steve Nash,1610612756,Phoenix Suns,4,1,24,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-2,105,1,1,20070117,HOU,PHX
+Shot Chart Detail,0020600575,436,959,Steve Nash,1610612756,Phoenix Suns,4,0,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-148,97,1,1,20070117,HOU,PHX
+Shot Chart Detail,0020600589,187,959,Steve Nash,1610612756,Phoenix Suns,2,3,59,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070119,PHX,POR
+Shot Chart Detail,0020600589,253,959,Steve Nash,1610612756,Phoenix Suns,3,7,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,97,137,1,1,20070119,PHX,POR
+Shot Chart Detail,0020600589,405,959,Steve Nash,1610612756,Phoenix Suns,4,1,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-163,117,1,1,20070119,PHX,POR
+Shot Chart Detail,0020600589,410,959,Steve Nash,1610612756,Phoenix Suns,4,0,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,28,171,1,1,20070119,PHX,POR
+Shot Chart Detail,0020600604,13,959,Steve Nash,1610612756,Phoenix Suns,1,10,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-166,118,1,1,20070121,PHX,MIN
+Shot Chart Detail,0020600604,27,959,Steve Nash,1610612756,Phoenix Suns,1,8,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,13,257,1,1,20070121,PHX,MIN
+Shot Chart Detail,0020600604,71,959,Steve Nash,1610612756,Phoenix Suns,1,3,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,38,174,1,1,20070121,PHX,MIN
+Shot Chart Detail,0020600604,178,959,Steve Nash,1610612756,Phoenix Suns,2,5,42,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070121,PHX,MIN
+Shot Chart Detail,0020600604,192,959,Steve Nash,1610612756,Phoenix Suns,2,3,54,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070121,PHX,MIN
+Shot Chart Detail,0020600604,255,959,Steve Nash,1610612756,Phoenix Suns,3,10,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-176,178,1,1,20070121,PHX,MIN
+Shot Chart Detail,0020600616,16,959,Steve Nash,1610612756,Phoenix Suns,1,10,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-130,-16,1,1,20070123,WAS,PHX
+Shot Chart Detail,0020600616,24,959,Steve Nash,1610612756,Phoenix Suns,1,9,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,8,145,1,1,20070123,WAS,PHX
+Shot Chart Detail,0020600616,31,959,Steve Nash,1610612756,Phoenix Suns,1,8,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-6,-8,1,1,20070123,WAS,PHX
+Shot Chart Detail,0020600616,87,959,Steve Nash,1610612756,Phoenix Suns,1,3,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,117,224,1,1,20070123,WAS,PHX
+Shot Chart Detail,0020600616,89,959,Steve Nash,1610612756,Phoenix Suns,1,2,48,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,64,-9,1,1,20070123,WAS,PHX
+Shot Chart Detail,0020600616,171,959,Steve Nash,1610612756,Phoenix Suns,2,6,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-161,197,1,1,20070123,WAS,PHX
+Shot Chart Detail,0020600616,224,959,Steve Nash,1610612756,Phoenix Suns,2,1,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,192,160,1,1,20070123,WAS,PHX
+Shot Chart Detail,0020600616,239,959,Steve Nash,1610612756,Phoenix Suns,3,10,29,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,3,-24,1,1,20070123,WAS,PHX
+Shot Chart Detail,0020600616,376,959,Steve Nash,1610612756,Phoenix Suns,4,8,16,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,-8,1,1,20070123,WAS,PHX
+Shot Chart Detail,0020600616,407,959,Steve Nash,1610612756,Phoenix Suns,4,4,45,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-3,0,1,1,20070123,WAS,PHX
+Shot Chart Detail,0020600616,414,959,Steve Nash,1610612756,Phoenix Suns,4,3,36,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,169,69,1,1,20070123,WAS,PHX
+Shot Chart Detail,0020600626,30,959,Steve Nash,1610612756,Phoenix Suns,1,8,38,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,115,166,1,1,20070124,NYK,PHX
+Shot Chart Detail,0020600626,35,959,Steve Nash,1610612756,Phoenix Suns,1,7,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,105,192,1,1,20070124,NYK,PHX
+Shot Chart Detail,0020600626,40,959,Steve Nash,1610612756,Phoenix Suns,1,7,26,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070124,NYK,PHX
+Shot Chart Detail,0020600626,90,959,Steve Nash,1610612756,Phoenix Suns,1,3,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,49,250,1,1,20070124,NYK,PHX
+Shot Chart Detail,0020600626,216,959,Steve Nash,1610612756,Phoenix Suns,2,3,4,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,97,171,1,1,20070124,NYK,PHX
+Shot Chart Detail,0020600626,353,959,Steve Nash,1610612756,Phoenix Suns,3,3,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-74,245,1,1,20070124,NYK,PHX
+Shot Chart Detail,0020600626,469,959,Steve Nash,1610612756,Phoenix Suns,4,4,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-89,233,1,1,20070124,NYK,PHX
+Shot Chart Detail,0020600641,26,959,Steve Nash,1610612756,Phoenix Suns,1,8,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,11,261,1,1,20070126,MIL,PHX
+Shot Chart Detail,0020600641,199,959,Steve Nash,1610612756,Phoenix Suns,2,4,1,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070126,MIL,PHX
+Shot Chart Detail,0020600641,236,959,Steve Nash,1610612756,Phoenix Suns,2,0,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,146,59,1,1,20070126,MIL,PHX
+Shot Chart Detail,0020600641,309,959,Steve Nash,1610612756,Phoenix Suns,3,4,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-99,-16,1,1,20070126,MIL,PHX
+Shot Chart Detail,0020600641,313,959,Steve Nash,1610612756,Phoenix Suns,3,4,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070126,MIL,PHX
+Shot Chart Detail,0020600641,405,959,Steve Nash,1610612756,Phoenix Suns,4,7,9,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,2,1,1,20070126,MIL,PHX
+Shot Chart Detail,0020600641,462,959,Steve Nash,1610612756,Phoenix Suns,4,1,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-103,117,1,1,20070126,MIL,PHX
+Shot Chart Detail,0020600655,11,959,Steve Nash,1610612756,Phoenix Suns,1,10,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,138,206,1,1,20070128,CLE,PHX
+Shot Chart Detail,0020600655,33,959,Steve Nash,1610612756,Phoenix Suns,1,7,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-103,118,1,1,20070128,CLE,PHX
+Shot Chart Detail,0020600655,160,959,Steve Nash,1610612756,Phoenix Suns,2,7,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-90,229,1,1,20070128,CLE,PHX
+Shot Chart Detail,0020600655,164,959,Steve Nash,1610612756,Phoenix Suns,2,6,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,39,238,1,1,20070128,CLE,PHX
+Shot Chart Detail,0020600655,191,959,Steve Nash,1610612756,Phoenix Suns,2,3,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-85,38,1,1,20070128,CLE,PHX
+Shot Chart Detail,0020600655,206,959,Steve Nash,1610612756,Phoenix Suns,2,1,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-182,46,1,1,20070128,CLE,PHX
+Shot Chart Detail,0020600655,252,959,Steve Nash,1610612756,Phoenix Suns,3,7,42,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,0,1,1,20070128,CLE,PHX
+Shot Chart Detail,0020600655,254,959,Steve Nash,1610612756,Phoenix Suns,3,7,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,140,92,1,1,20070128,CLE,PHX
+Shot Chart Detail,0020600655,276,959,Steve Nash,1610612756,Phoenix Suns,3,4,53,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,1,1,1,20070128,CLE,PHX
+Shot Chart Detail,0020600655,384,959,Steve Nash,1610612756,Phoenix Suns,4,6,10,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,-5,1,1,20070128,CLE,PHX
+Shot Chart Detail,0020600664,2,959,Steve Nash,1610612756,Phoenix Suns,1,11,44,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070129,MIN,PHX
+Shot Chart Detail,0020600664,70,959,Steve Nash,1610612756,Phoenix Suns,1,3,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-164,120,1,1,20070129,MIN,PHX
+Shot Chart Detail,0020600664,184,959,Steve Nash,1610612756,Phoenix Suns,2,2,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-140,206,1,1,20070129,MIN,PHX
+Shot Chart Detail,0020600664,186,959,Steve Nash,1610612756,Phoenix Suns,2,2,34,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,15,77,135,1,1,20070129,MIN,PHX
+Shot Chart Detail,0020600664,230,959,Steve Nash,1610612756,Phoenix Suns,3,8,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-44,253,1,1,20070129,MIN,PHX
+Shot Chart Detail,0020600664,265,959,Steve Nash,1610612756,Phoenix Suns,3,4,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,79,151,1,1,20070129,MIN,PHX
+Shot Chart Detail,0020600664,356,959,Steve Nash,1610612756,Phoenix Suns,4,6,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,103,224,1,1,20070129,MIN,PHX
+Shot Chart Detail,0020600688,24,959,Steve Nash,1610612756,Phoenix Suns,1,7,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,140,104,1,1,20070201,PHX,SAS
+Shot Chart Detail,0020600688,169,959,Steve Nash,1610612756,Phoenix Suns,2,5,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-138,38,1,1,20070201,PHX,SAS
+Shot Chart Detail,0020600688,200,959,Steve Nash,1610612756,Phoenix Suns,2,1,37,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070201,PHX,SAS
+Shot Chart Detail,0020600688,203,959,Steve Nash,1610612756,Phoenix Suns,2,1,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-113,138,1,1,20070201,PHX,SAS
+Shot Chart Detail,0020600688,461,959,Steve Nash,1610612756,Phoenix Suns,4,1,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,110,151,1,1,20070201,PHX,SAS
+Shot Chart Detail,0020600706,11,959,Steve Nash,1610612756,Phoenix Suns,1,10,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-140,127,1,1,20070203,PHX,UTA
+Shot Chart Detail,0020600706,73,959,Steve Nash,1610612756,Phoenix Suns,1,3,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,131,164,1,1,20070203,PHX,UTA
+Shot Chart Detail,0020600706,75,959,Steve Nash,1610612756,Phoenix Suns,1,3,18,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070203,PHX,UTA
+Shot Chart Detail,0020600706,189,959,Steve Nash,1610612756,Phoenix Suns,2,1,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,128,219,1,1,20070203,PHX,UTA
+Shot Chart Detail,0020600706,191,959,Steve Nash,1610612756,Phoenix Suns,2,1,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-145,214,1,1,20070203,PHX,UTA
+Shot Chart Detail,0020600706,259,959,Steve Nash,1610612756,Phoenix Suns,3,7,24,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070203,PHX,UTA
+Shot Chart Detail,0020600706,285,959,Steve Nash,1610612756,Phoenix Suns,3,4,30,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,233,66,1,1,20070203,PHX,UTA
+Shot Chart Detail,0020600706,431,959,Steve Nash,1610612756,Phoenix Suns,4,1,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,87,243,1,1,20070203,PHX,UTA
+Shot Chart Detail,0020600799,36,959,Steve Nash,1610612756,Phoenix Suns,1,7,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,29,173,1,1,20070220,LAC,PHX
+Shot Chart Detail,0020600799,53,959,Steve Nash,1610612756,Phoenix Suns,1,5,56,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,1,71,1,1,20070220,LAC,PHX
+Shot Chart Detail,0020600799,79,959,Steve Nash,1610612756,Phoenix Suns,1,3,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070220,LAC,PHX
+Shot Chart Detail,0020600799,262,959,Steve Nash,1610612756,Phoenix Suns,3,8,53,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070220,LAC,PHX
+Shot Chart Detail,0020600799,290,959,Steve Nash,1610612756,Phoenix Suns,3,4,32,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070220,LAC,PHX
+Shot Chart Detail,0020600808,7,959,Steve Nash,1610612756,Phoenix Suns,1,10,23,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070221,PHX,BOS
+Shot Chart Detail,0020600808,191,959,Steve Nash,1610612756,Phoenix Suns,2,3,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-26,153,1,1,20070221,PHX,BOS
+Shot Chart Detail,0020600808,221,959,Steve Nash,1610612756,Phoenix Suns,2,0,12,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070221,PHX,BOS
+Shot Chart Detail,0020600808,295,959,Steve Nash,1610612756,Phoenix Suns,3,5,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-95,141,1,1,20070221,PHX,BOS
+Shot Chart Detail,0020600808,469,959,Steve Nash,1610612756,Phoenix Suns,4,0,27,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,54,115,1,1,20070221,PHX,BOS
+Shot Chart Detail,0020600822,191,959,Steve Nash,1610612756,Phoenix Suns,2,4,58,Made Shot,Driving Finger Roll Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070223,MIN,PHX
+Shot Chart Detail,0020600833,209,959,Steve Nash,1610612756,Phoenix Suns,2,3,18,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070225,ATL,PHX
+Shot Chart Detail,0020600833,228,959,Steve Nash,1610612756,Phoenix Suns,2,0,35,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070225,ATL,PHX
+Shot Chart Detail,0020600833,275,959,Steve Nash,1610612756,Phoenix Suns,3,7,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,135,130,1,1,20070225,ATL,PHX
+Shot Chart Detail,0020600833,330,959,Steve Nash,1610612756,Phoenix Suns,3,2,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070225,ATL,PHX
+Shot Chart Detail,0020600833,444,959,Steve Nash,1610612756,Phoenix Suns,4,3,23,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070225,ATL,PHX
+Shot Chart Detail,0020600851,27,959,Steve Nash,1610612756,Phoenix Suns,1,8,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,71,161,1,1,20070227,IND,PHX
+Shot Chart Detail,0020600851,49,959,Steve Nash,1610612756,Phoenix Suns,1,6,16,Made Shot,Driving Finger Roll Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,13,1,1,20070227,IND,PHX
+Shot Chart Detail,0020600851,80,959,Steve Nash,1610612756,Phoenix Suns,1,2,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-71,146,1,1,20070227,IND,PHX
+Shot Chart Detail,0020600851,193,959,Steve Nash,1610612756,Phoenix Suns,2,4,20,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,5,1,1,20070227,IND,PHX
+Shot Chart Detail,0020600851,202,959,Steve Nash,1610612756,Phoenix Suns,2,3,8,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-54,118,1,1,20070227,IND,PHX
+Shot Chart Detail,0020600851,234,959,Steve Nash,1610612756,Phoenix Suns,2,0,33,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,44,53,1,1,20070227,IND,PHX
+Shot Chart Detail,0020600851,263,959,Steve Nash,1610612756,Phoenix Suns,3,9,44,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,72,5,1,1,20070227,IND,PHX
+Shot Chart Detail,0020600851,403,959,Steve Nash,1610612756,Phoenix Suns,4,7,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,87,138,1,1,20070227,IND,PHX
+Shot Chart Detail,0020600851,411,959,Steve Nash,1610612756,Phoenix Suns,4,5,43,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,-5,1,1,20070227,IND,PHX
+Shot Chart Detail,0020600851,417,959,Steve Nash,1610612756,Phoenix Suns,4,5,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-99,110,1,1,20070227,IND,PHX
+Shot Chart Detail,0020600851,422,959,Steve Nash,1610612756,Phoenix Suns,4,4,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,16,252,1,1,20070227,IND,PHX
+Shot Chart Detail,0020600855,67,959,Steve Nash,1610612756,Phoenix Suns,1,4,57,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,61,23,1,1,20070228,PHI,PHX
+Shot Chart Detail,0020600855,149,959,Steve Nash,1610612756,Phoenix Suns,2,7,2,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-54,7,1,1,20070228,PHI,PHX
+Shot Chart Detail,0020600855,238,959,Steve Nash,1610612756,Phoenix Suns,3,10,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070228,PHI,PHX
+Shot Chart Detail,0020600855,279,959,Steve Nash,1610612756,Phoenix Suns,3,5,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,0,250,1,1,20070228,PHI,PHX
+Shot Chart Detail,0020600855,282,959,Steve Nash,1610612756,Phoenix Suns,3,5,31,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070228,PHI,PHX
+Shot Chart Detail,0020600855,360,959,Steve Nash,1610612756,Phoenix Suns,4,11,4,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,-28,1,1,20070228,PHI,PHX
+Shot Chart Detail,0020600855,381,959,Steve Nash,1610612756,Phoenix Suns,4,8,52,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,0,87,1,1,20070228,PHI,PHX
+Shot Chart Detail,0020600855,404,959,Steve Nash,1610612756,Phoenix Suns,4,5,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,87,-37,1,1,20070228,PHI,PHX
+Shot Chart Detail,0020600855,461,959,Steve Nash,1610612756,Phoenix Suns,4,0,5,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,15,257,1,1,20070228,PHI,PHX
+Shot Chart Detail,0020600877,11,959,Steve Nash,1610612756,Phoenix Suns,1,9,59,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070302,PHX,IND
+Shot Chart Detail,0020600877,22,959,Steve Nash,1610612756,Phoenix Suns,1,8,14,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070302,PHX,IND
+Shot Chart Detail,0020600877,33,959,Steve Nash,1610612756,Phoenix Suns,1,6,55,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070302,PHX,IND
+Shot Chart Detail,0020600877,167,959,Steve Nash,1610612756,Phoenix Suns,2,5,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-209,161,1,1,20070302,PHX,IND
+Shot Chart Detail,0020600877,190,959,Steve Nash,1610612756,Phoenix Suns,2,3,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-92,173,1,1,20070302,PHX,IND
+Shot Chart Detail,0020600877,224,959,Steve Nash,1610612756,Phoenix Suns,2,1,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-95,161,1,1,20070302,PHX,IND
+Shot Chart Detail,0020600877,310,959,Steve Nash,1610612756,Phoenix Suns,3,5,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070302,PHX,IND
+Shot Chart Detail,0020600877,405,959,Steve Nash,1610612756,Phoenix Suns,4,6,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,161,191,1,1,20070302,PHX,IND
+Shot Chart Detail,0020600890,35,959,Steve Nash,1610612756,Phoenix Suns,1,7,39,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070304,PHX,LAL
+Shot Chart Detail,0020600890,184,959,Steve Nash,1610612756,Phoenix Suns,2,4,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,174,40,1,1,20070304,PHX,LAL
+Shot Chart Detail,0020600890,234,959,Steve Nash,1610612756,Phoenix Suns,3,11,14,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070304,PHX,LAL
+Shot Chart Detail,0020600890,240,959,Steve Nash,1610612756,Phoenix Suns,3,10,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-148,26,1,1,20070304,PHX,LAL
+Shot Chart Detail,0020600890,269,959,Steve Nash,1610612756,Phoenix Suns,3,7,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070304,PHX,LAL
+Shot Chart Detail,0020600890,289,959,Steve Nash,1610612756,Phoenix Suns,3,5,39,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070304,PHX,LAL
+Shot Chart Detail,0020600890,387,959,Steve Nash,1610612756,Phoenix Suns,4,7,15,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,92,91,1,1,20070304,PHX,LAL
+Shot Chart Detail,0020600890,390,959,Steve Nash,1610612756,Phoenix Suns,4,6,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,209,146,1,1,20070304,PHX,LAL
+Shot Chart Detail,0020600890,394,959,Steve Nash,1610612756,Phoenix Suns,4,5,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-90,140,1,1,20070304,PHX,LAL
+Shot Chart Detail,0020600915,90,959,Steve Nash,1610612756,Phoenix Suns,1,2,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070307,PHX,CHA
+Shot Chart Detail,0020600915,177,959,Steve Nash,1610612756,Phoenix Suns,2,5,36,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070307,PHX,CHA
+Shot Chart Detail,0020600915,204,959,Steve Nash,1610612756,Phoenix Suns,2,2,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-209,145,1,1,20070307,PHX,CHA
+Shot Chart Detail,0020600915,273,959,Steve Nash,1610612756,Phoenix Suns,3,5,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-215,145,1,1,20070307,PHX,CHA
+Shot Chart Detail,0020600915,362,959,Steve Nash,1610612756,Phoenix Suns,4,8,20,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070307,PHX,CHA
+Shot Chart Detail,0020600915,448,959,Steve Nash,1610612756,Phoenix Suns,4,0,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-148,107,1,1,20070307,PHX,CHA
+Shot Chart Detail,0020600915,467,959,Steve Nash,1610612756,Phoenix Suns,5,4,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,118,84,1,1,20070307,PHX,CHA
+Shot Chart Detail,0020600915,508,959,Steve Nash,1610612756,Phoenix Suns,5,0,18,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-87,10,1,1,20070307,PHX,CHA
+Shot Chart Detail,0020600925,6,959,Steve Nash,1610612756,Phoenix Suns,1,10,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-214,133,1,1,20070309,PHX,NOK
+Shot Chart Detail,0020600925,47,959,Steve Nash,1610612756,Phoenix Suns,1,6,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,144,137,1,1,20070309,PHX,NOK
+Shot Chart Detail,0020600925,83,959,Steve Nash,1610612756,Phoenix Suns,1,2,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,181,186,1,1,20070309,PHX,NOK
+Shot Chart Detail,0020600925,201,959,Steve Nash,1610612756,Phoenix Suns,2,0,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,120,138,1,1,20070309,PHX,NOK
+Shot Chart Detail,0020600925,225,959,Steve Nash,1610612756,Phoenix Suns,3,10,5,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,61,72,1,1,20070309,PHX,NOK
+Shot Chart Detail,0020600925,257,959,Steve Nash,1610612756,Phoenix Suns,3,7,23,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-39,76,1,1,20070309,PHX,NOK
+Shot Chart Detail,0020600946,50,959,Steve Nash,1610612756,Phoenix Suns,1,5,41,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-10,153,1,1,20070312,PHX,HOU
+Shot Chart Detail,0020600946,74,959,Steve Nash,1610612756,Phoenix Suns,1,3,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-176,176,1,1,20070312,PHX,HOU
+Shot Chart Detail,0020600946,217,959,Steve Nash,1610612756,Phoenix Suns,3,10,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,89,91,1,1,20070312,PHX,HOU
+Shot Chart Detail,0020600946,417,959,Steve Nash,1610612756,Phoenix Suns,4,2,47,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070312,PHX,HOU
+Shot Chart Detail,0020600965,42,959,Steve Nash,1610612756,Phoenix Suns,1,7,34,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070314,DAL,PHX
+Shot Chart Detail,0020600965,63,959,Steve Nash,1610612756,Phoenix Suns,1,4,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,167,184,1,1,20070314,DAL,PHX
+Shot Chart Detail,0020600965,87,959,Steve Nash,1610612756,Phoenix Suns,1,2,52,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-51,53,1,1,20070314,DAL,PHX
+Shot Chart Detail,0020600965,166,959,Steve Nash,1610612756,Phoenix Suns,2,7,4,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,13,-74,115,1,1,20070314,DAL,PHX
+Shot Chart Detail,0020600965,217,959,Steve Nash,1610612756,Phoenix Suns,2,0,57,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-57,40,1,1,20070314,DAL,PHX
+Shot Chart Detail,0020600965,299,959,Steve Nash,1610612756,Phoenix Suns,3,4,8,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-84,125,1,1,20070314,DAL,PHX
+Shot Chart Detail,0020600965,356,959,Steve Nash,1610612756,Phoenix Suns,4,10,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-146,71,1,1,20070314,DAL,PHX
+Shot Chart Detail,0020600965,390,959,Steve Nash,1610612756,Phoenix Suns,4,5,39,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070314,DAL,PHX
+Shot Chart Detail,0020600965,453,959,Steve Nash,1610612756,Phoenix Suns,4,0,22,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070314,DAL,PHX
+Shot Chart Detail,0020600965,472,959,Steve Nash,1610612756,Phoenix Suns,4,0,2,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,48,1,1,20070314,DAL,PHX
+Shot Chart Detail,0020600965,494,959,Steve Nash,1610612756,Phoenix Suns,5,3,16,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070314,DAL,PHX
+Shot Chart Detail,0020600976,27,959,Steve Nash,1610612756,Phoenix Suns,1,6,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-103,125,1,1,20070316,PHX,DET
+Shot Chart Detail,0020600976,48,959,Steve Nash,1610612756,Phoenix Suns,1,3,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-133,138,1,1,20070316,PHX,DET
+Shot Chart Detail,0020600976,128,959,Steve Nash,1610612756,Phoenix Suns,2,8,8,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,3,84,1,1,20070316,PHX,DET
+Shot Chart Detail,0020600976,234,959,Steve Nash,1610612756,Phoenix Suns,3,8,25,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070316,PHX,DET
+Shot Chart Detail,0020600976,248,959,Steve Nash,1610612756,Phoenix Suns,3,6,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-133,214,1,1,20070316,PHX,DET
+Shot Chart Detail,0020600976,257,959,Steve Nash,1610612756,Phoenix Suns,3,5,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,90,118,1,1,20070316,PHX,DET
+Shot Chart Detail,0020600976,266,959,Steve Nash,1610612756,Phoenix Suns,3,3,10,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070316,PHX,DET
+Shot Chart Detail,0020600976,349,959,Steve Nash,1610612756,Phoenix Suns,4,5,53,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070316,PHX,DET
+Shot Chart Detail,0020600986,29,959,Steve Nash,1610612756,Phoenix Suns,1,8,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070317,DEN,PHX
+Shot Chart Detail,0020600986,52,959,Steve Nash,1610612756,Phoenix Suns,1,6,52,Made Shot,Driving Finger Roll Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070317,DEN,PHX
+Shot Chart Detail,0020600986,175,959,Steve Nash,1610612756,Phoenix Suns,2,7,31,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070317,DEN,PHX
+Shot Chart Detail,0020600986,267,959,Steve Nash,1610612756,Phoenix Suns,3,9,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-103,86,1,1,20070317,DEN,PHX
+Shot Chart Detail,0020600986,302,959,Steve Nash,1610612756,Phoenix Suns,3,6,37,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,51,69,1,1,20070317,DEN,PHX
+Shot Chart Detail,0020600986,397,959,Steve Nash,1610612756,Phoenix Suns,4,9,34,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-75,49,1,1,20070317,DEN,PHX
+Shot Chart Detail,0020601005,23,959,Steve Nash,1610612756,Phoenix Suns,1,8,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-163,110,1,1,20070320,PHX,MIN
+Shot Chart Detail,0020601005,80,959,Steve Nash,1610612756,Phoenix Suns,1,3,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-184,186,1,1,20070320,PHX,MIN
+Shot Chart Detail,0020601005,88,959,Steve Nash,1610612756,Phoenix Suns,1,2,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,163,207,1,1,20070320,PHX,MIN
+Shot Chart Detail,0020601005,160,959,Steve Nash,1610612756,Phoenix Suns,2,7,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,154,210,1,1,20070320,PHX,MIN
+Shot Chart Detail,0020601005,211,959,Steve Nash,1610612756,Phoenix Suns,2,1,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070320,PHX,MIN
+Shot Chart Detail,0020601005,259,959,Steve Nash,1610612756,Phoenix Suns,3,8,4,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070320,PHX,MIN
+Shot Chart Detail,0020601005,419,959,Steve Nash,1610612756,Phoenix Suns,4,3,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,103,225,1,1,20070320,PHX,MIN
+Shot Chart Detail,0020601019,17,959,Steve Nash,1610612756,Phoenix Suns,1,9,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,84,110,1,1,20070322,PHX,SAC
+Shot Chart Detail,0020601019,81,959,Steve Nash,1610612756,Phoenix Suns,1,3,57,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070322,PHX,SAC
+Shot Chart Detail,0020601019,230,959,Steve Nash,1610612756,Phoenix Suns,2,2,36,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070322,PHX,SAC
+Shot Chart Detail,0020601019,257,959,Steve Nash,1610612756,Phoenix Suns,2,0,53,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,12,61,104,1,1,20070322,PHX,SAC
+Shot Chart Detail,0020601019,300,959,Steve Nash,1610612756,Phoenix Suns,3,8,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070322,PHX,SAC
+Shot Chart Detail,0020601019,319,959,Steve Nash,1610612756,Phoenix Suns,3,6,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070322,PHX,SAC
+Shot Chart Detail,0020601019,348,959,Steve Nash,1610612756,Phoenix Suns,3,3,24,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,1,109,1,1,20070322,PHX,SAC
+Shot Chart Detail,0020601019,433,959,Steve Nash,1610612756,Phoenix Suns,4,6,34,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070322,PHX,SAC
+Shot Chart Detail,0020601041,14,959,Steve Nash,1610612756,Phoenix Suns,1,10,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-115,143,1,1,20070325,SAC,PHX
+Shot Chart Detail,0020601041,26,959,Steve Nash,1610612756,Phoenix Suns,1,8,35,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-67,36,1,1,20070325,SAC,PHX
+Shot Chart Detail,0020601041,188,959,Steve Nash,1610612756,Phoenix Suns,2,1,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-204,133,1,1,20070325,SAC,PHX
+Shot Chart Detail,0020601041,229,959,Steve Nash,1610612756,Phoenix Suns,3,8,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,121,212,1,1,20070325,SAC,PHX
+Shot Chart Detail,0020601041,239,959,Steve Nash,1610612756,Phoenix Suns,3,7,50,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070325,SAC,PHX
+Shot Chart Detail,0020601041,258,959,Steve Nash,1610612756,Phoenix Suns,3,5,44,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,0,100,1,1,20070325,SAC,PHX
+Shot Chart Detail,0020601052,33,959,Steve Nash,1610612756,Phoenix Suns,1,7,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,176,174,1,1,20070326,PHX,MEM
+Shot Chart Detail,0020601052,35,959,Steve Nash,1610612756,Phoenix Suns,1,7,9,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070326,PHX,MEM
+Shot Chart Detail,0020601052,256,959,Steve Nash,1610612756,Phoenix Suns,3,6,28,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-227,53,1,1,20070326,PHX,MEM
+Shot Chart Detail,0020601071,7,959,Steve Nash,1610612756,Phoenix Suns,1,11,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-107,150,1,1,20070329,GSW,PHX
+Shot Chart Detail,0020601071,59,959,Steve Nash,1610612756,Phoenix Suns,1,5,35,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-125,3,1,1,20070329,GSW,PHX
+Shot Chart Detail,0020601071,79,959,Steve Nash,1610612756,Phoenix Suns,1,3,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-192,-6,1,1,20070329,GSW,PHX
+Shot Chart Detail,0020601071,254,959,Steve Nash,1610612756,Phoenix Suns,3,10,50,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,0,1,1,20070329,GSW,PHX
+Shot Chart Detail,0020601071,262,959,Steve Nash,1610612756,Phoenix Suns,3,9,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,138,49,1,1,20070329,GSW,PHX
+Shot Chart Detail,0020601071,281,959,Steve Nash,1610612756,Phoenix Suns,3,7,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,10,1,1,20070329,GSW,PHX
+Shot Chart Detail,0020601071,306,959,Steve Nash,1610612756,Phoenix Suns,3,5,31,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,92,125,1,1,20070329,GSW,PHX
+Shot Chart Detail,0020601080,11,959,Steve Nash,1610612756,Phoenix Suns,1,10,31,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070330,PHX,DEN
+Shot Chart Detail,0020601080,43,959,Steve Nash,1610612756,Phoenix Suns,1,7,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070330,PHX,DEN
+Shot Chart Detail,0020601080,173,959,Steve Nash,1610612756,Phoenix Suns,2,7,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-189,174,1,1,20070330,PHX,DEN
+Shot Chart Detail,0020601080,243,959,Steve Nash,1610612756,Phoenix Suns,2,0,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-23,247,1,1,20070330,PHX,DEN
+Shot Chart Detail,0020601080,286,959,Steve Nash,1610612756,Phoenix Suns,3,8,46,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070330,PHX,DEN
+Shot Chart Detail,0020601080,320,959,Steve Nash,1610612756,Phoenix Suns,3,5,6,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,84,76,1,1,20070330,PHX,DEN
+Shot Chart Detail,0020601080,333,959,Steve Nash,1610612756,Phoenix Suns,3,3,42,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,103,71,1,1,20070330,PHX,DEN
+Shot Chart Detail,0020601092,10,959,Steve Nash,1610612756,Phoenix Suns,1,10,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-136,207,1,1,20070401,PHX,DAL
+Shot Chart Detail,0020601092,68,959,Steve Nash,1610612756,Phoenix Suns,1,4,12,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070401,PHX,DAL
+Shot Chart Detail,0020601092,77,959,Steve Nash,1610612756,Phoenix Suns,1,2,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-177,209,1,1,20070401,PHX,DAL
+Shot Chart Detail,0020601092,79,959,Steve Nash,1610612756,Phoenix Suns,1,2,16,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070401,PHX,DAL
+Shot Chart Detail,0020601092,144,959,Steve Nash,1610612756,Phoenix Suns,2,7,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-97,87,1,1,20070401,PHX,DAL
+Shot Chart Detail,0020601092,389,959,Steve Nash,1610612756,Phoenix Suns,4,5,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-181,61,1,1,20070401,PHX,DAL
+Shot Chart Detail,0020601092,408,959,Steve Nash,1610612756,Phoenix Suns,4,4,31,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070401,PHX,DAL
+Shot Chart Detail,0020601103,10,959,Steve Nash,1610612756,Phoenix Suns,1,10,7,Made Shot,Driving Finger Roll Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070403,MEM,PHX
+Shot Chart Detail,0020601103,53,959,Steve Nash,1610612756,Phoenix Suns,1,6,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,204,160,1,1,20070403,MEM,PHX
+Shot Chart Detail,0020601103,373,959,Steve Nash,1610612756,Phoenix Suns,4,10,45,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-233,63,1,1,20070403,MEM,PHX
+Shot Chart Detail,0020601103,385,959,Steve Nash,1610612756,Phoenix Suns,4,9,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-108,229,1,1,20070403,MEM,PHX
+Shot Chart Detail,0020601120,5,959,Steve Nash,1610612756,Phoenix Suns,1,11,6,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-52,61,1,1,20070405,SAS,PHX
+Shot Chart Detail,0020601120,28,959,Steve Nash,1610612756,Phoenix Suns,1,8,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-133,7,1,1,20070405,SAS,PHX
+Shot Chart Detail,0020601120,91,959,Steve Nash,1610612756,Phoenix Suns,1,2,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,131,66,1,1,20070405,SAS,PHX
+Shot Chart Detail,0020601120,179,959,Steve Nash,1610612756,Phoenix Suns,2,5,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,3,0,1,1,20070405,SAS,PHX
+Shot Chart Detail,0020601120,256,959,Steve Nash,1610612756,Phoenix Suns,3,8,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-1,1,1,20070405,SAS,PHX
+Shot Chart Detail,0020601120,464,959,Steve Nash,1610612756,Phoenix Suns,4,2,48,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,-8,1,1,20070405,SAS,PHX
+Shot Chart Detail,0020601128,10,959,Steve Nash,1610612756,Phoenix Suns,1,10,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070406,NOK,PHX
+Shot Chart Detail,0020601128,15,959,Steve Nash,1610612756,Phoenix Suns,1,9,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,56,237,1,1,20070406,NOK,PHX
+Shot Chart Detail,0020601128,63,959,Steve Nash,1610612756,Phoenix Suns,1,3,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070406,NOK,PHX
+Shot Chart Detail,0020601128,151,959,Steve Nash,1610612756,Phoenix Suns,2,6,46,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,172,5,1,1,20070406,NOK,PHX
+Shot Chart Detail,0020601128,361,959,Steve Nash,1610612756,Phoenix Suns,4,6,37,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-2,49,1,1,20070406,NOK,PHX
+Shot Chart Detail,0020601128,408,959,Steve Nash,1610612756,Phoenix Suns,4,1,53,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070406,NOK,PHX
+Shot Chart Detail,0020601144,10,959,Steve Nash,1610612756,Phoenix Suns,1,10,18,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-39,92,1,1,20070408,LAL,PHX
+Shot Chart Detail,0020601144,37,959,Steve Nash,1610612756,Phoenix Suns,1,6,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,156,204,1,1,20070408,LAL,PHX
+Shot Chart Detail,0020601144,45,959,Steve Nash,1610612756,Phoenix Suns,1,6,4,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070408,LAL,PHX
+Shot Chart Detail,0020601144,80,959,Steve Nash,1610612756,Phoenix Suns,1,3,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-148,232,1,1,20070408,LAL,PHX
+Shot Chart Detail,0020601144,324,959,Steve Nash,1610612756,Phoenix Suns,3,4,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-130,120,1,1,20070408,LAL,PHX
+Shot Chart Detail,0020601144,385,959,Steve Nash,1610612756,Phoenix Suns,4,10,45,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070408,LAL,PHX
+Shot Chart Detail,0020601144,410,959,Steve Nash,1610612756,Phoenix Suns,4,7,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-95,245,1,1,20070408,LAL,PHX
+Shot Chart Detail,0020601144,452,959,Steve Nash,1610612756,Phoenix Suns,4,4,14,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070408,LAL,PHX
+Shot Chart Detail,0020601171,30,959,Steve Nash,1610612756,Phoenix Suns,1,8,44,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070411,PHX,SEA
+Shot Chart Detail,0020601171,34,959,Steve Nash,1610612756,Phoenix Suns,1,8,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070411,PHX,SEA
+Shot Chart Detail,0020601171,53,959,Steve Nash,1610612756,Phoenix Suns,1,6,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070411,PHX,SEA
+Shot Chart Detail,0020601171,160,959,Steve Nash,1610612756,Phoenix Suns,2,4,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-189,179,1,1,20070411,PHX,SEA
+Shot Chart Detail,0020601171,276,959,Steve Nash,1610612756,Phoenix Suns,3,4,51,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070411,PHX,SEA
+Shot Chart Detail,0020601185,51,959,Steve Nash,1610612756,Phoenix Suns,1,7,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-158,207,1,1,20070413,PHX,LAL
+Shot Chart Detail,0020601185,62,959,Steve Nash,1610612756,Phoenix Suns,1,5,58,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070413,PHX,LAL
+Shot Chart Detail,0020601185,64,959,Steve Nash,1610612756,Phoenix Suns,1,5,31,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070413,PHX,LAL
+Shot Chart Detail,0020601185,74,959,Steve Nash,1610612756,Phoenix Suns,1,3,51,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070413,PHX,LAL
+Shot Chart Detail,0020601185,86,959,Steve Nash,1610612756,Phoenix Suns,1,2,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,82,71,1,1,20070413,PHX,LAL
+Shot Chart Detail,0020601185,157,959,Steve Nash,1610612756,Phoenix Suns,2,7,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,133,94,1,1,20070413,PHX,LAL
+Shot Chart Detail,0020601185,159,959,Steve Nash,1610612756,Phoenix Suns,2,6,30,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-64,79,1,1,20070413,PHX,LAL
+Shot Chart Detail,0020601185,280,959,Steve Nash,1610612756,Phoenix Suns,3,5,55,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,26,63,1,1,20070413,PHX,LAL
+Shot Chart Detail,0020601185,399,959,Steve Nash,1610612756,Phoenix Suns,4,6,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-130,97,1,1,20070413,PHX,LAL
+Shot Chart Detail,0020601185,420,959,Steve Nash,1610612756,Phoenix Suns,4,3,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-113,68,1,1,20070413,PHX,LAL
+Shot Chart Detail,0020601192,231,959,Steve Nash,1610612756,Phoenix Suns,2,0,27,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070414,UTA,PHX
+Shot Chart Detail,0020601192,284,959,Steve Nash,1610612756,Phoenix Suns,3,7,40,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-61,118,1,1,20070414,UTA,PHX
+Shot Chart Detail,0020601192,320,959,Steve Nash,1610612756,Phoenix Suns,3,4,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,77,186,1,1,20070414,UTA,PHX
+Shot Chart Detail,0020601207,43,959,Steve Nash,1610612756,Phoenix Suns,1,6,27,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-54,89,1,1,20070416,HOU,PHX
+Shot Chart Detail,0020601207,188,959,Steve Nash,1610612756,Phoenix Suns,2,3,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-99,141,1,1,20070416,HOU,PHX
+Shot Chart Detail,0020601207,215,959,Steve Nash,1610612756,Phoenix Suns,2,0,27,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-59,58,1,1,20070416,HOU,PHX
+Shot Chart Detail,0020601207,245,959,Steve Nash,1610612756,Phoenix Suns,3,9,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070416,HOU,PHX
+Shot Chart Detail,0020601207,411,959,Steve Nash,1610612756,Phoenix Suns,4,5,16,Made Shot,Finger Roll Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070416,HOU,PHX
+Shot Chart Detail,0020601207,425,959,Steve Nash,1610612756,Phoenix Suns,4,3,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-143,214,1,1,20070416,HOU,PHX
+Shot Chart Detail,0020601207,429,959,Steve Nash,1610612756,Phoenix Suns,4,3,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-128,2,1,1,20070416,HOU,PHX
+Shot Chart Detail,0020601215,41,959,Steve Nash,1610612756,Phoenix Suns,1,7,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-2,186,1,1,20070417,PHX,LAC
+Shot Chart Detail,0020601215,46,959,Steve Nash,1610612756,Phoenix Suns,1,6,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070417,PHX,LAC

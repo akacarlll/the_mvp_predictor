@@ -1,0 +1,446 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0020500016,166,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,8,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051102,DEN,LAL
+Shot Chart Detail,0020500016,323,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,5,40,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051102,DEN,LAL
+Shot Chart Detail,0020500019,22,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,9,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,62,197,1,1,20051103,LAL,PHX
+Shot Chart Detail,0020500019,239,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,2,49,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051103,LAL,PHX
+Shot Chart Detail,0020500019,278,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,10,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-11,248,1,1,20051103,LAL,PHX
+Shot Chart Detail,0020500019,318,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,6,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-218,122,1,1,20051103,LAL,PHX
+Shot Chart Detail,0020500019,327,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,5,23,Made Shot,Jump Hook Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-82,-5,1,1,20051103,LAL,PHX
+Shot Chart Detail,0020500019,436,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,8,18,Made Shot,Jump Hook Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-99,0,1,1,20051103,LAL,PHX
+Shot Chart Detail,0020500019,494,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,2,56,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-36,51,1,1,20051103,LAL,PHX
+Shot Chart Detail,0020500045,96,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,1,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,103,265,1,1,20051106,LAL,DEN
+Shot Chart Detail,0020500045,204,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,4,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,187,-16,1,1,20051106,LAL,DEN
+Shot Chart Detail,0020500045,277,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,9,2,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,156,-13,1,1,20051106,LAL,DEN
+Shot Chart Detail,0020500045,378,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,1,23,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051106,LAL,DEN
+Shot Chart Detail,0020500045,468,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,5,38,Made Shot,Hook Bank Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,20,1,1,20051106,LAL,DEN
+Shot Chart Detail,0020500045,520,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,0,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-54,212,1,1,20051106,LAL,DEN
+Shot Chart Detail,0020500051,208,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,5,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-138,217,1,1,20051108,ATL,LAL
+Shot Chart Detail,0020500051,349,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,1,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051108,ATL,LAL
+Shot Chart Detail,0020500051,360,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,0,7,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051108,ATL,LAL
+Shot Chart Detail,0020500064,13,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,9,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-80,233,1,1,20051109,MIN,LAL
+Shot Chart Detail,0020500064,34,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,6,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051109,MIN,LAL
+Shot Chart Detail,0020500064,77,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,1,40,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051109,MIN,LAL
+Shot Chart Detail,0020500064,235,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,9,9,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051109,MIN,LAL
+Shot Chart Detail,0020500064,253,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,6,54,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051109,MIN,LAL
+Shot Chart Detail,0020500064,281,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,3,39,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051109,MIN,LAL
+Shot Chart Detail,0020500077,92,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,2,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-6,253,1,1,20051111,PHI,LAL
+Shot Chart Detail,0020500077,136,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,10,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-29,257,1,1,20051111,PHI,LAL
+Shot Chart Detail,0020500077,166,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,8,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051111,PHI,LAL
+Shot Chart Detail,0020500077,304,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,2,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051111,PHI,LAL
+Shot Chart Detail,0020500077,306,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,2,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051111,PHI,LAL
+Shot Chart Detail,0020500077,311,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,1,7,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-15,40,1,1,20051111,PHI,LAL
+Shot Chart Detail,0020500095,5,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,11,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-48,155,1,1,20051114,MEM,LAL
+Shot Chart Detail,0020500095,65,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,3,36,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,8,1,1,20051114,MEM,LAL
+Shot Chart Detail,0020500095,99,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,0,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051114,MEM,LAL
+Shot Chart Detail,0020500114,70,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,4,57,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-62,-6,1,1,20051116,LAL,NYK
+Shot Chart Detail,0020500114,117,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,11,42,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-222,20,1,1,20051116,LAL,NYK
+Shot Chart Detail,0020500114,242,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,9,25,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051116,LAL,NYK
+Shot Chart Detail,0020500114,316,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,1,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-69,171,1,1,20051116,LAL,NYK
+Shot Chart Detail,0020500114,467,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,1,12,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051116,LAL,NYK
+Shot Chart Detail,0020500130,32,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,7,31,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051118,LAL,LAC
+Shot Chart Detail,0020500130,44,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,6,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-71,163,1,1,20051118,LAL,LAC
+Shot Chart Detail,0020500130,131,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,7,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051118,LAL,LAC
+Shot Chart Detail,0020500130,237,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,10,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,107,163,1,1,20051118,LAL,LAC
+Shot Chart Detail,0020500130,359,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,8,57,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051118,LAL,LAC
+Shot Chart Detail,0020500130,394,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,5,16,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-44,66,1,1,20051118,LAL,LAC
+Shot Chart Detail,0020500130,416,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,3,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051118,LAL,LAC
+Shot Chart Detail,0020500130,421,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,2,57,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-90,5,1,1,20051118,LAL,LAC
+Shot Chart Detail,0020500145,155,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,9,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,130,219,1,1,20051120,LAL,CHI
+Shot Chart Detail,0020500145,430,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,5,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-120,-9,1,1,20051120,LAL,CHI
+Shot Chart Detail,0020500168,9,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,10,46,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,240,-3,1,1,20051124,LAL,SEA
+Shot Chart Detail,0020500168,56,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,5,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,64,252,1,1,20051124,LAL,SEA
+Shot Chart Detail,0020500168,62,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,5,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-168,-1,1,1,20051124,LAL,SEA
+Shot Chart Detail,0020500168,158,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,7,30,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051124,LAL,SEA
+Shot Chart Detail,0020500168,245,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,0,4,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051124,LAL,SEA
+Shot Chart Detail,0020500168,457,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,2,59,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,16,51,1,1,20051124,LAL,SEA
+Shot Chart Detail,0020500192,298,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,7,28,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-6,109,1,1,20051127,LAL,NJN
+Shot Chart Detail,0020500203,62,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,4,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,10,1,1,20051129,SAS,LAL
+Shot Chart Detail,0020500203,93,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,1,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,15,15,1,1,20051129,SAS,LAL
+Shot Chart Detail,0020500203,190,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,4,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,-9,1,1,20051129,SAS,LAL
+Shot Chart Detail,0020500203,227,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,0,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,2,1,1,20051129,SAS,LAL
+Shot Chart Detail,0020500203,291,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,6,41,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-54,13,1,1,20051129,SAS,LAL
+Shot Chart Detail,0020500203,304,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,4,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,15,1,1,20051129,SAS,LAL
+Shot Chart Detail,0020500203,314,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,3,4,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-36,13,1,1,20051129,SAS,LAL
+Shot Chart Detail,0020500203,375,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,10,28,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-64,53,1,1,20051129,SAS,LAL
+Shot Chart Detail,0020500203,378,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,9,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-3,0,1,1,20051129,SAS,LAL
+Shot Chart Detail,0020500203,408,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,5,40,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,10,1,1,20051129,SAS,LAL
+Shot Chart Detail,0020500203,451,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,1,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,23,105,215,1,1,20051129,SAS,LAL
+Shot Chart Detail,0020500203,460,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,0,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,-6,1,1,20051129,SAS,LAL
+Shot Chart Detail,0020500218,46,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,5,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051201,UTA,LAL
+Shot Chart Detail,0020500218,248,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,0,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051201,UTA,LAL
+Shot Chart Detail,0020500218,302,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,7,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-171,-26,1,1,20051201,UTA,LAL
+Shot Chart Detail,0020500218,441,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,5,42,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-57,86,1,1,20051201,UTA,LAL
+Shot Chart Detail,0020500228,118,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,8,55,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,6,1,1,20051202,LAL,MIN
+Shot Chart Detail,0020500228,168,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,4,28,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,45,1,1,20051202,LAL,MIN
+Shot Chart Detail,0020500228,249,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,7,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051202,LAL,MIN
+Shot Chart Detail,0020500228,273,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,4,1,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051202,LAL,MIN
+Shot Chart Detail,0020500228,361,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,7,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051202,LAL,MIN
+Shot Chart Detail,0020500228,382,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,4,52,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051202,LAL,MIN
+Shot Chart Detail,0020500228,393,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,2,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051202,LAL,MIN
+Shot Chart Detail,0020500228,415,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,0,9,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-227,86,1,1,20051202,LAL,MIN
+Shot Chart Detail,0020500244,136,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,10,31,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-31,18,1,1,20051204,LAL,CHA
+Shot Chart Detail,0020500244,140,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,9,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,144,212,1,1,20051204,LAL,CHA
+Shot Chart Detail,0020500244,259,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,10,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051204,LAL,CHA
+Shot Chart Detail,0020500251,29,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,8,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051206,MIL,LAL
+Shot Chart Detail,0020500251,47,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,6,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051206,MIL,LAL
+Shot Chart Detail,0020500251,152,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,5,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051206,MIL,LAL
+Shot Chart Detail,0020500251,195,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,0,42,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-72,-1,1,1,20051206,MIL,LAL
+Shot Chart Detail,0020500251,223,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,8,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-194,156,1,1,20051206,MIL,LAL
+Shot Chart Detail,0020500251,245,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,5,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051206,MIL,LAL
+Shot Chart Detail,0020500251,293,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,1,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051206,MIL,LAL
+Shot Chart Detail,0020500251,391,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,2,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051206,MIL,LAL
+Shot Chart Detail,0020500258,6,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,10,47,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051207,TOR,LAL
+Shot Chart Detail,0020500258,67,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,3,25,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051207,TOR,LAL
+Shot Chart Detail,0020500258,163,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,6,23,Made Shot,Driving Finger Roll Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051207,TOR,LAL
+Shot Chart Detail,0020500258,190,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,3,35,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051207,TOR,LAL
+Shot Chart Detail,0020500258,217,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,0,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051207,TOR,LAL
+Shot Chart Detail,0020500258,242,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,10,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051207,TOR,LAL
+Shot Chart Detail,0020500258,256,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,8,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,121,220,1,1,20051207,TOR,LAL
+Shot Chart Detail,0020500258,290,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,5,42,Made Shot,Finger Roll Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051207,TOR,LAL
+Shot Chart Detail,0020500274,34,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,7,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051209,CHI,LAL
+Shot Chart Detail,0020500274,65,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,4,13,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-25,46,1,1,20051209,CHI,LAL
+Shot Chart Detail,0020500274,70,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,3,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051209,CHI,LAL
+Shot Chart Detail,0020500274,93,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,0,33,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051209,CHI,LAL
+Shot Chart Detail,0020500274,179,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,3,20,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-64,41,1,1,20051209,CHI,LAL
+Shot Chart Detail,0020500274,213,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,11,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051209,CHI,LAL
+Shot Chart Detail,0020500274,271,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,4,16,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,45,1,1,20051209,CHI,LAL
+Shot Chart Detail,0020500274,421,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,0,35,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,22,1,1,20051209,CHI,LAL
+Shot Chart Detail,0020500286,8,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,10,50,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051210,MIN,LAL
+Shot Chart Detail,0020500286,21,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,8,55,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,47,40,1,1,20051210,MIN,LAL
+Shot Chart Detail,0020500286,44,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,5,39,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,140,30,1,1,20051210,MIN,LAL
+Shot Chart Detail,0020500286,216,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,0,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051210,MIN,LAL
+Shot Chart Detail,0020500286,292,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,4,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051210,MIN,LAL
+Shot Chart Detail,0020500286,377,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,7,25,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,71,26,1,1,20051210,MIN,LAL
+Shot Chart Detail,0020500286,385,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,6,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051210,MIN,LAL
+Shot Chart Detail,0020500297,89,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,3,23,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051212,DAL,LAL
+Shot Chart Detail,0020500297,154,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,8,41,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051212,DAL,LAL
+Shot Chart Detail,0020500297,166,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,7,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,166,140,1,1,20051212,DAL,LAL
+Shot Chart Detail,0020500297,214,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,2,24,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051212,DAL,LAL
+Shot Chart Detail,0020500297,322,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,3,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051212,DAL,LAL
+Shot Chart Detail,0020500314,6,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,10,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051214,MEM,LAL
+Shot Chart Detail,0020500314,116,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,0,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051214,MEM,LAL
+Shot Chart Detail,0020500314,167,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,7,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-189,155,1,1,20051214,MEM,LAL
+Shot Chart Detail,0020500314,266,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,5,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,187,155,1,1,20051214,MEM,LAL
+Shot Chart Detail,0020500314,285,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,3,27,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051214,MEM,LAL
+Shot Chart Detail,0020500332,15,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,10,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-145,125,1,1,20051216,LAL,WAS
+Shot Chart Detail,0020500332,66,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,5,16,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051216,LAL,WAS
+Shot Chart Detail,0020500332,70,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,4,30,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051216,LAL,WAS
+Shot Chart Detail,0020500332,267,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,9,4,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,126,17,1,1,20051216,LAL,WAS
+Shot Chart Detail,0020500332,431,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,4,24,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,24,76,1,1,20051216,LAL,WAS
+Shot Chart Detail,0020500332,448,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,2,3,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-59,30,1,1,20051216,LAL,WAS
+Shot Chart Detail,0020500346,421,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,0,44,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-20,49,1,1,20051218,LAL,HOU
+Shot Chart Detail,0020500359,34,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,7,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-2,263,1,1,20051220,LAL,DAL
+Shot Chart Detail,0020500359,248,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,0,27,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051220,LAL,DAL
+Shot Chart Detail,0020500372,57,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,5,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-29,248,1,1,20051223,ORL,LAL
+Shot Chart Detail,0020500372,191,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,3,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051223,ORL,LAL
+Shot Chart Detail,0020500372,206,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,1,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051223,ORL,LAL
+Shot Chart Detail,0020500372,259,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,8,19,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051223,ORL,LAL
+Shot Chart Detail,0020500372,368,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,11,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051223,ORL,LAL
+Shot Chart Detail,0020500386,76,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,3,18,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-72,56,1,1,20051225,MIA,LAL
+Shot Chart Detail,0020500386,224,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,2,19,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051225,MIA,LAL
+Shot Chart Detail,0020500386,252,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,0,36,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051225,MIA,LAL
+Shot Chart Detail,0020500386,414,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,9,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051225,MIA,LAL
+Shot Chart Detail,0020500386,466,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,4,51,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,80,2,1,1,20051225,MIA,LAL
+Shot Chart Detail,0020500387,40,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,7,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-176,58,1,1,20051226,WAS,LAL
+Shot Chart Detail,0020500387,238,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,1,27,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,3,-14,1,1,20051226,WAS,LAL
+Shot Chart Detail,0020500387,444,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,6,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,2,1,1,20051226,WAS,LAL
+Shot Chart Detail,0020500412,60,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,3,44,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-51,30,1,1,20051228,LAL,MEM
+Shot Chart Detail,0020500412,71,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,2,41,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,46,49,1,1,20051228,LAL,MEM
+Shot Chart Detail,0020500412,274,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,7,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,5,258,1,1,20051228,LAL,MEM
+Shot Chart Detail,0020500436,38,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,5,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-118,220,1,1,20060101,LAL,UTA
+Shot Chart Detail,0020500436,176,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,2,53,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-84,46,1,1,20060101,LAL,UTA
+Shot Chart Detail,0020500436,250,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,6,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-115,0,1,1,20060101,LAL,UTA
+Shot Chart Detail,0020500436,274,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,3,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060101,LAL,UTA
+Shot Chart Detail,0020500436,282,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,2,31,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060101,LAL,UTA
+Shot Chart Detail,0020500436,304,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,11,2,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060101,LAL,UTA
+Shot Chart Detail,0020500436,399,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,1,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060101,LAL,UTA
+Shot Chart Detail,0020500446,28,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,9,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-117,227,1,1,20060103,UTA,LAL
+Shot Chart Detail,0020500446,148,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,8,14,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060103,UTA,LAL
+Shot Chart Detail,0020500446,186,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,4,5,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,240,15,1,1,20060103,UTA,LAL
+Shot Chart Detail,0020500446,188,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,3,31,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060103,UTA,LAL
+Shot Chart Detail,0020500446,210,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,0,27,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060103,UTA,LAL
+Shot Chart Detail,0020500446,212,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,0,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,23,-77,217,1,1,20060103,UTA,LAL
+Shot Chart Detail,0020500446,280,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,2,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-84,30,1,1,20060103,UTA,LAL
+Shot Chart Detail,0020500446,384,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,4,45,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,0,40,1,1,20060103,UTA,LAL
+Shot Chart Detail,0020500446,409,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,1,28,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060103,UTA,LAL
+Shot Chart Detail,0020500446,414,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,0,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,189,160,1,1,20060103,UTA,LAL
+Shot Chart Detail,0020500471,37,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,7,27,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060106,LAL,PHI
+Shot Chart Detail,0020500471,165,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,6,5,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060106,LAL,PHI
+Shot Chart Detail,0020500471,267,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,11,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060106,LAL,PHI
+Shot Chart Detail,0020500471,419,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,6,7,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,15,61,1,1,20060106,LAL,PHI
+Shot Chart Detail,0020500480,64,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,4,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,164,184,1,1,20060107,LAC,LAL
+Shot Chart Detail,0020500480,155,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,7,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-6,158,1,1,20060107,LAC,LAL
+Shot Chart Detail,0020500480,195,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,4,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060107,LAC,LAL
+Shot Chart Detail,0020500490,135,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,9,49,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-75,18,1,1,20060109,LAL,IND
+Shot Chart Detail,0020500490,165,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,6,46,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060109,LAL,IND
+Shot Chart Detail,0020500490,189,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,4,44,Made Shot,Driving Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060109,LAL,IND
+Shot Chart Detail,0020500490,330,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,1,42,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060109,LAL,IND
+Shot Chart Detail,0020500490,428,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,5,27,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-2,68,1,1,20060109,LAL,IND
+Shot Chart Detail,0020500490,482,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,1,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,156,196,1,1,20060109,LAL,IND
+Shot Chart Detail,0020500507,15,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,10,44,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060111,POR,LAL
+Shot Chart Detail,0020500507,214,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,0,16,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060111,POR,LAL
+Shot Chart Detail,0020500507,244,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,9,6,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,62,10,1,1,20060111,POR,LAL
+Shot Chart Detail,0020500507,246,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,8,34,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060111,POR,LAL
+Shot Chart Detail,0020500507,276,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,4,36,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060111,POR,LAL
+Shot Chart Detail,0020500507,355,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,8,44,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060111,POR,LAL
+Shot Chart Detail,0020500512,3,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,11,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-141,18,1,1,20060112,LAL,CLE
+Shot Chart Detail,0020500512,24,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,8,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060112,LAL,CLE
+Shot Chart Detail,0020500512,91,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,1,9,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060112,LAL,CLE
+Shot Chart Detail,0020500512,151,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,5,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,135,135,1,1,20060112,LAL,CLE
+Shot Chart Detail,0020500512,156,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,4,2,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060112,LAL,CLE
+Shot Chart Detail,0020500512,237,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,8,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060112,LAL,CLE
+Shot Chart Detail,0020500512,326,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,9,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060112,LAL,CLE
+Shot Chart Detail,0020500512,366,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,6,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-181,46,1,1,20060112,LAL,CLE
+Shot Chart Detail,0020500512,389,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,3,7,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-108,26,1,1,20060112,LAL,CLE
+Shot Chart Detail,0020500532,279,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,6,53,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-18,17,1,1,20060114,GSW,LAL
+Shot Chart Detail,0020500547,10,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,10,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-36,245,1,1,20060116,LAL,MIA
+Shot Chart Detail,0020500547,34,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,7,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,85,229,1,1,20060116,LAL,MIA
+Shot Chart Detail,0020500547,36,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,6,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-20,191,1,1,20060116,LAL,MIA
+Shot Chart Detail,0020500547,171,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,5,16,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060116,LAL,MIA
+Shot Chart Detail,0020500547,488,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,0,19,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,133,33,1,1,20060116,LAL,MIA
+Shot Chart Detail,0020500563,129,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,10,41,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,0,63,1,1,20060119,SAC,LAL
+Shot Chart Detail,0020500563,163,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,6,38,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060119,SAC,LAL
+Shot Chart Detail,0020500563,254,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,11,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,95,161,1,1,20060119,SAC,LAL
+Shot Chart Detail,0020500563,312,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,4,17,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,43,105,1,1,20060119,SAC,LAL
+Shot Chart Detail,0020500563,351,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,11,29,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060119,SAC,LAL
+Shot Chart Detail,0020500563,373,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,8,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060119,SAC,LAL
+Shot Chart Detail,0020500563,442,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,0,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-43,243,1,1,20060119,SAC,LAL
+Shot Chart Detail,0020500573,13,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,10,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060120,PHX,LAL
+Shot Chart Detail,0020500573,46,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,6,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060120,PHX,LAL
+Shot Chart Detail,0020500573,108,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,0,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060120,PHX,LAL
+Shot Chart Detail,0020500573,149,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,6,12,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060120,PHX,LAL
+Shot Chart Detail,0020500573,195,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,1,5,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,43,63,1,1,20060120,PHX,LAL
+Shot Chart Detail,0020500573,323,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,11,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060120,PHX,LAL
+Shot Chart Detail,0020500573,366,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,6,12,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,72,58,1,1,20060120,PHX,LAL
+Shot Chart Detail,0020500591,417,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,7,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,5,263,1,1,20060122,LAL,TOR
+Shot Chart Detail,0020500631,161,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,8,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060127,LAL,GSW
+Shot Chart Detail,0020500631,221,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,3,2,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060127,LAL,GSW
+Shot Chart Detail,0020500631,445,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,5,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060127,LAL,GSW
+Shot Chart Detail,0020500631,459,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,3,52,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060127,LAL,GSW
+Shot Chart Detail,0020500646,155,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,7,19,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060129,DET,LAL
+Shot Chart Detail,0020500646,176,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,5,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060129,DET,LAL
+Shot Chart Detail,0020500646,276,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,8,50,Made Shot,Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,87,41,1,1,20060129,DET,LAL
+Shot Chart Detail,0020500646,307,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,4,7,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060129,DET,LAL
+Shot Chart Detail,0020500658,10,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,10,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060131,NYK,LAL
+Shot Chart Detail,0020500658,127,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,11,7,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060131,NYK,LAL
+Shot Chart Detail,0020500658,255,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,10,38,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060131,NYK,LAL
+Shot Chart Detail,0020500658,348,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,3,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-56,250,1,1,20060131,NYK,LAL
+Shot Chart Detail,0020500664,139,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,9,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-74,243,1,1,20060201,IND,LAL
+Shot Chart Detail,0020500664,237,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,10,49,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,13,1,1,20060201,IND,LAL
+Shot Chart Detail,0020500664,350,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,0,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-138,210,1,1,20060201,IND,LAL
+Shot Chart Detail,0020500664,358,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,11,50,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,10,1,1,20060201,IND,LAL
+Shot Chart Detail,0020500709,164,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,5,16,Made Shot,Running Hook Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-82,45,1,1,20060207,DAL,LAL
+Shot Chart Detail,0020500709,182,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,3,34,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060207,DAL,LAL
+Shot Chart Detail,0020500709,196,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,1,47,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060207,DAL,LAL
+Shot Chart Detail,0020500709,268,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,6,48,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060207,DAL,LAL
+Shot Chart Detail,0020500709,463,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,1,50,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060207,DAL,LAL
+Shot Chart Detail,0020500720,32,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,8,25,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-3,46,1,1,20060208,HOU,LAL
+Shot Chart Detail,0020500720,189,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,2,48,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060208,HOU,LAL
+Shot Chart Detail,0020500720,269,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,3,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,117,224,1,1,20060208,HOU,LAL
+Shot Chart Detail,0020500741,81,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,2,47,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,56,46,1,1,20060211,LAL,MEM
+Shot Chart Detail,0020500741,453,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,4,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060211,LAL,MEM
+Shot Chart Detail,0020500756,91,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,3,19,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060213,LAL,UTA
+Shot Chart Detail,0020500756,102,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,2,12,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060213,LAL,UTA
+Shot Chart Detail,0020500756,151,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,8,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-156,194,1,1,20060213,LAL,UTA
+Shot Chart Detail,0020500756,348,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,3,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060213,LAL,UTA
+Shot Chart Detail,0020500756,435,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,8,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060213,LAL,UTA
+Shot Chart Detail,0020500756,474,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,4,2,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060213,LAL,UTA
+Shot Chart Detail,0020500775,9,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,10,40,Made Shot,Jump Bank Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,29,22,1,1,20060215,LAL,ATL
+Shot Chart Detail,0020500775,28,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,7,59,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060215,LAL,ATL
+Shot Chart Detail,0020500775,49,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,4,26,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060215,LAL,ATL
+Shot Chart Detail,0020500775,59,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,2,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060215,LAL,ATL
+Shot Chart Detail,0020500775,449,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,2,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-117,215,1,1,20060215,LAL,ATL
+Shot Chart Detail,0020500775,466,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,1,7,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060215,LAL,ATL
+Shot Chart Detail,0020500775,484,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,0,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-25,260,1,1,20060215,LAL,ATL
+Shot Chart Detail,0020500790,92,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,0,29,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-74,26,1,1,20060221,LAL,POR
+Shot Chart Detail,0020500790,95,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,0,3,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060221,LAL,POR
+Shot Chart Detail,0020500790,186,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,4,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060221,LAL,POR
+Shot Chart Detail,0020500790,196,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,3,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060221,LAL,POR
+Shot Chart Detail,0020500790,238,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,11,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,158,-11,1,1,20060221,LAL,POR
+Shot Chart Detail,0020500790,285,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,6,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060221,LAL,POR
+Shot Chart Detail,0020500790,345,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,0,50,Made Shot,Driving Finger Roll Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060221,LAL,POR
+Shot Chart Detail,0020500790,382,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,10,19,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060221,LAL,POR
+Shot Chart Detail,0020500790,423,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,6,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060221,LAL,POR
+Shot Chart Detail,0020500802,5,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,11,14,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060223,LAL,SAC
+Shot Chart Detail,0020500802,42,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,6,22,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060223,LAL,SAC
+Shot Chart Detail,0020500802,71,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,3,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060223,LAL,SAC
+Shot Chart Detail,0020500802,125,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,11,13,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060223,LAL,SAC
+Shot Chart Detail,0020500802,178,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,6,0,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,0,1,1,20060223,LAL,SAC
+Shot Chart Detail,0020500802,202,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,4,12,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,29,18,1,1,20060223,LAL,SAC
+Shot Chart Detail,0020500802,212,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,2,50,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060223,LAL,SAC
+Shot Chart Detail,0020500802,288,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,5,4,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060223,LAL,SAC
+Shot Chart Detail,0020500802,409,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,3,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060223,LAL,SAC
+Shot Chart Detail,0020500813,273,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,9,20,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060224,LAC,LAL
+Shot Chart Detail,0020500813,282,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,8,38,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060224,LAC,LAL
+Shot Chart Detail,0020500813,374,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,10,40,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060224,LAC,LAL
+Shot Chart Detail,0020500826,24,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,9,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060226,LAL,BOS
+Shot Chart Detail,0020500826,123,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,11,36,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060226,LAL,BOS
+Shot Chart Detail,0020500826,405,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,10,4,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060226,LAL,BOS
+Shot Chart Detail,0020500826,416,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,8,59,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060226,LAL,BOS
+Shot Chart Detail,0020500826,423,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,8,1,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060226,LAL,BOS
+Shot Chart Detail,0020500826,519,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,0,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060226,LAL,BOS
+Shot Chart Detail,0020500841,226,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,10,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,146,123,1,1,20060228,LAL,ORL
+Shot Chart Detail,0020500841,259,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,7,28,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060228,LAL,ORL
+Shot Chart Detail,0020500852,29,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,7,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,1,156,1,1,20060301,POR,LAL
+Shot Chart Detail,0020500852,181,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,3,12,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-80,3,1,1,20060301,POR,LAL
+Shot Chart Detail,0020500852,209,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,0,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,107,201,1,1,20060301,POR,LAL
+Shot Chart Detail,0020500852,287,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,5,15,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060301,POR,LAL
+Shot Chart Detail,0020500852,356,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,11,0,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060301,POR,LAL
+Shot Chart Detail,0020500852,448,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,1,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060301,POR,LAL
+Shot Chart Detail,0020500852,454,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,0,43,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060301,POR,LAL
+Shot Chart Detail,0020500865,31,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,8,44,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,3,33,1,1,20060303,GSW,LAL
+Shot Chart Detail,0020500865,281,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,10,55,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-6,20,1,1,20060303,GSW,LAL
+Shot Chart Detail,0020500865,318,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,7,8,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-20,45,1,1,20060303,GSW,LAL
+Shot Chart Detail,0020500873,9,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,10,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,123,137,1,1,20060304,LAL,DET
+Shot Chart Detail,0020500873,50,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,4,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-108,238,1,1,20060304,LAL,DET
+Shot Chart Detail,0020500873,56,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,3,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060304,LAL,DET
+Shot Chart Detail,0020500873,75,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,1,55,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,15,20,1,1,20060304,LAL,DET
+Shot Chart Detail,0020500873,215,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,0,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,74,232,1,1,20060304,LAL,DET
+Shot Chart Detail,0020500873,310,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,1,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060304,LAL,DET
+Shot Chart Detail,0020500873,320,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,0,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,8,266,1,1,20060304,LAL,DET
+Shot Chart Detail,0020500873,336,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,10,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-161,13,1,1,20060304,LAL,DET
+Shot Chart Detail,0020500873,366,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,7,26,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060304,LAL,DET
+Shot Chart Detail,0020500888,81,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,1,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,51,271,1,1,20060306,LAL,SAS
+Shot Chart Detail,0020500888,122,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,8,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060306,LAL,SAS
+Shot Chart Detail,0020500888,257,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,6,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060306,LAL,SAS
+Shot Chart Detail,0020500888,315,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,11,47,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,13,53,1,1,20060306,LAL,SAS
+Shot Chart Detail,0020500888,332,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,9,22,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060306,LAL,SAS
+Shot Chart Detail,0020500888,388,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,5,10,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060306,LAL,SAS
+Shot Chart Detail,0020500903,44,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,7,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060308,NOK,LAL
+Shot Chart Detail,0020500903,70,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,3,47,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060308,NOK,LAL
+Shot Chart Detail,0020500903,339,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,3,43,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,39,30,1,1,20060308,NOK,LAL
+Shot Chart Detail,0020500903,355,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,1,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,0,250,1,1,20060308,NOK,LAL
+Shot Chart Detail,0020500903,366,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,0,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060308,NOK,LAL
+Shot Chart Detail,0020500903,466,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,0,40,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060308,NOK,LAL
+Shot Chart Detail,0020500916,15,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,9,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-120,215,1,1,20060310,SAS,LAL
+Shot Chart Detail,0020500916,54,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,4,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-3,1,1,20060310,SAS,LAL
+Shot Chart Detail,0020500916,224,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,9,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,5,1,1,20060310,SAS,LAL
+Shot Chart Detail,0020500916,250,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,6,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-115,95,1,1,20060310,SAS,LAL
+Shot Chart Detail,0020500916,273,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,3,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,7,1,1,20060310,SAS,LAL
+Shot Chart Detail,0020500916,321,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,10,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,7,1,1,20060310,SAS,LAL
+Shot Chart Detail,0020500930,24,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,9,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,209,148,1,1,20060312,LAL,SEA
+Shot Chart Detail,0020500930,43,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,6,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,213,146,1,1,20060312,LAL,SEA
+Shot Chart Detail,0020500930,101,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,1,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060312,LAL,SEA
+Shot Chart Detail,0020500930,229,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,1,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060312,LAL,SEA
+Shot Chart Detail,0020500930,370,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,10,35,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,54,58,1,1,20060312,LAL,SEA
+Shot Chart Detail,0020500930,460,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,1,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,13,261,1,1,20060312,LAL,SEA
+Shot Chart Detail,0020500948,2,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,11,44,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,57,15,1,1,20060314,SAC,LAL
+Shot Chart Detail,0020500948,21,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,9,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,130,210,1,1,20060314,SAC,LAL
+Shot Chart Detail,0020500948,40,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,7,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-36,242,1,1,20060314,SAC,LAL
+Shot Chart Detail,0020500948,48,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,5,53,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060314,SAC,LAL
+Shot Chart Detail,0020500948,51,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,5,34,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060314,SAC,LAL
+Shot Chart Detail,0020500948,97,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,0,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,49,174,1,1,20060314,SAC,LAL
+Shot Chart Detail,0020500948,306,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,0,51,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060314,SAC,LAL
+Shot Chart Detail,0020500948,313,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,0,34,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060314,SAC,LAL
+Shot Chart Detail,0020500948,363,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,6,56,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-48,22,1,1,20060314,SAC,LAL
+Shot Chart Detail,0020500959,44,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,5,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,110,233,1,1,20060315,LAL,MIN
+Shot Chart Detail,0020500959,60,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,4,0,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060315,LAL,MIN
+Shot Chart Detail,0020500959,71,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,2,31,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060315,LAL,MIN
+Shot Chart Detail,0020500959,103,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,10,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060315,LAL,MIN
+Shot Chart Detail,0020500959,106,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,9,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-143,215,1,1,20060315,LAL,MIN
+Shot Chart Detail,0020500959,113,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,8,43,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,47,54,1,1,20060315,LAL,MIN
+Shot Chart Detail,0020500959,120,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,8,3,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,135,-6,1,1,20060315,LAL,MIN
+Shot Chart Detail,0020500959,222,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,7,21,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060315,LAL,MIN
+Shot Chart Detail,0020500959,379,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,1,57,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,6,127,1,1,20060315,LAL,MIN
+Shot Chart Detail,0020500968,14,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,10,10,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060317,NJN,LAL
+Shot Chart Detail,0020500968,61,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,3,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-31,261,1,1,20060317,NJN,LAL
+Shot Chart Detail,0020500968,86,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,0,49,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060317,NJN,LAL
+Shot Chart Detail,0020500968,143,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,6,20,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060317,NJN,LAL
+Shot Chart Detail,0020500968,180,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,2,1,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060317,NJN,LAL
+Shot Chart Detail,0020500968,366,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,6,4,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060317,NJN,LAL
+Shot Chart Detail,0020500968,374,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,5,11,Made Shot,Driving Finger Roll Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060317,NJN,LAL
+Shot Chart Detail,0020500981,80,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,1,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-11,257,1,1,20060319,CLE,LAL
+Shot Chart Detail,0020500981,99,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,10,54,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-31,120,1,1,20060319,CLE,LAL
+Shot Chart Detail,0020500981,105,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,9,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,-3,1,1,20060319,CLE,LAL
+Shot Chart Detail,0020500981,118,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,8,17,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,56,56,1,1,20060319,CLE,LAL
+Shot Chart Detail,0020500981,124,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,7,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-153,202,1,1,20060319,CLE,LAL
+Shot Chart Detail,0020500981,296,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,3,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,2,1,1,20060319,CLE,LAL
+Shot Chart Detail,0020500981,317,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,2,24,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,7,1,1,20060319,CLE,LAL
+Shot Chart Detail,0020500981,332,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,0,42,Made Shot,Running Finger Roll Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-6,15,1,1,20060319,CLE,LAL
+Shot Chart Detail,0020500981,378,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,7,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,8,1,1,20060319,CLE,LAL
+Shot Chart Detail,0020500988,94,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,1,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,33,242,1,1,20060320,BOS,LAL
+Shot Chart Detail,0020500988,118,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,11,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-135,204,1,1,20060320,BOS,LAL
+Shot Chart Detail,0020500988,121,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,11,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,8,-6,1,1,20060320,BOS,LAL
+Shot Chart Detail,0020500988,240,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,0,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,0,1,1,20060320,BOS,LAL
+Shot Chart Detail,0020500988,298,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,6,12,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,10,1,1,20060320,BOS,LAL
+Shot Chart Detail,0020500988,346,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,1,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-197,176,1,1,20060320,BOS,LAL
+Shot Chart Detail,0020501010,41,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,5,37,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060322,LAL,SAC
+Shot Chart Detail,0020501010,49,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,4,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,59,248,1,1,20060322,LAL,SAC
+Shot Chart Detail,0020501010,51,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,3,53,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060322,LAL,SAC
+Shot Chart Detail,0020501010,300,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,3,11,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060322,LAL,SAC
+Shot Chart Detail,0020501010,380,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,8,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,54,247,1,1,20060322,LAL,SAC
+Shot Chart Detail,0020501026,12,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,11,6,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060324,LAL,MIL
+Shot Chart Detail,0020501026,141,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,9,3,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-39,23,1,1,20060324,LAL,MIL
+Shot Chart Detail,0020501026,305,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,3,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-123,232,1,1,20060324,LAL,MIL
+Shot Chart Detail,0020501026,312,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,2,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-8,260,1,1,20060324,LAL,MIL
+Shot Chart Detail,0020501026,325,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,1,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,75,250,1,1,20060324,LAL,MIL
+Shot Chart Detail,0020501026,374,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,8,19,Made Shot,Driving Finger Roll Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060324,LAL,MIL
+Shot Chart Detail,0020501042,60,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,5,12,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,67,95,1,1,20060326,LAL,NOK
+Shot Chart Detail,0020501042,231,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,0,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,194,176,1,1,20060326,LAL,NOK
+Shot Chart Detail,0020501042,244,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,11,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060326,LAL,NOK
+Shot Chart Detail,0020501042,246,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,10,30,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060326,LAL,NOK
+Shot Chart Detail,0020501042,288,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,5,22,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-56,66,1,1,20060326,LAL,NOK
+Shot Chart Detail,0020501042,298,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,4,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-52,253,1,1,20060326,LAL,NOK
+Shot Chart Detail,0020501066,71,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,3,16,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060330,LAL,SAS
+Shot Chart Detail,0020501066,114,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,10,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060330,LAL,SAS
+Shot Chart Detail,0020501066,352,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,10,56,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-39,35,1,1,20060330,LAL,SAS
+Shot Chart Detail,0020501066,365,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,9,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,117,235,1,1,20060330,LAL,SAS
+Shot Chart Detail,0020501078,37,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,8,30,Made Shot,Driving Finger Roll Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060331,SEA,LAL
+Shot Chart Detail,0020501078,200,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,4,52,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060331,SEA,LAL
+Shot Chart Detail,0020501078,301,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,7,33,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-57,13,1,1,20060331,SEA,LAL
+Shot Chart Detail,0020501078,340,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,4,19,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060331,SEA,LAL
+Shot Chart Detail,0020501078,519,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,0,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-153,210,1,1,20060331,SEA,LAL
+Shot Chart Detail,0020501089,19,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,9,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-146,217,1,1,20060402,LAL,HOU
+Shot Chart Detail,0020501089,60,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,3,29,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060402,LAL,HOU
+Shot Chart Detail,0020501089,105,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,10,24,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060402,LAL,HOU
+Shot Chart Detail,0020501089,112,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,9,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060402,LAL,HOU
+Shot Chart Detail,0020501089,249,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,6,0,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060402,LAL,HOU
+Shot Chart Detail,0020501089,395,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,2,59,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,18,1,1,20060402,LAL,HOU
+Shot Chart Detail,0020501089,419,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,0,3,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-11,125,1,1,20060402,LAL,HOU
+Shot Chart Detail,0020501120,144,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,8,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060406,DEN,LAL
+Shot Chart Detail,0020501120,284,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,9,37,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060406,DEN,LAL
+Shot Chart Detail,0020501120,292,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,8,32,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-6,72,1,1,20060406,DEN,LAL
+Shot Chart Detail,0020501120,303,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,7,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060406,DEN,LAL
+Shot Chart Detail,0020501120,422,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,9,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-149,5,1,1,20060406,DEN,LAL
+Shot Chart Detail,0020501120,459,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,5,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060406,DEN,LAL
+Shot Chart Detail,0020501120,547,1885,Lamar Odom,1610612747,Los Angeles Lakers,5,1,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,105,230,1,1,20060406,DEN,LAL
+Shot Chart Detail,0020501130,24,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,8,50,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060407,PHX,LAL
+Shot Chart Detail,0020501130,122,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,9,15,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060407,PHX,LAL
+Shot Chart Detail,0020501130,247,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,7,49,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060407,PHX,LAL
+Shot Chart Detail,0020501130,301,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,2,16,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060407,PHX,LAL
+Shot Chart Detail,0020501130,311,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,1,6,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060407,PHX,LAL
+Shot Chart Detail,0020501130,388,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,3,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060407,PHX,LAL
+Shot Chart Detail,0020501130,412,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,0,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-166,183,1,1,20060407,PHX,LAL
+Shot Chart Detail,0020501148,10,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,10,24,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-18,51,1,1,20060409,LAL,LAC
+Shot Chart Detail,0020501148,97,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,1,11,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060409,LAL,LAC
+Shot Chart Detail,0020501148,101,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,0,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-29,258,1,1,20060409,LAL,LAC
+Shot Chart Detail,0020501148,204,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,3,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-214,161,1,1,20060409,LAL,LAC
+Shot Chart Detail,0020501148,207,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,2,36,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060409,LAL,LAC
+Shot Chart Detail,0020501148,244,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,11,2,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060409,LAL,LAC
+Shot Chart Detail,0020501148,253,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,9,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060409,LAL,LAC
+Shot Chart Detail,0020501148,293,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,4,32,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060409,LAL,LAC
+Shot Chart Detail,0020501148,404,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,5,24,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060409,LAL,LAC
+Shot Chart Detail,0020501161,9,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,10,45,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060411,LAL,GSW
+Shot Chart Detail,0020501161,20,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,9,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060411,LAL,GSW
+Shot Chart Detail,0020501161,203,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,4,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060411,LAL,GSW
+Shot Chart Detail,0020501161,296,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,9,7,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060411,LAL,GSW
+Shot Chart Detail,0020501161,300,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,8,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-29,243,1,1,20060411,LAL,GSW
+Shot Chart Detail,0020501161,319,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,6,53,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060411,LAL,GSW
+Shot Chart Detail,0020501161,392,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,0,55,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060411,LAL,GSW
+Shot Chart Detail,0020501185,31,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,7,48,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060414,LAL,POR
+Shot Chart Detail,0020501185,110,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,0,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-218,145,1,1,20060414,LAL,POR
+Shot Chart Detail,0020501185,117,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,11,44,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,126,64,1,1,20060414,LAL,POR
+Shot Chart Detail,0020501185,249,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,11,44,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060414,LAL,POR
+Shot Chart Detail,0020501185,260,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,10,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060414,LAL,POR
+Shot Chart Detail,0020501185,307,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,3,58,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060414,LAL,POR
+Shot Chart Detail,0020501185,473,1885,Lamar Odom,1610612747,Los Angeles Lakers,4,0,32,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060414,LAL,POR
+Shot Chart Detail,0020501196,47,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,7,36,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-36,25,1,1,20060416,LAL,PHX
+Shot Chart Detail,0020501196,63,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,6,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,118,61,1,1,20060416,LAL,PHX
+Shot Chart Detail,0020501196,74,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,5,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060416,LAL,PHX
+Shot Chart Detail,0020501196,262,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,0,44,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060416,LAL,PHX
+Shot Chart Detail,0020501196,284,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,11,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060416,LAL,PHX
+Shot Chart Detail,0020501196,352,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,3,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060416,LAL,PHX
+Shot Chart Detail,0020501196,355,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,2,49,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060416,LAL,PHX
+Shot Chart Detail,0020501229,103,1885,Lamar Odom,1610612747,Los Angeles Lakers,1,0,49,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060419,LAL,NOK
+Shot Chart Detail,0020501229,211,1885,Lamar Odom,1610612747,Los Angeles Lakers,2,3,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,169,31,1,1,20060419,LAL,NOK
+Shot Chart Detail,0020501229,272,1885,Lamar Odom,1610612747,Los Angeles Lakers,3,8,16,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060419,LAL,NOK

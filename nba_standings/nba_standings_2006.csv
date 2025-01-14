@@ -1,0 +1,31 @@
+City,Team,Conference,ConferenceRecord,Rank,W,L,Win%,Home,Road,Last10,Season,Year,FullTeamName,TEAM_ABBREVIATION
+San Antonio,Spurs,West,42-10,1,63,19,0.768,34-7,29-12,7-3,2005-06,2006,San Antonio Spurs,SAS
+Detroit,Pistons,East,39-13,1,64,18,0.78,37-4,27-14,6-4,2005-06,2006,Detroit Pistons,DET
+Dallas,Mavericks,West,37-15,2,60,22,0.732,34-7,26-15,6-4,2005-06,2006,Dallas Mavericks,DAL
+Miami,Heat,East,35-17,2,52,30,0.634,31-10,21-20,4-6,2005-06,2006,Miami Heat,MIA
+Cleveland,Cavaliers,East,34-18,3,50,32,0.61,31-10,19-22,7-3,2005-06,2006,Cleveland Cavaliers,CLE
+Phoenix,Suns,West,32-20,3,54,28,0.659,31-10,23-18,5-5,2005-06,2006,Phoenix Suns,PHX
+Denver,Nuggets,West,25-27,4,44,38,0.537,26-15,18-23,4-6,2005-06,2006,Denver Nuggets,DEN
+New Jersey,Nets,East,33-19,4,49,33,0.598,29-12,20-21,5-5,2005-06,2006,New Jersey Nets,
+Washington,Wizards,East,29-23,5,42,40,0.512,27-14,15-26,5-5,2005-06,2006,Washington Wizards,WAS
+Memphis,Grizzlies,West,31-21,5,49,33,0.598,30-11,19-22,8-2,2005-06,2006,Memphis Grizzlies,MEM
+Indiana,Pacers,East,24-28,6,41,41,0.5,27-14,14-27,6-4,2005-06,2006,Indiana Pacers,IND
+Los Angeles,Clippers,West,27-25,6,47,35,0.573,27-14,20-21,5-5,2005-06,2006,Los Angeles Clippers,LAC
+Los Angeles,Lakers,West,27-25,7,45,37,0.549,27-14,18-23,7-3,2005-06,2006,Los Angeles Lakers,LAL
+Chicago,Bulls,East,30-22,7,41,41,0.5,21-20,20-21,9-1,2005-06,2006,Chicago Bulls,CHI
+Sacramento,Kings,West,30-22,8,44,38,0.537,27-14,17-24,8-2,2005-06,2006,Sacramento Kings,SAC
+Milwaukee,Bucks,East,29-23,8,40,42,0.481,24-16,15-26,4-6,2005-06,2006,Milwaukee Bucks,MIL
+Philadelphia,76ers,East,22-30,9,38,44,0.463,23-18,15-26,4-6,2005-06,2006,Philadelphia 76ers,PHI
+Utah,Jazz,West,26-26,9,41,41,0.5,22-19,19-22,7-3,2005-06,2006,Utah Jazz,UTA
+New Orleans/Oklahoma City,Hornets,West,25-27,10,38,44,0.463,24-17,14-27,3-7,2005-06,2006,New Orleans/Oklahoma City Hornets,
+Orlando,Magic,East,24-28,10,36,46,0.439,26-15,10-31,8-2,2005-06,2006,Orlando Magic,ORL
+Boston,Celtics,East,19-33,11,33,49,0.402,21-20,12-29,3-7,2005-06,2006,Boston Celtics,BOS
+Seattle,SuperSonics,West,20-32,11,35,47,0.427,22-19,13-28,6-4,2005-06,2006,Seattle SuperSonics,
+Houston,Rockets,West,19-33,12,34,48,0.415,15-26,19-22,2-8,2005-06,2006,Houston Rockets,HOU
+Toronto,Raptors,East,20-32,12,27,55,0.329,15-26,12-29,1-9,2005-06,2006,Toronto Raptors,TOR
+Golden State,Warriors,West,19-33,13,34,48,0.415,21-20,13-28,4-6,2005-06,2006,Golden State Warriors,GSW
+Charlotte,Bobcats,East,18-34,13,26,56,0.317,17-24,9-32,6-4,2005-06,2006,Charlotte Bobcats,
+Atlanta,Hawks,East,19-33,14,26,56,0.317,18-23,8-33,4-6,2005-06,2006,Atlanta Hawks,ATL
+Minnesota,Timberwolves,West,20-32,14,33,49,0.402,24-17,9-32,3-7,2005-06,2006,Minnesota Timberwolves,MIN
+New York,Knicks,East,15-37,15,23,59,0.28,15-26,8-33,4-6,2005-06,2006,New York Knicks,NYK
+Portland,Trail Blazers,West,10-42,15,21,61,0.256,15-26,6-35,1-9,2005-06,2006,Portland Trail Blazers,POR

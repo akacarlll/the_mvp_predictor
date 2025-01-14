@@ -1,0 +1,675 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0020800006,27,1712,Antawn Jamison,1610612764,Washington Wizards,1,9,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,21,193,104,1,1,20081029,WAS,NJN
+Shot Chart Detail,0020800006,211,1712,Antawn Jamison,1610612764,Washington Wizards,2,4,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-109,142,1,1,20081029,WAS,NJN
+Shot Chart Detail,0020800006,214,1712,Antawn Jamison,1610612764,Washington Wizards,2,4,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,73,194,1,1,20081029,WAS,NJN
+Shot Chart Detail,0020800006,229,1712,Antawn Jamison,1610612764,Washington Wizards,2,2,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,135,219,1,1,20081029,WAS,NJN
+Shot Chart Detail,0020800006,309,1712,Antawn Jamison,1610612764,Washington Wizards,3,7,25,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,0,1,1,20081029,WAS,NJN
+Shot Chart Detail,0020800006,383,1712,Antawn Jamison,1610612764,Washington Wizards,3,1,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,15,15,1,1,20081029,WAS,NJN
+Shot Chart Detail,0020800030,13,1712,Antawn Jamison,1610612764,Washington Wizards,1,10,9,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081101,DET,WAS
+Shot Chart Detail,0020800030,198,1712,Antawn Jamison,1610612764,Washington Wizards,2,3,41,Made Shot,Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,84,28,1,1,20081101,DET,WAS
+Shot Chart Detail,0020800030,208,1712,Antawn Jamison,1610612764,Washington Wizards,2,2,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-95,250,1,1,20081101,DET,WAS
+Shot Chart Detail,0020800030,218,1712,Antawn Jamison,1610612764,Washington Wizards,2,1,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081101,DET,WAS
+Shot Chart Detail,0020800030,265,1712,Antawn Jamison,1610612764,Washington Wizards,3,8,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-172,71,1,1,20081101,DET,WAS
+Shot Chart Detail,0020800030,350,1712,Antawn Jamison,1610612764,Washington Wizards,4,11,36,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-16,93,1,1,20081101,DET,WAS
+Shot Chart Detail,0020800030,452,1712,Antawn Jamison,1610612764,Washington Wizards,4,2,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,200,19,1,1,20081101,DET,WAS
+Shot Chart Detail,0020800030,493,1712,Antawn Jamison,1610612764,Washington Wizards,4,0,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081101,DET,WAS
+Shot Chart Detail,0020800056,49,1712,Antawn Jamison,1610612764,Washington Wizards,1,5,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081105,MIL,WAS
+Shot Chart Detail,0020800056,53,1712,Antawn Jamison,1610612764,Washington Wizards,1,5,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081105,MIL,WAS
+Shot Chart Detail,0020800056,95,1712,Antawn Jamison,1610612764,Washington Wizards,1,1,31,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081105,MIL,WAS
+Shot Chart Detail,0020800056,288,1712,Antawn Jamison,1610612764,Washington Wizards,3,10,4,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-37,25,1,1,20081105,MIL,WAS
+Shot Chart Detail,0020800056,378,1712,Antawn Jamison,1610612764,Washington Wizards,3,1,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081105,MIL,WAS
+Shot Chart Detail,0020800056,555,1712,Antawn Jamison,1610612764,Washington Wizards,4,0,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081105,MIL,WAS
+Shot Chart Detail,0020800067,19,1712,Antawn Jamison,1610612764,Washington Wizards,1,9,15,Made Shot,Jump Bank Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,24,25,1,1,20081107,WAS,NYK
+Shot Chart Detail,0020800067,182,1712,Antawn Jamison,1610612764,Washington Wizards,2,5,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081107,WAS,NYK
+Shot Chart Detail,0020800067,225,1712,Antawn Jamison,1610612764,Washington Wizards,2,2,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081107,WAS,NYK
+Shot Chart Detail,0020800067,242,1712,Antawn Jamison,1610612764,Washington Wizards,2,1,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,-2,1,1,20081107,WAS,NYK
+Shot Chart Detail,0020800067,296,1712,Antawn Jamison,1610612764,Washington Wizards,3,7,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,7,1,1,20081107,WAS,NYK
+Shot Chart Detail,0020800067,303,1712,Antawn Jamison,1610612764,Washington Wizards,3,6,41,Made Shot,Turnaround Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,119,0,1,1,20081107,WAS,NYK
+Shot Chart Detail,0020800067,331,1712,Antawn Jamison,1610612764,Washington Wizards,3,4,35,Made Shot,Floating Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,0,39,1,1,20081107,WAS,NYK
+Shot Chart Detail,0020800067,418,1712,Antawn Jamison,1610612764,Washington Wizards,4,9,6,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-73,4,1,1,20081107,WAS,NYK
+Shot Chart Detail,0020800067,429,1712,Antawn Jamison,1610612764,Washington Wizards,4,8,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-157,219,1,1,20081107,WAS,NYK
+Shot Chart Detail,0020800067,455,1712,Antawn Jamison,1610612764,Washington Wizards,4,5,39,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,3,1,1,20081107,WAS,NYK
+Shot Chart Detail,0020800067,494,1712,Antawn Jamison,1610612764,Washington Wizards,4,2,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,105,247,1,1,20081107,WAS,NYK
+Shot Chart Detail,0020800080,12,1712,Antawn Jamison,1610612764,Washington Wizards,1,9,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-131,203,1,1,20081108,ORL,WAS
+Shot Chart Detail,0020800080,59,1712,Antawn Jamison,1610612764,Washington Wizards,1,4,4,Made Shot,Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,84,45,1,1,20081108,ORL,WAS
+Shot Chart Detail,0020800080,90,1712,Antawn Jamison,1610612764,Washington Wizards,1,0,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081108,ORL,WAS
+Shot Chart Detail,0020800114,61,1712,Antawn Jamison,1610612764,Washington Wizards,1,3,37,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,9,31,1,1,20081112,WAS,UTA
+Shot Chart Detail,0020800114,168,1712,Antawn Jamison,1610612764,Washington Wizards,2,6,51,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,15,1,1,20081112,WAS,UTA
+Shot Chart Detail,0020800114,189,1712,Antawn Jamison,1610612764,Washington Wizards,2,5,3,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,36,45,1,1,20081112,WAS,UTA
+Shot Chart Detail,0020800114,196,1712,Antawn Jamison,1610612764,Washington Wizards,2,3,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,174,33,1,1,20081112,WAS,UTA
+Shot Chart Detail,0020800114,492,1712,Antawn Jamison,1610612764,Washington Wizards,4,3,12,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,9,1,1,20081112,WAS,UTA
+Shot Chart Detail,0020800114,509,1712,Antawn Jamison,1610612764,Washington Wizards,4,2,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,157,203,1,1,20081112,WAS,UTA
+Shot Chart Detail,0020800122,25,1712,Antawn Jamison,1610612764,Washington Wizards,1,8,16,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,32,56,1,1,20081114,MIA,WAS
+Shot Chart Detail,0020800122,187,1712,Antawn Jamison,1610612764,Washington Wizards,2,5,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081114,MIA,WAS
+Shot Chart Detail,0020800122,202,1712,Antawn Jamison,1610612764,Washington Wizards,2,3,7,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,7,77,1,1,20081114,MIA,WAS
+Shot Chart Detail,0020800122,212,1712,Antawn Jamison,1610612764,Washington Wizards,2,2,36,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,51,-2,1,1,20081114,MIA,WAS
+Shot Chart Detail,0020800122,247,1712,Antawn Jamison,1610612764,Washington Wizards,3,10,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,23,9,238,1,1,20081114,MIA,WAS
+Shot Chart Detail,0020800122,250,1712,Antawn Jamison,1610612764,Washington Wizards,3,9,30,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081114,MIA,WAS
+Shot Chart Detail,0020800122,262,1712,Antawn Jamison,1610612764,Washington Wizards,3,8,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081114,MIA,WAS
+Shot Chart Detail,0020800152,54,1712,Antawn Jamison,1610612764,Washington Wizards,1,6,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,206,168,1,1,20081118,WAS,MIA
+Shot Chart Detail,0020800152,84,1712,Antawn Jamison,1610612764,Washington Wizards,1,4,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,-3,1,1,20081118,WAS,MIA
+Shot Chart Detail,0020800152,98,1712,Antawn Jamison,1610612764,Washington Wizards,1,2,44,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,9,1,1,20081118,WAS,MIA
+Shot Chart Detail,0020800152,121,1712,Antawn Jamison,1610612764,Washington Wizards,1,0,38,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,3,1,1,20081118,WAS,MIA
+Shot Chart Detail,0020800152,219,1712,Antawn Jamison,1610612764,Washington Wizards,2,1,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,-10,1,1,20081118,WAS,MIA
+Shot Chart Detail,0020800152,338,1712,Antawn Jamison,1610612764,Washington Wizards,3,2,32,Made Shot,Turnaround Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,105,1,1,1,20081118,WAS,MIA
+Shot Chart Detail,0020800152,350,1712,Antawn Jamison,1610612764,Washington Wizards,3,1,36,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-2,44,1,1,20081118,WAS,MIA
+Shot Chart Detail,0020800152,433,1712,Antawn Jamison,1610612764,Washington Wizards,4,6,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-138,220,1,1,20081118,WAS,MIA
+Shot Chart Detail,0020800152,491,1712,Antawn Jamison,1610612764,Washington Wizards,4,2,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-15,25,1,1,20081118,WAS,MIA
+Shot Chart Detail,0020800159,18,1712,Antawn Jamison,1610612764,Washington Wizards,1,9,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081119,ATL,WAS
+Shot Chart Detail,0020800159,20,1712,Antawn Jamison,1610612764,Washington Wizards,1,9,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,195,200,1,1,20081119,ATL,WAS
+Shot Chart Detail,0020800159,142,1712,Antawn Jamison,1610612764,Washington Wizards,2,8,45,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081119,ATL,WAS
+Shot Chart Detail,0020800159,165,1712,Antawn Jamison,1610612764,Washington Wizards,2,7,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-105,156,1,1,20081119,ATL,WAS
+Shot Chart Detail,0020800159,174,1712,Antawn Jamison,1610612764,Washington Wizards,2,5,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-163,238,1,1,20081119,ATL,WAS
+Shot Chart Detail,0020800159,185,1712,Antawn Jamison,1610612764,Washington Wizards,2,5,5,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081119,ATL,WAS
+Shot Chart Detail,0020800159,411,1712,Antawn Jamison,1610612764,Washington Wizards,4,7,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-161,126,1,1,20081119,ATL,WAS
+Shot Chart Detail,0020800159,460,1712,Antawn Jamison,1610612764,Washington Wizards,4,2,56,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,77,48,1,1,20081119,ATL,WAS
+Shot Chart Detail,0020800174,9,1712,Antawn Jamison,1610612764,Washington Wizards,1,10,58,Made Shot,Floating Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,20,25,1,1,20081121,WAS,HOU
+Shot Chart Detail,0020800174,42,1712,Antawn Jamison,1610612764,Washington Wizards,1,7,3,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,-5,1,1,20081121,WAS,HOU
+Shot Chart Detail,0020800174,134,1712,Antawn Jamison,1610612764,Washington Wizards,2,10,29,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,1,1,1,20081121,WAS,HOU
+Shot Chart Detail,0020800174,202,1712,Antawn Jamison,1610612764,Washington Wizards,2,4,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,127,47,1,1,20081121,WAS,HOU
+Shot Chart Detail,0020800174,241,1712,Antawn Jamison,1610612764,Washington Wizards,2,1,13,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,9,1,1,20081121,WAS,HOU
+Shot Chart Detail,0020800174,318,1712,Antawn Jamison,1610612764,Washington Wizards,3,7,42,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,4,1,1,20081121,WAS,HOU
+Shot Chart Detail,0020800174,340,1712,Antawn Jamison,1610612764,Washington Wizards,3,5,52,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,12,1,1,20081121,WAS,HOU
+Shot Chart Detail,0020800189,35,1712,Antawn Jamison,1610612764,Washington Wizards,1,8,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,201,156,1,1,20081122,NYK,WAS
+Shot Chart Detail,0020800189,72,1712,Antawn Jamison,1610612764,Washington Wizards,1,5,12,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-5,60,1,1,20081122,NYK,WAS
+Shot Chart Detail,0020800189,99,1712,Antawn Jamison,1610612764,Washington Wizards,1,2,14,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081122,NYK,WAS
+Shot Chart Detail,0020800189,119,1712,Antawn Jamison,1610612764,Washington Wizards,1,0,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081122,NYK,WAS
+Shot Chart Detail,0020800189,135,1712,Antawn Jamison,1610612764,Washington Wizards,2,10,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-160,138,1,1,20081122,NYK,WAS
+Shot Chart Detail,0020800189,322,1712,Antawn Jamison,1610612764,Washington Wizards,3,9,6,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,7,52,1,1,20081122,NYK,WAS
+Shot Chart Detail,0020800189,373,1712,Antawn Jamison,1610612764,Washington Wizards,3,4,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081122,NYK,WAS
+Shot Chart Detail,0020800189,443,1712,Antawn Jamison,1610612764,Washington Wizards,4,11,12,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-172,63,1,1,20081122,NYK,WAS
+Shot Chart Detail,0020800189,446,1712,Antawn Jamison,1610612764,Washington Wizards,4,10,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-223,151,1,1,20081122,NYK,WAS
+Shot Chart Detail,0020800205,26,1712,Antawn Jamison,1610612764,Washington Wizards,1,10,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,12,1,1,20081125,WAS,GSW
+Shot Chart Detail,0020800205,38,1712,Antawn Jamison,1610612764,Washington Wizards,1,8,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-98,77,1,1,20081125,WAS,GSW
+Shot Chart Detail,0020800205,71,1712,Antawn Jamison,1610612764,Washington Wizards,1,4,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,4,1,1,20081125,WAS,GSW
+Shot Chart Detail,0020800205,182,1712,Antawn Jamison,1610612764,Washington Wizards,2,6,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-106,88,1,1,20081125,WAS,GSW
+Shot Chart Detail,0020800205,194,1712,Antawn Jamison,1610612764,Washington Wizards,2,5,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,122,36,1,1,20081125,WAS,GSW
+Shot Chart Detail,0020800205,247,1712,Antawn Jamison,1610612764,Washington Wizards,2,2,1,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-49,45,1,1,20081125,WAS,GSW
+Shot Chart Detail,0020800205,258,1712,Antawn Jamison,1610612764,Washington Wizards,2,0,21,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,9,1,1,20081125,WAS,GSW
+Shot Chart Detail,0020800205,285,1712,Antawn Jamison,1610612764,Washington Wizards,3,11,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,0,1,1,20081125,WAS,GSW
+Shot Chart Detail,0020800205,352,1712,Antawn Jamison,1610612764,Washington Wizards,3,3,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,7,1,1,20081125,WAS,GSW
+Shot Chart Detail,0020800205,433,1712,Antawn Jamison,1610612764,Washington Wizards,4,10,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,7,1,1,20081125,WAS,GSW
+Shot Chart Detail,0020800205,472,1712,Antawn Jamison,1610612764,Washington Wizards,4,8,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,9,1,1,20081125,WAS,GSW
+Shot Chart Detail,0020800223,3,1712,Antawn Jamison,1610612764,Washington Wizards,1,11,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,14,1,1,20081127,WAS,ORL
+Shot Chart Detail,0020800223,18,1712,Antawn Jamison,1610612764,Washington Wizards,1,9,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,-201,66,1,1,20081127,WAS,ORL
+Shot Chart Detail,0020800223,117,1712,Antawn Jamison,1610612764,Washington Wizards,1,3,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,147,12,1,1,20081127,WAS,ORL
+Shot Chart Detail,0020800223,319,1712,Antawn Jamison,1610612764,Washington Wizards,3,6,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,9,1,1,20081127,WAS,ORL
+Shot Chart Detail,0020800223,321,1712,Antawn Jamison,1610612764,Washington Wizards,3,6,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,0,1,1,20081127,WAS,ORL
+Shot Chart Detail,0020800223,390,1712,Antawn Jamison,1610612764,Washington Wizards,3,2,2,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,-5,1,1,20081127,WAS,ORL
+Shot Chart Detail,0020800223,412,1712,Antawn Jamison,1610612764,Washington Wizards,3,0,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,-2,1,1,20081127,WAS,ORL
+Shot Chart Detail,0020800238,62,1712,Antawn Jamison,1610612764,Washington Wizards,1,4,9,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,6,1,1,20081129,WAS,ATL
+Shot Chart Detail,0020800238,64,1712,Antawn Jamison,1610612764,Washington Wizards,1,3,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,3,1,1,20081129,WAS,ATL
+Shot Chart Detail,0020800238,241,1712,Antawn Jamison,1610612764,Washington Wizards,2,0,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,200,154,1,1,20081129,WAS,ATL
+Shot Chart Detail,0020800238,249,1712,Antawn Jamison,1610612764,Washington Wizards,2,0,28,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,0,1,1,20081129,WAS,ATL
+Shot Chart Detail,0020800238,280,1712,Antawn Jamison,1610612764,Washington Wizards,3,9,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-201,0,1,1,20081129,WAS,ATL
+Shot Chart Detail,0020800238,290,1712,Antawn Jamison,1610612764,Washington Wizards,3,8,15,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-10,23,1,1,20081129,WAS,ATL
+Shot Chart Detail,0020800238,392,1712,Antawn Jamison,1610612764,Washington Wizards,4,11,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-182,200,1,1,20081129,WAS,ATL
+Shot Chart Detail,0020800238,422,1712,Antawn Jamison,1610612764,Washington Wizards,4,8,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-8,1,1,20081129,WAS,ATL
+Shot Chart Detail,0020800238,459,1712,Antawn Jamison,1610612764,Washington Wizards,4,5,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,7,1,1,20081129,WAS,ATL
+Shot Chart Detail,0020800238,504,1712,Antawn Jamison,1610612764,Washington Wizards,4,1,54,Made Shot,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-67,45,1,1,20081129,WAS,ATL
+Shot Chart Detail,0020800256,41,1712,Antawn Jamison,1610612764,Washington Wizards,1,6,0,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081202,NJN,WAS
+Shot Chart Detail,0020800256,68,1712,Antawn Jamison,1610612764,Washington Wizards,1,3,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-15,247,1,1,20081202,NJN,WAS
+Shot Chart Detail,0020800256,79,1712,Antawn Jamison,1610612764,Washington Wizards,1,1,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-204,1,1,1,20081202,NJN,WAS
+Shot Chart Detail,0020800256,127,1712,Antawn Jamison,1610612764,Washington Wizards,2,8,29,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-13,63,1,1,20081202,NJN,WAS
+Shot Chart Detail,0020800256,215,1712,Antawn Jamison,1610612764,Washington Wizards,3,10,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-160,6,1,1,20081202,NJN,WAS
+Shot Chart Detail,0020800256,243,1712,Antawn Jamison,1610612764,Washington Wizards,3,7,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081202,NJN,WAS
+Shot Chart Detail,0020800256,257,1712,Antawn Jamison,1610612764,Washington Wizards,3,6,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081202,NJN,WAS
+Shot Chart Detail,0020800256,269,1712,Antawn Jamison,1610612764,Washington Wizards,3,4,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081202,NJN,WAS
+Shot Chart Detail,0020800256,297,1712,Antawn Jamison,1610612764,Washington Wizards,3,2,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-101,227,1,1,20081202,NJN,WAS
+Shot Chart Detail,0020800256,405,1712,Antawn Jamison,1610612764,Washington Wizards,4,4,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081202,NJN,WAS
+Shot Chart Detail,0020800268,9,1712,Antawn Jamison,1610612764,Washington Wizards,1,10,17,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-4,41,1,1,20081203,WAS,POR
+Shot Chart Detail,0020800268,12,1712,Antawn Jamison,1610612764,Washington Wizards,1,9,47,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-37,36,1,1,20081203,WAS,POR
+Shot Chart Detail,0020800268,16,1712,Antawn Jamison,1610612764,Washington Wizards,1,9,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-221,116,1,1,20081203,WAS,POR
+Shot Chart Detail,0020800268,84,1712,Antawn Jamison,1610612764,Washington Wizards,1,2,4,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-10,19,1,1,20081203,WAS,POR
+Shot Chart Detail,0020800268,148,1712,Antawn Jamison,1610612764,Washington Wizards,2,6,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-8,19,1,1,20081203,WAS,POR
+Shot Chart Detail,0020800268,233,1712,Antawn Jamison,1610612764,Washington Wizards,3,10,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-213,118,1,1,20081203,WAS,POR
+Shot Chart Detail,0020800268,272,1712,Antawn Jamison,1610612764,Washington Wizards,3,6,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,192,-10,1,1,20081203,WAS,POR
+Shot Chart Detail,0020800268,311,1712,Antawn Jamison,1610612764,Washington Wizards,3,2,27,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-32,63,1,1,20081203,WAS,POR
+Shot Chart Detail,0020800268,369,1712,Antawn Jamison,1610612764,Washington Wizards,4,9,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,182,101,1,1,20081203,WAS,POR
+Shot Chart Detail,0020800268,468,1712,Antawn Jamison,1610612764,Washington Wizards,4,0,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,1,1,1,20081203,WAS,POR
+Shot Chart Detail,0020800277,81,1712,Antawn Jamison,1610612764,Washington Wizards,1,4,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,136,108,1,1,20081205,WAS,LAL
+Shot Chart Detail,0020800277,123,1712,Antawn Jamison,1610612764,Washington Wizards,1,1,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-193,-25,1,1,20081205,WAS,LAL
+Shot Chart Detail,0020800277,133,1712,Antawn Jamison,1610612764,Washington Wizards,1,0,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-5,1,1,20081205,WAS,LAL
+Shot Chart Detail,0020800277,149,1712,Antawn Jamison,1610612764,Washington Wizards,2,10,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,-3,1,1,20081205,WAS,LAL
+Shot Chart Detail,0020800277,154,1712,Antawn Jamison,1610612764,Washington Wizards,2,9,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,171,186,1,1,20081205,WAS,LAL
+Shot Chart Detail,0020800277,300,1712,Antawn Jamison,1610612764,Washington Wizards,3,10,3,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-133,12,1,1,20081205,WAS,LAL
+Shot Chart Detail,0020800292,150,1712,Antawn Jamison,1610612764,Washington Wizards,2,5,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,31,217,1,1,20081206,CHI,WAS
+Shot Chart Detail,0020800292,152,1712,Antawn Jamison,1610612764,Washington Wizards,2,4,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-149,89,1,1,20081206,CHI,WAS
+Shot Chart Detail,0020800292,189,1712,Antawn Jamison,1610612764,Washington Wizards,2,1,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-26,265,1,1,20081206,CHI,WAS
+Shot Chart Detail,0020800292,239,1712,Antawn Jamison,1610612764,Washington Wizards,3,10,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081206,CHI,WAS
+Shot Chart Detail,0020800292,245,1712,Antawn Jamison,1610612764,Washington Wizards,3,9,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-172,183,1,1,20081206,CHI,WAS
+Shot Chart Detail,0020800292,336,1712,Antawn Jamison,1610612764,Washington Wizards,4,11,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,7,151,1,1,20081206,CHI,WAS
+Shot Chart Detail,0020800292,380,1712,Antawn Jamison,1610612764,Washington Wizards,4,6,48,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-45,71,1,1,20081206,CHI,WAS
+Shot Chart Detail,0020800292,417,1712,Antawn Jamison,1610612764,Washington Wizards,4,2,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081206,CHI,WAS
+Shot Chart Detail,0020800306,162,1712,Antawn Jamison,1610612764,Washington Wizards,2,5,43,Made Shot,Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,83,0,1,1,20081209,WAS,DET
+Shot Chart Detail,0020800306,293,1712,Antawn Jamison,1610612764,Washington Wizards,3,3,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,4,1,1,20081209,WAS,DET
+Shot Chart Detail,0020800306,306,1712,Antawn Jamison,1610612764,Washington Wizards,3,1,19,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-56,9,1,1,20081209,WAS,DET
+Shot Chart Detail,0020800306,313,1712,Antawn Jamison,1610612764,Washington Wizards,3,0,32,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,47,48,1,1,20081209,WAS,DET
+Shot Chart Detail,0020800323,31,1712,Antawn Jamison,1610612764,Washington Wizards,1,8,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,-2,1,1,20081211,WAS,BOS
+Shot Chart Detail,0020800323,42,1712,Antawn Jamison,1610612764,Washington Wizards,1,7,23,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-78,36,1,1,20081211,WAS,BOS
+Shot Chart Detail,0020800323,73,1712,Antawn Jamison,1610612764,Washington Wizards,1,5,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-221,124,1,1,20081211,WAS,BOS
+Shot Chart Detail,0020800323,270,1712,Antawn Jamison,1610612764,Washington Wizards,2,1,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,7,1,1,20081211,WAS,BOS
+Shot Chart Detail,0020800323,318,1712,Antawn Jamison,1610612764,Washington Wizards,3,8,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,201,140,1,1,20081211,WAS,BOS
+Shot Chart Detail,0020800323,332,1712,Antawn Jamison,1610612764,Washington Wizards,3,7,17,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,0,1,1,20081211,WAS,BOS
+Shot Chart Detail,0020800323,345,1712,Antawn Jamison,1610612764,Washington Wizards,3,6,0,Made Shot,Running Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-24,23,1,1,20081211,WAS,BOS
+Shot Chart Detail,0020800339,65,1712,Antawn Jamison,1610612764,Washington Wizards,1,4,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-133,-6,1,1,20081213,PHI,WAS
+Shot Chart Detail,0020800339,92,1712,Antawn Jamison,1610612764,Washington Wizards,1,0,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-134,222,1,1,20081213,PHI,WAS
+Shot Chart Detail,0020800339,94,1712,Antawn Jamison,1610612764,Washington Wizards,1,0,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081213,PHI,WAS
+Shot Chart Detail,0020800339,228,1712,Antawn Jamison,1610612764,Washington Wizards,2,0,50,Made Shot,Driving Bank shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,127,15,1,1,20081213,PHI,WAS
+Shot Chart Detail,0020800339,323,1712,Antawn Jamison,1610612764,Washington Wizards,3,5,10,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,56,34,1,1,20081213,PHI,WAS
+Shot Chart Detail,0020800339,338,1712,Antawn Jamison,1610612764,Washington Wizards,3,2,39,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-8,60,1,1,20081213,PHI,WAS
+Shot Chart Detail,0020800339,511,1712,Antawn Jamison,1610612764,Washington Wizards,4,1,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,176,201,1,1,20081213,PHI,WAS
+Shot Chart Detail,0020800353,39,1712,Antawn Jamison,1610612764,Washington Wizards,1,8,8,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,9,1,1,20081215,WAS,IND
+Shot Chart Detail,0020800353,67,1712,Antawn Jamison,1610612764,Washington Wizards,1,5,18,Made Shot,Jump Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,116,3,1,1,20081215,WAS,IND
+Shot Chart Detail,0020800353,116,1712,Antawn Jamison,1610612764,Washington Wizards,1,1,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,1,252,1,1,20081215,WAS,IND
+Shot Chart Detail,0020800353,137,1712,Antawn Jamison,1610612764,Washington Wizards,2,11,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,45,250,1,1,20081215,WAS,IND
+Shot Chart Detail,0020800353,171,1712,Antawn Jamison,1610612764,Washington Wizards,2,7,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,179,176,1,1,20081215,WAS,IND
+Shot Chart Detail,0020800353,298,1712,Antawn Jamison,1610612764,Washington Wizards,3,9,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,6,23,1,1,20081215,WAS,IND
+Shot Chart Detail,0020800353,322,1712,Antawn Jamison,1610612764,Washington Wizards,3,7,10,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-70,37,1,1,20081215,WAS,IND
+Shot Chart Detail,0020800353,363,1712,Antawn Jamison,1610612764,Washington Wizards,3,4,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,187,-6,1,1,20081215,WAS,IND
+Shot Chart Detail,0020800353,492,1712,Antawn Jamison,1610612764,Washington Wizards,4,5,45,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-5,1,1,20081215,WAS,IND
+Shot Chart Detail,0020800370,38,1712,Antawn Jamison,1610612764,Washington Wizards,1,6,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,220,148,1,1,20081217,DET,WAS
+Shot Chart Detail,0020800370,195,1712,Antawn Jamison,1610612764,Washington Wizards,2,4,23,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081217,DET,WAS
+Shot Chart Detail,0020800370,236,1712,Antawn Jamison,1610612764,Washington Wizards,2,0,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081217,DET,WAS
+Shot Chart Detail,0020800370,381,1712,Antawn Jamison,1610612764,Washington Wizards,4,10,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081217,DET,WAS
+Shot Chart Detail,0020800370,393,1712,Antawn Jamison,1610612764,Washington Wizards,4,8,51,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,14,75,119,1,1,20081217,DET,WAS
+Shot Chart Detail,0020800378,46,1712,Antawn Jamison,1610612764,Washington Wizards,1,6,8,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-3,1,1,20081219,WAS,PHI
+Shot Chart Detail,0020800378,87,1712,Antawn Jamison,1610612764,Washington Wizards,1,2,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,-17,1,1,20081219,WAS,PHI
+Shot Chart Detail,0020800378,258,1712,Antawn Jamison,1610612764,Washington Wizards,3,11,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,7,1,1,20081219,WAS,PHI
+Shot Chart Detail,0020800378,268,1712,Antawn Jamison,1610612764,Washington Wizards,3,10,44,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,34,39,1,1,20081219,WAS,PHI
+Shot Chart Detail,0020800378,278,1712,Antawn Jamison,1610612764,Washington Wizards,3,8,31,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,0,1,1,20081219,WAS,PHI
+Shot Chart Detail,0020800378,283,1712,Antawn Jamison,1610612764,Washington Wizards,3,8,9,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,36,28,1,1,20081219,WAS,PHI
+Shot Chart Detail,0020800378,293,1712,Antawn Jamison,1610612764,Washington Wizards,3,7,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-90,34,1,1,20081219,WAS,PHI
+Shot Chart Detail,0020800378,390,1712,Antawn Jamison,1610612764,Washington Wizards,3,0,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,-2,1,1,20081219,WAS,PHI
+Shot Chart Detail,0020800378,539,1712,Antawn Jamison,1610612764,Washington Wizards,4,0,13,Made Shot,Floating Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,32,6,1,1,20081219,WAS,PHI
+Shot Chart Detail,0020800401,60,1712,Antawn Jamison,1610612764,Washington Wizards,1,4,34,Made Shot,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,45,17,1,1,20081221,WAS,DAL
+Shot Chart Detail,0020800401,195,1712,Antawn Jamison,1610612764,Washington Wizards,2,3,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-166,-6,1,1,20081221,WAS,DAL
+Shot Chart Detail,0020800401,231,1712,Antawn Jamison,1610612764,Washington Wizards,2,1,45,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-65,7,1,1,20081221,WAS,DAL
+Shot Chart Detail,0020800401,238,1712,Antawn Jamison,1610612764,Washington Wizards,2,0,55,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-51,58,1,1,20081221,WAS,DAL
+Shot Chart Detail,0020800401,266,1712,Antawn Jamison,1610612764,Washington Wizards,3,10,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,165,187,1,1,20081221,WAS,DAL
+Shot Chart Detail,0020800401,277,1712,Antawn Jamison,1610612764,Washington Wizards,3,8,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,6,1,1,20081221,WAS,DAL
+Shot Chart Detail,0020800401,338,1712,Antawn Jamison,1610612764,Washington Wizards,3,4,2,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-171,-3,1,1,20081221,WAS,DAL
+Shot Chart Detail,0020800401,348,1712,Antawn Jamison,1610612764,Washington Wizards,3,2,16,Made Shot,Running Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,18,34,1,1,20081221,WAS,DAL
+Shot Chart Detail,0020800401,354,1712,Antawn Jamison,1610612764,Washington Wizards,3,1,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,-13,1,1,20081221,WAS,DAL
+Shot Chart Detail,0020800410,107,1712,Antawn Jamison,1610612764,Washington Wizards,1,0,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-179,184,1,1,20081223,CHA,WAS
+Shot Chart Detail,0020800410,141,1712,Antawn Jamison,1610612764,Washington Wizards,2,8,22,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081223,CHA,WAS
+Shot Chart Detail,0020800410,287,1712,Antawn Jamison,1610612764,Washington Wizards,3,6,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081223,CHA,WAS
+Shot Chart Detail,0020800410,428,1712,Antawn Jamison,1610612764,Washington Wizards,4,7,46,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081223,CHA,WAS
+Shot Chart Detail,0020800410,490,1712,Antawn Jamison,1610612764,Washington Wizards,4,0,33,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,0,1,1,20081223,CHA,WAS
+Shot Chart Detail,0020800424,16,1712,Antawn Jamison,1610612764,Washington Wizards,1,9,40,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,-3,1,1,20081225,CLE,WAS
+Shot Chart Detail,0020800424,25,1712,Antawn Jamison,1610612764,Washington Wizards,1,8,19,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-235,66,1,1,20081225,CLE,WAS
+Shot Chart Detail,0020800424,27,1712,Antawn Jamison,1610612764,Washington Wizards,1,7,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,174,26,1,1,20081225,CLE,WAS
+Shot Chart Detail,0020800424,57,1712,Antawn Jamison,1610612764,Washington Wizards,1,3,50,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,-2,1,1,20081225,CLE,WAS
+Shot Chart Detail,0020800424,100,1712,Antawn Jamison,1610612764,Washington Wizards,2,10,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,144,197,1,1,20081225,CLE,WAS
+Shot Chart Detail,0020800424,193,1712,Antawn Jamison,1610612764,Washington Wizards,2,1,57,Made Shot,Running Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,14,1,1,20081225,CLE,WAS
+Shot Chart Detail,0020800424,233,1712,Antawn Jamison,1610612764,Washington Wizards,3,9,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,15,1,1,20081225,CLE,WAS
+Shot Chart Detail,0020800424,251,1712,Antawn Jamison,1610612764,Washington Wizards,3,6,32,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,28,78,1,1,20081225,CLE,WAS
+Shot Chart Detail,0020800424,332,1712,Antawn Jamison,1610612764,Washington Wizards,4,11,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-105,201,1,1,20081225,CLE,WAS
+Shot Chart Detail,0020800424,423,1712,Antawn Jamison,1610612764,Washington Wizards,4,2,38,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-16,31,1,1,20081225,CLE,WAS
+Shot Chart Detail,0020800424,437,1712,Antawn Jamison,1610612764,Washington Wizards,4,1,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-183,167,1,1,20081225,CLE,WAS
+Shot Chart Detail,0020800438,69,1712,Antawn Jamison,1610612764,Washington Wizards,1,4,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-199,63,1,1,20081227,WAS,OKC
+Shot Chart Detail,0020800438,84,1712,Antawn Jamison,1610612764,Washington Wizards,1,2,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,6,1,1,20081227,WAS,OKC
+Shot Chart Detail,0020800438,186,1712,Antawn Jamison,1610612764,Washington Wizards,2,5,54,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,6,1,1,20081227,WAS,OKC
+Shot Chart Detail,0020800438,213,1712,Antawn Jamison,1610612764,Washington Wizards,2,3,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,182,34,1,1,20081227,WAS,OKC
+Shot Chart Detail,0020800438,233,1712,Antawn Jamison,1610612764,Washington Wizards,2,1,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,3,1,1,20081227,WAS,OKC
+Shot Chart Detail,0020800438,239,1712,Antawn Jamison,1610612764,Washington Wizards,2,0,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,1,1,1,20081227,WAS,OKC
+Shot Chart Detail,0020800438,248,1712,Antawn Jamison,1610612764,Washington Wizards,3,11,42,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-141,-27,1,1,20081227,WAS,OKC
+Shot Chart Detail,0020800438,274,1712,Antawn Jamison,1610612764,Washington Wizards,3,8,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,187,58,1,1,20081227,WAS,OKC
+Shot Chart Detail,0020800438,286,1712,Antawn Jamison,1610612764,Washington Wizards,3,6,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,201,-17,1,1,20081227,WAS,OKC
+Shot Chart Detail,0020800438,348,1712,Antawn Jamison,1610612764,Washington Wizards,3,1,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,6,1,1,20081227,WAS,OKC
+Shot Chart Detail,0020800438,441,1712,Antawn Jamison,1610612764,Washington Wizards,4,4,16,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-3,1,1,20081227,WAS,OKC
+Shot Chart Detail,0020800438,462,1712,Antawn Jamison,1610612764,Washington Wizards,4,2,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-164,102,1,1,20081227,WAS,OKC
+Shot Chart Detail,0020800455,91,1712,Antawn Jamison,1610612764,Washington Wizards,1,2,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,113,119,1,1,20081229,HOU,WAS
+Shot Chart Detail,0020800455,106,1712,Antawn Jamison,1610612764,Washington Wizards,1,0,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081229,HOU,WAS
+Shot Chart Detail,0020800455,184,1712,Antawn Jamison,1610612764,Washington Wizards,2,4,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081229,HOU,WAS
+Shot Chart Detail,0020800455,230,1712,Antawn Jamison,1610612764,Washington Wizards,2,0,38,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,24,97,1,1,20081229,HOU,WAS
+Shot Chart Detail,0020800455,255,1712,Antawn Jamison,1610612764,Washington Wizards,3,11,42,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-179,69,1,1,20081229,HOU,WAS
+Shot Chart Detail,0020800455,267,1712,Antawn Jamison,1610612764,Washington Wizards,3,9,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081229,HOU,WAS
+Shot Chart Detail,0020800455,299,1712,Antawn Jamison,1610612764,Washington Wizards,3,5,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-120,178,1,1,20081229,HOU,WAS
+Shot Chart Detail,0020800455,305,1712,Antawn Jamison,1610612764,Washington Wizards,3,4,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,22,203,102,1,1,20081229,HOU,WAS
+Shot Chart Detail,0020800455,314,1712,Antawn Jamison,1610612764,Washington Wizards,3,3,36,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,152,25,1,1,20081229,HOU,WAS
+Shot Chart Detail,0020800455,333,1712,Antawn Jamison,1610612764,Washington Wizards,3,1,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081229,HOU,WAS
+Shot Chart Detail,0020800455,439,1712,Antawn Jamison,1610612764,Washington Wizards,4,3,50,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081229,HOU,WAS
+Shot Chart Detail,0020800462,83,1712,Antawn Jamison,1610612764,Washington Wizards,1,2,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,160,58,1,1,20081230,NOH,WAS
+Shot Chart Detail,0020800462,136,1712,Antawn Jamison,1610612764,Washington Wizards,2,10,34,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,69,45,1,1,20081230,NOH,WAS
+Shot Chart Detail,0020800462,185,1712,Antawn Jamison,1610612764,Washington Wizards,2,4,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081230,NOH,WAS
+Shot Chart Detail,0020800462,188,1712,Antawn Jamison,1610612764,Washington Wizards,2,3,59,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081230,NOH,WAS
+Shot Chart Detail,0020800462,222,1712,Antawn Jamison,1610612764,Washington Wizards,2,1,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,195,31,1,1,20081230,NOH,WAS
+Shot Chart Detail,0020800462,235,1712,Antawn Jamison,1610612764,Washington Wizards,2,0,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081230,NOH,WAS
+Shot Chart Detail,0020800462,264,1712,Antawn Jamison,1610612764,Washington Wizards,3,9,18,Made Shot,Running Bank shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,121,53,1,1,20081230,NOH,WAS
+Shot Chart Detail,0020800462,266,1712,Antawn Jamison,1610612764,Washington Wizards,3,8,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,168,52,1,1,20081230,NOH,WAS
+Shot Chart Detail,0020800462,310,1712,Antawn Jamison,1610612764,Washington Wizards,3,3,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081230,NOH,WAS
+Shot Chart Detail,0020800462,421,1712,Antawn Jamison,1610612764,Washington Wizards,4,5,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081230,NOH,WAS
+Shot Chart Detail,0020800475,86,1712,Antawn Jamison,1610612764,Washington Wizards,1,1,59,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,9,1,1,20090102,BOS,WAS
+Shot Chart Detail,0020800475,174,1712,Antawn Jamison,1610612764,Washington Wizards,2,6,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,21,201,86,1,1,20090102,BOS,WAS
+Shot Chart Detail,0020800475,229,1712,Antawn Jamison,1610612764,Washington Wizards,2,1,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,22,1,1,20090102,BOS,WAS
+Shot Chart Detail,0020800475,231,1712,Antawn Jamison,1610612764,Washington Wizards,2,0,58,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,12,1,1,20090102,BOS,WAS
+Shot Chart Detail,0020800475,293,1712,Antawn Jamison,1610612764,Washington Wizards,3,5,18,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,73,89,1,1,20090102,BOS,WAS
+Shot Chart Detail,0020800475,297,1712,Antawn Jamison,1610612764,Washington Wizards,3,4,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,1,1,1,20090102,BOS,WAS
+Shot Chart Detail,0020800496,7,1712,Antawn Jamison,1610612764,Washington Wizards,1,10,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,103,219,1,1,20090104,WAS,CLE
+Shot Chart Detail,0020800496,43,1712,Antawn Jamison,1610612764,Washington Wizards,1,4,38,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,155,0,1,1,20090104,WAS,CLE
+Shot Chart Detail,0020800496,46,1712,Antawn Jamison,1610612764,Washington Wizards,1,4,9,Made Shot,Running Bank shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-157,-19,1,1,20090104,WAS,CLE
+Shot Chart Detail,0020800496,149,1712,Antawn Jamison,1610612764,Washington Wizards,2,8,13,Made Shot,Jump Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,89,3,1,1,20090104,WAS,CLE
+Shot Chart Detail,0020800496,171,1712,Antawn Jamison,1610612764,Washington Wizards,2,5,23,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,2,33,1,1,20090104,WAS,CLE
+Shot Chart Detail,0020800496,238,1712,Antawn Jamison,1610612764,Washington Wizards,3,10,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,185,-28,1,1,20090104,WAS,CLE
+Shot Chart Detail,0020800496,291,1712,Antawn Jamison,1610612764,Washington Wizards,3,5,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,0,1,1,20090104,WAS,CLE
+Shot Chart Detail,0020800496,441,1712,Antawn Jamison,1610612764,Washington Wizards,4,5,10,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,12,1,1,20090104,WAS,CLE
+Shot Chart Detail,0020800496,513,1712,Antawn Jamison,1610612764,Washington Wizards,4,0,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-172,-30,1,1,20090104,WAS,CLE
+Shot Chart Detail,0020800507,14,1712,Antawn Jamison,1610612764,Washington Wizards,1,10,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-128,148,1,1,20090106,ORL,WAS
+Shot Chart Detail,0020800507,27,1712,Antawn Jamison,1610612764,Washington Wizards,1,8,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090106,ORL,WAS
+Shot Chart Detail,0020800507,32,1712,Antawn Jamison,1610612764,Washington Wizards,1,7,36,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090106,ORL,WAS
+Shot Chart Detail,0020800507,293,1712,Antawn Jamison,1610612764,Washington Wizards,3,5,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-29,157,1,1,20090106,ORL,WAS
+Shot Chart Detail,0020800507,454,1712,Antawn Jamison,1610612764,Washington Wizards,4,2,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-43,258,1,1,20090106,ORL,WAS
+Shot Chart Detail,0020800516,72,1712,Antawn Jamison,1610612764,Washington Wizards,1,1,33,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,15,30,1,1,20090107,WAS,TOR
+Shot Chart Detail,0020800516,135,1712,Antawn Jamison,1610612764,Washington Wizards,2,7,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-45,250,1,1,20090107,WAS,TOR
+Shot Chart Detail,0020800516,168,1712,Antawn Jamison,1610612764,Washington Wizards,2,3,56,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-130,-13,1,1,20090107,WAS,TOR
+Shot Chart Detail,0020800516,203,1712,Antawn Jamison,1610612764,Washington Wizards,2,1,23,Made Shot,Running Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,105,14,1,1,20090107,WAS,TOR
+Shot Chart Detail,0020800516,209,1712,Antawn Jamison,1610612764,Washington Wizards,2,0,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,0,1,1,20090107,WAS,TOR
+Shot Chart Detail,0020800516,229,1712,Antawn Jamison,1610612764,Washington Wizards,3,9,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,121,216,1,1,20090107,WAS,TOR
+Shot Chart Detail,0020800516,276,1712,Antawn Jamison,1610612764,Washington Wizards,3,4,44,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,12,1,1,20090107,WAS,TOR
+Shot Chart Detail,0020800516,335,1712,Antawn Jamison,1610612764,Washington Wizards,4,10,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-171,-19,1,1,20090107,WAS,TOR
+Shot Chart Detail,0020800516,337,1712,Antawn Jamison,1610612764,Washington Wizards,4,9,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-158,88,1,1,20090107,WAS,TOR
+Shot Chart Detail,0020800516,350,1712,Antawn Jamison,1610612764,Washington Wizards,4,8,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-207,146,1,1,20090107,WAS,TOR
+Shot Chart Detail,0020800516,391,1712,Antawn Jamison,1610612764,Washington Wizards,4,4,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,14,1,1,20090107,WAS,TOR
+Shot Chart Detail,0020800516,402,1712,Antawn Jamison,1610612764,Washington Wizards,4,3,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,6,1,1,20090107,WAS,TOR
+Shot Chart Detail,0020800516,424,1712,Antawn Jamison,1610612764,Washington Wizards,4,0,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,12,1,1,20090107,WAS,TOR
+Shot Chart Detail,0020800534,18,1712,Antawn Jamison,1610612764,Washington Wizards,1,9,52,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090109,CHI,WAS
+Shot Chart Detail,0020800534,168,1712,Antawn Jamison,1610612764,Washington Wizards,2,3,56,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090109,CHI,WAS
+Shot Chart Detail,0020800534,277,1712,Antawn Jamison,1610612764,Washington Wizards,3,3,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,22,206,85,1,1,20090109,CHI,WAS
+Shot Chart Detail,0020800534,408,1712,Antawn Jamison,1610612764,Washington Wizards,4,2,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090109,CHI,WAS
+Shot Chart Detail,0020800540,2,1712,Antawn Jamison,1610612764,Washington Wizards,1,11,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,155,93,1,1,20090110,WAS,CHA
+Shot Chart Detail,0020800540,17,1712,Antawn Jamison,1610612764,Washington Wizards,1,9,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,176,105,1,1,20090110,WAS,CHA
+Shot Chart Detail,0020800540,23,1712,Antawn Jamison,1610612764,Washington Wizards,1,7,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,-6,1,1,20090110,WAS,CHA
+Shot Chart Detail,0020800540,363,1712,Antawn Jamison,1610612764,Washington Wizards,4,10,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,206,-25,1,1,20090110,WAS,CHA
+Shot Chart Detail,0020800540,382,1712,Antawn Jamison,1610612764,Washington Wizards,4,8,38,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,95,50,1,1,20090110,WAS,CHA
+Shot Chart Detail,0020800553,43,1712,Antawn Jamison,1610612764,Washington Wizards,1,6,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-19,252,1,1,20090112,WAS,MIL
+Shot Chart Detail,0020800553,53,1712,Antawn Jamison,1610612764,Washington Wizards,1,5,6,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,20,1,1,20090112,WAS,MIL
+Shot Chart Detail,0020800553,209,1712,Antawn Jamison,1610612764,Washington Wizards,2,3,4,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,231,-3,1,1,20090112,WAS,MIL
+Shot Chart Detail,0020800553,267,1712,Antawn Jamison,1610612764,Washington Wizards,3,10,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,177,-22,1,1,20090112,WAS,MIL
+Shot Chart Detail,0020800553,269,1712,Antawn Jamison,1610612764,Washington Wizards,3,9,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,214,116,1,1,20090112,WAS,MIL
+Shot Chart Detail,0020800553,275,1712,Antawn Jamison,1610612764,Washington Wizards,3,8,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,4,1,1,20090112,WAS,MIL
+Shot Chart Detail,0020800553,300,1712,Antawn Jamison,1610612764,Washington Wizards,3,6,20,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,23,71,1,1,20090112,WAS,MIL
+Shot Chart Detail,0020800553,315,1712,Antawn Jamison,1610612764,Washington Wizards,3,5,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,4,1,1,20090112,WAS,MIL
+Shot Chart Detail,0020800553,393,1712,Antawn Jamison,1610612764,Washington Wizards,4,7,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,192,-33,1,1,20090112,WAS,MIL
+Shot Chart Detail,0020800570,39,1712,Antawn Jamison,1610612764,Washington Wizards,1,7,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-56,244,1,1,20090114,NYK,WAS
+Shot Chart Detail,0020800570,64,1712,Antawn Jamison,1610612764,Washington Wizards,1,3,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090114,NYK,WAS
+Shot Chart Detail,0020800570,162,1712,Antawn Jamison,1610612764,Washington Wizards,2,6,51,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-100,58,1,1,20090114,NYK,WAS
+Shot Chart Detail,0020800570,241,1712,Antawn Jamison,1610612764,Washington Wizards,3,10,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-202,25,1,1,20090114,NYK,WAS
+Shot Chart Detail,0020800570,293,1712,Antawn Jamison,1610612764,Washington Wizards,3,4,59,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-67,25,1,1,20090114,NYK,WAS
+Shot Chart Detail,0020800570,336,1712,Antawn Jamison,1610612764,Washington Wizards,3,1,5,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-57,39,1,1,20090114,NYK,WAS
+Shot Chart Detail,0020800582,33,1712,Antawn Jamison,1610612764,Washington Wizards,1,7,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,12,1,1,20090116,WAS,NYK
+Shot Chart Detail,0020800582,50,1712,Antawn Jamison,1610612764,Washington Wizards,1,5,35,Made Shot,Driving Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,51,31,1,1,20090116,WAS,NYK
+Shot Chart Detail,0020800582,61,1712,Antawn Jamison,1610612764,Washington Wizards,1,4,22,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-7,22,1,1,20090116,WAS,NYK
+Shot Chart Detail,0020800582,69,1712,Antawn Jamison,1610612764,Washington Wizards,1,4,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,166,-28,1,1,20090116,WAS,NYK
+Shot Chart Detail,0020800582,196,1712,Antawn Jamison,1610612764,Washington Wizards,2,3,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-223,96,1,1,20090116,WAS,NYK
+Shot Chart Detail,0020800582,275,1712,Antawn Jamison,1610612764,Washington Wizards,3,7,23,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,64,0,1,1,20090116,WAS,NYK
+Shot Chart Detail,0020800582,287,1712,Antawn Jamison,1610612764,Washington Wizards,3,5,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,3,1,1,20090116,WAS,NYK
+Shot Chart Detail,0020800582,315,1712,Antawn Jamison,1610612764,Washington Wizards,3,2,23,Made Shot,Floating Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,15,33,1,1,20090116,WAS,NYK
+Shot Chart Detail,0020800582,440,1712,Antawn Jamison,1610612764,Washington Wizards,4,2,37,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,4,1,1,20090116,WAS,NYK
+Shot Chart Detail,0020800608,3,1712,Antawn Jamison,1610612764,Washington Wizards,1,11,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,192,30,1,1,20090119,GSW,WAS
+Shot Chart Detail,0020800608,7,1712,Antawn Jamison,1610612764,Washington Wizards,1,10,40,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,13,44,1,1,20090119,GSW,WAS
+Shot Chart Detail,0020800608,31,1712,Antawn Jamison,1610612764,Washington Wizards,1,8,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,159,14,1,1,20090119,GSW,WAS
+Shot Chart Detail,0020800608,125,1712,Antawn Jamison,1610612764,Washington Wizards,2,11,42,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,19,1,1,20090119,GSW,WAS
+Shot Chart Detail,0020800608,146,1712,Antawn Jamison,1610612764,Washington Wizards,2,9,24,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-101,48,1,1,20090119,GSW,WAS
+Shot Chart Detail,0020800608,158,1712,Antawn Jamison,1610612764,Washington Wizards,2,7,57,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-202,132,1,1,20090119,GSW,WAS
+Shot Chart Detail,0020800608,310,1712,Antawn Jamison,1610612764,Washington Wizards,3,6,23,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,32,26,1,1,20090119,GSW,WAS
+Shot Chart Detail,0020800608,354,1712,Antawn Jamison,1610612764,Washington Wizards,3,1,59,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,97,7,1,1,20090119,GSW,WAS
+Shot Chart Detail,0020800608,439,1712,Antawn Jamison,1610612764,Washington Wizards,4,5,45,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,113,47,1,1,20090119,GSW,WAS
+Shot Chart Detail,0020800625,22,1712,Antawn Jamison,1610612764,Washington Wizards,1,9,18,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-5,64,1,1,20090121,SAC,WAS
+Shot Chart Detail,0020800625,71,1712,Antawn Jamison,1610612764,Washington Wizards,1,3,38,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-112,39,1,1,20090121,SAC,WAS
+Shot Chart Detail,0020800625,144,1712,Antawn Jamison,1610612764,Washington Wizards,2,8,48,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,7,60,1,1,20090121,SAC,WAS
+Shot Chart Detail,0020800625,190,1712,Antawn Jamison,1610612764,Washington Wizards,2,4,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090121,SAC,WAS
+Shot Chart Detail,0020800625,213,1712,Antawn Jamison,1610612764,Washington Wizards,2,2,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-34,250,1,1,20090121,SAC,WAS
+Shot Chart Detail,0020800625,251,1712,Antawn Jamison,1610612764,Washington Wizards,3,9,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090121,SAC,WAS
+Shot Chart Detail,0020800625,279,1712,Antawn Jamison,1610612764,Washington Wizards,3,6,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,166,4,1,1,20090121,SAC,WAS
+Shot Chart Detail,0020800625,307,1712,Antawn Jamison,1610612764,Washington Wizards,3,4,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090121,SAC,WAS
+Shot Chart Detail,0020800625,346,1712,Antawn Jamison,1610612764,Washington Wizards,3,1,25,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090121,SAC,WAS
+Shot Chart Detail,0020800625,394,1712,Antawn Jamison,1610612764,Washington Wizards,4,9,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,152,135,1,1,20090121,SAC,WAS
+Shot Chart Detail,0020800625,414,1712,Antawn Jamison,1610612764,Washington Wizards,4,6,34,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090121,SAC,WAS
+Shot Chart Detail,0020800625,491,1712,Antawn Jamison,1610612764,Washington Wizards,4,0,24,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090121,SAC,WAS
+Shot Chart Detail,0020800629,24,1712,Antawn Jamison,1610612764,Washington Wizards,1,9,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-98,247,1,1,20090122,LAL,WAS
+Shot Chart Detail,0020800629,27,1712,Antawn Jamison,1610612764,Washington Wizards,1,8,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090122,LAL,WAS
+Shot Chart Detail,0020800629,37,1712,Antawn Jamison,1610612764,Washington Wizards,1,6,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090122,LAL,WAS
+Shot Chart Detail,0020800629,50,1712,Antawn Jamison,1610612764,Washington Wizards,1,5,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,127,220,1,1,20090122,LAL,WAS
+Shot Chart Detail,0020800629,59,1712,Antawn Jamison,1610612764,Washington Wizards,1,4,17,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,70,25,1,1,20090122,LAL,WAS
+Shot Chart Detail,0020800629,192,1712,Antawn Jamison,1610612764,Washington Wizards,2,2,52,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090122,LAL,WAS
+Shot Chart Detail,0020800629,214,1712,Antawn Jamison,1610612764,Washington Wizards,2,1,7,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-23,53,1,1,20090122,LAL,WAS
+Shot Chart Detail,0020800645,53,1712,Antawn Jamison,1610612764,Washington Wizards,1,5,11,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-52,37,1,1,20090124,POR,WAS
+Shot Chart Detail,0020800645,76,1712,Antawn Jamison,1610612764,Washington Wizards,1,2,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-191,4,1,1,20090124,POR,WAS
+Shot Chart Detail,0020800645,291,1712,Antawn Jamison,1610612764,Washington Wizards,3,9,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,147,131,1,1,20090124,POR,WAS
+Shot Chart Detail,0020800645,295,1712,Antawn Jamison,1610612764,Washington Wizards,3,8,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,12,247,1,1,20090124,POR,WAS
+Shot Chart Detail,0020800645,318,1712,Antawn Jamison,1610612764,Washington Wizards,3,4,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,23,212,93,1,1,20090124,POR,WAS
+Shot Chart Detail,0020800645,429,1712,Antawn Jamison,1610612764,Washington Wizards,4,5,27,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,23,63,1,1,20090124,POR,WAS
+Shot Chart Detail,0020800645,458,1712,Antawn Jamison,1610612764,Washington Wizards,4,2,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-67,235,1,1,20090124,POR,WAS
+Shot Chart Detail,0020800645,490,1712,Antawn Jamison,1610612764,Washington Wizards,4,0,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,4,252,1,1,20090124,POR,WAS
+Shot Chart Detail,0020800655,11,1712,Antawn Jamison,1610612764,Washington Wizards,1,9,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,162,200,1,1,20090126,WAS,PHX
+Shot Chart Detail,0020800655,14,1712,Antawn Jamison,1610612764,Washington Wizards,1,9,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,160,-8,1,1,20090126,WAS,PHX
+Shot Chart Detail,0020800655,16,1712,Antawn Jamison,1610612764,Washington Wizards,1,8,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20090126,WAS,PHX
+Shot Chart Detail,0020800655,71,1712,Antawn Jamison,1610612764,Washington Wizards,1,5,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,228,94,1,1,20090126,WAS,PHX
+Shot Chart Detail,0020800655,223,1712,Antawn Jamison,1610612764,Washington Wizards,2,6,5,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,-8,1,1,20090126,WAS,PHX
+Shot Chart Detail,0020800655,328,1712,Antawn Jamison,1610612764,Washington Wizards,3,8,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,160,-25,1,1,20090126,WAS,PHX
+Shot Chart Detail,0020800655,345,1712,Antawn Jamison,1610612764,Washington Wizards,3,6,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,176,101,1,1,20090126,WAS,PHX
+Shot Chart Detail,0020800655,482,1712,Antawn Jamison,1610612764,Washington Wizards,4,3,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,174,-11,1,1,20090126,WAS,PHX
+Shot Chart Detail,0020800669,27,1712,Antawn Jamison,1610612764,Washington Wizards,1,9,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-119,41,1,1,20090128,MIA,WAS
+Shot Chart Detail,0020800669,54,1712,Antawn Jamison,1610612764,Washington Wizards,1,5,59,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,6,82,1,1,20090128,MIA,WAS
+Shot Chart Detail,0020800669,87,1712,Antawn Jamison,1610612764,Washington Wizards,1,2,32,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090128,MIA,WAS
+Shot Chart Detail,0020800669,174,1712,Antawn Jamison,1610612764,Washington Wizards,2,5,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-198,7,1,1,20090128,MIA,WAS
+Shot Chart Detail,0020800669,186,1712,Antawn Jamison,1610612764,Washington Wizards,2,4,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-114,93,1,1,20090128,MIA,WAS
+Shot Chart Detail,0020800669,280,1712,Antawn Jamison,1610612764,Washington Wizards,3,7,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090128,MIA,WAS
+Shot Chart Detail,0020800669,322,1712,Antawn Jamison,1610612764,Washington Wizards,3,2,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090128,MIA,WAS
+Shot Chart Detail,0020800669,357,1712,Antawn Jamison,1610612764,Washington Wizards,4,11,35,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-29,85,1,1,20090128,MIA,WAS
+Shot Chart Detail,0020800669,420,1712,Antawn Jamison,1610612764,Washington Wizards,4,6,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-120,160,1,1,20090128,MIA,WAS
+Shot Chart Detail,0020800683,3,1712,Antawn Jamison,1610612764,Washington Wizards,1,11,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090130,PHI,WAS
+Shot Chart Detail,0020800683,68,1712,Antawn Jamison,1610612764,Washington Wizards,1,3,41,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090130,PHI,WAS
+Shot Chart Detail,0020800683,116,1712,Antawn Jamison,1610612764,Washington Wizards,2,11,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090130,PHI,WAS
+Shot Chart Detail,0020800683,120,1712,Antawn Jamison,1610612764,Washington Wizards,2,10,26,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090130,PHI,WAS
+Shot Chart Detail,0020800683,144,1712,Antawn Jamison,1610612764,Washington Wizards,2,8,13,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,4,52,1,1,20090130,PHI,WAS
+Shot Chart Detail,0020800683,225,1712,Antawn Jamison,1610612764,Washington Wizards,2,0,42,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,39,11,1,1,20090130,PHI,WAS
+Shot Chart Detail,0020800683,287,1712,Antawn Jamison,1610612764,Washington Wizards,3,6,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,159,26,1,1,20090130,PHI,WAS
+Shot Chart Detail,0020800683,339,1712,Antawn Jamison,1610612764,Washington Wizards,3,2,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090130,PHI,WAS
+Shot Chart Detail,0020800683,400,1712,Antawn Jamison,1610612764,Washington Wizards,4,8,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090130,PHI,WAS
+Shot Chart Detail,0020800683,417,1712,Antawn Jamison,1610612764,Washington Wizards,4,6,58,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090130,PHI,WAS
+Shot Chart Detail,0020800683,475,1712,Antawn Jamison,1610612764,Washington Wizards,4,2,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-130,217,1,1,20090130,PHI,WAS
+Shot Chart Detail,0020800696,35,1712,Antawn Jamison,1610612764,Washington Wizards,1,7,44,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-133,137,1,1,20090131,WAS,LAC
+Shot Chart Detail,0020800696,72,1712,Antawn Jamison,1610612764,Washington Wizards,1,3,23,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,58,1,1,1,20090131,WAS,LAC
+Shot Chart Detail,0020800696,154,1712,Antawn Jamison,1610612764,Washington Wizards,2,8,22,Made Shot,Turnaround Bank shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-130,60,1,1,20090131,WAS,LAC
+Shot Chart Detail,0020800696,165,1712,Antawn Jamison,1610612764,Washington Wizards,2,6,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,7,184,1,1,20090131,WAS,LAC
+Shot Chart Detail,0020800696,258,1712,Antawn Jamison,1610612764,Washington Wizards,3,10,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,1,1,1,20090131,WAS,LAC
+Shot Chart Detail,0020800696,264,1712,Antawn Jamison,1610612764,Washington Wizards,3,9,46,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,-22,1,1,20090131,WAS,LAC
+Shot Chart Detail,0020800696,270,1712,Antawn Jamison,1610612764,Washington Wizards,3,8,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,222,105,1,1,20090131,WAS,LAC
+Shot Chart Detail,0020800696,472,1712,Antawn Jamison,1610612764,Washington Wizards,4,2,27,Made Shot,Driving Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,124,4,1,1,20090131,WAS,LAC
+Shot Chart Detail,0020800707,38,1712,Antawn Jamison,1610612764,Washington Wizards,1,7,58,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,0,1,1,20090202,WAS,MEM
+Shot Chart Detail,0020800707,43,1712,Antawn Jamison,1610612764,Washington Wizards,1,7,20,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,37,1,1,1,20090202,WAS,MEM
+Shot Chart Detail,0020800707,92,1712,Antawn Jamison,1610612764,Washington Wizards,1,2,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,168,-30,1,1,20090202,WAS,MEM
+Shot Chart Detail,0020800707,108,1712,Antawn Jamison,1610612764,Washington Wizards,1,0,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,23,130,200,1,1,20090202,WAS,MEM
+Shot Chart Detail,0020800707,164,1712,Antawn Jamison,1610612764,Washington Wizards,2,8,18,Made Shot,Jump Bank Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,80,15,1,1,20090202,WAS,MEM
+Shot Chart Detail,0020800707,256,1712,Antawn Jamison,1610612764,Washington Wizards,3,10,51,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,106,-13,1,1,20090202,WAS,MEM
+Shot Chart Detail,0020800707,269,1712,Antawn Jamison,1610612764,Washington Wizards,3,9,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,14,1,1,20090202,WAS,MEM
+Shot Chart Detail,0020800707,281,1712,Antawn Jamison,1610612764,Washington Wizards,3,8,6,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,12,1,1,20090202,WAS,MEM
+Shot Chart Detail,0020800707,437,1712,Antawn Jamison,1610612764,Washington Wizards,4,7,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,193,164,1,1,20090202,WAS,MEM
+Shot Chart Detail,0020800707,516,1712,Antawn Jamison,1610612764,Washington Wizards,4,2,28,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,61,4,1,1,20090202,WAS,MEM
+Shot Chart Detail,0020800722,41,1712,Antawn Jamison,1610612764,Washington Wizards,1,6,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,17,1,1,20090204,WAS,NJN
+Shot Chart Detail,0020800722,175,1712,Antawn Jamison,1610612764,Washington Wizards,2,3,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,12,1,1,20090204,WAS,NJN
+Shot Chart Detail,0020800722,268,1712,Antawn Jamison,1610612764,Washington Wizards,3,7,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,222,105,1,1,20090204,WAS,NJN
+Shot Chart Detail,0020800722,284,1712,Antawn Jamison,1610612764,Washington Wizards,3,5,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,9,1,1,20090204,WAS,NJN
+Shot Chart Detail,0020800740,2,1712,Antawn Jamison,1610612764,Washington Wizards,1,11,51,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-43,6,1,1,20090206,WAS,DEN
+Shot Chart Detail,0020800740,34,1712,Antawn Jamison,1610612764,Washington Wizards,1,7,19,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,-8,1,1,20090206,WAS,DEN
+Shot Chart Detail,0020800740,47,1712,Antawn Jamison,1610612764,Washington Wizards,1,5,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,-2,1,1,20090206,WAS,DEN
+Shot Chart Detail,0020800740,53,1712,Antawn Jamison,1610612764,Washington Wizards,1,4,39,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,-11,1,1,20090206,WAS,DEN
+Shot Chart Detail,0020800740,73,1712,Antawn Jamison,1610612764,Washington Wizards,1,2,31,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-43,20,1,1,20090206,WAS,DEN
+Shot Chart Detail,0020800740,145,1712,Antawn Jamison,1610612764,Washington Wizards,2,9,8,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,4,1,1,20090206,WAS,DEN
+Shot Chart Detail,0020800740,157,1712,Antawn Jamison,1610612764,Washington Wizards,2,8,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-193,-8,1,1,20090206,WAS,DEN
+Shot Chart Detail,0020800740,173,1712,Antawn Jamison,1610612764,Washington Wizards,2,6,36,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,1,1,1,20090206,WAS,DEN
+Shot Chart Detail,0020800740,196,1712,Antawn Jamison,1610612764,Washington Wizards,2,4,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,3,1,1,20090206,WAS,DEN
+Shot Chart Detail,0020800740,293,1712,Antawn Jamison,1610612764,Washington Wizards,3,6,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-37,257,1,1,20090206,WAS,DEN
+Shot Chart Detail,0020800755,10,1712,Antawn Jamison,1610612764,Washington Wizards,1,10,41,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,67,3,1,1,20090208,WAS,IND
+Shot Chart Detail,0020800755,14,1712,Antawn Jamison,1610612764,Washington Wizards,1,10,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,-13,1,1,20090208,WAS,IND
+Shot Chart Detail,0020800755,37,1712,Antawn Jamison,1610612764,Washington Wizards,1,8,42,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-45,-6,1,1,20090208,WAS,IND
+Shot Chart Detail,0020800755,117,1712,Antawn Jamison,1610612764,Washington Wizards,1,3,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,-3,1,1,20090208,WAS,IND
+Shot Chart Detail,0020800755,136,1712,Antawn Jamison,1610612764,Washington Wizards,1,1,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,177,37,1,1,20090208,WAS,IND
+Shot Chart Detail,0020800755,146,1712,Antawn Jamison,1610612764,Washington Wizards,1,0,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,6,1,1,20090208,WAS,IND
+Shot Chart Detail,0020800755,197,1712,Antawn Jamison,1610612764,Washington Wizards,2,7,19,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,3,1,1,20090208,WAS,IND
+Shot Chart Detail,0020800755,304,1712,Antawn Jamison,1610612764,Washington Wizards,3,11,20,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-11,33,1,1,20090208,WAS,IND
+Shot Chart Detail,0020800755,323,1712,Antawn Jamison,1610612764,Washington Wizards,3,9,29,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,236,3,1,1,20090208,WAS,IND
+Shot Chart Detail,0020800755,334,1712,Antawn Jamison,1610612764,Washington Wizards,3,8,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-81,241,1,1,20090208,WAS,IND
+Shot Chart Detail,0020800755,399,1712,Antawn Jamison,1610612764,Washington Wizards,3,2,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-30,269,1,1,20090208,WAS,IND
+Shot Chart Detail,0020800755,428,1712,Antawn Jamison,1610612764,Washington Wizards,3,0,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,3,1,1,20090208,WAS,IND
+Shot Chart Detail,0020800764,77,1712,Antawn Jamison,1610612764,Washington Wizards,1,3,28,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090210,ATL,WAS
+Shot Chart Detail,0020800764,224,1712,Antawn Jamison,1610612764,Washington Wizards,2,2,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,21,198,71,1,1,20090210,ATL,WAS
+Shot Chart Detail,0020800764,273,1712,Antawn Jamison,1610612764,Washington Wizards,3,10,27,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-32,7,1,1,20090210,ATL,WAS
+Shot Chart Detail,0020800764,288,1712,Antawn Jamison,1610612764,Washington Wizards,3,8,53,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090210,ATL,WAS
+Shot Chart Detail,0020800764,450,1712,Antawn Jamison,1610612764,Washington Wizards,4,8,43,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-29,17,1,1,20090210,ATL,WAS
+Shot Chart Detail,0020800773,2,1712,Antawn Jamison,1610612764,Washington Wizards,1,11,39,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,11,-65,97,1,1,20090211,CHA,WAS
+Shot Chart Detail,0020800773,6,1712,Antawn Jamison,1610612764,Washington Wizards,1,10,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-177,101,1,1,20090211,CHA,WAS
+Shot Chart Detail,0020800773,8,1712,Antawn Jamison,1610612764,Washington Wizards,1,10,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-210,148,1,1,20090211,CHA,WAS
+Shot Chart Detail,0020800773,61,1712,Antawn Jamison,1610612764,Washington Wizards,1,4,41,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-76,33,1,1,20090211,CHA,WAS
+Shot Chart Detail,0020800773,76,1712,Antawn Jamison,1610612764,Washington Wizards,1,2,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,1,258,1,1,20090211,CHA,WAS
+Shot Chart Detail,0020800773,186,1712,Antawn Jamison,1610612764,Washington Wizards,2,2,0,Made Shot,Turnaround Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,92,41,1,1,20090211,CHA,WAS
+Shot Chart Detail,0020800773,380,1712,Antawn Jamison,1610612764,Washington Wizards,4,7,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,146,213,1,1,20090211,CHA,WAS
+Shot Chart Detail,0020800773,418,1712,Antawn Jamison,1610612764,Washington Wizards,4,4,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090211,CHA,WAS
+Shot Chart Detail,0020800790,36,1712,Antawn Jamison,1610612764,Washington Wizards,1,7,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,6,1,1,20090217,WAS,MIN
+Shot Chart Detail,0020800790,64,1712,Antawn Jamison,1610612764,Washington Wizards,1,5,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-187,-11,1,1,20090217,WAS,MIN
+Shot Chart Detail,0020800790,115,1712,Antawn Jamison,1610612764,Washington Wizards,1,0,55,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,32,11,1,1,20090217,WAS,MIN
+Shot Chart Detail,0020800790,232,1712,Antawn Jamison,1610612764,Washington Wizards,2,4,3,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,62,17,1,1,20090217,WAS,MIN
+Shot Chart Detail,0020800790,336,1712,Antawn Jamison,1610612764,Washington Wizards,3,10,4,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,14,1,1,20090217,WAS,MIN
+Shot Chart Detail,0020800790,342,1712,Antawn Jamison,1610612764,Washington Wizards,3,9,3,Made Shot,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,62,11,1,1,20090217,WAS,MIN
+Shot Chart Detail,0020800790,372,1712,Antawn Jamison,1610612764,Washington Wizards,3,6,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,14,1,1,20090217,WAS,MIN
+Shot Chart Detail,0020800790,376,1712,Antawn Jamison,1610612764,Washington Wizards,3,5,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,151,-5,1,1,20090217,WAS,MIN
+Shot Chart Detail,0020800790,401,1712,Antawn Jamison,1610612764,Washington Wizards,3,3,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-164,-24,1,1,20090217,WAS,MIN
+Shot Chart Detail,0020800790,491,1712,Antawn Jamison,1610612764,Washington Wizards,4,6,0,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-43,31,1,1,20090217,WAS,MIN
+Shot Chart Detail,0020800815,84,1712,Antawn Jamison,1610612764,Washington Wizards,1,3,21,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-18,69,1,1,20090220,NJN,WAS
+Shot Chart Detail,0020800815,93,1712,Antawn Jamison,1610612764,Washington Wizards,1,2,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-147,20,1,1,20090220,NJN,WAS
+Shot Chart Detail,0020800815,172,1712,Antawn Jamison,1610612764,Washington Wizards,2,7,8,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-226,22,1,1,20090220,NJN,WAS
+Shot Chart Detail,0020800815,180,1712,Antawn Jamison,1610612764,Washington Wizards,2,6,50,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090220,NJN,WAS
+Shot Chart Detail,0020800815,183,1712,Antawn Jamison,1610612764,Washington Wizards,2,6,10,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-34,64,1,1,20090220,NJN,WAS
+Shot Chart Detail,0020800815,198,1712,Antawn Jamison,1610612764,Washington Wizards,2,4,32,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090220,NJN,WAS
+Shot Chart Detail,0020800815,336,1712,Antawn Jamison,1610612764,Washington Wizards,3,5,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,84,110,1,1,20090220,NJN,WAS
+Shot Chart Detail,0020800815,381,1712,Antawn Jamison,1610612764,Washington Wizards,3,1,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090220,NJN,WAS
+Shot Chart Detail,0020800815,509,1712,Antawn Jamison,1610612764,Washington Wizards,4,4,16,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-67,34,1,1,20090220,NJN,WAS
+Shot Chart Detail,0020800815,548,1712,Antawn Jamison,1610612764,Washington Wizards,4,1,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090220,NJN,WAS
+Shot Chart Detail,0020800823,8,1712,Antawn Jamison,1610612764,Washington Wizards,1,11,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,196,31,1,1,20090221,WAS,SAS
+Shot Chart Detail,0020800823,27,1712,Antawn Jamison,1610612764,Washington Wizards,1,8,27,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,10,45,1,1,20090221,WAS,SAS
+Shot Chart Detail,0020800823,33,1712,Antawn Jamison,1610612764,Washington Wizards,1,7,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,0,1,1,20090221,WAS,SAS
+Shot Chart Detail,0020800823,39,1712,Antawn Jamison,1610612764,Washington Wizards,1,6,14,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,15,1,1,20090221,WAS,SAS
+Shot Chart Detail,0020800823,199,1712,Antawn Jamison,1610612764,Washington Wizards,2,4,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,152,-22,1,1,20090221,WAS,SAS
+Shot Chart Detail,0020800823,261,1712,Antawn Jamison,1610612764,Washington Wizards,3,9,54,Made Shot,Floating Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-5,33,1,1,20090221,WAS,SAS
+Shot Chart Detail,0020800851,14,1712,Antawn Jamison,1610612764,Washington Wizards,1,10,43,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,15,1,1,20090225,WAS,PHI
+Shot Chart Detail,0020800851,30,1712,Antawn Jamison,1610612764,Washington Wizards,1,8,30,Made Shot,Driving Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,3,1,1,20090225,WAS,PHI
+Shot Chart Detail,0020800851,41,1712,Antawn Jamison,1610612764,Washington Wizards,1,6,27,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-87,72,1,1,20090225,WAS,PHI
+Shot Chart Detail,0020800851,77,1712,Antawn Jamison,1610612764,Washington Wizards,1,2,54,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-71,39,1,1,20090225,WAS,PHI
+Shot Chart Detail,0020800851,245,1712,Antawn Jamison,1610612764,Washington Wizards,3,11,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,1,1,1,20090225,WAS,PHI
+Shot Chart Detail,0020800851,364,1712,Antawn Jamison,1610612764,Washington Wizards,4,10,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,218,166,1,1,20090225,WAS,PHI
+Shot Chart Detail,0020800851,448,1712,Antawn Jamison,1610612764,Washington Wizards,4,1,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,-8,1,1,20090225,WAS,PHI
+Shot Chart Detail,0020800865,19,1712,Antawn Jamison,1610612764,Washington Wizards,1,10,31,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,-11,1,1,20090227,WAS,CHI
+Shot Chart Detail,0020800865,62,1712,Antawn Jamison,1610612764,Washington Wizards,1,4,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-15,23,1,1,20090227,WAS,CHI
+Shot Chart Detail,0020800865,67,1712,Antawn Jamison,1610612764,Washington Wizards,1,3,44,Made Shot,Running Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,92,11,1,1,20090227,WAS,CHI
+Shot Chart Detail,0020800865,92,1712,Antawn Jamison,1610612764,Washington Wizards,1,1,45,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,231,11,1,1,20090227,WAS,CHI
+Shot Chart Detail,0020800865,291,1712,Antawn Jamison,1610612764,Washington Wizards,3,11,6,Made Shot,Floating Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-4,39,1,1,20090227,WAS,CHI
+Shot Chart Detail,0020800865,336,1712,Antawn Jamison,1610612764,Washington Wizards,3,7,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,215,127,1,1,20090227,WAS,CHI
+Shot Chart Detail,0020800865,387,1712,Antawn Jamison,1610612764,Washington Wizards,3,1,49,Made Shot,Reverse Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,11,1,1,20090227,WAS,CHI
+Shot Chart Detail,0020800865,392,1712,Antawn Jamison,1610612764,Washington Wizards,3,1,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,1,1,1,20090227,WAS,CHI
+Shot Chart Detail,0020800865,466,1712,Antawn Jamison,1610612764,Washington Wizards,4,7,27,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-8,64,1,1,20090227,WAS,CHI
+Shot Chart Detail,0020800880,79,1712,Antawn Jamison,1610612764,Washington Wizards,1,3,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-175,7,1,1,20090228,MIL,WAS
+Shot Chart Detail,0020800880,88,1712,Antawn Jamison,1610612764,Washington Wizards,1,2,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090228,MIL,WAS
+Shot Chart Detail,0020800880,100,1712,Antawn Jamison,1610612764,Washington Wizards,1,1,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090228,MIL,WAS
+Shot Chart Detail,0020800880,203,1712,Antawn Jamison,1610612764,Washington Wizards,2,2,43,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090228,MIL,WAS
+Shot Chart Detail,0020800880,247,1712,Antawn Jamison,1610612764,Washington Wizards,2,0,7,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-60,26,1,1,20090228,MIL,WAS
+Shot Chart Detail,0020800880,263,1712,Antawn Jamison,1610612764,Washington Wizards,3,9,58,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-45,34,1,1,20090228,MIL,WAS
+Shot Chart Detail,0020800880,338,1712,Antawn Jamison,1610612764,Washington Wizards,3,2,12,Made Shot,Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,84,-5,1,1,20090228,MIL,WAS
+Shot Chart Detail,0020800880,347,1712,Antawn Jamison,1610612764,Washington Wizards,3,1,0,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,77,-11,1,1,20090228,MIL,WAS
+Shot Chart Detail,0020800880,408,1712,Antawn Jamison,1610612764,Washington Wizards,4,7,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090228,MIL,WAS
+Shot Chart Detail,0020800893,64,1712,Antawn Jamison,1610612764,Washington Wizards,1,3,14,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,7,1,1,20090302,WAS,ATL
+Shot Chart Detail,0020800893,78,1712,Antawn Jamison,1610612764,Washington Wizards,1,1,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,203,4,1,1,20090302,WAS,ATL
+Shot Chart Detail,0020800893,175,1712,Antawn Jamison,1610612764,Washington Wizards,2,3,58,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,0,1,1,20090302,WAS,ATL
+Shot Chart Detail,0020800893,206,1712,Antawn Jamison,1610612764,Washington Wizards,2,1,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,154,216,1,1,20090302,WAS,ATL
+Shot Chart Detail,0020800893,239,1712,Antawn Jamison,1610612764,Washington Wizards,3,8,43,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,62,-11,1,1,20090302,WAS,ATL
+Shot Chart Detail,0020800893,280,1712,Antawn Jamison,1610612764,Washington Wizards,3,4,10,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,34,44,1,1,20090302,WAS,ATL
+Shot Chart Detail,0020800893,283,1712,Antawn Jamison,1610612764,Washington Wizards,3,3,48,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,1,1,1,20090302,WAS,ATL
+Shot Chart Detail,0020800909,5,1712,Antawn Jamison,1610612764,Washington Wizards,1,11,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,118,153,1,1,20090304,OKC,WAS
+Shot Chart Detail,0020800909,43,1712,Antawn Jamison,1610612764,Washington Wizards,1,6,0,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,80,12,1,1,20090304,OKC,WAS
+Shot Chart Detail,0020800909,75,1712,Antawn Jamison,1610612764,Washington Wizards,1,2,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090304,OKC,WAS
+Shot Chart Detail,0020800909,138,1712,Antawn Jamison,1610612764,Washington Wizards,2,8,14,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,26,1,1,20090304,OKC,WAS
+Shot Chart Detail,0020800909,165,1712,Antawn Jamison,1610612764,Washington Wizards,2,5,32,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,69,44,1,1,20090304,OKC,WAS
+Shot Chart Detail,0020800909,175,1712,Antawn Jamison,1610612764,Washington Wizards,2,4,9,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090304,OKC,WAS
+Shot Chart Detail,0020800909,233,1712,Antawn Jamison,1610612764,Washington Wizards,3,11,11,Made Shot,Jump Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,86,14,1,1,20090304,OKC,WAS
+Shot Chart Detail,0020800909,358,1712,Antawn Jamison,1610612764,Washington Wizards,4,10,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-147,203,1,1,20090304,OKC,WAS
+Shot Chart Detail,0020800909,438,1712,Antawn Jamison,1610612764,Washington Wizards,4,3,17,Made Shot,Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,91,17,1,1,20090304,OKC,WAS
+Shot Chart Detail,0020800924,32,1712,Antawn Jamison,1610612764,Washington Wizards,1,7,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,23,34,236,1,1,20090306,SAS,WAS
+Shot Chart Detail,0020800924,67,1712,Antawn Jamison,1610612764,Washington Wizards,1,3,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,4,1,1,20090306,SAS,WAS
+Shot Chart Detail,0020800924,211,1712,Antawn Jamison,1610612764,Washington Wizards,2,1,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-82,34,1,1,20090306,SAS,WAS
+Shot Chart Detail,0020800924,228,1712,Antawn Jamison,1610612764,Washington Wizards,3,11,12,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,72,-5,1,1,20090306,SAS,WAS
+Shot Chart Detail,0020800924,303,1712,Antawn Jamison,1610612764,Washington Wizards,3,3,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,-5,1,1,20090306,SAS,WAS
+Shot Chart Detail,0020800924,336,1712,Antawn Jamison,1610612764,Washington Wizards,3,0,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,3,1,1,20090306,SAS,WAS
+Shot Chart Detail,0020800932,3,1712,Antawn Jamison,1610612764,Washington Wizards,1,11,25,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-51,55,1,1,20090307,DAL,WAS
+Shot Chart Detail,0020800932,24,1712,Antawn Jamison,1610612764,Washington Wizards,1,7,47,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090307,DAL,WAS
+Shot Chart Detail,0020800932,65,1712,Antawn Jamison,1610612764,Washington Wizards,1,3,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090307,DAL,WAS
+Shot Chart Detail,0020800932,106,1712,Antawn Jamison,1610612764,Washington Wizards,1,0,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,37,247,1,1,20090307,DAL,WAS
+Shot Chart Detail,0020800932,250,1712,Antawn Jamison,1610612764,Washington Wizards,3,8,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-84,236,1,1,20090307,DAL,WAS
+Shot Chart Detail,0020800932,345,1712,Antawn Jamison,1610612764,Washington Wizards,3,0,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090307,DAL,WAS
+Shot Chart Detail,0020800932,365,1712,Antawn Jamison,1610612764,Washington Wizards,4,11,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,7,241,1,1,20090307,DAL,WAS
+Shot Chart Detail,0020800932,441,1712,Antawn Jamison,1610612764,Washington Wizards,4,5,24,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090307,DAL,WAS
+Shot Chart Detail,0020800932,451,1712,Antawn Jamison,1610612764,Washington Wizards,4,4,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-35,246,1,1,20090307,DAL,WAS
+Shot Chart Detail,0020800946,207,1712,Antawn Jamison,1610612764,Washington Wizards,2,2,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,124,222,1,1,20090309,MIN,WAS
+Shot Chart Detail,0020800946,218,1712,Antawn Jamison,1610612764,Washington Wizards,2,1,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,11,1,1,20090309,MIN,WAS
+Shot Chart Detail,0020800946,246,1712,Antawn Jamison,1610612764,Washington Wizards,3,10,53,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-188,15,1,1,20090309,MIN,WAS
+Shot Chart Detail,0020800946,267,1712,Antawn Jamison,1610612764,Washington Wizards,3,7,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,111,28,1,1,20090309,MIN,WAS
+Shot Chart Detail,0020800946,285,1712,Antawn Jamison,1610612764,Washington Wizards,3,6,5,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-57,56,1,1,20090309,MIN,WAS
+Shot Chart Detail,0020800946,298,1712,Antawn Jamison,1610612764,Washington Wizards,3,5,7,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,43,25,1,1,20090309,MIN,WAS
+Shot Chart Detail,0020800946,330,1712,Antawn Jamison,1610612764,Washington Wizards,3,2,39,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,-8,1,1,20090309,MIN,WAS
+Shot Chart Detail,0020800946,447,1712,Antawn Jamison,1610612764,Washington Wizards,4,4,40,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090309,MIN,WAS
+Shot Chart Detail,0020800946,484,1712,Antawn Jamison,1610612764,Washington Wizards,4,1,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090309,MIN,WAS
+Shot Chart Detail,0020800958,2,1712,Antawn Jamison,1610612764,Washington Wizards,1,11,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-172,3,1,1,20090311,WAS,NOH
+Shot Chart Detail,0020800958,4,1712,Antawn Jamison,1610612764,Washington Wizards,1,11,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-205,143,1,1,20090311,WAS,NOH
+Shot Chart Detail,0020800958,20,1712,Antawn Jamison,1610612764,Washington Wizards,1,8,49,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-16,15,1,1,20090311,WAS,NOH
+Shot Chart Detail,0020800958,30,1712,Antawn Jamison,1610612764,Washington Wizards,1,7,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,0,1,1,20090311,WAS,NOH
+Shot Chart Detail,0020800958,40,1712,Antawn Jamison,1610612764,Washington Wizards,1,6,1,Made Shot,Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,95,7,1,1,20090311,WAS,NOH
+Shot Chart Detail,0020800958,145,1712,Antawn Jamison,1610612764,Washington Wizards,2,8,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,171,-16,1,1,20090311,WAS,NOH
+Shot Chart Detail,0020800958,162,1712,Antawn Jamison,1610612764,Washington Wizards,2,6,21,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-34,36,1,1,20090311,WAS,NOH
+Shot Chart Detail,0020800958,370,1712,Antawn Jamison,1610612764,Washington Wizards,4,9,19,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,2,30,1,1,20090311,WAS,NOH
+Shot Chart Detail,0020800958,385,1712,Antawn Jamison,1610612764,Washington Wizards,4,7,51,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,53,9,1,1,20090311,WAS,NOH
+Shot Chart Detail,0020800958,454,1712,Antawn Jamison,1610612764,Washington Wizards,4,1,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,6,1,1,20090311,WAS,NOH
+Shot Chart Detail,0020800958,466,1712,Antawn Jamison,1610612764,Washington Wizards,4,0,42,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,226,-24,1,1,20090311,WAS,NOH
+Shot Chart Detail,0020800971,37,1712,Antawn Jamison,1610612764,Washington Wizards,1,7,2,Made Shot,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-19,45,1,1,20090313,WAS,ORL
+Shot Chart Detail,0020800971,51,1712,Antawn Jamison,1610612764,Washington Wizards,1,5,50,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,-2,1,1,20090313,WAS,ORL
+Shot Chart Detail,0020800971,69,1712,Antawn Jamison,1610612764,Washington Wizards,1,4,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,166,189,1,1,20090313,WAS,ORL
+Shot Chart Detail,0020800971,178,1712,Antawn Jamison,1610612764,Washington Wizards,2,6,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,6,1,1,20090313,WAS,ORL
+Shot Chart Detail,0020800971,217,1712,Antawn Jamison,1610612764,Washington Wizards,2,4,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,-187,96,1,1,20090313,WAS,ORL
+Shot Chart Detail,0020800971,238,1712,Antawn Jamison,1610612764,Washington Wizards,2,2,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,14,1,1,20090313,WAS,ORL
+Shot Chart Detail,0020800971,304,1712,Antawn Jamison,1610612764,Washington Wizards,3,8,1,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,78,3,1,1,20090313,WAS,ORL
+Shot Chart Detail,0020800971,310,1712,Antawn Jamison,1610612764,Washington Wizards,3,7,33,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-11,33,1,1,20090313,WAS,ORL
+Shot Chart Detail,0020800971,328,1712,Antawn Jamison,1610612764,Washington Wizards,3,5,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,11,1,1,20090313,WAS,ORL
+Shot Chart Detail,0020800971,349,1712,Antawn Jamison,1610612764,Washington Wizards,3,2,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,223,124,1,1,20090313,WAS,ORL
+Shot Chart Detail,0020800971,359,1712,Antawn Jamison,1610612764,Washington Wizards,3,1,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-212,140,1,1,20090313,WAS,ORL
+Shot Chart Detail,0020800971,436,1712,Antawn Jamison,1610612764,Washington Wizards,4,5,43,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,7,1,1,20090313,WAS,ORL
+Shot Chart Detail,0020800971,483,1712,Antawn Jamison,1610612764,Washington Wizards,4,0,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,6,1,1,20090313,WAS,ORL
+Shot Chart Detail,0020800993,8,1712,Antawn Jamison,1610612764,Washington Wizards,1,10,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,18,261,1,1,20090315,WAS,SAC
+Shot Chart Detail,0020800993,46,1712,Antawn Jamison,1610612764,Washington Wizards,1,6,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,-8,1,1,20090315,WAS,SAC
+Shot Chart Detail,0020800993,104,1712,Antawn Jamison,1610612764,Washington Wizards,1,0,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,6,1,1,20090315,WAS,SAC
+Shot Chart Detail,0020800993,221,1712,Antawn Jamison,1610612764,Washington Wizards,2,1,33,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,222,37,1,1,20090315,WAS,SAC
+Shot Chart Detail,0020800993,271,1712,Antawn Jamison,1610612764,Washington Wizards,3,10,23,Made Shot,Running Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,32,3,1,1,20090315,WAS,SAC
+Shot Chart Detail,0020800993,292,1712,Antawn Jamison,1610612764,Washington Wizards,3,7,49,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,-8,1,1,20090315,WAS,SAC
+Shot Chart Detail,0020800993,299,1712,Antawn Jamison,1610612764,Washington Wizards,3,7,13,Made Shot,Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,121,-36,1,1,20090315,WAS,SAC
+Shot Chart Detail,0020800993,328,1712,Antawn Jamison,1610612764,Washington Wizards,3,3,28,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,92,56,1,1,20090315,WAS,SAC
+Shot Chart Detail,0020801006,127,1712,Antawn Jamison,1610612764,Washington Wizards,1,1,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,147,197,1,1,20090317,UTA,WAS
+Shot Chart Detail,0020801006,203,1712,Antawn Jamison,1610612764,Washington Wizards,2,4,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090317,UTA,WAS
+Shot Chart Detail,0020801006,296,1712,Antawn Jamison,1610612764,Washington Wizards,3,11,1,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,127,4,1,1,20090317,UTA,WAS
+Shot Chart Detail,0020801006,383,1712,Antawn Jamison,1610612764,Washington Wizards,3,4,28,Made Shot,Running Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,39,3,1,1,20090317,UTA,WAS
+Shot Chart Detail,0020801019,101,1712,Antawn Jamison,1610612764,Washington Wizards,1,0,33,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090318,LAC,WAS
+Shot Chart Detail,0020801019,182,1712,Antawn Jamison,1610612764,Washington Wizards,2,4,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090318,LAC,WAS
+Shot Chart Detail,0020801019,202,1712,Antawn Jamison,1610612764,Washington Wizards,2,3,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,94,6,1,1,20090318,LAC,WAS
+Shot Chart Detail,0020801019,213,1712,Antawn Jamison,1610612764,Washington Wizards,2,1,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090318,LAC,WAS
+Shot Chart Detail,0020801019,230,1712,Antawn Jamison,1610612764,Washington Wizards,2,1,18,Made Shot,Turnaround Bank shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,121,33,1,1,20090318,LAC,WAS
+Shot Chart Detail,0020801019,310,1712,Antawn Jamison,1610612764,Washington Wizards,3,6,7,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-13,37,1,1,20090318,LAC,WAS
+Shot Chart Detail,0020801019,340,1712,Antawn Jamison,1610612764,Washington Wizards,3,3,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090318,LAC,WAS
+Shot Chart Detail,0020801019,353,1712,Antawn Jamison,1610612764,Washington Wizards,3,1,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-190,9,1,1,20090318,LAC,WAS
+Shot Chart Detail,0020801019,409,1712,Antawn Jamison,1610612764,Washington Wizards,4,6,19,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-46,44,1,1,20090318,LAC,WAS
+Shot Chart Detail,0020801019,469,1712,Antawn Jamison,1610612764,Washington Wizards,4,0,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090318,LAC,WAS
+Shot Chart Detail,0020801032,4,1712,Antawn Jamison,1610612764,Washington Wizards,1,11,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,170,63,1,1,20090320,DEN,WAS
+Shot Chart Detail,0020801032,7,1712,Antawn Jamison,1610612764,Washington Wizards,1,10,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,154,206,1,1,20090320,DEN,WAS
+Shot Chart Detail,0020801032,52,1712,Antawn Jamison,1610612764,Washington Wizards,1,5,14,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090320,DEN,WAS
+Shot Chart Detail,0020801032,70,1712,Antawn Jamison,1610612764,Washington Wizards,1,3,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,110,224,1,1,20090320,DEN,WAS
+Shot Chart Detail,0020801032,74,1712,Antawn Jamison,1610612764,Washington Wizards,1,3,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090320,DEN,WAS
+Shot Chart Detail,0020801032,103,1712,Antawn Jamison,1610612764,Washington Wizards,1,0,26,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,92,64,1,1,20090320,DEN,WAS
+Shot Chart Detail,0020801032,276,1712,Antawn Jamison,1610612764,Washington Wizards,3,11,8,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-54,30,1,1,20090320,DEN,WAS
+Shot Chart Detail,0020801032,278,1712,Antawn Jamison,1610612764,Washington Wizards,3,10,20,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-37,34,1,1,20090320,DEN,WAS
+Shot Chart Detail,0020801032,473,1712,Antawn Jamison,1610612764,Washington Wizards,4,7,36,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-68,56,1,1,20090320,DEN,WAS
+Shot Chart Detail,0020801032,488,1712,Antawn Jamison,1610612764,Washington Wizards,4,6,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090320,DEN,WAS
+Shot Chart Detail,0020801040,26,1712,Antawn Jamison,1610612764,Washington Wizards,1,7,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-125,19,1,1,20090321,PHX,WAS
+Shot Chart Detail,0020801040,128,1712,Antawn Jamison,1610612764,Washington Wizards,2,9,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,170,183,1,1,20090321,PHX,WAS
+Shot Chart Detail,0020801040,208,1712,Antawn Jamison,1610612764,Washington Wizards,2,1,59,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-76,58,1,1,20090321,PHX,WAS
+Shot Chart Detail,0020801040,217,1712,Antawn Jamison,1610612764,Washington Wizards,2,1,20,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,0,66,1,1,20090321,PHX,WAS
+Shot Chart Detail,0020801040,219,1712,Antawn Jamison,1610612764,Washington Wizards,2,1,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090321,PHX,WAS
+Shot Chart Detail,0020801040,280,1712,Antawn Jamison,1610612764,Washington Wizards,3,7,40,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-34,82,1,1,20090321,PHX,WAS
+Shot Chart Detail,0020801040,314,1712,Antawn Jamison,1610612764,Washington Wizards,3,5,20,Made Shot,Running Bank shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,81,39,1,1,20090321,PHX,WAS
+Shot Chart Detail,0020801040,356,1712,Antawn Jamison,1610612764,Washington Wizards,3,2,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-150,-17,1,1,20090321,PHX,WAS
+Shot Chart Detail,0020801040,371,1712,Antawn Jamison,1610612764,Washington Wizards,3,0,36,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,67,36,1,1,20090321,PHX,WAS
+Shot Chart Detail,0020801040,436,1712,Antawn Jamison,1610612764,Washington Wizards,4,6,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090321,PHX,WAS
+Shot Chart Detail,0020801040,447,1712,Antawn Jamison,1610612764,Washington Wizards,4,6,12,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-59,23,1,1,20090321,PHX,WAS
+Shot Chart Detail,0020801049,16,1712,Antawn Jamison,1610612764,Washington Wizards,1,10,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-191,-30,1,1,20090323,WAS,CHI
+Shot Chart Detail,0020801049,18,1712,Antawn Jamison,1610612764,Washington Wizards,1,9,23,Made Shot,Floating Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,6,36,1,1,20090323,WAS,CHI
+Shot Chart Detail,0020801049,51,1712,Antawn Jamison,1610612764,Washington Wizards,1,6,41,Made Shot,Jump Hook Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-92,58,1,1,20090323,WAS,CHI
+Shot Chart Detail,0020801049,82,1712,Antawn Jamison,1610612764,Washington Wizards,1,3,12,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,-2,1,1,20090323,WAS,CHI
+Shot Chart Detail,0020801049,197,1712,Antawn Jamison,1610612764,Washington Wizards,2,1,53,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,28,75,1,1,20090323,WAS,CHI
+Shot Chart Detail,0020801049,215,1712,Antawn Jamison,1610612764,Washington Wizards,3,11,21,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-30,-13,1,1,20090323,WAS,CHI
+Shot Chart Detail,0020801049,225,1712,Antawn Jamison,1610612764,Washington Wizards,3,10,21,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-46,-3,1,1,20090323,WAS,CHI
+Shot Chart Detail,0020801049,352,1712,Antawn Jamison,1610612764,Washington Wizards,3,0,40,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,20,1,1,20090323,WAS,CHI
+Shot Chart Detail,0020801049,391,1712,Antawn Jamison,1610612764,Washington Wizards,4,9,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-24,244,1,1,20090323,WAS,CHI
+Shot Chart Detail,0020801049,443,1712,Antawn Jamison,1610612764,Washington Wizards,4,4,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,-6,1,1,20090323,WAS,CHI
+Shot Chart Detail,0020801049,445,1712,Antawn Jamison,1610612764,Washington Wizards,4,4,23,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,11,1,1,20090323,WAS,CHI
+Shot Chart Detail,0020801049,451,1712,Antawn Jamison,1610612764,Washington Wizards,4,3,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-183,173,1,1,20090323,WAS,CHI
+Shot Chart Detail,0020801064,2,1712,Antawn Jamison,1610612764,Washington Wizards,1,11,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,0,1,1,20090325,WAS,CHA
+Shot Chart Detail,0020801064,16,1712,Antawn Jamison,1610612764,Washington Wizards,1,9,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,147,119,1,1,20090325,WAS,CHA
+Shot Chart Detail,0020801064,42,1712,Antawn Jamison,1610612764,Washington Wizards,1,5,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-90,78,1,1,20090325,WAS,CHA
+Shot Chart Detail,0020801064,50,1712,Antawn Jamison,1610612764,Washington Wizards,1,4,25,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-56,50,1,1,20090325,WAS,CHA
+Shot Chart Detail,0020801064,78,1712,Antawn Jamison,1610612764,Washington Wizards,1,1,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,1,1,1,20090325,WAS,CHA
+Shot Chart Detail,0020801064,192,1712,Antawn Jamison,1610612764,Washington Wizards,2,2,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,9,1,1,20090325,WAS,CHA
+Shot Chart Detail,0020801064,195,1712,Antawn Jamison,1610612764,Washington Wizards,2,1,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,166,0,1,1,20090325,WAS,CHA
+Shot Chart Detail,0020801064,202,1712,Antawn Jamison,1610612764,Washington Wizards,2,0,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,3,1,1,20090325,WAS,CHA
+Shot Chart Detail,0020801064,256,1712,Antawn Jamison,1610612764,Washington Wizards,3,8,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,28,246,1,1,20090325,WAS,CHA
+Shot Chart Detail,0020801064,260,1712,Antawn Jamison,1610612764,Washington Wizards,3,7,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,217,126,1,1,20090325,WAS,CHA
+Shot Chart Detail,0020801064,290,1712,Antawn Jamison,1610612764,Washington Wizards,3,5,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-183,55,1,1,20090325,WAS,CHA
+Shot Chart Detail,0020801085,24,1712,Antawn Jamison,1610612764,Washington Wizards,1,7,47,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-54,44,1,1,20090328,WAS,DET
+Shot Chart Detail,0020801085,65,1712,Antawn Jamison,1610612764,Washington Wizards,1,4,11,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,39,50,1,1,20090328,WAS,DET
+Shot Chart Detail,0020801085,80,1712,Antawn Jamison,1610612764,Washington Wizards,1,2,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,7,1,1,20090328,WAS,DET
+Shot Chart Detail,0020801085,99,1712,Antawn Jamison,1610612764,Washington Wizards,1,1,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-212,135,1,1,20090328,WAS,DET
+Shot Chart Detail,0020801085,154,1712,Antawn Jamison,1610612764,Washington Wizards,2,9,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-209,143,1,1,20090328,WAS,DET
+Shot Chart Detail,0020801085,229,1712,Antawn Jamison,1610612764,Washington Wizards,2,2,36,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-86,23,1,1,20090328,WAS,DET
+Shot Chart Detail,0020801085,237,1712,Antawn Jamison,1610612764,Washington Wizards,2,1,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,-13,1,1,20090328,WAS,DET
+Shot Chart Detail,0020801085,300,1712,Antawn Jamison,1610612764,Washington Wizards,3,5,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,-196,97,1,1,20090328,WAS,DET
+Shot Chart Detail,0020801085,459,1712,Antawn Jamison,1610612764,Washington Wizards,4,1,48,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,-5,1,1,20090328,WAS,DET
+Shot Chart Detail,0020801097,30,1712,Antawn Jamison,1610612764,Washington Wizards,1,8,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-24,254,1,1,20090329,IND,WAS
+Shot Chart Detail,0020801097,119,1712,Antawn Jamison,1610612764,Washington Wizards,1,0,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,6,1,1,20090329,IND,WAS
+Shot Chart Detail,0020801097,250,1712,Antawn Jamison,1610612764,Washington Wizards,2,1,15,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-65,17,1,1,20090329,IND,WAS
+Shot Chart Detail,0020801097,319,1712,Antawn Jamison,1610612764,Washington Wizards,3,6,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-3,1,1,20090329,IND,WAS
+Shot Chart Detail,0020801097,364,1712,Antawn Jamison,1610612764,Washington Wizards,3,3,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-131,219,1,1,20090329,IND,WAS
+Shot Chart Detail,0020801097,369,1712,Antawn Jamison,1610612764,Washington Wizards,3,2,22,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-84,118,1,1,20090329,IND,WAS
+Shot Chart Detail,0020801097,477,1712,Antawn Jamison,1610612764,Washington Wizards,4,6,14,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,-2,1,1,20090329,IND,WAS
+Shot Chart Detail,0020801097,482,1712,Antawn Jamison,1610612764,Washington Wizards,4,5,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,106,22,1,1,20090329,IND,WAS
+Shot Chart Detail,0020801097,487,1712,Antawn Jamison,1610612764,Washington Wizards,4,4,38,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-35,30,1,1,20090329,IND,WAS
+Shot Chart Detail,0020801097,513,1712,Antawn Jamison,1610612764,Washington Wizards,4,2,33,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,-22,1,1,20090329,IND,WAS
+Shot Chart Detail,0020801116,14,1712,Antawn Jamison,1610612764,Washington Wizards,1,10,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,13,258,1,1,20090401,MEM,WAS
+Shot Chart Detail,0020801116,51,1712,Antawn Jamison,1610612764,Washington Wizards,1,6,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-168,30,1,1,20090401,MEM,WAS
+Shot Chart Detail,0020801116,198,1712,Antawn Jamison,1610612764,Washington Wizards,2,4,23,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,103,23,1,1,20090401,MEM,WAS
+Shot Chart Detail,0020801116,304,1712,Antawn Jamison,1610612764,Washington Wizards,3,6,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090401,MEM,WAS
+Shot Chart Detail,0020801116,329,1712,Antawn Jamison,1610612764,Washington Wizards,3,3,55,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,70,17,1,1,20090401,MEM,WAS
+Shot Chart Detail,0020801116,347,1712,Antawn Jamison,1610612764,Washington Wizards,3,1,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090401,MEM,WAS
+Shot Chart Detail,0020801116,411,1712,Antawn Jamison,1610612764,Washington Wizards,4,9,10,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-60,19,1,1,20090401,MEM,WAS
+Shot Chart Detail,0020801116,427,1712,Antawn Jamison,1610612764,Washington Wizards,4,8,3,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090401,MEM,WAS
+Shot Chart Detail,0020801123,7,1712,Antawn Jamison,1610612764,Washington Wizards,1,10,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,198,52,1,1,20090402,WAS,CLE
+Shot Chart Detail,0020801123,53,1712,Antawn Jamison,1610612764,Washington Wizards,1,5,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,198,-16,1,1,20090402,WAS,CLE
+Shot Chart Detail,0020801123,72,1712,Antawn Jamison,1610612764,Washington Wizards,1,3,8,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-8,22,1,1,20090402,WAS,CLE
+Shot Chart Detail,0020801123,182,1712,Antawn Jamison,1610612764,Washington Wizards,2,4,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-234,96,1,1,20090402,WAS,CLE
+Shot Chart Detail,0020801123,186,1712,Antawn Jamison,1610612764,Washington Wizards,2,3,23,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,-3,1,1,20090402,WAS,CLE
+Shot Chart Detail,0020801123,235,1712,Antawn Jamison,1610612764,Washington Wizards,3,11,2,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,11,1,1,20090402,WAS,CLE
+Shot Chart Detail,0020801123,294,1712,Antawn Jamison,1610612764,Washington Wizards,3,6,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-8,1,1,20090402,WAS,CLE
+Shot Chart Detail,0020801123,358,1712,Antawn Jamison,1610612764,Washington Wizards,4,11,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-164,107,1,1,20090402,WAS,CLE
+Shot Chart Detail,0020801123,447,1712,Antawn Jamison,1610612764,Washington Wizards,4,3,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,4,1,1,20090402,WAS,CLE
+Shot Chart Detail,0020801139,103,1712,Antawn Jamison,1610612764,Washington Wizards,1,1,15,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-243,-8,1,1,20090404,WAS,MIA
+Shot Chart Detail,0020801139,135,1712,Antawn Jamison,1610612764,Washington Wizards,2,11,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,110,173,1,1,20090404,WAS,MIA
+Shot Chart Detail,0020801139,250,1712,Antawn Jamison,1610612764,Washington Wizards,2,2,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,3,1,1,20090404,WAS,MIA
+Shot Chart Detail,0020801139,258,1712,Antawn Jamison,1610612764,Washington Wizards,2,1,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,-8,1,1,20090404,WAS,MIA
+Shot Chart Detail,0020801139,345,1712,Antawn Jamison,1610612764,Washington Wizards,3,6,18,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,72,0,1,1,20090404,WAS,MIA
+Shot Chart Detail,0020801139,389,1712,Antawn Jamison,1610612764,Washington Wizards,3,2,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-194,6,1,1,20090404,WAS,MIA
+Shot Chart Detail,0020801139,403,1712,Antawn Jamison,1610612764,Washington Wizards,3,1,39,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,-8,1,1,20090404,WAS,MIA
+Shot Chart Detail,0020801139,485,1712,Antawn Jamison,1610612764,Washington Wizards,4,4,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,11,1,1,20090404,WAS,MIA
+Shot Chart Detail,0020801162,52,1712,Antawn Jamison,1610612764,Washington Wizards,1,6,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,22,-209,88,1,1,20090408,CLE,WAS
+Shot Chart Detail,0020801162,60,1712,Antawn Jamison,1610612764,Washington Wizards,1,5,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,21,206,77,1,1,20090408,CLE,WAS
+Shot Chart Detail,0020801183,51,1712,Antawn Jamison,1610612764,Washington Wizards,1,5,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,162,25,1,1,20090410,TOR,WAS
+Shot Chart Detail,0020801183,209,1712,Antawn Jamison,1610612764,Washington Wizards,2,2,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-174,173,1,1,20090410,TOR,WAS
+Shot Chart Detail,0020801183,249,1712,Antawn Jamison,1610612764,Washington Wizards,3,9,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-41,242,1,1,20090410,TOR,WAS
+Shot Chart Detail,0020801183,256,1712,Antawn Jamison,1610612764,Washington Wizards,3,8,32,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,9,63,1,1,20090410,TOR,WAS
+Shot Chart Detail,0020801183,260,1712,Antawn Jamison,1610612764,Washington Wizards,3,7,55,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090410,TOR,WAS
+Shot Chart Detail,0020801183,303,1712,Antawn Jamison,1610612764,Washington Wizards,3,3,44,Made Shot,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,72,42,1,1,20090410,TOR,WAS
+Shot Chart Detail,0020801183,324,1712,Antawn Jamison,1610612764,Washington Wizards,3,1,46,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090410,TOR,WAS
+Shot Chart Detail,0020801183,417,1712,Antawn Jamison,1610612764,Washington Wizards,4,4,50,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-231,15,1,1,20090410,TOR,WAS
+Shot Chart Detail,0020801183,438,1712,Antawn Jamison,1610612764,Washington Wizards,4,3,2,Made Shot,Jump Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090410,TOR,WAS
+Shot Chart Detail,0020801203,35,1712,Antawn Jamison,1610612764,Washington Wizards,1,7,7,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,86,-5,1,1,20090413,WAS,TOR
+Shot Chart Detail,0020801203,59,1712,Antawn Jamison,1610612764,Washington Wizards,1,4,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,184,-11,1,1,20090413,WAS,TOR
+Shot Chart Detail,0020801203,98,1712,Antawn Jamison,1610612764,Washington Wizards,1,1,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,159,0,1,1,20090413,WAS,TOR
+Shot Chart Detail,0020801203,151,1712,Antawn Jamison,1610612764,Washington Wizards,2,9,13,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-4,50,1,1,20090413,WAS,TOR
+Shot Chart Detail,0020801203,170,1712,Antawn Jamison,1610612764,Washington Wizards,2,6,54,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-35,14,1,1,20090413,WAS,TOR
+Shot Chart Detail,0020801203,181,1712,Antawn Jamison,1610612764,Washington Wizards,2,6,29,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,15,1,1,20090413,WAS,TOR
+Shot Chart Detail,0020801203,212,1712,Antawn Jamison,1610612764,Washington Wizards,2,3,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-218,126,1,1,20090413,WAS,TOR
+Shot Chart Detail,0020801203,243,1712,Antawn Jamison,1610612764,Washington Wizards,2,0,23,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2,25,1,1,20090413,WAS,TOR
+Shot Chart Detail,0020801203,249,1712,Antawn Jamison,1610612764,Washington Wizards,3,11,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-196,-40,1,1,20090413,WAS,TOR
+Shot Chart Detail,0020801203,290,1712,Antawn Jamison,1610612764,Washington Wizards,3,7,1,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,70,0,1,1,20090413,WAS,TOR

@@ -1,0 +1,530 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0020600002,59,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,5,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061031,LAL,PHX
+Shot Chart Detail,0020600002,96,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,1,36,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,7,1,1,20061031,LAL,PHX
+Shot Chart Detail,0020600002,135,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,9,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061031,LAL,PHX
+Shot Chart Detail,0020600002,282,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,7,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-41,253,1,1,20061031,LAL,PHX
+Shot Chart Detail,0020600002,379,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,9,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061031,LAL,PHX
+Shot Chart Detail,0020600002,396,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,7,44,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,12,1,1,20061031,LAL,PHX
+Shot Chart Detail,0020600002,406,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,6,40,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,0,1,1,20061031,LAL,PHX
+Shot Chart Detail,0020600002,445,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,2,49,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,-5,1,1,20061031,LAL,PHX
+Shot Chart Detail,0020600002,452,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,1,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-138,207,1,1,20061031,LAL,PHX
+Shot Chart Detail,0020600014,69,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,3,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061101,PHX,LAC
+Shot Chart Detail,0020600014,87,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,1,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061101,PHX,LAC
+Shot Chart Detail,0020600014,261,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,9,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061101,PHX,LAC
+Shot Chart Detail,0020600014,310,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,5,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061101,PHX,LAC
+Shot Chart Detail,0020600028,135,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,9,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061103,PHX,UTA
+Shot Chart Detail,0020600028,375,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,11,32,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061103,PHX,UTA
+Shot Chart Detail,0020600028,442,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,5,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,100,238,1,1,20061103,PHX,UTA
+Shot Chart Detail,0020600028,446,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,4,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,22,-197,109,1,1,20061103,PHX,UTA
+Shot Chart Detail,0020600028,460,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,3,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061103,PHX,UTA
+Shot Chart Detail,0020600039,123,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,1,19,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,0,1,1,20061104,LAC,PHX
+Shot Chart Detail,0020600039,297,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,10,51,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061104,LAC,PHX
+Shot Chart Detail,0020600039,328,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,8,1,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,49,91,1,1,20061104,LAC,PHX
+Shot Chart Detail,0020600039,365,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,4,16,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,0,1,1,20061104,LAC,PHX
+Shot Chart Detail,0020600064,5,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,11,29,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,11,17,1,1,20061108,SAS,PHX
+Shot Chart Detail,0020600064,85,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,3,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,13,1,1,20061108,SAS,PHX
+Shot Chart Detail,0020600064,101,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,1,29,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-52,22,1,1,20061108,SAS,PHX
+Shot Chart Detail,0020600064,168,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,6,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,12,1,1,20061108,SAS,PHX
+Shot Chart Detail,0020600064,188,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,4,31,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,-3,1,1,20061108,SAS,PHX
+Shot Chart Detail,0020600064,255,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,9,52,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,-11,1,1,20061108,SAS,PHX
+Shot Chart Detail,0020600070,3,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,11,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,172,173,1,1,20061109,PHX,DAL
+Shot Chart Detail,0020600070,150,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,9,38,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061109,PHX,DAL
+Shot Chart Detail,0020600070,160,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,8,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,130,206,1,1,20061109,PHX,DAL
+Shot Chart Detail,0020600070,170,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,6,46,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061109,PHX,DAL
+Shot Chart Detail,0020600070,215,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,2,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,153,201,1,1,20061109,PHX,DAL
+Shot Chart Detail,0020600070,217,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,1,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-233,118,1,1,20061109,PHX,DAL
+Shot Chart Detail,0020600070,239,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,11,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061109,PHX,DAL
+Shot Chart Detail,0020600070,250,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,9,12,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-246,17,1,1,20061109,PHX,DAL
+Shot Chart Detail,0020600070,353,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,9,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061109,PHX,DAL
+Shot Chart Detail,0020600088,53,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,6,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,169,189,1,1,20061111,PHX,MEM
+Shot Chart Detail,0020600088,179,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,7,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,166,187,1,1,20061111,PHX,MEM
+Shot Chart Detail,0020600088,203,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,5,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,184,160,1,1,20061111,PHX,MEM
+Shot Chart Detail,0020600088,248,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,1,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061111,PHX,MEM
+Shot Chart Detail,0020600088,285,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,8,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061111,PHX,MEM
+Shot Chart Detail,0020600126,52,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,6,26,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061117,PHX,PHI
+Shot Chart Detail,0020600126,63,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,5,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-168,102,1,1,20061117,PHX,PHI
+Shot Chart Detail,0020600126,74,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,3,22,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-243,8,1,1,20061117,PHX,PHI
+Shot Chart Detail,0020600126,82,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,2,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061117,PHX,PHI
+Shot Chart Detail,0020600126,212,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,2,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,136,150,1,1,20061117,PHX,PHI
+Shot Chart Detail,0020600126,218,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,1,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,84,235,1,1,20061117,PHX,PHI
+Shot Chart Detail,0020600126,293,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,6,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,176,176,1,1,20061117,PHX,PHI
+Shot Chart Detail,0020600126,313,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,3,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-59,210,1,1,20061117,PHX,PHI
+Shot Chart Detail,0020600126,431,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,5,12,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061117,PHX,PHI
+Shot Chart Detail,0020600126,446,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,3,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-195,5,1,1,20061117,PHX,PHI
+Shot Chart Detail,0020600139,291,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,7,39,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061118,UTA,PHX
+Shot Chart Detail,0020600139,303,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,7,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061118,UTA,PHX
+Shot Chart Detail,0020600139,310,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,5,53,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061118,UTA,PHX
+Shot Chart Detail,0020600139,443,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,2,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-5,176,1,1,20061118,UTA,PHX
+Shot Chart Detail,0020600150,52,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,5,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,118,217,1,1,20061120,GSW,PHX
+Shot Chart Detail,0020600150,57,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,5,1,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,15,1,1,20061120,GSW,PHX
+Shot Chart Detail,0020600150,82,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,2,52,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,-11,1,1,20061120,GSW,PHX
+Shot Chart Detail,0020600150,84,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,2,39,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,17,1,1,20061120,GSW,PHX
+Shot Chart Detail,0020600150,167,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,5,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-204,155,1,1,20061120,GSW,PHX
+Shot Chart Detail,0020600150,190,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,3,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,-192,97,1,1,20061120,GSW,PHX
+Shot Chart Detail,0020600150,417,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,6,5,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-238,-3,1,1,20061120,GSW,PHX
+Shot Chart Detail,0020600150,432,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,4,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-205,146,1,1,20061120,GSW,PHX
+Shot Chart Detail,0020600166,73,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,3,47,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061122,PHX,NOK
+Shot Chart Detail,0020600166,96,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,0,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,115,112,1,1,20061122,PHX,NOK
+Shot Chart Detail,0020600218,70,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,3,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061129,PHX,HOU
+Shot Chart Detail,0020600218,339,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,2,51,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061129,PHX,HOU
+Shot Chart Detail,0020600218,358,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,1,18,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061129,PHX,HOU
+Shot Chart Detail,0020600218,382,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,11,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061129,PHX,HOU
+Shot Chart Detail,0020600218,442,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,5,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061129,PHX,HOU
+Shot Chart Detail,0020600231,50,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,5,9,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,144,5,1,1,20061201,PHX,MIL
+Shot Chart Detail,0020600231,56,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,4,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-166,210,1,1,20061201,PHX,MIL
+Shot Chart Detail,0020600231,59,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,3,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061201,PHX,MIL
+Shot Chart Detail,0020600231,62,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,3,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-12,150,1,1,20061201,PHX,MIL
+Shot Chart Detail,0020600231,213,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,1,39,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061201,PHX,MIL
+Shot Chart Detail,0020600231,215,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,0,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,157,203,1,1,20061201,PHX,MIL
+Shot Chart Detail,0020600231,291,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,3,47,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,100,66,1,1,20061201,PHX,MIL
+Shot Chart Detail,0020600258,83,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,3,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061205,PHX,SAC
+Shot Chart Detail,0020600258,85,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,3,1,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061205,PHX,SAC
+Shot Chart Detail,0020600258,87,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,2,38,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061205,PHX,SAC
+Shot Chart Detail,0020600258,225,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,1,4,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061205,PHX,SAC
+Shot Chart Detail,0020600258,326,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,3,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061205,PHX,SAC
+Shot Chart Detail,0020600258,353,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,0,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-156,207,1,1,20061205,PHX,SAC
+Shot Chart Detail,0020600258,370,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,11,24,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,56,105,1,1,20061205,PHX,SAC
+Shot Chart Detail,0020600258,401,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,8,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-225,125,1,1,20061205,PHX,SAC
+Shot Chart Detail,0020600258,443,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,4,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061205,PHX,SAC
+Shot Chart Detail,0020600271,90,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,2,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061207,NJN,PHX
+Shot Chart Detail,0020600271,92,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,2,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061207,NJN,PHX
+Shot Chart Detail,0020600271,129,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,10,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061207,NJN,PHX
+Shot Chart Detail,0020600271,309,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,4,53,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061207,NJN,PHX
+Shot Chart Detail,0020600271,335,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,2,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,16,189,1,1,20061207,NJN,PHX
+Shot Chart Detail,0020600271,422,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,6,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,23,-6,238,1,1,20061207,NJN,PHX
+Shot Chart Detail,0020600277,80,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,4,4,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,-1,1,1,20061208,BOS,PHX
+Shot Chart Detail,0020600277,410,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,6,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,121,210,1,1,20061208,BOS,PHX
+Shot Chart Detail,0020600277,418,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,5,32,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,0,1,1,20061208,BOS,PHX
+Shot Chart Detail,0020600296,71,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,3,19,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,238,28,1,1,20061210,CHA,PHX
+Shot Chart Detail,0020600296,91,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,1,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061210,CHA,PHX
+Shot Chart Detail,0020600296,110,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,10,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061210,CHA,PHX
+Shot Chart Detail,0020600296,114,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,10,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-56,181,1,1,20061210,CHA,PHX
+Shot Chart Detail,0020600296,301,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,1,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,98,192,1,1,20061210,CHA,PHX
+Shot Chart Detail,0020600296,322,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,11,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061210,CHA,PHX
+Shot Chart Detail,0020600296,331,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,10,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-182,59,1,1,20061210,CHA,PHX
+Shot Chart Detail,0020600301,203,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,3,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061211,ORL,PHX
+Shot Chart Detail,0020600301,340,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,2,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061211,ORL,PHX
+Shot Chart Detail,0020600316,124,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,11,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,-186,110,1,1,20061213,MIA,PHX
+Shot Chart Detail,0020600316,149,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,7,55,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,0,1,1,20061213,MIA,PHX
+Shot Chart Detail,0020600316,296,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,4,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-187,161,1,1,20061213,MIA,PHX
+Shot Chart Detail,0020600316,425,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,3,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061213,MIA,PHX
+Shot Chart Detail,0020600338,137,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,10,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061215,PHX,GSW
+Shot Chart Detail,0020600338,309,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,7,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-184,171,1,1,20061215,PHX,GSW
+Shot Chart Detail,0020600338,317,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,7,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-13,250,1,1,20061215,PHX,GSW
+Shot Chart Detail,0020600338,436,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,7,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,163,192,1,1,20061215,PHX,GSW
+Shot Chart Detail,0020600350,62,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,4,21,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,-8,1,1,20061216,SAC,PHX
+Shot Chart Detail,0020600350,67,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,3,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-140,181,1,1,20061216,SAC,PHX
+Shot Chart Detail,0020600350,76,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,2,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,153,194,1,1,20061216,SAC,PHX
+Shot Chart Detail,0020600350,227,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,0,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061216,SAC,PHX
+Shot Chart Detail,0020600350,324,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,1,32,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061216,SAC,PHX
+Shot Chart Detail,0020600350,355,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,9,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061216,SAC,PHX
+Shot Chart Detail,0020600350,371,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,7,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,138,197,1,1,20061216,SAC,PHX
+Shot Chart Detail,0020600363,77,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,2,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,176,173,1,1,20061219,PHX,TOR
+Shot Chart Detail,0020600363,83,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,2,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061219,PHX,TOR
+Shot Chart Detail,0020600363,369,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,11,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-179,3,1,1,20061219,PHX,TOR
+Shot Chart Detail,0020600363,372,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,10,51,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061219,PHX,TOR
+Shot Chart Detail,0020600363,387,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,9,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061219,PHX,TOR
+Shot Chart Detail,0020600363,392,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,9,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,22,-3,227,1,1,20061219,PHX,TOR
+Shot Chart Detail,0020600373,137,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,11,26,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-238,-23,1,1,20070205,DEN,PHX
+Shot Chart Detail,0020600373,267,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,11,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-189,48,1,1,20070205,DEN,PHX
+Shot Chart Detail,0020600373,281,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,8,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,158,184,1,1,20070205,DEN,PHX
+Shot Chart Detail,0020600373,370,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,11,50,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070205,DEN,PHX
+Shot Chart Detail,0020600373,384,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,9,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070205,DEN,PHX
+Shot Chart Detail,0020600373,400,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,8,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,23,194,140,1,1,20070205,DEN,PHX
+Shot Chart Detail,0020600373,435,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,4,4,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,12,1,1,20070205,DEN,PHX
+Shot Chart Detail,0020600373,472,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,0,46,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-128,23,1,1,20070205,DEN,PHX
+Shot Chart Detail,0020600391,110,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,11,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,146,8,1,1,20061222,PHX,WAS
+Shot Chart Detail,0020600391,124,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,9,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061222,PHX,WAS
+Shot Chart Detail,0020600391,135,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,8,50,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-94,41,1,1,20061222,PHX,WAS
+Shot Chart Detail,0020600391,153,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,6,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,177,178,1,1,20061222,PHX,WAS
+Shot Chart Detail,0020600391,292,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,4,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-223,133,1,1,20061222,PHX,WAS
+Shot Chart Detail,0020600391,314,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,2,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,158,141,1,1,20061222,PHX,WAS
+Shot Chart Detail,0020600391,379,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,7,38,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-243,2,1,1,20061222,PHX,WAS
+Shot Chart Detail,0020600412,63,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,4,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061226,PHX,POR
+Shot Chart Detail,0020600412,290,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,3,19,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061226,PHX,POR
+Shot Chart Detail,0020600412,305,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,2,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061226,PHX,POR
+Shot Chart Detail,0020600412,307,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,1,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061226,PHX,POR
+Shot Chart Detail,0020600412,309,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,1,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061226,PHX,POR
+Shot Chart Detail,0020600412,334,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,11,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061226,PHX,POR
+Shot Chart Detail,0020600412,340,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,10,16,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,120,51,1,1,20061226,PHX,POR
+Shot Chart Detail,0020600412,347,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,9,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-194,179,1,1,20061226,PHX,POR
+Shot Chart Detail,0020600412,351,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,8,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061226,PHX,POR
+Shot Chart Detail,0020600426,84,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,3,46,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061228,DAL,PHX
+Shot Chart Detail,0020600426,168,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,8,10,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061228,DAL,PHX
+Shot Chart Detail,0020600426,328,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,2,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,23,-48,235,1,1,20061228,DAL,PHX
+Shot Chart Detail,0020600426,347,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,0,56,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061228,DAL,PHX
+Shot Chart Detail,0020600426,370,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,11,22,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061228,DAL,PHX
+Shot Chart Detail,0020600426,412,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,7,41,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061228,DAL,PHX
+Shot Chart Detail,0020600438,66,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,4,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,149,204,1,1,20061229,PHX,NYK
+Shot Chart Detail,0020600438,71,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,4,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-172,81,1,1,20061229,PHX,NYK
+Shot Chart Detail,0020600438,204,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,3,51,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,-5,1,1,20061229,PHX,NYK
+Shot Chart Detail,0020600438,207,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,3,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061229,PHX,NYK
+Shot Chart Detail,0020600438,378,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,8,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061229,PHX,NYK
+Shot Chart Detail,0020600438,399,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,6,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,110,174,1,1,20061229,PHX,NYK
+Shot Chart Detail,0020600453,62,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,3,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061231,DET,PHX
+Shot Chart Detail,0020600453,70,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,1,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-171,36,1,1,20061231,DET,PHX
+Shot Chart Detail,0020600453,390,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,3,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-153,36,1,1,20061231,DET,PHX
+Shot Chart Detail,0020600463,70,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,3,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070102,CHI,PHX
+Shot Chart Detail,0020600463,162,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,5,59,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070102,CHI,PHX
+Shot Chart Detail,0020600463,216,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,1,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070102,CHI,PHX
+Shot Chart Detail,0020600463,224,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,0,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,0,143,1,1,20070102,CHI,PHX
+Shot Chart Detail,0020600463,354,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,11,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-192,161,1,1,20070102,CHI,PHX
+Shot Chart Detail,0020600463,467,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,0,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,51,245,1,1,20070102,CHI,PHX
+Shot Chart Detail,0020600467,235,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,0,33,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,-3,1,1,20070103,TOR,PHX
+Shot Chart Detail,0020600467,305,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,4,37,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,-3,1,1,20070103,TOR,PHX
+Shot Chart Detail,0020600467,315,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,3,49,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070103,TOR,PHX
+Shot Chart Detail,0020600467,320,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,3,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-202,36,1,1,20070103,TOR,PHX
+Shot Chart Detail,0020600467,366,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,11,12,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070103,TOR,PHX
+Shot Chart Detail,0020600488,45,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,5,44,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,22,1,1,20070105,PHX,MIA
+Shot Chart Detail,0020600488,85,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,1,4,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070105,PHX,MIA
+Shot Chart Detail,0020600488,94,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,0,2,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070105,PHX,MIA
+Shot Chart Detail,0020600488,103,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,11,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-202,151,1,1,20070105,PHX,MIA
+Shot Chart Detail,0020600488,173,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,4,29,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,0,81,1,1,20070105,PHX,MIA
+Shot Chart Detail,0020600488,263,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,6,40,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,61,115,1,1,20070105,PHX,MIA
+Shot Chart Detail,0020600488,273,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,5,51,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,64,118,1,1,20070105,PHX,MIA
+Shot Chart Detail,0020600502,106,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,3,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070107,PHX,GSW
+Shot Chart Detail,0020600502,131,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,1,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-145,100,1,1,20070107,PHX,GSW
+Shot Chart Detail,0020600502,159,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,10,59,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,10,1,1,20070107,PHX,GSW
+Shot Chart Detail,0020600502,170,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,9,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-156,137,1,1,20070107,PHX,GSW
+Shot Chart Detail,0020600502,176,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,9,8,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-89,25,1,1,20070107,PHX,GSW
+Shot Chart Detail,0020600502,192,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,7,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,151,97,1,1,20070107,PHX,GSW
+Shot Chart Detail,0020600502,204,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,6,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,218,118,1,1,20070107,PHX,GSW
+Shot Chart Detail,0020600502,303,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,10,19,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-245,13,1,1,20070107,PHX,GSW
+Shot Chart Detail,0020600502,310,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,9,36,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070107,PHX,GSW
+Shot Chart Detail,0020600502,349,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,5,6,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,31,1,1,20070107,PHX,GSW
+Shot Chart Detail,0020600514,80,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,2,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,154,141,1,1,20070109,PHX,SEA
+Shot Chart Detail,0020600514,392,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,6,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070109,PHX,SEA
+Shot Chart Detail,0020600514,411,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,5,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070109,PHX,SEA
+Shot Chart Detail,0020600514,414,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,4,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070109,PHX,SEA
+Shot Chart Detail,0020600514,432,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,1,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,84,156,1,1,20070109,PHX,SEA
+Shot Chart Detail,0020600514,435,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,1,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070109,PHX,SEA
+Shot Chart Detail,0020600529,71,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,4,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070111,PHX,CLE
+Shot Chart Detail,0020600529,161,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,6,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070111,PHX,CLE
+Shot Chart Detail,0020600529,295,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,5,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-171,2,1,1,20070111,PHX,CLE
+Shot Chart Detail,0020600529,299,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,5,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070111,PHX,CLE
+Shot Chart Detail,0020600529,354,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,1,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070111,PHX,CLE
+Shot Chart Detail,0020600529,440,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,5,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-191,5,1,1,20070111,PHX,CLE
+Shot Chart Detail,0020600549,85,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,1,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070113,PHX,ORL
+Shot Chart Detail,0020600549,132,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,8,37,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,15,1,1,20070113,PHX,ORL
+Shot Chart Detail,0020600549,301,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,2,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070113,PHX,ORL
+Shot Chart Detail,0020600549,306,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,2,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-138,227,1,1,20070113,PHX,ORL
+Shot Chart Detail,0020600549,369,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,7,20,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070113,PHX,ORL
+Shot Chart Detail,0020600563,162,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,7,13,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,240,2,1,1,20070115,MEM,PHX
+Shot Chart Detail,0020600563,176,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,5,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070115,MEM,PHX
+Shot Chart Detail,0020600563,361,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,10,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,22,15,229,1,1,20070115,MEM,PHX
+Shot Chart Detail,0020600575,129,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,9,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-18,255,1,1,20070117,HOU,PHX
+Shot Chart Detail,0020600575,176,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,5,8,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,-8,1,1,20070117,HOU,PHX
+Shot Chart Detail,0020600575,187,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,4,9,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-238,2,1,1,20070117,HOU,PHX
+Shot Chart Detail,0020600575,194,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,2,49,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,236,41,1,1,20070117,HOU,PHX
+Shot Chart Detail,0020600575,290,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,4,57,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-107,51,1,1,20070117,HOU,PHX
+Shot Chart Detail,0020600575,297,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,4,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070117,HOU,PHX
+Shot Chart Detail,0020600575,423,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,2,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-177,192,1,1,20070117,HOU,PHX
+Shot Chart Detail,0020600589,88,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,2,29,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-108,48,1,1,20070119,PHX,POR
+Shot Chart Detail,0020600589,126,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,10,30,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070119,PHX,POR
+Shot Chart Detail,0020600589,201,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,2,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,205,17,1,1,20070119,PHX,POR
+Shot Chart Detail,0020600589,212,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,0,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070119,PHX,POR
+Shot Chart Detail,0020600589,295,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,3,10,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070119,PHX,POR
+Shot Chart Detail,0020600589,303,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,1,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070119,PHX,POR
+Shot Chart Detail,0020600589,377,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,5,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070119,PHX,POR
+Shot Chart Detail,0020600589,414,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,0,25,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,56,77,1,1,20070119,PHX,POR
+Shot Chart Detail,0020600604,68,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,3,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070121,PHX,MIN
+Shot Chart Detail,0020600604,172,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,6,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070121,PHX,MIN
+Shot Chart Detail,0020600604,186,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,4,49,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070121,PHX,MIN
+Shot Chart Detail,0020600604,310,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,3,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070121,PHX,MIN
+Shot Chart Detail,0020600604,338,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,1,52,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070121,PHX,MIN
+Shot Chart Detail,0020600604,343,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,1,1,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,20,1,1,20070121,PHX,MIN
+Shot Chart Detail,0020600604,354,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,11,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-205,143,1,1,20070121,PHX,MIN
+Shot Chart Detail,0020600616,114,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,0,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-11,265,1,1,20070123,WAS,PHX
+Shot Chart Detail,0020600616,259,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,8,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-3,-9,1,1,20070123,WAS,PHX
+Shot Chart Detail,0020600616,271,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,6,32,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-245,-29,1,1,20070123,WAS,PHX
+Shot Chart Detail,0020600626,188,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,6,10,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070124,NYK,PHX
+Shot Chart Detail,0020600626,233,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,1,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,140,155,1,1,20070124,NYK,PHX
+Shot Chart Detail,0020600626,361,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,2,31,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070124,NYK,PHX
+Shot Chart Detail,0020600626,373,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,1,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,46,248,1,1,20070124,NYK,PHX
+Shot Chart Detail,0020600626,450,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,5,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,158,192,1,1,20070124,NYK,PHX
+Shot Chart Detail,0020600641,146,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,11,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-149,-3,1,1,20070126,MIL,PHX
+Shot Chart Detail,0020600641,347,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,0,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-223,89,1,1,20070126,MIL,PHX
+Shot Chart Detail,0020600655,150,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,8,33,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,-28,1,1,20070128,CLE,PHX
+Shot Chart Detail,0020600655,167,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,6,26,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,49,15,1,1,20070128,CLE,PHX
+Shot Chart Detail,0020600655,293,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,3,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-156,196,1,1,20070128,CLE,PHX
+Shot Chart Detail,0020600655,308,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,1,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-141,204,1,1,20070128,CLE,PHX
+Shot Chart Detail,0020600655,315,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,0,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,-5,1,1,20070128,CLE,PHX
+Shot Chart Detail,0020600655,361,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,8,10,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,-26,1,1,20070128,CLE,PHX
+Shot Chart Detail,0020600664,75,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,2,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070129,MIN,PHX
+Shot Chart Detail,0020600664,159,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,5,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,23,125,204,1,1,20070129,MIN,PHX
+Shot Chart Detail,0020600664,163,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,4,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,92,194,1,1,20070129,MIN,PHX
+Shot Chart Detail,0020600664,174,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,3,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070129,MIN,PHX
+Shot Chart Detail,0020600664,194,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,0,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070129,MIN,PHX
+Shot Chart Detail,0020600664,267,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,3,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070129,MIN,PHX
+Shot Chart Detail,0020600688,89,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,1,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070201,PHX,SAS
+Shot Chart Detail,0020600688,110,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,10,50,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070201,PHX,SAS
+Shot Chart Detail,0020600688,119,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,10,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070201,PHX,SAS
+Shot Chart Detail,0020600688,138,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,8,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070201,PHX,SAS
+Shot Chart Detail,0020600688,152,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,6,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-151,41,1,1,20070201,PHX,SAS
+Shot Chart Detail,0020600688,251,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,8,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070201,PHX,SAS
+Shot Chart Detail,0020600688,263,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,7,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070201,PHX,SAS
+Shot Chart Detail,0020600688,394,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,7,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,62,243,1,1,20070201,PHX,SAS
+Shot Chart Detail,0020600688,441,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,2,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,186,163,1,1,20070201,PHX,SAS
+Shot Chart Detail,0020600706,8,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,11,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070203,PHX,UTA
+Shot Chart Detail,0020600706,18,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,9,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070203,PHX,UTA
+Shot Chart Detail,0020600706,323,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,0,20,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,26,1,1,20070203,PHX,UTA
+Shot Chart Detail,0020600706,386,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,5,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070203,PHX,UTA
+Shot Chart Detail,0020600724,45,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,6,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070206,POR,PHX
+Shot Chart Detail,0020600724,277,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,6,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-118,56,1,1,20070206,POR,PHX
+Shot Chart Detail,0020600724,280,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,5,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070206,POR,PHX
+Shot Chart Detail,0020600724,358,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,9,15,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070206,POR,PHX
+Shot Chart Detail,0020600724,390,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,5,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-108,141,1,1,20070206,POR,PHX
+Shot Chart Detail,0020600724,403,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,4,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070206,POR,PHX
+Shot Chart Detail,0020600724,407,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,3,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,23,-146,179,1,1,20070206,POR,PHX
+Shot Chart Detail,0020600724,437,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,0,38,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,222,-8,1,1,20070206,POR,PHX
+Shot Chart Detail,0020600724,483,2571,Leandro Barbosa,1610612756,Phoenix Suns,5,1,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-158,181,1,1,20070206,POR,PHX
+Shot Chart Detail,0020600724,485,2571,Leandro Barbosa,1610612756,Phoenix Suns,5,1,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-225,97,1,1,20070206,POR,PHX
+Shot Chart Detail,0020600747,47,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,6,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070209,PHX,ATL
+Shot Chart Detail,0020600747,104,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,0,39,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070209,PHX,ATL
+Shot Chart Detail,0020600747,118,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,11,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070209,PHX,ATL
+Shot Chart Detail,0020600747,133,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,10,9,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,236,-1,1,1,20070209,PHX,ATL
+Shot Chart Detail,0020600747,165,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,7,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,112,229,1,1,20070209,PHX,ATL
+Shot Chart Detail,0020600747,403,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,5,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-215,150,1,1,20070209,PHX,ATL
+Shot Chart Detail,0020600747,495,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,0,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070209,PHX,ATL
+Shot Chart Detail,0020600762,72,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,4,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,154,-11,1,1,20070211,PHX,CHI
+Shot Chart Detail,0020600762,262,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,11,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,154,141,1,1,20070211,PHX,CHI
+Shot Chart Detail,0020600762,284,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,8,34,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070211,PHX,CHI
+Shot Chart Detail,0020600762,289,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,8,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070211,PHX,CHI
+Shot Chart Detail,0020600762,329,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,5,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-194,166,1,1,20070211,PHX,CHI
+Shot Chart Detail,0020600762,382,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,0,57,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070211,PHX,CHI
+Shot Chart Detail,0020600762,427,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,9,37,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-90,53,1,1,20070211,PHX,CHI
+Shot Chart Detail,0020600762,439,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,7,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,177,181,1,1,20070211,PHX,CHI
+Shot Chart Detail,0020600785,43,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,7,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-195,155,1,1,20070214,SEA,PHX
+Shot Chart Detail,0020600785,227,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,4,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,171,197,1,1,20070214,SEA,PHX
+Shot Chart Detail,0020600785,285,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,0,0,Made Shot,Running Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070214,SEA,PHX
+Shot Chart Detail,0020600785,333,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,7,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,98,160,1,1,20070214,SEA,PHX
+Shot Chart Detail,0020600785,374,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,3,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,6,257,1,1,20070214,SEA,PHX
+Shot Chart Detail,0020600785,446,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,8,49,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,12,1,1,20070214,SEA,PHX
+Shot Chart Detail,0020600799,81,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,3,29,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070220,LAC,PHX
+Shot Chart Detail,0020600799,138,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,10,16,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070220,LAC,PHX
+Shot Chart Detail,0020600799,309,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,2,41,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070220,LAC,PHX
+Shot Chart Detail,0020600799,320,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,2,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-210,128,1,1,20070220,LAC,PHX
+Shot Chart Detail,0020600799,324,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,0,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-153,107,1,1,20070220,LAC,PHX
+Shot Chart Detail,0020600799,382,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,7,39,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070220,LAC,PHX
+Shot Chart Detail,0020600799,423,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,2,58,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,236,7,1,1,20070220,LAC,PHX
+Shot Chart Detail,0020600808,66,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,2,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070221,PHX,BOS
+Shot Chart Detail,0020600808,143,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,8,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-18,214,1,1,20070221,PHX,BOS
+Shot Chart Detail,0020600808,207,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,2,36,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070221,PHX,BOS
+Shot Chart Detail,0020600808,321,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,2,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-181,183,1,1,20070221,PHX,BOS
+Shot Chart Detail,0020600808,329,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,2,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-107,235,1,1,20070221,PHX,BOS
+Shot Chart Detail,0020600808,372,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,9,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,236,117,1,1,20070221,PHX,BOS
+Shot Chart Detail,0020600808,391,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,8,11,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,5,1,1,20070221,PHX,BOS
+Shot Chart Detail,0020600808,441,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,3,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,169,201,1,1,20070221,PHX,BOS
+Shot Chart Detail,0020600808,448,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,3,8,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-100,18,1,1,20070221,PHX,BOS
+Shot Chart Detail,0020600808,466,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,0,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,176,183,1,1,20070221,PHX,BOS
+Shot Chart Detail,0020600822,83,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,2,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-210,128,1,1,20070223,MIN,PHX
+Shot Chart Detail,0020600822,140,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,9,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,103,179,1,1,20070223,MIN,PHX
+Shot Chart Detail,0020600822,214,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,3,10,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,228,45,1,1,20070223,MIN,PHX
+Shot Chart Detail,0020600822,241,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,0,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,23,200,132,1,1,20070223,MIN,PHX
+Shot Chart Detail,0020600822,372,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,11,29,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,15,1,1,20070223,MIN,PHX
+Shot Chart Detail,0020600822,404,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,7,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070223,MIN,PHX
+Shot Chart Detail,0020600822,433,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,4,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,22,-62,217,1,1,20070223,MIN,PHX
+Shot Chart Detail,0020600822,458,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,1,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-44,243,1,1,20070223,MIN,PHX
+Shot Chart Detail,0020600822,468,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,0,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-110,220,1,1,20070223,MIN,PHX
+Shot Chart Detail,0020600833,73,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,4,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,3,164,1,1,20070225,ATL,PHX
+Shot Chart Detail,0020600833,107,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,1,5,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,25,-240,81,1,1,20070225,ATL,PHX
+Shot Chart Detail,0020600833,110,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,0,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-212,158,1,1,20070225,ATL,PHX
+Shot Chart Detail,0020600833,339,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,1,54,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070225,ATL,PHX
+Shot Chart Detail,0020600833,377,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,10,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,107,163,1,1,20070225,ATL,PHX
+Shot Chart Detail,0020600833,399,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,9,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,159,224,1,1,20070225,ATL,PHX
+Shot Chart Detail,0020600833,424,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,6,0,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,241,26,1,1,20070225,ATL,PHX
+Shot Chart Detail,0020600851,154,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,7,36,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,-5,1,1,20070227,IND,PHX
+Shot Chart Detail,0020600851,186,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,5,12,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,12,1,1,20070227,IND,PHX
+Shot Chart Detail,0020600851,405,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,7,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-176,179,1,1,20070227,IND,PHX
+Shot Chart Detail,0020600851,441,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,1,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-164,187,1,1,20070227,IND,PHX
+Shot Chart Detail,0020600851,443,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,1,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,18,1,1,20070227,IND,PHX
+Shot Chart Detail,0020600855,90,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,2,11,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-69,31,1,1,20070228,PHI,PHX
+Shot Chart Detail,0020600855,115,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,10,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-107,118,1,1,20070228,PHI,PHX
+Shot Chart Detail,0020600855,412,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,4,27,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-241,-13,1,1,20070228,PHI,PHX
+Shot Chart Detail,0020600855,429,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,2,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,66,237,1,1,20070228,PHI,PHX
+Shot Chart Detail,0020600877,60,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,4,44,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,238,71,1,1,20070302,PHX,IND
+Shot Chart Detail,0020600877,101,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,0,4,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,238,28,1,1,20070302,PHX,IND
+Shot Chart Detail,0020600877,107,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,11,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,141,58,1,1,20070302,PHX,IND
+Shot Chart Detail,0020600877,173,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,4,52,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070302,PHX,IND
+Shot Chart Detail,0020600877,321,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,4,9,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070302,PHX,IND
+Shot Chart Detail,0020600877,342,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,1,21,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-128,41,1,1,20070302,PHX,IND
+Shot Chart Detail,0020600890,58,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,4,31,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070304,PHX,LAL
+Shot Chart Detail,0020600890,80,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,2,53,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,75,40,1,1,20070304,PHX,LAL
+Shot Chart Detail,0020600890,114,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,11,41,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-153,18,1,1,20070304,PHX,LAL
+Shot Chart Detail,0020600890,153,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,7,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,-207,48,1,1,20070304,PHX,LAL
+Shot Chart Detail,0020600890,194,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,3,0,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070304,PHX,LAL
+Shot Chart Detail,0020600890,219,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,0,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070304,PHX,LAL
+Shot Chart Detail,0020600890,364,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,9,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-149,102,1,1,20070304,PHX,LAL
+Shot Chart Detail,0020600915,76,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,4,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,128,189,1,1,20070307,PHX,CHA
+Shot Chart Detail,0020600915,133,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,10,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,126,143,1,1,20070307,PHX,CHA
+Shot Chart Detail,0020600915,160,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,6,57,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,10,1,1,20070307,PHX,CHA
+Shot Chart Detail,0020600915,261,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,7,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070307,PHX,CHA
+Shot Chart Detail,0020600915,294,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,3,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,159,189,1,1,20070307,PHX,CHA
+Shot Chart Detail,0020600915,296,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,2,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-136,214,1,1,20070307,PHX,CHA
+Shot Chart Detail,0020600915,313,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,0,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-168,143,1,1,20070307,PHX,CHA
+Shot Chart Detail,0020600915,338,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,10,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,215,141,1,1,20070307,PHX,CHA
+Shot Chart Detail,0020600915,437,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,0,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,205,140,1,1,20070307,PHX,CHA
+Shot Chart Detail,0020600915,473,2571,Leandro Barbosa,1610612756,Phoenix Suns,5,3,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,205,164,1,1,20070307,PHX,CHA
+Shot Chart Detail,0020600915,499,2571,Leandro Barbosa,1610612756,Phoenix Suns,5,1,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,110,224,1,1,20070307,PHX,CHA
+Shot Chart Detail,0020600925,72,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,3,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070309,PHX,NOK
+Shot Chart Detail,0020600925,90,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,1,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070309,PHX,NOK
+Shot Chart Detail,0020600925,126,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,9,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,138,146,1,1,20070309,PHX,NOK
+Shot Chart Detail,0020600925,280,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,3,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-158,0,1,1,20070309,PHX,NOK
+Shot Chart Detail,0020600925,282,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,3,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,176,201,1,1,20070309,PHX,NOK
+Shot Chart Detail,0020600925,322,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,9,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070309,PHX,NOK
+Shot Chart Detail,0020600925,325,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,9,5,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,36,1,1,20070309,PHX,NOK
+Shot Chart Detail,0020600925,383,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,3,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,182,173,1,1,20070309,PHX,NOK
+Shot Chart Detail,0020600946,36,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,7,48,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,-1,1,1,20070312,PHX,HOU
+Shot Chart Detail,0020600946,40,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,7,18,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070312,PHX,HOU
+Shot Chart Detail,0020600946,59,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,4,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070312,PHX,HOU
+Shot Chart Detail,0020600946,99,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,0,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070312,PHX,HOU
+Shot Chart Detail,0020600946,109,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,10,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,151,104,1,1,20070312,PHX,HOU
+Shot Chart Detail,0020600946,113,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,9,54,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070312,PHX,HOU
+Shot Chart Detail,0020600946,121,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,8,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-192,168,1,1,20070312,PHX,HOU
+Shot Chart Detail,0020600946,328,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,0,21,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,240,26,1,1,20070312,PHX,HOU
+Shot Chart Detail,0020600946,338,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,11,8,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,5,100,1,1,20070312,PHX,HOU
+Shot Chart Detail,0020600946,347,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,9,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,135,217,1,1,20070312,PHX,HOU
+Shot Chart Detail,0020600946,371,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,7,20,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,11,-69,91,1,1,20070312,PHX,HOU
+Shot Chart Detail,0020600946,385,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,5,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,212,135,1,1,20070312,PHX,HOU
+Shot Chart Detail,0020600965,59,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,6,1,Made Shot,Running Finger Roll Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070314,DAL,PHX
+Shot Chart Detail,0020600965,101,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,1,55,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070314,DAL,PHX
+Shot Chart Detail,0020600965,127,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,10,43,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070314,DAL,PHX
+Shot Chart Detail,0020600965,311,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,3,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,-210,7,1,1,20070314,DAL,PHX
+Shot Chart Detail,0020600965,410,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,3,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070314,DAL,PHX
+Shot Chart Detail,0020600976,42,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,4,18,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,240,23,1,1,20070316,PHX,DET
+Shot Chart Detail,0020600976,262,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,4,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,121,132,1,1,20070316,PHX,DET
+Shot Chart Detail,0020600976,365,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,4,8,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070316,PHX,DET
+Shot Chart Detail,0020600986,84,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,3,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070317,DEN,PHX
+Shot Chart Detail,0020600986,138,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,11,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-145,204,1,1,20070317,DEN,PHX
+Shot Chart Detail,0020600986,313,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,4,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-15,168,1,1,20070317,DEN,PHX
+Shot Chart Detail,0020600986,315,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,4,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-195,155,1,1,20070317,DEN,PHX
+Shot Chart Detail,0020600986,349,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,1,40,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-8,58,1,1,20070317,DEN,PHX
+Shot Chart Detail,0020600986,400,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,9,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-212,155,1,1,20070317,DEN,PHX
+Shot Chart Detail,0020600986,414,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,7,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070317,DEN,PHX
+Shot Chart Detail,0020600986,421,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,6,58,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070317,DEN,PHX
+Shot Chart Detail,0020600986,440,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,5,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070317,DEN,PHX
+Shot Chart Detail,0020600986,488,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,0,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070317,DEN,PHX
+Shot Chart Detail,0020601005,17,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,9,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,71,242,1,1,20070320,PHX,MIN
+Shot Chart Detail,0020601005,96,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,1,38,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-52,74,1,1,20070320,PHX,MIN
+Shot Chart Detail,0020601005,101,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,0,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-154,141,1,1,20070320,PHX,MIN
+Shot Chart Detail,0020601005,115,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,10,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-171,183,1,1,20070320,PHX,MIN
+Shot Chart Detail,0020601005,185,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,4,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-176,184,1,1,20070320,PHX,MIN
+Shot Chart Detail,0020601005,383,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,7,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-182,13,1,1,20070320,PHX,MIN
+Shot Chart Detail,0020601005,385,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,6,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-171,186,1,1,20070320,PHX,MIN
+Shot Chart Detail,0020601005,388,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,6,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,197,23,1,1,20070320,PHX,MIN
+Shot Chart Detail,0020601019,6,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,10,58,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-94,-21,1,1,20070322,PHX,SAC
+Shot Chart Detail,0020601019,20,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,9,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070322,PHX,SAC
+Shot Chart Detail,0020601019,27,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,8,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070322,PHX,SAC
+Shot Chart Detail,0020601019,37,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,7,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070322,PHX,SAC
+Shot Chart Detail,0020601019,413,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,9,10,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-227,53,1,1,20070322,PHX,SAC
+Shot Chart Detail,0020601019,451,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,5,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070322,PHX,SAC
+Shot Chart Detail,0020601041,81,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,2,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,164,138,1,1,20070325,SAC,PHX
+Shot Chart Detail,0020601041,125,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,9,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,202,22,1,1,20070325,SAC,PHX
+Shot Chart Detail,0020601041,131,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,9,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-89,238,1,1,20070325,SAC,PHX
+Shot Chart Detail,0020601041,133,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,8,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,209,120,1,1,20070325,SAC,PHX
+Shot Chart Detail,0020601041,135,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,7,44,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,51,20,1,1,20070325,SAC,PHX
+Shot Chart Detail,0020601041,146,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,6,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,22,-210,77,1,1,20070325,SAC,PHX
+Shot Chart Detail,0020601041,148,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,5,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-159,194,1,1,20070325,SAC,PHX
+Shot Chart Detail,0020601041,315,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,11,38,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070325,SAC,PHX
+Shot Chart Detail,0020601041,384,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,5,30,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,61,13,1,1,20070325,SAC,PHX
+Shot Chart Detail,0020601041,389,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,4,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,21,204,74,1,1,20070325,SAC,PHX
+Shot Chart Detail,0020601041,426,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,0,14,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,5,49,1,1,20070325,SAC,PHX
+Shot Chart Detail,0020601041,431,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,0,9,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070325,SAC,PHX
+Shot Chart Detail,0020601052,96,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,1,31,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,3,1,1,20070326,PHX,MEM
+Shot Chart Detail,0020601052,149,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,8,34,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,25,1,1,20070326,PHX,MEM
+Shot Chart Detail,0020601052,347,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,9,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,98,95,1,1,20070326,PHX,MEM
+Shot Chart Detail,0020601052,351,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,8,51,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070326,PHX,MEM
+Shot Chart Detail,0020601052,402,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,2,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070326,PHX,MEM
+Shot Chart Detail,0020601071,109,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,0,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,3,1,1,20070329,GSW,PHX
+Shot Chart Detail,0020601071,168,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,5,32,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,8,22,1,1,20070329,GSW,PHX
+Shot Chart Detail,0020601071,198,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,3,26,Made Shot,Driving Finger Roll Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,15,1,1,20070329,GSW,PHX
+Shot Chart Detail,0020601071,228,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,1,3,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,-11,1,1,20070329,GSW,PHX
+Shot Chart Detail,0020601071,350,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,0,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,169,204,1,1,20070329,GSW,PHX
+Shot Chart Detail,0020601071,354,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,0,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,12,1,1,20070329,GSW,PHX
+Shot Chart Detail,0020601071,366,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,11,16,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070329,GSW,PHX
+Shot Chart Detail,0020601071,368,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,10,39,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,-8,1,1,20070329,GSW,PHX
+Shot Chart Detail,0020601071,373,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,9,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,8,1,1,20070329,GSW,PHX
+Shot Chart Detail,0020601071,413,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,5,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-13,17,1,1,20070329,GSW,PHX
+Shot Chart Detail,0020601071,451,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,3,12,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,-1,1,1,20070329,GSW,PHX
+Shot Chart Detail,0020601080,76,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,3,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-174,104,1,1,20070330,PHX,DEN
+Shot Chart Detail,0020601080,197,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,5,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070330,PHX,DEN
+Shot Chart Detail,0020601080,229,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,2,28,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,48,1,1,20070330,PHX,DEN
+Shot Chart Detail,0020601080,232,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,2,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070330,PHX,DEN
+Shot Chart Detail,0020601080,292,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,7,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070330,PHX,DEN
+Shot Chart Detail,0020601080,314,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,5,53,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,-1,1,1,20070330,PHX,DEN
+Shot Chart Detail,0020601080,354,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,1,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,140,133,1,1,20070330,PHX,DEN
+Shot Chart Detail,0020601080,459,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,3,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,13,253,1,1,20070330,PHX,DEN
+Shot Chart Detail,0020601092,13,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,10,6,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-44,79,1,1,20070401,PHX,DAL
+Shot Chart Detail,0020601092,96,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,0,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,22,-189,120,1,1,20070401,PHX,DAL
+Shot Chart Detail,0020601092,180,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,2,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,23,126,204,1,1,20070401,PHX,DAL
+Shot Chart Detail,0020601092,193,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,1,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070401,PHX,DAL
+Shot Chart Detail,0020601092,294,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,4,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,205,130,1,1,20070401,PHX,DAL
+Shot Chart Detail,0020601092,315,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,1,58,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070401,PHX,DAL
+Shot Chart Detail,0020601092,323,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,0,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,92,148,1,1,20070401,PHX,DAL
+Shot Chart Detail,0020601092,366,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,7,29,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-230,71,1,1,20070401,PHX,DAL
+Shot Chart Detail,0020601092,376,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,7,1,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070401,PHX,DAL
+Shot Chart Detail,0020601092,418,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,3,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,44,245,1,1,20070401,PHX,DAL
+Shot Chart Detail,0020601103,7,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,10,38,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,238,22,1,1,20070403,MEM,PHX
+Shot Chart Detail,0020601103,94,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,2,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-158,212,1,1,20070403,MEM,PHX
+Shot Chart Detail,0020601103,145,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,9,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070403,MEM,PHX
+Shot Chart Detail,0020601103,221,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,3,23,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,17,1,1,20070403,MEM,PHX
+Shot Chart Detail,0020601103,233,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,2,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-191,192,1,1,20070403,MEM,PHX
+Shot Chart Detail,0020601103,245,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,1,1,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070403,MEM,PHX
+Shot Chart Detail,0020601103,247,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,0,33,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,238,64,1,1,20070403,MEM,PHX
+Shot Chart Detail,0020601103,357,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,0,7,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070403,MEM,PHX
+Shot Chart Detail,0020601120,16,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,9,52,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-94,-3,1,1,20070405,SAS,PHX
+Shot Chart Detail,0020601120,141,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,9,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,3,-8,1,1,20070405,SAS,PHX
+Shot Chart Detail,0020601120,149,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,8,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,141,135,1,1,20070405,SAS,PHX
+Shot Chart Detail,0020601120,332,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,1,30,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-72,53,1,1,20070405,SAS,PHX
+Shot Chart Detail,0020601120,351,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,0,4,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,0,1,1,20070405,SAS,PHX
+Shot Chart Detail,0020601128,58,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,4,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,36,242,1,1,20070406,NOK,PHX
+Shot Chart Detail,0020601128,85,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,1,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-141,135,1,1,20070406,NOK,PHX
+Shot Chart Detail,0020601128,145,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,8,2,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,26,1,1,20070406,NOK,PHX
+Shot Chart Detail,0020601128,147,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,7,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070406,NOK,PHX
+Shot Chart Detail,0020601128,165,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,5,33,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,13,1,1,20070406,NOK,PHX
+Shot Chart Detail,0020601128,175,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,4,31,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070406,NOK,PHX
+Shot Chart Detail,0020601128,310,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,0,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,149,189,1,1,20070406,NOK,PHX
+Shot Chart Detail,0020601128,359,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,7,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,13,243,1,1,20070406,NOK,PHX
+Shot Chart Detail,0020601128,422,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,0,33,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,12,1,1,20070406,NOK,PHX
+Shot Chart Detail,0020601144,134,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,11,11,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-36,105,1,1,20070408,LAL,PHX
+Shot Chart Detail,0020601144,145,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,9,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,79,181,1,1,20070408,LAL,PHX
+Shot Chart Detail,0020601144,165,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,7,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-164,215,1,1,20070408,LAL,PHX
+Shot Chart Detail,0020601144,179,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,6,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,123,74,1,1,20070408,LAL,PHX
+Shot Chart Detail,0020601144,196,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,5,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070408,LAL,PHX
+Shot Chart Detail,0020601144,217,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,2,38,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070408,LAL,PHX
+Shot Chart Detail,0020601144,372,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,11,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070408,LAL,PHX
+Shot Chart Detail,0020601144,378,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,11,7,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070408,LAL,PHX
+Shot Chart Detail,0020601171,69,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,4,8,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,23,1,1,20070411,PHX,SEA
+Shot Chart Detail,0020601171,74,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,2,52,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-2,95,1,1,20070411,PHX,SEA
+Shot Chart Detail,0020601171,88,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,1,12,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,25,1,1,20070411,PHX,SEA
+Shot Chart Detail,0020601171,104,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,11,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-192,168,1,1,20070411,PHX,SEA
+Shot Chart Detail,0020601171,106,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,11,17,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070411,PHX,SEA
+Shot Chart Detail,0020601171,126,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,9,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-61,248,1,1,20070411,PHX,SEA
+Shot Chart Detail,0020601171,335,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,9,54,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070411,PHX,SEA
+Shot Chart Detail,0020601171,345,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,9,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070411,PHX,SEA
+Shot Chart Detail,0020601185,109,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,0,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,141,196,1,1,20070413,PHX,LAL
+Shot Chart Detail,0020601185,152,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,7,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070413,PHX,LAL
+Shot Chart Detail,0020601185,277,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,6,22,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,236,0,1,1,20070413,PHX,LAL
+Shot Chart Detail,0020601192,118,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,11,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,179,-31,1,1,20070414,UTA,PHX
+Shot Chart Detail,0020601192,155,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,7,11,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-228,48,1,1,20070414,UTA,PHX
+Shot Chart Detail,0020601192,158,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,6,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070414,UTA,PHX
+Shot Chart Detail,0020601192,186,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,4,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070414,UTA,PHX
+Shot Chart Detail,0020601192,199,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,3,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070414,UTA,PHX
+Shot Chart Detail,0020601192,207,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,3,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070414,UTA,PHX
+Shot Chart Detail,0020601192,332,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,2,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070414,UTA,PHX
+Shot Chart Detail,0020601192,428,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,5,39,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,0,1,1,20070414,UTA,PHX
+Shot Chart Detail,0020601192,430,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,5,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070414,UTA,PHX
+Shot Chart Detail,0020601207,96,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,1,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-61,156,1,1,20070416,HOU,PHX
+Shot Chart Detail,0020601207,289,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,5,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-99,146,1,1,20070416,HOU,PHX
+Shot Chart Detail,0020601207,387,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,7,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,166,153,1,1,20070416,HOU,PHX
+Shot Chart Detail,0020601207,436,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,2,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070416,HOU,PHX
+Shot Chart Detail,0020601207,447,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,1,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,177,176,1,1,20070416,HOU,PHX
+Shot Chart Detail,0020601215,91,2571,Leandro Barbosa,1610612756,Phoenix Suns,1,2,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,153,201,1,1,20070417,PHX,LAC
+Shot Chart Detail,0020601215,142,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,8,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070417,PHX,LAC
+Shot Chart Detail,0020601215,161,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,6,54,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070417,PHX,LAC
+Shot Chart Detail,0020601215,227,2571,Leandro Barbosa,1610612756,Phoenix Suns,2,0,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-214,135,1,1,20070417,PHX,LAC
+Shot Chart Detail,0020601215,344,2571,Leandro Barbosa,1610612756,Phoenix Suns,3,0,3,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,47,94,1,1,20070417,PHX,LAC
+Shot Chart Detail,0020601215,385,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,8,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,138,217,1,1,20070417,PHX,LAC
+Shot Chart Detail,0020601215,418,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,5,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070417,PHX,LAC
+Shot Chart Detail,0020601215,457,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,0,53,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-80,69,1,1,20070417,PHX,LAC
+Shot Chart Detail,0020601215,465,2571,Leandro Barbosa,1610612756,Phoenix Suns,4,0,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-115,237,1,1,20070417,PHX,LAC

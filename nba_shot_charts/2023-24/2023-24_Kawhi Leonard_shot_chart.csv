@@ -1,0 +1,611 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0022300014,9,202695,Kawhi Leonard,1610612746,LA Clippers,1,11,23,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,4,67,1,1,20231110,DAL,LAC
+Shot Chart Detail,0022300014,21,202695,Kawhi Leonard,1610612746,LA Clippers,1,10,22,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-92,17,1,1,20231110,DAL,LAC
+Shot Chart Detail,0022300014,51,202695,Kawhi Leonard,1610612746,LA Clippers,1,8,23,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,66,55,1,1,20231110,DAL,LAC
+Shot Chart Detail,0022300014,79,202695,Kawhi Leonard,1610612746,LA Clippers,1,5,24,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,59,113,1,1,20231110,DAL,LAC
+Shot Chart Detail,0022300014,84,202695,Kawhi Leonard,1610612746,LA Clippers,1,4,52,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,7,1,1,20231110,DAL,LAC
+Shot Chart Detail,0022300014,360,202695,Kawhi Leonard,1610612746,LA Clippers,3,11,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-158,198,1,1,20231110,DAL,LAC
+Shot Chart Detail,0022300014,454,202695,Kawhi Leonard,1610612746,LA Clippers,3,5,20,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,40,104,1,1,20231110,DAL,LAC
+Shot Chart Detail,0022300014,500,202695,Kawhi Leonard,1610612746,LA Clippers,3,0,55,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,59,101,1,1,20231110,DAL,LAC
+Shot Chart Detail,0022300024,69,202695,Kawhi Leonard,1610612746,LA Clippers,1,6,31,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,5,21,1,1,20231114,DEN,LAC
+Shot Chart Detail,0022300024,217,202695,Kawhi Leonard,1610612746,LA Clippers,2,6,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,207,143,1,1,20231114,DEN,LAC
+Shot Chart Detail,0022300024,295,202695,Kawhi Leonard,1610612746,LA Clippers,2,0,57,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-224,1,1,1,20231114,DEN,LAC
+Shot Chart Detail,0022300024,426,202695,Kawhi Leonard,1610612746,LA Clippers,3,2,54,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,20,96,1,1,20231114,DEN,LAC
+Shot Chart Detail,0022300024,536,202695,Kawhi Leonard,1610612746,LA Clippers,4,6,1,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,45,113,1,1,20231114,DEN,LAC
+Shot Chart Detail,0022300037,86,202695,Kawhi Leonard,1610612746,LA Clippers,1,4,27,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,64,252,1,1,20231117,LAC,HOU
+Shot Chart Detail,0022300037,233,202695,Kawhi Leonard,1610612746,LA Clippers,2,6,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-93,244,1,1,20231117,LAC,HOU
+Shot Chart Detail,0022300037,277,202695,Kawhi Leonard,1610612746,LA Clippers,2,3,45,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,34,73,1,1,20231117,LAC,HOU
+Shot Chart Detail,0022300037,366,202695,Kawhi Leonard,1610612746,LA Clippers,3,11,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,99,256,1,1,20231117,LAC,HOU
+Shot Chart Detail,0022300037,377,202695,Kawhi Leonard,1610612746,LA Clippers,3,10,17,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,85,78,1,1,20231117,LAC,HOU
+Shot Chart Detail,0022300037,385,202695,Kawhi Leonard,1610612746,LA Clippers,3,9,10,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,-1,1,1,20231117,LAC,HOU
+Shot Chart Detail,0022300037,574,202695,Kawhi Leonard,1610612746,LA Clippers,4,8,37,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,81,130,1,1,20231117,LAC,HOU
+Shot Chart Detail,0022300037,593,202695,Kawhi Leonard,1610612746,LA Clippers,4,7,20,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-80,68,1,1,20231117,LAC,HOU
+Shot Chart Detail,0022300052,25,202695,Kawhi Leonard,1610612746,LA Clippers,1,9,28,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,59,95,1,1,20231124,LAC,NOP
+Shot Chart Detail,0022300052,33,202695,Kawhi Leonard,1610612746,LA Clippers,1,8,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-2,154,1,1,20231124,LAC,NOP
+Shot Chart Detail,0022300052,286,202695,Kawhi Leonard,1610612746,LA Clippers,2,3,5,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-20,144,1,1,20231124,LAC,NOP
+Shot Chart Detail,0022300052,288,202695,Kawhi Leonard,1610612746,LA Clippers,2,2,37,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,76,244,1,1,20231124,LAC,NOP
+Shot Chart Detail,0022300052,305,202695,Kawhi Leonard,1610612746,LA Clippers,2,0,48,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-4,38,1,1,20231124,LAC,NOP
+Shot Chart Detail,0022300052,387,202695,Kawhi Leonard,1610612746,LA Clippers,3,7,24,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,-11,1,1,20231124,LAC,NOP
+Shot Chart Detail,0022300052,429,202695,Kawhi Leonard,1610612746,LA Clippers,3,4,7,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,16,1,1,20231124,LAC,NOP
+Shot Chart Detail,0022300052,670,202695,Kawhi Leonard,1610612746,LA Clippers,4,1,56,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-6,98,1,1,20231124,LAC,NOP
+Shot Chart Detail,0022300074,17,202695,Kawhi Leonard,1610612746,LA Clippers,1,10,56,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-6,16,1,1,20231025,LAC,POR
+Shot Chart Detail,0022300074,59,202695,Kawhi Leonard,1610612746,LA Clippers,1,8,0,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-238,13,1,1,20231025,LAC,POR
+Shot Chart Detail,0022300074,302,202695,Kawhi Leonard,1610612746,LA Clippers,2,2,45,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,173,184,1,1,20231025,LAC,POR
+Shot Chart Detail,0022300074,375,202695,Kawhi Leonard,1610612746,LA Clippers,3,10,22,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2,26,1,1,20231025,LAC,POR
+Shot Chart Detail,0022300074,381,202695,Kawhi Leonard,1610612746,LA Clippers,3,9,47,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,38,256,1,1,20231025,LAC,POR
+Shot Chart Detail,0022300074,425,202695,Kawhi Leonard,1610612746,LA Clippers,3,6,11,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-2,36,1,1,20231025,LAC,POR
+Shot Chart Detail,0022300074,437,202695,Kawhi Leonard,1610612746,LA Clippers,3,5,39,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,129,226,1,1,20231025,LAC,POR
+Shot Chart Detail,0022300074,459,202695,Kawhi Leonard,1610612746,LA Clippers,3,3,56,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,91,243,1,1,20231025,LAC,POR
+Shot Chart Detail,0022300074,590,202695,Kawhi Leonard,1610612746,LA Clippers,4,7,11,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-156,24,1,1,20231025,LAC,POR
+Shot Chart Detail,0022300085,40,202695,Kawhi Leonard,1610612746,LA Clippers,1,8,44,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,33,12,1,1,20231027,UTA,LAC
+Shot Chart Detail,0022300085,51,202695,Kawhi Leonard,1610612746,LA Clippers,1,7,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,99,237,1,1,20231027,UTA,LAC
+Shot Chart Detail,0022300085,210,202695,Kawhi Leonard,1610612746,LA Clippers,2,7,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,29,258,1,1,20231027,UTA,LAC
+Shot Chart Detail,0022300085,278,202695,Kawhi Leonard,1610612746,LA Clippers,2,3,20,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,26,148,1,1,20231027,UTA,LAC
+Shot Chart Detail,0022300085,302,202695,Kawhi Leonard,1610612746,LA Clippers,2,1,39,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20231027,UTA,LAC
+Shot Chart Detail,0022300085,330,202695,Kawhi Leonard,1610612746,LA Clippers,3,11,43,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,62,17,1,1,20231027,UTA,LAC
+Shot Chart Detail,0022300085,342,202695,Kawhi Leonard,1610612746,LA Clippers,3,10,15,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-4,30,1,1,20231027,UTA,LAC
+Shot Chart Detail,0022300085,540,202695,Kawhi Leonard,1610612746,LA Clippers,4,8,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-138,225,1,1,20231027,UTA,LAC
+Shot Chart Detail,0022300085,603,202695,Kawhi Leonard,1610612746,LA Clippers,4,4,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,134,239,1,1,20231027,UTA,LAC
+Shot Chart Detail,0022300085,627,202695,Kawhi Leonard,1610612746,LA Clippers,4,2,18,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20231027,UTA,LAC
+Shot Chart Detail,0022300099,56,202695,Kawhi Leonard,1610612746,LA Clippers,1,8,16,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,20,1,1,20231029,LAC,SAS
+Shot Chart Detail,0022300099,76,202695,Kawhi Leonard,1610612746,LA Clippers,1,6,26,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-1,57,1,1,20231029,LAC,SAS
+Shot Chart Detail,0022300099,259,202695,Kawhi Leonard,1610612746,LA Clippers,2,6,45,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,18,75,1,1,20231029,LAC,SAS
+Shot Chart Detail,0022300099,287,202695,Kawhi Leonard,1610612746,LA Clippers,2,4,27,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-5,67,1,1,20231029,LAC,SAS
+Shot Chart Detail,0022300099,302,202695,Kawhi Leonard,1610612746,LA Clippers,2,3,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,31,156,274,1,1,20231029,LAC,SAS
+Shot Chart Detail,0022300099,362,202695,Kawhi Leonard,1610612746,LA Clippers,3,10,59,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,26,1,1,20231029,LAC,SAS
+Shot Chart Detail,0022300114,432,202695,Kawhi Leonard,1610612746,LA Clippers,3,4,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-18,157,1,1,20231031,LAC,ORL
+Shot Chart Detail,0022300114,543,202695,Kawhi Leonard,1610612746,LA Clippers,4,9,54,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,60,92,1,1,20231031,LAC,ORL
+Shot Chart Detail,0022300114,585,202695,Kawhi Leonard,1610612746,LA Clippers,4,7,1,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,28,33,1,1,20231031,LAC,ORL
+Shot Chart Detail,0022300127,18,202695,Kawhi Leonard,1610612746,LA Clippers,1,10,43,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-54,137,1,1,20231101,LAL,LAC
+Shot Chart Detail,0022300127,25,202695,Kawhi Leonard,1610612746,LA Clippers,1,9,52,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,45,125,1,1,20231101,LAL,LAC
+Shot Chart Detail,0022300127,35,202695,Kawhi Leonard,1610612746,LA Clippers,1,8,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,186,161,1,1,20231101,LAL,LAC
+Shot Chart Detail,0022300127,46,202695,Kawhi Leonard,1610612746,LA Clippers,1,7,32,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-142,234,1,1,20231101,LAL,LAC
+Shot Chart Detail,0022300127,50,202695,Kawhi Leonard,1610612746,LA Clippers,1,7,3,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,77,247,1,1,20231101,LAL,LAC
+Shot Chart Detail,0022300127,109,202695,Kawhi Leonard,1610612746,LA Clippers,1,2,54,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,11,21,1,1,20231101,LAL,LAC
+Shot Chart Detail,0022300127,119,202695,Kawhi Leonard,1610612746,LA Clippers,1,2,22,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,239,63,1,1,20231101,LAL,LAC
+Shot Chart Detail,0022300127,314,202695,Kawhi Leonard,1610612746,LA Clippers,2,0,13,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,62,145,1,1,20231101,LAL,LAC
+Shot Chart Detail,0022300127,354,202695,Kawhi Leonard,1610612746,LA Clippers,3,9,1,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,1,32,1,1,20231101,LAL,LAC
+Shot Chart Detail,0022300127,374,202695,Kawhi Leonard,1610612746,LA Clippers,3,7,48,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,97,2,1,1,20231101,LAL,LAC
+Shot Chart Detail,0022300127,465,202695,Kawhi Leonard,1610612746,LA Clippers,3,2,44,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,29,113,1,1,20231101,LAL,LAC
+Shot Chart Detail,0022300127,573,202695,Kawhi Leonard,1610612746,LA Clippers,4,7,14,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,27,58,1,1,20231101,LAL,LAC
+Shot Chart Detail,0022300127,693,202695,Kawhi Leonard,1610612746,LA Clippers,5,4,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-12,151,1,1,20231101,LAL,LAC
+Shot Chart Detail,0022300127,728,202695,Kawhi Leonard,1610612746,LA Clippers,5,1,48,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-17,62,1,1,20231101,LAL,LAC
+Shot Chart Detail,0022300127,741,202695,Kawhi Leonard,1610612746,LA Clippers,5,0,59,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-134,225,1,1,20231101,LAL,LAC
+Shot Chart Detail,0022300151,53,202695,Kawhi Leonard,1610612746,LA Clippers,1,6,18,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,0,92,1,1,20231106,NYK,LAC
+Shot Chart Detail,0022300151,84,202695,Kawhi Leonard,1610612746,LA Clippers,1,3,9,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,-5,1,1,20231106,NYK,LAC
+Shot Chart Detail,0022300151,291,202695,Kawhi Leonard,1610612746,LA Clippers,3,11,49,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,8,1,1,20231106,NYK,LAC
+Shot Chart Detail,0022300151,329,202695,Kawhi Leonard,1610612746,LA Clippers,3,8,5,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,238,51,1,1,20231106,NYK,LAC
+Shot Chart Detail,0022300151,333,202695,Kawhi Leonard,1610612746,LA Clippers,3,7,38,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,3,1,1,20231106,NYK,LAC
+Shot Chart Detail,0022300151,346,202695,Kawhi Leonard,1610612746,LA Clippers,3,6,28,Made Shot,Turnaround Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-59,38,1,1,20231106,NYK,LAC
+Shot Chart Detail,0022300151,374,202695,Kawhi Leonard,1610612746,LA Clippers,3,4,20,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,5,1,1,20231106,NYK,LAC
+Shot Chart Detail,0022300151,539,202695,Kawhi Leonard,1610612746,LA Clippers,4,5,59,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,240,-11,1,1,20231106,NYK,LAC
+Shot Chart Detail,0022300160,76,202695,Kawhi Leonard,1610612746,LA Clippers,1,5,24,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,150,44,1,1,20231108,BKN,LAC
+Shot Chart Detail,0022300160,262,202695,Kawhi Leonard,1610612746,LA Clippers,2,5,3,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,18,1,1,20231108,BKN,LAC
+Shot Chart Detail,0022300160,379,202695,Kawhi Leonard,1610612746,LA Clippers,3,8,2,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-45,130,1,1,20231108,BKN,LAC
+Shot Chart Detail,0022300160,397,202695,Kawhi Leonard,1610612746,LA Clippers,3,5,44,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,107,106,1,1,20231108,BKN,LAC
+Shot Chart Detail,0022300160,402,202695,Kawhi Leonard,1610612746,LA Clippers,3,4,58,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-82,234,1,1,20231108,BKN,LAC
+Shot Chart Detail,0022300160,430,202695,Kawhi Leonard,1610612746,LA Clippers,3,2,59,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,-8,1,1,20231108,BKN,LAC
+Shot Chart Detail,0022300160,613,202695,Kawhi Leonard,1610612746,LA Clippers,4,1,55,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-39,63,1,1,20231108,BKN,LAC
+Shot Chart Detail,0022300179,36,202695,Kawhi Leonard,1610612746,LA Clippers,1,8,43,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,71,85,1,1,20231112,LAC,MEM
+Shot Chart Detail,0022300179,70,202695,Kawhi Leonard,1610612746,LA Clippers,1,6,4,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-59,106,1,1,20231112,LAC,MEM
+Shot Chart Detail,0022300179,78,202695,Kawhi Leonard,1610612746,LA Clippers,1,5,31,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,11,-80,88,1,1,20231112,LAC,MEM
+Shot Chart Detail,0022300179,410,202695,Kawhi Leonard,1610612746,LA Clippers,3,8,48,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,4,1,1,20231112,LAC,MEM
+Shot Chart Detail,0022300179,467,202695,Kawhi Leonard,1610612746,LA Clippers,3,5,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,118,158,1,1,20231112,LAC,MEM
+Shot Chart Detail,0022300179,532,202695,Kawhi Leonard,1610612746,LA Clippers,3,0,28,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,8,1,1,20231112,LAC,MEM
+Shot Chart Detail,0022300223,55,202695,Kawhi Leonard,1610612746,LA Clippers,1,6,51,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,16,1,1,20231120,SAS,LAC
+Shot Chart Detail,0022300223,101,202695,Kawhi Leonard,1610612746,LA Clippers,1,3,21,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-26,130,1,1,20231120,SAS,LAC
+Shot Chart Detail,0022300223,124,202695,Kawhi Leonard,1610612746,LA Clippers,1,1,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-143,235,1,1,20231120,SAS,LAC
+Shot Chart Detail,0022300223,286,202695,Kawhi Leonard,1610612746,LA Clippers,2,2,17,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,23,1,1,20231120,SAS,LAC
+Shot Chart Detail,0022300223,302,202695,Kawhi Leonard,1610612746,LA Clippers,2,0,26,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,9,23,1,1,20231120,SAS,LAC
+Shot Chart Detail,0022300223,316,202695,Kawhi Leonard,1610612746,LA Clippers,3,11,5,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,127,26,1,1,20231120,SAS,LAC
+Shot Chart Detail,0022300223,381,202695,Kawhi Leonard,1610612746,LA Clippers,3,5,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,4,21,1,1,20231120,SAS,LAC
+Shot Chart Detail,0022300223,396,202695,Kawhi Leonard,1610612746,LA Clippers,3,4,56,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,16,52,1,1,20231120,SAS,LAC
+Shot Chart Detail,0022300235,46,202695,Kawhi Leonard,1610612746,LA Clippers,1,7,36,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,4,1,1,20231122,SAS,LAC
+Shot Chart Detail,0022300235,57,202695,Kawhi Leonard,1610612746,LA Clippers,1,6,30,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,165,190,1,1,20231122,SAS,LAC
+Shot Chart Detail,0022300235,133,202695,Kawhi Leonard,1610612746,LA Clippers,1,1,31,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,15,78,137,1,1,20231122,SAS,LAC
+Shot Chart Detail,0022300235,369,202695,Kawhi Leonard,1610612746,LA Clippers,3,11,2,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,8,1,1,20231122,SAS,LAC
+Shot Chart Detail,0022300235,373,202695,Kawhi Leonard,1610612746,LA Clippers,3,10,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-94,247,1,1,20231122,SAS,LAC
+Shot Chart Detail,0022300235,377,202695,Kawhi Leonard,1610612746,LA Clippers,3,9,38,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,0,105,1,1,20231122,SAS,LAC
+Shot Chart Detail,0022300235,421,202695,Kawhi Leonard,1610612746,LA Clippers,3,6,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,153,93,1,1,20231122,SAS,LAC
+Shot Chart Detail,0022300235,430,202695,Kawhi Leonard,1610612746,LA Clippers,3,5,52,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,13,1,1,20231122,SAS,LAC
+Shot Chart Detail,0022300235,441,202695,Kawhi Leonard,1610612746,LA Clippers,3,5,26,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,6,1,1,20231122,SAS,LAC
+Shot Chart Detail,0022300235,643,202695,Kawhi Leonard,1610612746,LA Clippers,4,2,32,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,96,22,1,1,20231122,SAS,LAC
+Shot Chart Detail,0022300244,471,202695,Kawhi Leonard,1610612746,LA Clippers,3,2,53,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,107,-1,1,1,20231125,LAC,DAL
+Shot Chart Detail,0022300244,561,202695,Kawhi Leonard,1610612746,LA Clippers,4,8,1,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,120,26,1,1,20231125,LAC,DAL
+Shot Chart Detail,0022300257,48,202695,Kawhi Leonard,1610612746,LA Clippers,1,8,39,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,123,125,1,1,20231127,LAC,DEN
+Shot Chart Detail,0022300257,79,202695,Kawhi Leonard,1610612746,LA Clippers,1,6,9,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,33,87,1,1,20231127,LAC,DEN
+Shot Chart Detail,0022300257,99,202695,Kawhi Leonard,1610612746,LA Clippers,1,4,47,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,9,1,1,20231127,LAC,DEN
+Shot Chart Detail,0022300257,115,202695,Kawhi Leonard,1610612746,LA Clippers,1,2,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,224,145,1,1,20231127,LAC,DEN
+Shot Chart Detail,0022300257,272,202695,Kawhi Leonard,1610612746,LA Clippers,2,4,39,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,61,1,1,20231127,LAC,DEN
+Shot Chart Detail,0022300257,292,202695,Kawhi Leonard,1610612746,LA Clippers,2,2,40,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-136,-8,1,1,20231127,LAC,DEN
+Shot Chart Detail,0022300257,365,202695,Kawhi Leonard,1610612746,LA Clippers,3,11,12,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,6,25,1,1,20231127,LAC,DEN
+Shot Chart Detail,0022300257,378,202695,Kawhi Leonard,1610612746,LA Clippers,3,10,18,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,47,158,1,1,20231127,LAC,DEN
+Shot Chart Detail,0022300257,614,202695,Kawhi Leonard,1610612746,LA Clippers,4,6,31,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,99,30,1,1,20231127,LAC,DEN
+Shot Chart Detail,0022300257,695,202695,Kawhi Leonard,1610612746,LA Clippers,4,1,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,11,34,1,1,20231127,LAC,DEN
+Shot Chart Detail,0022300264,101,202695,Kawhi Leonard,1610612746,LA Clippers,1,3,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,22,-1,1,1,20231129,SAC,LAC
+Shot Chart Detail,0022300264,256,202695,Kawhi Leonard,1610612746,LA Clippers,2,7,39,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,11,1,1,20231129,SAC,LAC
+Shot Chart Detail,0022300264,288,202695,Kawhi Leonard,1610612746,LA Clippers,2,6,19,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,2,24,1,1,20231129,SAC,LAC
+Shot Chart Detail,0022300264,305,202695,Kawhi Leonard,1610612746,LA Clippers,2,4,26,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-25,109,1,1,20231129,SAC,LAC
+Shot Chart Detail,0022300264,338,202695,Kawhi Leonard,1610612746,LA Clippers,2,1,50,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,140,199,1,1,20231129,SAC,LAC
+Shot Chart Detail,0022300264,351,202695,Kawhi Leonard,1610612746,LA Clippers,2,0,0,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-195,-5,1,1,20231129,SAC,LAC
+Shot Chart Detail,0022300264,381,202695,Kawhi Leonard,1610612746,LA Clippers,3,9,26,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-16,17,1,1,20231129,SAC,LAC
+Shot Chart Detail,0022300264,417,202695,Kawhi Leonard,1610612746,LA Clippers,3,5,37,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,27,118,1,1,20231129,SAC,LAC
+Shot Chart Detail,0022300264,430,202695,Kawhi Leonard,1610612746,LA Clippers,3,4,40,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,6,1,1,20231129,SAC,LAC
+Shot Chart Detail,0022300264,470,202695,Kawhi Leonard,1610612746,LA Clippers,3,1,32,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-5,23,1,1,20231129,SAC,LAC
+Shot Chart Detail,0022300264,483,202695,Kawhi Leonard,1610612746,LA Clippers,3,0,38,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,15,1,1,20231129,SAC,LAC
+Shot Chart Detail,0022300264,594,202695,Kawhi Leonard,1610612746,LA Clippers,4,6,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-45,254,1,1,20231129,SAC,LAC
+Shot Chart Detail,0022300264,621,202695,Kawhi Leonard,1610612746,LA Clippers,4,4,4,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-64,117,1,1,20231129,SAC,LAC
+Shot Chart Detail,0022300264,627,202695,Kawhi Leonard,1610612746,LA Clippers,4,3,26,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-127,8,1,1,20231129,SAC,LAC
+Shot Chart Detail,0022300273,22,202695,Kawhi Leonard,1610612746,LA Clippers,1,9,47,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,50,125,1,1,20231130,GSW,LAC
+Shot Chart Detail,0022300273,81,202695,Kawhi Leonard,1610612746,LA Clippers,1,4,33,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,11,-74,94,1,1,20231130,GSW,LAC
+Shot Chart Detail,0022300273,101,202695,Kawhi Leonard,1610612746,LA Clippers,1,3,23,Made Shot,Running Alley Oop Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-26,78,1,1,20231130,GSW,LAC
+Shot Chart Detail,0022300273,249,202695,Kawhi Leonard,1610612746,LA Clippers,2,6,6,Made Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-11,125,1,1,20231130,GSW,LAC
+Shot Chart Detail,0022300273,296,202695,Kawhi Leonard,1610612746,LA Clippers,2,2,55,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,153,221,1,1,20231130,GSW,LAC
+Shot Chart Detail,0022300273,356,202695,Kawhi Leonard,1610612746,LA Clippers,3,9,40,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,0,94,1,1,20231130,GSW,LAC
+Shot Chart Detail,0022300273,412,202695,Kawhi Leonard,1610612746,LA Clippers,3,4,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,82,263,1,1,20231130,GSW,LAC
+Shot Chart Detail,0022300273,436,202695,Kawhi Leonard,1610612746,LA Clippers,3,2,55,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,45,55,1,1,20231130,GSW,LAC
+Shot Chart Detail,0022300273,631,202695,Kawhi Leonard,1610612746,LA Clippers,4,1,29,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,21,55,1,1,20231130,GSW,LAC
+Shot Chart Detail,0022300280,51,202695,Kawhi Leonard,1610612746,LA Clippers,1,7,19,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,56,110,1,1,20231202,LAC,GSW
+Shot Chart Detail,0022300280,119,202695,Kawhi Leonard,1610612746,LA Clippers,1,1,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-194,173,1,1,20231202,LAC,GSW
+Shot Chart Detail,0022300280,241,202695,Kawhi Leonard,1610612746,LA Clippers,2,5,13,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,53,152,1,1,20231202,LAC,GSW
+Shot Chart Detail,0022300280,257,202695,Kawhi Leonard,1610612746,LA Clippers,2,4,4,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-5,79,1,1,20231202,LAC,GSW
+Shot Chart Detail,0022300280,423,202695,Kawhi Leonard,1610612746,LA Clippers,3,4,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,190,164,1,1,20231202,LAC,GSW
+Shot Chart Detail,0022300280,576,202695,Kawhi Leonard,1610612746,LA Clippers,4,5,1,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,-4,1,1,20231202,LAC,GSW
+Shot Chart Detail,0022300280,600,202695,Kawhi Leonard,1610612746,LA Clippers,4,2,39,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,151,29,1,1,20231202,LAC,GSW
+Shot Chart Detail,0022300280,607,202695,Kawhi Leonard,1610612746,LA Clippers,4,2,4,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,107,72,1,1,20231202,LAC,GSW
+Shot Chart Detail,0022300280,646,202695,Kawhi Leonard,1610612746,LA Clippers,4,0,35,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,-5,1,1,20231202,LAC,GSW
+Shot Chart Detail,0022300304,7,202695,Kawhi Leonard,1610612746,LA Clippers,1,11,40,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,44,134,1,1,20231211,LAC,POR
+Shot Chart Detail,0022300304,43,202695,Kawhi Leonard,1610612746,LA Clippers,1,7,12,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-7,21,1,1,20231211,LAC,POR
+Shot Chart Detail,0022300304,106,202695,Kawhi Leonard,1610612746,LA Clippers,1,2,49,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,151,-17,1,1,20231211,LAC,POR
+Shot Chart Detail,0022300304,129,202695,Kawhi Leonard,1610612746,LA Clippers,1,0,57,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-53,104,1,1,20231211,LAC,POR
+Shot Chart Detail,0022300304,341,202695,Kawhi Leonard,1610612746,LA Clippers,3,9,12,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,43,78,1,1,20231211,LAC,POR
+Shot Chart Detail,0022300304,367,202695,Kawhi Leonard,1610612746,LA Clippers,3,6,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,219,118,1,1,20231211,LAC,POR
+Shot Chart Detail,0022300304,379,202695,Kawhi Leonard,1610612746,LA Clippers,3,4,58,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,227,118,1,1,20231211,LAC,POR
+Shot Chart Detail,0022300304,383,202695,Kawhi Leonard,1610612746,LA Clippers,3,4,37,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2,26,1,1,20231211,LAC,POR
+Shot Chart Detail,0022300304,452,202695,Kawhi Leonard,1610612746,LA Clippers,3,0,1,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,62,268,1,1,20231211,LAC,POR
+Shot Chart Detail,0022300304,535,202695,Kawhi Leonard,1610612746,LA Clippers,4,6,30,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,26,127,1,1,20231211,LAC,POR
+Shot Chart Detail,0022300304,546,202695,Kawhi Leonard,1610612746,LA Clippers,4,5,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-1,39,1,1,20231211,LAC,POR
+Shot Chart Detail,0022300309,66,202695,Kawhi Leonard,1610612746,LA Clippers,1,6,3,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-15,22,1,1,20231212,LAC,SAC
+Shot Chart Detail,0022300309,100,202695,Kawhi Leonard,1610612746,LA Clippers,1,3,52,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,55,131,1,1,20231212,LAC,SAC
+Shot Chart Detail,0022300309,131,202695,Kawhi Leonard,1610612746,LA Clippers,1,1,44,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,29,20,290,1,1,20231212,LAC,SAC
+Shot Chart Detail,0022300309,232,202695,Kawhi Leonard,1610612746,LA Clippers,2,6,55,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-2,30,1,1,20231212,LAC,SAC
+Shot Chart Detail,0022300309,238,202695,Kawhi Leonard,1610612746,LA Clippers,2,6,22,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-45,120,1,1,20231212,LAC,SAC
+Shot Chart Detail,0022300309,279,202695,Kawhi Leonard,1610612746,LA Clippers,2,3,36,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,15,206,1,1,20231212,LAC,SAC
+Shot Chart Detail,0022300309,285,202695,Kawhi Leonard,1610612746,LA Clippers,2,2,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,189,45,1,1,20231212,LAC,SAC
+Shot Chart Detail,0022300309,337,202695,Kawhi Leonard,1610612746,LA Clippers,3,10,38,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,10,42,1,1,20231212,LAC,SAC
+Shot Chart Detail,0022300309,400,202695,Kawhi Leonard,1610612746,LA Clippers,3,6,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-5,25,1,1,20231212,LAC,SAC
+Shot Chart Detail,0022300309,409,202695,Kawhi Leonard,1610612746,LA Clippers,3,5,55,Made Shot,Turnaround Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,17,25,1,1,20231212,LAC,SAC
+Shot Chart Detail,0022300309,472,202695,Kawhi Leonard,1610612746,LA Clippers,3,1,43,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-233,69,1,1,20231212,LAC,SAC
+Shot Chart Detail,0022300325,67,202695,Kawhi Leonard,1610612746,LA Clippers,1,7,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,72,244,1,1,20231214,LAC,GSW
+Shot Chart Detail,0022300325,84,202695,Kawhi Leonard,1610612746,LA Clippers,1,5,38,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,156,133,1,1,20231214,LAC,GSW
+Shot Chart Detail,0022300325,118,202695,Kawhi Leonard,1610612746,LA Clippers,1,4,33,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,13,1,1,20231214,LAC,GSW
+Shot Chart Detail,0022300325,266,202695,Kawhi Leonard,1610612746,LA Clippers,2,6,5,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,83,62,1,1,20231214,LAC,GSW
+Shot Chart Detail,0022300325,275,202695,Kawhi Leonard,1610612746,LA Clippers,2,5,25,Made Shot,Running Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,13,1,1,20231214,LAC,GSW
+Shot Chart Detail,0022300325,289,202695,Kawhi Leonard,1610612746,LA Clippers,2,4,36,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-2,64,1,1,20231214,LAC,GSW
+Shot Chart Detail,0022300325,404,202695,Kawhi Leonard,1610612746,LA Clippers,3,7,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,194,176,1,1,20231214,LAC,GSW
+Shot Chart Detail,0022300325,429,202695,Kawhi Leonard,1610612746,LA Clippers,3,5,7,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-5,20,1,1,20231214,LAC,GSW
+Shot Chart Detail,0022300325,484,202695,Kawhi Leonard,1610612746,LA Clippers,3,1,11,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-136,9,1,1,20231214,LAC,GSW
+Shot Chart Detail,0022300343,7,202695,Kawhi Leonard,1610612746,LA Clippers,1,11,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,11,169,1,1,20231216,LAC,NYK
+Shot Chart Detail,0022300343,64,202695,Kawhi Leonard,1610612746,LA Clippers,1,7,28,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,55,1,1,20231216,LAC,NYK
+Shot Chart Detail,0022300343,133,202695,Kawhi Leonard,1610612746,LA Clippers,1,2,9,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,92,235,1,1,20231216,LAC,NYK
+Shot Chart Detail,0022300343,147,202695,Kawhi Leonard,1610612746,LA Clippers,1,1,13,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,6,1,1,20231216,LAC,NYK
+Shot Chart Detail,0022300343,286,202695,Kawhi Leonard,1610612746,LA Clippers,2,5,32,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,22,72,1,1,20231216,LAC,NYK
+Shot Chart Detail,0022300343,356,202695,Kawhi Leonard,1610612746,LA Clippers,2,0,16,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,44,90,1,1,20231216,LAC,NYK
+Shot Chart Detail,0022300343,385,202695,Kawhi Leonard,1610612746,LA Clippers,3,10,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,65,251,1,1,20231216,LAC,NYK
+Shot Chart Detail,0022300343,398,202695,Kawhi Leonard,1610612746,LA Clippers,3,9,12,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,25,16,1,1,20231216,LAC,NYK
+Shot Chart Detail,0022300343,408,202695,Kawhi Leonard,1610612746,LA Clippers,3,8,17,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-4,115,1,1,20231216,LAC,NYK
+Shot Chart Detail,0022300343,446,202695,Kawhi Leonard,1610612746,LA Clippers,3,4,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-227,128,1,1,20231216,LAC,NYK
+Shot Chart Detail,0022300343,458,202695,Kawhi Leonard,1610612746,LA Clippers,3,3,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-188,172,1,1,20231216,LAC,NYK
+Shot Chart Detail,0022300343,496,202695,Kawhi Leonard,1610612746,LA Clippers,3,1,16,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,114,7,1,1,20231216,LAC,NYK
+Shot Chart Detail,0022300350,41,202695,Kawhi Leonard,1610612746,LA Clippers,1,8,55,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-11,94,1,1,20231218,IND,LAC
+Shot Chart Detail,0022300350,44,202695,Kawhi Leonard,1610612746,LA Clippers,1,8,21,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,42,120,1,1,20231218,IND,LAC
+Shot Chart Detail,0022300350,66,202695,Kawhi Leonard,1610612746,LA Clippers,1,6,46,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-40,115,1,1,20231218,IND,LAC
+Shot Chart Detail,0022300350,83,202695,Kawhi Leonard,1610612746,LA Clippers,1,5,17,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,2,95,1,1,20231218,IND,LAC
+Shot Chart Detail,0022300350,96,202695,Kawhi Leonard,1610612746,LA Clippers,1,4,23,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,44,28,1,1,20231218,IND,LAC
+Shot Chart Detail,0022300350,239,202695,Kawhi Leonard,1610612746,LA Clippers,2,7,12,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-37,81,1,1,20231218,IND,LAC
+Shot Chart Detail,0022300350,263,202695,Kawhi Leonard,1610612746,LA Clippers,2,6,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,137,131,1,1,20231218,IND,LAC
+Shot Chart Detail,0022300350,282,202695,Kawhi Leonard,1610612746,LA Clippers,2,3,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-161,193,1,1,20231218,IND,LAC
+Shot Chart Detail,0022300350,381,202695,Kawhi Leonard,1610612746,LA Clippers,3,9,10,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-45,72,1,1,20231218,IND,LAC
+Shot Chart Detail,0022300350,431,202695,Kawhi Leonard,1610612746,LA Clippers,3,5,54,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,240,24,1,1,20231218,IND,LAC
+Shot Chart Detail,0022300350,457,202695,Kawhi Leonard,1610612746,LA Clippers,3,3,54,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,17,1,1,20231218,IND,LAC
+Shot Chart Detail,0022300350,508,202695,Kawhi Leonard,1610612746,LA Clippers,3,0,9,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-45,37,1,1,20231218,IND,LAC
+Shot Chart Detail,0022300372,47,202695,Kawhi Leonard,1610612746,LA Clippers,1,7,28,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,5,74,1,1,20231220,DAL,LAC
+Shot Chart Detail,0022300372,62,202695,Kawhi Leonard,1610612746,LA Clippers,1,6,36,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,15,1,1,20231220,DAL,LAC
+Shot Chart Detail,0022300372,90,202695,Kawhi Leonard,1610612746,LA Clippers,1,4,47,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-31,115,1,1,20231220,DAL,LAC
+Shot Chart Detail,0022300372,139,202695,Kawhi Leonard,1610612746,LA Clippers,1,1,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-56,247,1,1,20231220,DAL,LAC
+Shot Chart Detail,0022300372,261,202695,Kawhi Leonard,1610612746,LA Clippers,2,4,36,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,137,16,1,1,20231220,DAL,LAC
+Shot Chart Detail,0022300372,289,202695,Kawhi Leonard,1610612746,LA Clippers,2,1,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,10,1,1,20231220,DAL,LAC
+Shot Chart Detail,0022300372,393,202695,Kawhi Leonard,1610612746,LA Clippers,3,5,18,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,6,1,1,20231220,DAL,LAC
+Shot Chart Detail,0022300372,418,202695,Kawhi Leonard,1610612746,LA Clippers,3,4,9,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-34,4,1,1,20231220,DAL,LAC
+Shot Chart Detail,0022300372,568,202695,Kawhi Leonard,1610612746,LA Clippers,4,3,59,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,9,1,1,20231220,DAL,LAC
+Shot Chart Detail,0022300372,579,202695,Kawhi Leonard,1610612746,LA Clippers,4,2,59,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,10,1,1,20231220,DAL,LAC
+Shot Chart Detail,0022300372,588,202695,Kawhi Leonard,1610612746,LA Clippers,4,1,47,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,6,1,1,20231220,DAL,LAC
+Shot Chart Detail,0022300372,597,202695,Kawhi Leonard,1610612746,LA Clippers,4,1,25,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,10,1,1,20231220,DAL,LAC
+Shot Chart Detail,0022300458,189,202695,Kawhi Leonard,1610612746,LA Clippers,2,8,0,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,13,74,117,1,1,20240101,LAC,MIA
+Shot Chart Detail,0022300458,205,202695,Kawhi Leonard,1610612746,LA Clippers,2,6,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,103,250,1,1,20240101,LAC,MIA
+Shot Chart Detail,0022300458,221,202695,Kawhi Leonard,1610612746,LA Clippers,2,5,35,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,10,1,1,20240101,LAC,MIA
+Shot Chart Detail,0022300458,234,202695,Kawhi Leonard,1610612746,LA Clippers,2,4,53,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20240101,LAC,MIA
+Shot Chart Detail,0022300458,249,202695,Kawhi Leonard,1610612746,LA Clippers,2,3,25,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,65,59,1,1,20240101,LAC,MIA
+Shot Chart Detail,0022300458,320,202695,Kawhi Leonard,1610612746,LA Clippers,3,9,21,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-2,102,1,1,20240101,LAC,MIA
+Shot Chart Detail,0022300458,361,202695,Kawhi Leonard,1610612746,LA Clippers,3,6,32,Made Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,34,23,1,1,20240101,LAC,MIA
+Shot Chart Detail,0022300458,473,202695,Kawhi Leonard,1610612746,LA Clippers,4,11,27,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1,15,1,1,20240101,LAC,MIA
+Shot Chart Detail,0022300458,478,202695,Kawhi Leonard,1610612746,LA Clippers,4,10,37,Made Shot,Driving Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-12,18,1,1,20240101,LAC,MIA
+Shot Chart Detail,0022300458,507,202695,Kawhi Leonard,1610612746,LA Clippers,4,8,41,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-1,253,1,1,20240101,LAC,MIA
+Shot Chart Detail,0022300473,204,202695,Kawhi Leonard,1610612746,LA Clippers,2,7,9,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,188,181,1,1,20240103,PHX,LAC
+Shot Chart Detail,0022300473,217,202695,Kawhi Leonard,1610612746,LA Clippers,2,6,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-96,241,1,1,20240103,PHX,LAC
+Shot Chart Detail,0022300473,276,202695,Kawhi Leonard,1610612746,LA Clippers,2,2,28,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-67,128,1,1,20240103,PHX,LAC
+Shot Chart Detail,0022300473,287,202695,Kawhi Leonard,1610612746,LA Clippers,2,1,50,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,15,1,1,20240103,PHX,LAC
+Shot Chart Detail,0022300473,343,202695,Kawhi Leonard,1610612746,LA Clippers,3,10,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,191,161,1,1,20240103,PHX,LAC
+Shot Chart Detail,0022300473,383,202695,Kawhi Leonard,1610612746,LA Clippers,3,7,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-186,183,1,1,20240103,PHX,LAC
+Shot Chart Detail,0022300473,428,202695,Kawhi Leonard,1610612746,LA Clippers,3,4,22,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,5,1,1,20240103,PHX,LAC
+Shot Chart Detail,0022300473,536,202695,Kawhi Leonard,1610612746,LA Clippers,4,10,25,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-16,119,1,1,20240103,PHX,LAC
+Shot Chart Detail,0022300473,640,202695,Kawhi Leonard,1610612746,LA Clippers,4,2,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,-2,1,1,20240103,PHX,LAC
+Shot Chart Detail,0022300486,16,202695,Kawhi Leonard,1610612746,LA Clippers,1,10,15,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-89,149,1,1,20240105,NOP,LAC
+Shot Chart Detail,0022300486,160,202695,Kawhi Leonard,1610612746,LA Clippers,2,10,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-17,0,1,1,20240105,NOP,LAC
+Shot Chart Detail,0022300486,349,202695,Kawhi Leonard,1610612746,LA Clippers,3,10,20,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,1,1,1,20240105,NOP,LAC
+Shot Chart Detail,0022300486,394,202695,Kawhi Leonard,1610612746,LA Clippers,3,7,19,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,59,1,1,20240105,NOP,LAC
+Shot Chart Detail,0022300486,397,202695,Kawhi Leonard,1610612746,LA Clippers,3,6,36,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,102,134,1,1,20240105,NOP,LAC
+Shot Chart Detail,0022300486,409,202695,Kawhi Leonard,1610612746,LA Clippers,3,5,19,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-94,1,1,1,20240105,NOP,LAC
+Shot Chart Detail,0022300486,524,202695,Kawhi Leonard,1610612746,LA Clippers,4,7,32,Made Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-31,100,1,1,20240105,NOP,LAC
+Shot Chart Detail,0022300505,60,202695,Kawhi Leonard,1610612746,LA Clippers,1,6,16,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-12,257,1,1,20240107,LAL,LAC
+Shot Chart Detail,0022300505,254,202695,Kawhi Leonard,1610612746,LA Clippers,2,3,10,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,15,1,1,20240107,LAL,LAC
+Shot Chart Detail,0022300505,346,202695,Kawhi Leonard,1610612746,LA Clippers,3,8,58,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-31,85,1,1,20240107,LAL,LAC
+Shot Chart Detail,0022300505,375,202695,Kawhi Leonard,1610612746,LA Clippers,3,6,9,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,5,33,1,1,20240107,LAL,LAC
+Shot Chart Detail,0022300505,407,202695,Kawhi Leonard,1610612746,LA Clippers,3,3,43,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,59,260,1,1,20240107,LAL,LAC
+Shot Chart Detail,0022300505,529,202695,Kawhi Leonard,1610612746,LA Clippers,4,7,49,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,48,106,1,1,20240107,LAL,LAC
+Shot Chart Detail,0022300511,42,202695,Kawhi Leonard,1610612746,LA Clippers,1,8,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,11,1,1,20240108,LAC,PHX
+Shot Chart Detail,0022300511,48,202695,Kawhi Leonard,1610612746,LA Clippers,1,8,8,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,91,46,1,1,20240108,LAC,PHX
+Shot Chart Detail,0022300511,54,202695,Kawhi Leonard,1610612746,LA Clippers,1,7,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-170,194,1,1,20240108,LAC,PHX
+Shot Chart Detail,0022300511,220,202695,Kawhi Leonard,1610612746,LA Clippers,2,6,38,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,23,73,1,1,20240108,LAC,PHX
+Shot Chart Detail,0022300511,325,202695,Kawhi Leonard,1610612746,LA Clippers,3,9,48,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-116,60,1,1,20240108,LAC,PHX
+Shot Chart Detail,0022300511,328,202695,Kawhi Leonard,1610612746,LA Clippers,3,9,26,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,5,1,1,20240108,LAC,PHX
+Shot Chart Detail,0022300511,492,202695,Kawhi Leonard,1610612746,LA Clippers,4,10,5,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,5,91,1,1,20240108,LAC,PHX
+Shot Chart Detail,0022300511,521,202695,Kawhi Leonard,1610612746,LA Clippers,4,8,0,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,53,23,1,1,20240108,LAC,PHX
+Shot Chart Detail,0022300526,38,202695,Kawhi Leonard,1610612746,LA Clippers,1,7,28,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-181,97,1,1,20240110,LAC,TOR
+Shot Chart Detail,0022300526,88,202695,Kawhi Leonard,1610612746,LA Clippers,1,4,6,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-22,121,1,1,20240110,LAC,TOR
+Shot Chart Detail,0022300526,228,202695,Kawhi Leonard,1610612746,LA Clippers,2,5,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,93,254,1,1,20240110,LAC,TOR
+Shot Chart Detail,0022300526,242,202695,Kawhi Leonard,1610612746,LA Clippers,2,3,53,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,45,75,1,1,20240110,LAC,TOR
+Shot Chart Detail,0022300526,249,202695,Kawhi Leonard,1610612746,LA Clippers,2,3,2,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-23,149,1,1,20240110,LAC,TOR
+Shot Chart Detail,0022300526,357,202695,Kawhi Leonard,1610612746,LA Clippers,3,6,23,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,-1,1,1,20240110,LAC,TOR
+Shot Chart Detail,0022300526,396,202695,Kawhi Leonard,1610612746,LA Clippers,3,3,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-157,201,1,1,20240110,LAC,TOR
+Shot Chart Detail,0022300526,434,202695,Kawhi Leonard,1610612746,LA Clippers,3,1,19,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-2,1,1,20240110,LAC,TOR
+Shot Chart Detail,0022300526,543,202695,Kawhi Leonard,1610612746,LA Clippers,4,6,8,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,112,146,1,1,20240110,LAC,TOR
+Shot Chart Detail,0022300526,595,202695,Kawhi Leonard,1610612746,LA Clippers,4,1,5,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,-4,1,1,20240110,LAC,TOR
+Shot Chart Detail,0022300537,67,202695,Kawhi Leonard,1610612746,LA Clippers,1,6,52,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-92,13,1,1,20240112,MEM,LAC
+Shot Chart Detail,0022300537,87,202695,Kawhi Leonard,1610612746,LA Clippers,1,4,40,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,25,24,1,1,20240112,MEM,LAC
+Shot Chart Detail,0022300537,150,202695,Kawhi Leonard,1610612746,LA Clippers,1,0,42,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,98,11,1,1,20240112,MEM,LAC
+Shot Chart Detail,0022300537,155,202695,Kawhi Leonard,1610612746,LA Clippers,1,0,10,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,14,74,124,1,1,20240112,MEM,LAC
+Shot Chart Detail,0022300537,283,202695,Kawhi Leonard,1610612746,LA Clippers,2,2,45,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,29,257,1,1,20240112,MEM,LAC
+Shot Chart Detail,0022300537,333,202695,Kawhi Leonard,1610612746,LA Clippers,3,10,5,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-88,90,1,1,20240112,MEM,LAC
+Shot Chart Detail,0022300537,354,202695,Kawhi Leonard,1610612746,LA Clippers,3,8,6,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,4,96,1,1,20240112,MEM,LAC
+Shot Chart Detail,0022300537,389,202695,Kawhi Leonard,1610612746,LA Clippers,3,5,25,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-49,122,1,1,20240112,MEM,LAC
+Shot Chart Detail,0022300537,401,202695,Kawhi Leonard,1610612746,LA Clippers,3,4,51,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,146,215,1,1,20240112,MEM,LAC
+Shot Chart Detail,0022300537,412,202695,Kawhi Leonard,1610612746,LA Clippers,3,4,0,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,83,15,1,1,20240112,MEM,LAC
+Shot Chart Detail,0022300553,46,202695,Kawhi Leonard,1610612746,LA Clippers,1,7,21,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,21,101,1,1,20240114,MIN,LAC
+Shot Chart Detail,0022300553,94,202695,Kawhi Leonard,1610612746,LA Clippers,1,3,31,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-61,57,1,1,20240114,MIN,LAC
+Shot Chart Detail,0022300553,98,202695,Kawhi Leonard,1610612746,LA Clippers,1,3,16,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,6,1,1,20240114,MIN,LAC
+Shot Chart Detail,0022300553,216,202695,Kawhi Leonard,1610612746,LA Clippers,2,5,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-212,124,1,1,20240114,MIN,LAC
+Shot Chart Detail,0022300553,264,202695,Kawhi Leonard,1610612746,LA Clippers,2,1,48,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,223,79,1,1,20240114,MIN,LAC
+Shot Chart Detail,0022300553,331,202695,Kawhi Leonard,1610612746,LA Clippers,3,8,37,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,31,55,1,1,20240114,MIN,LAC
+Shot Chart Detail,0022300553,345,202695,Kawhi Leonard,1610612746,LA Clippers,3,7,3,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,8,1,1,20240114,MIN,LAC
+Shot Chart Detail,0022300553,403,202695,Kawhi Leonard,1610612746,LA Clippers,3,3,17,Made Shot,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,8,1,1,20240114,MIN,LAC
+Shot Chart Detail,0022300553,555,202695,Kawhi Leonard,1610612746,LA Clippers,4,5,1,Made Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-38,94,1,1,20240114,MIN,LAC
+Shot Chart Detail,0022300568,20,202695,Kawhi Leonard,1610612746,LA Clippers,1,10,33,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-137,0,1,1,20240116,LAC,OKC
+Shot Chart Detail,0022300568,43,202695,Kawhi Leonard,1610612746,LA Clippers,1,7,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-137,224,1,1,20240116,LAC,OKC
+Shot Chart Detail,0022300568,79,202695,Kawhi Leonard,1610612746,LA Clippers,1,4,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,168,200,1,1,20240116,LAC,OKC
+Shot Chart Detail,0022300568,247,202695,Kawhi Leonard,1610612746,LA Clippers,2,4,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-135,209,1,1,20240116,LAC,OKC
+Shot Chart Detail,0022300568,337,202695,Kawhi Leonard,1610612746,LA Clippers,3,9,54,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,11,1,1,20240116,LAC,OKC
+Shot Chart Detail,0022300568,371,202695,Kawhi Leonard,1610612746,LA Clippers,3,7,42,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,44,146,1,1,20240116,LAC,OKC
+Shot Chart Detail,0022300600,291,202695,Kawhi Leonard,1610612746,LA Clippers,2,1,25,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1,10,1,1,20240121,LAC,BKN
+Shot Chart Detail,0022300600,294,202695,Kawhi Leonard,1610612746,LA Clippers,2,1,3,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,2,1,1,20240121,LAC,BKN
+Shot Chart Detail,0022300600,582,202695,Kawhi Leonard,1610612746,LA Clippers,4,4,39,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-5,1,1,20240121,LAC,BKN
+Shot Chart Detail,0022300600,602,202695,Kawhi Leonard,1610612746,LA Clippers,4,2,50,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-44,84,1,1,20240121,LAC,BKN
+Shot Chart Detail,0022300600,621,202695,Kawhi Leonard,1610612746,LA Clippers,4,1,4,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-96,242,1,1,20240121,LAC,BKN
+Shot Chart Detail,0022300600,628,202695,Kawhi Leonard,1610612746,LA Clippers,4,0,29,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-229,31,1,1,20240121,LAC,BKN
+Shot Chart Detail,0022300618,7,202695,Kawhi Leonard,1610612746,LA Clippers,1,11,39,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,15,70,137,1,1,20240123,LAC,LAL
+Shot Chart Detail,0022300618,64,202695,Kawhi Leonard,1610612746,LA Clippers,1,6,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-21,143,1,1,20240123,LAC,LAL
+Shot Chart Detail,0022300618,116,202695,Kawhi Leonard,1610612746,LA Clippers,1,2,11,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,53,105,1,1,20240123,LAC,LAL
+Shot Chart Detail,0022300618,135,202695,Kawhi Leonard,1610612746,LA Clippers,1,1,0,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,77,82,1,1,20240123,LAC,LAL
+Shot Chart Detail,0022300618,243,202695,Kawhi Leonard,1610612746,LA Clippers,2,5,23,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,151,95,1,1,20240123,LAC,LAL
+Shot Chart Detail,0022300618,269,202695,Kawhi Leonard,1610612746,LA Clippers,2,2,49,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,13,1,1,20240123,LAC,LAL
+Shot Chart Detail,0022300618,292,202695,Kawhi Leonard,1610612746,LA Clippers,2,1,32,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,4,48,1,1,20240123,LAC,LAL
+Shot Chart Detail,0022300618,316,202695,Kawhi Leonard,1610612746,LA Clippers,3,11,26,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,0,122,1,1,20240123,LAC,LAL
+Shot Chart Detail,0022300618,384,202695,Kawhi Leonard,1610612746,LA Clippers,3,5,9,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-36,131,1,1,20240123,LAC,LAL
+Shot Chart Detail,0022300618,389,202695,Kawhi Leonard,1610612746,LA Clippers,3,4,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-13,34,1,1,20240123,LAC,LAL
+Shot Chart Detail,0022300618,597,202695,Kawhi Leonard,1610612746,LA Clippers,4,2,35,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-38,117,1,1,20240123,LAC,LAL
+Shot Chart Detail,0022300637,27,202695,Kawhi Leonard,1610612746,LA Clippers,1,9,3,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-13,130,1,1,20240126,TOR,LAC
+Shot Chart Detail,0022300637,100,202695,Kawhi Leonard,1610612746,LA Clippers,1,3,57,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,8,1,1,20240126,TOR,LAC
+Shot Chart Detail,0022300637,274,202695,Kawhi Leonard,1610612746,LA Clippers,2,3,49,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,131,7,1,1,20240126,TOR,LAC
+Shot Chart Detail,0022300637,380,202695,Kawhi Leonard,1610612746,LA Clippers,3,7,52,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-238,-15,1,1,20240126,TOR,LAC
+Shot Chart Detail,0022300637,388,202695,Kawhi Leonard,1610612746,LA Clippers,3,6,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-82,178,1,1,20240126,TOR,LAC
+Shot Chart Detail,0022300637,391,202695,Kawhi Leonard,1610612746,LA Clippers,3,6,10,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,9,155,1,1,20240126,TOR,LAC
+Shot Chart Detail,0022300637,412,202695,Kawhi Leonard,1610612746,LA Clippers,3,4,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-164,192,1,1,20240126,TOR,LAC
+Shot Chart Detail,0022300646,22,202695,Kawhi Leonard,1610612746,LA Clippers,1,10,18,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,43,44,1,1,20240127,BOS,LAC
+Shot Chart Detail,0022300646,70,202695,Kawhi Leonard,1610612746,LA Clippers,1,6,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-170,217,1,1,20240127,BOS,LAC
+Shot Chart Detail,0022300646,74,202695,Kawhi Leonard,1610612746,LA Clippers,1,6,11,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,10,1,1,20240127,BOS,LAC
+Shot Chart Detail,0022300646,144,202695,Kawhi Leonard,1610612746,LA Clippers,1,1,46,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,55,31,1,1,20240127,BOS,LAC
+Shot Chart Detail,0022300646,156,202695,Kawhi Leonard,1610612746,LA Clippers,1,0,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-174,205,1,1,20240127,BOS,LAC
+Shot Chart Detail,0022300646,359,202695,Kawhi Leonard,1610612746,LA Clippers,3,8,48,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,2,55,1,1,20240127,BOS,LAC
+Shot Chart Detail,0022300646,379,202695,Kawhi Leonard,1610612746,LA Clippers,3,6,50,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-38,38,1,1,20240127,BOS,LAC
+Shot Chart Detail,0022300646,393,202695,Kawhi Leonard,1610612746,LA Clippers,3,5,58,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,15,1,1,20240127,BOS,LAC
+Shot Chart Detail,0022300646,436,202695,Kawhi Leonard,1610612746,LA Clippers,3,3,3,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-22,36,1,1,20240127,BOS,LAC
+Shot Chart Detail,0022300646,463,202695,Kawhi Leonard,1610612746,LA Clippers,3,1,27,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-37,277,1,1,20240127,BOS,LAC
+Shot Chart Detail,0022300658,12,202695,Kawhi Leonard,1610612746,LA Clippers,1,11,8,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-37,162,1,1,20240129,CLE,LAC
+Shot Chart Detail,0022300658,46,202695,Kawhi Leonard,1610612746,LA Clippers,1,8,16,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,109,15,1,1,20240129,CLE,LAC
+Shot Chart Detail,0022300658,80,202695,Kawhi Leonard,1610612746,LA Clippers,1,5,39,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,45,110,1,1,20240129,CLE,LAC
+Shot Chart Detail,0022300658,142,202695,Kawhi Leonard,1610612746,LA Clippers,1,1,14,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,49,106,1,1,20240129,CLE,LAC
+Shot Chart Detail,0022300658,261,202695,Kawhi Leonard,1610612746,LA Clippers,2,4,24,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,4,1,1,20240129,CLE,LAC
+Shot Chart Detail,0022300658,269,202695,Kawhi Leonard,1610612746,LA Clippers,2,3,50,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,78,32,1,1,20240129,CLE,LAC
+Shot Chart Detail,0022300658,276,202695,Kawhi Leonard,1610612746,LA Clippers,2,2,50,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-99,29,1,1,20240129,CLE,LAC
+Shot Chart Detail,0022300658,382,202695,Kawhi Leonard,1610612746,LA Clippers,3,8,16,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20240129,CLE,LAC
+Shot Chart Detail,0022300658,416,202695,Kawhi Leonard,1610612746,LA Clippers,3,5,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-31,241,1,1,20240129,CLE,LAC
+Shot Chart Detail,0022300658,424,202695,Kawhi Leonard,1610612746,LA Clippers,3,4,3,Made Shot,Step Back Jump shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,-10,1,1,20240129,CLE,LAC
+Shot Chart Detail,0022300658,552,202695,Kawhi Leonard,1610612746,LA Clippers,4,7,57,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,9,1,1,20240129,CLE,LAC
+Shot Chart Detail,0022300658,588,202695,Kawhi Leonard,1610612746,LA Clippers,4,5,26,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,9,1,1,20240129,CLE,LAC
+Shot Chart Detail,0022300658,594,202695,Kawhi Leonard,1610612746,LA Clippers,4,4,23,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,21,51,1,1,20240129,CLE,LAC
+Shot Chart Detail,0022300676,35,202695,Kawhi Leonard,1610612746,LA Clippers,1,8,45,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-156,204,1,1,20240131,WAS,LAC
+Shot Chart Detail,0022300676,43,202695,Kawhi Leonard,1610612746,LA Clippers,1,7,42,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,44,99,1,1,20240131,WAS,LAC
+Shot Chart Detail,0022300676,94,202695,Kawhi Leonard,1610612746,LA Clippers,1,4,23,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,0,152,1,1,20240131,WAS,LAC
+Shot Chart Detail,0022300676,127,202695,Kawhi Leonard,1610612746,LA Clippers,1,2,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,191,57,1,1,20240131,WAS,LAC
+Shot Chart Detail,0022300676,255,202695,Kawhi Leonard,1610612746,LA Clippers,2,5,5,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20240131,WAS,LAC
+Shot Chart Detail,0022300676,276,202695,Kawhi Leonard,1610612746,LA Clippers,2,2,31,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,82,132,1,1,20240131,WAS,LAC
+Shot Chart Detail,0022300676,284,202695,Kawhi Leonard,1610612746,LA Clippers,2,1,37,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,5,212,1,1,20240131,WAS,LAC
+Shot Chart Detail,0022300676,300,202695,Kawhi Leonard,1610612746,LA Clippers,2,0,1,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,10,1,1,20240131,WAS,LAC
+Shot Chart Detail,0022300676,326,202695,Kawhi Leonard,1610612746,LA Clippers,3,10,31,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,0,1,1,20240131,WAS,LAC
+Shot Chart Detail,0022300676,374,202695,Kawhi Leonard,1610612746,LA Clippers,3,6,44,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,14,1,1,20240131,WAS,LAC
+Shot Chart Detail,0022300676,409,202695,Kawhi Leonard,1610612746,LA Clippers,3,4,22,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-29,13,1,1,20240131,WAS,LAC
+Shot Chart Detail,0022300676,424,202695,Kawhi Leonard,1610612746,LA Clippers,3,3,33,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-7,177,1,1,20240131,WAS,LAC
+Shot Chart Detail,0022300676,435,202695,Kawhi Leonard,1610612746,LA Clippers,3,2,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,5,1,1,20240131,WAS,LAC
+Shot Chart Detail,0022300676,455,202695,Kawhi Leonard,1610612746,LA Clippers,3,0,46,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,8,1,1,20240131,WAS,LAC
+Shot Chart Detail,0022300688,82,202695,Kawhi Leonard,1610612746,LA Clippers,1,4,44,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,33,11,1,1,20240202,DET,LAC
+Shot Chart Detail,0022300688,97,202695,Kawhi Leonard,1610612746,LA Clippers,1,3,52,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,58,273,1,1,20240202,DET,LAC
+Shot Chart Detail,0022300688,117,202695,Kawhi Leonard,1610612746,LA Clippers,1,2,21,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-71,154,1,1,20240202,DET,LAC
+Shot Chart Detail,0022300688,127,202695,Kawhi Leonard,1610612746,LA Clippers,1,1,30,Made Shot,Running Pull-Up Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,48,37,1,1,20240202,DET,LAC
+Shot Chart Detail,0022300688,289,202695,Kawhi Leonard,1610612746,LA Clippers,2,2,26,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,141,226,1,1,20240202,DET,LAC
+Shot Chart Detail,0022300688,292,202695,Kawhi Leonard,1610612746,LA Clippers,2,1,56,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,142,207,1,1,20240202,DET,LAC
+Shot Chart Detail,0022300688,303,202695,Kawhi Leonard,1610612746,LA Clippers,2,0,52,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-143,236,1,1,20240202,DET,LAC
+Shot Chart Detail,0022300688,342,202695,Kawhi Leonard,1610612746,LA Clippers,3,10,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,113,232,1,1,20240202,DET,LAC
+Shot Chart Detail,0022300688,350,202695,Kawhi Leonard,1610612746,LA Clippers,3,9,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,135,220,1,1,20240202,DET,LAC
+Shot Chart Detail,0022300688,385,202695,Kawhi Leonard,1610612746,LA Clippers,3,6,57,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,142,-2,1,1,20240202,DET,LAC
+Shot Chart Detail,0022300688,410,202695,Kawhi Leonard,1610612746,LA Clippers,3,5,13,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,65,45,1,1,20240202,DET,LAC
+Shot Chart Detail,0022300688,568,202695,Kawhi Leonard,1610612746,LA Clippers,4,5,57,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,-13,1,1,20240202,DET,LAC
+Shot Chart Detail,0022300708,86,202695,Kawhi Leonard,1610612746,LA Clippers,1,4,16,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,2,26,1,1,20240204,MIA,LAC
+Shot Chart Detail,0022300708,134,202695,Kawhi Leonard,1610612746,LA Clippers,1,0,0,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,11,-58,98,1,1,20240204,MIA,LAC
+Shot Chart Detail,0022300708,230,202695,Kawhi Leonard,1610612746,LA Clippers,2,2,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-112,235,1,1,20240204,MIA,LAC
+Shot Chart Detail,0022300708,253,202695,Kawhi Leonard,1610612746,LA Clippers,2,1,17,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,83,137,1,1,20240204,MIA,LAC
+Shot Chart Detail,0022300708,295,202695,Kawhi Leonard,1610612746,LA Clippers,3,9,4,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20240204,MIA,LAC
+Shot Chart Detail,0022300708,319,202695,Kawhi Leonard,1610612746,LA Clippers,3,6,43,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,1,1,1,20240204,MIA,LAC
+Shot Chart Detail,0022300708,330,202695,Kawhi Leonard,1610612746,LA Clippers,3,5,48,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-18,262,1,1,20240204,MIA,LAC
+Shot Chart Detail,0022300708,351,202695,Kawhi Leonard,1610612746,LA Clippers,3,3,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,206,126,1,1,20240204,MIA,LAC
+Shot Chart Detail,0022300716,45,202695,Kawhi Leonard,1610612746,LA Clippers,1,7,11,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,8,1,1,20240205,ATL,LAC
+Shot Chart Detail,0022300716,86,202695,Kawhi Leonard,1610612746,LA Clippers,1,3,42,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-11,117,1,1,20240205,ATL,LAC
+Shot Chart Detail,0022300716,102,202695,Kawhi Leonard,1610612746,LA Clippers,1,2,51,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,2,256,1,1,20240205,ATL,LAC
+Shot Chart Detail,0022300716,245,202695,Kawhi Leonard,1610612746,LA Clippers,2,4,14,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1,11,1,1,20240205,ATL,LAC
+Shot Chart Detail,0022300716,282,202695,Kawhi Leonard,1610612746,LA Clippers,2,1,31,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,21,100,1,1,20240205,ATL,LAC
+Shot Chart Detail,0022300716,287,202695,Kawhi Leonard,1610612746,LA Clippers,2,1,4,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-5,94,1,1,20240205,ATL,LAC
+Shot Chart Detail,0022300716,329,202695,Kawhi Leonard,1610612746,LA Clippers,3,10,1,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-228,40,1,1,20240205,ATL,LAC
+Shot Chart Detail,0022300716,351,202695,Kawhi Leonard,1610612746,LA Clippers,3,7,47,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,14,1,1,20240205,ATL,LAC
+Shot Chart Detail,0022300716,435,202695,Kawhi Leonard,1610612746,LA Clippers,3,1,39,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,4,1,1,20240205,ATL,LAC
+Shot Chart Detail,0022300716,556,202695,Kawhi Leonard,1610612746,LA Clippers,4,6,48,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,-2,1,1,20240205,ATL,LAC
+Shot Chart Detail,0022300716,582,202695,Kawhi Leonard,1610612746,LA Clippers,4,4,52,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,-4,1,1,20240205,ATL,LAC
+Shot Chart Detail,0022300716,610,202695,Kawhi Leonard,1610612746,LA Clippers,4,2,23,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,3,1,1,20240205,ATL,LAC
+Shot Chart Detail,0022300716,618,202695,Kawhi Leonard,1610612746,LA Clippers,4,1,47,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-61,240,1,1,20240205,ATL,LAC
+Shot Chart Detail,0022300731,62,202695,Kawhi Leonard,1610612746,LA Clippers,1,6,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,70,267,1,1,20240207,LAC,NOP
+Shot Chart Detail,0022300731,86,202695,Kawhi Leonard,1610612746,LA Clippers,1,4,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,6,36,1,1,20240207,LAC,NOP
+Shot Chart Detail,0022300731,391,202695,Kawhi Leonard,1610612746,LA Clippers,3,5,10,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-16,22,1,1,20240207,LAC,NOP
+Shot Chart Detail,0022300731,417,202695,Kawhi Leonard,1610612746,LA Clippers,3,3,7,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,82,138,1,1,20240207,LAC,NOP
+Shot Chart Detail,0022300749,36,202695,Kawhi Leonard,1610612746,LA Clippers,1,8,41,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-228,47,1,1,20240210,LAC,DET
+Shot Chart Detail,0022300749,85,202695,Kawhi Leonard,1610612746,LA Clippers,1,4,57,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,96,137,1,1,20240210,LAC,DET
+Shot Chart Detail,0022300749,142,202695,Kawhi Leonard,1610612746,LA Clippers,1,1,32,Made Shot,Running Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,11,43,1,1,20240210,LAC,DET
+Shot Chart Detail,0022300749,148,202695,Kawhi Leonard,1610612746,LA Clippers,1,0,31,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,94,249,1,1,20240210,LAC,DET
+Shot Chart Detail,0022300749,416,202695,Kawhi Leonard,1610612746,LA Clippers,3,3,13,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-9,32,1,1,20240210,LAC,DET
+Shot Chart Detail,0022300749,419,202695,Kawhi Leonard,1610612746,LA Clippers,3,2,51,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,158,215,1,1,20240210,LAC,DET
+Shot Chart Detail,0022300749,435,202695,Kawhi Leonard,1610612746,LA Clippers,3,1,28,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,9,1,1,20240210,LAC,DET
+Shot Chart Detail,0022300770,61,202695,Kawhi Leonard,1610612746,LA Clippers,1,6,21,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-12,135,1,1,20240212,LAC,MIN
+Shot Chart Detail,0022300770,110,202695,Kawhi Leonard,1610612746,LA Clippers,1,3,52,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,82,67,1,1,20240212,LAC,MIN
+Shot Chart Detail,0022300770,141,202695,Kawhi Leonard,1610612746,LA Clippers,1,1,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,70,254,1,1,20240212,LAC,MIN
+Shot Chart Detail,0022300770,190,202695,Kawhi Leonard,1610612746,LA Clippers,1,0,30,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,20,1,1,20240212,LAC,MIN
+Shot Chart Detail,0022300770,157,202695,Kawhi Leonard,1610612746,LA Clippers,1,0,8,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,11,1,1,20240212,LAC,MIN
+Shot Chart Detail,0022300770,334,202695,Kawhi Leonard,1610612746,LA Clippers,3,10,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,1,1,1,20240212,LAC,MIN
+Shot Chart Detail,0022300770,368,202695,Kawhi Leonard,1610612746,LA Clippers,3,6,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,15,1,1,20240212,LAC,MIN
+Shot Chart Detail,0022300770,390,202695,Kawhi Leonard,1610612746,LA Clippers,3,5,36,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,40,111,1,1,20240212,LAC,MIN
+Shot Chart Detail,0022300799,68,202695,Kawhi Leonard,1610612746,LA Clippers,1,5,40,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,43,138,1,1,20240222,OKC,LAC
+Shot Chart Detail,0022300799,76,202695,Kawhi Leonard,1610612746,LA Clippers,1,4,51,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,54,158,1,1,20240222,OKC,LAC
+Shot Chart Detail,0022300799,94,202695,Kawhi Leonard,1610612746,LA Clippers,1,3,58,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,61,53,1,1,20240222,OKC,LAC
+Shot Chart Detail,0022300799,119,202695,Kawhi Leonard,1610612746,LA Clippers,1,2,13,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,31,116,1,1,20240222,OKC,LAC
+Shot Chart Detail,0022300799,288,202695,Kawhi Leonard,1610612746,LA Clippers,2,1,59,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-23,183,1,1,20240222,OKC,LAC
+Shot Chart Detail,0022300799,291,202695,Kawhi Leonard,1610612746,LA Clippers,2,1,25,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,53,42,1,1,20240222,OKC,LAC
+Shot Chart Detail,0022300799,327,202695,Kawhi Leonard,1610612746,LA Clippers,3,10,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,135,107,1,1,20240222,OKC,LAC
+Shot Chart Detail,0022300799,338,202695,Kawhi Leonard,1610612746,LA Clippers,3,9,44,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-78,164,1,1,20240222,OKC,LAC
+Shot Chart Detail,0022300799,433,202695,Kawhi Leonard,1610612746,LA Clippers,3,3,44,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,138,17,1,1,20240222,OKC,LAC
+Shot Chart Detail,0022300807,39,202695,Kawhi Leonard,1610612746,LA Clippers,1,8,40,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,8,1,1,20240223,MEM,LAC
+Shot Chart Detail,0022300807,51,202695,Kawhi Leonard,1610612746,LA Clippers,1,7,21,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,2,114,1,1,20240223,MEM,LAC
+Shot Chart Detail,0022300807,76,202695,Kawhi Leonard,1610612746,LA Clippers,1,5,16,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20240223,MEM,LAC
+Shot Chart Detail,0022300807,96,202695,Kawhi Leonard,1610612746,LA Clippers,1,3,43,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-21,99,1,1,20240223,MEM,LAC
+Shot Chart Detail,0022300807,285,202695,Kawhi Leonard,1610612746,LA Clippers,2,3,13,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,3,1,1,20240223,MEM,LAC
+Shot Chart Detail,0022300807,371,202695,Kawhi Leonard,1610612746,LA Clippers,3,8,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-142,225,1,1,20240223,MEM,LAC
+Shot Chart Detail,0022300807,437,202695,Kawhi Leonard,1610612746,LA Clippers,3,3,57,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,-3,1,1,20240223,MEM,LAC
+Shot Chart Detail,0022300807,481,202695,Kawhi Leonard,1610612746,LA Clippers,3,0,17,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,71,88,1,1,20240223,MEM,LAC
+Shot Chart Detail,0022300807,485,202695,Kawhi Leonard,1610612746,LA Clippers,3,0,0,Made Shot,Fadeaway Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-55,249,1,1,20240223,MEM,LAC
+Shot Chart Detail,0022300807,620,202695,Kawhi Leonard,1610612746,LA Clippers,4,1,35,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,4,1,1,20240223,MEM,LAC
+Shot Chart Detail,0022300827,53,202695,Kawhi Leonard,1610612746,LA Clippers,1,7,12,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,2,63,1,1,20240225,LAC,SAC
+Shot Chart Detail,0022300827,105,202695,Kawhi Leonard,1610612746,LA Clippers,1,3,38,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-8,1,1,20240225,LAC,SAC
+Shot Chart Detail,0022300827,126,202695,Kawhi Leonard,1610612746,LA Clippers,1,2,10,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-43,116,1,1,20240225,LAC,SAC
+Shot Chart Detail,0022300827,134,202695,Kawhi Leonard,1610612746,LA Clippers,1,1,18,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,38,46,1,1,20240225,LAC,SAC
+Shot Chart Detail,0022300827,270,202695,Kawhi Leonard,1610612746,LA Clippers,2,3,19,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,6,1,1,20240225,LAC,SAC
+Shot Chart Detail,0022300827,281,202695,Kawhi Leonard,1610612746,LA Clippers,2,2,47,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,11,95,1,1,20240225,LAC,SAC
+Shot Chart Detail,0022300827,368,202695,Kawhi Leonard,1610612746,LA Clippers,3,8,27,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,21,97,1,1,20240225,LAC,SAC
+Shot Chart Detail,0022300848,40,202695,Kawhi Leonard,1610612746,LA Clippers,1,8,28,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,42,98,1,1,20240228,LAC,LAL
+Shot Chart Detail,0022300848,61,202695,Kawhi Leonard,1610612746,LA Clippers,1,6,38,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-116,215,1,1,20240228,LAC,LAL
+Shot Chart Detail,0022300848,115,202695,Kawhi Leonard,1610612746,LA Clippers,1,3,43,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,12,190,1,1,20240228,LAC,LAL
+Shot Chart Detail,0022300848,178,202695,Kawhi Leonard,1610612746,LA Clippers,1,0,0,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20240228,LAC,LAL
+Shot Chart Detail,0022300848,288,202695,Kawhi Leonard,1610612746,LA Clippers,2,3,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,16,1,1,20240228,LAC,LAL
+Shot Chart Detail,0022300848,297,202695,Kawhi Leonard,1610612746,LA Clippers,2,1,44,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-2,32,1,1,20240228,LAC,LAL
+Shot Chart Detail,0022300848,392,202695,Kawhi Leonard,1610612746,LA Clippers,3,7,11,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,89,258,1,1,20240228,LAC,LAL
+Shot Chart Detail,0022300848,409,202695,Kawhi Leonard,1610612746,LA Clippers,3,5,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,151,216,1,1,20240228,LAC,LAL
+Shot Chart Detail,0022300848,553,202695,Kawhi Leonard,1610612746,LA Clippers,4,6,32,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,40,32,1,1,20240228,LAC,LAL
+Shot Chart Detail,0022300848,598,202695,Kawhi Leonard,1610612746,LA Clippers,4,1,10,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,6,34,1,1,20240228,LAC,LAL
+Shot Chart Detail,0022300848,602,202695,Kawhi Leonard,1610612746,LA Clippers,4,0,36,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-9,33,1,1,20240228,LAC,LAL
+Shot Chart Detail,0022300865,75,202695,Kawhi Leonard,1610612746,LA Clippers,1,5,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-123,120,1,1,20240301,LAC,WAS
+Shot Chart Detail,0022300865,137,202695,Kawhi Leonard,1610612746,LA Clippers,1,1,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,130,224,1,1,20240301,LAC,WAS
+Shot Chart Detail,0022300865,281,202695,Kawhi Leonard,1610612746,LA Clippers,2,3,25,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,83,135,1,1,20240301,LAC,WAS
+Shot Chart Detail,0022300865,316,202695,Kawhi Leonard,1610612746,LA Clippers,2,0,5,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-9,22,1,1,20240301,LAC,WAS
+Shot Chart Detail,0022300865,398,202695,Kawhi Leonard,1610612746,LA Clippers,3,5,49,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20240301,LAC,WAS
+Shot Chart Detail,0022300865,403,202695,Kawhi Leonard,1610612746,LA Clippers,3,5,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-6,16,1,1,20240301,LAC,WAS
+Shot Chart Detail,0022300865,424,202695,Kawhi Leonard,1610612746,LA Clippers,3,4,8,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-96,6,1,1,20240301,LAC,WAS
+Shot Chart Detail,0022300865,427,202695,Kawhi Leonard,1610612746,LA Clippers,3,3,35,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-1,20,1,1,20240301,LAC,WAS
+Shot Chart Detail,0022300865,482,202695,Kawhi Leonard,1610612746,LA Clippers,3,0,44,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,113,228,1,1,20240301,LAC,WAS
+Shot Chart Detail,0022300873,31,202695,Kawhi Leonard,1610612746,LA Clippers,1,8,45,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,32,111,1,1,20240303,MIN,LAC
+Shot Chart Detail,0022300873,42,202695,Kawhi Leonard,1610612746,LA Clippers,1,7,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-96,232,1,1,20240303,MIN,LAC
+Shot Chart Detail,0022300873,221,202695,Kawhi Leonard,1610612746,LA Clippers,2,4,52,Made Shot,Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,14,56,1,1,20240303,MIN,LAC
+Shot Chart Detail,0022300873,225,202695,Kawhi Leonard,1610612746,LA Clippers,2,4,18,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,15,58,1,1,20240303,MIN,LAC
+Shot Chart Detail,0022300873,237,202695,Kawhi Leonard,1610612746,LA Clippers,2,2,51,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,14,1,1,20240303,MIN,LAC
+Shot Chart Detail,0022300873,256,202695,Kawhi Leonard,1610612746,LA Clippers,2,1,30,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-124,63,1,1,20240303,MIN,LAC
+Shot Chart Detail,0022300873,267,202695,Kawhi Leonard,1610612746,LA Clippers,2,0,25,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,19,1,1,20240303,MIN,LAC
+Shot Chart Detail,0022300873,296,202695,Kawhi Leonard,1610612746,LA Clippers,3,9,56,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,109,80,1,1,20240303,MIN,LAC
+Shot Chart Detail,0022300873,314,202695,Kawhi Leonard,1610612746,LA Clippers,3,7,58,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,38,69,1,1,20240303,MIN,LAC
+Shot Chart Detail,0022300873,399,202695,Kawhi Leonard,1610612746,LA Clippers,3,2,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,15,18,1,1,20240303,MIN,LAC
+Shot Chart Detail,0022300873,509,202695,Kawhi Leonard,1610612746,LA Clippers,4,5,56,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-9,118,1,1,20240303,MIN,LAC
+Shot Chart Detail,0022300873,556,202695,Kawhi Leonard,1610612746,LA Clippers,4,2,1,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,8,1,1,20240303,MIN,LAC
+Shot Chart Detail,0022300880,65,202695,Kawhi Leonard,1610612746,LA Clippers,1,5,25,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,12,65,108,1,1,20240304,MIL,LAC
+Shot Chart Detail,0022300880,85,202695,Kawhi Leonard,1610612746,LA Clippers,1,4,3,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-71,72,1,1,20240304,MIL,LAC
+Shot Chart Detail,0022300880,261,202695,Kawhi Leonard,1610612746,LA Clippers,2,0,32,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,13,1,1,20240304,MIL,LAC
+Shot Chart Detail,0022300880,311,202695,Kawhi Leonard,1610612746,LA Clippers,3,9,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,91,247,1,1,20240304,MIL,LAC
+Shot Chart Detail,0022300880,325,202695,Kawhi Leonard,1610612746,LA Clippers,3,8,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,72,260,1,1,20240304,MIL,LAC
+Shot Chart Detail,0022300880,433,202695,Kawhi Leonard,1610612746,LA Clippers,3,1,57,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-27,117,1,1,20240304,MIL,LAC
+Shot Chart Detail,0022300897,55,202695,Kawhi Leonard,1610612746,LA Clippers,1,6,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-168,118,1,1,20240306,HOU,LAC
+Shot Chart Detail,0022300897,221,202695,Kawhi Leonard,1610612746,LA Clippers,2,6,56,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,12,-64,104,1,1,20240306,HOU,LAC
+Shot Chart Detail,0022300897,230,202695,Kawhi Leonard,1610612746,LA Clippers,2,5,54,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-15,22,1,1,20240306,HOU,LAC
+Shot Chart Detail,0022300897,257,202695,Kawhi Leonard,1610612746,LA Clippers,2,3,40,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-189,6,1,1,20240306,HOU,LAC
+Shot Chart Detail,0022300897,293,202695,Kawhi Leonard,1610612746,LA Clippers,2,0,33,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,15,1,1,20240306,HOU,LAC
+Shot Chart Detail,0022300897,346,202695,Kawhi Leonard,1610612746,LA Clippers,3,7,25,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-47,64,1,1,20240306,HOU,LAC
+Shot Chart Detail,0022300897,447,202695,Kawhi Leonard,1610612746,LA Clippers,3,0,0,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-45,120,1,1,20240306,HOU,LAC
+Shot Chart Detail,0022300897,515,202695,Kawhi Leonard,1610612746,LA Clippers,4,6,16,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,21,1,1,20240306,HOU,LAC
+Shot Chart Detail,0022300897,533,202695,Kawhi Leonard,1610612746,LA Clippers,4,5,1,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-100,15,1,1,20240306,HOU,LAC
+Shot Chart Detail,0022300897,545,202695,Kawhi Leonard,1610612746,LA Clippers,4,3,44,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,74,184,1,1,20240306,HOU,LAC
+Shot Chart Detail,0022300897,574,202695,Kawhi Leonard,1610612746,LA Clippers,4,2,6,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,45,167,1,1,20240306,HOU,LAC
+Shot Chart Detail,0022300917,117,202695,Kawhi Leonard,1610612746,LA Clippers,1,2,29,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-93,143,1,1,20240309,LAC,CHI
+Shot Chart Detail,0022300917,128,202695,Kawhi Leonard,1610612746,LA Clippers,1,1,43,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20240309,LAC,CHI
+Shot Chart Detail,0022300917,275,202695,Kawhi Leonard,1610612746,LA Clippers,2,3,35,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,15,1,1,20240309,LAC,CHI
+Shot Chart Detail,0022300917,299,202695,Kawhi Leonard,1610612746,LA Clippers,2,1,29,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-69,75,1,1,20240309,LAC,CHI
+Shot Chart Detail,0022300917,381,202695,Kawhi Leonard,1610612746,LA Clippers,3,6,47,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,6,1,1,20240309,LAC,CHI
+Shot Chart Detail,0022300917,449,202695,Kawhi Leonard,1610612746,LA Clippers,3,1,55,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,179,109,1,1,20240309,LAC,CHI
+Shot Chart Detail,0022300917,536,202695,Kawhi Leonard,1610612746,LA Clippers,4,7,43,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,28,125,1,1,20240309,LAC,CHI
+Shot Chart Detail,0022300917,557,202695,Kawhi Leonard,1610612746,LA Clippers,4,6,19,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,15,1,1,20240309,LAC,CHI
+Shot Chart Detail,0022300944,69,202695,Kawhi Leonard,1610612746,LA Clippers,1,5,38,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,54,105,1,1,20240312,LAC,MIN
+Shot Chart Detail,0022300944,88,202695,Kawhi Leonard,1610612746,LA Clippers,1,4,26,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-195,154,1,1,20240312,LAC,MIN
+Shot Chart Detail,0022300956,39,202695,Kawhi Leonard,1610612746,LA Clippers,1,7,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-2,178,1,1,20240314,CHI,LAC
+Shot Chart Detail,0022300956,51,202695,Kawhi Leonard,1610612746,LA Clippers,1,7,3,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20240314,CHI,LAC
+Shot Chart Detail,0022300956,62,202695,Kawhi Leonard,1610612746,LA Clippers,1,6,27,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-89,55,1,1,20240314,CHI,LAC
+Shot Chart Detail,0022300956,87,202695,Kawhi Leonard,1610612746,LA Clippers,1,3,47,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,121,143,1,1,20240314,CHI,LAC
+Shot Chart Detail,0022300956,105,202695,Kawhi Leonard,1610612746,LA Clippers,1,2,18,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20240314,CHI,LAC
+Shot Chart Detail,0022300956,122,202695,Kawhi Leonard,1610612746,LA Clippers,1,0,46,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-2,46,1,1,20240314,CHI,LAC
+Shot Chart Detail,0022300956,245,202695,Kawhi Leonard,1610612746,LA Clippers,2,3,48,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,22,66,1,1,20240314,CHI,LAC
+Shot Chart Detail,0022300956,286,202695,Kawhi Leonard,1610612746,LA Clippers,2,0,2,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,6,1,1,20240314,CHI,LAC
+Shot Chart Detail,0022300956,318,202695,Kawhi Leonard,1610612746,LA Clippers,3,9,27,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,-5,1,1,20240314,CHI,LAC
+Shot Chart Detail,0022300956,331,202695,Kawhi Leonard,1610612746,LA Clippers,3,7,57,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,22,46,1,1,20240314,CHI,LAC
+Shot Chart Detail,0022300956,356,202695,Kawhi Leonard,1610612746,LA Clippers,3,4,55,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-224,8,1,1,20240314,CHI,LAC
+Shot Chart Detail,0022300956,525,202695,Kawhi Leonard,1610612746,LA Clippers,4,3,17,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,136,-8,1,1,20240314,CHI,LAC
+Shot Chart Detail,0022300964,27,202695,Kawhi Leonard,1610612746,LA Clippers,1,9,32,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,113,227,1,1,20240315,NOP,LAC
+Shot Chart Detail,0022300964,62,202695,Kawhi Leonard,1610612746,LA Clippers,1,5,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,148,53,1,1,20240315,NOP,LAC
+Shot Chart Detail,0022300964,86,202695,Kawhi Leonard,1610612746,LA Clippers,1,4,31,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,-1,1,1,20240315,NOP,LAC
+Shot Chart Detail,0022300964,133,202695,Kawhi Leonard,1610612746,LA Clippers,1,0,12,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,37,75,1,1,20240315,NOP,LAC
+Shot Chart Detail,0022300964,271,202695,Kawhi Leonard,1610612746,LA Clippers,2,2,23,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,81,173,1,1,20240315,NOP,LAC
+Shot Chart Detail,0022300964,360,202695,Kawhi Leonard,1610612746,LA Clippers,3,7,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,-4,1,1,20240315,NOP,LAC
+Shot Chart Detail,0022300964,380,202695,Kawhi Leonard,1610612746,LA Clippers,3,6,30,Made Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-18,136,1,1,20240315,NOP,LAC
+Shot Chart Detail,0022300964,590,202695,Kawhi Leonard,1610612746,LA Clippers,4,2,0,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,12,63,1,1,20240315,NOP,LAC
+Shot Chart Detail,0022300982,7,202695,Kawhi Leonard,1610612746,LA Clippers,1,11,38,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-116,129,1,1,20240317,LAC,ATL
+Shot Chart Detail,0022300982,22,202695,Kawhi Leonard,1610612746,LA Clippers,1,10,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-142,215,1,1,20240317,LAC,ATL
+Shot Chart Detail,0022300982,51,202695,Kawhi Leonard,1610612746,LA Clippers,1,7,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,11,1,1,20240317,LAC,ATL
+Shot Chart Detail,0022300982,65,202695,Kawhi Leonard,1610612746,LA Clippers,1,6,36,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,52,1,1,20240317,LAC,ATL
+Shot Chart Detail,0022300982,116,202695,Kawhi Leonard,1610612746,LA Clippers,1,3,3,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,53,111,1,1,20240317,LAC,ATL
+Shot Chart Detail,0022300982,144,202695,Kawhi Leonard,1610612746,LA Clippers,1,0,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-21,256,1,1,20240317,LAC,ATL
+Shot Chart Detail,0022300982,290,202695,Kawhi Leonard,1610612746,LA Clippers,2,1,58,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,50,75,1,1,20240317,LAC,ATL
+Shot Chart Detail,0022300982,349,202695,Kawhi Leonard,1610612746,LA Clippers,3,8,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,18,1,1,20240317,LAC,ATL
+Shot Chart Detail,0022301003,99,202695,Kawhi Leonard,1610612746,LA Clippers,1,2,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-74,157,1,1,20240320,POR,LAC
+Shot Chart Detail,0022301003,102,202695,Kawhi Leonard,1610612746,LA Clippers,1,2,33,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-103,10,1,1,20240320,POR,LAC
+Shot Chart Detail,0022301003,106,202695,Kawhi Leonard,1610612746,LA Clippers,1,1,49,Made Shot,Step Back Jump shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,34,1,1,20240320,POR,LAC
+Shot Chart Detail,0022301003,303,202695,Kawhi Leonard,1610612746,LA Clippers,3,8,13,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,10,1,1,20240320,POR,LAC
+Shot Chart Detail,0022301003,311,202695,Kawhi Leonard,1610612746,LA Clippers,3,7,0,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,29,10,1,1,20240320,POR,LAC
+Shot Chart Detail,0022301003,321,202695,Kawhi Leonard,1610612746,LA Clippers,3,6,36,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-62,24,1,1,20240320,POR,LAC
+Shot Chart Detail,0022301003,325,202695,Kawhi Leonard,1610612746,LA Clippers,3,6,23,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,22,1,1,20240320,POR,LAC
+Shot Chart Detail,0022301003,339,202695,Kawhi Leonard,1610612746,LA Clippers,3,5,44,Made Shot,Running Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,12,24,1,1,20240320,POR,LAC
+Shot Chart Detail,0022301003,358,202695,Kawhi Leonard,1610612746,LA Clippers,3,4,44,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,5,1,1,20240320,POR,LAC
+Shot Chart Detail,0022301017,50,202695,Kawhi Leonard,1610612746,LA Clippers,1,7,53,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,185,188,1,1,20240322,POR,LAC
+Shot Chart Detail,0022301017,60,202695,Kawhi Leonard,1610612746,LA Clippers,1,6,59,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,163,204,1,1,20240322,POR,LAC
+Shot Chart Detail,0022301017,86,202695,Kawhi Leonard,1610612746,LA Clippers,1,5,28,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,13,-74,107,1,1,20240322,POR,LAC
+Shot Chart Detail,0022301017,93,202695,Kawhi Leonard,1610612746,LA Clippers,1,4,39,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-5,89,1,1,20240322,POR,LAC
+Shot Chart Detail,0022301017,148,202695,Kawhi Leonard,1610612746,LA Clippers,1,1,32,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,67,132,1,1,20240322,POR,LAC
+Shot Chart Detail,0022301017,331,202695,Kawhi Leonard,1610612746,LA Clippers,3,11,43,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,21,24,1,1,20240322,POR,LAC
+Shot Chart Detail,0022301017,367,202695,Kawhi Leonard,1610612746,LA Clippers,3,8,32,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,17,1,1,20240322,POR,LAC
+Shot Chart Detail,0022301017,384,202695,Kawhi Leonard,1610612746,LA Clippers,3,7,50,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,119,153,1,1,20240322,POR,LAC
+Shot Chart Detail,0022301017,431,202695,Kawhi Leonard,1610612746,LA Clippers,3,5,31,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-11,183,1,1,20240322,POR,LAC
+Shot Chart Detail,0022301028,112,202695,Kawhi Leonard,1610612746,LA Clippers,1,1,33,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-59,30,1,1,20240324,LAC,PHI
+Shot Chart Detail,0022301028,231,202695,Kawhi Leonard,1610612746,LA Clippers,2,5,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,105,227,1,1,20240324,LAC,PHI
+Shot Chart Detail,0022301028,267,202695,Kawhi Leonard,1610612746,LA Clippers,2,1,39,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,16,1,1,20240324,LAC,PHI
+Shot Chart Detail,0022301028,283,202695,Kawhi Leonard,1610612746,LA Clippers,2,0,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,141,126,1,1,20240324,LAC,PHI
+Shot Chart Detail,0022301028,297,202695,Kawhi Leonard,1610612746,LA Clippers,3,11,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-116,58,1,1,20240324,LAC,PHI
+Shot Chart Detail,0022301028,379,202695,Kawhi Leonard,1610612746,LA Clippers,3,4,22,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-23,22,1,1,20240324,LAC,PHI
+Shot Chart Detail,0022301028,405,202695,Kawhi Leonard,1610612746,LA Clippers,3,2,35,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,8,1,1,20240324,LAC,PHI
+Shot Chart Detail,0022301043,98,202695,Kawhi Leonard,1610612746,LA Clippers,1,3,42,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,54,104,1,1,20240325,LAC,IND
+Shot Chart Detail,0022301043,113,202695,Kawhi Leonard,1610612746,LA Clippers,1,2,6,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,10,43,1,1,20240325,LAC,IND
+Shot Chart Detail,0022301043,116,202695,Kawhi Leonard,1610612746,LA Clippers,1,1,27,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,92,259,1,1,20240325,LAC,IND
+Shot Chart Detail,0022301043,233,202695,Kawhi Leonard,1610612746,LA Clippers,2,5,33,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-6,36,1,1,20240325,LAC,IND
+Shot Chart Detail,0022301043,276,202695,Kawhi Leonard,1610612746,LA Clippers,2,1,9,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-34,71,1,1,20240325,LAC,IND
+Shot Chart Detail,0022301043,314,202695,Kawhi Leonard,1610612746,LA Clippers,3,10,41,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,0,78,1,1,20240325,LAC,IND
+Shot Chart Detail,0022301043,316,202695,Kawhi Leonard,1610612746,LA Clippers,3,10,20,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,4,43,1,1,20240325,LAC,IND
+Shot Chart Detail,0022301043,335,202695,Kawhi Leonard,1610612746,LA Clippers,3,8,25,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,15,1,1,20240325,LAC,IND
+Shot Chart Detail,0022301043,420,202695,Kawhi Leonard,1610612746,LA Clippers,3,3,10,Made Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,15,41,1,1,20240325,LAC,IND
+Shot Chart Detail,0022301043,469,202695,Kawhi Leonard,1610612746,LA Clippers,3,0,26,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,20,132,1,1,20240325,LAC,IND
+Shot Chart Detail,0022301043,574,202695,Kawhi Leonard,1610612746,LA Clippers,4,4,31,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,13,1,1,20240325,LAC,IND
+Shot Chart Detail,0022301052,238,202695,Kawhi Leonard,1610612746,LA Clippers,2,5,54,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,0,1,1,20240327,PHI,LAC
+Shot Chart Detail,0022301052,407,202695,Kawhi Leonard,1610612746,LA Clippers,3,5,18,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,4,1,1,20240327,PHI,LAC
+Shot Chart Detail,0022301052,432,202695,Kawhi Leonard,1610612746,LA Clippers,3,3,27,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,5,11,1,1,20240327,PHI,LAC
+Shot Chart Detail,0022301052,532,202695,Kawhi Leonard,1610612746,LA Clippers,4,6,27,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,15,1,1,20240327,PHI,LAC
+Shot Chart Detail,0022301052,552,202695,Kawhi Leonard,1610612746,LA Clippers,4,4,19,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,18,57,1,1,20240327,PHI,LAC
+Shot Chart Detail,0022301052,591,202695,Kawhi Leonard,1610612746,LA Clippers,4,0,44,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,12,1,1,20240327,PHI,LAC
+Shot Chart Detail,0022301052,599,202695,Kawhi Leonard,1610612746,LA Clippers,4,0,15,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-7,29,1,1,20240327,PHI,LAC
+Shot Chart Detail,0022301064,70,202695,Kawhi Leonard,1610612746,LA Clippers,1,5,15,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,29,151,1,1,20240329,ORL,LAC
+Shot Chart Detail,0022301064,73,202695,Kawhi Leonard,1610612746,LA Clippers,1,4,48,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,87,116,1,1,20240329,ORL,LAC
+Shot Chart Detail,0022301064,252,202695,Kawhi Leonard,1610612746,LA Clippers,2,5,17,Made Shot,Driving Bank Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,17,1,1,20240329,ORL,LAC
+Shot Chart Detail,0022301064,280,202695,Kawhi Leonard,1610612746,LA Clippers,2,3,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,143,-17,1,1,20240329,ORL,LAC
+Shot Chart Detail,0022301064,301,202695,Kawhi Leonard,1610612746,LA Clippers,2,1,27,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,1,111,1,1,20240329,ORL,LAC
+Shot Chart Detail,0022301064,334,202695,Kawhi Leonard,1610612746,LA Clippers,3,9,53,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-69,259,1,1,20240329,ORL,LAC
+Shot Chart Detail,0022301064,367,202695,Kawhi Leonard,1610612746,LA Clippers,3,7,16,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,99,85,1,1,20240329,ORL,LAC
+Shot Chart Detail,0022301064,417,202695,Kawhi Leonard,1610612746,LA Clippers,3,3,30,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,5,76,1,1,20240329,ORL,LAC
+Shot Chart Detail,0022301064,420,202695,Kawhi Leonard,1610612746,LA Clippers,3,2,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,158,202,1,1,20240329,ORL,LAC
+Shot Chart Detail,0022301064,450,202695,Kawhi Leonard,1610612746,LA Clippers,3,0,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,130,231,1,1,20240329,ORL,LAC
+Shot Chart Detail,0022301064,604,202695,Kawhi Leonard,1610612746,LA Clippers,4,2,25,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,43,164,1,1,20240329,ORL,LAC
+Shot Chart Detail,0022301064,621,202695,Kawhi Leonard,1610612746,LA Clippers,4,0,34,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,109,159,1,1,20240329,ORL,LAC
+Shot Chart Detail,0022301079,29,202695,Kawhi Leonard,1610612746,LA Clippers,1,9,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,9,159,1,1,20240331,CHA,LAC
+Shot Chart Detail,0022301079,57,202695,Kawhi Leonard,1610612746,LA Clippers,1,6,14,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,36,106,1,1,20240331,CHA,LAC
+Shot Chart Detail,0022301079,85,202695,Kawhi Leonard,1610612746,LA Clippers,1,2,44,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-6,21,1,1,20240331,CHA,LAC
+Shot Chart Detail,0022301079,111,202695,Kawhi Leonard,1610612746,LA Clippers,1,1,21,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,15,1,1,20240331,CHA,LAC
+Shot Chart Detail,0022301079,241,202695,Kawhi Leonard,1610612746,LA Clippers,2,3,41,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,87,73,1,1,20240331,CHA,LAC
+Shot Chart Detail,0022301079,255,202695,Kawhi Leonard,1610612746,LA Clippers,2,2,37,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,237,76,1,1,20240331,CHA,LAC
+Shot Chart Detail,0022301079,393,202695,Kawhi Leonard,1610612746,LA Clippers,3,3,19,Made Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,7,53,1,1,20240331,CHA,LAC
+Shot Chart Detail,0022301079,417,202695,Kawhi Leonard,1610612746,LA Clippers,3,1,19,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-18,85,1,1,20240331,CHA,LAC
+Shot Chart Detail,0022301079,554,202695,Kawhi Leonard,1610612746,LA Clippers,4,2,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-225,116,1,1,20240331,CHA,LAC
+Shot Chart Detail,0022301079,558,202695,Kawhi Leonard,1610612746,LA Clippers,4,1,57,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,0,45,1,1,20240331,CHA,LAC
+Shot Chart Detail,0022301215,41,202695,Kawhi Leonard,1610612746,LA Clippers,1,7,4,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,47,20,1,1,20231206,LAC,DEN
+Shot Chart Detail,0022301215,60,202695,Kawhi Leonard,1610612746,LA Clippers,1,5,43,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,12,83,1,1,20231206,LAC,DEN
+Shot Chart Detail,0022301215,112,202695,Kawhi Leonard,1610612746,LA Clippers,1,2,35,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-45,116,1,1,20231206,LAC,DEN
+Shot Chart Detail,0022301215,377,202695,Kawhi Leonard,1610612746,LA Clippers,3,7,8,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,29,110,273,1,1,20231206,LAC,DEN
+Shot Chart Detail,0022301215,433,202695,Kawhi Leonard,1610612746,LA Clippers,3,2,25,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,10,1,1,20231206,LAC,DEN
+Shot Chart Detail,0022301215,578,202695,Kawhi Leonard,1610612746,LA Clippers,4,4,2,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,11,29,1,1,20231206,LAC,DEN
+Shot Chart Detail,0022301215,582,202695,Kawhi Leonard,1610612746,LA Clippers,4,3,36,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,15,1,1,20231206,LAC,DEN
+Shot Chart Detail,0022301215,593,202695,Kawhi Leonard,1610612746,LA Clippers,4,1,48,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-15,121,1,1,20231206,LAC,DEN
+Shot Chart Detail,0022301225,15,202695,Kawhi Leonard,1610612746,LA Clippers,1,10,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,10,257,1,1,20231208,UTA,LAC
+Shot Chart Detail,0022301225,26,202695,Kawhi Leonard,1610612746,LA Clippers,1,9,48,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-45,105,1,1,20231208,UTA,LAC
+Shot Chart Detail,0022301225,46,202695,Kawhi Leonard,1610612746,LA Clippers,1,7,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-6,253,1,1,20231208,UTA,LAC
+Shot Chart Detail,0022301225,93,202695,Kawhi Leonard,1610612746,LA Clippers,1,4,40,Made Shot,Running Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,7,1,1,20231208,UTA,LAC
+Shot Chart Detail,0022301225,103,202695,Kawhi Leonard,1610612746,LA Clippers,1,3,56,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,62,199,1,1,20231208,UTA,LAC
+Shot Chart Detail,0022301225,269,202695,Kawhi Leonard,1610612746,LA Clippers,2,4,24,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,11,1,1,20231208,UTA,LAC
+Shot Chart Detail,0022301225,303,202695,Kawhi Leonard,1610612746,LA Clippers,2,1,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,70,242,1,1,20231208,UTA,LAC
+Shot Chart Detail,0022301225,323,202695,Kawhi Leonard,1610612746,LA Clippers,2,0,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,99,252,1,1,20231208,UTA,LAC
+Shot Chart Detail,0022301225,425,202695,Kawhi Leonard,1610612746,LA Clippers,3,4,53,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,6,67,1,1,20231208,UTA,LAC
+Shot Chart Detail,0022301225,429,202695,Kawhi Leonard,1610612746,LA Clippers,3,4,17,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,62,71,1,1,20231208,UTA,LAC
+Shot Chart Detail,0022301225,463,202695,Kawhi Leonard,1610612746,LA Clippers,3,2,26,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-129,206,1,1,20231208,UTA,LAC
+Shot Chart Detail,0022301225,594,202695,Kawhi Leonard,1610612746,LA Clippers,4,5,59,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,6,1,1,20231208,UTA,LAC
+Shot Chart Detail,0022301225,602,202695,Kawhi Leonard,1610612746,LA Clippers,4,5,17,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,131,231,1,1,20231208,UTA,LAC
+Shot Chart Detail,0022301225,628,202695,Kawhi Leonard,1610612746,LA Clippers,4,2,22,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-5,94,1,1,20231208,UTA,LAC

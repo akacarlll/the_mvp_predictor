@@ -1,0 +1,561 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0020800004,11,2730,Dwight Howard,1610612753,Orlando Magic,1,10,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081029,ORL,ATL
+Shot Chart Detail,0020800004,224,2730,Dwight Howard,1610612753,Orlando Magic,2,3,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081029,ORL,ATL
+Shot Chart Detail,0020800004,236,2730,Dwight Howard,1610612753,Orlando Magic,2,2,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081029,ORL,ATL
+Shot Chart Detail,0020800004,348,2730,Dwight Howard,1610612753,Orlando Magic,3,6,27,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081029,ORL,ATL
+Shot Chart Detail,0020800004,452,2730,Dwight Howard,1610612753,Orlando Magic,4,11,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081029,ORL,ATL
+Shot Chart Detail,0020800004,481,2730,Dwight Howard,1610612753,Orlando Magic,4,9,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081029,ORL,ATL
+Shot Chart Detail,0020800004,511,2730,Dwight Howard,1610612753,Orlando Magic,4,6,58,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081029,ORL,ATL
+Shot Chart Detail,0020800004,574,2730,Dwight Howard,1610612753,Orlando Magic,4,1,9,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081029,ORL,ATL
+Shot Chart Detail,0020800023,74,2730,Dwight Howard,1610612753,Orlando Magic,1,3,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,11,1,1,20081031,MEM,ORL
+Shot Chart Detail,0020800023,131,2730,Dwight Howard,1610612753,Orlando Magic,2,11,34,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,28,19,1,1,20081031,MEM,ORL
+Shot Chart Detail,0020800023,182,2730,Dwight Howard,1610612753,Orlando Magic,2,7,12,Made Shot,Turnaround Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,47,25,1,1,20081031,MEM,ORL
+Shot Chart Detail,0020800023,282,2730,Dwight Howard,1610612753,Orlando Magic,3,11,0,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081031,MEM,ORL
+Shot Chart Detail,0020800023,318,2730,Dwight Howard,1610612753,Orlando Magic,3,7,58,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081031,MEM,ORL
+Shot Chart Detail,0020800029,29,2730,Dwight Howard,1610612753,Orlando Magic,1,8,11,Made Shot,Hook Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,62,42,1,1,20081101,ORL,SAC
+Shot Chart Detail,0020800029,53,2730,Dwight Howard,1610612753,Orlando Magic,1,5,32,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081101,ORL,SAC
+Shot Chart Detail,0020800029,70,2730,Dwight Howard,1610612753,Orlando Magic,1,4,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081101,ORL,SAC
+Shot Chart Detail,0020800029,148,2730,Dwight Howard,1610612753,Orlando Magic,2,9,40,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081101,ORL,SAC
+Shot Chart Detail,0020800029,150,2730,Dwight Howard,1610612753,Orlando Magic,2,9,12,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081101,ORL,SAC
+Shot Chart Detail,0020800029,195,2730,Dwight Howard,1610612753,Orlando Magic,2,5,39,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-18,75,1,1,20081101,ORL,SAC
+Shot Chart Detail,0020800029,315,2730,Dwight Howard,1610612753,Orlando Magic,3,6,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081101,ORL,SAC
+Shot Chart Detail,0020800029,368,2730,Dwight Howard,1610612753,Orlando Magic,3,2,39,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081101,ORL,SAC
+Shot Chart Detail,0020800029,402,2730,Dwight Howard,1610612753,Orlando Magic,3,0,2,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081101,ORL,SAC
+Shot Chart Detail,0020800029,457,2730,Dwight Howard,1610612753,Orlando Magic,4,5,48,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081101,ORL,SAC
+Shot Chart Detail,0020800029,467,2730,Dwight Howard,1610612753,Orlando Magic,4,5,26,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-57,47,1,1,20081101,ORL,SAC
+Shot Chart Detail,0020800043,32,2730,Dwight Howard,1610612753,Orlando Magic,1,8,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081103,ORL,CHI
+Shot Chart Detail,0020800043,43,2730,Dwight Howard,1610612753,Orlando Magic,1,8,7,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081103,ORL,CHI
+Shot Chart Detail,0020800043,51,2730,Dwight Howard,1610612753,Orlando Magic,1,7,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081103,ORL,CHI
+Shot Chart Detail,0020800043,61,2730,Dwight Howard,1610612753,Orlando Magic,1,6,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081103,ORL,CHI
+Shot Chart Detail,0020800043,115,2730,Dwight Howard,1610612753,Orlando Magic,1,1,52,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081103,ORL,CHI
+Shot Chart Detail,0020800043,256,2730,Dwight Howard,1610612753,Orlando Magic,2,2,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081103,ORL,CHI
+Shot Chart Detail,0020800043,314,2730,Dwight Howard,1610612753,Orlando Magic,3,9,52,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081103,ORL,CHI
+Shot Chart Detail,0020800043,378,2730,Dwight Howard,1610612753,Orlando Magic,3,3,26,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,4,37,1,1,20081103,ORL,CHI
+Shot Chart Detail,0020800043,505,2730,Dwight Howard,1610612753,Orlando Magic,4,4,27,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,10,52,1,1,20081103,ORL,CHI
+Shot Chart Detail,0020800064,160,2730,Dwight Howard,1610612753,Orlando Magic,2,10,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081106,ORL,PHI
+Shot Chart Detail,0020800064,296,2730,Dwight Howard,1610612753,Orlando Magic,3,11,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081106,ORL,PHI
+Shot Chart Detail,0020800064,379,2730,Dwight Howard,1610612753,Orlando Magic,3,3,8,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081106,ORL,PHI
+Shot Chart Detail,0020800064,449,2730,Dwight Howard,1610612753,Orlando Magic,4,8,19,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081106,ORL,PHI
+Shot Chart Detail,0020800064,483,2730,Dwight Howard,1610612753,Orlando Magic,4,5,24,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081106,ORL,PHI
+Shot Chart Detail,0020800064,540,2730,Dwight Howard,1610612753,Orlando Magic,4,0,8,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081106,ORL,PHI
+Shot Chart Detail,0020800080,18,2730,Dwight Howard,1610612753,Orlando Magic,1,8,50,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081108,ORL,WAS
+Shot Chart Detail,0020800080,52,2730,Dwight Howard,1610612753,Orlando Magic,1,5,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081108,ORL,WAS
+Shot Chart Detail,0020800080,67,2730,Dwight Howard,1610612753,Orlando Magic,1,2,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081108,ORL,WAS
+Shot Chart Detail,0020800080,148,2730,Dwight Howard,1610612753,Orlando Magic,2,7,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081108,ORL,WAS
+Shot Chart Detail,0020800080,260,2730,Dwight Howard,1610612753,Orlando Magic,3,8,11,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081108,ORL,WAS
+Shot Chart Detail,0020800080,266,2730,Dwight Howard,1610612753,Orlando Magic,3,7,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081108,ORL,WAS
+Shot Chart Detail,0020800080,285,2730,Dwight Howard,1610612753,Orlando Magic,3,6,28,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,43,61,1,1,20081108,ORL,WAS
+Shot Chart Detail,0020800080,295,2730,Dwight Howard,1610612753,Orlando Magic,3,5,29,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081108,ORL,WAS
+Shot Chart Detail,0020800080,417,2730,Dwight Howard,1610612753,Orlando Magic,4,7,56,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,31,28,1,1,20081108,ORL,WAS
+Shot Chart Detail,0020800080,461,2730,Dwight Howard,1610612753,Orlando Magic,4,3,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081108,ORL,WAS
+Shot Chart Detail,0020800080,470,2730,Dwight Howard,1610612753,Orlando Magic,4,2,44,Made Shot,Jump Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081108,ORL,WAS
+Shot Chart Detail,0020800094,18,2730,Dwight Howard,1610612753,Orlando Magic,1,10,21,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081110,ORL,POR
+Shot Chart Detail,0020800094,38,2730,Dwight Howard,1610612753,Orlando Magic,1,8,40,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-52,37,1,1,20081110,ORL,POR
+Shot Chart Detail,0020800094,56,2730,Dwight Howard,1610612753,Orlando Magic,1,5,55,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,0,82,1,1,20081110,ORL,POR
+Shot Chart Detail,0020800094,172,2730,Dwight Howard,1610612753,Orlando Magic,2,7,15,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081110,ORL,POR
+Shot Chart Detail,0020800094,178,2730,Dwight Howard,1610612753,Orlando Magic,2,6,36,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081110,ORL,POR
+Shot Chart Detail,0020800094,225,2730,Dwight Howard,1610612753,Orlando Magic,2,2,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081110,ORL,POR
+Shot Chart Detail,0020800094,265,2730,Dwight Howard,1610612753,Orlando Magic,2,0,2,Made Shot,Jump Bank Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,12,1,1,20081110,ORL,POR
+Shot Chart Detail,0020800094,308,2730,Dwight Howard,1610612753,Orlando Magic,3,8,1,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081110,ORL,POR
+Shot Chart Detail,0020800113,25,2730,Dwight Howard,1610612753,Orlando Magic,1,8,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081112,OKC,ORL
+Shot Chart Detail,0020800113,28,2730,Dwight Howard,1610612753,Orlando Magic,1,7,54,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-97,30,1,1,20081112,OKC,ORL
+Shot Chart Detail,0020800113,34,2730,Dwight Howard,1610612753,Orlando Magic,1,7,24,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081112,OKC,ORL
+Shot Chart Detail,0020800113,59,2730,Dwight Howard,1610612753,Orlando Magic,1,4,27,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-86,33,1,1,20081112,OKC,ORL
+Shot Chart Detail,0020800113,69,2730,Dwight Howard,1610612753,Orlando Magic,1,4,3,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081112,OKC,ORL
+Shot Chart Detail,0020800113,106,2730,Dwight Howard,1610612753,Orlando Magic,1,0,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081112,OKC,ORL
+Shot Chart Detail,0020800113,170,2730,Dwight Howard,1610612753,Orlando Magic,2,7,55,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081112,OKC,ORL
+Shot Chart Detail,0020800113,303,2730,Dwight Howard,1610612753,Orlando Magic,3,8,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081112,OKC,ORL
+Shot Chart Detail,0020800113,313,2730,Dwight Howard,1610612753,Orlando Magic,3,7,34,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081112,OKC,ORL
+Shot Chart Detail,0020800113,316,2730,Dwight Howard,1610612753,Orlando Magic,3,6,54,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,122,47,1,1,20081112,OKC,ORL
+Shot Chart Detail,0020800113,374,2730,Dwight Howard,1610612753,Orlando Magic,3,1,55,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081112,OKC,ORL
+Shot Chart Detail,0020800113,496,2730,Dwight Howard,1610612753,Orlando Magic,4,5,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081112,OKC,ORL
+Shot Chart Detail,0020800128,51,2730,Dwight Howard,1610612753,Orlando Magic,1,6,42,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081114,DAL,ORL
+Shot Chart Detail,0020800128,105,2730,Dwight Howard,1610612753,Orlando Magic,1,2,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081114,DAL,ORL
+Shot Chart Detail,0020800128,186,2730,Dwight Howard,1610612753,Orlando Magic,2,5,47,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,4,77,1,1,20081114,DAL,ORL
+Shot Chart Detail,0020800128,195,2730,Dwight Howard,1610612753,Orlando Magic,2,4,52,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081114,DAL,ORL
+Shot Chart Detail,0020800128,247,2730,Dwight Howard,1610612753,Orlando Magic,2,0,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081114,DAL,ORL
+Shot Chart Detail,0020800128,368,2730,Dwight Howard,1610612753,Orlando Magic,3,2,34,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-35,91,1,1,20081114,DAL,ORL
+Shot Chart Detail,0020800151,183,2730,Dwight Howard,1610612753,Orlando Magic,2,5,23,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,24,44,1,1,20081118,ORL,TOR
+Shot Chart Detail,0020800151,208,2730,Dwight Howard,1610612753,Orlando Magic,2,2,55,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081118,ORL,TOR
+Shot Chart Detail,0020800151,224,2730,Dwight Howard,1610612753,Orlando Magic,2,0,48,Made Shot,Jump Bank Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,95,36,1,1,20081118,ORL,TOR
+Shot Chart Detail,0020800151,278,2730,Dwight Howard,1610612753,Orlando Magic,3,8,20,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081118,ORL,TOR
+Shot Chart Detail,0020800151,436,2730,Dwight Howard,1610612753,Orlando Magic,4,7,9,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-76,12,1,1,20081118,ORL,TOR
+Shot Chart Detail,0020800171,14,2730,Dwight Howard,1610612753,Orlando Magic,1,11,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-157,1,1,1,20081121,IND,ORL
+Shot Chart Detail,0020800171,72,2730,Dwight Howard,1610612753,Orlando Magic,1,4,45,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,12,50,1,1,20081121,IND,ORL
+Shot Chart Detail,0020800171,179,2730,Dwight Howard,1610612753,Orlando Magic,2,6,55,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,0,1,1,20081121,IND,ORL
+Shot Chart Detail,0020800171,185,2730,Dwight Howard,1610612753,Orlando Magic,2,6,19,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,4,53,1,1,20081121,IND,ORL
+Shot Chart Detail,0020800171,187,2730,Dwight Howard,1610612753,Orlando Magic,2,5,58,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,-5,1,1,20081121,IND,ORL
+Shot Chart Detail,0020800171,206,2730,Dwight Howard,1610612753,Orlando Magic,2,4,19,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,1,1,1,20081121,IND,ORL
+Shot Chart Detail,0020800171,228,2730,Dwight Howard,1610612753,Orlando Magic,2,2,7,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,20,33,1,1,20081121,IND,ORL
+Shot Chart Detail,0020800171,315,2730,Dwight Howard,1610612753,Orlando Magic,3,5,9,Made Shot,Putback Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,1,1,1,20081121,IND,ORL
+Shot Chart Detail,0020800171,517,2730,Dwight Howard,1610612753,Orlando Magic,5,3,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,-8,1,1,20081121,IND,ORL
+Shot Chart Detail,0020800185,114,2730,Dwight Howard,1610612753,Orlando Magic,2,11,46,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,28,60,1,1,20081122,ORL,HOU
+Shot Chart Detail,0020800185,287,2730,Dwight Howard,1610612753,Orlando Magic,3,7,18,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-11,61,1,1,20081122,ORL,HOU
+Shot Chart Detail,0020800185,332,2730,Dwight Howard,1610612753,Orlando Magic,3,3,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081122,ORL,HOU
+Shot Chart Detail,0020800185,364,2730,Dwight Howard,1610612753,Orlando Magic,3,0,7,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081122,ORL,HOU
+Shot Chart Detail,0020800185,430,2730,Dwight Howard,1610612753,Orlando Magic,4,5,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081122,ORL,HOU
+Shot Chart Detail,0020800199,3,2730,Dwight Howard,1610612753,Orlando Magic,1,11,30,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081124,ORL,MIL
+Shot Chart Detail,0020800199,84,2730,Dwight Howard,1610612753,Orlando Magic,1,2,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081124,ORL,MIL
+Shot Chart Detail,0020800199,301,2730,Dwight Howard,1610612753,Orlando Magic,3,9,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081124,ORL,MIL
+Shot Chart Detail,0020800199,335,2730,Dwight Howard,1610612753,Orlando Magic,3,6,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081124,ORL,MIL
+Shot Chart Detail,0020800199,381,2730,Dwight Howard,1610612753,Orlando Magic,3,3,7,Made Shot,Putback Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081124,ORL,MIL
+Shot Chart Detail,0020800199,408,2730,Dwight Howard,1610612753,Orlando Magic,3,1,1,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081124,ORL,MIL
+Shot Chart Detail,0020800199,549,2730,Dwight Howard,1610612753,Orlando Magic,4,1,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081124,ORL,MIL
+Shot Chart Detail,0020800214,14,2730,Dwight Howard,1610612753,Orlando Magic,1,9,44,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081126,PHI,ORL
+Shot Chart Detail,0020800214,38,2730,Dwight Howard,1610612753,Orlando Magic,1,7,1,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081126,PHI,ORL
+Shot Chart Detail,0020800214,177,2730,Dwight Howard,1610612753,Orlando Magic,2,5,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081126,PHI,ORL
+Shot Chart Detail,0020800214,252,2730,Dwight Howard,1610612753,Orlando Magic,3,10,59,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,4,78,1,1,20081126,PHI,ORL
+Shot Chart Detail,0020800223,4,2730,Dwight Howard,1610612753,Orlando Magic,1,11,18,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,-3,1,1,20081127,WAS,ORL
+Shot Chart Detail,0020800223,17,2730,Dwight Howard,1610612753,Orlando Magic,1,10,13,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,6,1,1,20081127,WAS,ORL
+Shot Chart Detail,0020800223,88,2730,Dwight Howard,1610612753,Orlando Magic,1,5,42,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,3,1,1,20081127,WAS,ORL
+Shot Chart Detail,0020800223,105,2730,Dwight Howard,1610612753,Orlando Magic,1,3,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,12,1,1,20081127,WAS,ORL
+Shot Chart Detail,0020800223,242,2730,Dwight Howard,1610612753,Orlando Magic,2,1,44,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,23,56,1,1,20081127,WAS,ORL
+Shot Chart Detail,0020800223,283,2730,Dwight Howard,1610612753,Orlando Magic,3,10,7,Made Shot,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,6,1,1,20081127,WAS,ORL
+Shot Chart Detail,0020800223,293,2730,Dwight Howard,1610612753,Orlando Magic,3,9,13,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-67,3,1,1,20081127,WAS,ORL
+Shot Chart Detail,0020800223,302,2730,Dwight Howard,1610612753,Orlando Magic,3,8,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,3,1,1,20081127,WAS,ORL
+Shot Chart Detail,0020800237,15,2730,Dwight Howard,1610612753,Orlando Magic,1,10,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081129,ORL,IND
+Shot Chart Detail,0020800237,70,2730,Dwight Howard,1610612753,Orlando Magic,1,5,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081129,ORL,IND
+Shot Chart Detail,0020800237,167,2730,Dwight Howard,1610612753,Orlando Magic,2,9,20,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081129,ORL,IND
+Shot Chart Detail,0020800237,199,2730,Dwight Howard,1610612753,Orlando Magic,2,7,5,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081129,ORL,IND
+Shot Chart Detail,0020800237,214,2730,Dwight Howard,1610612753,Orlando Magic,2,5,46,Made Shot,Hook Bank Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,73,58,1,1,20081129,ORL,IND
+Shot Chart Detail,0020800237,251,2730,Dwight Howard,1610612753,Orlando Magic,2,2,4,Made Shot,Hook Bank Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,70,42,1,1,20081129,ORL,IND
+Shot Chart Detail,0020800237,273,2730,Dwight Howard,1610612753,Orlando Magic,2,0,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081129,ORL,IND
+Shot Chart Detail,0020800237,306,2730,Dwight Howard,1610612753,Orlando Magic,3,9,0,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,13,61,1,1,20081129,ORL,IND
+Shot Chart Detail,0020800237,309,2730,Dwight Howard,1610612753,Orlando Magic,3,8,23,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081129,ORL,IND
+Shot Chart Detail,0020800237,389,2730,Dwight Howard,1610612753,Orlando Magic,3,1,29,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,31,39,1,1,20081129,ORL,IND
+Shot Chart Detail,0020800237,430,2730,Dwight Howard,1610612753,Orlando Magic,4,10,0,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081129,ORL,IND
+Shot Chart Detail,0020800253,162,2730,Dwight Howard,1610612753,Orlando Magic,2,7,34,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,2,52,1,1,20081201,BOS,ORL
+Shot Chart Detail,0020800253,217,2730,Dwight Howard,1610612753,Orlando Magic,2,2,24,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,6,1,1,20081201,BOS,ORL
+Shot Chart Detail,0020800253,284,2730,Dwight Howard,1610612753,Orlando Magic,3,8,6,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,6,1,1,20081201,BOS,ORL
+Shot Chart Detail,0020800253,322,2730,Dwight Howard,1610612753,Orlando Magic,3,3,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,12,1,1,20081201,BOS,ORL
+Shot Chart Detail,0020800253,327,2730,Dwight Howard,1610612753,Orlando Magic,3,3,0,Made Shot,Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,103,-3,1,1,20081201,BOS,ORL
+Shot Chart Detail,0020800266,7,2730,Dwight Howard,1610612753,Orlando Magic,1,10,54,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-27,58,1,1,20081203,ORL,MIN
+Shot Chart Detail,0020800266,20,2730,Dwight Howard,1610612753,Orlando Magic,1,9,16,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081203,ORL,MIN
+Shot Chart Detail,0020800266,49,2730,Dwight Howard,1610612753,Orlando Magic,1,5,6,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081203,ORL,MIN
+Shot Chart Detail,0020800266,219,2730,Dwight Howard,1610612753,Orlando Magic,2,1,44,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081203,ORL,MIN
+Shot Chart Detail,0020800266,268,2730,Dwight Howard,1610612753,Orlando Magic,3,8,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081203,ORL,MIN
+Shot Chart Detail,0020800266,347,2730,Dwight Howard,1610612753,Orlando Magic,3,0,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081203,ORL,MIN
+Shot Chart Detail,0020800266,446,2730,Dwight Howard,1610612753,Orlando Magic,4,3,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081203,ORL,MIN
+Shot Chart Detail,0020800276,4,2730,Dwight Howard,1610612753,Orlando Magic,1,11,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081205,ORL,OKC
+Shot Chart Detail,0020800276,13,2730,Dwight Howard,1610612753,Orlando Magic,1,11,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081205,ORL,OKC
+Shot Chart Detail,0020800276,15,2730,Dwight Howard,1610612753,Orlando Magic,1,10,55,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081205,ORL,OKC
+Shot Chart Detail,0020800276,140,2730,Dwight Howard,1610612753,Orlando Magic,1,0,3,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081205,ORL,OKC
+Shot Chart Detail,0020800276,318,2730,Dwight Howard,1610612753,Orlando Magic,3,6,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081205,ORL,OKC
+Shot Chart Detail,0020800276,352,2730,Dwight Howard,1610612753,Orlando Magic,3,3,58,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081205,ORL,OKC
+Shot Chart Detail,0020800276,460,2730,Dwight Howard,1610612753,Orlando Magic,4,5,7,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081205,ORL,OKC
+Shot Chart Detail,0020800304,39,2730,Dwight Howard,1610612753,Orlando Magic,1,7,19,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081208,LAC,ORL
+Shot Chart Detail,0020800304,69,2730,Dwight Howard,1610612753,Orlando Magic,1,3,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081208,LAC,ORL
+Shot Chart Detail,0020800304,146,2730,Dwight Howard,1610612753,Orlando Magic,2,9,52,Made Shot,Reverse Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081208,LAC,ORL
+Shot Chart Detail,0020800304,331,2730,Dwight Howard,1610612753,Orlando Magic,3,4,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081208,LAC,ORL
+Shot Chart Detail,0020800304,351,2730,Dwight Howard,1610612753,Orlando Magic,3,2,48,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,95,28,1,1,20081208,LAC,ORL
+Shot Chart Detail,0020800304,362,2730,Dwight Howard,1610612753,Orlando Magic,3,1,36,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081208,LAC,ORL
+Shot Chart Detail,0020800304,463,2730,Dwight Howard,1610612753,Orlando Magic,4,4,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081208,LAC,ORL
+Shot Chart Detail,0020800312,12,2730,Dwight Howard,1610612753,Orlando Magic,1,10,44,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,31,42,1,1,20081209,POR,ORL
+Shot Chart Detail,0020800312,21,2730,Dwight Howard,1610612753,Orlando Magic,1,10,0,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,72,45,1,1,20081209,POR,ORL
+Shot Chart Detail,0020800312,38,2730,Dwight Howard,1610612753,Orlando Magic,1,6,45,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-24,48,1,1,20081209,POR,ORL
+Shot Chart Detail,0020800312,50,2730,Dwight Howard,1610612753,Orlando Magic,1,5,30,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-43,37,1,1,20081209,POR,ORL
+Shot Chart Detail,0020800312,403,2730,Dwight Howard,1610612753,Orlando Magic,4,7,41,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081209,POR,ORL
+Shot Chart Detail,0020800333,4,2730,Dwight Howard,1610612753,Orlando Magic,1,11,9,Made Shot,Turnaround Bank shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-65,64,1,1,20081212,PHX,ORL
+Shot Chart Detail,0020800333,43,2730,Dwight Howard,1610612753,Orlando Magic,1,7,9,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081212,PHX,ORL
+Shot Chart Detail,0020800333,65,2730,Dwight Howard,1610612753,Orlando Magic,1,5,25,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081212,PHX,ORL
+Shot Chart Detail,0020800333,70,2730,Dwight Howard,1610612753,Orlando Magic,1,4,42,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081212,PHX,ORL
+Shot Chart Detail,0020800333,87,2730,Dwight Howard,1610612753,Orlando Magic,1,3,40,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-2,75,1,1,20081212,PHX,ORL
+Shot Chart Detail,0020800333,191,2730,Dwight Howard,1610612753,Orlando Magic,2,5,55,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-64,34,1,1,20081212,PHX,ORL
+Shot Chart Detail,0020800333,231,2730,Dwight Howard,1610612753,Orlando Magic,2,1,26,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081212,PHX,ORL
+Shot Chart Detail,0020800333,243,2730,Dwight Howard,1610612753,Orlando Magic,2,0,27,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,1,82,1,1,20081212,PHX,ORL
+Shot Chart Detail,0020800375,50,2730,Dwight Howard,1610612753,Orlando Magic,1,6,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081218,ORL,SAS
+Shot Chart Detail,0020800375,60,2730,Dwight Howard,1610612753,Orlando Magic,1,5,17,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081218,ORL,SAS
+Shot Chart Detail,0020800375,176,2730,Dwight Howard,1610612753,Orlando Magic,2,6,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081218,ORL,SAS
+Shot Chart Detail,0020800375,207,2730,Dwight Howard,1610612753,Orlando Magic,2,3,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081218,ORL,SAS
+Shot Chart Detail,0020800375,267,2730,Dwight Howard,1610612753,Orlando Magic,3,9,11,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081218,ORL,SAS
+Shot Chart Detail,0020800375,309,2730,Dwight Howard,1610612753,Orlando Magic,3,4,59,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081218,ORL,SAS
+Shot Chart Detail,0020800390,49,2730,Dwight Howard,1610612753,Orlando Magic,1,7,22,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-4,72,1,1,20081220,ORL,LAL
+Shot Chart Detail,0020800390,374,2730,Dwight Howard,1610612753,Orlando Magic,3,4,44,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-26,66,1,1,20081220,ORL,LAL
+Shot Chart Detail,0020800390,447,2730,Dwight Howard,1610612753,Orlando Magic,4,8,52,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,18,63,1,1,20081220,ORL,LAL
+Shot Chart Detail,0020800390,508,2730,Dwight Howard,1610612753,Orlando Magic,4,3,38,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,64,45,1,1,20081220,ORL,LAL
+Shot Chart Detail,0020800403,62,2730,Dwight Howard,1610612753,Orlando Magic,1,7,7,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081222,ORL,GSW
+Shot Chart Detail,0020800403,74,2730,Dwight Howard,1610612753,Orlando Magic,1,6,6,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081222,ORL,GSW
+Shot Chart Detail,0020800403,152,2730,Dwight Howard,1610612753,Orlando Magic,2,10,32,Made Shot,Hook Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,92,20,1,1,20081222,ORL,GSW
+Shot Chart Detail,0020800403,199,2730,Dwight Howard,1610612753,Orlando Magic,2,7,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081222,ORL,GSW
+Shot Chart Detail,0020800421,217,2730,Dwight Howard,1610612753,Orlando Magic,2,3,48,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081225,ORL,NOH
+Shot Chart Detail,0020800421,221,2730,Dwight Howard,1610612753,Orlando Magic,2,3,20,Made Shot,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081225,ORL,NOH
+Shot Chart Detail,0020800421,228,2730,Dwight Howard,1610612753,Orlando Magic,2,2,25,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-128,69,1,1,20081225,ORL,NOH
+Shot Chart Detail,0020800421,273,2730,Dwight Howard,1610612753,Orlando Magic,3,10,12,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,45,53,1,1,20081225,ORL,NOH
+Shot Chart Detail,0020800439,5,2730,Dwight Howard,1610612753,Orlando Magic,1,11,12,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,36,78,1,1,20081227,MIN,ORL
+Shot Chart Detail,0020800439,13,2730,Dwight Howard,1610612753,Orlando Magic,1,10,41,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-51,30,1,1,20081227,MIN,ORL
+Shot Chart Detail,0020800439,41,2730,Dwight Howard,1610612753,Orlando Magic,1,7,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081227,MIN,ORL
+Shot Chart Detail,0020800439,55,2730,Dwight Howard,1610612753,Orlando Magic,1,5,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081227,MIN,ORL
+Shot Chart Detail,0020800439,88,2730,Dwight Howard,1610612753,Orlando Magic,1,2,44,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-153,74,1,1,20081227,MIN,ORL
+Shot Chart Detail,0020800439,309,2730,Dwight Howard,1610612753,Orlando Magic,3,8,39,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081227,MIN,ORL
+Shot Chart Detail,0020800439,328,2730,Dwight Howard,1610612753,Orlando Magic,3,6,25,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081227,MIN,ORL
+Shot Chart Detail,0020800451,241,2730,Dwight Howard,1610612753,Orlando Magic,3,11,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081229,DET,ORL
+Shot Chart Detail,0020800451,255,2730,Dwight Howard,1610612753,Orlando Magic,3,9,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081229,DET,ORL
+Shot Chart Detail,0020800451,269,2730,Dwight Howard,1610612753,Orlando Magic,3,7,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081229,DET,ORL
+Shot Chart Detail,0020800451,292,2730,Dwight Howard,1610612753,Orlando Magic,3,6,2,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081229,DET,ORL
+Shot Chart Detail,0020800451,299,2730,Dwight Howard,1610612753,Orlando Magic,3,3,54,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-34,20,1,1,20081229,DET,ORL
+Shot Chart Detail,0020800451,361,2730,Dwight Howard,1610612753,Orlando Magic,4,8,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081229,DET,ORL
+Shot Chart Detail,0020800451,368,2730,Dwight Howard,1610612753,Orlando Magic,4,8,0,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-64,6,1,1,20081229,DET,ORL
+Shot Chart Detail,0020800467,41,2730,Dwight Howard,1610612753,Orlando Magic,1,7,43,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-24,33,1,1,20081231,CHI,ORL
+Shot Chart Detail,0020800467,56,2730,Dwight Howard,1610612753,Orlando Magic,1,5,45,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-54,37,1,1,20081231,CHI,ORL
+Shot Chart Detail,0020800467,182,2730,Dwight Howard,1610612753,Orlando Magic,2,6,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-127,101,1,1,20081231,CHI,ORL
+Shot Chart Detail,0020800467,219,2730,Dwight Howard,1610612753,Orlando Magic,2,3,30,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081231,CHI,ORL
+Shot Chart Detail,0020800467,281,2730,Dwight Howard,1610612753,Orlando Magic,3,10,21,Made Shot,Putback Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081231,CHI,ORL
+Shot Chart Detail,0020800473,17,2730,Dwight Howard,1610612753,Orlando Magic,1,9,54,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090102,ORL,MIA
+Shot Chart Detail,0020800473,47,2730,Dwight Howard,1610612753,Orlando Magic,1,5,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090102,ORL,MIA
+Shot Chart Detail,0020800473,212,2730,Dwight Howard,1610612753,Orlando Magic,2,2,40,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090102,ORL,MIA
+Shot Chart Detail,0020800473,300,2730,Dwight Howard,1610612753,Orlando Magic,3,5,22,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090102,ORL,MIA
+Shot Chart Detail,0020800473,448,2730,Dwight Howard,1610612753,Orlando Magic,4,4,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090102,ORL,MIA
+Shot Chart Detail,0020800473,484,2730,Dwight Howard,1610612753,Orlando Magic,4,0,58,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090102,ORL,MIA
+Shot Chart Detail,0020800495,5,2730,Dwight Howard,1610612753,Orlando Magic,1,11,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090104,TOR,ORL
+Shot Chart Detail,0020800495,10,2730,Dwight Howard,1610612753,Orlando Magic,1,11,11,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,9,69,1,1,20090104,TOR,ORL
+Shot Chart Detail,0020800495,19,2730,Dwight Howard,1610612753,Orlando Magic,1,10,41,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090104,TOR,ORL
+Shot Chart Detail,0020800495,30,2730,Dwight Howard,1610612753,Orlando Magic,1,9,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090104,TOR,ORL
+Shot Chart Detail,0020800495,181,2730,Dwight Howard,1610612753,Orlando Magic,2,8,42,Made Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-34,26,1,1,20090104,TOR,ORL
+Shot Chart Detail,0020800495,205,2730,Dwight Howard,1610612753,Orlando Magic,2,6,7,Made Shot,Reverse Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090104,TOR,ORL
+Shot Chart Detail,0020800495,213,2730,Dwight Howard,1610612753,Orlando Magic,2,5,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090104,TOR,ORL
+Shot Chart Detail,0020800495,288,2730,Dwight Howard,1610612753,Orlando Magic,3,10,3,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090104,TOR,ORL
+Shot Chart Detail,0020800495,341,2730,Dwight Howard,1610612753,Orlando Magic,3,5,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090104,TOR,ORL
+Shot Chart Detail,0020800495,377,2730,Dwight Howard,1610612753,Orlando Magic,3,3,0,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090104,TOR,ORL
+Shot Chart Detail,0020800495,402,2730,Dwight Howard,1610612753,Orlando Magic,3,0,32,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090104,TOR,ORL
+Shot Chart Detail,0020800495,429,2730,Dwight Howard,1610612753,Orlando Magic,4,10,1,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090104,TOR,ORL
+Shot Chart Detail,0020800495,437,2730,Dwight Howard,1610612753,Orlando Magic,4,9,25,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090104,TOR,ORL
+Shot Chart Detail,0020800495,514,2730,Dwight Howard,1610612753,Orlando Magic,4,4,49,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,9,83,1,1,20090104,TOR,ORL
+Shot Chart Detail,0020800507,8,2730,Dwight Howard,1610612753,Orlando Magic,1,11,23,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090106,ORL,WAS
+Shot Chart Detail,0020800507,36,2730,Dwight Howard,1610612753,Orlando Magic,1,6,51,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090106,ORL,WAS
+Shot Chart Detail,0020800507,254,2730,Dwight Howard,1610612753,Orlando Magic,3,10,33,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090106,ORL,WAS
+Shot Chart Detail,0020800507,283,2730,Dwight Howard,1610612753,Orlando Magic,3,7,5,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090106,ORL,WAS
+Shot Chart Detail,0020800507,289,2730,Dwight Howard,1610612753,Orlando Magic,3,6,15,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090106,ORL,WAS
+Shot Chart Detail,0020800514,9,2730,Dwight Howard,1610612753,Orlando Magic,1,10,37,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,54,97,1,1,20090107,ATL,ORL
+Shot Chart Detail,0020800514,62,2730,Dwight Howard,1610612753,Orlando Magic,1,4,51,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,14,1,1,20090107,ATL,ORL
+Shot Chart Detail,0020800514,168,2730,Dwight Howard,1610612753,Orlando Magic,2,6,45,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090107,ATL,ORL
+Shot Chart Detail,0020800514,249,2730,Dwight Howard,1610612753,Orlando Magic,3,11,38,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,39,60,1,1,20090107,ATL,ORL
+Shot Chart Detail,0020800514,315,2730,Dwight Howard,1610612753,Orlando Magic,3,4,21,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,7,1,1,20090107,ATL,ORL
+Shot Chart Detail,0020800514,385,2730,Dwight Howard,1610612753,Orlando Magic,4,10,18,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-2,52,1,1,20090107,ATL,ORL
+Shot Chart Detail,0020800514,413,2730,Dwight Howard,1610612753,Orlando Magic,4,7,28,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090107,ATL,ORL
+Shot Chart Detail,0020800514,417,2730,Dwight Howard,1610612753,Orlando Magic,4,6,46,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090107,ATL,ORL
+Shot Chart Detail,0020800528,14,2730,Dwight Howard,1610612753,Orlando Magic,1,9,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090109,ORL,ATL
+Shot Chart Detail,0020800528,39,2730,Dwight Howard,1610612753,Orlando Magic,1,7,3,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090109,ORL,ATL
+Shot Chart Detail,0020800528,226,2730,Dwight Howard,1610612753,Orlando Magic,2,5,30,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-78,50,1,1,20090109,ORL,ATL
+Shot Chart Detail,0020800528,248,2730,Dwight Howard,1610612753,Orlando Magic,2,3,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090109,ORL,ATL
+Shot Chart Detail,0020800528,255,2730,Dwight Howard,1610612753,Orlando Magic,2,2,54,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090109,ORL,ATL
+Shot Chart Detail,0020800528,389,2730,Dwight Howard,1610612753,Orlando Magic,3,3,24,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090109,ORL,ATL
+Shot Chart Detail,0020800549,7,2730,Dwight Howard,1610612753,Orlando Magic,1,10,52,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-21,22,1,1,20090111,SAS,ORL
+Shot Chart Detail,0020800549,15,2730,Dwight Howard,1610612753,Orlando Magic,1,9,31,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,7,1,1,20090111,SAS,ORL
+Shot Chart Detail,0020800549,28,2730,Dwight Howard,1610612753,Orlando Magic,1,8,15,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,12,1,1,20090111,SAS,ORL
+Shot Chart Detail,0020800549,138,2730,Dwight Howard,1610612753,Orlando Magic,2,8,44,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,15,1,1,20090111,SAS,ORL
+Shot Chart Detail,0020800549,195,2730,Dwight Howard,1610612753,Orlando Magic,2,1,15,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-19,20,1,1,20090111,SAS,ORL
+Shot Chart Detail,0020800549,282,2730,Dwight Howard,1610612753,Orlando Magic,3,3,27,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-2,42,1,1,20090111,SAS,ORL
+Shot Chart Detail,0020800549,284,2730,Dwight Howard,1610612753,Orlando Magic,3,2,50,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,12,1,1,20090111,SAS,ORL
+Shot Chart Detail,0020800549,354,2730,Dwight Howard,1610612753,Orlando Magic,4,7,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,7,1,1,20090111,SAS,ORL
+Shot Chart Detail,0020800549,373,2730,Dwight Howard,1610612753,Orlando Magic,4,6,11,Made Shot,Putback Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,3,1,1,20090111,SAS,ORL
+Shot Chart Detail,0020800565,4,2730,Dwight Howard,1610612753,Orlando Magic,1,11,26,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090113,SAC,ORL
+Shot Chart Detail,0020800565,157,2730,Dwight Howard,1610612753,Orlando Magic,2,8,55,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090113,SAC,ORL
+Shot Chart Detail,0020800565,254,2730,Dwight Howard,1610612753,Orlando Magic,2,1,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090113,SAC,ORL
+Shot Chart Detail,0020800565,259,2730,Dwight Howard,1610612753,Orlando Magic,2,0,53,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090113,SAC,ORL
+Shot Chart Detail,0020800565,298,2730,Dwight Howard,1610612753,Orlando Magic,3,8,26,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090113,SAC,ORL
+Shot Chart Detail,0020800565,301,2730,Dwight Howard,1610612753,Orlando Magic,3,7,43,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,40,64,1,1,20090113,SAC,ORL
+Shot Chart Detail,0020800565,313,2730,Dwight Howard,1610612753,Orlando Magic,3,6,14,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-18,50,1,1,20090113,SAC,ORL
+Shot Chart Detail,0020800565,331,2730,Dwight Howard,1610612753,Orlando Magic,3,4,44,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,53,52,1,1,20090113,SAC,ORL
+Shot Chart Detail,0020800589,49,2730,Dwight Howard,1610612753,Orlando Magic,1,5,52,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090116,LAL,ORL
+Shot Chart Detail,0020800589,187,2730,Dwight Howard,1610612753,Orlando Magic,2,6,14,Made Shot,Turnaround Bank shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,20,26,1,1,20090116,LAL,ORL
+Shot Chart Detail,0020800589,283,2730,Dwight Howard,1610612753,Orlando Magic,3,8,47,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,124,53,1,1,20090116,LAL,ORL
+Shot Chart Detail,0020800589,316,2730,Dwight Howard,1610612753,Orlando Magic,3,5,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090116,LAL,ORL
+Shot Chart Detail,0020800589,360,2730,Dwight Howard,1610612753,Orlando Magic,3,2,12,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090116,LAL,ORL
+Shot Chart Detail,0020800589,408,2730,Dwight Howard,1610612753,Orlando Magic,4,9,14,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090116,LAL,ORL
+Shot Chart Detail,0020800589,419,2730,Dwight Howard,1610612753,Orlando Magic,4,8,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090116,LAL,ORL
+Shot Chart Detail,0020800589,443,2730,Dwight Howard,1610612753,Orlando Magic,4,6,17,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090116,LAL,ORL
+Shot Chart Detail,0020800597,168,2730,Dwight Howard,1610612753,Orlando Magic,2,11,30,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090117,DEN,ORL
+Shot Chart Detail,0020800597,349,2730,Dwight Howard,1610612753,Orlando Magic,3,8,18,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,18,55,1,1,20090117,DEN,ORL
+Shot Chart Detail,0020800597,354,2730,Dwight Howard,1610612753,Orlando Magic,3,7,36,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090117,DEN,ORL
+Shot Chart Detail,0020800597,483,2730,Dwight Howard,1610612753,Orlando Magic,4,7,27,Made Shot,Hook Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,48,25,1,1,20090117,DEN,ORL
+Shot Chart Detail,0020800597,491,2730,Dwight Howard,1610612753,Orlando Magic,4,5,56,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-71,20,1,1,20090117,DEN,ORL
+Shot Chart Detail,0020800628,9,2730,Dwight Howard,1610612753,Orlando Magic,1,10,42,Made Shot,Hook Bank Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-78,31,1,1,20090122,ORL,BOS
+Shot Chart Detail,0020800628,22,2730,Dwight Howard,1610612753,Orlando Magic,1,9,5,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,39,80,1,1,20090122,ORL,BOS
+Shot Chart Detail,0020800628,62,2730,Dwight Howard,1610612753,Orlando Magic,1,4,10,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090122,ORL,BOS
+Shot Chart Detail,0020800628,399,2730,Dwight Howard,1610612753,Orlando Magic,4,9,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090122,ORL,BOS
+Shot Chart Detail,0020800641,6,2730,Dwight Howard,1610612753,Orlando Magic,1,10,54,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090124,MIA,ORL
+Shot Chart Detail,0020800641,10,2730,Dwight Howard,1610612753,Orlando Magic,1,10,2,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090124,MIA,ORL
+Shot Chart Detail,0020800641,36,2730,Dwight Howard,1610612753,Orlando Magic,1,6,31,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-4,58,1,1,20090124,MIA,ORL
+Shot Chart Detail,0020800641,43,2730,Dwight Howard,1610612753,Orlando Magic,1,5,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090124,MIA,ORL
+Shot Chart Detail,0020800641,100,2730,Dwight Howard,1610612753,Orlando Magic,1,0,58,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,58,20,1,1,20090124,MIA,ORL
+Shot Chart Detail,0020800641,224,2730,Dwight Howard,1610612753,Orlando Magic,2,0,46,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090124,MIA,ORL
+Shot Chart Detail,0020800641,255,2730,Dwight Howard,1610612753,Orlando Magic,3,9,28,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,67,34,1,1,20090124,MIA,ORL
+Shot Chart Detail,0020800641,360,2730,Dwight Howard,1610612753,Orlando Magic,4,11,6,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,50,48,1,1,20090124,MIA,ORL
+Shot Chart Detail,0020800641,411,2730,Dwight Howard,1610612753,Orlando Magic,4,6,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090124,MIA,ORL
+Shot Chart Detail,0020800663,6,2730,Dwight Howard,1610612753,Orlando Magic,1,11,16,Made Shot,Putback Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090127,ORL,IND
+Shot Chart Detail,0020800663,14,2730,Dwight Howard,1610612753,Orlando Magic,1,10,39,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,10,53,1,1,20090127,ORL,IND
+Shot Chart Detail,0020800663,35,2730,Dwight Howard,1610612753,Orlando Magic,1,7,55,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090127,ORL,IND
+Shot Chart Detail,0020800663,45,2730,Dwight Howard,1610612753,Orlando Magic,1,6,28,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,47,75,1,1,20090127,ORL,IND
+Shot Chart Detail,0020800663,75,2730,Dwight Howard,1610612753,Orlando Magic,1,3,10,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090127,ORL,IND
+Shot Chart Detail,0020800663,300,2730,Dwight Howard,1610612753,Orlando Magic,3,11,13,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090127,ORL,IND
+Shot Chart Detail,0020800663,313,2730,Dwight Howard,1610612753,Orlando Magic,3,9,8,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090127,ORL,IND
+Shot Chart Detail,0020800679,30,2730,Dwight Howard,1610612753,Orlando Magic,1,8,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090129,ORL,CLE
+Shot Chart Detail,0020800679,47,2730,Dwight Howard,1610612753,Orlando Magic,1,6,5,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090129,ORL,CLE
+Shot Chart Detail,0020800679,63,2730,Dwight Howard,1610612753,Orlando Magic,1,4,27,Made Shot,Hook Bank Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,69,48,1,1,20090129,ORL,CLE
+Shot Chart Detail,0020800679,67,2730,Dwight Howard,1610612753,Orlando Magic,1,3,51,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090129,ORL,CLE
+Shot Chart Detail,0020800679,182,2730,Dwight Howard,1610612753,Orlando Magic,2,6,15,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090129,ORL,CLE
+Shot Chart Detail,0020800679,187,2730,Dwight Howard,1610612753,Orlando Magic,2,5,31,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090129,ORL,CLE
+Shot Chart Detail,0020800679,221,2730,Dwight Howard,1610612753,Orlando Magic,2,2,34,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090129,ORL,CLE
+Shot Chart Detail,0020800679,267,2730,Dwight Howard,1610612753,Orlando Magic,3,11,28,Made Shot,Hook Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-34,41,1,1,20090129,ORL,CLE
+Shot Chart Detail,0020800679,281,2730,Dwight Howard,1610612753,Orlando Magic,3,9,18,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090129,ORL,CLE
+Shot Chart Detail,0020800703,32,2730,Dwight Howard,1610612753,Orlando Magic,1,7,21,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090201,TOR,ORL
+Shot Chart Detail,0020800703,39,2730,Dwight Howard,1610612753,Orlando Magic,1,6,36,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090201,TOR,ORL
+Shot Chart Detail,0020800703,45,2730,Dwight Howard,1610612753,Orlando Magic,1,5,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090201,TOR,ORL
+Shot Chart Detail,0020800703,70,2730,Dwight Howard,1610612753,Orlando Magic,1,3,16,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,56,66,1,1,20090201,TOR,ORL
+Shot Chart Detail,0020800703,85,2730,Dwight Howard,1610612753,Orlando Magic,1,1,19,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090201,TOR,ORL
+Shot Chart Detail,0020800703,162,2730,Dwight Howard,1610612753,Orlando Magic,2,7,25,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-40,102,1,1,20090201,TOR,ORL
+Shot Chart Detail,0020800703,197,2730,Dwight Howard,1610612753,Orlando Magic,2,5,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090201,TOR,ORL
+Shot Chart Detail,0020800703,295,2730,Dwight Howard,1610612753,Orlando Magic,3,10,8,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090201,TOR,ORL
+Shot Chart Detail,0020800703,313,2730,Dwight Howard,1610612753,Orlando Magic,3,7,56,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-21,37,1,1,20090201,TOR,ORL
+Shot Chart Detail,0020800703,329,2730,Dwight Howard,1610612753,Orlando Magic,3,6,13,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090201,TOR,ORL
+Shot Chart Detail,0020800703,355,2730,Dwight Howard,1610612753,Orlando Magic,3,1,59,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090201,TOR,ORL
+Shot Chart Detail,0020800706,11,2730,Dwight Howard,1610612753,Orlando Magic,1,10,18,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-23,44,1,1,20090202,ORL,DAL
+Shot Chart Detail,0020800706,33,2730,Dwight Howard,1610612753,Orlando Magic,1,8,4,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,72,48,1,1,20090202,ORL,DAL
+Shot Chart Detail,0020800706,86,2730,Dwight Howard,1610612753,Orlando Magic,1,2,37,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,43,64,1,1,20090202,ORL,DAL
+Shot Chart Detail,0020800706,89,2730,Dwight Howard,1610612753,Orlando Magic,1,2,14,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090202,ORL,DAL
+Shot Chart Detail,0020800706,97,2730,Dwight Howard,1610612753,Orlando Magic,1,1,30,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-59,42,1,1,20090202,ORL,DAL
+Shot Chart Detail,0020800706,134,2730,Dwight Howard,1610612753,Orlando Magic,2,11,2,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,34,55,1,1,20090202,ORL,DAL
+Shot Chart Detail,0020800706,146,2730,Dwight Howard,1610612753,Orlando Magic,2,9,46,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,54,83,1,1,20090202,ORL,DAL
+Shot Chart Detail,0020800706,203,2730,Dwight Howard,1610612753,Orlando Magic,2,5,17,Made Shot,Hook Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,67,23,1,1,20090202,ORL,DAL
+Shot Chart Detail,0020800706,267,2730,Dwight Howard,1610612753,Orlando Magic,3,9,39,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-76,20,1,1,20090202,ORL,DAL
+Shot Chart Detail,0020800706,411,2730,Dwight Howard,1610612753,Orlando Magic,4,8,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090202,ORL,DAL
+Shot Chart Detail,0020800706,422,2730,Dwight Howard,1610612753,Orlando Magic,4,7,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090202,ORL,DAL
+Shot Chart Detail,0020800706,463,2730,Dwight Howard,1610612753,Orlando Magic,4,5,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090202,ORL,DAL
+Shot Chart Detail,0020800706,483,2730,Dwight Howard,1610612753,Orlando Magic,4,3,28,Made Shot,Jump Bank Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,81,23,1,1,20090202,ORL,DAL
+Shot Chart Detail,0020800720,10,2730,Dwight Howard,1610612753,Orlando Magic,1,10,54,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090204,ORL,LAC
+Shot Chart Detail,0020800720,38,2730,Dwight Howard,1610612753,Orlando Magic,1,7,8,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090204,ORL,LAC
+Shot Chart Detail,0020800720,169,2730,Dwight Howard,1610612753,Orlando Magic,2,6,54,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090204,ORL,LAC
+Shot Chart Detail,0020800720,233,2730,Dwight Howard,1610612753,Orlando Magic,2,1,39,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090204,ORL,LAC
+Shot Chart Detail,0020800735,22,2730,Dwight Howard,1610612753,Orlando Magic,1,9,41,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,18,26,1,1,20090206,IND,ORL
+Shot Chart Detail,0020800735,35,2730,Dwight Howard,1610612753,Orlando Magic,1,8,2,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,4,23,1,1,20090206,IND,ORL
+Shot Chart Detail,0020800735,44,2730,Dwight Howard,1610612753,Orlando Magic,1,6,51,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-8,34,1,1,20090206,IND,ORL
+Shot Chart Detail,0020800735,55,2730,Dwight Howard,1610612753,Orlando Magic,1,5,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,15,1,1,20090206,IND,ORL
+Shot Chart Detail,0020800735,268,2730,Dwight Howard,1610612753,Orlando Magic,3,10,47,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,19,1,1,20090206,IND,ORL
+Shot Chart Detail,0020800735,299,2730,Dwight Howard,1610612753,Orlando Magic,3,7,15,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,11,1,1,20090206,IND,ORL
+Shot Chart Detail,0020800735,436,2730,Dwight Howard,1610612753,Orlando Magic,4,6,39,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-26,41,1,1,20090206,IND,ORL
+Shot Chart Detail,0020800735,460,2730,Dwight Howard,1610612753,Orlando Magic,4,4,41,Made Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-15,39,1,1,20090206,IND,ORL
+Shot Chart Detail,0020800753,6,2730,Dwight Howard,1610612753,Orlando Magic,1,11,12,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090208,ORL,NJN
+Shot Chart Detail,0020800753,56,2730,Dwight Howard,1610612753,Orlando Magic,1,6,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090208,ORL,NJN
+Shot Chart Detail,0020800753,76,2730,Dwight Howard,1610612753,Orlando Magic,1,4,8,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,65,30,1,1,20090208,ORL,NJN
+Shot Chart Detail,0020800753,223,2730,Dwight Howard,1610612753,Orlando Magic,2,4,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090208,ORL,NJN
+Shot Chart Detail,0020800753,241,2730,Dwight Howard,1610612753,Orlando Magic,2,2,54,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,7,41,1,1,20090208,ORL,NJN
+Shot Chart Detail,0020800753,273,2730,Dwight Howard,1610612753,Orlando Magic,3,11,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090208,ORL,NJN
+Shot Chart Detail,0020800753,302,2730,Dwight Howard,1610612753,Orlando Magic,3,7,31,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090208,ORL,NJN
+Shot Chart Detail,0020800753,493,2730,Dwight Howard,1610612753,Orlando Magic,4,2,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090208,ORL,NJN
+Shot Chart Detail,0020800753,504,2730,Dwight Howard,1610612753,Orlando Magic,4,2,16,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090208,ORL,NJN
+Shot Chart Detail,0020800775,25,2730,Dwight Howard,1610612753,Orlando Magic,1,8,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090211,ORL,DEN
+Shot Chart Detail,0020800775,76,2730,Dwight Howard,1610612753,Orlando Magic,1,4,7,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,13,71,1,1,20090211,ORL,DEN
+Shot Chart Detail,0020800775,357,2730,Dwight Howard,1610612753,Orlando Magic,3,3,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090211,ORL,DEN
+Shot Chart Detail,0020800775,466,2730,Dwight Howard,1610612753,Orlando Magic,4,6,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090211,ORL,DEN
+Shot Chart Detail,0020800789,5,2730,Dwight Howard,1610612753,Orlando Magic,1,10,53,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-5,85,1,1,20090217,ORL,CHA
+Shot Chart Detail,0020800789,14,2730,Dwight Howard,1610612753,Orlando Magic,1,9,38,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,34,72,1,1,20090217,ORL,CHA
+Shot Chart Detail,0020800789,20,2730,Dwight Howard,1610612753,Orlando Magic,1,8,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090217,ORL,CHA
+Shot Chart Detail,0020800789,62,2730,Dwight Howard,1610612753,Orlando Magic,1,4,17,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,4,91,1,1,20090217,ORL,CHA
+Shot Chart Detail,0020800789,80,2730,Dwight Howard,1610612753,Orlando Magic,1,2,23,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090217,ORL,CHA
+Shot Chart Detail,0020800789,172,2730,Dwight Howard,1610612753,Orlando Magic,2,5,20,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-70,33,1,1,20090217,ORL,CHA
+Shot Chart Detail,0020800789,224,2730,Dwight Howard,1610612753,Orlando Magic,2,1,14,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090217,ORL,CHA
+Shot Chart Detail,0020800789,248,2730,Dwight Howard,1610612753,Orlando Magic,3,10,54,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090217,ORL,CHA
+Shot Chart Detail,0020800789,256,2730,Dwight Howard,1610612753,Orlando Magic,3,10,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090217,ORL,CHA
+Shot Chart Detail,0020800789,283,2730,Dwight Howard,1610612753,Orlando Magic,3,8,9,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-18,67,1,1,20090217,ORL,CHA
+Shot Chart Detail,0020800789,320,2730,Dwight Howard,1610612753,Orlando Magic,3,3,43,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,0,60,1,1,20090217,ORL,CHA
+Shot Chart Detail,0020800789,367,2730,Dwight Howard,1610612753,Orlando Magic,4,11,41,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-49,74,1,1,20090217,ORL,CHA
+Shot Chart Detail,0020800789,375,2730,Dwight Howard,1610612753,Orlando Magic,4,10,27,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090217,ORL,CHA
+Shot Chart Detail,0020800789,439,2730,Dwight Howard,1610612753,Orlando Magic,4,6,13,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090217,ORL,CHA
+Shot Chart Detail,0020800789,442,2730,Dwight Howard,1610612753,Orlando Magic,4,5,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090217,ORL,CHA
+Shot Chart Detail,0020800789,510,2730,Dwight Howard,1610612753,Orlando Magic,4,0,41,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090217,ORL,CHA
+Shot Chart Detail,0020800802,10,2730,Dwight Howard,1610612753,Orlando Magic,1,10,38,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,28,66,1,1,20090218,NOH,ORL
+Shot Chart Detail,0020800802,36,2730,Dwight Howard,1610612753,Orlando Magic,1,6,53,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090218,NOH,ORL
+Shot Chart Detail,0020800811,14,2730,Dwight Howard,1610612753,Orlando Magic,1,10,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090220,CHA,ORL
+Shot Chart Detail,0020800811,37,2730,Dwight Howard,1610612753,Orlando Magic,1,7,34,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090220,CHA,ORL
+Shot Chart Detail,0020800811,53,2730,Dwight Howard,1610612753,Orlando Magic,1,5,54,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090220,CHA,ORL
+Shot Chart Detail,0020800811,387,2730,Dwight Howard,1610612753,Orlando Magic,4,11,39,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090220,CHA,ORL
+Shot Chart Detail,0020800811,392,2730,Dwight Howard,1610612753,Orlando Magic,4,10,38,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,7,60,1,1,20090220,CHA,ORL
+Shot Chart Detail,0020800832,12,2730,Dwight Howard,1610612753,Orlando Magic,1,10,19,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090222,ORL,MIA
+Shot Chart Detail,0020800832,16,2730,Dwight Howard,1610612753,Orlando Magic,1,9,45,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-18,53,1,1,20090222,ORL,MIA
+Shot Chart Detail,0020800832,26,2730,Dwight Howard,1610612753,Orlando Magic,1,8,13,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-7,55,1,1,20090222,ORL,MIA
+Shot Chart Detail,0020800832,36,2730,Dwight Howard,1610612753,Orlando Magic,1,6,45,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,13,66,1,1,20090222,ORL,MIA
+Shot Chart Detail,0020800832,59,2730,Dwight Howard,1610612753,Orlando Magic,1,5,15,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090222,ORL,MIA
+Shot Chart Detail,0020800832,85,2730,Dwight Howard,1610612753,Orlando Magic,1,2,9,Made Shot,Hook Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,37,25,1,1,20090222,ORL,MIA
+Shot Chart Detail,0020800832,120,2730,Dwight Howard,1610612753,Orlando Magic,2,11,45,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090222,ORL,MIA
+Shot Chart Detail,0020800832,300,2730,Dwight Howard,1610612753,Orlando Magic,3,8,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090222,ORL,MIA
+Shot Chart Detail,0020800832,305,2730,Dwight Howard,1610612753,Orlando Magic,3,7,56,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090222,ORL,MIA
+Shot Chart Detail,0020800832,381,2730,Dwight Howard,1610612753,Orlando Magic,3,1,55,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-37,50,1,1,20090222,ORL,MIA
+Shot Chart Detail,0020800832,459,2730,Dwight Howard,1610612753,Orlando Magic,4,6,2,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090222,ORL,MIA
+Shot Chart Detail,0020800845,7,2730,Dwight Howard,1610612753,Orlando Magic,1,11,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090224,CHI,ORL
+Shot Chart Detail,0020800845,20,2730,Dwight Howard,1610612753,Orlando Magic,1,9,56,Made Shot,Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,89,45,1,1,20090224,CHI,ORL
+Shot Chart Detail,0020800845,28,2730,Dwight Howard,1610612753,Orlando Magic,1,8,44,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-18,48,1,1,20090224,CHI,ORL
+Shot Chart Detail,0020800845,45,2730,Dwight Howard,1610612753,Orlando Magic,1,6,43,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,9,101,1,1,20090224,CHI,ORL
+Shot Chart Detail,0020800845,71,2730,Dwight Howard,1610612753,Orlando Magic,1,3,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090224,CHI,ORL
+Shot Chart Detail,0020800845,202,2730,Dwight Howard,1610612753,Orlando Magic,2,2,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090224,CHI,ORL
+Shot Chart Detail,0020800845,276,2730,Dwight Howard,1610612753,Orlando Magic,3,8,8,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090224,CHI,ORL
+Shot Chart Detail,0020800845,319,2730,Dwight Howard,1610612753,Orlando Magic,3,3,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090224,CHI,ORL
+Shot Chart Detail,0020800845,425,2730,Dwight Howard,1610612753,Orlando Magic,4,5,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090224,CHI,ORL
+Shot Chart Detail,0020800845,452,2730,Dwight Howard,1610612753,Orlando Magic,4,3,19,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090224,CHI,ORL
+Shot Chart Detail,0020800853,14,2730,Dwight Howard,1610612753,Orlando Magic,1,10,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090225,NYK,ORL
+Shot Chart Detail,0020800853,63,2730,Dwight Howard,1610612753,Orlando Magic,1,5,50,Made Shot,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090225,NYK,ORL
+Shot Chart Detail,0020800853,80,2730,Dwight Howard,1610612753,Orlando Magic,1,4,20,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-15,45,1,1,20090225,NYK,ORL
+Shot Chart Detail,0020800853,98,2730,Dwight Howard,1610612753,Orlando Magic,1,2,4,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090225,NYK,ORL
+Shot Chart Detail,0020800853,274,2730,Dwight Howard,1610612753,Orlando Magic,3,11,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090225,NYK,ORL
+Shot Chart Detail,0020800853,306,2730,Dwight Howard,1610612753,Orlando Magic,3,7,13,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090225,NYK,ORL
+Shot Chart Detail,0020800853,426,2730,Dwight Howard,1610612753,Orlando Magic,4,9,19,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090225,NYK,ORL
+Shot Chart Detail,0020800853,512,2730,Dwight Howard,1610612753,Orlando Magic,4,1,31,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090225,NYK,ORL
+Shot Chart Detail,0020800864,8,2730,Dwight Howard,1610612753,Orlando Magic,1,11,7,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-8,37,1,1,20090227,ORL,DET
+Shot Chart Detail,0020800864,55,2730,Dwight Howard,1610612753,Orlando Magic,1,6,51,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090227,ORL,DET
+Shot Chart Detail,0020800864,249,2730,Dwight Howard,1610612753,Orlando Magic,2,0,25,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090227,ORL,DET
+Shot Chart Detail,0020800864,308,2730,Dwight Howard,1610612753,Orlando Magic,3,5,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090227,ORL,DET
+Shot Chart Detail,0020800864,371,2730,Dwight Howard,1610612753,Orlando Magic,3,1,34,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,10,44,1,1,20090227,ORL,DET
+Shot Chart Detail,0020800864,390,2730,Dwight Howard,1610612753,Orlando Magic,3,0,20,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090227,ORL,DET
+Shot Chart Detail,0020800864,448,2730,Dwight Howard,1610612753,Orlando Magic,4,4,44,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090227,ORL,DET
+Shot Chart Detail,0020800876,39,2730,Dwight Howard,1610612753,Orlando Magic,1,7,52,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-34,36,1,1,20090228,PHI,ORL
+Shot Chart Detail,0020800876,270,2730,Dwight Howard,1610612753,Orlando Magic,3,8,4,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,18,60,1,1,20090228,PHI,ORL
+Shot Chart Detail,0020800876,316,2730,Dwight Howard,1610612753,Orlando Magic,3,1,49,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,4,99,1,1,20090228,PHI,ORL
+Shot Chart Detail,0020800876,431,2730,Dwight Howard,1610612753,Orlando Magic,4,4,11,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090228,PHI,ORL
+Shot Chart Detail,0020800898,24,2730,Dwight Howard,1610612753,Orlando Magic,1,9,18,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090303,ORL,PHX
+Shot Chart Detail,0020800898,180,2730,Dwight Howard,1610612753,Orlando Magic,2,7,46,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090303,ORL,PHX
+Shot Chart Detail,0020800898,296,2730,Dwight Howard,1610612753,Orlando Magic,3,9,51,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-2,52,1,1,20090303,ORL,PHX
+Shot Chart Detail,0020800898,316,2730,Dwight Howard,1610612753,Orlando Magic,3,7,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090303,ORL,PHX
+Shot Chart Detail,0020800898,325,2730,Dwight Howard,1610612753,Orlando Magic,3,6,34,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090303,ORL,PHX
+Shot Chart Detail,0020800898,347,2730,Dwight Howard,1610612753,Orlando Magic,3,3,59,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090303,ORL,PHX
+Shot Chart Detail,0020800898,443,2730,Dwight Howard,1610612753,Orlando Magic,4,7,49,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,1,44,1,1,20090303,ORL,PHX
+Shot Chart Detail,0020800918,51,2730,Dwight Howard,1610612753,Orlando Magic,1,7,21,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090306,ORL,NJN
+Shot Chart Detail,0020800918,58,2730,Dwight Howard,1610612753,Orlando Magic,1,6,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090306,ORL,NJN
+Shot Chart Detail,0020800918,132,2730,Dwight Howard,1610612753,Orlando Magic,1,1,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090306,ORL,NJN
+Shot Chart Detail,0020800918,297,2730,Dwight Howard,1610612753,Orlando Magic,3,11,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090306,ORL,NJN
+Shot Chart Detail,0020800918,324,2730,Dwight Howard,1610612753,Orlando Magic,3,6,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090306,ORL,NJN
+Shot Chart Detail,0020800918,339,2730,Dwight Howard,1610612753,Orlando Magic,3,5,27,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-24,69,1,1,20090306,ORL,NJN
+Shot Chart Detail,0020800918,424,2730,Dwight Howard,1610612753,Orlando Magic,4,9,2,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090306,ORL,NJN
+Shot Chart Detail,0020800936,27,2730,Dwight Howard,1610612753,Orlando Magic,1,8,29,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-75,14,1,1,20090308,BOS,ORL
+Shot Chart Detail,0020800936,42,2730,Dwight Howard,1610612753,Orlando Magic,1,6,25,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,18,45,1,1,20090308,BOS,ORL
+Shot Chart Detail,0020800936,127,2730,Dwight Howard,1610612753,Orlando Magic,2,8,10,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,6,1,1,20090308,BOS,ORL
+Shot Chart Detail,0020800936,152,2730,Dwight Howard,1610612753,Orlando Magic,2,6,17,Made Shot,Turnaround Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,62,23,1,1,20090308,BOS,ORL
+Shot Chart Detail,0020800936,160,2730,Dwight Howard,1610612753,Orlando Magic,2,5,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,6,1,1,20090308,BOS,ORL
+Shot Chart Detail,0020800936,413,2730,Dwight Howard,1610612753,Orlando Magic,4,5,15,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,-5,1,1,20090308,BOS,ORL
+Shot Chart Detail,0020800944,2,2730,Dwight Howard,1610612753,Orlando Magic,1,11,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090309,DET,ORL
+Shot Chart Detail,0020800944,15,2730,Dwight Howard,1610612753,Orlando Magic,1,9,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090309,DET,ORL
+Shot Chart Detail,0020800944,21,2730,Dwight Howard,1610612753,Orlando Magic,1,8,37,Made Shot,Hook Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-92,34,1,1,20090309,DET,ORL
+Shot Chart Detail,0020800944,71,2730,Dwight Howard,1610612753,Orlando Magic,1,3,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090309,DET,ORL
+Shot Chart Detail,0020800944,207,2730,Dwight Howard,1610612753,Orlando Magic,2,3,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090309,DET,ORL
+Shot Chart Detail,0020800944,290,2730,Dwight Howard,1610612753,Orlando Magic,3,7,5,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090309,DET,ORL
+Shot Chart Detail,0020800944,349,2730,Dwight Howard,1610612753,Orlando Magic,3,1,44,Made Shot,Hook Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,95,7,1,1,20090309,DET,ORL
+Shot Chart Detail,0020800944,505,2730,Dwight Howard,1610612753,Orlando Magic,4,0,49,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,81,19,1,1,20090309,DET,ORL
+Shot Chart Detail,0020800944,519,2730,Dwight Howard,1610612753,Orlando Magic,4,0,2,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090309,DET,ORL
+Shot Chart Detail,0020800956,16,2730,Dwight Howard,1610612753,Orlando Magic,1,10,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090311,ORL,CHI
+Shot Chart Detail,0020800956,28,2730,Dwight Howard,1610612753,Orlando Magic,1,9,31,Made Shot,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090311,ORL,CHI
+Shot Chart Detail,0020800956,49,2730,Dwight Howard,1610612753,Orlando Magic,1,7,18,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,13,42,1,1,20090311,ORL,CHI
+Shot Chart Detail,0020800956,294,2730,Dwight Howard,1610612753,Orlando Magic,3,9,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090311,ORL,CHI
+Shot Chart Detail,0020800956,383,2730,Dwight Howard,1610612753,Orlando Magic,3,1,21,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-65,1,1,1,20090311,ORL,CHI
+Shot Chart Detail,0020800956,396,2730,Dwight Howard,1610612753,Orlando Magic,4,11,42,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-10,33,1,1,20090311,ORL,CHI
+Shot Chart Detail,0020800971,29,2730,Dwight Howard,1610612753,Orlando Magic,1,8,30,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,12,1,1,20090313,WAS,ORL
+Shot Chart Detail,0020800971,90,2730,Dwight Howard,1610612753,Orlando Magic,1,2,33,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-46,-8,1,1,20090313,WAS,ORL
+Shot Chart Detail,0020800971,104,2730,Dwight Howard,1610612753,Orlando Magic,1,0,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,0,1,1,20090313,WAS,ORL
+Shot Chart Detail,0020800971,281,2730,Dwight Howard,1610612753,Orlando Magic,3,10,9,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,1,1,1,20090313,WAS,ORL
+Shot Chart Detail,0020800971,385,2730,Dwight Howard,1610612753,Orlando Magic,4,11,42,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,6,1,1,20090313,WAS,ORL
+Shot Chart Detail,0020800971,460,2730,Dwight Howard,1610612753,Orlando Magic,4,2,25,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,13,37,1,1,20090313,WAS,ORL
+Shot Chart Detail,0020800992,43,2730,Dwight Howard,1610612753,Orlando Magic,1,8,32,Made Shot,Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,81,9,1,1,20090315,ORL,UTA
+Shot Chart Detail,0020800992,72,2730,Dwight Howard,1610612753,Orlando Magic,1,6,45,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-37,39,1,1,20090315,ORL,UTA
+Shot Chart Detail,0020800992,82,2730,Dwight Howard,1610612753,Orlando Magic,1,5,5,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090315,ORL,UTA
+Shot Chart Detail,0020800992,152,2730,Dwight Howard,1610612753,Orlando Magic,1,0,59,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090315,ORL,UTA
+Shot Chart Detail,0020800992,247,2730,Dwight Howard,1610612753,Orlando Magic,2,3,54,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-60,20,1,1,20090315,ORL,UTA
+Shot Chart Detail,0020800992,297,2730,Dwight Howard,1610612753,Orlando Magic,3,11,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090315,ORL,UTA
+Shot Chart Detail,0020800992,305,2730,Dwight Howard,1610612753,Orlando Magic,3,9,49,Made Shot,Reverse Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090315,ORL,UTA
+Shot Chart Detail,0020800992,351,2730,Dwight Howard,1610612753,Orlando Magic,3,5,46,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090315,ORL,UTA
+Shot Chart Detail,0020800992,353,2730,Dwight Howard,1610612753,Orlando Magic,3,5,24,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090315,ORL,UTA
+Shot Chart Detail,0020800992,363,2730,Dwight Howard,1610612753,Orlando Magic,3,4,16,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,42,48,1,1,20090315,ORL,UTA
+Shot Chart Detail,0020801002,31,2730,Dwight Howard,1610612753,Orlando Magic,1,7,6,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,56,58,1,1,20090317,CLE,ORL
+Shot Chart Detail,0020801002,192,2730,Dwight Howard,1610612753,Orlando Magic,2,3,8,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,3,1,1,20090317,CLE,ORL
+Shot Chart Detail,0020801002,207,2730,Dwight Howard,1610612753,Orlando Magic,2,2,10,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,1,1,1,20090317,CLE,ORL
+Shot Chart Detail,0020801002,217,2730,Dwight Howard,1610612753,Orlando Magic,2,1,35,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,20,60,1,1,20090317,CLE,ORL
+Shot Chart Detail,0020801002,276,2730,Dwight Howard,1610612753,Orlando Magic,3,7,33,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-13,67,1,1,20090317,CLE,ORL
+Shot Chart Detail,0020801014,53,2730,Dwight Howard,1610612753,Orlando Magic,1,5,47,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090318,MIL,ORL
+Shot Chart Detail,0020801014,79,2730,Dwight Howard,1610612753,Orlando Magic,1,4,23,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-18,83,1,1,20090318,MIL,ORL
+Shot Chart Detail,0020801014,104,2730,Dwight Howard,1610612753,Orlando Magic,1,1,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090318,MIL,ORL
+Shot Chart Detail,0020801014,114,2730,Dwight Howard,1610612753,Orlando Magic,1,1,15,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090318,MIL,ORL
+Shot Chart Detail,0020801014,123,2730,Dwight Howard,1610612753,Orlando Magic,1,0,51,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090318,MIL,ORL
+Shot Chart Detail,0020801014,134,2730,Dwight Howard,1610612753,Orlando Magic,1,0,24,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-19,82,1,1,20090318,MIL,ORL
+Shot Chart Detail,0020801014,383,2730,Dwight Howard,1610612753,Orlando Magic,3,2,8,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090318,MIL,ORL
+Shot Chart Detail,0020801014,412,2730,Dwight Howard,1610612753,Orlando Magic,4,10,59,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090318,MIL,ORL
+Shot Chart Detail,0020801036,2,2730,Dwight Howard,1610612753,Orlando Magic,1,11,46,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090321,ORL,NYK
+Shot Chart Detail,0020801036,31,2730,Dwight Howard,1610612753,Orlando Magic,1,8,36,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090321,ORL,NYK
+Shot Chart Detail,0020801036,58,2730,Dwight Howard,1610612753,Orlando Magic,1,6,3,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090321,ORL,NYK
+Shot Chart Detail,0020801036,295,2730,Dwight Howard,1610612753,Orlando Magic,3,8,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090321,ORL,NYK
+Shot Chart Detail,0020801052,43,2730,Dwight Howard,1610612753,Orlando Magic,1,7,25,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-29,53,1,1,20090323,NYK,ORL
+Shot Chart Detail,0020801052,57,2730,Dwight Howard,1610612753,Orlando Magic,1,6,2,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090323,NYK,ORL
+Shot Chart Detail,0020801052,79,2730,Dwight Howard,1610612753,Orlando Magic,1,3,57,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-2,52,1,1,20090323,NYK,ORL
+Shot Chart Detail,0020801052,94,2730,Dwight Howard,1610612753,Orlando Magic,1,3,9,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,51,17,1,1,20090323,NYK,ORL
+Shot Chart Detail,0020801052,109,2730,Dwight Howard,1610612753,Orlando Magic,1,2,6,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,58,15,1,1,20090323,NYK,ORL
+Shot Chart Detail,0020801052,120,2730,Dwight Howard,1610612753,Orlando Magic,1,0,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090323,NYK,ORL
+Shot Chart Detail,0020801052,201,2730,Dwight Howard,1610612753,Orlando Magic,2,7,45,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090323,NYK,ORL
+Shot Chart Detail,0020801052,210,2730,Dwight Howard,1610612753,Orlando Magic,2,6,53,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090323,NYK,ORL
+Shot Chart Detail,0020801052,233,2730,Dwight Howard,1610612753,Orlando Magic,2,4,51,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090323,NYK,ORL
+Shot Chart Detail,0020801052,299,2730,Dwight Howard,1610612753,Orlando Magic,3,10,46,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-29,63,1,1,20090323,NYK,ORL
+Shot Chart Detail,0020801052,339,2730,Dwight Howard,1610612753,Orlando Magic,3,6,30,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-10,53,1,1,20090323,NYK,ORL
+Shot Chart Detail,0020801052,520,2730,Dwight Howard,1610612753,Orlando Magic,4,3,52,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090323,NYK,ORL
+Shot Chart Detail,0020801067,26,2730,Dwight Howard,1610612753,Orlando Magic,1,9,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090325,ORL,BOS
+Shot Chart Detail,0020801067,53,2730,Dwight Howard,1610612753,Orlando Magic,1,6,23,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090325,ORL,BOS
+Shot Chart Detail,0020801067,87,2730,Dwight Howard,1610612753,Orlando Magic,1,3,31,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,2,58,1,1,20090325,ORL,BOS
+Shot Chart Detail,0020801067,91,2730,Dwight Howard,1610612753,Orlando Magic,1,2,58,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090325,ORL,BOS
+Shot Chart Detail,0020801067,102,2730,Dwight Howard,1610612753,Orlando Magic,1,2,17,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-24,48,1,1,20090325,ORL,BOS
+Shot Chart Detail,0020801067,110,2730,Dwight Howard,1610612753,Orlando Magic,1,1,43,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090325,ORL,BOS
+Shot Chart Detail,0020801067,267,2730,Dwight Howard,1610612753,Orlando Magic,3,10,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090325,ORL,BOS
+Shot Chart Detail,0020801067,314,2730,Dwight Howard,1610612753,Orlando Magic,3,4,23,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090325,ORL,BOS
+Shot Chart Detail,0020801067,318,2730,Dwight Howard,1610612753,Orlando Magic,3,3,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090325,ORL,BOS
+Shot Chart Detail,0020801067,333,2730,Dwight Howard,1610612753,Orlando Magic,3,2,29,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-51,69,1,1,20090325,ORL,BOS
+Shot Chart Detail,0020801067,354,2730,Dwight Howard,1610612753,Orlando Magic,3,0,7,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090325,ORL,BOS
+Shot Chart Detail,0020801073,6,2730,Dwight Howard,1610612753,Orlando Magic,1,10,56,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090327,ORL,MIL
+Shot Chart Detail,0020801073,48,2730,Dwight Howard,1610612753,Orlando Magic,1,5,15,Made Shot,Hook Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,51,39,1,1,20090327,ORL,MIL
+Shot Chart Detail,0020801073,92,2730,Dwight Howard,1610612753,Orlando Magic,1,0,49,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,37,9,1,1,20090327,ORL,MIL
+Shot Chart Detail,0020801073,496,2730,Dwight Howard,1610612753,Orlando Magic,4,4,14,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090327,ORL,MIL
+Shot Chart Detail,0020801100,4,2730,Dwight Howard,1610612753,Orlando Magic,1,11,41,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090330,MIA,ORL
+Shot Chart Detail,0020801100,57,2730,Dwight Howard,1610612753,Orlando Magic,1,4,58,Made Shot,Turnaround Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,24,19,1,1,20090330,MIA,ORL
+Shot Chart Detail,0020801100,98,2730,Dwight Howard,1610612753,Orlando Magic,1,1,1,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090330,MIA,ORL
+Shot Chart Detail,0020801100,270,2730,Dwight Howard,1610612753,Orlando Magic,3,10,41,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090330,MIA,ORL
+Shot Chart Detail,0020801100,320,2730,Dwight Howard,1610612753,Orlando Magic,3,3,57,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,20,36,1,1,20090330,MIA,ORL
+Shot Chart Detail,0020801100,378,2730,Dwight Howard,1610612753,Orlando Magic,4,10,18,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,67,30,1,1,20090330,MIA,ORL
+Shot Chart Detail,0020801100,406,2730,Dwight Howard,1610612753,Orlando Magic,4,7,49,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-59,61,1,1,20090330,MIA,ORL
+Shot Chart Detail,0020801100,473,2730,Dwight Howard,1610612753,Orlando Magic,4,0,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090330,MIA,ORL
+Shot Chart Detail,0020801113,2,2730,Dwight Howard,1610612753,Orlando Magic,1,11,46,Made Shot,Hook Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,47,20,1,1,20090401,ORL,TOR
+Shot Chart Detail,0020801113,16,2730,Dwight Howard,1610612753,Orlando Magic,1,9,1,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090401,ORL,TOR
+Shot Chart Detail,0020801113,18,2730,Dwight Howard,1610612753,Orlando Magic,1,8,19,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,28,34,1,1,20090401,ORL,TOR
+Shot Chart Detail,0020801113,70,2730,Dwight Howard,1610612753,Orlando Magic,1,3,51,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090401,ORL,TOR
+Shot Chart Detail,0020801113,197,2730,Dwight Howard,1610612753,Orlando Magic,2,4,49,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090401,ORL,TOR
+Shot Chart Detail,0020801113,209,2730,Dwight Howard,1610612753,Orlando Magic,2,3,19,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090401,ORL,TOR
+Shot Chart Detail,0020801113,259,2730,Dwight Howard,1610612753,Orlando Magic,3,11,30,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-37,31,1,1,20090401,ORL,TOR
+Shot Chart Detail,0020801113,296,2730,Dwight Howard,1610612753,Orlando Magic,3,6,37,Made Shot,Hook Bank Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090401,ORL,TOR
+Shot Chart Detail,0020801113,374,2730,Dwight Howard,1610612753,Orlando Magic,3,0,9,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090401,ORL,TOR
+Shot Chart Detail,0020801113,504,2730,Dwight Howard,1610612753,Orlando Magic,4,1,5,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-2,50,1,1,20090401,ORL,TOR
+Shot Chart Detail,0020801130,10,2730,Dwight Howard,1610612753,Orlando Magic,1,10,57,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,39,61,1,1,20090403,ORL,CLE
+Shot Chart Detail,0020801130,106,2730,Dwight Howard,1610612753,Orlando Magic,1,1,43,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090403,ORL,CLE
+Shot Chart Detail,0020801130,127,2730,Dwight Howard,1610612753,Orlando Magic,2,11,42,Made Shot,Hook Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,32,41,1,1,20090403,ORL,CLE
+Shot Chart Detail,0020801130,259,2730,Dwight Howard,1610612753,Orlando Magic,3,9,57,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090403,ORL,CLE
+Shot Chart Detail,0020801130,270,2730,Dwight Howard,1610612753,Orlando Magic,3,8,35,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,58,42,1,1,20090403,ORL,CLE
+Shot Chart Detail,0020801130,274,2730,Dwight Howard,1610612753,Orlando Magic,3,7,54,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090403,ORL,CLE
+Shot Chart Detail,0020801130,286,2730,Dwight Howard,1610612753,Orlando Magic,3,6,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090403,ORL,CLE
+Shot Chart Detail,0020801130,295,2730,Dwight Howard,1610612753,Orlando Magic,3,5,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090403,ORL,CLE
+Shot Chart Detail,0020801138,31,2730,Dwight Howard,1610612753,Orlando Magic,1,8,19,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,12,124,1,1,20090404,ATL,ORL
+Shot Chart Detail,0020801138,95,2730,Dwight Howard,1610612753,Orlando Magic,1,2,38,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,28,4,1,1,20090404,ATL,ORL
+Shot Chart Detail,0020801138,111,2730,Dwight Howard,1610612753,Orlando Magic,1,1,34,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090404,ATL,ORL
+Shot Chart Detail,0020801138,222,2730,Dwight Howard,1610612753,Orlando Magic,2,2,51,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090404,ATL,ORL
+Shot Chart Detail,0020801138,298,2730,Dwight Howard,1610612753,Orlando Magic,3,9,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,4,1,1,20090404,ATL,ORL
+Shot Chart Detail,0020801138,408,2730,Dwight Howard,1610612753,Orlando Magic,4,10,13,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,20,48,1,1,20090404,ATL,ORL
+Shot Chart Detail,0020801159,92,2730,Dwight Howard,1610612753,Orlando Magic,1,0,33,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,40,50,1,1,20090407,HOU,ORL
+Shot Chart Detail,0020801159,95,2730,Dwight Howard,1610612753,Orlando Magic,1,0,3,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,24,66,1,1,20090407,HOU,ORL
+Shot Chart Detail,0020801159,205,2730,Dwight Howard,1610612753,Orlando Magic,2,0,32,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090407,HOU,ORL
+Shot Chart Detail,0020801159,258,2730,Dwight Howard,1610612753,Orlando Magic,3,7,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090407,HOU,ORL
+Shot Chart Detail,0020801159,401,2730,Dwight Howard,1610612753,Orlando Magic,4,3,52,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090407,HOU,ORL
+Shot Chart Detail,0020801164,11,2730,Dwight Howard,1610612753,Orlando Magic,1,9,50,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090408,ORL,MEM
+Shot Chart Detail,0020801164,83,2730,Dwight Howard,1610612753,Orlando Magic,1,2,3,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,0,45,1,1,20090408,ORL,MEM
+Shot Chart Detail,0020801164,217,2730,Dwight Howard,1610612753,Orlando Magic,2,2,4,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090408,ORL,MEM
+Shot Chart Detail,0020801164,347,2730,Dwight Howard,1610612753,Orlando Magic,3,0,53,Made Shot,Putback Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090408,ORL,MEM
+Shot Chart Detail,0020801164,371,2730,Dwight Howard,1610612753,Orlando Magic,4,10,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090408,ORL,MEM
+Shot Chart Detail,0020801176,52,2730,Dwight Howard,1610612753,Orlando Magic,1,6,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090410,ORL,NYK
+Shot Chart Detail,0020801176,94,2730,Dwight Howard,1610612753,Orlando Magic,1,3,7,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-41,37,1,1,20090410,ORL,NYK
+Shot Chart Detail,0020801176,114,2730,Dwight Howard,1610612753,Orlando Magic,1,1,39,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090410,ORL,NYK
+Shot Chart Detail,0020801176,245,2730,Dwight Howard,1610612753,Orlando Magic,2,0,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090410,ORL,NYK
+Shot Chart Detail,0020801176,267,2730,Dwight Howard,1610612753,Orlando Magic,3,10,13,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-37,37,1,1,20090410,ORL,NYK
+Shot Chart Detail,0020801176,410,2730,Dwight Howard,1610612753,Orlando Magic,4,9,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090410,ORL,NYK
+Shot Chart Detail,0020801190,50,2730,Dwight Howard,1610612753,Orlando Magic,1,7,10,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090411,NJN,ORL
+Shot Chart Detail,0020801190,89,2730,Dwight Howard,1610612753,Orlando Magic,1,3,41,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090411,NJN,ORL
+Shot Chart Detail,0020801226,2,2730,Dwight Howard,1610612753,Orlando Magic,1,11,42,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-7,48,1,1,20090415,ORL,CHA
+Shot Chart Detail,0020801226,10,2730,Dwight Howard,1610612753,Orlando Magic,1,10,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090415,ORL,CHA
+Shot Chart Detail,0020801226,258,2730,Dwight Howard,1610612753,Orlando Magic,3,10,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090415,ORL,CHA
+Shot Chart Detail,0020801226,353,2730,Dwight Howard,1610612753,Orlando Magic,3,1,10,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090415,ORL,CHA

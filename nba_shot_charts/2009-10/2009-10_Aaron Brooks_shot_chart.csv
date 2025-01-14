@@ -1,0 +1,575 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0020900003,47,201166,Aaron Brooks,1610612745,Houston Rockets,1,6,52,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,9,63,1,1,20091027,POR,HOU
+Shot Chart Detail,0020900003,237,201166,Aaron Brooks,1610612745,Houston Rockets,2,2,39,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,70,0,1,1,20091027,POR,HOU
+Shot Chart Detail,0020900003,250,201166,Aaron Brooks,1610612745,Houston Rockets,2,1,12,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20091027,POR,HOU
+Shot Chart Detail,0020900003,294,201166,Aaron Brooks,1610612745,Houston Rockets,3,8,19,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20091027,POR,HOU
+Shot Chart Detail,0020900003,317,201166,Aaron Brooks,1610612745,Houston Rockets,3,6,10,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20091027,POR,HOU
+Shot Chart Detail,0020900003,398,201166,Aaron Brooks,1610612745,Houston Rockets,4,11,29,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-105,123,1,1,20091027,POR,HOU
+Shot Chart Detail,0020900003,403,201166,Aaron Brooks,1610612745,Houston Rockets,4,10,42,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20091027,POR,HOU
+Shot Chart Detail,0020900003,453,201166,Aaron Brooks,1610612745,Houston Rockets,4,5,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20091027,POR,HOU
+Shot Chart Detail,0020900015,48,201166,Aaron Brooks,1610612745,Houston Rockets,1,6,30,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20091028,GSW,HOU
+Shot Chart Detail,0020900015,105,201166,Aaron Brooks,1610612745,Houston Rockets,1,0,44,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-130,227,1,1,20091028,GSW,HOU
+Shot Chart Detail,0020900015,300,201166,Aaron Brooks,1610612745,Houston Rockets,3,10,45,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-153,205,1,1,20091028,GSW,HOU
+Shot Chart Detail,0020900015,309,201166,Aaron Brooks,1610612745,Houston Rockets,3,9,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,198,-5,1,1,20091028,GSW,HOU
+Shot Chart Detail,0020900015,316,201166,Aaron Brooks,1610612745,Houston Rockets,3,8,40,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,233,75,1,1,20091028,GSW,HOU
+Shot Chart Detail,0020900015,336,201166,Aaron Brooks,1610612745,Houston Rockets,3,6,18,Made Shot,Running Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,11,1,1,20091028,GSW,HOU
+Shot Chart Detail,0020900035,43,201166,Aaron Brooks,1610612745,Houston Rockets,1,5,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-185,63,1,1,20091031,HOU,POR
+Shot Chart Detail,0020900035,82,201166,Aaron Brooks,1610612745,Houston Rockets,1,1,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-212,154,1,1,20091031,HOU,POR
+Shot Chart Detail,0020900035,109,201166,Aaron Brooks,1610612745,Houston Rockets,2,11,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-142,211,1,1,20091031,HOU,POR
+Shot Chart Detail,0020900035,244,201166,Aaron Brooks,1610612745,Houston Rockets,3,9,59,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,152,15,1,1,20091031,HOU,POR
+Shot Chart Detail,0020900035,247,201166,Aaron Brooks,1610612745,Houston Rockets,3,9,23,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20091031,HOU,POR
+Shot Chart Detail,0020900035,284,201166,Aaron Brooks,1610612745,Houston Rockets,3,5,36,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,6,75,1,1,20091031,HOU,POR
+Shot Chart Detail,0020900035,308,201166,Aaron Brooks,1610612745,Houston Rockets,3,3,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,125,233,1,1,20091031,HOU,POR
+Shot Chart Detail,0020900035,462,201166,Aaron Brooks,1610612745,Houston Rockets,4,4,16,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-183,45,1,1,20091031,HOU,POR
+Shot Chart Detail,0020900035,486,201166,Aaron Brooks,1610612745,Houston Rockets,4,3,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,218,146,1,1,20091031,HOU,POR
+Shot Chart Detail,0020900035,520,201166,Aaron Brooks,1610612745,Houston Rockets,4,0,56,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,21,101,1,1,20091031,HOU,POR
+Shot Chart Detail,0020900048,6,201166,Aaron Brooks,1610612745,Houston Rockets,1,11,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-149,213,1,1,20091102,UTA,HOU
+Shot Chart Detail,0020900048,8,201166,Aaron Brooks,1610612745,Houston Rockets,1,11,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20091102,UTA,HOU
+Shot Chart Detail,0020900048,28,201166,Aaron Brooks,1610612745,Houston Rockets,1,9,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,149,151,1,1,20091102,UTA,HOU
+Shot Chart Detail,0020900048,271,201166,Aaron Brooks,1610612745,Houston Rockets,3,11,4,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20091102,UTA,HOU
+Shot Chart Detail,0020900048,317,201166,Aaron Brooks,1610612745,Houston Rockets,3,5,41,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20091102,UTA,HOU
+Shot Chart Detail,0020900048,516,201166,Aaron Brooks,1610612745,Houston Rockets,4,1,43,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,-11,1,1,20091102,UTA,HOU
+Shot Chart Detail,0020900066,69,201166,Aaron Brooks,1610612745,Houston Rockets,1,3,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20091104,HOU,LAL
+Shot Chart Detail,0020900066,272,201166,Aaron Brooks,1610612745,Houston Rockets,3,11,47,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-201,146,1,1,20091104,HOU,LAL
+Shot Chart Detail,0020900066,336,201166,Aaron Brooks,1610612745,Houston Rockets,3,5,33,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,201,178,1,1,20091104,HOU,LAL
+Shot Chart Detail,0020900066,480,201166,Aaron Brooks,1610612745,Houston Rockets,4,1,33,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,64,249,1,1,20091104,HOU,LAL
+Shot Chart Detail,0020900066,563,201166,Aaron Brooks,1610612745,Houston Rockets,5,1,6,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20091104,HOU,LAL
+Shot Chart Detail,0020900081,251,201166,Aaron Brooks,1610612745,Houston Rockets,3,11,28,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,155,165,1,1,20091106,HOU,OKC
+Shot Chart Detail,0020900081,254,201166,Aaron Brooks,1610612745,Houston Rockets,3,10,45,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,77,56,1,1,20091106,HOU,OKC
+Shot Chart Detail,0020900081,256,201166,Aaron Brooks,1610612745,Houston Rockets,3,10,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,113,233,1,1,20091106,HOU,OKC
+Shot Chart Detail,0020900081,396,201166,Aaron Brooks,1610612745,Houston Rockets,4,8,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20091106,HOU,OKC
+Shot Chart Detail,0020900081,461,201166,Aaron Brooks,1610612745,Houston Rockets,4,2,23,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-52,78,1,1,20091106,HOU,OKC
+Shot Chart Detail,0020900107,19,201166,Aaron Brooks,1610612745,Houston Rockets,1,9,57,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20091110,DAL,HOU
+Shot Chart Detail,0020900107,65,201166,Aaron Brooks,1610612745,Houston Rockets,1,4,55,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20091110,DAL,HOU
+Shot Chart Detail,0020900107,72,201166,Aaron Brooks,1610612745,Houston Rockets,1,3,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,138,216,1,1,20091110,DAL,HOU
+Shot Chart Detail,0020900107,74,201166,Aaron Brooks,1610612745,Houston Rockets,1,2,56,Made Shot,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,47,72,1,1,20091110,DAL,HOU
+Shot Chart Detail,0020900107,109,201166,Aaron Brooks,1610612745,Houston Rockets,1,1,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-117,228,1,1,20091110,DAL,HOU
+Shot Chart Detail,0020900107,136,201166,Aaron Brooks,1610612745,Houston Rockets,2,11,14,Made Shot,Turnaround Fadeaway shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,25,-246,83,1,1,20091110,DAL,HOU
+Shot Chart Detail,0020900107,326,201166,Aaron Brooks,1610612745,Houston Rockets,3,4,37,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-105,37,1,1,20091110,DAL,HOU
+Shot Chart Detail,0020900118,50,201166,Aaron Brooks,1610612745,Houston Rockets,1,5,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20091111,HOU,MEM
+Shot Chart Detail,0020900118,253,201166,Aaron Brooks,1610612745,Houston Rockets,3,10,15,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20091111,HOU,MEM
+Shot Chart Detail,0020900118,270,201166,Aaron Brooks,1610612745,Houston Rockets,3,8,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20091111,HOU,MEM
+Shot Chart Detail,0020900130,46,201166,Aaron Brooks,1610612745,Houston Rockets,1,5,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,-194,94,1,1,20091113,SAC,HOU
+Shot Chart Detail,0020900130,210,201166,Aaron Brooks,1610612745,Houston Rockets,2,4,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20091113,SAC,HOU
+Shot Chart Detail,0020900130,253,201166,Aaron Brooks,1610612745,Houston Rockets,2,0,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20091113,SAC,HOU
+Shot Chart Detail,0020900130,500,201166,Aaron Brooks,1610612745,Houston Rockets,4,2,42,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20091113,SAC,HOU
+Shot Chart Detail,0020900146,44,201166,Aaron Brooks,1610612745,Houston Rockets,1,7,26,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20091115,LAL,HOU
+Shot Chart Detail,0020900146,96,201166,Aaron Brooks,1610612745,Houston Rockets,1,3,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-183,0,1,1,20091115,LAL,HOU
+Shot Chart Detail,0020900146,98,201166,Aaron Brooks,1610612745,Houston Rockets,1,2,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20091115,LAL,HOU
+Shot Chart Detail,0020900146,187,201166,Aaron Brooks,1610612745,Houston Rockets,2,7,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-194,175,1,1,20091115,LAL,HOU
+Shot Chart Detail,0020900146,298,201166,Aaron Brooks,1610612745,Houston Rockets,3,9,34,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20091115,LAL,HOU
+Shot Chart Detail,0020900146,326,201166,Aaron Brooks,1610612745,Houston Rockets,3,6,51,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-19,96,1,1,20091115,LAL,HOU
+Shot Chart Detail,0020900146,337,201166,Aaron Brooks,1610612745,Houston Rockets,3,5,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-183,172,1,1,20091115,LAL,HOU
+Shot Chart Detail,0020900146,349,201166,Aaron Brooks,1610612745,Houston Rockets,3,4,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-125,231,1,1,20091115,LAL,HOU
+Shot Chart Detail,0020900146,352,201166,Aaron Brooks,1610612745,Houston Rockets,3,4,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,122,236,1,1,20091115,LAL,HOU
+Shot Chart Detail,0020900146,513,201166,Aaron Brooks,1610612745,Houston Rockets,4,1,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20091115,LAL,HOU
+Shot Chart Detail,0020900154,14,201166,Aaron Brooks,1610612745,Houston Rockets,1,10,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-180,159,1,1,20091117,HOU,PHX
+Shot Chart Detail,0020900154,46,201166,Aaron Brooks,1610612745,Houston Rockets,1,6,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-187,162,1,1,20091117,HOU,PHX
+Shot Chart Detail,0020900154,248,201166,Aaron Brooks,1610612745,Houston Rockets,2,0,2,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,67,129,1,1,20091117,HOU,PHX
+Shot Chart Detail,0020900154,290,201166,Aaron Brooks,1610612745,Houston Rockets,3,7,25,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-158,26,1,1,20091117,HOU,PHX
+Shot Chart Detail,0020900154,335,201166,Aaron Brooks,1610612745,Houston Rockets,3,2,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-175,170,1,1,20091117,HOU,PHX
+Shot Chart Detail,0020900166,10,201166,Aaron Brooks,1610612745,Houston Rockets,1,11,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,106,220,1,1,20091118,MIN,HOU
+Shot Chart Detail,0020900166,54,201166,Aaron Brooks,1610612745,Houston Rockets,1,5,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,51,192,1,1,20091118,MIN,HOU
+Shot Chart Detail,0020900166,231,201166,Aaron Brooks,1610612745,Houston Rockets,2,0,12,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-24,197,1,1,20091118,MIN,HOU
+Shot Chart Detail,0020900166,271,201166,Aaron Brooks,1610612745,Houston Rockets,3,8,50,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-242,12,1,1,20091118,MIN,HOU
+Shot Chart Detail,0020900166,277,201166,Aaron Brooks,1610612745,Houston Rockets,3,7,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-223,101,1,1,20091118,MIN,HOU
+Shot Chart Detail,0020900176,55,201166,Aaron Brooks,1610612745,Houston Rockets,1,6,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,37,252,1,1,20091120,ATL,HOU
+Shot Chart Detail,0020900176,220,201166,Aaron Brooks,1610612745,Houston Rockets,2,1,23,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-46,19,1,1,20091120,ATL,HOU
+Shot Chart Detail,0020900176,231,201166,Aaron Brooks,1610612745,Houston Rockets,2,0,0,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-103,101,1,1,20091120,ATL,HOU
+Shot Chart Detail,0020900176,235,201166,Aaron Brooks,1610612745,Houston Rockets,3,11,47,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-133,93,1,1,20091120,ATL,HOU
+Shot Chart Detail,0020900176,367,201166,Aaron Brooks,1610612745,Houston Rockets,3,0,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,58,173,1,1,20091120,ATL,HOU
+Shot Chart Detail,0020900176,428,201166,Aaron Brooks,1610612745,Houston Rockets,4,7,7,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,-2,1,1,20091120,ATL,HOU
+Shot Chart Detail,0020900176,467,201166,Aaron Brooks,1610612745,Houston Rockets,4,3,41,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,0,1,1,20091120,ATL,HOU
+Shot Chart Detail,0020900187,4,201166,Aaron Brooks,1610612745,Houston Rockets,1,11,4,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,89,23,1,1,20091121,HOU,SAC
+Shot Chart Detail,0020900187,12,201166,Aaron Brooks,1610612745,Houston Rockets,1,9,31,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,73,159,1,1,20091121,HOU,SAC
+Shot Chart Detail,0020900187,207,201166,Aaron Brooks,1610612745,Houston Rockets,2,3,16,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20091121,HOU,SAC
+Shot Chart Detail,0020900215,54,201166,Aaron Brooks,1610612745,Houston Rockets,1,8,7,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,7,115,1,1,20091125,HOU,DAL
+Shot Chart Detail,0020900215,261,201166,Aaron Brooks,1610612745,Houston Rockets,3,9,41,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20091125,HOU,DAL
+Shot Chart Detail,0020900215,430,201166,Aaron Brooks,1610612745,Houston Rockets,4,6,37,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20091125,HOU,DAL
+Shot Chart Detail,0020900229,227,201166,Aaron Brooks,1610612745,Houston Rockets,2,1,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,118,220,1,1,20091127,HOU,SAS
+Shot Chart Detail,0020900229,232,201166,Aaron Brooks,1610612745,Houston Rockets,2,0,33,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,13,77,110,1,1,20091127,HOU,SAS
+Shot Chart Detail,0020900229,235,201166,Aaron Brooks,1610612745,Houston Rockets,2,0,0,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20091127,HOU,SAS
+Shot Chart Detail,0020900229,337,201166,Aaron Brooks,1610612745,Houston Rockets,3,3,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20091127,HOU,SAS
+Shot Chart Detail,0020900229,511,201166,Aaron Brooks,1610612745,Houston Rockets,4,1,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20091127,HOU,SAS
+Shot Chart Detail,0020900244,228,201166,Aaron Brooks,1610612745,Houston Rockets,2,2,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,113,228,1,1,20091129,OKC,HOU
+Shot Chart Detail,0020900244,277,201166,Aaron Brooks,1610612745,Houston Rockets,3,11,1,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20091129,OKC,HOU
+Shot Chart Detail,0020900244,316,201166,Aaron Brooks,1610612745,Houston Rockets,3,6,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,160,200,1,1,20091129,OKC,HOU
+Shot Chart Detail,0020900244,370,201166,Aaron Brooks,1610612745,Houston Rockets,3,1,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,147,66,1,1,20091129,OKC,HOU
+Shot Chart Detail,0020900244,372,201166,Aaron Brooks,1610612745,Houston Rockets,3,0,42,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20091129,OKC,HOU
+Shot Chart Detail,0020900244,449,201166,Aaron Brooks,1610612745,Houston Rockets,4,4,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-41,246,1,1,20091129,OKC,HOU
+Shot Chart Detail,0020900244,457,201166,Aaron Brooks,1610612745,Houston Rockets,4,3,7,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20091129,OKC,HOU
+Shot Chart Detail,0020900244,462,201166,Aaron Brooks,1610612745,Houston Rockets,4,2,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-158,118,1,1,20091129,OKC,HOU
+Shot Chart Detail,0020900268,13,201166,Aaron Brooks,1610612745,Houston Rockets,1,9,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20091202,LAC,HOU
+Shot Chart Detail,0020900268,20,201166,Aaron Brooks,1610612745,Houston Rockets,1,8,43,Made Shot,Running Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20091202,LAC,HOU
+Shot Chart Detail,0020900268,26,201166,Aaron Brooks,1610612745,Houston Rockets,1,7,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-157,195,1,1,20091202,LAC,HOU
+Shot Chart Detail,0020900268,43,201166,Aaron Brooks,1610612745,Houston Rockets,1,5,45,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-226,-3,1,1,20091202,LAC,HOU
+Shot Chart Detail,0020900268,56,201166,Aaron Brooks,1610612745,Houston Rockets,1,3,49,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,51,75,1,1,20091202,LAC,HOU
+Shot Chart Detail,0020900268,189,201166,Aaron Brooks,1610612745,Houston Rockets,2,2,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-125,48,1,1,20091202,LAC,HOU
+Shot Chart Detail,0020900268,200,201166,Aaron Brooks,1610612745,Houston Rockets,2,1,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20091202,LAC,HOU
+Shot Chart Detail,0020900268,220,201166,Aaron Brooks,1610612745,Houston Rockets,3,11,45,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,222,80,1,1,20091202,LAC,HOU
+Shot Chart Detail,0020900268,276,201166,Aaron Brooks,1610612745,Houston Rockets,3,4,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20091202,LAC,HOU
+Shot Chart Detail,0020900271,233,201166,Aaron Brooks,1610612745,Houston Rockets,2,3,6,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-160,209,1,1,20091203,GSW,HOU
+Shot Chart Detail,0020900271,284,201166,Aaron Brooks,1610612745,Houston Rockets,3,10,10,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,19,1,1,20091203,GSW,HOU
+Shot Chart Detail,0020900271,305,201166,Aaron Brooks,1610612745,Houston Rockets,3,7,42,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-13,260,1,1,20091203,GSW,HOU
+Shot Chart Detail,0020900271,314,201166,Aaron Brooks,1610612745,Houston Rockets,3,6,25,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-41,247,1,1,20091203,GSW,HOU
+Shot Chart Detail,0020900271,319,201166,Aaron Brooks,1610612745,Houston Rockets,3,5,26,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,72,246,1,1,20091203,GSW,HOU
+Shot Chart Detail,0020900271,364,201166,Aaron Brooks,1610612745,Houston Rockets,3,0,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-187,173,1,1,20091203,GSW,HOU
+Shot Chart Detail,0020900271,469,201166,Aaron Brooks,1610612745,Houston Rockets,4,4,4,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,2,52,1,1,20091203,GSW,HOU
+Shot Chart Detail,0020900271,475,201166,Aaron Brooks,1610612745,Houston Rockets,4,3,19,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,17,1,1,20091203,GSW,HOU
+Shot Chart Detail,0020900288,32,201166,Aaron Brooks,1610612745,Houston Rockets,1,7,48,Made Shot,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-56,17,1,1,20091205,POR,HOU
+Shot Chart Detail,0020900288,48,201166,Aaron Brooks,1610612745,Houston Rockets,1,5,16,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,12,-65,102,1,1,20091205,POR,HOU
+Shot Chart Detail,0020900288,242,201166,Aaron Brooks,1610612745,Houston Rockets,3,10,42,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-73,7,1,1,20091205,POR,HOU
+Shot Chart Detail,0020900314,44,201166,Aaron Brooks,1610612745,Houston Rockets,1,5,44,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20091209,HOU,CLE
+Shot Chart Detail,0020900314,73,201166,Aaron Brooks,1610612745,Houston Rockets,1,3,26,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-65,47,1,1,20091209,HOU,CLE
+Shot Chart Detail,0020900314,115,201166,Aaron Brooks,1610612745,Houston Rockets,2,11,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,65,260,1,1,20091209,HOU,CLE
+Shot Chart Detail,0020900314,274,201166,Aaron Brooks,1610612745,Houston Rockets,3,9,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,81,162,1,1,20091209,HOU,CLE
+Shot Chart Detail,0020900314,357,201166,Aaron Brooks,1610612745,Houston Rockets,3,4,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20091209,HOU,CLE
+Shot Chart Detail,0020900314,363,201166,Aaron Brooks,1610612745,Houston Rockets,3,3,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20091209,HOU,CLE
+Shot Chart Detail,0020900314,519,201166,Aaron Brooks,1610612745,Houston Rockets,4,3,29,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,21,71,1,1,20091209,HOU,CLE
+Shot Chart Detail,0020900321,22,201166,Aaron Brooks,1610612745,Houston Rockets,1,9,2,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20091211,PHI,HOU
+Shot Chart Detail,0020900321,316,201166,Aaron Brooks,1610612745,Houston Rockets,3,8,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,173,181,1,1,20091211,PHI,HOU
+Shot Chart Detail,0020900321,343,201166,Aaron Brooks,1610612745,Houston Rockets,3,5,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,174,168,1,1,20091211,PHI,HOU
+Shot Chart Detail,0020900321,349,201166,Aaron Brooks,1610612745,Houston Rockets,3,4,53,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-106,101,1,1,20091211,PHI,HOU
+Shot Chart Detail,0020900321,355,201166,Aaron Brooks,1610612745,Houston Rockets,3,3,39,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,214,179,1,1,20091211,PHI,HOU
+Shot Chart Detail,0020900321,397,201166,Aaron Brooks,1610612745,Houston Rockets,3,0,36,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20091211,PHI,HOU
+Shot Chart Detail,0020900321,535,201166,Aaron Brooks,1610612745,Houston Rockets,4,0,8,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-183,-13,1,1,20091211,PHI,HOU
+Shot Chart Detail,0020900339,11,201166,Aaron Brooks,1610612745,Houston Rockets,1,10,32,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,29,14,1,1,20091213,TOR,HOU
+Shot Chart Detail,0020900339,76,201166,Aaron Brooks,1610612745,Houston Rockets,1,2,52,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,9,80,1,1,20091213,TOR,HOU
+Shot Chart Detail,0020900339,90,201166,Aaron Brooks,1610612745,Houston Rockets,1,1,51,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-146,205,1,1,20091213,TOR,HOU
+Shot Chart Detail,0020900339,375,201166,Aaron Brooks,1610612745,Houston Rockets,3,2,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-70,236,1,1,20091213,TOR,HOU
+Shot Chart Detail,0020900339,397,201166,Aaron Brooks,1610612745,Houston Rockets,3,0,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-68,235,1,1,20091213,TOR,HOU
+Shot Chart Detail,0020900339,403,201166,Aaron Brooks,1610612745,Houston Rockets,3,0,2,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-57,80,1,1,20091213,TOR,HOU
+Shot Chart Detail,0020900355,50,201166,Aaron Brooks,1610612745,Houston Rockets,1,5,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20091215,HOU,DET
+Shot Chart Detail,0020900355,65,201166,Aaron Brooks,1610612745,Houston Rockets,1,4,4,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20091215,HOU,DET
+Shot Chart Detail,0020900355,78,201166,Aaron Brooks,1610612745,Houston Rockets,1,2,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,23,127,197,1,1,20091215,HOU,DET
+Shot Chart Detail,0020900355,105,201166,Aaron Brooks,1610612745,Houston Rockets,1,0,1,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-82,52,1,1,20091215,HOU,DET
+Shot Chart Detail,0020900355,109,201166,Aaron Brooks,1610612745,Houston Rockets,2,11,41,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20091215,HOU,DET
+Shot Chart Detail,0020900355,288,201166,Aaron Brooks,1610612745,Houston Rockets,3,7,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,23,159,170,1,1,20091215,HOU,DET
+Shot Chart Detail,0020900355,398,201166,Aaron Brooks,1610612745,Houston Rockets,4,10,29,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-193,39,1,1,20091215,HOU,DET
+Shot Chart Detail,0020900355,448,201166,Aaron Brooks,1610612745,Houston Rockets,4,6,43,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20091215,HOU,DET
+Shot Chart Detail,0020900355,451,201166,Aaron Brooks,1610612745,Houston Rockets,4,5,58,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20091215,HOU,DET
+Shot Chart Detail,0020900355,485,201166,Aaron Brooks,1610612745,Houston Rockets,4,2,34,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,143,140,1,1,20091215,HOU,DET
+Shot Chart Detail,0020900367,53,201166,Aaron Brooks,1610612745,Houston Rockets,1,4,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,177,25,1,1,20091216,DEN,HOU
+Shot Chart Detail,0020900367,268,201166,Aaron Brooks,1610612745,Houston Rockets,3,11,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,197,154,1,1,20091216,DEN,HOU
+Shot Chart Detail,0020900367,279,201166,Aaron Brooks,1610612745,Houston Rockets,3,9,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20091216,DEN,HOU
+Shot Chart Detail,0020900367,316,201166,Aaron Brooks,1610612745,Houston Rockets,3,5,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-205,167,1,1,20091216,DEN,HOU
+Shot Chart Detail,0020900367,382,201166,Aaron Brooks,1610612745,Houston Rockets,3,0,19,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20091216,DEN,HOU
+Shot Chart Detail,0020900367,468,201166,Aaron Brooks,1610612745,Houston Rockets,4,3,49,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20091216,DEN,HOU
+Shot Chart Detail,0020900367,471,201166,Aaron Brooks,1610612745,Houston Rockets,4,3,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,91,231,1,1,20091216,DEN,HOU
+Shot Chart Detail,0020900382,53,201166,Aaron Brooks,1610612745,Houston Rockets,1,5,11,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20091218,DAL,HOU
+Shot Chart Detail,0020900382,280,201166,Aaron Brooks,1610612745,Houston Rockets,3,11,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,17,194,1,1,20091218,DAL,HOU
+Shot Chart Detail,0020900382,296,201166,Aaron Brooks,1610612745,Houston Rockets,3,9,41,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20091218,DAL,HOU
+Shot Chart Detail,0020900382,434,201166,Aaron Brooks,1610612745,Houston Rockets,4,7,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,23,56,233,1,1,20091218,DAL,HOU
+Shot Chart Detail,0020900382,473,201166,Aaron Brooks,1610612745,Houston Rockets,4,5,26,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-7,148,1,1,20091218,DAL,HOU
+Shot Chart Detail,0020900382,491,201166,Aaron Brooks,1610612745,Houston Rockets,4,3,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,138,134,1,1,20091218,DAL,HOU
+Shot Chart Detail,0020900382,564,201166,Aaron Brooks,1610612745,Houston Rockets,5,3,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,97,227,1,1,20091218,DAL,HOU
+Shot Chart Detail,0020900382,585,201166,Aaron Brooks,1610612745,Houston Rockets,5,1,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,34,149,1,1,20091218,DAL,HOU
+Shot Chart Detail,0020900389,341,201166,Aaron Brooks,1610612745,Houston Rockets,3,0,2,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,36,186,1,1,20091219,HOU,OKC
+Shot Chart Detail,0020900389,347,201166,Aaron Brooks,1610612745,Houston Rockets,4,11,33,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-97,41,1,1,20091219,HOU,OKC
+Shot Chart Detail,0020900412,110,201166,Aaron Brooks,1610612745,Houston Rockets,1,2,32,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,236,30,1,1,20091222,HOU,LAC
+Shot Chart Detail,0020900412,430,201166,Aaron Brooks,1610612745,Houston Rockets,4,7,43,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20091222,HOU,LAC
+Shot Chart Detail,0020900414,13,201166,Aaron Brooks,1610612745,Houston Rockets,1,10,41,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-76,-2,1,1,20091223,ORL,HOU
+Shot Chart Detail,0020900414,41,201166,Aaron Brooks,1610612745,Houston Rockets,1,7,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-213,142,1,1,20091223,ORL,HOU
+Shot Chart Detail,0020900414,134,201166,Aaron Brooks,1610612745,Houston Rockets,2,10,39,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,0,1,1,20091223,ORL,HOU
+Shot Chart Detail,0020900414,142,201166,Aaron Brooks,1610612745,Houston Rockets,2,9,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-185,187,1,1,20091223,ORL,HOU
+Shot Chart Detail,0020900414,195,201166,Aaron Brooks,1610612745,Houston Rockets,2,4,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,215,137,1,1,20091223,ORL,HOU
+Shot Chart Detail,0020900431,52,201166,Aaron Brooks,1610612745,Houston Rockets,1,4,16,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,236,-5,1,1,20091226,NJN,HOU
+Shot Chart Detail,0020900431,58,201166,Aaron Brooks,1610612745,Houston Rockets,1,3,8,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20091226,NJN,HOU
+Shot Chart Detail,0020900431,237,201166,Aaron Brooks,1610612745,Houston Rockets,3,11,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,173,52,1,1,20091226,NJN,HOU
+Shot Chart Detail,0020900431,266,201166,Aaron Brooks,1610612745,Houston Rockets,3,8,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-230,111,1,1,20091226,NJN,HOU
+Shot Chart Detail,0020900431,464,201166,Aaron Brooks,1610612745,Houston Rockets,4,0,37,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20091226,NJN,HOU
+Shot Chart Detail,0020900440,3,201166,Aaron Brooks,1610612745,Houston Rockets,1,11,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-146,203,1,1,20091227,CLE,HOU
+Shot Chart Detail,0020900440,9,201166,Aaron Brooks,1610612745,Houston Rockets,1,10,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,0,156,1,1,20091227,CLE,HOU
+Shot Chart Detail,0020900440,15,201166,Aaron Brooks,1610612745,Houston Rockets,1,9,23,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-49,36,1,1,20091227,CLE,HOU
+Shot Chart Detail,0020900440,155,201166,Aaron Brooks,1610612745,Houston Rockets,2,7,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,163,159,1,1,20091227,CLE,HOU
+Shot Chart Detail,0020900440,173,201166,Aaron Brooks,1610612745,Houston Rockets,2,5,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,170,217,1,1,20091227,CLE,HOU
+Shot Chart Detail,0020900440,277,201166,Aaron Brooks,1610612745,Houston Rockets,3,10,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-177,228,1,1,20091227,CLE,HOU
+Shot Chart Detail,0020900440,286,201166,Aaron Brooks,1610612745,Houston Rockets,3,9,6,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,72,56,1,1,20091227,CLE,HOU
+Shot Chart Detail,0020900456,25,201166,Aaron Brooks,1610612745,Houston Rockets,1,8,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20091229,HOU,NOH
+Shot Chart Detail,0020900456,45,201166,Aaron Brooks,1610612745,Houston Rockets,1,5,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,143,198,1,1,20091229,HOU,NOH
+Shot Chart Detail,0020900456,67,201166,Aaron Brooks,1610612745,Houston Rockets,1,2,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-164,209,1,1,20091229,HOU,NOH
+Shot Chart Detail,0020900456,131,201166,Aaron Brooks,1610612745,Houston Rockets,2,7,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-217,115,1,1,20091229,HOU,NOH
+Shot Chart Detail,0020900456,167,201166,Aaron Brooks,1610612745,Houston Rockets,2,3,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,176,175,1,1,20091229,HOU,NOH
+Shot Chart Detail,0020900456,252,201166,Aaron Brooks,1610612745,Houston Rockets,3,8,10,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20091229,HOU,NOH
+Shot Chart Detail,0020900456,344,201166,Aaron Brooks,1610612745,Houston Rockets,4,10,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,21,211,39,1,1,20091229,HOU,NOH
+Shot Chart Detail,0020900456,363,201166,Aaron Brooks,1610612745,Houston Rockets,4,8,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,61,244,1,1,20091229,HOU,NOH
+Shot Chart Detail,0020900470,20,201166,Aaron Brooks,1610612745,Houston Rockets,1,9,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,159,186,1,1,20091231,HOU,DAL
+Shot Chart Detail,0020900470,86,201166,Aaron Brooks,1610612745,Houston Rockets,1,3,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20091231,HOU,DAL
+Shot Chart Detail,0020900470,183,201166,Aaron Brooks,1610612745,Houston Rockets,2,5,34,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-73,69,1,1,20091231,HOU,DAL
+Shot Chart Detail,0020900470,203,201166,Aaron Brooks,1610612745,Houston Rockets,2,2,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20091231,HOU,DAL
+Shot Chart Detail,0020900470,234,201166,Aaron Brooks,1610612745,Houston Rockets,2,0,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-198,140,1,1,20091231,HOU,DAL
+Shot Chart Detail,0020900470,262,201166,Aaron Brooks,1610612745,Houston Rockets,3,9,30,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-226,23,1,1,20091231,HOU,DAL
+Shot Chart Detail,0020900470,274,201166,Aaron Brooks,1610612745,Houston Rockets,3,8,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,138,121,1,1,20091231,HOU,DAL
+Shot Chart Detail,0020900470,292,201166,Aaron Brooks,1610612745,Houston Rockets,3,5,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-187,211,1,1,20091231,HOU,DAL
+Shot Chart Detail,0020900470,339,201166,Aaron Brooks,1610612745,Houston Rockets,3,2,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,184,170,1,1,20091231,HOU,DAL
+Shot Chart Detail,0020900470,349,201166,Aaron Brooks,1610612745,Houston Rockets,3,0,57,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,70,41,1,1,20091231,HOU,DAL
+Shot Chart Detail,0020900470,460,201166,Aaron Brooks,1610612745,Houston Rockets,4,1,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,136,206,1,1,20091231,HOU,DAL
+Shot Chart Detail,0020900483,42,201166,Aaron Brooks,1610612745,Houston Rockets,1,7,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,18,279,1,1,20100102,NOH,HOU
+Shot Chart Detail,0020900483,66,201166,Aaron Brooks,1610612745,Houston Rockets,1,4,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-158,201,1,1,20100102,NOH,HOU
+Shot Chart Detail,0020900483,212,201166,Aaron Brooks,1610612745,Houston Rockets,2,2,46,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-172,22,1,1,20100102,NOH,HOU
+Shot Chart Detail,0020900483,288,201166,Aaron Brooks,1610612745,Houston Rockets,3,6,35,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100102,NOH,HOU
+Shot Chart Detail,0020900483,393,201166,Aaron Brooks,1610612745,Houston Rockets,4,10,44,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100102,NOH,HOU
+Shot Chart Detail,0020900483,442,201166,Aaron Brooks,1610612745,Houston Rockets,4,5,23,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,23,1,1,20100102,NOH,HOU
+Shot Chart Detail,0020900506,14,201166,Aaron Brooks,1610612745,Houston Rockets,1,9,34,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,4,41,1,1,20100105,LAL,HOU
+Shot Chart Detail,0020900506,28,201166,Aaron Brooks,1610612745,Houston Rockets,1,7,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,45,197,1,1,20100105,LAL,HOU
+Shot Chart Detail,0020900506,177,201166,Aaron Brooks,1610612745,Houston Rockets,2,5,18,Made Shot,Driving Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,39,30,1,1,20100105,LAL,HOU
+Shot Chart Detail,0020900506,221,201166,Aaron Brooks,1610612745,Houston Rockets,2,1,8,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100105,LAL,HOU
+Shot Chart Detail,0020900506,256,201166,Aaron Brooks,1610612745,Houston Rockets,3,10,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,127,236,1,1,20100105,LAL,HOU
+Shot Chart Detail,0020900506,313,201166,Aaron Brooks,1610612745,Houston Rockets,3,3,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,124,105,1,1,20100105,LAL,HOU
+Shot Chart Detail,0020900506,480,201166,Aaron Brooks,1610612745,Houston Rockets,4,1,6,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,78,42,1,1,20100105,LAL,HOU
+Shot Chart Detail,0020900514,34,201166,Aaron Brooks,1610612745,Houston Rockets,1,6,45,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100106,PHX,HOU
+Shot Chart Detail,0020900514,42,201166,Aaron Brooks,1610612745,Houston Rockets,1,6,14,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-125,123,1,1,20100106,PHX,HOU
+Shot Chart Detail,0020900514,56,201166,Aaron Brooks,1610612745,Houston Rockets,1,5,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-193,198,1,1,20100106,PHX,HOU
+Shot Chart Detail,0020900514,67,201166,Aaron Brooks,1610612745,Houston Rockets,1,4,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,116,172,1,1,20100106,PHX,HOU
+Shot Chart Detail,0020900514,69,201166,Aaron Brooks,1610612745,Houston Rockets,1,3,56,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,0,1,1,20100106,PHX,HOU
+Shot Chart Detail,0020900514,160,201166,Aaron Brooks,1610612745,Houston Rockets,2,7,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,132,227,1,1,20100106,PHX,HOU
+Shot Chart Detail,0020900514,174,201166,Aaron Brooks,1610612745,Houston Rockets,2,5,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,127,224,1,1,20100106,PHX,HOU
+Shot Chart Detail,0020900514,284,201166,Aaron Brooks,1610612745,Houston Rockets,3,6,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,168,201,1,1,20100106,PHX,HOU
+Shot Chart Detail,0020900514,291,201166,Aaron Brooks,1610612745,Houston Rockets,3,4,31,Made Shot,Driving Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-68,41,1,1,20100106,PHX,HOU
+Shot Chart Detail,0020900514,315,201166,Aaron Brooks,1610612745,Houston Rockets,3,3,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-224,110,1,1,20100106,PHX,HOU
+Shot Chart Detail,0020900514,416,201166,Aaron Brooks,1610612745,Houston Rockets,4,6,4,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-84,15,1,1,20100106,PHX,HOU
+Shot Chart Detail,0020900536,47,201166,Aaron Brooks,1610612745,Houston Rockets,1,5,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-178,176,1,1,20100109,HOU,NYK
+Shot Chart Detail,0020900536,220,201166,Aaron Brooks,1610612745,Houston Rockets,2,1,50,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,2,85,1,1,20100109,HOU,NYK
+Shot Chart Detail,0020900536,222,201166,Aaron Brooks,1610612745,Houston Rockets,2,1,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,140,213,1,1,20100109,HOU,NYK
+Shot Chart Detail,0020900536,246,201166,Aaron Brooks,1610612745,Houston Rockets,3,10,36,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-34,198,1,1,20100109,HOU,NYK
+Shot Chart Detail,0020900536,284,201166,Aaron Brooks,1610612745,Houston Rockets,3,6,49,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,97,12,1,1,20100109,HOU,NYK
+Shot Chart Detail,0020900536,306,201166,Aaron Brooks,1610612745,Houston Rockets,3,4,6,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-71,216,1,1,20100109,HOU,NYK
+Shot Chart Detail,0020900536,312,201166,Aaron Brooks,1610612745,Houston Rockets,3,3,36,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,10,181,1,1,20100109,HOU,NYK
+Shot Chart Detail,0020900536,425,201166,Aaron Brooks,1610612745,Houston Rockets,4,3,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100109,HOU,NYK
+Shot Chart Detail,0020900553,30,201166,Aaron Brooks,1610612745,Houston Rockets,1,8,14,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-226,28,1,1,20100112,CHA,HOU
+Shot Chart Detail,0020900553,279,201166,Aaron Brooks,1610612745,Houston Rockets,3,6,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,30,-116,282,1,1,20100112,CHA,HOU
+Shot Chart Detail,0020900553,294,201166,Aaron Brooks,1610612745,Houston Rockets,3,4,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,100,236,1,1,20100112,CHA,HOU
+Shot Chart Detail,0020900565,16,201166,Aaron Brooks,1610612745,Houston Rockets,1,10,5,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100113,HOU,MIN
+Shot Chart Detail,0020900565,22,201166,Aaron Brooks,1610612745,Houston Rockets,1,9,23,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,244,34,1,1,20100113,HOU,MIN
+Shot Chart Detail,0020900565,39,201166,Aaron Brooks,1610612745,Houston Rockets,1,7,34,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100113,HOU,MIN
+Shot Chart Detail,0020900565,60,201166,Aaron Brooks,1610612745,Houston Rockets,1,4,51,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100113,HOU,MIN
+Shot Chart Detail,0020900565,243,201166,Aaron Brooks,1610612745,Houston Rockets,2,1,25,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-59,88,1,1,20100113,HOU,MIN
+Shot Chart Detail,0020900565,299,201166,Aaron Brooks,1610612745,Houston Rockets,3,8,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,124,189,1,1,20100113,HOU,MIN
+Shot Chart Detail,0020900565,341,201166,Aaron Brooks,1610612745,Houston Rockets,3,4,38,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100113,HOU,MIN
+Shot Chart Detail,0020900565,437,201166,Aaron Brooks,1610612745,Houston Rockets,4,8,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-119,233,1,1,20100113,HOU,MIN
+Shot Chart Detail,0020900565,450,201166,Aaron Brooks,1610612745,Houston Rockets,4,6,43,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,162,192,1,1,20100113,HOU,MIN
+Shot Chart Detail,0020900565,452,201166,Aaron Brooks,1610612745,Houston Rockets,4,6,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,2,183,1,1,20100113,HOU,MIN
+Shot Chart Detail,0020900565,471,201166,Aaron Brooks,1610612745,Houston Rockets,4,3,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-207,172,1,1,20100113,HOU,MIN
+Shot Chart Detail,0020900565,502,201166,Aaron Brooks,1610612745,Houston Rockets,4,0,46,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100113,HOU,MIN
+Shot Chart Detail,0020900565,536,201166,Aaron Brooks,1610612745,Houston Rockets,5,4,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,228,132,1,1,20100113,HOU,MIN
+Shot Chart Detail,0020900565,675,201166,Aaron Brooks,1610612745,Houston Rockets,7,4,14,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,15,1,1,20100113,HOU,MIN
+Shot Chart Detail,0020900580,44,201166,Aaron Brooks,1610612745,Houston Rockets,1,5,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-4,190,1,1,20100115,HOU,MIA
+Shot Chart Detail,0020900580,194,201166,Aaron Brooks,1610612745,Houston Rockets,2,3,10,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-2,80,1,1,20100115,HOU,MIA
+Shot Chart Detail,0020900580,318,201166,Aaron Brooks,1610612745,Houston Rockets,3,3,32,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-2,77,1,1,20100115,HOU,MIA
+Shot Chart Detail,0020900580,320,201166,Aaron Brooks,1610612745,Houston Rockets,3,2,54,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,0,60,1,1,20100115,HOU,MIA
+Shot Chart Detail,0020900580,460,201166,Aaron Brooks,1610612745,Houston Rockets,4,3,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,125,214,1,1,20100115,HOU,MIA
+Shot Chart Detail,0020900598,7,201166,Aaron Brooks,1610612745,Houston Rockets,1,11,0,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-15,135,1,1,20100118,HOU,MIL
+Shot Chart Detail,0020900598,49,201166,Aaron Brooks,1610612745,Houston Rockets,1,4,59,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,28,1,1,20100118,HOU,MIL
+Shot Chart Detail,0020900598,79,201166,Aaron Brooks,1610612745,Houston Rockets,1,2,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-97,183,1,1,20100118,HOU,MIL
+Shot Chart Detail,0020900598,166,201166,Aaron Brooks,1610612745,Houston Rockets,2,5,39,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,45,123,1,1,20100118,HOU,MIL
+Shot Chart Detail,0020900598,416,201166,Aaron Brooks,1610612745,Houston Rockets,4,4,22,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,51,126,1,1,20100118,HOU,MIL
+Shot Chart Detail,0020900633,35,201166,Aaron Brooks,1610612745,Houston Rockets,1,7,11,Made Shot,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,54,20,1,1,20100122,SAS,HOU
+Shot Chart Detail,0020900633,74,201166,Aaron Brooks,1610612745,Houston Rockets,1,4,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-147,67,1,1,20100122,SAS,HOU
+Shot Chart Detail,0020900633,85,201166,Aaron Brooks,1610612745,Houston Rockets,1,3,35,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,0,1,1,20100122,SAS,HOU
+Shot Chart Detail,0020900633,296,201166,Aaron Brooks,1610612745,Houston Rockets,3,8,54,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,135,222,1,1,20100122,SAS,HOU
+Shot Chart Detail,0020900633,325,201166,Aaron Brooks,1610612745,Houston Rockets,3,6,4,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,29,108,1,1,20100122,SAS,HOU
+Shot Chart Detail,0020900633,327,201166,Aaron Brooks,1610612745,Houston Rockets,3,5,37,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-123,63,1,1,20100122,SAS,HOU
+Shot Chart Detail,0020900633,391,201166,Aaron Brooks,1610612745,Houston Rockets,3,0,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,0,1,1,20100122,SAS,HOU
+Shot Chart Detail,0020900633,493,201166,Aaron Brooks,1610612745,Houston Rockets,4,3,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,14,1,1,20100122,SAS,HOU
+Shot Chart Detail,0020900633,503,201166,Aaron Brooks,1610612745,Houston Rockets,4,2,25,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,0,1,1,20100122,SAS,HOU
+Shot Chart Detail,0020900641,42,201166,Aaron Brooks,1610612745,Houston Rockets,1,7,55,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100123,HOU,CHI
+Shot Chart Detail,0020900641,77,201166,Aaron Brooks,1610612745,Houston Rockets,1,5,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,7,162,1,1,20100123,HOU,CHI
+Shot Chart Detail,0020900641,83,201166,Aaron Brooks,1610612745,Houston Rockets,1,4,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,129,222,1,1,20100123,HOU,CHI
+Shot Chart Detail,0020900641,231,201166,Aaron Brooks,1610612745,Houston Rockets,2,4,25,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-71,235,1,1,20100123,HOU,CHI
+Shot Chart Detail,0020900641,270,201166,Aaron Brooks,1610612745,Houston Rockets,2,0,51,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100123,HOU,CHI
+Shot Chart Detail,0020900641,288,201166,Aaron Brooks,1610612745,Houston Rockets,3,10,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100123,HOU,CHI
+Shot Chart Detail,0020900641,302,201166,Aaron Brooks,1610612745,Houston Rockets,3,9,16,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100123,HOU,CHI
+Shot Chart Detail,0020900641,516,201166,Aaron Brooks,1610612745,Houston Rockets,4,1,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-10,244,1,1,20100123,HOU,CHI
+Shot Chart Detail,0020900653,24,201166,Aaron Brooks,1610612745,Houston Rockets,1,8,33,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-127,72,1,1,20100125,HOU,ATL
+Shot Chart Detail,0020900653,52,201166,Aaron Brooks,1610612745,Houston Rockets,1,5,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,165,183,1,1,20100125,HOU,ATL
+Shot Chart Detail,0020900653,55,201166,Aaron Brooks,1610612745,Houston Rockets,1,4,19,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,236,26,1,1,20100125,HOU,ATL
+Shot Chart Detail,0020900653,106,201166,Aaron Brooks,1610612745,Houston Rockets,2,11,31,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100125,HOU,ATL
+Shot Chart Detail,0020900653,401,201166,Aaron Brooks,1610612745,Houston Rockets,4,10,3,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,100,41,1,1,20100125,HOU,ATL
+Shot Chart Detail,0020900653,455,201166,Aaron Brooks,1610612745,Houston Rockets,4,4,42,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100125,HOU,ATL
+Shot Chart Detail,0020900670,183,201166,Aaron Brooks,1610612745,Houston Rockets,2,9,53,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,95,142,1,1,20100127,HOU,DEN
+Shot Chart Detail,0020900670,329,201166,Aaron Brooks,1610612745,Houston Rockets,3,11,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,196,172,1,1,20100127,HOU,DEN
+Shot Chart Detail,0020900670,340,201166,Aaron Brooks,1610612745,Houston Rockets,3,10,42,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,239,11,1,1,20100127,HOU,DEN
+Shot Chart Detail,0020900670,460,201166,Aaron Brooks,1610612745,Houston Rockets,4,10,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100127,HOU,DEN
+Shot Chart Detail,0020900670,462,201166,Aaron Brooks,1610612745,Houston Rockets,4,10,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-217,110,1,1,20100127,HOU,DEN
+Shot Chart Detail,0020900670,564,201166,Aaron Brooks,1610612745,Houston Rockets,4,1,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,29,43,291,1,1,20100127,HOU,DEN
+Shot Chart Detail,0020900670,579,201166,Aaron Brooks,1610612745,Houston Rockets,4,0,40,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100127,HOU,DEN
+Shot Chart Detail,0020900670,595,201166,Aaron Brooks,1610612745,Houston Rockets,4,0,3,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,32,201,257,1,1,20100127,HOU,DEN
+Shot Chart Detail,0020900685,20,201166,Aaron Brooks,1610612745,Houston Rockets,1,9,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-171,214,1,1,20100129,HOU,POR
+Shot Chart Detail,0020900685,71,201166,Aaron Brooks,1610612745,Houston Rockets,1,3,6,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100129,HOU,POR
+Shot Chart Detail,0020900685,81,201166,Aaron Brooks,1610612745,Houston Rockets,1,2,14,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100129,HOU,POR
+Shot Chart Detail,0020900685,130,201166,Aaron Brooks,1610612745,Houston Rockets,2,11,14,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-59,67,1,1,20100129,HOU,POR
+Shot Chart Detail,0020900685,153,201166,Aaron Brooks,1610612745,Houston Rockets,2,9,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100129,HOU,POR
+Shot Chart Detail,0020900685,281,201166,Aaron Brooks,1610612745,Houston Rockets,2,0,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-68,235,1,1,20100129,HOU,POR
+Shot Chart Detail,0020900685,301,201166,Aaron Brooks,1610612745,Houston Rockets,3,9,57,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100129,HOU,POR
+Shot Chart Detail,0020900685,340,201166,Aaron Brooks,1610612745,Houston Rockets,3,5,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,13,271,1,1,20100129,HOU,POR
+Shot Chart Detail,0020900685,388,201166,Aaron Brooks,1610612745,Houston Rockets,3,0,10,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-10,86,1,1,20100129,HOU,POR
+Shot Chart Detail,0020900685,433,201166,Aaron Brooks,1610612745,Houston Rockets,4,7,21,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,21,200,86,1,1,20100129,HOU,POR
+Shot Chart Detail,0020900685,463,201166,Aaron Brooks,1610612745,Houston Rockets,4,5,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100129,HOU,POR
+Shot Chart Detail,0020900701,16,201166,Aaron Brooks,1610612745,Houston Rockets,1,10,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-82,184,1,1,20100131,HOU,PHX
+Shot Chart Detail,0020900701,344,201166,Aaron Brooks,1610612745,Houston Rockets,3,5,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-138,228,1,1,20100131,HOU,PHX
+Shot Chart Detail,0020900701,348,201166,Aaron Brooks,1610612745,Houston Rockets,3,4,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-29,269,1,1,20100131,HOU,PHX
+Shot Chart Detail,0020900701,444,201166,Aaron Brooks,1610612745,Houston Rockets,4,8,8,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,149,197,1,1,20100131,HOU,PHX
+Shot Chart Detail,0020900701,466,201166,Aaron Brooks,1610612745,Houston Rockets,4,5,50,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-52,250,1,1,20100131,HOU,PHX
+Shot Chart Detail,0020900701,522,201166,Aaron Brooks,1610612745,Houston Rockets,4,1,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-164,14,1,1,20100131,HOU,PHX
+Shot Chart Detail,0020900701,558,201166,Aaron Brooks,1610612745,Houston Rockets,5,3,51,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,53,50,1,1,20100131,HOU,PHX
+Shot Chart Detail,0020900701,592,201166,Aaron Brooks,1610612745,Houston Rockets,5,1,8,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,1,69,1,1,20100131,HOU,PHX
+Shot Chart Detail,0020900717,20,201166,Aaron Brooks,1610612745,Houston Rockets,1,10,44,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-37,102,1,1,20100202,HOU,GSW
+Shot Chart Detail,0020900717,35,201166,Aaron Brooks,1610612745,Houston Rockets,1,9,8,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-231,4,1,1,20100202,HOU,GSW
+Shot Chart Detail,0020900717,69,201166,Aaron Brooks,1610612745,Houston Rockets,1,5,42,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100202,HOU,GSW
+Shot Chart Detail,0020900717,230,201166,Aaron Brooks,1610612745,Houston Rockets,2,5,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100202,HOU,GSW
+Shot Chart Detail,0020900717,267,201166,Aaron Brooks,1610612745,Houston Rockets,2,1,35,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100202,HOU,GSW
+Shot Chart Detail,0020900717,288,201166,Aaron Brooks,1610612745,Houston Rockets,2,0,2,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-73,71,1,1,20100202,HOU,GSW
+Shot Chart Detail,0020900717,334,201166,Aaron Brooks,1610612745,Houston Rockets,3,7,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100202,HOU,GSW
+Shot Chart Detail,0020900717,394,201166,Aaron Brooks,1610612745,Houston Rockets,3,2,41,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,0,173,1,1,20100202,HOU,GSW
+Shot Chart Detail,0020900717,422,201166,Aaron Brooks,1610612745,Houston Rockets,3,0,17,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,51,165,1,1,20100202,HOU,GSW
+Shot Chart Detail,0020900717,445,201166,Aaron Brooks,1610612745,Houston Rockets,4,9,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-215,135,1,1,20100202,HOU,GSW
+Shot Chart Detail,0020900736,26,201166,Aaron Brooks,1610612745,Houston Rockets,1,9,11,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100205,MEM,HOU
+Shot Chart Detail,0020900736,107,201166,Aaron Brooks,1610612745,Houston Rockets,1,0,34,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,34,143,1,1,20100205,MEM,HOU
+Shot Chart Detail,0020900736,272,201166,Aaron Brooks,1610612745,Houston Rockets,3,11,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,81,211,1,1,20100205,MEM,HOU
+Shot Chart Detail,0020900736,278,201166,Aaron Brooks,1610612745,Houston Rockets,3,10,49,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,3,1,1,20100205,MEM,HOU
+Shot Chart Detail,0020900736,296,201166,Aaron Brooks,1610612745,Houston Rockets,3,8,44,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100205,MEM,HOU
+Shot Chart Detail,0020900736,326,201166,Aaron Brooks,1610612745,Houston Rockets,3,4,16,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100205,MEM,HOU
+Shot Chart Detail,0020900736,336,201166,Aaron Brooks,1610612745,Houston Rockets,3,3,34,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,56,1,1,20100205,MEM,HOU
+Shot Chart Detail,0020900736,342,201166,Aaron Brooks,1610612745,Houston Rockets,3,3,7,Made Shot,Running Bank shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,146,99,1,1,20100205,MEM,HOU
+Shot Chart Detail,0020900747,61,201166,Aaron Brooks,1610612745,Houston Rockets,1,4,0,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-144,30,1,1,20100206,HOU,PHI
+Shot Chart Detail,0020900747,128,201166,Aaron Brooks,1610612745,Houston Rockets,2,9,16,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,9,86,1,1,20100206,HOU,PHI
+Shot Chart Detail,0020900747,131,201166,Aaron Brooks,1610612745,Houston Rockets,2,8,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-223,104,1,1,20100206,HOU,PHI
+Shot Chart Detail,0020900747,165,201166,Aaron Brooks,1610612745,Houston Rockets,2,6,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-199,181,1,1,20100206,HOU,PHI
+Shot Chart Detail,0020900747,174,201166,Aaron Brooks,1610612745,Houston Rockets,2,5,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,209,148,1,1,20100206,HOU,PHI
+Shot Chart Detail,0020900747,215,201166,Aaron Brooks,1610612745,Houston Rockets,2,2,17,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,43,249,1,1,20100206,HOU,PHI
+Shot Chart Detail,0020900747,246,201166,Aaron Brooks,1610612745,Houston Rockets,3,11,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-205,157,1,1,20100206,HOU,PHI
+Shot Chart Detail,0020900747,327,201166,Aaron Brooks,1610612745,Houston Rockets,3,2,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100206,HOU,PHI
+Shot Chart Detail,0020900747,375,201166,Aaron Brooks,1610612745,Houston Rockets,4,10,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,181,173,1,1,20100206,HOU,PHI
+Shot Chart Detail,0020900747,447,201166,Aaron Brooks,1610612745,Houston Rockets,4,2,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100206,HOU,PHI
+Shot Chart Detail,0020900747,483,201166,Aaron Brooks,1610612745,Houston Rockets,4,0,27,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,12,-62,107,1,1,20100206,HOU,PHI
+Shot Chart Detail,0020900762,16,201166,Aaron Brooks,1610612745,Houston Rockets,1,10,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,94,110,1,1,20100209,MIA,HOU
+Shot Chart Detail,0020900762,106,201166,Aaron Brooks,1610612745,Houston Rockets,2,11,39,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,0,94,1,1,20100209,MIA,HOU
+Shot Chart Detail,0020900762,240,201166,Aaron Brooks,1610612745,Houston Rockets,3,10,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,196,149,1,1,20100209,MIA,HOU
+Shot Chart Detail,0020900787,27,201166,Aaron Brooks,1610612745,Houston Rockets,1,7,47,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100216,HOU,UTA
+Shot Chart Detail,0020900787,35,201166,Aaron Brooks,1610612745,Houston Rockets,1,6,29,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,236,47,1,1,20100216,HOU,UTA
+Shot Chart Detail,0020900787,196,201166,Aaron Brooks,1610612745,Houston Rockets,2,4,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,121,225,1,1,20100216,HOU,UTA
+Shot Chart Detail,0020900787,214,201166,Aaron Brooks,1610612745,Houston Rockets,2,2,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,110,222,1,1,20100216,HOU,UTA
+Shot Chart Detail,0020900787,249,201166,Aaron Brooks,1610612745,Houston Rockets,3,10,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-172,183,1,1,20100216,HOU,UTA
+Shot Chart Detail,0020900797,15,201166,Aaron Brooks,1610612745,Houston Rockets,1,9,40,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-97,28,1,1,20100217,MIL,HOU
+Shot Chart Detail,0020900797,233,201166,Aaron Brooks,1610612745,Houston Rockets,2,0,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-166,208,1,1,20100217,MIL,HOU
+Shot Chart Detail,0020900797,306,201166,Aaron Brooks,1610612745,Houston Rockets,3,4,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,81,257,1,1,20100217,MIL,HOU
+Shot Chart Detail,0020900797,366,201166,Aaron Brooks,1610612745,Houston Rockets,3,0,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100217,MIL,HOU
+Shot Chart Detail,0020900797,376,201166,Aaron Brooks,1610612745,Houston Rockets,4,11,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-220,156,1,1,20100217,MIL,HOU
+Shot Chart Detail,0020900820,69,201166,Aaron Brooks,1610612745,Houston Rockets,1,4,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-123,238,1,1,20100220,HOU,IND
+Shot Chart Detail,0020900820,73,201166,Aaron Brooks,1610612745,Houston Rockets,1,3,27,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100220,HOU,IND
+Shot Chart Detail,0020900820,136,201166,Aaron Brooks,1610612745,Houston Rockets,2,11,14,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,67,19,1,1,20100220,HOU,IND
+Shot Chart Detail,0020900820,196,201166,Aaron Brooks,1610612745,Houston Rockets,2,7,20,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100220,HOU,IND
+Shot Chart Detail,0020900820,203,201166,Aaron Brooks,1610612745,Houston Rockets,2,6,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,166,189,1,1,20100220,HOU,IND
+Shot Chart Detail,0020900820,279,201166,Aaron Brooks,1610612745,Houston Rockets,2,1,12,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100220,HOU,IND
+Shot Chart Detail,0020900820,291,201166,Aaron Brooks,1610612745,Houston Rockets,2,0,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,73,173,1,1,20100220,HOU,IND
+Shot Chart Detail,0020900820,318,201166,Aaron Brooks,1610612745,Houston Rockets,3,11,26,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-8,74,1,1,20100220,HOU,IND
+Shot Chart Detail,0020900820,358,201166,Aaron Brooks,1610612745,Houston Rockets,3,6,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-34,250,1,1,20100220,HOU,IND
+Shot Chart Detail,0020900820,604,201166,Aaron Brooks,1610612745,Houston Rockets,4,0,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100220,HOU,IND
+Shot Chart Detail,0020900820,615,201166,Aaron Brooks,1610612745,Houston Rockets,4,0,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100220,HOU,IND
+Shot Chart Detail,0020900828,27,201166,Aaron Brooks,1610612745,Houston Rockets,1,9,19,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100221,NOH,HOU
+Shot Chart Detail,0020900828,42,201166,Aaron Brooks,1610612745,Houston Rockets,1,7,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-150,23,1,1,20100221,NOH,HOU
+Shot Chart Detail,0020900828,244,201166,Aaron Brooks,1610612745,Houston Rockets,2,0,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100221,NOH,HOU
+Shot Chart Detail,0020900828,302,201166,Aaron Brooks,1610612745,Houston Rockets,3,6,14,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100221,NOH,HOU
+Shot Chart Detail,0020900828,468,201166,Aaron Brooks,1610612745,Houston Rockets,4,5,37,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100221,NOH,HOU
+Shot Chart Detail,0020900828,534,201166,Aaron Brooks,1610612745,Houston Rockets,4,0,31,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-231,67,1,1,20100221,NOH,HOU
+Shot Chart Detail,0020900850,36,201166,Aaron Brooks,1610612745,Houston Rockets,1,8,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100224,HOU,ORL
+Shot Chart Detail,0020900850,65,201166,Aaron Brooks,1610612745,Houston Rockets,1,4,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100224,HOU,ORL
+Shot Chart Detail,0020900850,105,201166,Aaron Brooks,1610612745,Houston Rockets,1,0,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100224,HOU,ORL
+Shot Chart Detail,0020900850,198,201166,Aaron Brooks,1610612745,Houston Rockets,2,4,8,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,47,1,1,20100224,HOU,ORL
+Shot Chart Detail,0020900850,218,201166,Aaron Brooks,1610612745,Houston Rockets,2,2,0,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,10,162,1,1,20100224,HOU,ORL
+Shot Chart Detail,0020900850,236,201166,Aaron Brooks,1610612745,Houston Rockets,2,0,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-60,249,1,1,20100224,HOU,ORL
+Shot Chart Detail,0020900850,291,201166,Aaron Brooks,1610612745,Houston Rockets,3,6,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,228,105,1,1,20100224,HOU,ORL
+Shot Chart Detail,0020900850,343,201166,Aaron Brooks,1610612745,Houston Rockets,3,1,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100224,HOU,ORL
+Shot Chart Detail,0020900850,398,201166,Aaron Brooks,1610612745,Houston Rockets,4,7,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,159,192,1,1,20100224,HOU,ORL
+Shot Chart Detail,0020900866,36,201166,Aaron Brooks,1610612745,Houston Rockets,1,7,18,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-10,63,1,1,20100226,HOU,SAS
+Shot Chart Detail,0020900866,41,201166,Aaron Brooks,1610612745,Houston Rockets,1,6,47,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100226,HOU,SAS
+Shot Chart Detail,0020900866,43,201166,Aaron Brooks,1610612745,Houston Rockets,1,6,16,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100226,HOU,SAS
+Shot Chart Detail,0020900866,168,201166,Aaron Brooks,1610612745,Houston Rockets,2,8,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-201,11,1,1,20100226,HOU,SAS
+Shot Chart Detail,0020900866,183,201166,Aaron Brooks,1610612745,Houston Rockets,2,6,46,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,70,93,1,1,20100226,HOU,SAS
+Shot Chart Detail,0020900866,205,201166,Aaron Brooks,1610612745,Houston Rockets,2,5,0,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-48,173,1,1,20100226,HOU,SAS
+Shot Chart Detail,0020900866,212,201166,Aaron Brooks,1610612745,Houston Rockets,2,4,25,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-130,209,1,1,20100226,HOU,SAS
+Shot Chart Detail,0020900866,310,201166,Aaron Brooks,1610612745,Houston Rockets,3,8,30,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,122,138,1,1,20100226,HOU,SAS
+Shot Chart Detail,0020900866,312,201166,Aaron Brooks,1610612745,Houston Rockets,3,7,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100226,HOU,SAS
+Shot Chart Detail,0020900866,380,201166,Aaron Brooks,1610612745,Houston Rockets,3,2,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100226,HOU,SAS
+Shot Chart Detail,0020900866,453,201166,Aaron Brooks,1610612745,Houston Rockets,4,8,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100226,HOU,SAS
+Shot Chart Detail,0020900866,513,201166,Aaron Brooks,1610612745,Houston Rockets,4,3,42,Made Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-57,89,1,1,20100226,HOU,SAS
+Shot Chart Detail,0020900866,515,201166,Aaron Brooks,1610612745,Houston Rockets,4,3,13,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,21,200,75,1,1,20100226,HOU,SAS
+Shot Chart Detail,0020900876,41,201166,Aaron Brooks,1610612745,Houston Rockets,1,6,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100227,UTA,HOU
+Shot Chart Detail,0020900876,54,201166,Aaron Brooks,1610612745,Houston Rockets,1,4,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-97,159,1,1,20100227,UTA,HOU
+Shot Chart Detail,0020900876,62,201166,Aaron Brooks,1610612745,Houston Rockets,1,3,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-185,178,1,1,20100227,UTA,HOU
+Shot Chart Detail,0020900876,237,201166,Aaron Brooks,1610612745,Houston Rockets,2,2,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,163,189,1,1,20100227,UTA,HOU
+Shot Chart Detail,0020900876,242,201166,Aaron Brooks,1610612745,Houston Rockets,2,1,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-103,156,1,1,20100227,UTA,HOU
+Shot Chart Detail,0020900876,286,201166,Aaron Brooks,1610612745,Houston Rockets,3,10,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-127,213,1,1,20100227,UTA,HOU
+Shot Chart Detail,0020900876,364,201166,Aaron Brooks,1610612745,Houston Rockets,3,3,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100227,UTA,HOU
+Shot Chart Detail,0020900892,15,201166,Aaron Brooks,1610612745,Houston Rockets,1,9,53,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,241,63,1,1,20100301,HOU,TOR
+Shot Chart Detail,0020900892,18,201166,Aaron Brooks,1610612745,Houston Rockets,1,9,27,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,78,148,1,1,20100301,HOU,TOR
+Shot Chart Detail,0020900892,28,201166,Aaron Brooks,1610612745,Houston Rockets,1,8,2,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100301,HOU,TOR
+Shot Chart Detail,0020900892,38,201166,Aaron Brooks,1610612745,Houston Rockets,1,6,26,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100301,HOU,TOR
+Shot Chart Detail,0020900892,111,201166,Aaron Brooks,1610612745,Houston Rockets,1,1,15,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,9,116,1,1,20100301,HOU,TOR
+Shot Chart Detail,0020900892,142,201166,Aaron Brooks,1610612745,Houston Rockets,2,10,35,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-158,9,1,1,20100301,HOU,TOR
+Shot Chart Detail,0020900892,157,201166,Aaron Brooks,1610612745,Houston Rockets,2,9,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100301,HOU,TOR
+Shot Chart Detail,0020900892,250,201166,Aaron Brooks,1610612745,Houston Rockets,2,1,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,160,201,1,1,20100301,HOU,TOR
+Shot Chart Detail,0020900892,254,201166,Aaron Brooks,1610612745,Houston Rockets,2,0,37,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-122,41,1,1,20100301,HOU,TOR
+Shot Chart Detail,0020900892,279,201166,Aaron Brooks,1610612745,Houston Rockets,3,9,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-215,115,1,1,20100301,HOU,TOR
+Shot Chart Detail,0020900892,322,201166,Aaron Brooks,1610612745,Houston Rockets,3,5,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-188,162,1,1,20100301,HOU,TOR
+Shot Chart Detail,0020900907,26,201166,Aaron Brooks,1610612745,Houston Rockets,1,8,55,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-54,153,1,1,20100303,HOU,SAC
+Shot Chart Detail,0020900907,188,201166,Aaron Brooks,1610612745,Houston Rockets,2,6,30,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,0,1,1,20100303,HOU,SAC
+Shot Chart Detail,0020900907,270,201166,Aaron Brooks,1610612745,Houston Rockets,2,0,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,165,181,1,1,20100303,HOU,SAC
+Shot Chart Detail,0020900907,372,201166,Aaron Brooks,1610612745,Houston Rockets,3,4,30,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100303,HOU,SAC
+Shot Chart Detail,0020900907,392,201166,Aaron Brooks,1610612745,Houston Rockets,3,2,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100303,HOU,SAC
+Shot Chart Detail,0020900907,405,201166,Aaron Brooks,1610612745,Houston Rockets,3,0,58,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100303,HOU,SAC
+Shot Chart Detail,0020900907,442,201166,Aaron Brooks,1610612745,Houston Rockets,4,8,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100303,HOU,SAC
+Shot Chart Detail,0020900907,479,201166,Aaron Brooks,1610612745,Houston Rockets,4,5,45,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,24,162,1,1,20100303,HOU,SAC
+Shot Chart Detail,0020900907,530,201166,Aaron Brooks,1610612745,Houston Rockets,4,0,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100303,HOU,SAC
+Shot Chart Detail,0020900930,24,201166,Aaron Brooks,1610612745,Houston Rockets,1,8,12,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-32,101,1,1,20100306,MIN,HOU
+Shot Chart Detail,0020900930,227,201166,Aaron Brooks,1610612745,Houston Rockets,2,2,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,116,217,1,1,20100306,MIN,HOU
+Shot Chart Detail,0020900930,259,201166,Aaron Brooks,1610612745,Houston Rockets,3,11,41,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,225,55,1,1,20100306,MIN,HOU
+Shot Chart Detail,0020900930,268,201166,Aaron Brooks,1610612745,Houston Rockets,3,10,20,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,-3,1,1,20100306,MIN,HOU
+Shot Chart Detail,0020900930,318,201166,Aaron Brooks,1610612745,Houston Rockets,3,5,0,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100306,MIN,HOU
+Shot Chart Detail,0020900930,322,201166,Aaron Brooks,1610612745,Houston Rockets,3,4,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100306,MIN,HOU
+Shot Chart Detail,0020900930,359,201166,Aaron Brooks,1610612745,Houston Rockets,3,0,34,Made Shot,Running Bank shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,86,33,1,1,20100306,MIN,HOU
+Shot Chart Detail,0020900930,407,201166,Aaron Brooks,1610612745,Houston Rockets,4,8,27,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-152,45,1,1,20100306,MIN,HOU
+Shot Chart Detail,0020900930,440,201166,Aaron Brooks,1610612745,Houston Rockets,4,5,37,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100306,MIN,HOU
+Shot Chart Detail,0020900930,488,201166,Aaron Brooks,1610612745,Houston Rockets,4,1,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-64,143,1,1,20100306,MIN,HOU
+Shot Chart Detail,0020900936,73,201166,Aaron Brooks,1610612745,Houston Rockets,1,2,48,Made Shot,Running Bank shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-112,30,1,1,20100307,DET,HOU
+Shot Chart Detail,0020900936,170,201166,Aaron Brooks,1610612745,Houston Rockets,2,4,27,Made Shot,Running Bank shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-144,37,1,1,20100307,DET,HOU
+Shot Chart Detail,0020900936,189,201166,Aaron Brooks,1610612745,Houston Rockets,2,3,8,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100307,DET,HOU
+Shot Chart Detail,0020900936,205,201166,Aaron Brooks,1610612745,Houston Rockets,2,0,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-228,105,1,1,20100307,DET,HOU
+Shot Chart Detail,0020900936,248,201166,Aaron Brooks,1610612745,Houston Rockets,3,9,23,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,69,34,1,1,20100307,DET,HOU
+Shot Chart Detail,0020900936,259,201166,Aaron Brooks,1610612745,Houston Rockets,3,8,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-75,261,1,1,20100307,DET,HOU
+Shot Chart Detail,0020900936,338,201166,Aaron Brooks,1610612745,Houston Rockets,3,0,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100307,DET,HOU
+Shot Chart Detail,0020900936,371,201166,Aaron Brooks,1610612745,Houston Rockets,4,8,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,200,6,1,1,20100307,DET,HOU
+Shot Chart Detail,0020900936,412,201166,Aaron Brooks,1610612745,Houston Rockets,4,5,12,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,121,30,1,1,20100307,DET,HOU
+Shot Chart Detail,0020900936,438,201166,Aaron Brooks,1610612745,Houston Rockets,4,2,18,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100307,DET,HOU
+Shot Chart Detail,0020900948,53,201166,Aaron Brooks,1610612745,Houston Rockets,1,6,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-114,137,1,1,20100309,WAS,HOU
+Shot Chart Detail,0020900948,221,201166,Aaron Brooks,1610612745,Houston Rockets,2,3,31,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20100309,WAS,HOU
+Shot Chart Detail,0020900948,232,201166,Aaron Brooks,1610612745,Houston Rockets,2,2,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,206,131,1,1,20100309,WAS,HOU
+Shot Chart Detail,0020900948,258,201166,Aaron Brooks,1610612745,Houston Rockets,3,11,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,118,153,1,1,20100309,WAS,HOU
+Shot Chart Detail,0020900948,301,201166,Aaron Brooks,1610612745,Houston Rockets,3,7,38,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-229,-24,1,1,20100309,WAS,HOU
+Shot Chart Detail,0020900980,22,201166,Aaron Brooks,1610612745,Houston Rockets,1,9,45,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100313,HOU,NJN
+Shot Chart Detail,0020900980,78,201166,Aaron Brooks,1610612745,Houston Rockets,1,2,57,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,17,63,1,1,20100313,HOU,NJN
+Shot Chart Detail,0020900980,211,201166,Aaron Brooks,1610612745,Houston Rockets,2,3,20,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-224,78,1,1,20100313,HOU,NJN
+Shot Chart Detail,0020900980,440,201166,Aaron Brooks,1610612745,Houston Rockets,4,8,42,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,12,80,1,1,20100313,HOU,NJN
+Shot Chart Detail,0020900980,456,201166,Aaron Brooks,1610612745,Houston Rockets,4,6,37,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-226,6,1,1,20100313,HOU,NJN
+Shot Chart Detail,0020900980,463,201166,Aaron Brooks,1610612745,Houston Rockets,4,6,2,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100313,HOU,NJN
+Shot Chart Detail,0020900980,517,201166,Aaron Brooks,1610612745,Houston Rockets,4,0,38,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100313,HOU,NJN
+Shot Chart Detail,0020900993,14,201166,Aaron Brooks,1610612745,Houston Rockets,1,9,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-179,173,1,1,20100315,HOU,DEN
+Shot Chart Detail,0020900993,84,201166,Aaron Brooks,1610612745,Houston Rockets,1,4,5,Made Shot,Running Bank shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,113,67,1,1,20100315,HOU,DEN
+Shot Chart Detail,0020900993,105,201166,Aaron Brooks,1610612745,Houston Rockets,1,2,45,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,89,34,1,1,20100315,HOU,DEN
+Shot Chart Detail,0020900993,135,201166,Aaron Brooks,1610612745,Houston Rockets,1,1,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,124,168,1,1,20100315,HOU,DEN
+Shot Chart Detail,0020900993,270,201166,Aaron Brooks,1610612745,Houston Rockets,2,2,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,237,91,1,1,20100315,HOU,DEN
+Shot Chart Detail,0020900993,355,201166,Aaron Brooks,1610612745,Houston Rockets,3,5,46,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100315,HOU,DEN
+Shot Chart Detail,0020900993,392,201166,Aaron Brooks,1610612745,Houston Rockets,3,2,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100315,HOU,DEN
+Shot Chart Detail,0020900993,413,201166,Aaron Brooks,1610612745,Houston Rockets,3,1,43,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-146,135,1,1,20100315,HOU,DEN
+Shot Chart Detail,0020900993,415,201166,Aaron Brooks,1610612745,Houston Rockets,3,1,9,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100315,HOU,DEN
+Shot Chart Detail,0020900993,534,201166,Aaron Brooks,1610612745,Houston Rockets,4,2,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100315,HOU,DEN
+Shot Chart Detail,0020900993,569,201166,Aaron Brooks,1610612745,Houston Rockets,4,0,2,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,58,176,1,1,20100315,HOU,DEN
+Shot Chart Detail,0020901012,41,201166,Aaron Brooks,1610612745,Houston Rockets,1,8,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-187,164,1,1,20100317,HOU,MEM
+Shot Chart Detail,0020901012,63,201166,Aaron Brooks,1610612745,Houston Rockets,1,6,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100317,HOU,MEM
+Shot Chart Detail,0020901012,221,201166,Aaron Brooks,1610612745,Houston Rockets,2,4,42,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,236,44,1,1,20100317,HOU,MEM
+Shot Chart Detail,0020901012,318,201166,Aaron Brooks,1610612745,Houston Rockets,3,9,58,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,11,-60,101,1,1,20100317,HOU,MEM
+Shot Chart Detail,0020901012,340,201166,Aaron Brooks,1610612745,Houston Rockets,3,8,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-108,255,1,1,20100317,HOU,MEM
+Shot Chart Detail,0020901012,382,201166,Aaron Brooks,1610612745,Houston Rockets,3,3,6,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-11,69,1,1,20100317,HOU,MEM
+Shot Chart Detail,0020901012,392,201166,Aaron Brooks,1610612745,Houston Rockets,3,2,2,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-221,28,1,1,20100317,HOU,MEM
+Shot Chart Detail,0020901012,402,201166,Aaron Brooks,1610612745,Houston Rockets,3,0,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-150,222,1,1,20100317,HOU,MEM
+Shot Chart Detail,0020901012,487,201166,Aaron Brooks,1610612745,Houston Rockets,4,6,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,125,231,1,1,20100317,HOU,MEM
+Shot Chart Detail,0020901012,497,201166,Aaron Brooks,1610612745,Houston Rockets,4,5,15,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100317,HOU,MEM
+Shot Chart Detail,0020901012,503,201166,Aaron Brooks,1610612745,Houston Rockets,4,4,7,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,244,52,1,1,20100317,HOU,MEM
+Shot Chart Detail,0020901023,27,201166,Aaron Brooks,1610612745,Houston Rockets,1,8,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100319,HOU,BOS
+Shot Chart Detail,0020901023,309,201166,Aaron Brooks,1610612745,Houston Rockets,3,9,49,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100319,HOU,BOS
+Shot Chart Detail,0020901023,312,201166,Aaron Brooks,1610612745,Houston Rockets,3,9,24,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100319,HOU,BOS
+Shot Chart Detail,0020901023,498,201166,Aaron Brooks,1610612745,Houston Rockets,4,2,14,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100319,HOU,BOS
+Shot Chart Detail,0020901036,68,201166,Aaron Brooks,1610612745,Houston Rockets,1,5,13,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-131,1,1,1,20100321,NYK,HOU
+Shot Chart Detail,0020901036,257,201166,Aaron Brooks,1610612745,Houston Rockets,2,1,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,162,197,1,1,20100321,NYK,HOU
+Shot Chart Detail,0020901036,274,201166,Aaron Brooks,1610612745,Houston Rockets,3,11,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100321,NYK,HOU
+Shot Chart Detail,0020901036,491,201166,Aaron Brooks,1610612745,Houston Rockets,4,2,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-218,134,1,1,20100321,NYK,HOU
+Shot Chart Detail,0020901036,494,201166,Aaron Brooks,1610612745,Houston Rockets,4,1,49,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,65,47,1,1,20100321,NYK,HOU
+Shot Chart Detail,0020901036,499,201166,Aaron Brooks,1610612745,Houston Rockets,4,0,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,102,206,1,1,20100321,NYK,HOU
+Shot Chart Detail,0020901045,449,201166,Aaron Brooks,1610612745,Houston Rockets,4,6,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-122,124,1,1,20100322,CHI,HOU
+Shot Chart Detail,0020901045,476,201166,Aaron Brooks,1610612745,Houston Rockets,4,3,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-183,181,1,1,20100322,CHI,HOU
+Shot Chart Detail,0020901045,488,201166,Aaron Brooks,1610612745,Houston Rockets,4,1,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-114,244,1,1,20100322,CHI,HOU
+Shot Chart Detail,0020901065,134,201166,Aaron Brooks,1610612745,Houston Rockets,2,9,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,29,250,1,1,20100324,OKC,HOU
+Shot Chart Detail,0020901065,235,201166,Aaron Brooks,1610612745,Houston Rockets,2,1,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-180,159,1,1,20100324,OKC,HOU
+Shot Chart Detail,0020901065,331,201166,Aaron Brooks,1610612745,Houston Rockets,3,2,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,160,189,1,1,20100324,OKC,HOU
+Shot Chart Detail,0020901069,18,201166,Aaron Brooks,1610612745,Houston Rockets,1,10,1,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,51,44,1,1,20100325,HOU,LAC
+Shot Chart Detail,0020901069,29,201166,Aaron Brooks,1610612745,Houston Rockets,1,9,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100325,HOU,LAC
+Shot Chart Detail,0020901069,209,201166,Aaron Brooks,1610612745,Houston Rockets,2,4,41,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,132,129,1,1,20100325,HOU,LAC
+Shot Chart Detail,0020901069,217,201166,Aaron Brooks,1610612745,Houston Rockets,2,3,25,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,17,143,1,1,20100325,HOU,LAC
+Shot Chart Detail,0020901069,321,201166,Aaron Brooks,1610612745,Houston Rockets,3,3,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,140,220,1,1,20100325,HOU,LAC
+Shot Chart Detail,0020901069,381,201166,Aaron Brooks,1610612745,Houston Rockets,4,11,42,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100325,HOU,LAC
+Shot Chart Detail,0020901085,19,201166,Aaron Brooks,1610612745,Houston Rockets,1,9,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,78,231,1,1,20100327,HOU,LAL
+Shot Chart Detail,0020901085,34,201166,Aaron Brooks,1610612745,Houston Rockets,1,7,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-57,142,1,1,20100327,HOU,LAL
+Shot Chart Detail,0020901085,39,201166,Aaron Brooks,1610612745,Houston Rockets,1,6,47,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100327,HOU,LAL
+Shot Chart Detail,0020901085,49,201166,Aaron Brooks,1610612745,Houston Rockets,1,5,26,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-174,195,1,1,20100327,HOU,LAL
+Shot Chart Detail,0020901085,96,201166,Aaron Brooks,1610612745,Houston Rockets,1,1,48,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,144,105,1,1,20100327,HOU,LAL
+Shot Chart Detail,0020901085,253,201166,Aaron Brooks,1610612745,Houston Rockets,3,10,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100327,HOU,LAL
+Shot Chart Detail,0020901085,263,201166,Aaron Brooks,1610612745,Houston Rockets,3,8,4,Made Shot,Step Back Jump shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-228,75,1,1,20100327,HOU,LAL
+Shot Chart Detail,0020901085,460,201166,Aaron Brooks,1610612745,Houston Rockets,4,2,42,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,23,255,1,1,20100327,HOU,LAL
+Shot Chart Detail,0020901106,28,201166,Aaron Brooks,1610612745,Houston Rockets,1,7,46,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100330,HOU,WAS
+Shot Chart Detail,0020901106,108,201166,Aaron Brooks,1610612745,Houston Rockets,1,1,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,171,20,1,1,20100330,HOU,WAS
+Shot Chart Detail,0020901106,115,201166,Aaron Brooks,1610612745,Houston Rockets,1,0,1,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,32,157,1,1,20100330,HOU,WAS
+Shot Chart Detail,0020901106,290,201166,Aaron Brooks,1610612745,Houston Rockets,3,8,4,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100330,HOU,WAS
+Shot Chart Detail,0020901106,349,201166,Aaron Brooks,1610612745,Houston Rockets,3,3,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-84,230,1,1,20100330,HOU,WAS
+Shot Chart Detail,0020901117,17,201166,Aaron Brooks,1610612745,Houston Rockets,1,10,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,203,28,1,1,20100331,SAS,HOU
+Shot Chart Detail,0020901117,22,201166,Aaron Brooks,1610612745,Houston Rockets,1,9,1,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-152,12,1,1,20100331,SAS,HOU
+Shot Chart Detail,0020901117,29,201166,Aaron Brooks,1610612745,Houston Rockets,1,8,12,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-136,20,1,1,20100331,SAS,HOU
+Shot Chart Detail,0020901117,82,201166,Aaron Brooks,1610612745,Houston Rockets,1,2,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-71,242,1,1,20100331,SAS,HOU
+Shot Chart Detail,0020901117,101,201166,Aaron Brooks,1610612745,Houston Rockets,1,0,28,Made Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,12,105,1,1,20100331,SAS,HOU
+Shot Chart Detail,0020901117,225,201166,Aaron Brooks,1610612745,Houston Rockets,2,3,41,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-13,140,1,1,20100331,SAS,HOU
+Shot Chart Detail,0020901117,241,201166,Aaron Brooks,1610612745,Houston Rockets,2,2,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,179,186,1,1,20100331,SAS,HOU
+Shot Chart Detail,0020901117,270,201166,Aaron Brooks,1610612745,Houston Rockets,3,11,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,0,1,1,20100331,SAS,HOU
+Shot Chart Detail,0020901125,13,201166,Aaron Brooks,1610612745,Houston Rockets,1,9,53,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-202,-5,1,1,20100402,BOS,HOU
+Shot Chart Detail,0020901125,25,201166,Aaron Brooks,1610612745,Houston Rockets,1,8,31,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-41,149,1,1,20100402,BOS,HOU
+Shot Chart Detail,0020901125,116,201166,Aaron Brooks,1610612745,Houston Rockets,1,0,4,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-82,0,1,1,20100402,BOS,HOU
+Shot Chart Detail,0020901125,132,201166,Aaron Brooks,1610612745,Houston Rockets,2,10,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-158,181,1,1,20100402,BOS,HOU
+Shot Chart Detail,0020901125,215,201166,Aaron Brooks,1610612745,Houston Rockets,2,3,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,9,211,1,1,20100402,BOS,HOU
+Shot Chart Detail,0020901125,231,201166,Aaron Brooks,1610612745,Houston Rockets,2,1,27,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,9,1,1,20100402,BOS,HOU
+Shot Chart Detail,0020901125,240,201166,Aaron Brooks,1610612745,Houston Rockets,2,0,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,22,-194,113,1,1,20100402,BOS,HOU
+Shot Chart Detail,0020901125,283,201166,Aaron Brooks,1610612745,Houston Rockets,3,7,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,80,230,1,1,20100402,BOS,HOU
+Shot Chart Detail,0020901125,288,201166,Aaron Brooks,1610612745,Houston Rockets,3,7,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,29,244,1,1,20100402,BOS,HOU
+Shot Chart Detail,0020901125,504,201166,Aaron Brooks,1610612745,Houston Rockets,4,0,9,Made Shot,Fadeaway Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-23,260,1,1,20100402,BOS,HOU
+Shot Chart Detail,0020901143,90,201166,Aaron Brooks,1610612745,Houston Rockets,1,3,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,12,1,1,20100404,IND,HOU
+Shot Chart Detail,0020901143,208,201166,Aaron Brooks,1610612745,Houston Rockets,2,5,20,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,84,63,1,1,20100404,IND,HOU
+Shot Chart Detail,0020901143,279,201166,Aaron Brooks,1610612745,Houston Rockets,3,10,19,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-65,167,1,1,20100404,IND,HOU
+Shot Chart Detail,0020901143,356,201166,Aaron Brooks,1610612745,Houston Rockets,3,2,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,84,247,1,1,20100404,IND,HOU
+Shot Chart Detail,0020901155,68,201166,Aaron Brooks,1610612745,Houston Rockets,1,5,7,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-82,170,1,1,20100406,MEM,HOU
+Shot Chart Detail,0020901155,276,201166,Aaron Brooks,1610612745,Houston Rockets,3,10,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-210,135,1,1,20100406,MEM,HOU
+Shot Chart Detail,0020901155,341,201166,Aaron Brooks,1610612745,Houston Rockets,3,2,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,78,255,1,1,20100406,MEM,HOU
+Shot Chart Detail,0020901155,351,201166,Aaron Brooks,1610612745,Houston Rockets,3,2,2,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-239,22,1,1,20100406,MEM,HOU
+Shot Chart Detail,0020901155,519,201166,Aaron Brooks,1610612745,Houston Rockets,4,2,6,Made Shot,Running Bank shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,102,33,1,1,20100406,MEM,HOU
+Shot Chart Detail,0020901155,522,201166,Aaron Brooks,1610612745,Houston Rockets,4,1,31,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100406,MEM,HOU
+Shot Chart Detail,0020901168,46,201166,Aaron Brooks,1610612745,Houston Rockets,1,6,30,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-100,219,1,1,20100407,HOU,UTA
+Shot Chart Detail,0020901168,48,201166,Aaron Brooks,1610612745,Houston Rockets,1,5,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,111,233,1,1,20100407,HOU,UTA
+Shot Chart Detail,0020901168,69,201166,Aaron Brooks,1610612745,Houston Rockets,1,3,46,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,7,1,1,20100407,HOU,UTA
+Shot Chart Detail,0020901168,166,201166,Aaron Brooks,1610612745,Houston Rockets,2,7,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-150,200,1,1,20100407,HOU,UTA
+Shot Chart Detail,0020901168,223,201166,Aaron Brooks,1610612745,Houston Rockets,2,4,5,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100407,HOU,UTA
+Shot Chart Detail,0020901168,295,201166,Aaron Brooks,1610612745,Houston Rockets,3,10,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100407,HOU,UTA
+Shot Chart Detail,0020901168,299,201166,Aaron Brooks,1610612745,Houston Rockets,3,9,32,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-34,94,1,1,20100407,HOU,UTA
+Shot Chart Detail,0020901168,321,201166,Aaron Brooks,1610612745,Houston Rockets,3,7,23,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-158,156,1,1,20100407,HOU,UTA
+Shot Chart Detail,0020901168,352,201166,Aaron Brooks,1610612745,Houston Rockets,3,4,53,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100407,HOU,UTA
+Shot Chart Detail,0020901168,358,201166,Aaron Brooks,1610612745,Houston Rockets,3,4,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,189,157,1,1,20100407,HOU,UTA
+Shot Chart Detail,0020901168,507,201166,Aaron Brooks,1610612745,Houston Rockets,4,2,48,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-127,126,1,1,20100407,HOU,UTA
+Shot Chart Detail,0020901184,47,201166,Aaron Brooks,1610612745,Houston Rockets,1,7,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-100,146,1,1,20100409,HOU,CHA
+Shot Chart Detail,0020901184,236,201166,Aaron Brooks,1610612745,Houston Rockets,2,2,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,110,231,1,1,20100409,HOU,CHA
+Shot Chart Detail,0020901184,246,201166,Aaron Brooks,1610612745,Houston Rockets,2,2,1,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100409,HOU,CHA
+Shot Chart Detail,0020901184,280,201166,Aaron Brooks,1610612745,Houston Rockets,3,11,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100409,HOU,CHA
+Shot Chart Detail,0020901184,283,201166,Aaron Brooks,1610612745,Houston Rockets,3,10,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,84,119,1,1,20100409,HOU,CHA
+Shot Chart Detail,0020901184,342,201166,Aaron Brooks,1610612745,Houston Rockets,3,2,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-116,165,1,1,20100409,HOU,CHA
+Shot Chart Detail,0020901184,487,201166,Aaron Brooks,1610612745,Houston Rockets,4,3,14,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-78,63,1,1,20100409,HOU,CHA
+Shot Chart Detail,0020901184,496,201166,Aaron Brooks,1610612745,Houston Rockets,4,1,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-152,203,1,1,20100409,HOU,CHA
+Shot Chart Detail,0020901201,18,201166,Aaron Brooks,1610612745,Houston Rockets,1,10,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,177,179,1,1,20100411,PHX,HOU
+Shot Chart Detail,0020901201,33,201166,Aaron Brooks,1610612745,Houston Rockets,1,8,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,141,246,1,1,20100411,PHX,HOU
+Shot Chart Detail,0020901201,37,201166,Aaron Brooks,1610612745,Houston Rockets,1,7,34,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,231,-3,1,1,20100411,PHX,HOU
+Shot Chart Detail,0020901201,53,201166,Aaron Brooks,1610612745,Houston Rockets,1,6,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-2,254,1,1,20100411,PHX,HOU
+Shot Chart Detail,0020901201,351,201166,Aaron Brooks,1610612745,Houston Rockets,3,3,46,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100411,PHX,HOU
+Shot Chart Detail,0020901201,416,201166,Aaron Brooks,1610612745,Houston Rockets,4,8,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-199,146,1,1,20100411,PHX,HOU
+Shot Chart Detail,0020901201,473,201166,Aaron Brooks,1610612745,Houston Rockets,4,5,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-212,127,1,1,20100411,PHX,HOU
+Shot Chart Detail,0020901211,67,201166,Aaron Brooks,1610612745,Houston Rockets,1,5,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,136,209,1,1,20100412,SAC,HOU
+Shot Chart Detail,0020901211,77,201166,Aaron Brooks,1610612745,Houston Rockets,1,3,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,23,97,211,1,1,20100412,SAC,HOU
+Shot Chart Detail,0020901211,254,201166,Aaron Brooks,1610612745,Houston Rockets,2,0,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-56,252,1,1,20100412,SAC,HOU
+Shot Chart Detail,0020901211,303,201166,Aaron Brooks,1610612745,Houston Rockets,3,8,3,Made Shot,Running Bank shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,89,23,1,1,20100412,SAC,HOU
+Shot Chart Detail,0020901221,212,201166,Aaron Brooks,1610612745,Houston Rockets,2,2,47,Made Shot,Pullup Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,9,115,1,1,20100414,HOU,NOH
+Shot Chart Detail,0020901221,220,201166,Aaron Brooks,1610612745,Houston Rockets,2,1,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-220,124,1,1,20100414,HOU,NOH
+Shot Chart Detail,0020901221,278,201166,Aaron Brooks,1610612745,Houston Rockets,3,7,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-139,213,1,1,20100414,HOU,NOH
+Shot Chart Detail,0020901221,308,201166,Aaron Brooks,1610612745,Houston Rockets,3,3,36,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-68,63,1,1,20100414,HOU,NOH
+Shot Chart Detail,0020901221,459,201166,Aaron Brooks,1610612745,Houston Rockets,4,0,36,Made Shot,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,65,7,1,1,20100414,HOU,NOH

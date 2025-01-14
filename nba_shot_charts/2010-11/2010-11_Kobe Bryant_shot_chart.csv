@@ -1,0 +1,741 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0021000003,20,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,9,38,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-98,108,1,1,20101026,LAL,HOU
+Shot Chart Detail,0021000003,163,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,8,40,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,10,113,1,1,20101026,LAL,HOU
+Shot Chart Detail,0021000003,184,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,6,52,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-103,-3,1,1,20101026,LAL,HOU
+Shot Chart Detail,0021000003,275,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,0,42,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,94,88,1,1,20101026,LAL,HOU
+Shot Chart Detail,0021000003,322,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,9,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-106,82,1,1,20101026,LAL,HOU
+Shot Chart Detail,0021000003,332,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,8,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-127,146,1,1,20101026,LAL,HOU
+Shot Chart Detail,0021000003,371,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,5,11,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-122,129,1,1,20101026,LAL,HOU
+Shot Chart Detail,0021000003,584,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,1,45,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,23,1,1,20101026,LAL,HOU
+Shot Chart Detail,0021000030,2,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,11,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-79,148,1,1,20101029,PHX,LAL
+Shot Chart Detail,0021000030,62,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,4,54,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,29,6,1,1,20101029,PHX,LAL
+Shot Chart Detail,0021000030,65,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,4,31,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,7,71,1,1,20101029,PHX,LAL
+Shot Chart Detail,0021000030,88,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,2,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,84,195,1,1,20101029,PHX,LAL
+Shot Chart Detail,0021000030,213,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,1,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,165,194,1,1,20101029,PHX,LAL
+Shot Chart Detail,0021000030,244,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,9,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-220,104,1,1,20101029,PHX,LAL
+Shot Chart Detail,0021000030,279,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,5,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-174,104,1,1,20101029,PHX,LAL
+Shot Chart Detail,0021000030,396,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,6,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,0,1,1,20101029,PHX,LAL
+Shot Chart Detail,0021000030,461,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,1,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-174,113,1,1,20101029,PHX,LAL
+Shot Chart Detail,0021000043,17,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,9,52,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,108,162,1,1,20101031,LAL,GSW
+Shot Chart Detail,0021000043,75,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,4,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-29,7,1,1,20101031,LAL,GSW
+Shot Chart Detail,0021000043,93,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,2,39,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,4,1,1,20101031,LAL,GSW
+Shot Chart Detail,0021000043,100,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,2,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-81,12,1,1,20101031,LAL,GSW
+Shot Chart Detail,0021000043,103,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,1,38,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,3,1,1,20101031,LAL,GSW
+Shot Chart Detail,0021000043,244,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,1,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,160,124,1,1,20101031,LAL,GSW
+Shot Chart Detail,0021000043,299,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,9,52,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,9,1,1,20101031,LAL,GSW
+Shot Chart Detail,0021000043,339,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,7,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,47,252,1,1,20101031,LAL,GSW
+Shot Chart Detail,0021000053,22,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,9,47,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-98,26,1,1,20101102,LAL,MEM
+Shot Chart Detail,0021000053,47,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,6,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,119,165,1,1,20101102,LAL,MEM
+Shot Chart Detail,0021000053,68,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,4,57,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,23,1,1,20101102,LAL,MEM
+Shot Chart Detail,0021000053,85,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,3,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-87,160,1,1,20101102,LAL,MEM
+Shot Chart Detail,0021000053,224,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,3,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-100,236,1,1,20101102,LAL,MEM
+Shot Chart Detail,0021000053,236,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,2,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-105,261,1,1,20101102,LAL,MEM
+Shot Chart Detail,0021000053,242,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,2,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-157,224,1,1,20101102,LAL,MEM
+Shot Chart Detail,0021000065,4,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,11,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-218,124,1,1,20101103,SAC,LAL
+Shot Chart Detail,0021000065,20,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,8,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-179,176,1,1,20101103,SAC,LAL
+Shot Chart Detail,0021000065,63,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,3,5,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,16,1,1,20101103,SAC,LAL
+Shot Chart Detail,0021000065,159,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,7,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-175,208,1,1,20101103,SAC,LAL
+Shot Chart Detail,0021000065,239,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,2,37,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,58,30,1,1,20101103,SAC,LAL
+Shot Chart Detail,0021000065,246,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,2,5,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,11,1,1,20101103,SAC,LAL
+Shot Chart Detail,0021000065,337,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,6,57,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-46,41,1,1,20101103,SAC,LAL
+Shot Chart Detail,0021000065,466,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,7,43,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,121,50,1,1,20101103,SAC,LAL
+Shot Chart Detail,0021000065,528,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,2,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-130,131,1,1,20101103,SAC,LAL
+Shot Chart Detail,0021000079,23,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,8,52,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,1,56,1,1,20101105,LAL,TOR
+Shot Chart Detail,0021000079,46,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,5,44,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,9,22,1,1,20101105,LAL,TOR
+Shot Chart Detail,0021000079,52,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,5,12,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,77,44,1,1,20101105,LAL,TOR
+Shot Chart Detail,0021000079,58,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,4,16,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,14,1,1,20101105,LAL,TOR
+Shot Chart Detail,0021000079,244,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,10,41,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,37,86,1,1,20101105,LAL,TOR
+Shot Chart Detail,0021000079,451,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,5,18,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,17,71,1,1,20101105,LAL,TOR
+Shot Chart Detail,0021000094,50,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,5,3,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,154,7,1,1,20101107,LAL,POR
+Shot Chart Detail,0021000094,52,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,4,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-90,124,1,1,20101107,LAL,POR
+Shot Chart Detail,0021000094,247,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,11,48,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-21,36,1,1,20101107,LAL,POR
+Shot Chart Detail,0021000107,18,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,10,30,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,103,72,1,1,20101109,LAL,MIN
+Shot Chart Detail,0021000107,28,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,9,31,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-68,50,1,1,20101109,LAL,MIN
+Shot Chart Detail,0021000107,78,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,4,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,133,172,1,1,20101109,LAL,MIN
+Shot Chart Detail,0021000107,90,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,2,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-23,200,1,1,20101109,LAL,MIN
+Shot Chart Detail,0021000107,180,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,6,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-171,77,1,1,20101109,LAL,MIN
+Shot Chart Detail,0021000107,244,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,1,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-153,56,1,1,20101109,LAL,MIN
+Shot Chart Detail,0021000107,257,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,1,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-168,105,1,1,20101109,LAL,MIN
+Shot Chart Detail,0021000107,264,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,0,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-169,181,1,1,20101109,LAL,MIN
+Shot Chart Detail,0021000107,266,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,0,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,22,-60,217,1,1,20101109,LAL,MIN
+Shot Chart Detail,0021000107,277,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,11,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-172,186,1,1,20101109,LAL,MIN
+Shot Chart Detail,0021000107,318,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,8,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,29,195,1,1,20101109,LAL,MIN
+Shot Chart Detail,0021000107,546,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,0,41,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-37,67,1,1,20101109,LAL,MIN
+Shot Chart Detail,0021000120,101,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,3,5,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,39,137,1,1,20101111,DEN,LAL
+Shot Chart Detail,0021000120,249,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,4,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,124,143,1,1,20101111,DEN,LAL
+Shot Chart Detail,0021000120,256,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,3,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,-2,1,1,20101111,DEN,LAL
+Shot Chart Detail,0021000120,313,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,0,37,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,11,1,1,20101111,DEN,LAL
+Shot Chart Detail,0021000120,328,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,11,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,155,160,1,1,20101111,DEN,LAL
+Shot Chart Detail,0021000120,331,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,11,10,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,132,25,1,1,20101111,DEN,LAL
+Shot Chart Detail,0021000120,372,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,6,27,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,2,142,1,1,20101111,DEN,LAL
+Shot Chart Detail,0021000120,384,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,5,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-205,153,1,1,20101111,DEN,LAL
+Shot Chart Detail,0021000120,387,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,4,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-220,124,1,1,20101111,DEN,LAL
+Shot Chart Detail,0021000120,502,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,7,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-123,217,1,1,20101111,DEN,LAL
+Shot Chart Detail,0021000120,550,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,2,2,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,4,1,1,20101111,DEN,LAL
+Shot Chart Detail,0021000143,30,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,7,39,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,23,52,1,1,20101114,LAL,PHX
+Shot Chart Detail,0021000143,34,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,7,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-97,154,1,1,20101114,LAL,PHX
+Shot Chart Detail,0021000143,88,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,2,15,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-29,116,1,1,20101114,LAL,PHX
+Shot Chart Detail,0021000143,185,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,6,58,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2,20,1,1,20101114,LAL,PHX
+Shot Chart Detail,0021000143,212,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,4,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,211,146,1,1,20101114,LAL,PHX
+Shot Chart Detail,0021000143,244,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,0,31,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-29,44,1,1,20101114,LAL,PHX
+Shot Chart Detail,0021000143,274,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,10,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,113,124,1,1,20101114,LAL,PHX
+Shot Chart Detail,0021000143,335,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,3,45,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-2,48,1,1,20101114,LAL,PHX
+Shot Chart Detail,0021000143,522,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,0,18,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-24,15,1,1,20101114,LAL,PHX
+Shot Chart Detail,0021000143,535,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,0,11,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-15,25,1,1,20101114,LAL,PHX
+Shot Chart Detail,0021000143,547,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,0,4,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-4,72,1,1,20101114,LAL,PHX
+Shot Chart Detail,0021000155,7,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,11,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,11,1,1,20101116,MIL,LAL
+Shot Chart Detail,0021000155,21,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,9,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,6,1,1,20101116,MIL,LAL
+Shot Chart Detail,0021000155,24,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,8,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-166,108,1,1,20101116,MIL,LAL
+Shot Chart Detail,0021000155,49,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,4,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,6,1,1,20101116,MIL,LAL
+Shot Chart Detail,0021000155,221,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,3,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,154,7,1,1,20101116,MIL,LAL
+Shot Chart Detail,0021000155,234,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,1,41,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,64,-3,1,1,20101116,MIL,LAL
+Shot Chart Detail,0021000155,299,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,7,3,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,15,78,135,1,1,20101116,MIL,LAL
+Shot Chart Detail,0021000155,324,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,3,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,0,1,1,20101116,MIL,LAL
+Shot Chart Detail,0021000155,358,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,2,0,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,114,30,1,1,20101116,MIL,LAL
+Shot Chart Detail,0021000155,525,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,0,53,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,73,47,1,1,20101116,MIL,LAL
+Shot Chart Detail,0021000161,17,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,10,8,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20101117,DET,LAL
+Shot Chart Detail,0021000161,20,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,9,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,48,263,1,1,20101117,DET,LAL
+Shot Chart Detail,0021000161,26,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,8,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-220,157,1,1,20101117,DET,LAL
+Shot Chart Detail,0021000161,83,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,2,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,149,66,1,1,20101117,DET,LAL
+Shot Chart Detail,0021000161,189,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,6,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,1,1,1,20101117,DET,LAL
+Shot Chart Detail,0021000161,193,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,5,14,Made Shot,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,17,58,1,1,20101117,DET,LAL
+Shot Chart Detail,0021000161,204,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,3,53,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-169,17,1,1,20101117,DET,LAL
+Shot Chart Detail,0021000161,208,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,2,53,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20101117,DET,LAL
+Shot Chart Detail,0021000161,247,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,11,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-11,269,1,1,20101117,DET,LAL
+Shot Chart Detail,0021000161,280,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,8,5,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-65,74,1,1,20101117,DET,LAL
+Shot Chart Detail,0021000161,312,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,4,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,194,8,1,1,20101117,DET,LAL
+Shot Chart Detail,0021000176,28,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,8,50,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,147,36,1,1,20101119,MIN,LAL
+Shot Chart Detail,0021000176,177,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,6,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-125,134,1,1,20101119,MIN,LAL
+Shot Chart Detail,0021000176,196,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,5,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-199,145,1,1,20101119,MIN,LAL
+Shot Chart Detail,0021000176,239,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,1,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,108,154,1,1,20101119,MIN,LAL
+Shot Chart Detail,0021000176,241,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,0,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,99,123,1,1,20101119,MIN,LAL
+Shot Chart Detail,0021000176,275,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,9,42,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,0,1,1,20101119,MIN,LAL
+Shot Chart Detail,0021000176,321,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,5,59,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-30,25,1,1,20101119,MIN,LAL
+Shot Chart Detail,0021000176,342,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,4,39,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,9,1,1,20101119,MIN,LAL
+Shot Chart Detail,0021000194,21,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,10,23,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,6,58,1,1,20101121,LAL,GSW
+Shot Chart Detail,0021000194,63,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,5,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-150,61,1,1,20101121,LAL,GSW
+Shot Chart Detail,0021000194,83,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,3,23,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-10,31,1,1,20101121,LAL,GSW
+Shot Chart Detail,0021000194,92,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,2,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,12,1,1,20101121,LAL,GSW
+Shot Chart Detail,0021000194,192,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,5,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-76,184,1,1,20101121,LAL,GSW
+Shot Chart Detail,0021000194,231,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,2,37,Made Shot,Reverse Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-24,20,1,1,20101121,LAL,GSW
+Shot Chart Detail,0021000194,340,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,3,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,15,17,1,1,20101121,LAL,GSW
+Shot Chart Detail,0021000208,2,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,11,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-76,156,1,1,20101123,LAL,CHI
+Shot Chart Detail,0021000208,17,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,9,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,100,235,1,1,20101123,LAL,CHI
+Shot Chart Detail,0021000208,66,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,5,42,Made Shot,Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,2,42,1,1,20101123,LAL,CHI
+Shot Chart Detail,0021000208,211,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,4,42,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,72,58,1,1,20101123,LAL,CHI
+Shot Chart Detail,0021000208,278,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,10,53,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,7,56,1,1,20101123,LAL,CHI
+Shot Chart Detail,0021000208,349,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,4,27,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-125,31,1,1,20101123,LAL,CHI
+Shot Chart Detail,0021000208,359,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,3,21,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-146,19,1,1,20101123,LAL,CHI
+Shot Chart Detail,0021000208,457,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,6,40,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,13,-73,112,1,1,20101123,LAL,CHI
+Shot Chart Detail,0021000231,26,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,7,41,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-75,74,1,1,20101126,UTA,LAL
+Shot Chart Detail,0021000231,48,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,5,26,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,15,1,1,20101126,UTA,LAL
+Shot Chart Detail,0021000231,76,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,2,42,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-37,60,1,1,20101126,UTA,LAL
+Shot Chart Detail,0021000231,233,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,1,30,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-11,86,1,1,20101126,UTA,LAL
+Shot Chart Detail,0021000231,264,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,11,42,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-149,99,1,1,20101126,UTA,LAL
+Shot Chart Detail,0021000231,325,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,3,14,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,58,22,1,1,20101126,UTA,LAL
+Shot Chart Detail,0021000231,429,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,4,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-152,186,1,1,20101126,UTA,LAL
+Shot Chart Detail,0021000231,431,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,4,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-153,198,1,1,20101126,UTA,LAL
+Shot Chart Detail,0021000231,433,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,3,33,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-87,110,1,1,20101126,UTA,LAL
+Shot Chart Detail,0021000231,439,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,3,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-142,220,1,1,20101126,UTA,LAL
+Shot Chart Detail,0021000249,3,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,11,26,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,81,137,1,1,20101128,LAL,IND
+Shot Chart Detail,0021000249,15,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,9,58,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,7,28,1,1,20101128,LAL,IND
+Shot Chart Detail,0021000249,62,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,4,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,6,20,1,1,20101128,LAL,IND
+Shot Chart Detail,0021000249,114,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,0,15,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,12,67,110,1,1,20101128,LAL,IND
+Shot Chart Detail,0021000249,229,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,2,13,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-2,137,1,1,20101128,LAL,IND
+Shot Chart Detail,0021000249,255,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,0,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,94,246,1,1,20101128,LAL,IND
+Shot Chart Detail,0021000249,346,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,4,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-73,246,1,1,20101128,LAL,IND
+Shot Chart Detail,0021000249,365,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,2,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-49,247,1,1,20101128,LAL,IND
+Shot Chart Detail,0021000249,369,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,1,41,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,154,0,1,1,20101128,LAL,IND
+Shot Chart Detail,0021000249,387,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,0,8,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-16,23,1,1,20101128,LAL,IND
+Shot Chart Detail,0021000249,488,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,4,31,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,13,42,1,1,20101128,LAL,IND
+Shot Chart Detail,0021000249,497,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,3,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-24,12,1,1,20101128,LAL,IND
+Shot Chart Detail,0021000249,507,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,1,43,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,69,19,1,1,20101128,LAL,IND
+Shot Chart Detail,0021000249,512,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,1,7,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-131,91,1,1,20101128,LAL,IND
+Shot Chart Detail,0021000258,22,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,9,11,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,15,1,1,20101130,MEM,LAL
+Shot Chart Detail,0021000258,28,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,8,21,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,4,1,1,20101130,MEM,LAL
+Shot Chart Detail,0021000258,64,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,3,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,17,1,1,20101130,MEM,LAL
+Shot Chart Detail,0021000258,71,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,3,13,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,151,30,1,1,20101130,MEM,LAL
+Shot Chart Detail,0021000258,145,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,8,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-97,241,1,1,20101130,MEM,LAL
+Shot Chart Detail,0021000258,148,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,8,19,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,29,48,1,1,20101130,MEM,LAL
+Shot Chart Detail,0021000258,318,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,3,2,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,28,20,1,1,20101130,MEM,LAL
+Shot Chart Detail,0021000258,325,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,2,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,21,214,7,1,1,20101130,MEM,LAL
+Shot Chart Detail,0021000258,484,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,0,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,13,17,1,1,20101130,MEM,LAL
+Shot Chart Detail,0021000269,23,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,8,45,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,32,23,1,1,20101201,HOU,LAL
+Shot Chart Detail,0021000269,53,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,5,59,Made Shot,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,53,19,1,1,20101201,HOU,LAL
+Shot Chart Detail,0021000269,64,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,5,15,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-93,186,1,1,20101201,HOU,LAL
+Shot Chart Detail,0021000269,169,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,3,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,6,1,1,20101201,HOU,LAL
+Shot Chart Detail,0021000269,187,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,2,37,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,1,1,1,20101201,HOU,LAL
+Shot Chart Detail,0021000269,207,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,0,0,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-49,110,1,1,20101201,HOU,LAL
+Shot Chart Detail,0021000269,213,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,11,36,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-93,17,1,1,20101201,HOU,LAL
+Shot Chart Detail,0021000269,294,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,3,15,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,114,110,1,1,20101201,HOU,LAL
+Shot Chart Detail,0021000269,411,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,5,53,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-131,145,1,1,20101201,HOU,LAL
+Shot Chart Detail,0021000269,444,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,3,10,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-158,102,1,1,20101201,HOU,LAL
+Shot Chart Detail,0021000287,5,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,10,45,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-41,23,1,1,20101203,LAL,SAC
+Shot Chart Detail,0021000287,11,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,10,15,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,0,30,1,1,20101203,LAL,SAC
+Shot Chart Detail,0021000287,62,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,4,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,4,1,1,20101203,LAL,SAC
+Shot Chart Detail,0021000287,203,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,4,10,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,11,1,1,20101203,LAL,SAC
+Shot Chart Detail,0021000287,245,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,1,49,Made Shot,Driving Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-34,11,1,1,20101203,LAL,SAC
+Shot Chart Detail,0021000287,260,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,0,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,12,1,1,20101203,LAL,SAC
+Shot Chart Detail,0021000287,269,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,0,6,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,19,1,1,20101203,LAL,SAC
+Shot Chart Detail,0021000287,296,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,10,56,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-7,55,1,1,20101203,LAL,SAC
+Shot Chart Detail,0021000287,312,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,8,36,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-79,37,1,1,20101203,LAL,SAC
+Shot Chart Detail,0021000315,5,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,11,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-87,143,1,1,20101207,LAL,WAS
+Shot Chart Detail,0021000315,23,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,8,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,17,1,1,20101207,LAL,WAS
+Shot Chart Detail,0021000315,78,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,3,2,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,2,28,1,1,20101207,LAL,WAS
+Shot Chart Detail,0021000315,93,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,2,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-187,64,1,1,20101207,LAL,WAS
+Shot Chart Detail,0021000315,202,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,4,26,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,14,1,1,20101207,LAL,WAS
+Shot Chart Detail,0021000315,213,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,3,35,Made Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,10,129,1,1,20101207,LAL,WAS
+Shot Chart Detail,0021000315,239,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,2,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,13,19,1,1,20101207,LAL,WAS
+Shot Chart Detail,0021000315,245,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,1,37,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,0,119,1,1,20101207,LAL,WAS
+Shot Chart Detail,0021000315,249,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,1,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-13,22,1,1,20101207,LAL,WAS
+Shot Chart Detail,0021000315,316,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,8,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-139,208,1,1,20101207,LAL,WAS
+Shot Chart Detail,0021000315,506,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,5,23,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-13,102,1,1,20101207,LAL,WAS
+Shot Chart Detail,0021000315,533,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,2,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,9,25,1,1,20101207,LAL,WAS
+Shot Chart Detail,0021000326,12,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,10,19,Made Shot,Jump Bank Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-29,22,1,1,20101208,LAC,LAL
+Shot Chart Detail,0021000326,51,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,7,5,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,3,1,1,20101208,LAC,LAL
+Shot Chart Detail,0021000326,94,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,3,57,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,64,60,1,1,20101208,LAC,LAL
+Shot Chart Detail,0021000326,101,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,3,21,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,51,116,1,1,20101208,LAC,LAL
+Shot Chart Detail,0021000326,298,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,10,23,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,11,1,1,20101208,LAC,LAL
+Shot Chart Detail,0021000326,301,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,10,1,Made Shot,Turnaround Bank shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,105,30,1,1,20101208,LAC,LAL
+Shot Chart Detail,0021000326,349,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,5,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-180,190,1,1,20101208,LAC,LAL
+Shot Chart Detail,0021000326,502,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,0,41,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-5,94,1,1,20101208,LAC,LAL
+Shot Chart Detail,0021000326,506,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,0,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-131,142,1,1,20101208,LAC,LAL
+Shot Chart Detail,0021000333,37,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,7,32,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-6,12,1,1,20101210,CHI,LAL
+Shot Chart Detail,0021000333,48,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,6,2,Made Shot,Driving Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-6,11,1,1,20101210,CHI,LAL
+Shot Chart Detail,0021000333,180,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,5,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,20,140,1,1,20101210,CHI,LAL
+Shot Chart Detail,0021000333,245,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,10,21,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,23,58,1,1,20101210,CHI,LAL
+Shot Chart Detail,0021000333,247,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,9,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-141,48,1,1,20101210,CHI,LAL
+Shot Chart Detail,0021000333,283,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,5,35,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,15,1,1,20101210,CHI,LAL
+Shot Chart Detail,0021000333,402,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,8,19,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,-11,1,1,20101210,CHI,LAL
+Shot Chart Detail,0021000333,429,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,5,57,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,22,1,1,20101210,CHI,LAL
+Shot Chart Detail,0021000333,471,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,1,45,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-27,72,1,1,20101210,CHI,LAL
+Shot Chart Detail,0021000351,60,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,5,30,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,-10,1,1,20101212,NJN,LAL
+Shot Chart Detail,0021000351,285,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,10,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-19,7,1,1,20101212,NJN,LAL
+Shot Chart Detail,0021000351,318,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,6,3,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,54,74,1,1,20101212,NJN,LAL
+Shot Chart Detail,0021000351,320,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,5,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,23,162,1,1,20101212,NJN,LAL
+Shot Chart Detail,0021000351,334,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,4,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-166,1,1,1,20101212,NJN,LAL
+Shot Chart Detail,0021000351,345,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,3,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,192,175,1,1,20101212,NJN,LAL
+Shot Chart Detail,0021000351,402,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,11,47,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-40,153,1,1,20101212,NJN,LAL
+Shot Chart Detail,0021000351,427,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,9,21,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,47,17,1,1,20101212,NJN,LAL
+Shot Chart Detail,0021000351,482,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,5,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-194,156,1,1,20101212,NJN,LAL
+Shot Chart Detail,0021000362,16,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,9,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,116,44,1,1,20101214,WAS,LAL
+Shot Chart Detail,0021000362,118,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,2,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,218,151,1,1,20101214,WAS,LAL
+Shot Chart Detail,0021000362,305,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,10,12,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-111,55,1,1,20101214,WAS,LAL
+Shot Chart Detail,0021000362,328,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,7,30,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,-16,1,1,20101214,WAS,LAL
+Shot Chart Detail,0021000362,372,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,3,56,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-231,-21,1,1,20101214,WAS,LAL
+Shot Chart Detail,0021000362,383,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,2,59,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,238,-26,1,1,20101214,WAS,LAL
+Shot Chart Detail,0021000362,396,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,2,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,179,190,1,1,20101214,WAS,LAL
+Shot Chart Detail,0021000367,82,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,3,37,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,9,64,1,1,20101215,IND,LAL
+Shot Chart Detail,0021000367,178,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,4,54,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,0,1,1,20101215,IND,LAL
+Shot Chart Detail,0021000367,246,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,10,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-144,85,1,1,20101215,IND,LAL
+Shot Chart Detail,0021000367,248,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,9,30,Made Shot,Step Back Jump shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,244,12,1,1,20101215,IND,LAL
+Shot Chart Detail,0021000367,261,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,7,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,1,165,1,1,20101215,IND,LAL
+Shot Chart Detail,0021000367,291,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,5,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-65,238,1,1,20101215,IND,LAL
+Shot Chart Detail,0021000367,293,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,4,40,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-15,58,1,1,20101215,IND,LAL
+Shot Chart Detail,0021000367,323,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,2,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,114,178,1,1,20101215,IND,LAL
+Shot Chart Detail,0021000367,420,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,5,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-120,225,1,1,20101215,IND,LAL
+Shot Chart Detail,0021000367,422,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,4,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,29,-60,291,1,1,20101215,IND,LAL
+Shot Chart Detail,0021000367,429,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,3,43,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-34,82,1,1,20101215,IND,LAL
+Shot Chart Detail,0021000383,222,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,1,35,Made Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,11,-65,94,1,1,20101217,PHI,LAL
+Shot Chart Detail,0021000383,230,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,0,48,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,9,1,1,20101217,PHI,LAL
+Shot Chart Detail,0021000383,302,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,5,57,Made Shot,Fadeaway Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,1,58,1,1,20101217,PHI,LAL
+Shot Chart Detail,0021000402,52,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,6,57,Made Shot,Pullup Bank shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-75,33,1,1,20101219,TOR,LAL
+Shot Chart Detail,0021000402,58,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,6,7,Made Shot,Driving Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,11,1,1,20101219,TOR,LAL
+Shot Chart Detail,0021000402,80,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,3,50,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,7,1,1,20101219,TOR,LAL
+Shot Chart Detail,0021000402,301,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,11,33,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,105,11,1,1,20101219,TOR,LAL
+Shot Chart Detail,0021000402,322,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,9,35,Made Shot,Turnaround Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-34,15,1,1,20101219,TOR,LAL
+Shot Chart Detail,0021000402,337,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,8,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,149,171,1,1,20101219,TOR,LAL
+Shot Chart Detail,0021000420,18,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,8,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,136,99,1,1,20101221,LAL,MIL
+Shot Chart Detail,0021000420,24,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,7,34,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,3,1,1,20101221,LAL,MIL
+Shot Chart Detail,0021000420,29,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,6,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,116,146,1,1,20101221,LAL,MIL
+Shot Chart Detail,0021000420,198,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,3,56,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,9,45,1,1,20101221,LAL,MIL
+Shot Chart Detail,0021000420,258,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,10,26,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,7,1,1,20101221,LAL,MIL
+Shot Chart Detail,0021000420,284,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,7,34,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,89,9,1,1,20101221,LAL,MIL
+Shot Chart Detail,0021000420,314,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,5,21,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-60,112,1,1,20101221,LAL,MIL
+Shot Chart Detail,0021000420,433,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,3,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,105,78,1,1,20101221,LAL,MIL
+Shot Chart Detail,0021000420,448,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,2,36,Made Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-10,50,1,1,20101221,LAL,MIL
+Shot Chart Detail,0021000435,152,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,9,59,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,6,1,1,20101225,LAL,MIA
+Shot Chart Detail,0021000435,171,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,7,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,9,1,1,20101225,LAL,MIA
+Shot Chart Detail,0021000435,210,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,4,24,Made Shot,Fadeaway Bank shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-109,66,1,1,20101225,LAL,MIA
+Shot Chart Detail,0021000435,267,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,11,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-168,12,1,1,20101225,LAL,MIA
+Shot Chart Detail,0021000435,272,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,10,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,166,198,1,1,20101225,LAL,MIA
+Shot Chart Detail,0021000435,455,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,3,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,6,1,1,20101225,LAL,MIA
+Shot Chart Detail,0021000460,3,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,11,38,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-133,69,1,1,20101228,SAS,LAL
+Shot Chart Detail,0021000460,5,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,11,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,24,200,1,1,20101228,SAS,LAL
+Shot Chart Detail,0021000460,11,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,10,37,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,2,69,1,1,20101228,SAS,LAL
+Shot Chart Detail,0021000460,21,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,9,18,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-27,60,1,1,20101228,SAS,LAL
+Shot Chart Detail,0021000460,311,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,4,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-106,231,1,1,20101228,SAS,LAL
+Shot Chart Detail,0021000460,407,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,8,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,122,135,1,1,20101228,SAS,LAL
+Shot Chart Detail,0021000460,413,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,7,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-7,255,1,1,20101228,SAS,LAL
+Shot Chart Detail,0021000460,418,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,7,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-171,208,1,1,20101228,SAS,LAL
+Shot Chart Detail,0021000467,26,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,8,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-138,97,1,1,20101229,NOH,LAL
+Shot Chart Detail,0021000467,38,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,6,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-57,142,1,1,20101229,NOH,LAL
+Shot Chart Detail,0021000467,57,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,4,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,132,102,1,1,20101229,NOH,LAL
+Shot Chart Detail,0021000467,199,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,3,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,162,31,1,1,20101229,NOH,LAL
+Shot Chart Detail,0021000467,272,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,10,52,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,6,1,1,20101229,NOH,LAL
+Shot Chart Detail,0021000467,292,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,8,5,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,69,19,1,1,20101229,NOH,LAL
+Shot Chart Detail,0021000467,300,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,7,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,170,17,1,1,20101229,NOH,LAL
+Shot Chart Detail,0021000467,459,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,4,12,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,15,1,1,20101229,NOH,LAL
+Shot Chart Detail,0021000483,9,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,11,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,9,1,1,20101231,LAL,PHI
+Shot Chart Detail,0021000483,28,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,9,14,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-86,127,1,1,20101231,LAL,PHI
+Shot Chart Detail,0021000483,49,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,7,4,Made Shot,Driving Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,15,1,1,20101231,LAL,PHI
+Shot Chart Detail,0021000483,61,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,6,18,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,48,172,1,1,20101231,LAL,PHI
+Shot Chart Detail,0021000483,194,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,3,31,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-24,36,1,1,20101231,LAL,PHI
+Shot Chart Detail,0021000483,274,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,10,37,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,6,23,1,1,20101231,LAL,PHI
+Shot Chart Detail,0021000483,319,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,4,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,168,190,1,1,20101231,LAL,PHI
+Shot Chart Detail,0021000483,336,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,2,38,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,7,1,1,20101231,LAL,PHI
+Shot Chart Detail,0021000483,352,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,0,58,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,7,134,1,1,20101231,LAL,PHI
+Shot Chart Detail,0021000483,430,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,6,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-71,162,1,1,20101231,LAL,PHI
+Shot Chart Detail,0021000483,433,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,6,5,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-68,153,1,1,20101231,LAL,PHI
+Shot Chart Detail,0021000483,464,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,2,24,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-18,156,1,1,20101231,LAL,PHI
+Shot Chart Detail,0021000483,482,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,1,15,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,114,41,1,1,20101231,LAL,PHI
+Shot Chart Detail,0021000498,64,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,4,40,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,81,137,1,1,20110102,LAL,MEM
+Shot Chart Detail,0021000498,192,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,4,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,171,200,1,1,20110102,LAL,MEM
+Shot Chart Detail,0021000498,264,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,10,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,12,1,1,20110102,LAL,MEM
+Shot Chart Detail,0021000498,267,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,9,44,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,72,34,1,1,20110102,LAL,MEM
+Shot Chart Detail,0021000498,279,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,8,54,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,28,34,1,1,20110102,LAL,MEM
+Shot Chart Detail,0021000498,297,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,7,11,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,45,93,1,1,20110102,LAL,MEM
+Shot Chart Detail,0021000498,318,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,5,33,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,0,157,1,1,20110102,LAL,MEM
+Shot Chart Detail,0021000498,327,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,4,22,Made Shot,Running Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,0,39,1,1,20110102,LAL,MEM
+Shot Chart Detail,0021000498,445,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,6,20,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,40,64,1,1,20110102,LAL,MEM
+Shot Chart Detail,0021000498,459,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,5,50,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,9,1,1,20110102,LAL,MEM
+Shot Chart Detail,0021000511,163,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,7,54,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-105,12,1,1,20110104,LAL,DET
+Shot Chart Detail,0021000511,170,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,6,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,19,1,1,20110104,LAL,DET
+Shot Chart Detail,0021000511,196,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,3,36,Made Shot,Driving Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,23,22,1,1,20110104,LAL,DET
+Shot Chart Detail,0021000511,237,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,0,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,11,1,1,20110104,LAL,DET
+Shot Chart Detail,0021000511,292,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,8,15,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,15,1,1,20110104,LAL,DET
+Shot Chart Detail,0021000511,305,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,6,43,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,17,1,1,20110104,LAL,DET
+Shot Chart Detail,0021000521,55,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,5,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-87,186,1,1,20110105,PHX,LAL
+Shot Chart Detail,0021000521,67,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,4,48,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,132,-36,1,1,20110105,PHX,LAL
+Shot Chart Detail,0021000521,70,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,4,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,170,189,1,1,20110105,PHX,LAL
+Shot Chart Detail,0021000521,234,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,0,22,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-57,104,1,1,20110105,PHX,LAL
+Shot Chart Detail,0021000521,241,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,11,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,179,178,1,1,20110105,PHX,LAL
+Shot Chart Detail,0021000521,244,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,10,46,Made Shot,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,39,22,1,1,20110105,PHX,LAL
+Shot Chart Detail,0021000521,257,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,9,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,-180,113,1,1,20110105,PHX,LAL
+Shot Chart Detail,0021000521,334,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,2,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-196,64,1,1,20110105,PHX,LAL
+Shot Chart Detail,0021000521,435,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,4,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,22,-201,104,1,1,20110105,PHX,LAL
+Shot Chart Detail,0021000535,2,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,11,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,149,208,1,1,20110107,LAL,NOH
+Shot Chart Detail,0021000535,58,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,3,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,174,131,1,1,20110107,LAL,NOH
+Shot Chart Detail,0021000535,60,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,3,24,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,14,1,1,20110107,LAL,NOH
+Shot Chart Detail,0021000535,155,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,6,20,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,13,86,1,1,20110107,LAL,NOH
+Shot Chart Detail,0021000535,225,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,0,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,200,-14,1,1,20110107,LAL,NOH
+Shot Chart Detail,0021000535,351,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,1,9,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-4,61,1,1,20110107,LAL,NOH
+Shot Chart Detail,0021000535,361,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,0,3,Made Shot,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-18,55,1,1,20110107,LAL,NOH
+Shot Chart Detail,0021000535,405,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,8,26,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,32,99,1,1,20110107,LAL,NOH
+Shot Chart Detail,0021000535,475,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,1,57,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-13,58,1,1,20110107,LAL,NOH
+Shot Chart Detail,0021000535,477,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,1,23,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-46,45,1,1,20110107,LAL,NOH
+Shot Chart Detail,0021000550,64,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,5,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-16,15,1,1,20110109,LAL,NYK
+Shot Chart Detail,0021000550,216,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,4,1,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,7,138,1,1,20110109,LAL,NYK
+Shot Chart Detail,0021000550,250,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,1,50,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-49,88,1,1,20110109,LAL,NYK
+Shot Chart Detail,0021000550,265,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,0,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-109,230,1,1,20110109,LAL,NYK
+Shot Chart Detail,0021000550,276,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,11,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,9,261,1,1,20110109,LAL,NYK
+Shot Chart Detail,0021000550,279,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,11,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,103,225,1,1,20110109,LAL,NYK
+Shot Chart Detail,0021000550,345,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,5,27,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,17,1,1,20110109,LAL,NYK
+Shot Chart Detail,0021000550,435,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,10,34,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-38,20,1,1,20110109,LAL,NYK
+Shot Chart Detail,0021000550,442,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,9,58,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,91,145,1,1,20110109,LAL,NYK
+Shot Chart Detail,0021000550,554,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,2,46,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,29,85,1,1,20110109,LAL,NYK
+Shot Chart Detail,0021000560,36,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,7,50,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-16,19,1,1,20110111,LAL,CLE
+Shot Chart Detail,0021000560,303,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,7,55,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,7,116,1,1,20110111,LAL,CLE
+Shot Chart Detail,0021000560,313,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,6,54,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-111,88,1,1,20110111,LAL,CLE
+Shot Chart Detail,0021000560,324,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,5,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-228,131,1,1,20110111,LAL,CLE
+Shot Chart Detail,0021000560,354,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,2,14,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,15,19,1,1,20110111,LAL,CLE
+Shot Chart Detail,0021000571,21,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,9,8,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,6,1,1,20110112,GSW,LAL
+Shot Chart Detail,0021000571,35,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,6,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,110,131,1,1,20110112,GSW,LAL
+Shot Chart Detail,0021000571,50,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,4,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,6,1,1,20110112,GSW,LAL
+Shot Chart Detail,0021000571,68,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,2,57,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-5,47,1,1,20110112,GSW,LAL
+Shot Chart Detail,0021000571,257,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,8,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,4,1,1,20110112,GSW,LAL
+Shot Chart Detail,0021000571,272,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,6,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-90,132,1,1,20110112,GSW,LAL
+Shot Chart Detail,0021000571,275,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,5,51,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-19,53,1,1,20110112,GSW,LAL
+Shot Chart Detail,0021000571,311,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,2,47,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-10,132,1,1,20110112,GSW,LAL
+Shot Chart Detail,0021000571,316,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,1,59,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,6,134,1,1,20110112,GSW,LAL
+Shot Chart Detail,0021000571,395,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,5,49,Made Shot,Pullup Jump shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,1,1,1,20110112,GSW,LAL
+Shot Chart Detail,0021000571,420,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,3,10,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2,28,1,1,20110112,GSW,LAL
+Shot Chart Detail,0021000571,429,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,2,30,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-65,121,1,1,20110112,GSW,LAL
+Shot Chart Detail,0021000571,442,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,0,43,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-150,219,1,1,20110112,GSW,LAL
+Shot Chart Detail,0021000586,56,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,8,2,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,13,77,115,1,1,20110114,LAL,NJN
+Shot Chart Detail,0021000586,59,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,7,25,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,39,112,1,1,20110114,LAL,NJN
+Shot Chart Detail,0021000586,101,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,3,13,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,3,1,1,20110114,LAL,NJN
+Shot Chart Detail,0021000586,120,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,1,41,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-60,178,1,1,20110114,LAL,NJN
+Shot Chart Detail,0021000586,124,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,0,53,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,12,1,1,20110114,LAL,NJN
+Shot Chart Detail,0021000586,235,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,3,51,Made Shot,Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,18,41,1,1,20110114,LAL,NJN
+Shot Chart Detail,0021000586,337,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,6,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,160,66,1,1,20110114,LAL,NJN
+Shot Chart Detail,0021000586,356,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,4,3,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,54,22,1,1,20110114,LAL,NJN
+Shot Chart Detail,0021000586,403,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,1,24,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,69,67,1,1,20110114,LAL,NJN
+Shot Chart Detail,0021000586,470,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,5,23,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,12,1,1,20110114,LAL,NJN
+Shot Chart Detail,0021000596,13,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,9,51,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,18,186,1,1,20110116,LAC,LAL
+Shot Chart Detail,0021000596,31,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,8,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,92,145,1,1,20110116,LAC,LAL
+Shot Chart Detail,0021000596,102,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,2,29,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,50,105,1,1,20110116,LAC,LAL
+Shot Chart Detail,0021000596,333,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,7,14,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,56,113,1,1,20110116,LAC,LAL
+Shot Chart Detail,0021000596,339,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,6,43,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,2,96,1,1,20110116,LAC,LAL
+Shot Chart Detail,0021000596,351,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,5,12,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,102,-11,1,1,20110116,LAC,LAL
+Shot Chart Detail,0021000596,373,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,3,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,151,222,1,1,20110116,LAC,LAL
+Shot Chart Detail,0021000596,389,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,1,47,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-134,113,1,1,20110116,LAC,LAL
+Shot Chart Detail,0021000610,185,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,5,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-15,206,1,1,20110117,LAL,OKC
+Shot Chart Detail,0021000610,208,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,3,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,1,22,1,1,20110117,LAL,OKC
+Shot Chart Detail,0021000610,238,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,1,27,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,4,23,1,1,20110117,LAL,OKC
+Shot Chart Detail,0021000610,257,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,0,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,6,22,1,1,20110117,LAL,OKC
+Shot Chart Detail,0021000610,292,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,8,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,39,261,1,1,20110117,LAL,OKC
+Shot Chart Detail,0021000610,330,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,5,2,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-120,-2,1,1,20110117,LAL,OKC
+Shot Chart Detail,0021000610,442,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,6,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,23,159,1,1,20110117,LAL,OKC
+Shot Chart Detail,0021000621,26,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,8,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-127,11,1,1,20110119,DAL,LAL
+Shot Chart Detail,0021000621,92,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,0,57,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,147,11,1,1,20110119,DAL,LAL
+Shot Chart Detail,0021000621,94,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,0,36,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,42,126,1,1,20110119,DAL,LAL
+Shot Chart Detail,0021000621,160,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,4,18,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,59,132,1,1,20110119,DAL,LAL
+Shot Chart Detail,0021000621,232,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,7,27,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,17,1,1,20110119,DAL,LAL
+Shot Chart Detail,0021000621,257,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,5,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,103,11,1,1,20110119,DAL,LAL
+Shot Chart Detail,0021000621,323,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,8,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-122,181,1,1,20110119,DAL,LAL
+Shot Chart Detail,0021000621,329,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,7,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,103,175,1,1,20110119,DAL,LAL
+Shot Chart Detail,0021000621,383,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,1,35,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-108,58,1,1,20110119,DAL,LAL
+Shot Chart Detail,0021000621,391,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,0,38,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,72,28,1,1,20110119,DAL,LAL
+Shot Chart Detail,0021000637,87,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,3,9,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-65,47,1,1,20110121,DEN,LAL
+Shot Chart Detail,0021000637,214,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,2,27,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,1,1,1,20110121,DEN,LAL
+Shot Chart Detail,0021000637,247,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,11,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,119,143,1,1,20110121,DEN,LAL
+Shot Chart Detail,0021000637,276,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,8,15,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,-2,1,1,20110121,DEN,LAL
+Shot Chart Detail,0021000637,288,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,6,31,Made Shot,Turnaround Bank shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-112,33,1,1,20110121,DEN,LAL
+Shot Chart Detail,0021000637,299,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,5,11,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,114,7,1,1,20110121,DEN,LAL
+Shot Chart Detail,0021000637,305,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,4,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-147,-21,1,1,20110121,DEN,LAL
+Shot Chart Detail,0021000637,327,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,2,48,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-150,94,1,1,20110121,DEN,LAL
+Shot Chart Detail,0021000667,21,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,9,28,Made Shot,Turnaround Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-67,30,1,1,20110125,LAL,UTA
+Shot Chart Detail,0021000667,40,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,7,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,190,4,1,1,20110125,LAL,UTA
+Shot Chart Detail,0021000667,88,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,3,36,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,19,1,1,20110125,LAL,UTA
+Shot Chart Detail,0021000667,191,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,4,49,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-142,15,1,1,20110125,LAL,UTA
+Shot Chart Detail,0021000667,211,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,2,22,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-51,63,1,1,20110125,LAL,UTA
+Shot Chart Detail,0021000667,263,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,10,11,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,70,36,1,1,20110125,LAL,UTA
+Shot Chart Detail,0021000667,302,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,6,19,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-101,77,1,1,20110125,LAL,UTA
+Shot Chart Detail,0021000692,17,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,9,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,144,148,1,1,20110128,LAL,SAC
+Shot Chart Detail,0021000692,24,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,9,1,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,39,1,1,20110128,LAL,SAC
+Shot Chart Detail,0021000692,71,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,3,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,105,94,1,1,20110128,LAL,SAC
+Shot Chart Detail,0021000692,73,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,3,29,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-12,33,1,1,20110128,LAL,SAC
+Shot Chart Detail,0021000692,87,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,2,24,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-65,52,1,1,20110128,LAL,SAC
+Shot Chart Detail,0021000692,90,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,2,2,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,103,64,1,1,20110128,LAL,SAC
+Shot Chart Detail,0021000692,97,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,0,32,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-144,17,1,1,20110128,LAL,SAC
+Shot Chart Detail,0021000692,101,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,0,4,Made Shot,Driving Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,14,1,1,20110128,LAL,SAC
+Shot Chart Detail,0021000692,230,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,0,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-109,97,1,1,20110128,LAL,SAC
+Shot Chart Detail,0021000692,246,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,0,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-157,205,1,1,20110128,LAL,SAC
+Shot Chart Detail,0021000692,327,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,3,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-131,91,1,1,20110128,LAL,SAC
+Shot Chart Detail,0021000692,456,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,3,49,Made Shot,Driving Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,14,1,1,20110128,LAL,SAC
+Shot Chart Detail,0021000692,499,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,0,49,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-68,33,1,1,20110128,LAL,SAC
+Shot Chart Detail,0021000702,53,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,7,38,Made Shot,Floating Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,2,30,1,1,20110130,LAL,BOS
+Shot Chart Detail,0021000702,56,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,7,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-78,205,1,1,20110130,LAL,BOS
+Shot Chart Detail,0021000702,184,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,6,4,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,119,39,1,1,20110130,LAL,BOS
+Shot Chart Detail,0021000702,202,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,4,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,12,1,1,20110130,LAL,BOS
+Shot Chart Detail,0021000702,219,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,3,29,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,8,0,80,1,1,20110130,LAL,BOS
+Shot Chart Detail,0021000702,225,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,2,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,211,149,1,1,20110130,LAL,BOS
+Shot Chart Detail,0021000702,234,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,2,1,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-87,15,1,1,20110130,LAL,BOS
+Shot Chart Detail,0021000702,247,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,1,3,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,43,31,1,1,20110130,LAL,BOS
+Shot Chart Detail,0021000702,292,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,11,28,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,245,1,1,1,20110130,LAL,BOS
+Shot Chart Detail,0021000702,385,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,2,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-146,225,1,1,20110130,LAL,BOS
+Shot Chart Detail,0021000702,401,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,0,59,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-109,108,1,1,20110130,LAL,BOS
+Shot Chart Detail,0021000702,452,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,6,58,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,17,80,1,1,20110130,LAL,BOS
+Shot Chart Detail,0021000702,465,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,5,50,Made Shot,Running Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-8,37,1,1,20110130,LAL,BOS
+Shot Chart Detail,0021000702,468,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,5,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,6,30,1,1,20110130,LAL,BOS
+Shot Chart Detail,0021000702,487,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,3,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,23,154,1,1,20110130,LAL,BOS
+Shot Chart Detail,0021000702,496,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,2,25,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-10,123,1,1,20110130,LAL,BOS
+Shot Chart Detail,0021000718,152,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,7,53,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,43,19,1,1,20110201,LAL,HOU
+Shot Chart Detail,0021000718,155,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,7,22,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,2,72,1,1,20110201,LAL,HOU
+Shot Chart Detail,0021000718,157,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,6,55,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,36,42,1,1,20110201,LAL,HOU
+Shot Chart Detail,0021000718,201,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,2,1,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,89,-2,1,1,20110201,LAL,HOU
+Shot Chart Detail,0021000718,250,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,10,16,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,2,101,1,1,20110201,LAL,HOU
+Shot Chart Detail,0021000718,292,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,6,7,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,24,99,1,1,20110201,LAL,HOU
+Shot Chart Detail,0021000718,309,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,4,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,2,22,1,1,20110201,LAL,HOU
+Shot Chart Detail,0021000718,330,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,2,34,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,12,1,1,20110201,LAL,HOU
+Shot Chart Detail,0021000718,441,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,5,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,6,176,1,1,20110201,LAL,HOU
+Shot Chart Detail,0021000718,448,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,4,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,9,1,1,20110201,LAL,HOU
+Shot Chart Detail,0021000718,451,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,3,31,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,135,102,1,1,20110201,LAL,HOU
+Shot Chart Detail,0021000718,494,977,Kobe Bryant,1610612747,Los Angeles Lakers,5,4,32,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-65,23,1,1,20110201,LAL,HOU
+Shot Chart Detail,0021000718,527,977,Kobe Bryant,1610612747,Los Angeles Lakers,5,0,38,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,15,45,1,1,20110201,LAL,HOU
+Shot Chart Detail,0021000732,16,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,10,19,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-125,96,1,1,20110203,LAL,SAS
+Shot Chart Detail,0021000732,273,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,10,18,Made Shot,Driving Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,11,1,1,20110203,LAL,SAS
+Shot Chart Detail,0021000732,312,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,5,33,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,94,116,1,1,20110203,LAL,SAS
+Shot Chart Detail,0021000732,317,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,4,35,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,99,142,1,1,20110203,LAL,SAS
+Shot Chart Detail,0021000732,453,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,6,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,133,47,1,1,20110203,LAL,SAS
+Shot Chart Detail,0021000748,14,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,9,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,193,3,1,1,20110205,NOH,LAL
+Shot Chart Detail,0021000748,23,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,9,0,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,118,138,1,1,20110205,NOH,LAL
+Shot Chart Detail,0021000748,43,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,7,20,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,3,1,1,20110205,NOH,LAL
+Shot Chart Detail,0021000748,134,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,7,16,Made Shot,Turnaround Bank shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-128,69,1,1,20110205,NOH,LAL
+Shot Chart Detail,0021000748,136,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,6,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-32,250,1,1,20110205,NOH,LAL
+Shot Chart Detail,0021000748,182,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,2,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,144,211,1,1,20110205,NOH,LAL
+Shot Chart Detail,0021000748,283,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,5,36,Made Shot,Turnaround Bank shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-142,112,1,1,20110205,NOH,LAL
+Shot Chart Detail,0021000748,314,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,1,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,159,205,1,1,20110205,NOH,LAL
+Shot Chart Detail,0021000748,355,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,9,10,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,4,64,1,1,20110205,NOH,LAL
+Shot Chart Detail,0021000748,422,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,3,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-68,277,1,1,20110205,NOH,LAL
+Shot Chart Detail,0021000759,45,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,6,38,Made Shot,Turnaround Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,18,34,1,1,20110207,MEM,LAL
+Shot Chart Detail,0021000759,186,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,6,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,106,184,1,1,20110207,MEM,LAL
+Shot Chart Detail,0021000759,207,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,5,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,6,1,1,20110207,MEM,LAL
+Shot Chart Detail,0021000759,225,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,3,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,1,1,1,20110207,MEM,LAL
+Shot Chart Detail,0021000759,281,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,8,53,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,3,1,1,20110207,MEM,LAL
+Shot Chart Detail,0021000759,285,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,8,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,170,108,1,1,20110207,MEM,LAL
+Shot Chart Detail,0021000783,112,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,0,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,12,1,1,20110210,BOS,LAL
+Shot Chart Detail,0021000783,265,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,11,19,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,0,69,1,1,20110210,BOS,LAL
+Shot Chart Detail,0021000783,271,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,10,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,6,1,1,20110210,BOS,LAL
+Shot Chart Detail,0021000783,304,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,6,33,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-92,89,1,1,20110210,BOS,LAL
+Shot Chart Detail,0021000783,319,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,4,12,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-56,30,1,1,20110210,BOS,LAL
+Shot Chart Detail,0021000783,453,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,4,49,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-111,157,1,1,20110210,BOS,LAL
+Shot Chart Detail,0021000783,461,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,3,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-64,190,1,1,20110210,BOS,LAL
+Shot Chart Detail,0021000783,464,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,3,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,-10,1,1,20110210,BOS,LAL
+Shot Chart Detail,0021000783,485,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,0,48,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-92,91,1,1,20110210,BOS,LAL
+Shot Chart Detail,0021000793,33,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,7,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,233,89,1,1,20110211,NYK,LAL
+Shot Chart Detail,0021000793,62,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,4,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,201,164,1,1,20110211,NYK,LAL
+Shot Chart Detail,0021000793,69,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,4,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-48,246,1,1,20110211,NYK,LAL
+Shot Chart Detail,0021000793,72,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,3,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,22,-179,129,1,1,20110211,NYK,LAL
+Shot Chart Detail,0021000793,94,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,2,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-51,153,1,1,20110211,NYK,LAL
+Shot Chart Detail,0021000793,105,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,1,31,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-114,-17,1,1,20110211,NYK,LAL
+Shot Chart Detail,0021000793,114,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,0,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-40,186,1,1,20110211,NYK,LAL
+Shot Chart Detail,0021000793,202,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,4,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,22,211,82,1,1,20110211,NYK,LAL
+Shot Chart Detail,0021000793,314,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,8,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,70,146,1,1,20110211,NYK,LAL
+Shot Chart Detail,0021000793,345,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,4,55,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,67,58,1,1,20110211,NYK,LAL
+Shot Chart Detail,0021000793,352,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,4,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,203,148,1,1,20110211,NYK,LAL
+Shot Chart Detail,0021000793,388,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,1,1,Made Shot,Running Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-11,36,1,1,20110211,NYK,LAL
+Shot Chart Detail,0021000805,22,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,10,3,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,234,58,1,1,20110213,ORL,LAL
+Shot Chart Detail,0021000805,85,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,2,21,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,7,88,1,1,20110213,ORL,LAL
+Shot Chart Detail,0021000805,181,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,5,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,20,1,1,20110213,ORL,LAL
+Shot Chart Detail,0021000805,193,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,4,7,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,12,-64,107,1,1,20110213,ORL,LAL
+Shot Chart Detail,0021000805,195,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,3,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,111,175,1,1,20110213,ORL,LAL
+Shot Chart Detail,0021000805,205,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,2,39,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-93,116,1,1,20110213,ORL,LAL
+Shot Chart Detail,0021000805,315,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,1,9,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-122,34,1,1,20110213,ORL,LAL
+Shot Chart Detail,0021000805,398,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,4,36,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,2,82,1,1,20110213,ORL,LAL
+Shot Chart Detail,0021000812,7,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,11,2,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,12,-68,110,1,1,20110214,CHA,LAL
+Shot Chart Detail,0021000812,42,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,7,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-136,36,1,1,20110214,CHA,LAL
+Shot Chart Detail,0021000812,156,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,6,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,173,17,1,1,20110214,CHA,LAL
+Shot Chart Detail,0021000812,220,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,1,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,168,197,1,1,20110214,CHA,LAL
+Shot Chart Detail,0021000812,255,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,9,17,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,0,1,1,20110214,CHA,LAL
+Shot Chart Detail,0021000812,365,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,11,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,75,168,1,1,20110214,CHA,LAL
+Shot Chart Detail,0021000812,405,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,8,36,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-149,33,1,1,20110214,CHA,LAL
+Shot Chart Detail,0021000812,416,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,6,2,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,15,1,1,20110214,CHA,LAL
+Shot Chart Detail,0021000827,9,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,11,1,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,65,119,1,1,20110216,CLE,LAL
+Shot Chart Detail,0021000827,169,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,10,5,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,61,78,1,1,20110216,CLE,LAL
+Shot Chart Detail,0021000827,196,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,6,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,23,206,115,1,1,20110216,CLE,LAL
+Shot Chart Detail,0021000827,317,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,7,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,86,89,1,1,20110216,CLE,LAL
+Shot Chart Detail,0021000827,375,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,2,10,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,1,135,1,1,20110216,CLE,LAL
+Shot Chart Detail,0021000827,394,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,0,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-127,217,1,1,20110216,CLE,LAL
+Shot Chart Detail,0021000827,503,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,2,18,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,6,1,1,20110216,CLE,LAL
+Shot Chart Detail,0021000827,526,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,0,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,0,1,1,20110216,CLE,LAL
+Shot Chart Detail,0021000846,17,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,9,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-95,164,1,1,20110222,LAL,ATL
+Shot Chart Detail,0021000846,57,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,4,35,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-24,4,1,1,20110222,LAL,ATL
+Shot Chart Detail,0021000846,297,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,9,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,125,227,1,1,20110222,LAL,ATL
+Shot Chart Detail,0021000846,379,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,2,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-68,165,1,1,20110222,LAL,ATL
+Shot Chart Detail,0021000846,396,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,0,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,223,112,1,1,20110222,LAL,ATL
+Shot Chart Detail,0021000858,93,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,2,4,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-147,108,1,1,20110223,POR,LAL
+Shot Chart Detail,0021000858,95,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,1,23,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,83,-3,1,1,20110223,POR,LAL
+Shot Chart Detail,0021000858,201,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,3,18,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-23,195,1,1,20110223,POR,LAL
+Shot Chart Detail,0021000858,210,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,2,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-141,201,1,1,20110223,POR,LAL
+Shot Chart Detail,0021000858,249,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,9,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-194,145,1,1,20110223,POR,LAL
+Shot Chart Detail,0021000858,278,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,6,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-160,156,1,1,20110223,POR,LAL
+Shot Chart Detail,0021000858,302,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,4,12,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,140,36,1,1,20110223,POR,LAL
+Shot Chart Detail,0021000858,308,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,3,0,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,37,131,1,1,20110223,POR,LAL
+Shot Chart Detail,0021000858,323,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,1,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,125,211,1,1,20110223,POR,LAL
+Shot Chart Detail,0021000858,388,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,5,32,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-68,14,1,1,20110223,POR,LAL
+Shot Chart Detail,0021000858,397,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,4,39,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,103,165,1,1,20110223,POR,LAL
+Shot Chart Detail,0021000858,428,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,0,46,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,94,14,1,1,20110223,POR,LAL
+Shot Chart Detail,0021000858,431,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,0,4,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,15,-76,131,1,1,20110223,POR,LAL
+Shot Chart Detail,0021000858,467,977,Kobe Bryant,1610612747,Los Angeles Lakers,5,0,27,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,13,85,1,1,20110223,POR,LAL
+Shot Chart Detail,0021000871,2,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,11,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-89,105,1,1,20110225,LAL,LAC
+Shot Chart Detail,0021000871,12,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,10,1,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,12,78,101,1,1,20110225,LAL,LAC
+Shot Chart Detail,0021000871,302,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,8,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,22,-193,118,1,1,20110225,LAL,LAC
+Shot Chart Detail,0021000871,310,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,7,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,94,231,1,1,20110225,LAL,LAC
+Shot Chart Detail,0021000871,330,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,5,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,65,206,1,1,20110225,LAL,LAC
+Shot Chart Detail,0021000871,333,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,5,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-95,159,1,1,20110225,LAL,LAC
+Shot Chart Detail,0021000871,341,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,4,22,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,67,167,1,1,20110225,LAL,LAC
+Shot Chart Detail,0021000871,350,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,3,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,53,271,1,1,20110225,LAL,LAC
+Shot Chart Detail,0021000871,372,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,1,23,Made Shot,Floating Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-10,31,1,1,20110225,LAL,LAC
+Shot Chart Detail,0021000871,377,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,0,14,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-15,23,1,1,20110225,LAL,LAC
+Shot Chart Detail,0021000880,49,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,6,45,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-116,3,1,1,20110227,OKC,LAL
+Shot Chart Detail,0021000880,56,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,5,20,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-32,140,1,1,20110227,OKC,LAL
+Shot Chart Detail,0021000880,187,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,3,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-191,0,1,1,20110227,OKC,LAL
+Shot Chart Detail,0021000880,248,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,9,45,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,6,1,1,20110227,OKC,LAL
+Shot Chart Detail,0021000880,299,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,4,26,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,61,113,1,1,20110227,OKC,LAL
+Shot Chart Detail,0021000880,400,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,5,56,Made Shot,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-68,33,1,1,20110227,OKC,LAL
+Shot Chart Detail,0021000880,413,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,4,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,165,184,1,1,20110227,OKC,LAL
+Shot Chart Detail,0021000880,451,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,0,56,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-160,15,1,1,20110227,OKC,LAL
+Shot Chart Detail,0021000900,83,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,4,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-128,149,1,1,20110301,MIN,LAL
+Shot Chart Detail,0021000900,224,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,2,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-13,160,1,1,20110301,MIN,LAL
+Shot Chart Detail,0021000900,262,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,9,50,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,1,1,1,20110301,MIN,LAL
+Shot Chart Detail,0021000900,293,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,7,10,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-120,127,1,1,20110301,MIN,LAL
+Shot Chart Detail,0021000900,325,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,3,34,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,15,1,1,20110301,MIN,LAL
+Shot Chart Detail,0021000900,334,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,2,31,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,103,110,1,1,20110301,MIN,LAL
+Shot Chart Detail,0021000900,342,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,1,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-76,231,1,1,20110301,MIN,LAL
+Shot Chart Detail,0021000900,465,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,1,3,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,133,142,1,1,20110301,MIN,LAL
+Shot Chart Detail,0021000924,35,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,7,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,152,104,1,1,20110304,LAL,CHA
+Shot Chart Detail,0021000924,40,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,6,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,4,1,1,20110304,LAL,CHA
+Shot Chart Detail,0021000924,87,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,2,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-24,3,1,1,20110304,LAL,CHA
+Shot Chart Detail,0021000924,95,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,0,44,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-122,26,1,1,20110304,LAL,CHA
+Shot Chart Detail,0021000924,101,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,0,21,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-43,48,1,1,20110304,LAL,CHA
+Shot Chart Detail,0021000924,234,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,1,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,1,1,1,20110304,LAL,CHA
+Shot Chart Detail,0021000924,317,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,6,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,182,183,1,1,20110304,LAL,CHA
+Shot Chart Detail,0021000924,370,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,2,42,Made Shot,Turnaround Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-48,33,1,1,20110304,LAL,CHA
+Shot Chart Detail,0021000924,372,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,2,3,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-239,0,1,1,20110304,LAL,CHA
+Shot Chart Detail,0021000924,391,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,0,31,Made Shot,Turnaround Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,72,11,1,1,20110304,LAL,CHA
+Shot Chart Detail,0021000932,51,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,6,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,143,61,1,1,20110306,SAS,LAL
+Shot Chart Detail,0021000932,54,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,5,48,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-98,19,1,1,20110306,SAS,LAL
+Shot Chart Detail,0021000932,73,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,3,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-32,3,1,1,20110306,SAS,LAL
+Shot Chart Detail,0021000932,77,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,2,52,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,124,-2,1,1,20110306,SAS,LAL
+Shot Chart Detail,0021000932,168,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,5,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,160,11,1,1,20110306,SAS,LAL
+Shot Chart Detail,0021000932,176,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,4,23,Made Shot,Turnaround Bank shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-79,20,1,1,20110306,SAS,LAL
+Shot Chart Detail,0021000932,192,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,3,17,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,236,26,1,1,20110306,SAS,LAL
+Shot Chart Detail,0021000932,203,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,2,45,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,26,146,1,1,20110306,SAS,LAL
+Shot Chart Detail,0021000932,250,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,10,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,127,-3,1,1,20110306,SAS,LAL
+Shot Chart Detail,0021000932,312,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,3,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,14,1,1,20110306,SAS,LAL
+Shot Chart Detail,0021000932,318,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,2,40,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,160,47,1,1,20110306,SAS,LAL
+Shot Chart Detail,0021000932,426,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,4,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-147,108,1,1,20110306,SAS,LAL
+Shot Chart Detail,0021000947,56,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,4,14,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,181,20,1,1,20110308,ATL,LAL
+Shot Chart Detail,0021000947,58,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,3,45,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,108,69,1,1,20110308,ATL,LAL
+Shot Chart Detail,0021000947,169,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,4,54,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-4,66,1,1,20110308,ATL,LAL
+Shot Chart Detail,0021000947,186,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,3,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,32,178,1,1,20110308,ATL,LAL
+Shot Chart Detail,0021000947,192,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,2,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,111,197,1,1,20110308,ATL,LAL
+Shot Chart Detail,0021000947,217,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,1,11,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,20,1,1,20110308,ATL,LAL
+Shot Chart Detail,0021000947,298,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,4,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,36,186,1,1,20110308,ATL,LAL
+Shot Chart Detail,0021000947,450,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,3,20,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,241,60,1,1,20110308,ATL,LAL
+Shot Chart Detail,0021000964,4,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,11,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,40,195,1,1,20110310,MIA,LAL
+Shot Chart Detail,0021000964,12,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,10,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-117,151,1,1,20110310,MIA,LAL
+Shot Chart Detail,0021000964,25,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,9,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,113,235,1,1,20110310,MIA,LAL
+Shot Chart Detail,0021000964,31,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,8,26,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,22,1,1,20110310,MIA,LAL
+Shot Chart Detail,0021000964,159,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,8,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,20,254,1,1,20110310,MIA,LAL
+Shot Chart Detail,0021000964,206,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,4,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,3,1,1,20110310,MIA,LAL
+Shot Chart Detail,0021000964,467,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,4,8,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-229,30,1,1,20110310,MIA,LAL
+Shot Chart Detail,0021000964,476,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,2,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,218,178,1,1,20110310,MIA,LAL
+Shot Chart Detail,0021000982,46,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,5,48,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,47,75,1,1,20110312,DAL,LAL
+Shot Chart Detail,0021000982,198,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,4,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,113,45,1,1,20110312,DAL,LAL
+Shot Chart Detail,0021000982,210,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,3,23,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,13,132,1,1,20110312,DAL,LAL
+Shot Chart Detail,0021000982,245,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,0,53,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,6,1,1,20110312,DAL,LAL
+Shot Chart Detail,0021000982,310,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,5,33,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-23,45,1,1,20110312,DAL,LAL
+Shot Chart Detail,0021000982,462,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,2,44,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,179,23,1,1,20110312,DAL,LAL
+Shot Chart Detail,0021000999,47,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,7,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,130,118,1,1,20110314,LAL,ORL
+Shot Chart Detail,0021000999,81,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,2,53,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,31,63,1,1,20110314,LAL,ORL
+Shot Chart Detail,0021000999,284,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,8,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,12,200,1,1,20110314,LAL,ORL
+Shot Chart Detail,0021000999,291,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,8,1,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,47,25,1,1,20110314,LAL,ORL
+Shot Chart Detail,0021000999,318,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,4,3,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-100,-3,1,1,20110314,LAL,ORL
+Shot Chart Detail,0021000999,321,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,3,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,97,123,1,1,20110314,LAL,ORL
+Shot Chart Detail,0021000999,327,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,1,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-90,58,1,1,20110314,LAL,ORL
+Shot Chart Detail,0021001028,254,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,0,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-108,265,1,1,20110318,LAL,MIN
+Shot Chart Detail,0021001028,258,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,0,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,1,272,1,1,20110318,LAL,MIN
+Shot Chart Detail,0021001028,343,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,3,9,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-2,116,1,1,20110318,LAL,MIN
+Shot Chart Detail,0021001028,370,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,0,46,Made Shot,Running Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,0,1,1,20110318,LAL,MIN
+Shot Chart Detail,0021001028,477,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,5,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,103,143,1,1,20110318,LAL,MIN
+Shot Chart Detail,0021001028,512,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,3,3,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,11,-59,102,1,1,20110318,LAL,MIN
+Shot Chart Detail,0021001043,36,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,9,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,91,145,1,1,20110320,LAL,POR
+Shot Chart Detail,0021001043,68,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,5,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,111,107,1,1,20110320,LAL,POR
+Shot Chart Detail,0021001043,92,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,3,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-220,124,1,1,20110320,LAL,POR
+Shot Chart Detail,0021001043,233,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,2,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,209,131,1,1,20110320,LAL,POR
+Shot Chart Detail,0021001043,408,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,8,11,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-71,25,1,1,20110320,LAL,POR
+Shot Chart Detail,0021001043,439,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,4,19,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,0,1,1,20110320,LAL,POR
+Shot Chart Detail,0021001043,453,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,2,22,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,0,1,1,20110320,LAL,POR
+Shot Chart Detail,0021001043,467,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,1,11,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-68,30,1,1,20110320,LAL,POR
+Shot Chart Detail,0021001043,475,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,0,32,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,133,26,1,1,20110320,LAL,POR
+Shot Chart Detail,0021001053,33,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,8,32,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,19,1,1,20110322,LAL,PHX
+Shot Chart Detail,0021001053,52,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,6,40,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-21,74,1,1,20110322,LAL,PHX
+Shot Chart Detail,0021001053,183,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,5,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-169,83,1,1,20110322,LAL,PHX
+Shot Chart Detail,0021001053,221,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,1,19,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,0,83,1,1,20110322,LAL,PHX
+Shot Chart Detail,0021001053,261,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,9,42,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-100,63,1,1,20110322,LAL,PHX
+Shot Chart Detail,0021001053,272,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,8,45,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,29,197,1,1,20110322,LAL,PHX
+Shot Chart Detail,0021001053,292,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,6,50,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-2,108,1,1,20110322,LAL,PHX
+Shot Chart Detail,0021001053,302,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,5,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-11,247,1,1,20110322,LAL,PHX
+Shot Chart Detail,0021001053,315,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,4,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,176,201,1,1,20110322,LAL,PHX
+Shot Chart Detail,0021001053,410,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,5,25,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,42,116,1,1,20110322,LAL,PHX
+Shot Chart Detail,0021001053,418,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,4,59,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,89,137,1,1,20110322,LAL,PHX
+Shot Chart Detail,0021001053,443,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,1,17,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-86,173,1,1,20110322,LAL,PHX
+Shot Chart Detail,0021001053,554,977,Kobe Bryant,1610612747,Los Angeles Lakers,6,3,8,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-19,203,1,1,20110322,LAL,PHX
+Shot Chart Detail,0021001053,616,977,Kobe Bryant,1610612747,Los Angeles Lakers,7,2,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-161,200,1,1,20110322,LAL,PHX
+Shot Chart Detail,0021001053,632,977,Kobe Bryant,1610612747,Los Angeles Lakers,7,0,14,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-81,72,1,1,20110322,LAL,PHX
+Shot Chart Detail,0021001080,23,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,9,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-152,217,1,1,20110325,LAL,LAC
+Shot Chart Detail,0021001080,48,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,6,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,72,153,1,1,20110325,LAL,LAC
+Shot Chart Detail,0021001080,63,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,4,44,Made Shot,Jump Bank Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,13,30,1,1,20110325,LAL,LAC
+Shot Chart Detail,0021001080,66,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,4,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-117,11,1,1,20110325,LAL,LAC
+Shot Chart Detail,0021001080,197,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,3,39,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-60,36,1,1,20110325,LAL,LAC
+Shot Chart Detail,0021001080,221,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,1,14,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,9,23,1,1,20110325,LAL,LAC
+Shot Chart Detail,0021001080,274,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,9,29,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-32,127,1,1,20110325,LAL,LAC
+Shot Chart Detail,0021001080,293,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,7,52,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-45,105,1,1,20110325,LAL,LAC
+Shot Chart Detail,0021001080,463,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,7,23,Made Shot,Driving Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-16,26,1,1,20110325,LAL,LAC
+Shot Chart Detail,0021001080,494,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,4,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-166,17,1,1,20110325,LAL,LAC
+Shot Chart Detail,0021001080,509,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,2,41,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-27,129,1,1,20110325,LAL,LAC
+Shot Chart Detail,0021001094,13,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,10,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-188,85,1,1,20110327,LAL,NOH
+Shot Chart Detail,0021001094,63,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,4,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-81,36,1,1,20110327,LAL,NOH
+Shot Chart Detail,0021001094,67,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,4,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,1,1,1,20110327,LAL,NOH
+Shot Chart Detail,0021001094,73,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,3,12,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-26,4,1,1,20110327,LAL,NOH
+Shot Chart Detail,0021001094,83,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,2,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-136,209,1,1,20110327,LAL,NOH
+Shot Chart Detail,0021001094,180,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,5,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,2,156,1,1,20110327,LAL,NOH
+Shot Chart Detail,0021001094,231,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,1,36,Made Shot,Turnaround Bank shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-103,61,1,1,20110327,LAL,NOH
+Shot Chart Detail,0021001094,286,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,10,18,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,29,11,1,1,20110327,LAL,NOH
+Shot Chart Detail,0021001094,334,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,4,28,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,121,41,1,1,20110327,LAL,NOH
+Shot Chart Detail,0021001094,474,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,2,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,9,1,1,20110327,LAL,NOH
+Shot Chart Detail,0021001094,512,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,0,15,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-65,22,1,1,20110327,LAL,NOH
+Shot Chart Detail,0021001119,9,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,10,37,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,70,69,1,1,20110331,LAL,DAL
+Shot Chart Detail,0021001119,20,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,9,13,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-26,115,1,1,20110331,LAL,DAL
+Shot Chart Detail,0021001119,46,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,5,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,133,1,1,1,20110331,LAL,DAL
+Shot Chart Detail,0021001119,185,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,5,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,13,19,1,1,20110331,LAL,DAL
+Shot Chart Detail,0021001119,229,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,2,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-127,227,1,1,20110331,LAL,DAL
+Shot Chart Detail,0021001119,338,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,7,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,105,183,1,1,20110331,LAL,DAL
+Shot Chart Detail,0021001119,358,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,4,40,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-89,15,1,1,20110331,LAL,DAL
+Shot Chart Detail,0021001119,501,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,7,2,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,47,108,1,1,20110331,LAL,DAL
+Shot Chart Detail,0021001132,2,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,11,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-10,244,1,1,20110401,UTA,LAL
+Shot Chart Detail,0021001132,59,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,4,47,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,9,1,1,20110401,UTA,LAL
+Shot Chart Detail,0021001132,196,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,5,15,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,18,48,1,1,20110401,UTA,LAL
+Shot Chart Detail,0021001132,241,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,0,47,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,0,1,1,20110401,UTA,LAL
+Shot Chart Detail,0021001132,296,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,6,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,141,132,1,1,20110401,UTA,LAL
+Shot Chart Detail,0021001132,433,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,4,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-157,194,1,1,20110401,UTA,LAL
+Shot Chart Detail,0021001139,38,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,7,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,2,25,1,1,20110403,LAL,DEN
+Shot Chart Detail,0021001139,40,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,7,20,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-6,20,1,1,20110403,LAL,DEN
+Shot Chart Detail,0021001139,193,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,6,50,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-105,-10,1,1,20110403,LAL,DEN
+Shot Chart Detail,0021001139,225,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,5,6,Made Shot,Jump Bank Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-4,31,1,1,20110403,LAL,DEN
+Shot Chart Detail,0021001139,229,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,4,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,10,160,1,1,20110403,LAL,DEN
+Shot Chart Detail,0021001139,301,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,0,9,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,9,53,1,1,20110403,LAL,DEN
+Shot Chart Detail,0021001139,366,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,5,14,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,59,83,1,1,20110403,LAL,DEN
+Shot Chart Detail,0021001139,407,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,2,35,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-106,72,1,1,20110403,LAL,DEN
+Shot Chart Detail,0021001139,492,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,6,22,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,15,22,1,1,20110403,LAL,DEN
+Shot Chart Detail,0021001139,533,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,2,2,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,12,1,1,20110403,LAL,DEN
+Shot Chart Detail,0021001161,322,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,7,42,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-8,20,1,1,20110405,LAL,UTA
+Shot Chart Detail,0021001161,326,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,7,34,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-81,47,1,1,20110405,LAL,UTA
+Shot Chart Detail,0021001161,482,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,6,55,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-27,4,1,1,20110405,LAL,UTA
+Shot Chart Detail,0021001161,485,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,6,16,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,32,71,1,1,20110405,LAL,UTA
+Shot Chart Detail,0021001161,541,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,1,18,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,228,36,1,1,20110405,LAL,UTA
+Shot Chart Detail,0021001161,552,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,0,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-46,268,1,1,20110405,LAL,UTA
+Shot Chart Detail,0021001173,6,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,11,10,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,12,97,1,1,20110406,GSW,LAL
+Shot Chart Detail,0021001173,19,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,9,27,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-120,129,1,1,20110406,GSW,LAL
+Shot Chart Detail,0021001173,32,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,7,32,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,78,61,1,1,20110406,GSW,LAL
+Shot Chart Detail,0021001173,101,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,1,16,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,135,80,1,1,20110406,GSW,LAL
+Shot Chart Detail,0021001173,103,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,0,47,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-4,25,1,1,20110406,GSW,LAL
+Shot Chart Detail,0021001173,321,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,3,51,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,17,1,1,20110406,GSW,LAL
+Shot Chart Detail,0021001173,463,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,4,20,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-183,194,1,1,20110406,GSW,LAL
+Shot Chart Detail,0021001173,469,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,3,19,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-60,36,1,1,20110406,GSW,LAL
+Shot Chart Detail,0021001173,474,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,2,50,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,-185,108,1,1,20110406,GSW,LAL
+Shot Chart Detail,0021001173,477,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,2,16,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,4,1,1,20110406,GSW,LAL
+Shot Chart Detail,0021001187,4,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,11,25,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,43,74,1,1,20110408,POR,LAL
+Shot Chart Detail,0021001187,19,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,8,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,113,0,1,1,20110408,POR,LAL
+Shot Chart Detail,0021001187,182,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,2,59,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,4,1,1,20110408,POR,LAL
+Shot Chart Detail,0021001187,192,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,2,26,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,226,78,1,1,20110408,POR,LAL
+Shot Chart Detail,0021001187,195,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,1,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,48,258,1,1,20110408,POR,LAL
+Shot Chart Detail,0021001187,197,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,1,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,121,249,1,1,20110408,POR,LAL
+Shot Chart Detail,0021001187,206,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,0,32,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-82,247,1,1,20110408,POR,LAL
+Shot Chart Detail,0021001187,241,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,8,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,-3,1,1,20110408,POR,LAL
+Shot Chart Detail,0021001187,428,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,3,10,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,4,1,1,20110408,POR,LAL
+Shot Chart Detail,0021001187,435,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,2,9,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,15,1,1,20110408,POR,LAL
+Shot Chart Detail,0021001201,14,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,9,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,160,208,1,1,20110410,LAL,OKC
+Shot Chart Detail,0021001201,76,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,4,11,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,9,1,1,20110410,LAL,OKC
+Shot Chart Detail,0021001201,89,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,3,0,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,19,1,1,20110410,LAL,OKC
+Shot Chart Detail,0021001201,218,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,5,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,217,116,1,1,20110410,LAL,OKC
+Shot Chart Detail,0021001201,221,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,4,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,9,1,1,20110410,LAL,OKC
+Shot Chart Detail,0021001201,235,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,3,40,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,111,145,1,1,20110410,LAL,OKC
+Shot Chart Detail,0021001201,250,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,1,14,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-19,56,1,1,20110410,LAL,OKC
+Shot Chart Detail,0021001201,270,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,0,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,17,1,1,20110410,LAL,OKC
+Shot Chart Detail,0021001201,490,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,5,16,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,23,22,1,1,20110410,LAL,OKC
+Shot Chart Detail,0021001201,505,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,3,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,19,1,1,20110410,LAL,OKC
+Shot Chart Detail,0021001215,8,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,11,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,211,151,1,1,20110412,LAL,SAS
+Shot Chart Detail,0021001215,37,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,8,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-109,165,1,1,20110412,LAL,SAS
+Shot Chart Detail,0021001215,52,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,5,49,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,13,69,118,1,1,20110412,LAL,SAS
+Shot Chart Detail,0021001215,210,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,5,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-158,25,1,1,20110412,LAL,SAS
+Shot Chart Detail,0021001215,255,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,1,36,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,15,19,1,1,20110412,LAL,SAS
+Shot Chart Detail,0021001215,307,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,9,45,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,11,-59,101,1,1,20110412,LAL,SAS
+Shot Chart Detail,0021001215,318,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,9,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,118,3,1,1,20110412,LAL,SAS
+Shot Chart Detail,0021001215,520,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,2,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,214,167,1,1,20110412,LAL,SAS
+Shot Chart Detail,0021001230,22,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,9,12,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,130,71,1,1,20110413,SAC,LAL
+Shot Chart Detail,0021001230,29,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,7,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,110,4,1,1,20110413,SAC,LAL
+Shot Chart Detail,0021001230,58,977,Kobe Bryant,1610612747,Los Angeles Lakers,1,4,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-19,167,1,1,20110413,SAC,LAL
+Shot Chart Detail,0021001230,246,977,Kobe Bryant,1610612747,Los Angeles Lakers,2,0,38,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-133,61,1,1,20110413,SAC,LAL
+Shot Chart Detail,0021001230,299,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,6,28,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-13,108,1,1,20110413,SAC,LAL
+Shot Chart Detail,0021001230,301,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,6,2,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,0,1,1,20110413,SAC,LAL
+Shot Chart Detail,0021001230,313,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,4,34,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-41,105,1,1,20110413,SAC,LAL
+Shot Chart Detail,0021001230,322,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,3,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,18,181,1,1,20110413,SAC,LAL
+Shot Chart Detail,0021001230,328,977,Kobe Bryant,1610612747,Los Angeles Lakers,3,2,28,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-67,20,1,1,20110413,SAC,LAL
+Shot Chart Detail,0021001230,420,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,7,6,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-100,164,1,1,20110413,SAC,LAL
+Shot Chart Detail,0021001230,432,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,5,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,185,25,1,1,20110413,SAC,LAL
+Shot Chart Detail,0021001230,491,977,Kobe Bryant,1610612747,Los Angeles Lakers,4,0,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,141,205,1,1,20110413,SAC,LAL
+Shot Chart Detail,0021001230,522,977,Kobe Bryant,1610612747,Los Angeles Lakers,5,1,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,23,-114,203,1,1,20110413,SAC,LAL

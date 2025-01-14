@@ -1,0 +1,583 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0022300014,413,202331,Paul George,1610612746,LA Clippers,3,7,7,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,11,1,1,20231110,DAL,LAC
+Shot Chart Detail,0022300014,460,202331,Paul George,1610612746,LA Clippers,3,4,11,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,49,55,1,1,20231110,DAL,LAC
+Shot Chart Detail,0022300014,494,202331,Paul George,1610612746,LA Clippers,3,1,31,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,26,1,1,20231110,DAL,LAC
+Shot Chart Detail,0022300024,13,202331,Paul George,1610612746,LA Clippers,1,11,15,Made Shot,Floating Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-4,33,1,1,20231114,DEN,LAC
+Shot Chart Detail,0022300024,29,202331,Paul George,1610612746,LA Clippers,1,9,43,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,10,1,1,20231114,DEN,LAC
+Shot Chart Detail,0022300024,73,202331,Paul George,1610612746,LA Clippers,1,6,1,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,2,1,1,20231114,DEN,LAC
+Shot Chart Detail,0022300024,89,202331,Paul George,1610612746,LA Clippers,1,4,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,10,258,1,1,20231114,DEN,LAC
+Shot Chart Detail,0022300024,156,202331,Paul George,1610612746,LA Clippers,2,11,17,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,13,158,1,1,20231114,DEN,LAC
+Shot Chart Detail,0022300024,174,202331,Paul George,1610612746,LA Clippers,2,9,36,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-16,258,1,1,20231114,DEN,LAC
+Shot Chart Detail,0022300024,298,202331,Paul George,1610612746,LA Clippers,2,0,27,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,5,1,1,20231114,DEN,LAC
+Shot Chart Detail,0022300024,410,202331,Paul George,1610612746,LA Clippers,3,4,23,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,2,1,1,20231114,DEN,LAC
+Shot Chart Detail,0022300024,478,202331,Paul George,1610612746,LA Clippers,4,10,59,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,104,57,1,1,20231114,DEN,LAC
+Shot Chart Detail,0022300024,512,202331,Paul George,1610612746,LA Clippers,4,8,10,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-142,-5,1,1,20231114,DEN,LAC
+Shot Chart Detail,0022300024,522,202331,Paul George,1610612746,LA Clippers,4,7,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,9,1,1,20231114,DEN,LAC
+Shot Chart Detail,0022300024,531,202331,Paul George,1610612746,LA Clippers,4,6,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,131,115,1,1,20231114,DEN,LAC
+Shot Chart Detail,0022300024,617,202331,Paul George,1610612746,LA Clippers,4,0,15,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,8,1,1,20231114,DEN,LAC
+Shot Chart Detail,0022300037,12,202331,Paul George,1610612746,LA Clippers,1,10,59,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,6,1,1,20231117,LAC,HOU
+Shot Chart Detail,0022300037,28,202331,Paul George,1610612746,LA Clippers,1,8,40,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,31,46,1,1,20231117,LAC,HOU
+Shot Chart Detail,0022300037,54,202331,Paul George,1610612746,LA Clippers,1,6,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-143,67,1,1,20231117,LAC,HOU
+Shot Chart Detail,0022300037,69,202331,Paul George,1610612746,LA Clippers,1,5,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-145,212,1,1,20231117,LAC,HOU
+Shot Chart Detail,0022300037,133,202331,Paul George,1610612746,LA Clippers,1,1,43,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-13,39,1,1,20231117,LAC,HOU
+Shot Chart Detail,0022300037,531,202331,Paul George,1610612746,LA Clippers,3,0,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,121,248,1,1,20231117,LAC,HOU
+Shot Chart Detail,0022300037,585,202331,Paul George,1610612746,LA Clippers,4,7,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-127,226,1,1,20231117,LAC,HOU
+Shot Chart Detail,0022300037,669,202331,Paul George,1610612746,LA Clippers,4,1,7,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-1,21,1,1,20231117,LAC,HOU
+Shot Chart Detail,0022300052,15,202331,Paul George,1610612746,LA Clippers,1,10,42,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-93,194,1,1,20231124,LAC,NOP
+Shot Chart Detail,0022300052,28,202331,Paul George,1610612746,LA Clippers,1,8,54,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,50,201,1,1,20231124,LAC,NOP
+Shot Chart Detail,0022300052,136,202331,Paul George,1610612746,LA Clippers,1,1,13,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-167,197,1,1,20231124,LAC,NOP
+Shot Chart Detail,0022300052,169,202331,Paul George,1610612746,LA Clippers,2,10,36,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,2,28,1,1,20231124,LAC,NOP
+Shot Chart Detail,0022300052,217,202331,Paul George,1610612746,LA Clippers,2,6,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,179,199,1,1,20231124,LAC,NOP
+Shot Chart Detail,0022300052,229,202331,Paul George,1610612746,LA Clippers,2,5,54,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,126,236,1,1,20231124,LAC,NOP
+Shot Chart Detail,0022300052,257,202331,Paul George,1610612746,LA Clippers,2,4,37,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-7,62,1,1,20231124,LAC,NOP
+Shot Chart Detail,0022300052,343,202331,Paul George,1610612746,LA Clippers,3,11,18,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,9,1,1,20231124,LAC,NOP
+Shot Chart Detail,0022300052,348,202331,Paul George,1610612746,LA Clippers,3,10,54,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,20,1,1,20231124,LAC,NOP
+Shot Chart Detail,0022300052,490,202331,Paul George,1610612746,LA Clippers,3,0,52,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-7,19,1,1,20231124,LAC,NOP
+Shot Chart Detail,0022300052,509,202331,Paul George,1610612746,LA Clippers,4,11,47,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,14,1,1,20231124,LAC,NOP
+Shot Chart Detail,0022300052,607,202331,Paul George,1610612746,LA Clippers,4,6,18,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,5,1,1,20231124,LAC,NOP
+Shot Chart Detail,0022300052,628,202331,Paul George,1610612746,LA Clippers,4,4,43,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,7,20,1,1,20231124,LAC,NOP
+Shot Chart Detail,0022300052,648,202331,Paul George,1610612746,LA Clippers,4,3,17,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-15,15,1,1,20231124,LAC,NOP
+Shot Chart Detail,0022300074,43,202331,Paul George,1610612746,LA Clippers,1,8,54,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,14,1,1,20231025,LAC,POR
+Shot Chart Detail,0022300074,196,202331,Paul George,1610612746,LA Clippers,2,9,41,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,59,37,1,1,20231025,LAC,POR
+Shot Chart Detail,0022300074,213,202331,Paul George,1610612746,LA Clippers,2,8,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,15,36,1,1,20231025,LAC,POR
+Shot Chart Detail,0022300074,217,202331,Paul George,1610612746,LA Clippers,2,7,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,13,262,1,1,20231025,LAC,POR
+Shot Chart Detail,0022300074,232,202331,Paul George,1610612746,LA Clippers,2,6,51,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,89,79,1,1,20231025,LAC,POR
+Shot Chart Detail,0022300074,268,202331,Paul George,1610612746,LA Clippers,2,5,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,2,20,1,1,20231025,LAC,POR
+Shot Chart Detail,0022300074,371,202331,Paul George,1610612746,LA Clippers,3,10,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-169,195,1,1,20231025,LAC,POR
+Shot Chart Detail,0022300074,408,202331,Paul George,1610612746,LA Clippers,3,7,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,70,273,1,1,20231025,LAC,POR
+Shot Chart Detail,0022300074,456,202331,Paul George,1610612746,LA Clippers,3,4,30,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1,15,1,1,20231025,LAC,POR
+Shot Chart Detail,0022300074,600,202331,Paul George,1610612746,LA Clippers,4,6,9,Made Shot,Driving Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,7,52,1,1,20231025,LAC,POR
+Shot Chart Detail,0022300074,604,202331,Paul George,1610612746,LA Clippers,4,5,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-66,260,1,1,20231025,LAC,POR
+Shot Chart Detail,0022300085,60,202331,Paul George,1610612746,LA Clippers,1,6,42,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20231027,UTA,LAC
+Shot Chart Detail,0022300085,123,202331,Paul George,1610612746,LA Clippers,1,2,53,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-77,20,1,1,20231027,UTA,LAC
+Shot Chart Detail,0022300085,283,202331,Paul George,1610612746,LA Clippers,2,2,50,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,22,-66,218,1,1,20231027,UTA,LAC
+Shot Chart Detail,0022300085,319,202331,Paul George,1610612746,LA Clippers,2,0,4,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,20,81,1,1,20231027,UTA,LAC
+Shot Chart Detail,0022300085,338,202331,Paul George,1610612746,LA Clippers,3,10,28,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,54,27,1,1,20231027,UTA,LAC
+Shot Chart Detail,0022300085,424,202331,Paul George,1610612746,LA Clippers,3,4,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-29,251,1,1,20231027,UTA,LAC
+Shot Chart Detail,0022300085,428,202331,Paul George,1610612746,LA Clippers,3,4,11,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,96,45,1,1,20231027,UTA,LAC
+Shot Chart Detail,0022300085,432,202331,Paul George,1610612746,LA Clippers,3,3,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,188,178,1,1,20231027,UTA,LAC
+Shot Chart Detail,0022300085,639,202331,Paul George,1610612746,LA Clippers,4,1,6,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-16,251,1,1,20231027,UTA,LAC
+Shot Chart Detail,0022300099,47,202331,Paul George,1610612746,LA Clippers,1,8,51,Made Shot,Putback Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,1,50,1,1,20231029,LAC,SAS
+Shot Chart Detail,0022300099,60,202331,Paul George,1610612746,LA Clippers,1,7,57,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,3,1,1,20231029,LAC,SAS
+Shot Chart Detail,0022300099,68,202331,Paul George,1610612746,LA Clippers,1,7,9,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,4,1,1,20231029,LAC,SAS
+Shot Chart Detail,0022300099,84,202331,Paul George,1610612746,LA Clippers,1,5,43,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,24,1,1,20231029,LAC,SAS
+Shot Chart Detail,0022300099,284,202331,Paul George,1610612746,LA Clippers,2,4,52,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-92,245,1,1,20231029,LAC,SAS
+Shot Chart Detail,0022300099,370,202331,Paul George,1610612746,LA Clippers,3,10,9,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-93,155,1,1,20231029,LAC,SAS
+Shot Chart Detail,0022300099,435,202331,Paul George,1610612746,LA Clippers,3,5,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-211,153,1,1,20231029,LAC,SAS
+Shot Chart Detail,0022300099,482,202331,Paul George,1610612746,LA Clippers,3,2,37,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-112,162,1,1,20231029,LAC,SAS
+Shot Chart Detail,0022300114,299,202331,Paul George,1610612746,LA Clippers,2,4,7,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,2,45,1,1,20231031,LAC,ORL
+Shot Chart Detail,0022300114,322,202331,Paul George,1610612746,LA Clippers,2,2,4,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,115,240,1,1,20231031,LAC,ORL
+Shot Chart Detail,0022300114,411,202331,Paul George,1610612746,LA Clippers,3,6,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-48,183,1,1,20231031,LAC,ORL
+Shot Chart Detail,0022300114,421,202331,Paul George,1610612746,LA Clippers,3,5,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,115,237,1,1,20231031,LAC,ORL
+Shot Chart Detail,0022300114,424,202331,Paul George,1610612746,LA Clippers,3,5,23,Made Shot,Running Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,58,1,1,20231031,LAC,ORL
+Shot Chart Detail,0022300114,499,202331,Paul George,1610612746,LA Clippers,3,0,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-27,281,1,1,20231031,LAC,ORL
+Shot Chart Detail,0022300114,505,202331,Paul George,1610612746,LA Clippers,3,0,9,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-153,207,1,1,20231031,LAC,ORL
+Shot Chart Detail,0022300114,629,202331,Paul George,1610612746,LA Clippers,4,4,7,Made Shot,Fadeaway Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-224,29,1,1,20231031,LAC,ORL
+Shot Chart Detail,0022300127,105,202331,Paul George,1610612746,LA Clippers,1,3,13,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,42,22,1,1,20231101,LAL,LAC
+Shot Chart Detail,0022300127,123,202331,Paul George,1610612746,LA Clippers,1,1,44,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-109,234,1,1,20231101,LAL,LAC
+Shot Chart Detail,0022300127,245,202331,Paul George,1610612746,LA Clippers,2,5,4,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-238,11,1,1,20231101,LAL,LAC
+Shot Chart Detail,0022300127,323,202331,Paul George,1610612746,LA Clippers,3,11,43,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,34,18,1,1,20231101,LAL,LAC
+Shot Chart Detail,0022300127,328,202331,Paul George,1610612746,LA Clippers,3,11,6,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,29,113,1,1,20231101,LAL,LAC
+Shot Chart Detail,0022300127,514,202331,Paul George,1610612746,LA Clippers,4,11,29,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-20,274,1,1,20231101,LAL,LAC
+Shot Chart Detail,0022300127,516,202331,Paul George,1610612746,LA Clippers,4,10,46,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-156,236,1,1,20231101,LAL,LAC
+Shot Chart Detail,0022300127,588,202331,Paul George,1610612746,LA Clippers,4,5,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-168,209,1,1,20231101,LAL,LAC
+Shot Chart Detail,0022300127,616,202331,Paul George,1610612746,LA Clippers,4,3,35,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,17,1,1,20231101,LAL,LAC
+Shot Chart Detail,0022300127,651,202331,Paul George,1610612746,LA Clippers,4,0,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,12,1,1,20231101,LAL,LAC
+Shot Chart Detail,0022300127,658,202331,Paul George,1610612746,LA Clippers,4,0,24,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-21,246,1,1,20231101,LAL,LAC
+Shot Chart Detail,0022300151,74,202331,Paul George,1610612746,LA Clippers,1,5,2,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-1,148,1,1,20231106,NYK,LAC
+Shot Chart Detail,0022300151,366,202331,Paul George,1610612746,LA Clippers,3,5,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,40,248,1,1,20231106,NYK,LAC
+Shot Chart Detail,0022300160,16,202331,Paul George,1610612746,LA Clippers,1,10,47,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,16,1,1,20231108,BKN,LAC
+Shot Chart Detail,0022300160,80,202331,Paul George,1610612746,LA Clippers,1,4,58,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,17,1,1,20231108,BKN,LAC
+Shot Chart Detail,0022300160,85,202331,Paul George,1610612746,LA Clippers,1,4,38,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,2,1,1,20231108,BKN,LAC
+Shot Chart Detail,0022300160,210,202331,Paul George,1610612746,LA Clippers,2,9,4,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,-6,1,1,20231108,BKN,LAC
+Shot Chart Detail,0022300160,216,202331,Paul George,1610612746,LA Clippers,2,8,40,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,16,38,1,1,20231108,BKN,LAC
+Shot Chart Detail,0022300160,246,202331,Paul George,1610612746,LA Clippers,2,6,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-112,239,1,1,20231108,BKN,LAC
+Shot Chart Detail,0022300160,490,202331,Paul George,1610612746,LA Clippers,4,11,12,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-72,192,1,1,20231108,BKN,LAC
+Shot Chart Detail,0022300179,178,202331,Paul George,1610612746,LA Clippers,2,10,41,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,10,26,1,1,20231112,LAC,MEM
+Shot Chart Detail,0022300179,182,202331,Paul George,1610612746,LA Clippers,2,9,58,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,38,29,1,1,20231112,LAC,MEM
+Shot Chart Detail,0022300179,185,202331,Paul George,1610612746,LA Clippers,2,9,33,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,17,1,1,20231112,LAC,MEM
+Shot Chart Detail,0022300179,204,202331,Paul George,1610612746,LA Clippers,2,8,2,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,110,102,1,1,20231112,LAC,MEM
+Shot Chart Detail,0022300179,219,202331,Paul George,1610612746,LA Clippers,2,7,5,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-116,259,1,1,20231112,LAC,MEM
+Shot Chart Detail,0022300179,403,202331,Paul George,1610612746,LA Clippers,3,9,13,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,104,143,1,1,20231112,LAC,MEM
+Shot Chart Detail,0022300179,597,202331,Paul George,1610612746,LA Clippers,4,7,42,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,161,216,1,1,20231112,LAC,MEM
+Shot Chart Detail,0022300179,609,202331,Paul George,1610612746,LA Clippers,4,6,38,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,88,246,1,1,20231112,LAC,MEM
+Shot Chart Detail,0022300223,52,202331,Paul George,1610612746,LA Clippers,1,7,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-143,227,1,1,20231120,SAS,LAC
+Shot Chart Detail,0022300223,85,202331,Paul George,1610612746,LA Clippers,1,4,22,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,74,141,1,1,20231120,SAS,LAC
+Shot Chart Detail,0022300223,187,202331,Paul George,1610612746,LA Clippers,2,8,30,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,49,259,1,1,20231120,SAS,LAC
+Shot Chart Detail,0022300223,310,202331,Paul George,1610612746,LA Clippers,3,11,47,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,2,24,1,1,20231120,SAS,LAC
+Shot Chart Detail,0022300223,399,202331,Paul George,1610612746,LA Clippers,3,4,37,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,17,1,1,20231120,SAS,LAC
+Shot Chart Detail,0022300223,482,202331,Paul George,1610612746,LA Clippers,4,11,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-141,29,1,1,20231120,SAS,LAC
+Shot Chart Detail,0022300223,490,202331,Paul George,1610612746,LA Clippers,4,10,38,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-82,88,1,1,20231120,SAS,LAC
+Shot Chart Detail,0022300223,500,202331,Paul George,1610612746,LA Clippers,4,10,7,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,1,255,1,1,20231120,SAS,LAC
+Shot Chart Detail,0022300223,524,202331,Paul George,1610612746,LA Clippers,4,8,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,17,1,1,20231120,SAS,LAC
+Shot Chart Detail,0022300223,540,202331,Paul George,1610612746,LA Clippers,4,6,45,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-103,5,1,1,20231120,SAS,LAC
+Shot Chart Detail,0022300223,563,202331,Paul George,1610612746,LA Clippers,4,4,38,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-39,263,1,1,20231120,SAS,LAC
+Shot Chart Detail,0022300235,72,202331,Paul George,1610612746,LA Clippers,1,5,27,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-134,239,1,1,20231122,SAS,LAC
+Shot Chart Detail,0022300235,145,202331,Paul George,1610612746,LA Clippers,1,0,36,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,33,-56,326,1,1,20231122,SAS,LAC
+Shot Chart Detail,0022300235,204,202331,Paul George,1610612746,LA Clippers,2,9,11,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,81,118,1,1,20231122,SAS,LAC
+Shot Chart Detail,0022300235,207,202331,Paul George,1610612746,LA Clippers,2,8,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,67,260,1,1,20231122,SAS,LAC
+Shot Chart Detail,0022300235,217,202331,Paul George,1610612746,LA Clippers,2,8,7,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-136,223,1,1,20231122,SAS,LAC
+Shot Chart Detail,0022300235,552,202331,Paul George,1610612746,LA Clippers,4,9,43,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,2,142,1,1,20231122,SAS,LAC
+Shot Chart Detail,0022300235,566,202331,Paul George,1610612746,LA Clippers,4,8,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-56,158,1,1,20231122,SAS,LAC
+Shot Chart Detail,0022300235,582,202331,Paul George,1610612746,LA Clippers,4,7,21,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,10,1,1,20231122,SAS,LAC
+Shot Chart Detail,0022300244,34,202331,Paul George,1610612746,LA Clippers,1,9,40,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,26,1,1,20231125,LAC,DAL
+Shot Chart Detail,0022300244,37,202331,Paul George,1610612746,LA Clippers,1,9,19,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,6,1,1,20231125,LAC,DAL
+Shot Chart Detail,0022300244,72,202331,Paul George,1610612746,LA Clippers,1,6,26,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,8,1,1,20231125,LAC,DAL
+Shot Chart Detail,0022300244,92,202331,Paul George,1610612746,LA Clippers,1,4,55,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,6,1,1,20231125,LAC,DAL
+Shot Chart Detail,0022300244,190,202331,Paul George,1610612746,LA Clippers,2,11,2,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,29,13,1,1,20231125,LAC,DAL
+Shot Chart Detail,0022300244,259,202331,Paul George,1610612746,LA Clippers,2,6,2,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,22,15,1,1,20231125,LAC,DAL
+Shot Chart Detail,0022300244,383,202331,Paul George,1610612746,LA Clippers,3,9,21,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-188,189,1,1,20231125,LAC,DAL
+Shot Chart Detail,0022300244,518,202331,Paul George,1610612746,LA Clippers,4,11,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,-5,1,1,20231125,LAC,DAL
+Shot Chart Detail,0022300244,536,202331,Paul George,1610612746,LA Clippers,4,9,54,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,12,69,106,1,1,20231125,LAC,DAL
+Shot Chart Detail,0022300257,22,202331,Paul George,1610612746,LA Clippers,1,9,56,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-12,75,1,1,20231127,LAC,DEN
+Shot Chart Detail,0022300257,429,202331,Paul George,1610612746,LA Clippers,3,5,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-6,22,1,1,20231127,LAC,DEN
+Shot Chart Detail,0022300264,85,202331,Paul George,1610612746,LA Clippers,1,4,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,143,211,1,1,20231129,SAC,LAC
+Shot Chart Detail,0022300264,183,202331,Paul George,1610612746,LA Clippers,1,0,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,195,146,1,1,20231129,SAC,LAC
+Shot Chart Detail,0022300264,206,202331,Paul George,1610612746,LA Clippers,2,10,47,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,89,17,1,1,20231129,SAC,LAC
+Shot Chart Detail,0022300264,291,202331,Paul George,1610612746,LA Clippers,2,5,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,174,200,1,1,20231129,SAC,LAC
+Shot Chart Detail,0022300264,318,202331,Paul George,1610612746,LA Clippers,2,3,18,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-119,15,1,1,20231129,SAC,LAC
+Shot Chart Detail,0022300264,324,202331,Paul George,1610612746,LA Clippers,2,2,50,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,228,83,1,1,20231129,SAC,LAC
+Shot Chart Detail,0022300264,528,202331,Paul George,1610612746,LA Clippers,4,10,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-186,81,1,1,20231129,SAC,LAC
+Shot Chart Detail,0022300273,63,202331,Paul George,1610612746,LA Clippers,1,6,30,Made Shot,Cutting Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,31,47,1,1,20231130,GSW,LAC
+Shot Chart Detail,0022300273,396,202331,Paul George,1610612746,LA Clippers,3,5,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,17,274,1,1,20231130,GSW,LAC
+Shot Chart Detail,0022300273,509,202331,Paul George,1610612746,LA Clippers,4,10,41,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,91,20,1,1,20231130,GSW,LAC
+Shot Chart Detail,0022300273,542,202331,Paul George,1610612746,LA Clippers,4,7,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,119,245,1,1,20231130,GSW,LAC
+Shot Chart Detail,0022300273,634,202331,Paul George,1610612746,LA Clippers,4,0,58,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,115,235,1,1,20231130,GSW,LAC
+Shot Chart Detail,0022300273,638,202331,Paul George,1610612746,LA Clippers,4,0,40,Made Shot,Driving Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,32,42,1,1,20231130,GSW,LAC
+Shot Chart Detail,0022300280,73,202331,Paul George,1610612746,LA Clippers,1,5,45,Made Shot,Running Pull-Up Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,44,95,1,1,20231202,LAC,GSW
+Shot Chart Detail,0022300280,78,202331,Paul George,1610612746,LA Clippers,1,5,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,213,131,1,1,20231202,LAC,GSW
+Shot Chart Detail,0022300280,320,202331,Paul George,1610612746,LA Clippers,3,11,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,36,258,1,1,20231202,LAC,GSW
+Shot Chart Detail,0022300280,369,202331,Paul George,1610612746,LA Clippers,3,7,32,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,9,1,1,20231202,LAC,GSW
+Shot Chart Detail,0022300280,533,202331,Paul George,1610612746,LA Clippers,4,8,37,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,59,6,1,1,20231202,LAC,GSW
+Shot Chart Detail,0022300280,542,202331,Paul George,1610612746,LA Clippers,4,7,58,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,50,3,1,1,20231202,LAC,GSW
+Shot Chart Detail,0022300280,584,202331,Paul George,1610612746,LA Clippers,4,4,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-202,140,1,1,20231202,LAC,GSW
+Shot Chart Detail,0022300280,655,202331,Paul George,1610612746,LA Clippers,4,0,9,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,143,227,1,1,20231202,LAC,GSW
+Shot Chart Detail,0022300304,9,202331,Paul George,1610612746,LA Clippers,1,10,54,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,45,111,1,1,20231211,LAC,POR
+Shot Chart Detail,0022300304,167,202331,Paul George,1610612746,LA Clippers,2,10,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,225,115,1,1,20231211,LAC,POR
+Shot Chart Detail,0022300304,204,202331,Paul George,1610612746,LA Clippers,2,8,14,Made Shot,Driving Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,81,71,1,1,20231211,LAC,POR
+Shot Chart Detail,0022300304,309,202331,Paul George,1610612746,LA Clippers,2,0,7,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,8,1,1,20231211,LAC,POR
+Shot Chart Detail,0022300304,346,202331,Paul George,1610612746,LA Clippers,3,8,35,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,42,1,1,20231211,LAC,POR
+Shot Chart Detail,0022300304,505,202331,Paul George,1610612746,LA Clippers,4,8,47,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,62,126,1,1,20231211,LAC,POR
+Shot Chart Detail,0022300304,629,202331,Paul George,1610612746,LA Clippers,4,0,31,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,9,42,1,1,20231211,LAC,POR
+Shot Chart Detail,0022300309,17,202331,Paul George,1610612746,LA Clippers,1,10,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-108,227,1,1,20231212,LAC,SAC
+Shot Chart Detail,0022300309,87,202331,Paul George,1610612746,LA Clippers,1,4,37,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1,15,1,1,20231212,LAC,SAC
+Shot Chart Detail,0022300309,289,202331,Paul George,1610612746,LA Clippers,2,2,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,213,184,1,1,20231212,LAC,SAC
+Shot Chart Detail,0022300343,81,202331,Paul George,1610612746,LA Clippers,1,6,12,Made Shot,Driving Bank Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,59,35,1,1,20231216,LAC,NYK
+Shot Chart Detail,0022300343,236,202331,Paul George,1610612746,LA Clippers,2,8,33,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,10,30,1,1,20231216,LAC,NYK
+Shot Chart Detail,0022300343,312,202331,Paul George,1610612746,LA Clippers,2,3,17,Made Shot,Fadeaway Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,55,38,1,1,20231216,LAC,NYK
+Shot Chart Detail,0022300343,382,202331,Paul George,1610612746,LA Clippers,3,10,42,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-34,102,1,1,20231216,LAC,NYK
+Shot Chart Detail,0022300343,425,202331,Paul George,1610612746,LA Clippers,3,6,50,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-18,16,1,1,20231216,LAC,NYK
+Shot Chart Detail,0022300343,428,202331,Paul George,1610612746,LA Clippers,3,6,34,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,132,214,1,1,20231216,LAC,NYK
+Shot Chart Detail,0022300343,435,202331,Paul George,1610612746,LA Clippers,3,5,20,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,2,1,1,20231216,LAC,NYK
+Shot Chart Detail,0022300343,466,202331,Paul George,1610612746,LA Clippers,3,3,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,12,1,1,20231216,LAC,NYK
+Shot Chart Detail,0022300343,528,202331,Paul George,1610612746,LA Clippers,4,11,1,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,10,1,1,20231216,LAC,NYK
+Shot Chart Detail,0022300343,559,202331,Paul George,1610612746,LA Clippers,4,9,14,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-148,100,1,1,20231216,LAC,NYK
+Shot Chart Detail,0022300343,608,202331,Paul George,1610612746,LA Clippers,4,5,21,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-154,202,1,1,20231216,LAC,NYK
+Shot Chart Detail,0022300350,12,202331,Paul George,1610612746,LA Clippers,1,11,26,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,142,48,1,1,20231218,IND,LAC
+Shot Chart Detail,0022300350,55,202331,Paul George,1610612746,LA Clippers,1,7,12,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-1,26,1,1,20231218,IND,LAC
+Shot Chart Detail,0022300350,70,202331,Paul George,1610612746,LA Clippers,1,6,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-18,257,1,1,20231218,IND,LAC
+Shot Chart Detail,0022300350,102,202331,Paul George,1610612746,LA Clippers,1,3,35,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,2,274,1,1,20231218,IND,LAC
+Shot Chart Detail,0022300350,138,202331,Paul George,1610612746,LA Clippers,1,1,44,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,5,264,1,1,20231218,IND,LAC
+Shot Chart Detail,0022300350,291,202331,Paul George,1610612746,LA Clippers,2,2,36,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,26,273,1,1,20231218,IND,LAC
+Shot Chart Detail,0022300350,351,202331,Paul George,1610612746,LA Clippers,3,11,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,26,255,1,1,20231218,IND,LAC
+Shot Chart Detail,0022300350,383,202331,Paul George,1610612746,LA Clippers,3,8,49,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,116,100,1,1,20231218,IND,LAC
+Shot Chart Detail,0022300350,447,202331,Paul George,1610612746,LA Clippers,3,4,19,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,6,1,1,20231218,IND,LAC
+Shot Chart Detail,0022300379,31,202331,Paul George,1610612746,LA Clippers,1,9,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,219,140,1,1,20231221,OKC,LAC
+Shot Chart Detail,0022300379,217,202331,Paul George,1610612746,LA Clippers,2,9,9,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,91,237,1,1,20231221,OKC,LAC
+Shot Chart Detail,0022300379,242,202331,Paul George,1610612746,LA Clippers,2,6,56,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,70,79,1,1,20231221,OKC,LAC
+Shot Chart Detail,0022300379,322,202331,Paul George,1610612746,LA Clippers,2,0,44,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,88,183,1,1,20231221,OKC,LAC
+Shot Chart Detail,0022300379,369,202331,Paul George,1610612746,LA Clippers,3,9,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-222,138,1,1,20231221,OKC,LAC
+Shot Chart Detail,0022300379,437,202331,Paul George,1610612746,LA Clippers,3,4,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,29,-184,230,1,1,20231221,OKC,LAC
+Shot Chart Detail,0022300379,456,202331,Paul George,1610612746,LA Clippers,3,2,18,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,123,241,1,1,20231221,OKC,LAC
+Shot Chart Detail,0022300389,8,202331,Paul George,1610612746,LA Clippers,1,11,23,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,126,221,1,1,20231223,LAC,BOS
+Shot Chart Detail,0022300389,42,202331,Paul George,1610612746,LA Clippers,1,8,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-39,272,1,1,20231223,LAC,BOS
+Shot Chart Detail,0022300389,53,202331,Paul George,1610612746,LA Clippers,1,7,20,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-93,115,1,1,20231223,LAC,BOS
+Shot Chart Detail,0022300389,71,202331,Paul George,1610612746,LA Clippers,1,6,20,Made Shot,Alley Oop Layup shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,26,46,1,1,20231223,LAC,BOS
+Shot Chart Detail,0022300389,134,202331,Paul George,1610612746,LA Clippers,1,1,54,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,23,195,1,1,20231223,LAC,BOS
+Shot Chart Detail,0022300389,233,202331,Paul George,1610612746,LA Clippers,2,6,11,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,147,32,1,1,20231223,LAC,BOS
+Shot Chart Detail,0022300389,273,202331,Paul George,1610612746,LA Clippers,2,3,33,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-5,57,1,1,20231223,LAC,BOS
+Shot Chart Detail,0022300389,350,202331,Paul George,1610612746,LA Clippers,3,9,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-76,248,1,1,20231223,LAC,BOS
+Shot Chart Detail,0022300389,368,202331,Paul George,1610612746,LA Clippers,3,7,31,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,82,179,1,1,20231223,LAC,BOS
+Shot Chart Detail,0022300414,11,202331,Paul George,1610612746,LA Clippers,1,11,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,93,143,1,1,20231226,LAC,CHA
+Shot Chart Detail,0022300414,50,202331,Paul George,1610612746,LA Clippers,1,7,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,227,96,1,1,20231226,LAC,CHA
+Shot Chart Detail,0022300414,238,202331,Paul George,1610612746,LA Clippers,2,5,59,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-25,202,1,1,20231226,LAC,CHA
+Shot Chart Detail,0022300414,259,202331,Paul George,1610612746,LA Clippers,2,4,26,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,78,157,1,1,20231226,LAC,CHA
+Shot Chart Detail,0022300414,372,202331,Paul George,1610612746,LA Clippers,3,7,19,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,228,43,1,1,20231226,LAC,CHA
+Shot Chart Detail,0022300414,379,202331,Paul George,1610612746,LA Clippers,3,6,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,140,211,1,1,20231226,LAC,CHA
+Shot Chart Detail,0022300414,396,202331,Paul George,1610612746,LA Clippers,3,5,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,15,261,1,1,20231226,LAC,CHA
+Shot Chart Detail,0022300414,528,202331,Paul George,1610612746,LA Clippers,4,8,7,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,13,-70,121,1,1,20231226,LAC,CHA
+Shot Chart Detail,0022300414,542,202331,Paul George,1610612746,LA Clippers,4,7,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-4,26,1,1,20231226,LAC,CHA
+Shot Chart Detail,0022300414,618,202331,Paul George,1610612746,LA Clippers,4,1,26,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,8,1,1,20231226,LAC,CHA
+Shot Chart Detail,0022300438,13,202331,Paul George,1610612746,LA Clippers,1,11,1,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-53,164,1,1,20231229,LAC,MEM
+Shot Chart Detail,0022300438,394,202331,Paul George,1610612746,LA Clippers,3,8,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-124,26,1,1,20231229,LAC,MEM
+Shot Chart Detail,0022300438,410,202331,Paul George,1610612746,LA Clippers,3,6,45,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,132,219,1,1,20231229,LAC,MEM
+Shot Chart Detail,0022300438,421,202331,Paul George,1610612746,LA Clippers,3,5,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,126,231,1,1,20231229,LAC,MEM
+Shot Chart Detail,0022300438,424,202331,Paul George,1610612746,LA Clippers,3,5,0,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,8,1,1,20231229,LAC,MEM
+Shot Chart Detail,0022300438,502,202331,Paul George,1610612746,LA Clippers,3,0,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-201,25,1,1,20231229,LAC,MEM
+Shot Chart Detail,0022300438,587,202331,Paul George,1610612746,LA Clippers,4,6,58,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,26,72,1,1,20231229,LAC,MEM
+Shot Chart Detail,0022300438,637,202331,Paul George,1610612746,LA Clippers,4,2,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,113,72,1,1,20231229,LAC,MEM
+Shot Chart Detail,0022300458,53,202331,Paul George,1610612746,LA Clippers,1,6,37,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,5,1,1,20240101,LAC,MIA
+Shot Chart Detail,0022300458,56,202331,Paul George,1610612746,LA Clippers,1,6,11,Made Shot,Running Pull-Up Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,163,113,1,1,20240101,LAC,MIA
+Shot Chart Detail,0022300458,281,202331,Paul George,1610612746,LA Clippers,2,0,37,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-140,208,1,1,20240101,LAC,MIA
+Shot Chart Detail,0022300458,300,202331,Paul George,1610612746,LA Clippers,3,11,15,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-97,146,1,1,20240101,LAC,MIA
+Shot Chart Detail,0022300458,377,202331,Paul George,1610612746,LA Clippers,3,5,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,165,193,1,1,20240101,LAC,MIA
+Shot Chart Detail,0022300458,384,202331,Paul George,1610612746,LA Clippers,3,4,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,100,246,1,1,20240101,LAC,MIA
+Shot Chart Detail,0022300458,406,202331,Paul George,1610612746,LA Clippers,3,3,50,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-7,196,1,1,20240101,LAC,MIA
+Shot Chart Detail,0022300473,34,202331,Paul George,1610612746,LA Clippers,1,8,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,181,189,1,1,20240103,PHX,LAC
+Shot Chart Detail,0022300473,37,202331,Paul George,1610612746,LA Clippers,1,7,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,61,254,1,1,20240103,PHX,LAC
+Shot Chart Detail,0022300473,49,202331,Paul George,1610612746,LA Clippers,1,6,31,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-26,13,1,1,20240103,PHX,LAC
+Shot Chart Detail,0022300473,68,202331,Paul George,1610612746,LA Clippers,1,5,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-163,195,1,1,20240103,PHX,LAC
+Shot Chart Detail,0022300473,91,202331,Paul George,1610612746,LA Clippers,1,3,18,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,11,168,1,1,20240103,PHX,LAC
+Shot Chart Detail,0022300473,123,202331,Paul George,1610612746,LA Clippers,1,1,16,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,15,1,1,20240103,PHX,LAC
+Shot Chart Detail,0022300473,365,202331,Paul George,1610612746,LA Clippers,3,8,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,223,120,1,1,20240103,PHX,LAC
+Shot Chart Detail,0022300473,454,202331,Paul George,1610612746,LA Clippers,3,2,42,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,56,241,1,1,20240103,PHX,LAC
+Shot Chart Detail,0022300486,9,202331,Paul George,1610612746,LA Clippers,1,11,12,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-179,-9,1,1,20240105,NOP,LAC
+Shot Chart Detail,0022300486,48,202331,Paul George,1610612746,LA Clippers,1,7,43,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,134,222,1,1,20240105,NOP,LAC
+Shot Chart Detail,0022300486,132,202331,Paul George,1610612746,LA Clippers,1,1,20,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,2,1,1,20240105,NOP,LAC
+Shot Chart Detail,0022300486,270,202331,Paul George,1610612746,LA Clippers,2,2,46,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-123,104,1,1,20240105,NOP,LAC
+Shot Chart Detail,0022300486,283,202331,Paul George,1610612746,LA Clippers,2,2,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,172,175,1,1,20240105,NOP,LAC
+Shot Chart Detail,0022300486,287,202331,Paul George,1610612746,LA Clippers,2,1,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-31,277,1,1,20240105,NOP,LAC
+Shot Chart Detail,0022300486,325,202331,Paul George,1610612746,LA Clippers,3,11,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,232,96,1,1,20240105,NOP,LAC
+Shot Chart Detail,0022300486,437,202331,Paul George,1610612746,LA Clippers,3,2,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-202,164,1,1,20240105,NOP,LAC
+Shot Chart Detail,0022300486,453,202331,Paul George,1610612746,LA Clippers,3,0,32,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-164,197,1,1,20240105,NOP,LAC
+Shot Chart Detail,0022300505,26,202331,Paul George,1610612746,LA Clippers,1,9,26,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,15,37,1,1,20240107,LAL,LAC
+Shot Chart Detail,0022300505,36,202331,Paul George,1610612746,LA Clippers,1,8,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-9,282,1,1,20240107,LAL,LAC
+Shot Chart Detail,0022300505,130,202331,Paul George,1610612746,LA Clippers,1,1,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,6,248,1,1,20240107,LAL,LAC
+Shot Chart Detail,0022300505,357,202331,Paul George,1610612746,LA Clippers,3,7,44,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-82,256,1,1,20240107,LAL,LAC
+Shot Chart Detail,0022300505,371,202331,Paul George,1610612746,LA Clippers,3,6,35,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,108,80,1,1,20240107,LAL,LAC
+Shot Chart Detail,0022300505,404,202331,Paul George,1610612746,LA Clippers,3,4,10,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,83,234,1,1,20240107,LAL,LAC
+Shot Chart Detail,0022300505,448,202331,Paul George,1610612746,LA Clippers,3,0,59,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,7,27,1,1,20240107,LAL,LAC
+Shot Chart Detail,0022300505,519,202331,Paul George,1610612746,LA Clippers,4,8,33,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-13,33,1,1,20240107,LAL,LAC
+Shot Chart Detail,0022300511,22,202331,Paul George,1610612746,LA Clippers,1,9,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,33,267,1,1,20240108,LAC,PHX
+Shot Chart Detail,0022300511,63,202331,Paul George,1610612746,LA Clippers,1,6,21,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,94,66,1,1,20240108,LAC,PHX
+Shot Chart Detail,0022300511,115,202331,Paul George,1610612746,LA Clippers,1,2,14,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,112,83,1,1,20240108,LAC,PHX
+Shot Chart Detail,0022300511,135,202331,Paul George,1610612746,LA Clippers,1,0,4,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-126,230,1,1,20240108,LAC,PHX
+Shot Chart Detail,0022300511,223,202331,Paul George,1610612746,LA Clippers,2,5,48,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,25,56,1,1,20240108,LAC,PHX
+Shot Chart Detail,0022300511,281,202331,Paul George,1610612746,LA Clippers,2,1,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,0,263,1,1,20240108,LAC,PHX
+Shot Chart Detail,0022300511,356,202331,Paul George,1610612746,LA Clippers,3,6,42,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-126,110,1,1,20240108,LAC,PHX
+Shot Chart Detail,0022300511,369,202331,Paul George,1610612746,LA Clippers,3,6,8,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-97,97,1,1,20240108,LAC,PHX
+Shot Chart Detail,0022300511,434,202331,Paul George,1610612746,LA Clippers,3,1,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-6,257,1,1,20240108,LAC,PHX
+Shot Chart Detail,0022300511,547,202331,Paul George,1610612746,LA Clippers,4,5,47,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,20,23,1,1,20240108,LAC,PHX
+Shot Chart Detail,0022300526,164,202331,Paul George,1610612746,LA Clippers,2,9,54,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,5,90,1,1,20240110,LAC,TOR
+Shot Chart Detail,0022300526,210,202331,Paul George,1610612746,LA Clippers,2,6,46,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,12,1,1,20240110,LAC,TOR
+Shot Chart Detail,0022300526,327,202331,Paul George,1610612746,LA Clippers,3,9,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,96,251,1,1,20240110,LAC,TOR
+Shot Chart Detail,0022300526,338,202331,Paul George,1610612746,LA Clippers,3,8,32,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-76,253,1,1,20240110,LAC,TOR
+Shot Chart Detail,0022300526,344,202331,Paul George,1610612746,LA Clippers,3,7,59,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,5,1,1,20240110,LAC,TOR
+Shot Chart Detail,0022300526,380,202331,Paul George,1610612746,LA Clippers,3,4,45,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,12,-69,103,1,1,20240110,LAC,TOR
+Shot Chart Detail,0022300526,472,202331,Paul George,1610612746,LA Clippers,4,11,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-207,167,1,1,20240110,LAC,TOR
+Shot Chart Detail,0022300526,493,202331,Paul George,1610612746,LA Clippers,4,10,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,13,1,1,20240110,LAC,TOR
+Shot Chart Detail,0022300526,505,202331,Paul George,1610612746,LA Clippers,4,9,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,96,183,1,1,20240110,LAC,TOR
+Shot Chart Detail,0022300526,531,202331,Paul George,1610612746,LA Clippers,4,6,41,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,31,1,1,20240110,LAC,TOR
+Shot Chart Detail,0022300526,566,202331,Paul George,1610612746,LA Clippers,4,3,52,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-26,11,1,1,20240110,LAC,TOR
+Shot Chart Detail,0022300526,601,202331,Paul George,1610612746,LA Clippers,4,0,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,162,213,1,1,20240110,LAC,TOR
+Shot Chart Detail,0022300537,27,202331,Paul George,1610612746,LA Clippers,1,10,2,Made Shot,Step Back Jump shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,229,35,1,1,20240112,MEM,LAC
+Shot Chart Detail,0022300537,234,202331,Paul George,1610612746,LA Clippers,2,6,35,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,10,1,1,20240112,MEM,LAC
+Shot Chart Detail,0022300537,250,202331,Paul George,1610612746,LA Clippers,2,4,57,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,76,169,1,1,20240112,MEM,LAC
+Shot Chart Detail,0022300537,264,202331,Paul George,1610612746,LA Clippers,2,4,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,162,227,1,1,20240112,MEM,LAC
+Shot Chart Detail,0022300537,279,202331,Paul George,1610612746,LA Clippers,2,3,18,Made Shot,Step Back Jump shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,229,87,1,1,20240112,MEM,LAC
+Shot Chart Detail,0022300537,304,202331,Paul George,1610612746,LA Clippers,2,0,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,153,209,1,1,20240112,MEM,LAC
+Shot Chart Detail,0022300537,317,202331,Paul George,1610612746,LA Clippers,3,11,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,115,233,1,1,20240112,MEM,LAC
+Shot Chart Detail,0022300537,512,202331,Paul George,1610612746,LA Clippers,4,8,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,18,28,1,1,20240112,MEM,LAC
+Shot Chart Detail,0022300537,540,202331,Paul George,1610612746,LA Clippers,4,6,50,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,49,28,1,1,20240112,MEM,LAC
+Shot Chart Detail,0022300537,557,202331,Paul George,1610612746,LA Clippers,4,5,31,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,150,205,1,1,20240112,MEM,LAC
+Shot Chart Detail,0022300537,560,202331,Paul George,1610612746,LA Clippers,4,4,54,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,125,226,1,1,20240112,MEM,LAC
+Shot Chart Detail,0022300537,569,202331,Paul George,1610612746,LA Clippers,4,4,13,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,47,47,1,1,20240112,MEM,LAC
+Shot Chart Detail,0022300553,205,202331,Paul George,1610612746,LA Clippers,2,6,7,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,222,8,1,1,20240114,MIN,LAC
+Shot Chart Detail,0022300553,300,202331,Paul George,1610612746,LA Clippers,3,10,15,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,8,1,1,20240114,MIN,LAC
+Shot Chart Detail,0022300553,372,202331,Paul George,1610612746,LA Clippers,3,5,12,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,13,1,1,20240114,MIN,LAC
+Shot Chart Detail,0022300553,434,202331,Paul George,1610612746,LA Clippers,3,0,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,10,249,1,1,20240114,MIN,LAC
+Shot Chart Detail,0022300553,516,202331,Paul George,1610612746,LA Clippers,4,7,32,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-224,32,1,1,20240114,MIN,LAC
+Shot Chart Detail,0022300568,72,202331,Paul George,1610612746,LA Clippers,1,5,45,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,154,3,1,1,20240116,LAC,OKC
+Shot Chart Detail,0022300568,240,202331,Paul George,1610612746,LA Clippers,2,5,19,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,17,1,1,20240116,LAC,OKC
+Shot Chart Detail,0022300568,278,202331,Paul George,1610612746,LA Clippers,2,2,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-141,213,1,1,20240116,LAC,OKC
+Shot Chart Detail,0022300568,285,202331,Paul George,1610612746,LA Clippers,2,1,46,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,186,-11,1,1,20240116,LAC,OKC
+Shot Chart Detail,0022300568,319,202331,Paul George,1610612746,LA Clippers,3,11,39,Made Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-58,131,1,1,20240116,LAC,OKC
+Shot Chart Detail,0022300568,342,202331,Paul George,1610612746,LA Clippers,3,9,22,Made Shot,Driving Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-1,37,1,1,20240116,LAC,OKC
+Shot Chart Detail,0022300568,396,202331,Paul George,1610612746,LA Clippers,3,5,46,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,240,39,1,1,20240116,LAC,OKC
+Shot Chart Detail,0022300568,409,202331,Paul George,1610612746,LA Clippers,3,4,57,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,4,1,1,20240116,LAC,OKC
+Shot Chart Detail,0022300568,541,202331,Paul George,1610612746,LA Clippers,4,8,4,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-110,41,1,1,20240116,LAC,OKC
+Shot Chart Detail,0022300568,569,202331,Paul George,1610612746,LA Clippers,4,5,51,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,29,1,1,20240116,LAC,OKC
+Shot Chart Detail,0022300568,577,202331,Paul George,1610612746,LA Clippers,4,4,56,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-2,32,1,1,20240116,LAC,OKC
+Shot Chart Detail,0022300568,607,202331,Paul George,1610612746,LA Clippers,4,3,21,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-43,84,1,1,20240116,LAC,OKC
+Shot Chart Detail,0022300568,622,202331,Paul George,1610612746,LA Clippers,4,2,29,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,29,100,274,1,1,20240116,LAC,OKC
+Shot Chart Detail,0022300568,630,202331,Paul George,1610612746,LA Clippers,4,1,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,188,196,1,1,20240116,LAC,OKC
+Shot Chart Detail,0022300568,634,202331,Paul George,1610612746,LA Clippers,4,1,14,Made Shot,Running Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,0,1,1,20240116,LAC,OKC
+Shot Chart Detail,0022300600,204,202331,Paul George,1610612746,LA Clippers,2,7,27,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,21,29,1,1,20240121,LAC,BKN
+Shot Chart Detail,0022300600,272,202331,Paul George,1610612746,LA Clippers,2,2,54,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,5,1,1,20240121,LAC,BKN
+Shot Chart Detail,0022300600,362,202331,Paul George,1610612746,LA Clippers,3,7,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,190,194,1,1,20240121,LAC,BKN
+Shot Chart Detail,0022300600,367,202331,Paul George,1610612746,LA Clippers,3,6,51,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-22,11,1,1,20240121,LAC,BKN
+Shot Chart Detail,0022300600,575,202331,Paul George,1610612746,LA Clippers,4,5,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-80,260,1,1,20240121,LAC,BKN
+Shot Chart Detail,0022300618,71,202331,Paul George,1610612746,LA Clippers,1,5,38,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,5,1,1,20240123,LAC,LAL
+Shot Chart Detail,0022300618,231,202331,Paul George,1610612746,LA Clippers,2,6,0,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,1,29,1,1,20240123,LAC,LAL
+Shot Chart Detail,0022300618,294,202331,Paul George,1610612746,LA Clippers,2,1,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,8,1,1,20240123,LAC,LAL
+Shot Chart Detail,0022300618,338,202331,Paul George,1610612746,LA Clippers,3,9,47,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,13,27,1,1,20240123,LAC,LAL
+Shot Chart Detail,0022300618,344,202331,Paul George,1610612746,LA Clippers,3,8,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-53,268,1,1,20240123,LAC,LAL
+Shot Chart Detail,0022300618,348,202331,Paul George,1610612746,LA Clippers,3,8,11,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,131,125,1,1,20240123,LAC,LAL
+Shot Chart Detail,0022300618,475,202331,Paul George,1610612746,LA Clippers,4,10,39,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,13,37,1,1,20240123,LAC,LAL
+Shot Chart Detail,0022300618,553,202331,Paul George,1610612746,LA Clippers,4,6,14,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,-1,1,1,20240123,LAC,LAL
+Shot Chart Detail,0022300637,47,202331,Paul George,1610612746,LA Clippers,1,7,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-174,41,1,1,20240126,TOR,LAC
+Shot Chart Detail,0022300637,243,202331,Paul George,1610612746,LA Clippers,2,6,24,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,20,1,1,20240126,TOR,LAC
+Shot Chart Detail,0022300637,281,202331,Paul George,1610612746,LA Clippers,2,3,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-9,258,1,1,20240126,TOR,LAC
+Shot Chart Detail,0022300637,314,202331,Paul George,1610612746,LA Clippers,2,0,51,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,96,244,1,1,20240126,TOR,LAC
+Shot Chart Detail,0022300637,350,202331,Paul George,1610612746,LA Clippers,3,10,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,43,258,1,1,20240126,TOR,LAC
+Shot Chart Detail,0022300637,370,202331,Paul George,1610612746,LA Clippers,3,8,46,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,13,1,1,20240126,TOR,LAC
+Shot Chart Detail,0022300646,9,202331,Paul George,1610612746,LA Clippers,1,11,35,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,21,193,1,1,20240127,BOS,LAC
+Shot Chart Detail,0022300646,310,202331,Paul George,1610612746,LA Clippers,2,0,38,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,22,1,1,20240127,BOS,LAC
+Shot Chart Detail,0022300646,336,202331,Paul George,1610612746,LA Clippers,3,11,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-217,174,1,1,20240127,BOS,LAC
+Shot Chart Detail,0022300646,362,202331,Paul George,1610612746,LA Clippers,3,8,22,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-1,31,1,1,20240127,BOS,LAC
+Shot Chart Detail,0022300646,480,202331,Paul George,1610612746,LA Clippers,3,0,32,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-124,241,1,1,20240127,BOS,LAC
+Shot Chart Detail,0022300658,66,202331,Paul George,1610612746,LA Clippers,1,6,31,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,7,1,1,20240129,CLE,LAC
+Shot Chart Detail,0022300658,359,202331,Paul George,1610612746,LA Clippers,3,9,57,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,11,1,1,20240129,CLE,LAC
+Shot Chart Detail,0022300658,568,202331,Paul George,1610612746,LA Clippers,4,6,54,Made Shot,Running Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,3,1,1,20240129,CLE,LAC
+Shot Chart Detail,0022300688,7,202331,Paul George,1610612746,LA Clippers,1,11,42,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-147,59,1,1,20240202,DET,LAC
+Shot Chart Detail,0022300688,181,202331,Paul George,1610612746,LA Clippers,2,9,9,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-92,170,1,1,20240202,DET,LAC
+Shot Chart Detail,0022300688,295,202331,Paul George,1610612746,LA Clippers,2,1,27,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,152,78,1,1,20240202,DET,LAC
+Shot Chart Detail,0022300688,388,202331,Paul George,1610612746,LA Clippers,3,6,34,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-126,146,1,1,20240202,DET,LAC
+Shot Chart Detail,0022300688,546,202331,Paul George,1610612746,LA Clippers,4,7,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-127,115,1,1,20240202,DET,LAC
+Shot Chart Detail,0022300688,564,202331,Paul George,1610612746,LA Clippers,4,6,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,38,240,1,1,20240202,DET,LAC
+Shot Chart Detail,0022300688,592,202331,Paul George,1610612746,LA Clippers,4,4,7,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,5,14,1,1,20240202,DET,LAC
+Shot Chart Detail,0022300688,600,202331,Paul George,1610612746,LA Clippers,4,3,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-150,195,1,1,20240202,DET,LAC
+Shot Chart Detail,0022300708,28,202331,Paul George,1610612746,LA Clippers,1,9,46,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,119,239,1,1,20240204,MIA,LAC
+Shot Chart Detail,0022300708,225,202331,Paul George,1610612746,LA Clippers,2,3,31,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-45,256,1,1,20240204,MIA,LAC
+Shot Chart Detail,0022300708,455,202331,Paul George,1610612746,LA Clippers,4,8,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,232,88,1,1,20240204,MIA,LAC
+Shot Chart Detail,0022300716,12,202331,Paul George,1610612746,LA Clippers,1,10,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-169,-5,1,1,20240205,ATL,LAC
+Shot Chart Detail,0022300716,42,202331,Paul George,1610612746,LA Clippers,1,7,37,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-62,252,1,1,20240205,ATL,LAC
+Shot Chart Detail,0022300716,198,202331,Paul George,1610612746,LA Clippers,2,6,48,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,6,1,1,20240205,ATL,LAC
+Shot Chart Detail,0022300716,253,202331,Paul George,1610612746,LA Clippers,2,3,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,82,175,1,1,20240205,ATL,LAC
+Shot Chart Detail,0022300716,326,202331,Paul George,1610612746,LA Clippers,3,10,23,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,233,69,1,1,20240205,ATL,LAC
+Shot Chart Detail,0022300716,362,202331,Paul George,1610612746,LA Clippers,3,6,38,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,6,1,1,20240205,ATL,LAC
+Shot Chart Detail,0022300716,566,202331,Paul George,1610612746,LA Clippers,4,6,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,179,180,1,1,20240205,ATL,LAC
+Shot Chart Detail,0022300731,337,202331,Paul George,1610612746,LA Clippers,3,9,11,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-97,169,1,1,20240207,LAC,NOP
+Shot Chart Detail,0022300731,415,202331,Paul George,1610612746,LA Clippers,3,3,42,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,15,164,1,1,20240207,LAC,NOP
+Shot Chart Detail,0022300731,553,202331,Paul George,1610612746,LA Clippers,4,6,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,84,201,1,1,20240207,LAC,NOP
+Shot Chart Detail,0022300749,15,202331,Paul George,1610612746,LA Clippers,1,11,33,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-4,34,1,1,20240210,LAC,DET
+Shot Chart Detail,0022300749,23,202331,Paul George,1610612746,LA Clippers,1,10,16,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-37,215,1,1,20240210,LAC,DET
+Shot Chart Detail,0022300749,192,202331,Paul George,1610612746,LA Clippers,2,8,48,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,5,1,1,20240210,LAC,DET
+Shot Chart Detail,0022300749,204,202331,Paul George,1610612746,LA Clippers,2,7,53,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-109,-10,1,1,20240210,LAC,DET
+Shot Chart Detail,0022300749,230,202331,Paul George,1610612746,LA Clippers,2,6,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-125,168,1,1,20240210,LAC,DET
+Shot Chart Detail,0022300749,253,202331,Paul George,1610612746,LA Clippers,2,4,28,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-107,238,1,1,20240210,LAC,DET
+Shot Chart Detail,0022300749,337,202331,Paul George,1610612746,LA Clippers,3,8,44,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,48,108,1,1,20240210,LAC,DET
+Shot Chart Detail,0022300749,345,202331,Paul George,1610612746,LA Clippers,3,8,0,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,121,222,1,1,20240210,LAC,DET
+Shot Chart Detail,0022300749,473,202331,Paul George,1610612746,LA Clippers,4,11,7,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-32,10,1,1,20240210,LAC,DET
+Shot Chart Detail,0022300749,482,202331,Paul George,1610612746,LA Clippers,4,9,59,Made Shot,Running Pull-Up Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,13,-80,113,1,1,20240210,LAC,DET
+Shot Chart Detail,0022300749,550,202331,Paul George,1610612746,LA Clippers,4,5,47,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,9,1,1,20240210,LAC,DET
+Shot Chart Detail,0022300749,583,202331,Paul George,1610612746,LA Clippers,4,4,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,150,218,1,1,20240210,LAC,DET
+Shot Chart Detail,0022300749,587,202331,Paul George,1610612746,LA Clippers,4,3,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,48,260,1,1,20240210,LAC,DET
+Shot Chart Detail,0022300749,608,202331,Paul George,1610612746,LA Clippers,4,1,9,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,22,1,1,20240210,LAC,DET
+Shot Chart Detail,0022300770,221,202331,Paul George,1610612746,LA Clippers,2,6,40,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-20,109,1,1,20240212,LAC,MIN
+Shot Chart Detail,0022300770,240,202331,Paul George,1610612746,LA Clippers,2,4,53,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,135,147,1,1,20240212,LAC,MIN
+Shot Chart Detail,0022300770,302,202331,Paul George,1610612746,LA Clippers,2,0,25,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,110,244,1,1,20240212,LAC,MIN
+Shot Chart Detail,0022300770,364,202331,Paul George,1610612746,LA Clippers,3,7,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-192,151,1,1,20240212,LAC,MIN
+Shot Chart Detail,0022300770,419,202331,Paul George,1610612746,LA Clippers,3,3,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-22,16,1,1,20240212,LAC,MIN
+Shot Chart Detail,0022300789,48,202331,Paul George,1610612746,LA Clippers,1,7,20,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-118,149,1,1,20240214,GSW,LAC
+Shot Chart Detail,0022300789,60,202331,Paul George,1610612746,LA Clippers,1,5,57,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,69,158,1,1,20240214,GSW,LAC
+Shot Chart Detail,0022300789,74,202331,Paul George,1610612746,LA Clippers,1,5,16,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-11,264,1,1,20240214,GSW,LAC
+Shot Chart Detail,0022300789,348,202331,Paul George,1610612746,LA Clippers,3,11,48,Made Shot,Reverse Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-22,71,1,1,20240214,GSW,LAC
+Shot Chart Detail,0022300789,365,202331,Paul George,1610612746,LA Clippers,3,9,51,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-15,62,1,1,20240214,GSW,LAC
+Shot Chart Detail,0022300789,434,202331,Paul George,1610612746,LA Clippers,3,5,16,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,32,43,1,1,20240214,GSW,LAC
+Shot Chart Detail,0022300789,592,202331,Paul George,1610612746,LA Clippers,4,8,27,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,29,43,1,1,20240214,GSW,LAC
+Shot Chart Detail,0022300789,625,202331,Paul George,1610612746,LA Clippers,4,6,35,Made Shot,Cutting Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-18,55,1,1,20240214,GSW,LAC
+Shot Chart Detail,0022300799,48,202331,Paul George,1610612746,LA Clippers,1,7,24,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,11,113,1,1,20240222,OKC,LAC
+Shot Chart Detail,0022300799,61,202331,Paul George,1610612746,LA Clippers,1,6,12,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,-4,1,1,20240222,OKC,LAC
+Shot Chart Detail,0022300799,269,202331,Paul George,1610612746,LA Clippers,2,3,49,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,-12,1,1,20240222,OKC,LAC
+Shot Chart Detail,0022300799,376,202331,Paul George,1610612746,LA Clippers,3,7,26,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,48,146,1,1,20240222,OKC,LAC
+Shot Chart Detail,0022300799,509,202331,Paul George,1610612746,LA Clippers,4,10,51,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,11,1,1,20240222,OKC,LAC
+Shot Chart Detail,0022300799,567,202331,Paul George,1610612746,LA Clippers,4,6,8,Made Shot,Running Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,227,43,1,1,20240222,OKC,LAC
+Shot Chart Detail,0022300807,79,202331,Paul George,1610612746,LA Clippers,1,4,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-20,251,1,1,20240223,MEM,LAC
+Shot Chart Detail,0022300807,305,202331,Paul George,1610612746,LA Clippers,2,1,40,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,60,246,1,1,20240223,MEM,LAC
+Shot Chart Detail,0022300807,502,202331,Paul George,1610612746,LA Clippers,4,11,12,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-71,127,1,1,20240223,MEM,LAC
+Shot Chart Detail,0022300807,545,202331,Paul George,1610612746,LA Clippers,4,7,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,13,263,1,1,20240223,MEM,LAC
+Shot Chart Detail,0022300807,602,202331,Paul George,1610612746,LA Clippers,4,3,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-32,257,1,1,20240223,MEM,LAC
+Shot Chart Detail,0022300865,8,202331,Paul George,1610612746,LA Clippers,1,11,40,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,7,25,1,1,20240301,LAC,WAS
+Shot Chart Detail,0022300865,39,202331,Paul George,1610612746,LA Clippers,1,8,39,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-17,17,1,1,20240301,LAC,WAS
+Shot Chart Detail,0022300865,55,202331,Paul George,1610612746,LA Clippers,1,6,55,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,135,127,1,1,20240301,LAC,WAS
+Shot Chart Detail,0022300865,72,202331,Paul George,1610612746,LA Clippers,1,5,57,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-83,146,1,1,20240301,LAC,WAS
+Shot Chart Detail,0022300865,79,202331,Paul George,1610612746,LA Clippers,1,4,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-140,218,1,1,20240301,LAC,WAS
+Shot Chart Detail,0022300865,238,202331,Paul George,1610612746,LA Clippers,2,5,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-123,241,1,1,20240301,LAC,WAS
+Shot Chart Detail,0022300865,295,202331,Paul George,1610612746,LA Clippers,2,1,22,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,32,108,1,1,20240301,LAC,WAS
+Shot Chart Detail,0022300865,557,202331,Paul George,1610612746,LA Clippers,4,7,22,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,103,172,1,1,20240301,LAC,WAS
+Shot Chart Detail,0022300873,155,202331,Paul George,1610612746,LA Clippers,2,10,26,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-5,246,1,1,20240303,MIN,LAC
+Shot Chart Detail,0022300873,169,202331,Paul George,1610612746,LA Clippers,2,8,58,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,49,247,1,1,20240303,MIN,LAC
+Shot Chart Detail,0022300873,451,202331,Paul George,1610612746,LA Clippers,4,10,54,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-136,124,1,1,20240303,MIN,LAC
+Shot Chart Detail,0022300873,483,202331,Paul George,1610612746,LA Clippers,4,8,3,Made Shot,Step Back Jump shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-228,32,1,1,20240303,MIN,LAC
+Shot Chart Detail,0022300873,497,202331,Paul George,1610612746,LA Clippers,4,6,48,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,9,180,1,1,20240303,MIN,LAC
+Shot Chart Detail,0022300880,13,202331,Paul George,1610612746,LA Clippers,1,11,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,153,221,1,1,20240304,MIL,LAC
+Shot Chart Detail,0022300880,43,202331,Paul George,1610612746,LA Clippers,1,7,51,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,120,126,1,1,20240304,MIL,LAC
+Shot Chart Detail,0022300880,63,202331,Paul George,1610612746,LA Clippers,1,5,55,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,124,225,1,1,20240304,MIL,LAC
+Shot Chart Detail,0022300880,145,202331,Paul George,1610612746,LA Clippers,2,11,4,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,66,129,1,1,20240304,MIL,LAC
+Shot Chart Detail,0022300880,159,202331,Paul George,1610612746,LA Clippers,2,9,15,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-142,-6,1,1,20240304,MIL,LAC
+Shot Chart Detail,0022300880,175,202331,Paul George,1610612746,LA Clippers,2,7,31,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,15,29,1,1,20240304,MIL,LAC
+Shot Chart Detail,0022300880,358,202331,Paul George,1610612746,LA Clippers,3,6,42,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,-5,1,1,20240304,MIL,LAC
+Shot Chart Detail,0022300880,556,202331,Paul George,1610612746,LA Clippers,4,5,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,167,202,1,1,20240304,MIL,LAC
+Shot Chart Detail,0022300880,618,202331,Paul George,1610612746,LA Clippers,4,0,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-108,248,1,1,20240304,MIL,LAC
+Shot Chart Detail,0022300880,625,202331,Paul George,1610612746,LA Clippers,4,0,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,150,220,1,1,20240304,MIL,LAC
+Shot Chart Detail,0022300897,156,202331,Paul George,1610612746,LA Clippers,2,10,54,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,93,42,1,1,20240306,HOU,LAC
+Shot Chart Detail,0022300897,317,202331,Paul George,1610612746,LA Clippers,3,11,10,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-17,146,1,1,20240306,HOU,LAC
+Shot Chart Detail,0022300897,334,202331,Paul George,1610612746,LA Clippers,3,8,47,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,136,209,1,1,20240306,HOU,LAC
+Shot Chart Detail,0022300897,357,202331,Paul George,1610612746,LA Clippers,3,6,21,Made Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,47,126,1,1,20240306,HOU,LAC
+Shot Chart Detail,0022300897,377,202331,Paul George,1610612746,LA Clippers,3,4,58,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,19,1,1,20240306,HOU,LAC
+Shot Chart Detail,0022300897,498,202331,Paul George,1610612746,LA Clippers,4,7,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-137,216,1,1,20240306,HOU,LAC
+Shot Chart Detail,0022300897,570,202331,Paul George,1610612746,LA Clippers,4,2,48,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-229,41,1,1,20240306,HOU,LAC
+Shot Chart Detail,0022300917,56,202331,Paul George,1610612746,LA Clippers,1,6,47,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-181,163,1,1,20240309,LAC,CHI
+Shot Chart Detail,0022300917,74,202331,Paul George,1610612746,LA Clippers,1,5,4,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,112,132,1,1,20240309,LAC,CHI
+Shot Chart Detail,0022300917,170,202331,Paul George,1610612746,LA Clippers,2,10,27,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,-1,1,1,20240309,LAC,CHI
+Shot Chart Detail,0022300917,317,202331,Paul George,1610612746,LA Clippers,2,0,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-174,193,1,1,20240309,LAC,CHI
+Shot Chart Detail,0022300917,354,202331,Paul George,1610612746,LA Clippers,3,8,42,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,13,-76,116,1,1,20240309,LAC,CHI
+Shot Chart Detail,0022300917,389,202331,Paul George,1610612746,LA Clippers,3,5,46,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-116,5,1,1,20240309,LAC,CHI
+Shot Chart Detail,0022300917,403,202331,Paul George,1610612746,LA Clippers,3,4,38,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,-2,1,1,20240309,LAC,CHI
+Shot Chart Detail,0022300917,580,202331,Paul George,1610612746,LA Clippers,4,4,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,6,1,1,20240309,LAC,CHI
+Shot Chart Detail,0022300944,26,202331,Paul George,1610612746,LA Clippers,1,9,36,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,2,257,1,1,20240312,LAC,MIN
+Shot Chart Detail,0022300944,96,202331,Paul George,1610612746,LA Clippers,1,3,51,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,10,21,1,1,20240312,LAC,MIN
+Shot Chart Detail,0022300944,289,202331,Paul George,1610612746,LA Clippers,2,2,55,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,72,75,1,1,20240312,LAC,MIN
+Shot Chart Detail,0022300944,350,202331,Paul George,1610612746,LA Clippers,3,10,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-134,206,1,1,20240312,LAC,MIN
+Shot Chart Detail,0022300944,548,202331,Paul George,1610612746,LA Clippers,4,4,52,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,60,101,1,1,20240312,LAC,MIN
+Shot Chart Detail,0022300956,16,202331,Paul George,1610612746,LA Clippers,1,10,19,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,-2,1,1,20240314,CHI,LAC
+Shot Chart Detail,0022300956,65,202331,Paul George,1610612746,LA Clippers,1,5,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,141,206,1,1,20240314,CHI,LAC
+Shot Chart Detail,0022300956,73,202331,Paul George,1610612746,LA Clippers,1,4,56,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,12,182,1,1,20240314,CHI,LAC
+Shot Chart Detail,0022300956,84,202331,Paul George,1610612746,LA Clippers,1,4,14,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,94,169,1,1,20240314,CHI,LAC
+Shot Chart Detail,0022300956,90,202331,Paul George,1610612746,LA Clippers,1,3,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-230,103,1,1,20240314,CHI,LAC
+Shot Chart Detail,0022300956,113,202331,Paul George,1610612746,LA Clippers,1,1,34,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,154,197,1,1,20240314,CHI,LAC
+Shot Chart Detail,0022300956,296,202331,Paul George,1610612746,LA Clippers,3,11,40,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-27,188,1,1,20240314,CHI,LAC
+Shot Chart Detail,0022300956,308,202331,Paul George,1610612746,LA Clippers,3,10,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-40,260,1,1,20240314,CHI,LAC
+Shot Chart Detail,0022300956,478,202331,Paul George,1610612746,LA Clippers,4,7,32,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,94,2,1,1,20240314,CHI,LAC
+Shot Chart Detail,0022300956,484,202331,Paul George,1610612746,LA Clippers,4,7,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,161,197,1,1,20240314,CHI,LAC
+Shot Chart Detail,0022300956,521,202331,Paul George,1610612746,LA Clippers,4,3,56,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-229,36,1,1,20240314,CHI,LAC
+Shot Chart Detail,0022300964,13,202331,Paul George,1610612746,LA Clippers,1,10,54,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-1,97,1,1,20240315,NOP,LAC
+Shot Chart Detail,0022300964,93,202331,Paul George,1610612746,LA Clippers,1,3,43,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-65,195,1,1,20240315,NOP,LAC
+Shot Chart Detail,0022300964,96,202331,Paul George,1610612746,LA Clippers,1,3,10,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,-3,1,1,20240315,NOP,LAC
+Shot Chart Detail,0022300964,159,202331,Paul George,1610612746,LA Clippers,2,10,32,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,97,6,1,1,20240315,NOP,LAC
+Shot Chart Detail,0022300964,165,202331,Paul George,1610612746,LA Clippers,2,10,8,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,107,115,1,1,20240315,NOP,LAC
+Shot Chart Detail,0022300964,194,202331,Paul George,1610612746,LA Clippers,2,7,44,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,154,204,1,1,20240315,NOP,LAC
+Shot Chart Detail,0022300964,293,202331,Paul George,1610612746,LA Clippers,2,0,54,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-125,123,1,1,20240315,NOP,LAC
+Shot Chart Detail,0022300964,523,202331,Paul George,1610612746,LA Clippers,4,8,24,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,202,143,1,1,20240315,NOP,LAC
+Shot Chart Detail,0022300964,526,202331,Paul George,1610612746,LA Clippers,4,7,54,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,25,256,1,1,20240315,NOP,LAC
+Shot Chart Detail,0022300964,561,202331,Paul George,1610612746,LA Clippers,4,4,46,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-77,145,1,1,20240315,NOP,LAC
+Shot Chart Detail,0022300982,79,202331,Paul George,1610612746,LA Clippers,1,5,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-216,152,1,1,20240317,LAC,ATL
+Shot Chart Detail,0022300982,104,202331,Paul George,1610612746,LA Clippers,1,3,57,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,9,1,1,20240317,LAC,ATL
+Shot Chart Detail,0022300982,245,202331,Paul George,1610612746,LA Clippers,2,5,42,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,14,1,1,20240317,LAC,ATL
+Shot Chart Detail,0022300982,306,202331,Paul George,1610612746,LA Clippers,2,1,12,Made Shot,Running Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,9,1,1,20240317,LAC,ATL
+Shot Chart Detail,0022300982,337,202331,Paul George,1610612746,LA Clippers,3,10,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,138,230,1,1,20240317,LAC,ATL
+Shot Chart Detail,0022300982,341,202331,Paul George,1610612746,LA Clippers,3,9,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,235,106,1,1,20240317,LAC,ATL
+Shot Chart Detail,0022300982,490,202331,Paul George,1610612746,LA Clippers,4,10,34,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,18,1,1,20240317,LAC,ATL
+Shot Chart Detail,0022300982,547,202331,Paul George,1610612746,LA Clippers,4,6,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-88,239,1,1,20240317,LAC,ATL
+Shot Chart Detail,0022300982,568,202331,Paul George,1610612746,LA Clippers,4,3,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-2,34,1,1,20240317,LAC,ATL
+Shot Chart Detail,0022301003,28,202331,Paul George,1610612746,LA Clippers,1,9,26,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,11,23,1,1,20240320,POR,LAC
+Shot Chart Detail,0022301003,54,202331,Paul George,1610612746,LA Clippers,1,5,52,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,15,-76,137,1,1,20240320,POR,LAC
+Shot Chart Detail,0022301003,140,202331,Paul George,1610612746,LA Clippers,2,11,40,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,46,1,1,20240320,POR,LAC
+Shot Chart Detail,0022301003,231,202331,Paul George,1610612746,LA Clippers,2,3,30,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,45,137,1,1,20240320,POR,LAC
+Shot Chart Detail,0022301003,258,202331,Paul George,1610612746,LA Clippers,2,0,10,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,55,267,1,1,20240320,POR,LAC
+Shot Chart Detail,0022301003,414,202331,Paul George,1610612746,LA Clippers,3,1,10,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,10,157,1,1,20240320,POR,LAC
+Shot Chart Detail,0022301003,435,202331,Paul George,1610612746,LA Clippers,4,11,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-104,230,1,1,20240320,POR,LAC
+Shot Chart Detail,0022301003,471,202331,Paul George,1610612746,LA Clippers,4,9,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,134,80,1,1,20240320,POR,LAC
+Shot Chart Detail,0022301003,480,202331,Paul George,1610612746,LA Clippers,4,8,20,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,11,1,1,20240320,POR,LAC
+Shot Chart Detail,0022301003,484,202331,Paul George,1610612746,LA Clippers,4,7,32,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,43,250,1,1,20240320,POR,LAC
+Shot Chart Detail,0022301017,35,202331,Paul George,1610612746,LA Clippers,1,9,12,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,17,1,1,20240322,POR,LAC
+Shot Chart Detail,0022301017,42,202331,Paul George,1610612746,LA Clippers,1,8,35,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,11,1,1,20240322,POR,LAC
+Shot Chart Detail,0022301017,46,202331,Paul George,1610612746,LA Clippers,1,8,11,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,9,23,1,1,20240322,POR,LAC
+Shot Chart Detail,0022301017,172,202331,Paul George,1610612746,LA Clippers,2,11,35,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-10,118,1,1,20240322,POR,LAC
+Shot Chart Detail,0022301017,283,202331,Paul George,1610612746,LA Clippers,2,1,55,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-89,251,1,1,20240322,POR,LAC
+Shot Chart Detail,0022301017,305,202331,Paul George,1610612746,LA Clippers,2,0,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-148,246,1,1,20240322,POR,LAC
+Shot Chart Detail,0022301017,339,202331,Paul George,1610612746,LA Clippers,3,10,56,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,107,237,1,1,20240322,POR,LAC
+Shot Chart Detail,0022301017,360,202331,Paul George,1610612746,LA Clippers,3,9,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,40,188,1,1,20240322,POR,LAC
+Shot Chart Detail,0022301017,364,202331,Paul George,1610612746,LA Clippers,3,8,57,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-38,100,1,1,20240322,POR,LAC
+Shot Chart Detail,0022301017,403,202331,Paul George,1610612746,LA Clippers,3,6,49,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-7,182,1,1,20240322,POR,LAC
+Shot Chart Detail,0022301028,42,202331,Paul George,1610612746,LA Clippers,1,8,7,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,147,93,1,1,20240324,LAC,PHI
+Shot Chart Detail,0022301028,80,202331,Paul George,1610612746,LA Clippers,1,4,5,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-26,14,1,1,20240324,LAC,PHI
+Shot Chart Detail,0022301028,220,202331,Paul George,1610612746,LA Clippers,2,6,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,64,242,1,1,20240324,LAC,PHI
+Shot Chart Detail,0022301028,300,202331,Paul George,1610612746,LA Clippers,3,11,3,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,2,20,1,1,20240324,LAC,PHI
+Shot Chart Detail,0022301028,314,202331,Paul George,1610612746,LA Clippers,3,9,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-75,253,1,1,20240324,LAC,PHI
+Shot Chart Detail,0022301028,340,202331,Paul George,1610612746,LA Clippers,3,7,17,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,17,1,1,20240324,LAC,PHI
+Shot Chart Detail,0022301028,347,202331,Paul George,1610612746,LA Clippers,3,6,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,158,193,1,1,20240324,LAC,PHI
+Shot Chart Detail,0022301043,11,202331,Paul George,1610612746,LA Clippers,1,10,54,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-25,154,1,1,20240325,LAC,IND
+Shot Chart Detail,0022301043,14,202331,Paul George,1610612746,LA Clippers,1,10,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,125,137,1,1,20240325,LAC,IND
+Shot Chart Detail,0022301043,22,202331,Paul George,1610612746,LA Clippers,1,9,25,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,92,155,1,1,20240325,LAC,IND
+Shot Chart Detail,0022301043,176,202331,Paul George,1610612746,LA Clippers,2,9,48,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-16,164,1,1,20240325,LAC,IND
+Shot Chart Detail,0022301043,203,202331,Paul George,1610612746,LA Clippers,2,7,30,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,74,274,1,1,20240325,LAC,IND
+Shot Chart Detail,0022301043,239,202331,Paul George,1610612746,LA Clippers,2,4,50,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1,18,1,1,20240325,LAC,IND
+Shot Chart Detail,0022301043,404,202331,Paul George,1610612746,LA Clippers,3,4,17,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,12,135,1,1,20240325,LAC,IND
+Shot Chart Detail,0022301043,518,202331,Paul George,1610612746,LA Clippers,4,9,8,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,1,1,1,20240325,LAC,IND
+Shot Chart Detail,0022301043,561,202331,Paul George,1610612746,LA Clippers,4,5,14,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,14,1,1,20240325,LAC,IND
+Shot Chart Detail,0022301043,577,202331,Paul George,1610612746,LA Clippers,4,3,55,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,113,176,1,1,20240325,LAC,IND
+Shot Chart Detail,0022301043,579,202331,Paul George,1610612746,LA Clippers,4,3,23,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,172,73,1,1,20240325,LAC,IND
+Shot Chart Detail,0022301043,582,202331,Paul George,1610612746,LA Clippers,4,2,54,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,229,131,1,1,20240325,LAC,IND
+Shot Chart Detail,0022301052,57,202331,Paul George,1610612746,LA Clippers,1,6,4,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,25,-238,77,1,1,20240327,PHI,LAC
+Shot Chart Detail,0022301052,329,202331,Paul George,1610612746,LA Clippers,3,11,43,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-105,242,1,1,20240327,PHI,LAC
+Shot Chart Detail,0022301052,341,202331,Paul George,1610612746,LA Clippers,3,10,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,88,262,1,1,20240327,PHI,LAC
+Shot Chart Detail,0022301052,480,202331,Paul George,1610612746,LA Clippers,4,10,45,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,29,268,1,1,20240327,PHI,LAC
+Shot Chart Detail,0022301052,507,202331,Paul George,1610612746,LA Clippers,4,8,20,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-27,80,1,1,20240327,PHI,LAC
+Shot Chart Detail,0022301052,514,202331,Paul George,1610612746,LA Clippers,4,7,52,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,15,1,1,20240327,PHI,LAC
+Shot Chart Detail,0022301052,540,202331,Paul George,1610612746,LA Clippers,4,5,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-175,201,1,1,20240327,PHI,LAC
+Shot Chart Detail,0022301064,55,202331,Paul George,1610612746,LA Clippers,1,6,18,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,15,1,1,20240329,ORL,LAC
+Shot Chart Detail,0022301064,584,202331,Paul George,1610612746,LA Clippers,4,4,15,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,11,17,1,1,20240329,ORL,LAC
+Shot Chart Detail,0022301064,588,202331,Paul George,1610612746,LA Clippers,4,3,49,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,115,247,1,1,20240329,ORL,LAC
+Shot Chart Detail,0022301064,630,202331,Paul George,1610612746,LA Clippers,4,0,5,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-32,69,1,1,20240329,ORL,LAC
+Shot Chart Detail,0022301079,54,202331,Paul George,1610612746,LA Clippers,1,6,46,Made Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,4,116,1,1,20240331,CHA,LAC
+Shot Chart Detail,0022301079,65,202331,Paul George,1610612746,LA Clippers,1,4,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,170,202,1,1,20240331,CHA,LAC
+Shot Chart Detail,0022301079,134,202331,Paul George,1610612746,LA Clippers,2,11,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,173,204,1,1,20240331,CHA,LAC
+Shot Chart Detail,0022301079,138,202331,Paul George,1610612746,LA Clippers,2,11,8,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-18,79,1,1,20240331,CHA,LAC
+Shot Chart Detail,0022301079,155,202331,Paul George,1610612746,LA Clippers,2,9,32,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,97,241,1,1,20240331,CHA,LAC
+Shot Chart Detail,0022301079,174,202331,Paul George,1610612746,LA Clippers,2,7,50,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,127,223,1,1,20240331,CHA,LAC
+Shot Chart Detail,0022301079,191,202331,Paul George,1610612746,LA Clippers,2,6,48,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-12,200,1,1,20240331,CHA,LAC
+Shot Chart Detail,0022301079,201,202331,Paul George,1610612746,LA Clippers,2,6,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,5,260,1,1,20240331,CHA,LAC
+Shot Chart Detail,0022301079,311,202331,Paul George,1610612746,LA Clippers,3,10,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-156,201,1,1,20240331,CHA,LAC
+Shot Chart Detail,0022301079,380,202331,Paul George,1610612746,LA Clippers,3,4,9,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,229,24,1,1,20240331,CHA,LAC
+Shot Chart Detail,0022301079,452,202331,Paul George,1610612746,LA Clippers,4,10,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-27,260,1,1,20240331,CHA,LAC
+Shot Chart Detail,0022301079,465,202331,Paul George,1610612746,LA Clippers,4,9,40,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,1,1,1,20240331,CHA,LAC
+Shot Chart Detail,0022301079,492,202331,Paul George,1610612746,LA Clippers,4,7,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,143,83,1,1,20240331,CHA,LAC
+Shot Chart Detail,0022301079,522,202331,Paul George,1610612746,LA Clippers,4,4,50,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,1,1,1,20240331,CHA,LAC
+Shot Chart Detail,0022301101,74,202331,Paul George,1610612746,LA Clippers,1,6,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-154,214,1,1,20240402,SAC,LAC
+Shot Chart Detail,0022301101,93,202331,Paul George,1610612746,LA Clippers,1,5,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-109,242,1,1,20240402,SAC,LAC
+Shot Chart Detail,0022301101,289,202331,Paul George,1610612746,LA Clippers,2,3,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-7,31,1,1,20240402,SAC,LAC
+Shot Chart Detail,0022301101,330,202331,Paul George,1610612746,LA Clippers,2,0,47,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,96,146,1,1,20240402,SAC,LAC
+Shot Chart Detail,0022301101,477,202331,Paul George,1610612746,LA Clippers,3,1,30,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-124,76,1,1,20240402,SAC,LAC
+Shot Chart Detail,0022301114,28,202331,Paul George,1610612746,LA Clippers,1,9,35,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,70,126,1,1,20240404,LAC,DEN
+Shot Chart Detail,0022301114,89,202331,Paul George,1610612746,LA Clippers,1,5,40,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,12,17,1,1,20240404,LAC,DEN
+Shot Chart Detail,0022301114,118,202331,Paul George,1610612746,LA Clippers,1,3,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,141,93,1,1,20240404,LAC,DEN
+Shot Chart Detail,0022301114,143,202331,Paul George,1610612746,LA Clippers,1,1,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,138,216,1,1,20240404,LAC,DEN
+Shot Chart Detail,0022301114,344,202331,Paul George,1610612746,LA Clippers,3,10,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-178,194,1,1,20240404,LAC,DEN
+Shot Chart Detail,0022301114,358,202331,Paul George,1610612746,LA Clippers,3,9,21,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,60,155,1,1,20240404,LAC,DEN
+Shot Chart Detail,0022301114,362,202331,Paul George,1610612746,LA Clippers,3,8,39,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,48,118,1,1,20240404,LAC,DEN
+Shot Chart Detail,0022301114,365,202331,Paul George,1610612746,LA Clippers,3,7,53,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,18,1,1,20240404,LAC,DEN
+Shot Chart Detail,0022301114,590,202331,Paul George,1610612746,LA Clippers,4,5,10,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,0,32,1,1,20240404,LAC,DEN
+Shot Chart Detail,0022301114,593,202331,Paul George,1610612746,LA Clippers,4,4,28,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,26,112,1,1,20240404,LAC,DEN
+Shot Chart Detail,0022301126,7,202331,Paul George,1610612746,LA Clippers,1,11,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,205,167,1,1,20240405,LAC,UTA
+Shot Chart Detail,0022301126,28,202331,Paul George,1610612746,LA Clippers,1,9,19,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-104,144,1,1,20240405,LAC,UTA
+Shot Chart Detail,0022301126,40,202331,Paul George,1610612746,LA Clippers,1,8,29,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,6,158,1,1,20240405,LAC,UTA
+Shot Chart Detail,0022301126,42,202331,Paul George,1610612746,LA Clippers,1,7,50,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,10,196,1,1,20240405,LAC,UTA
+Shot Chart Detail,0022301126,54,202331,Paul George,1610612746,LA Clippers,1,7,2,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,82,239,1,1,20240405,LAC,UTA
+Shot Chart Detail,0022301132,42,202331,Paul George,1610612746,LA Clippers,1,8,43,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,62,127,1,1,20240407,LAC,CLE
+Shot Chart Detail,0022301132,146,202331,Paul George,1610612746,LA Clippers,1,1,17,Made Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,70,81,1,1,20240407,LAC,CLE
+Shot Chart Detail,0022301132,346,202331,Paul George,1610612746,LA Clippers,2,0,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,151,220,1,1,20240407,LAC,CLE
+Shot Chart Detail,0022301132,371,202331,Paul George,1610612746,LA Clippers,3,10,32,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,121,34,1,1,20240407,LAC,CLE
+Shot Chart Detail,0022301132,515,202331,Paul George,1610612746,LA Clippers,4,11,0,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-20,25,1,1,20240407,LAC,CLE
+Shot Chart Detail,0022301132,536,202331,Paul George,1610612746,LA Clippers,4,9,52,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,18,263,1,1,20240407,LAC,CLE
+Shot Chart Detail,0022301132,565,202331,Paul George,1610612746,LA Clippers,4,7,19,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-184,175,1,1,20240407,LAC,CLE
+Shot Chart Detail,0022301132,600,202331,Paul George,1610612746,LA Clippers,4,4,8,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,7,1,1,20240407,LAC,CLE
+Shot Chart Detail,0022301132,628,202331,Paul George,1610612746,LA Clippers,4,2,5,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,148,75,1,1,20240407,LAC,CLE
+Shot Chart Detail,0022301132,661,202331,Paul George,1610612746,LA Clippers,4,0,7,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,106,81,1,1,20240407,LAC,CLE
+Shot Chart Detail,0022301156,31,202331,Paul George,1610612746,LA Clippers,1,9,57,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,147,199,1,1,20240409,PHX,LAC
+Shot Chart Detail,0022301156,48,202331,Paul George,1610612746,LA Clippers,1,8,17,Made Shot,Step Back Jump shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-227,44,1,1,20240409,PHX,LAC
+Shot Chart Detail,0022301156,126,202331,Paul George,1610612746,LA Clippers,1,2,34,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,93,122,1,1,20240409,PHX,LAC
+Shot Chart Detail,0022301156,135,202331,Paul George,1610612746,LA Clippers,1,2,1,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,112,246,1,1,20240409,PHX,LAC
+Shot Chart Detail,0022301156,338,202331,Paul George,1610612746,LA Clippers,3,10,39,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,10,22,1,1,20240409,PHX,LAC
+Shot Chart Detail,0022301156,558,202331,Paul George,1610612746,LA Clippers,4,7,18,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-94,146,1,1,20240409,PHX,LAC
+Shot Chart Detail,0022301156,596,202331,Paul George,1610612746,LA Clippers,4,5,3,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,109,147,1,1,20240409,PHX,LAC
+Shot Chart Detail,0022301184,14,202331,Paul George,1610612746,LA Clippers,1,11,5,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-39,252,1,1,20240412,LAC,UTA
+Shot Chart Detail,0022301184,29,202331,Paul George,1610612746,LA Clippers,1,9,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-237,96,1,1,20240412,LAC,UTA
+Shot Chart Detail,0022301184,83,202331,Paul George,1610612746,LA Clippers,1,5,11,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,39,29,1,1,20240412,LAC,UTA
+Shot Chart Detail,0022301215,69,202331,Paul George,1610612746,LA Clippers,1,4,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-104,239,1,1,20231206,LAC,DEN
+Shot Chart Detail,0022301215,189,202331,Paul George,1610612746,LA Clippers,2,9,40,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-20,29,1,1,20231206,LAC,DEN
+Shot Chart Detail,0022301215,266,202331,Paul George,1610612746,LA Clippers,2,4,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,157,197,1,1,20231206,LAC,DEN
+Shot Chart Detail,0022301215,340,202331,Paul George,1610612746,LA Clippers,3,10,52,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-16,176,1,1,20231206,LAC,DEN
+Shot Chart Detail,0022301215,358,202331,Paul George,1610612746,LA Clippers,3,8,42,Made Shot,Driving Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-17,37,1,1,20231206,LAC,DEN
+Shot Chart Detail,0022301215,409,202331,Paul George,1610612746,LA Clippers,3,3,47,Made Shot,Turnaround Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-205,163,1,1,20231206,LAC,DEN
+Shot Chart Detail,0022301215,509,202331,Paul George,1610612746,LA Clippers,4,9,35,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-25,280,1,1,20231206,LAC,DEN
+Shot Chart Detail,0022301215,512,202331,Paul George,1610612746,LA Clippers,4,8,59,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,105,241,1,1,20231206,LAC,DEN
+Shot Chart Detail,0022301225,49,202331,Paul George,1610612746,LA Clippers,1,7,25,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,34,120,1,1,20231208,UTA,LAC
+Shot Chart Detail,0022301225,346,202331,Paul George,1610612746,LA Clippers,3,11,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,153,37,1,1,20231208,UTA,LAC
+Shot Chart Detail,0022301225,371,202331,Paul George,1610612746,LA Clippers,3,8,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-126,206,1,1,20231208,UTA,LAC
+Shot Chart Detail,0022301225,440,202331,Paul George,1610612746,LA Clippers,3,3,43,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,45,26,1,1,20231208,UTA,LAC
+Shot Chart Detail,0022301225,527,202331,Paul George,1610612746,LA Clippers,4,10,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,151,80,1,1,20231208,UTA,LAC
+Shot Chart Detail,0022301225,563,202331,Paul George,1610612746,LA Clippers,4,8,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,8,1,1,20231208,UTA,LAC
+Shot Chart Detail,0022301225,605,202331,Paul George,1610612746,LA Clippers,4,4,50,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-224,9,1,1,20231208,UTA,LAC
+Shot Chart Detail,0022301225,625,202331,Paul George,1610612746,LA Clippers,4,3,10,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-89,58,1,1,20231208,UTA,LAC

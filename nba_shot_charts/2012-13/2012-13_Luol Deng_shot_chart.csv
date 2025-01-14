@@ -1,0 +1,467 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0021200007,104,2736,Luol Deng,1610612741,Chicago Bulls,1,0,51,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,15,1,1,20121031,CHI,SAC
+Shot Chart Detail,0021200007,133,2736,Luol Deng,1610612741,Chicago Bulls,2,11,25,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,-3,1,1,20121031,CHI,SAC
+Shot Chart Detail,0021200007,503,2736,Luol Deng,1610612741,Chicago Bulls,4,4,5,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,7,1,1,20121031,CHI,SAC
+Shot Chart Detail,0021200019,5,2736,Luol Deng,1610612741,Chicago Bulls,1,11,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-23,211,1,1,20121102,CLE,CHI
+Shot Chart Detail,0021200019,68,2736,Luol Deng,1610612741,Chicago Bulls,1,4,2,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-75,34,1,1,20121102,CLE,CHI
+Shot Chart Detail,0021200019,115,2736,Luol Deng,1610612741,Chicago Bulls,1,1,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-133,30,1,1,20121102,CLE,CHI
+Shot Chart Detail,0021200019,183,2736,Luol Deng,1610612741,Chicago Bulls,2,7,16,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-60,67,1,1,20121102,CLE,CHI
+Shot Chart Detail,0021200019,471,2736,Luol Deng,1610612741,Chicago Bulls,4,5,47,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-239,19,1,1,20121102,CLE,CHI
+Shot Chart Detail,0021200031,53,2736,Luol Deng,1610612741,Chicago Bulls,1,6,37,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,4,1,1,20121103,CHI,NOH
+Shot Chart Detail,0021200031,65,2736,Luol Deng,1610612741,Chicago Bulls,1,5,3,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,14,1,1,20121103,CHI,NOH
+Shot Chart Detail,0021200031,71,2736,Luol Deng,1610612741,Chicago Bulls,1,3,46,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,4,1,1,20121103,CHI,NOH
+Shot Chart Detail,0021200031,175,2736,Luol Deng,1610612741,Chicago Bulls,2,6,45,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,18,42,1,1,20121103,CHI,NOH
+Shot Chart Detail,0021200031,306,2736,Luol Deng,1610612741,Chicago Bulls,3,8,9,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,0,1,1,20121103,CHI,NOH
+Shot Chart Detail,0021200031,344,2736,Luol Deng,1610612741,Chicago Bulls,3,4,5,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,1,1,1,20121103,CHI,NOH
+Shot Chart Detail,0021200050,4,2736,Luol Deng,1610612741,Chicago Bulls,1,11,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,170,96,1,1,20121106,CHI,ORL
+Shot Chart Detail,0021200050,16,2736,Luol Deng,1610612741,Chicago Bulls,1,9,45,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,7,1,1,20121106,CHI,ORL
+Shot Chart Detail,0021200050,19,2736,Luol Deng,1610612741,Chicago Bulls,1,9,10,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,9,1,1,20121106,CHI,ORL
+Shot Chart Detail,0021200050,40,2736,Luol Deng,1610612741,Chicago Bulls,1,6,5,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,9,1,1,20121106,CHI,ORL
+Shot Chart Detail,0021200050,242,2736,Luol Deng,1610612741,Chicago Bulls,3,11,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-5,167,1,1,20121106,CHI,ORL
+Shot Chart Detail,0021200050,245,2736,Luol Deng,1610612741,Chicago Bulls,3,10,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,9,1,1,20121106,CHI,ORL
+Shot Chart Detail,0021200050,394,2736,Luol Deng,1610612741,Chicago Bulls,4,10,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,97,178,1,1,20121106,CHI,ORL
+Shot Chart Detail,0021200050,431,2736,Luol Deng,1610612741,Chicago Bulls,4,7,54,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-144,72,1,1,20121106,CHI,ORL
+Shot Chart Detail,0021200050,437,2736,Luol Deng,1610612741,Chicago Bulls,4,7,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,143,63,1,1,20121106,CHI,ORL
+Shot Chart Detail,0021200066,7,2736,Luol Deng,1610612741,Chicago Bulls,1,10,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-108,183,1,1,20121108,CHI,OKC
+Shot Chart Detail,0021200066,42,2736,Luol Deng,1610612741,Chicago Bulls,1,6,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-183,17,1,1,20121108,CHI,OKC
+Shot Chart Detail,0021200066,59,2736,Luol Deng,1610612741,Chicago Bulls,1,4,14,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,11,1,1,20121108,CHI,OKC
+Shot Chart Detail,0021200066,151,2736,Luol Deng,1610612741,Chicago Bulls,2,6,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-139,176,1,1,20121108,CHI,OKC
+Shot Chart Detail,0021200066,172,2736,Luol Deng,1610612741,Chicago Bulls,2,5,1,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-38,31,1,1,20121108,CHI,OKC
+Shot Chart Detail,0021200066,191,2736,Luol Deng,1610612741,Chicago Bulls,2,3,14,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,15,19,1,1,20121108,CHI,OKC
+Shot Chart Detail,0021200066,272,2736,Luol Deng,1610612741,Chicago Bulls,3,6,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,151,197,1,1,20121108,CHI,OKC
+Shot Chart Detail,0021200066,336,2736,Luol Deng,1610612741,Chicago Bulls,3,0,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,23,170,168,1,1,20121108,CHI,OKC
+Shot Chart Detail,0021200066,387,2736,Luol Deng,1610612741,Chicago Bulls,4,8,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-182,179,1,1,20121108,CHI,OKC
+Shot Chart Detail,0021200066,420,2736,Luol Deng,1610612741,Chicago Bulls,4,5,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-158,44,1,1,20121108,CHI,OKC
+Shot Chart Detail,0021200066,425,2736,Luol Deng,1610612741,Chicago Bulls,4,5,18,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,14,1,1,20121108,CHI,OKC
+Shot Chart Detail,0021200084,7,2736,Luol Deng,1610612741,Chicago Bulls,1,11,0,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-40,108,1,1,20121110,CHI,MIN
+Shot Chart Detail,0021200084,13,2736,Luol Deng,1610612741,Chicago Bulls,1,10,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-128,135,1,1,20121110,CHI,MIN
+Shot Chart Detail,0021200084,61,2736,Luol Deng,1610612741,Chicago Bulls,1,4,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,65,145,1,1,20121110,CHI,MIN
+Shot Chart Detail,0021200084,388,2736,Luol Deng,1610612741,Chicago Bulls,4,7,47,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,15,23,1,1,20121110,CHI,MIN
+Shot Chart Detail,0021200084,392,2736,Luol Deng,1610612741,Chicago Bulls,4,7,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,32,12,1,1,20121110,CHI,MIN
+Shot Chart Detail,0021200084,421,2736,Luol Deng,1610612741,Chicago Bulls,4,3,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-204,-21,1,1,20121110,CHI,MIN
+Shot Chart Detail,0021200098,3,2736,Luol Deng,1610612741,Chicago Bulls,1,11,19,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,3,1,1,20121112,CHI,BOS
+Shot Chart Detail,0021200098,19,2736,Luol Deng,1610612741,Chicago Bulls,1,9,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,189,-11,1,1,20121112,CHI,BOS
+Shot Chart Detail,0021200098,106,2736,Luol Deng,1610612741,Chicago Bulls,1,0,27,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,-16,1,1,20121112,CHI,BOS
+Shot Chart Detail,0021200098,139,2736,Luol Deng,1610612741,Chicago Bulls,2,8,28,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,12,1,1,20121112,CHI,BOS
+Shot Chart Detail,0021200098,148,2736,Luol Deng,1610612741,Chicago Bulls,2,7,26,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,1,1,1,20121112,CHI,BOS
+Shot Chart Detail,0021200098,235,2736,Luol Deng,1610612741,Chicago Bulls,3,11,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-41,175,1,1,20121112,CHI,BOS
+Shot Chart Detail,0021200098,274,2736,Luol Deng,1610612741,Chicago Bulls,3,7,20,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,3,1,1,20121112,CHI,BOS
+Shot Chart Detail,0021200098,327,2736,Luol Deng,1610612741,Chicago Bulls,3,2,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,160,149,1,1,20121112,CHI,BOS
+Shot Chart Detail,0021200098,378,2736,Luol Deng,1610612741,Chicago Bulls,4,8,47,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,45,34,1,1,20121112,CHI,BOS
+Shot Chart Detail,0021200098,438,2736,Luol Deng,1610612741,Chicago Bulls,4,3,52,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,48,33,1,1,20121112,CHI,BOS
+Shot Chart Detail,0021200098,472,2736,Luol Deng,1610612741,Chicago Bulls,4,0,49,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,9,1,1,20121112,CHI,BOS
+Shot Chart Detail,0021200116,31,2736,Luol Deng,1610612741,Chicago Bulls,1,7,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,4,1,1,20121114,PHX,CHI
+Shot Chart Detail,0021200116,121,2736,Luol Deng,1610612741,Chicago Bulls,2,11,8,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-26,112,1,1,20121114,PHX,CHI
+Shot Chart Detail,0021200116,144,2736,Luol Deng,1610612741,Chicago Bulls,2,8,14,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,1,1,1,20121114,PHX,CHI
+Shot Chart Detail,0021200116,298,2736,Luol Deng,1610612741,Chicago Bulls,3,5,18,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,20,75,1,1,20121114,PHX,CHI
+Shot Chart Detail,0021200116,317,2736,Luol Deng,1610612741,Chicago Bulls,3,4,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,-2,1,1,20121114,PHX,CHI
+Shot Chart Detail,0021200116,326,2736,Luol Deng,1610612741,Chicago Bulls,3,3,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,198,167,1,1,20121114,PHX,CHI
+Shot Chart Detail,0021200116,390,2736,Luol Deng,1610612741,Chicago Bulls,4,10,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,121,220,1,1,20121114,PHX,CHI
+Shot Chart Detail,0021200116,542,2736,Luol Deng,1610612741,Chicago Bulls,5,4,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,165,80,1,1,20121114,PHX,CHI
+Shot Chart Detail,0021200132,34,2736,Luol Deng,1610612741,Chicago Bulls,1,7,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,130,129,1,1,20121117,LAC,CHI
+Shot Chart Detail,0021200132,73,2736,Luol Deng,1610612741,Chicago Bulls,1,3,7,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,17,1,1,20121117,LAC,CHI
+Shot Chart Detail,0021200132,81,2736,Luol Deng,1610612741,Chicago Bulls,1,2,11,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,22,1,1,20121117,LAC,CHI
+Shot Chart Detail,0021200132,267,2736,Luol Deng,1610612741,Chicago Bulls,2,0,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,108,172,1,1,20121117,LAC,CHI
+Shot Chart Detail,0021200132,340,2736,Luol Deng,1610612741,Chicago Bulls,3,6,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,6,20,1,1,20121117,LAC,CHI
+Shot Chart Detail,0021200145,2,2736,Luol Deng,1610612741,Chicago Bulls,1,11,49,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,-3,1,1,20121118,POR,CHI
+Shot Chart Detail,0021200145,107,2736,Luol Deng,1610612741,Chicago Bulls,1,0,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-26,0,1,1,20121118,POR,CHI
+Shot Chart Detail,0021200145,149,2736,Luol Deng,1610612741,Chicago Bulls,2,6,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,0,1,1,20121118,POR,CHI
+Shot Chart Detail,0021200145,216,2736,Luol Deng,1610612741,Chicago Bulls,3,10,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,-5,1,1,20121118,POR,CHI
+Shot Chart Detail,0021200145,244,2736,Luol Deng,1610612741,Chicago Bulls,3,5,18,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,4,1,1,20121118,POR,CHI
+Shot Chart Detail,0021200145,306,2736,Luol Deng,1610612741,Chicago Bulls,4,11,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,0,1,1,20121118,POR,CHI
+Shot Chart Detail,0021200165,26,2736,Luol Deng,1610612741,Chicago Bulls,1,9,17,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,1,1,1,20121121,HOU,CHI
+Shot Chart Detail,0021200165,46,2736,Luol Deng,1610612741,Chicago Bulls,1,6,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,143,12,1,1,20121121,HOU,CHI
+Shot Chart Detail,0021200165,83,2736,Luol Deng,1610612741,Chicago Bulls,1,2,26,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,9,1,1,20121121,HOU,CHI
+Shot Chart Detail,0021200165,128,2736,Luol Deng,1610612741,Chicago Bulls,2,9,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,6,1,1,20121121,HOU,CHI
+Shot Chart Detail,0021200165,281,2736,Luol Deng,1610612741,Chicago Bulls,3,5,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-163,134,1,1,20121121,HOU,CHI
+Shot Chart Detail,0021200165,449,2736,Luol Deng,1610612741,Chicago Bulls,4,6,49,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,9,146,1,1,20121121,HOU,CHI
+Shot Chart Detail,0021200165,560,2736,Luol Deng,1610612741,Chicago Bulls,4,0,1,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,86,252,1,1,20121121,HOU,CHI
+Shot Chart Detail,0021200188,19,2736,Luol Deng,1610612741,Chicago Bulls,1,9,26,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,4,1,1,20121124,MIL,CHI
+Shot Chart Detail,0021200188,57,2736,Luol Deng,1610612741,Chicago Bulls,1,6,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-5,1,1,20121124,MIL,CHI
+Shot Chart Detail,0021200188,329,2736,Luol Deng,1610612741,Chicago Bulls,3,2,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-220,104,1,1,20121124,MIL,CHI
+Shot Chart Detail,0021200188,396,2736,Luol Deng,1610612741,Chicago Bulls,4,7,44,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,239,7,1,1,20121124,MIL,CHI
+Shot Chart Detail,0021200188,447,2736,Luol Deng,1610612741,Chicago Bulls,4,2,12,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,3,1,1,20121124,MIL,CHI
+Shot Chart Detail,0021200199,124,2736,Luol Deng,1610612741,Chicago Bulls,1,1,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-14,19,1,1,20121126,CHI,MIL
+Shot Chart Detail,0021200199,243,2736,Luol Deng,1610612741,Chicago Bulls,2,2,25,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,6,1,1,20121126,CHI,MIL
+Shot Chart Detail,0021200199,312,2736,Luol Deng,1610612741,Chicago Bulls,3,7,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-157,197,1,1,20121126,CHI,MIL
+Shot Chart Detail,0021200199,347,2736,Luol Deng,1610612741,Chicago Bulls,3,3,28,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,146,206,1,1,20121126,CHI,MIL
+Shot Chart Detail,0021200214,23,2736,Luol Deng,1610612741,Chicago Bulls,1,8,5,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,50,66,1,1,20121128,CHI,DAL
+Shot Chart Detail,0021200214,25,2736,Luol Deng,1610612741,Chicago Bulls,1,7,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-158,12,1,1,20121128,CHI,DAL
+Shot Chart Detail,0021200214,67,2736,Luol Deng,1610612741,Chicago Bulls,1,3,41,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,6,53,1,1,20121128,CHI,DAL
+Shot Chart Detail,0021200214,111,2736,Luol Deng,1610612741,Chicago Bulls,1,0,1,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,84,203,1,1,20121128,CHI,DAL
+Shot Chart Detail,0021200214,220,2736,Luol Deng,1610612741,Chicago Bulls,2,3,6,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,15,14,1,1,20121128,CHI,DAL
+Shot Chart Detail,0021200214,272,2736,Luol Deng,1610612741,Chicago Bulls,3,10,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,15,1,1,20121128,CHI,DAL
+Shot Chart Detail,0021200214,370,2736,Luol Deng,1610612741,Chicago Bulls,3,1,5,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-242,44,1,1,20121128,CHI,DAL
+Shot Chart Detail,0021200214,448,2736,Luol Deng,1610612741,Chicago Bulls,4,7,6,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,91,183,1,1,20121128,CHI,DAL
+Shot Chart Detail,0021200235,75,2736,Luol Deng,1610612741,Chicago Bulls,1,1,54,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,1,1,1,20121201,CHI,PHI
+Shot Chart Detail,0021200235,83,2736,Luol Deng,1610612741,Chicago Bulls,1,1,16,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-19,162,1,1,20121201,CHI,PHI
+Shot Chart Detail,0021200235,87,2736,Luol Deng,1610612741,Chicago Bulls,1,0,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-199,162,1,1,20121201,CHI,PHI
+Shot Chart Detail,0021200235,169,2736,Luol Deng,1610612741,Chicago Bulls,2,4,38,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,9,1,1,20121201,CHI,PHI
+Shot Chart Detail,0021200235,333,2736,Luol Deng,1610612741,Chicago Bulls,3,2,48,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-38,75,1,1,20121201,CHI,PHI
+Shot Chart Detail,0021200235,341,2736,Luol Deng,1610612741,Chicago Bulls,3,1,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-19,7,1,1,20121201,CHI,PHI
+Shot Chart Detail,0021200235,346,2736,Luol Deng,1610612741,Chicago Bulls,3,0,58,Made Shot,Running Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,113,1,1,1,20121201,CHI,PHI
+Shot Chart Detail,0021200235,369,2736,Luol Deng,1610612741,Chicago Bulls,4,10,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,21,198,91,1,1,20121201,CHI,PHI
+Shot Chart Detail,0021200235,430,2736,Luol Deng,1610612741,Chicago Bulls,4,3,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,89,186,1,1,20121201,CHI,PHI
+Shot Chart Detail,0021200235,439,2736,Luol Deng,1610612741,Chicago Bulls,4,2,34,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-7,96,1,1,20121201,CHI,PHI
+Shot Chart Detail,0021200254,39,2736,Luol Deng,1610612741,Chicago Bulls,1,7,52,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,0,1,1,20121204,CHI,IND
+Shot Chart Detail,0021200254,99,2736,Luol Deng,1610612741,Chicago Bulls,1,1,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-34,249,1,1,20121204,CHI,IND
+Shot Chart Detail,0021200254,157,2736,Luol Deng,1610612741,Chicago Bulls,2,10,15,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-4,26,1,1,20121204,CHI,IND
+Shot Chart Detail,0021200254,404,2736,Luol Deng,1610612741,Chicago Bulls,4,11,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,116,173,1,1,20121204,CHI,IND
+Shot Chart Detail,0021200254,483,2736,Luol Deng,1610612741,Chicago Bulls,4,3,37,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,179,34,1,1,20121204,CHI,IND
+Shot Chart Detail,0021200262,57,2736,Luol Deng,1610612741,Chicago Bulls,1,4,11,Made Shot,Running Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,0,1,1,20121205,CLE,CHI
+Shot Chart Detail,0021200262,62,2736,Luol Deng,1610612741,Chicago Bulls,1,3,29,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,3,1,1,20121205,CLE,CHI
+Shot Chart Detail,0021200262,209,2736,Luol Deng,1610612741,Chicago Bulls,2,1,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,111,25,1,1,20121205,CLE,CHI
+Shot Chart Detail,0021200262,263,2736,Luol Deng,1610612741,Chicago Bulls,3,7,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-228,97,1,1,20121205,CLE,CHI
+Shot Chart Detail,0021200262,408,2736,Luol Deng,1610612741,Chicago Bulls,4,9,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,81,132,1,1,20121205,CLE,CHI
+Shot Chart Detail,0021200262,416,2736,Luol Deng,1610612741,Chicago Bulls,4,8,45,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,7,1,1,20121205,CLE,CHI
+Shot Chart Detail,0021200262,455,2736,Luol Deng,1610612741,Chicago Bulls,4,5,8,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,1,1,1,20121205,CLE,CHI
+Shot Chart Detail,0021200262,476,2736,Luol Deng,1610612741,Chicago Bulls,4,4,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-174,19,1,1,20121205,CLE,CHI
+Shot Chart Detail,0021200274,115,2736,Luol Deng,1610612741,Chicago Bulls,1,7,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,16,1,1,20121207,DET,CHI
+Shot Chart Detail,0021200274,99,2736,Luol Deng,1610612741,Chicago Bulls,2,11,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,4,1,1,20121207,DET,CHI
+Shot Chart Detail,0021200274,175,2736,Luol Deng,1610612741,Chicago Bulls,2,3,35,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,4,1,1,20121207,DET,CHI
+Shot Chart Detail,0021200274,251,2736,Luol Deng,1610612741,Chicago Bulls,3,7,27,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,1,1,1,20121207,DET,CHI
+Shot Chart Detail,0021200274,280,2736,Luol Deng,1610612741,Chicago Bulls,3,4,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,6,1,1,20121207,DET,CHI
+Shot Chart Detail,0021200274,412,2736,Luol Deng,1610612741,Chicago Bulls,4,2,36,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,236,80,1,1,20121207,DET,CHI
+Shot Chart Detail,0021200288,100,2736,Luol Deng,1610612741,Chicago Bulls,1,0,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,163,23,1,1,20121208,CHI,NYK
+Shot Chart Detail,0021200288,132,2736,Luol Deng,1610612741,Chicago Bulls,2,9,10,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,32,12,1,1,20121208,CHI,NYK
+Shot Chart Detail,0021200288,230,2736,Luol Deng,1610612741,Chicago Bulls,2,1,7,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,29,20,1,1,20121208,CHI,NYK
+Shot Chart Detail,0021200288,289,2736,Luol Deng,1610612741,Chicago Bulls,3,8,44,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-18,23,1,1,20121208,CHI,NYK
+Shot Chart Detail,0021200288,322,2736,Luol Deng,1610612741,Chicago Bulls,3,5,5,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,28,11,1,1,20121208,CHI,NYK
+Shot Chart Detail,0021200288,402,2736,Luol Deng,1610612741,Chicago Bulls,4,9,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,136,20,1,1,20121208,CHI,NYK
+Shot Chart Detail,0021200288,408,2736,Luol Deng,1610612741,Chicago Bulls,4,8,30,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,9,1,1,20121208,CHI,NYK
+Shot Chart Detail,0021200288,440,2736,Luol Deng,1610612741,Chicago Bulls,4,6,16,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,22,1,1,20121208,CHI,NYK
+Shot Chart Detail,0021200288,478,2736,Luol Deng,1610612741,Chicago Bulls,4,2,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-131,168,1,1,20121208,CHI,NYK
+Shot Chart Detail,0021200308,88,2736,Luol Deng,1610612741,Chicago Bulls,1,3,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,165,192,1,1,20121211,CHI,LAC
+Shot Chart Detail,0021200308,193,2736,Luol Deng,1610612741,Chicago Bulls,2,4,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-193,156,1,1,20121211,CHI,LAC
+Shot Chart Detail,0021200308,251,2736,Luol Deng,1610612741,Chicago Bulls,3,10,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,173,-8,1,1,20121211,CHI,LAC
+Shot Chart Detail,0021200312,23,2736,Luol Deng,1610612741,Chicago Bulls,1,8,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-93,104,1,1,20121212,PHI,CHI
+Shot Chart Detail,0021200312,92,2736,Luol Deng,1610612741,Chicago Bulls,1,1,18,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,0,1,1,20121212,PHI,CHI
+Shot Chart Detail,0021200312,125,2736,Luol Deng,1610612741,Chicago Bulls,2,11,12,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-185,11,1,1,20121212,PHI,CHI
+Shot Chart Detail,0021200312,395,2736,Luol Deng,1610612741,Chicago Bulls,4,8,35,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,2,22,1,1,20121212,PHI,CHI
+Shot Chart Detail,0021200312,405,2736,Luol Deng,1610612741,Chicago Bulls,4,7,11,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,1,30,1,1,20121212,PHI,CHI
+Shot Chart Detail,0021200312,407,2736,Luol Deng,1610612741,Chicago Bulls,4,6,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,22,-212,88,1,1,20121212,PHI,CHI
+Shot Chart Detail,0021200312,435,2736,Luol Deng,1610612741,Chicago Bulls,4,2,21,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,17,1,1,20121212,PHI,CHI
+Shot Chart Detail,0021200341,11,2736,Luol Deng,1610612741,Chicago Bulls,1,9,35,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,2,37,1,1,20121215,CHI,BKN
+Shot Chart Detail,0021200341,134,2736,Luol Deng,1610612741,Chicago Bulls,2,8,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,6,1,1,20121215,CHI,BKN
+Shot Chart Detail,0021200341,321,2736,Luol Deng,1610612741,Chicago Bulls,3,3,54,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-45,3,1,1,20121215,CHI,BKN
+Shot Chart Detail,0021200341,357,2736,Luol Deng,1610612741,Chicago Bulls,3,0,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-2,143,1,1,20121215,CHI,BKN
+Shot Chart Detail,0021200341,371,2736,Luol Deng,1610612741,Chicago Bulls,3,0,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,75,194,1,1,20121215,CHI,BKN
+Shot Chart Detail,0021200341,420,2736,Luol Deng,1610612741,Chicago Bulls,4,7,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,201,1,1,1,20121215,CHI,BKN
+Shot Chart Detail,0021200341,495,2736,Luol Deng,1610612741,Chicago Bulls,4,1,1,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,7,1,1,20121215,CHI,BKN
+Shot Chart Detail,0021200353,124,2736,Luol Deng,1610612741,Chicago Bulls,2,10,7,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,0,1,1,20121217,MEM,CHI
+Shot Chart Detail,0021200353,186,2736,Luol Deng,1610612741,Chicago Bulls,2,3,38,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,0,1,1,20121217,MEM,CHI
+Shot Chart Detail,0021200353,240,2736,Luol Deng,1610612741,Chicago Bulls,3,8,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,2,190,1,1,20121217,MEM,CHI
+Shot Chart Detail,0021200353,491,2736,Luol Deng,1610612741,Chicago Bulls,4,0,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,12,1,1,20121217,MEM,CHI
+Shot Chart Detail,0021200360,8,2736,Luol Deng,1610612741,Chicago Bulls,1,10,50,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,146,33,1,1,20121218,CHI,BOS
+Shot Chart Detail,0021200360,20,2736,Luol Deng,1610612741,Chicago Bulls,1,9,7,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,4,1,1,20121218,CHI,BOS
+Shot Chart Detail,0021200360,63,2736,Luol Deng,1610612741,Chicago Bulls,1,3,55,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,11,1,1,20121218,CHI,BOS
+Shot Chart Detail,0021200360,219,2736,Luol Deng,1610612741,Chicago Bulls,2,0,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-164,121,1,1,20121218,CHI,BOS
+Shot Chart Detail,0021200360,332,2736,Luol Deng,1610612741,Chicago Bulls,3,1,31,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-19,3,1,1,20121218,CHI,BOS
+Shot Chart Detail,0021200383,2,2736,Luol Deng,1610612741,Chicago Bulls,1,11,43,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,3,1,1,20121221,NYK,CHI
+Shot Chart Detail,0021200383,70,2736,Luol Deng,1610612741,Chicago Bulls,1,3,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,230,94,1,1,20121221,NYK,CHI
+Shot Chart Detail,0021200383,103,2736,Luol Deng,1610612741,Chicago Bulls,1,0,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,228,104,1,1,20121221,NYK,CHI
+Shot Chart Detail,0021200383,142,2736,Luol Deng,1610612741,Chicago Bulls,2,9,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,4,1,1,20121221,NYK,CHI
+Shot Chart Detail,0021200383,147,2736,Luol Deng,1610612741,Chicago Bulls,2,8,22,Made Shot,Driving Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,61,30,1,1,20121221,NYK,CHI
+Shot Chart Detail,0021200383,220,2736,Luol Deng,1610612741,Chicago Bulls,2,2,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-105,45,1,1,20121221,NYK,CHI
+Shot Chart Detail,0021200383,297,2736,Luol Deng,1610612741,Chicago Bulls,3,7,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,176,-5,1,1,20121221,NYK,CHI
+Shot Chart Detail,0021200383,386,2736,Luol Deng,1610612741,Chicago Bulls,3,1,10,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,-21,1,1,20121221,NYK,CHI
+Shot Chart Detail,0021200383,414,2736,Luol Deng,1610612741,Chicago Bulls,4,10,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-172,-19,1,1,20121221,NYK,CHI
+Shot Chart Detail,0021200383,429,2736,Luol Deng,1610612741,Chicago Bulls,4,8,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,1,1,1,20121221,NYK,CHI
+Shot Chart Detail,0021200383,569,2736,Luol Deng,1610612741,Chicago Bulls,4,1,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,9,1,1,20121221,NYK,CHI
+Shot Chart Detail,0021200391,79,2736,Luol Deng,1610612741,Chicago Bulls,1,2,38,Made Shot,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,24,42,1,1,20121222,ATL,CHI
+Shot Chart Detail,0021200391,82,2736,Luol Deng,1610612741,Chicago Bulls,1,2,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-46,172,1,1,20121222,ATL,CHI
+Shot Chart Detail,0021200391,90,2736,Luol Deng,1610612741,Chicago Bulls,1,0,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-67,186,1,1,20121222,ATL,CHI
+Shot Chart Detail,0021200391,103,2736,Luol Deng,1610612741,Chicago Bulls,2,10,31,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,4,25,1,1,20121222,ATL,CHI
+Shot Chart Detail,0021200391,184,2736,Luol Deng,1610612741,Chicago Bulls,2,1,31,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,0,1,1,20121222,ATL,CHI
+Shot Chart Detail,0021200408,2,2736,Luol Deng,1610612741,Chicago Bulls,1,11,44,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,29,9,1,1,20121225,CHI,HOU
+Shot Chart Detail,0021200408,61,2736,Luol Deng,1610612741,Chicago Bulls,1,4,37,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,6,1,1,20121225,CHI,HOU
+Shot Chart Detail,0021200408,71,2736,Luol Deng,1610612741,Chicago Bulls,1,3,9,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-41,203,1,1,20121225,CHI,HOU
+Shot Chart Detail,0021200408,94,2736,Luol Deng,1610612741,Chicago Bulls,1,0,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,95,112,1,1,20121225,CHI,HOU
+Shot Chart Detail,0021200408,275,2736,Luol Deng,1610612741,Chicago Bulls,3,7,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-11,19,1,1,20121225,CHI,HOU
+Shot Chart Detail,0021200413,54,2736,Luol Deng,1610612741,Chicago Bulls,1,6,1,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,4,1,1,20130204,IND,CHI
+Shot Chart Detail,0021200413,81,2736,Luol Deng,1610612741,Chicago Bulls,1,3,11,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,-2,1,1,20130204,IND,CHI
+Shot Chart Detail,0021200413,102,2736,Luol Deng,1610612741,Chicago Bulls,1,1,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,0,1,1,20130204,IND,CHI
+Shot Chart Detail,0021200413,123,2736,Luol Deng,1610612741,Chicago Bulls,2,11,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,0,1,1,20130204,IND,CHI
+Shot Chart Detail,0021200441,3,2736,Luol Deng,1610612741,Chicago Bulls,1,11,15,Made Shot,Pullup Jump shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,-10,1,1,20121229,CHI,WAS
+Shot Chart Detail,0021200441,68,2736,Luol Deng,1610612741,Chicago Bulls,1,4,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-207,-11,1,1,20121229,CHI,WAS
+Shot Chart Detail,0021200441,119,2736,Luol Deng,1610612741,Chicago Bulls,2,10,53,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,121,88,1,1,20121229,CHI,WAS
+Shot Chart Detail,0021200441,275,2736,Luol Deng,1610612741,Chicago Bulls,3,11,35,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,17,1,1,20121229,CHI,WAS
+Shot Chart Detail,0021200453,41,2736,Luol Deng,1610612741,Chicago Bulls,1,7,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,12,1,1,20121231,CHI,CHA
+Shot Chart Detail,0021200453,55,2736,Luol Deng,1610612741,Chicago Bulls,1,5,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,9,1,1,20121231,CHI,CHA
+Shot Chart Detail,0021200453,136,2736,Luol Deng,1610612741,Chicago Bulls,2,11,25,Made Shot,Running Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,4,1,1,20121231,CHI,CHA
+Shot Chart Detail,0021200453,320,2736,Luol Deng,1610612741,Chicago Bulls,3,7,32,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-19,52,1,1,20121231,CHI,CHA
+Shot Chart Detail,0021200453,337,2736,Luol Deng,1610612741,Chicago Bulls,3,5,35,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,4,1,1,20121231,CHI,CHA
+Shot Chart Detail,0021200453,388,2736,Luol Deng,1610612741,Chicago Bulls,3,1,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,196,-2,1,1,20121231,CHI,CHA
+Shot Chart Detail,0021200453,458,2736,Luol Deng,1610612741,Chicago Bulls,4,6,29,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,1,1,1,20121231,CHI,CHA
+Shot Chart Detail,0021200453,581,2736,Luol Deng,1610612741,Chicago Bulls,4,0,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,4,23,1,1,20121231,CHI,CHA
+Shot Chart Detail,0021200453,594,2736,Luol Deng,1610612741,Chicago Bulls,4,0,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-27,0,1,1,20121231,CHI,CHA
+Shot Chart Detail,0021200465,23,2736,Luol Deng,1610612741,Chicago Bulls,1,7,7,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,14,1,1,20130102,ORL,CHI
+Shot Chart Detail,0021200465,54,2736,Luol Deng,1610612741,Chicago Bulls,1,3,19,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,17,1,1,20130102,ORL,CHI
+Shot Chart Detail,0021200465,56,2736,Luol Deng,1610612741,Chicago Bulls,1,3,0,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-3,1,1,20130102,ORL,CHI
+Shot Chart Detail,0021200465,76,2736,Luol Deng,1610612741,Chicago Bulls,1,2,10,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,6,1,1,20130102,ORL,CHI
+Shot Chart Detail,0021200465,239,2736,Luol Deng,1610612741,Chicago Bulls,3,9,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,14,1,1,20130102,ORL,CHI
+Shot Chart Detail,0021200465,291,2736,Luol Deng,1610612741,Chicago Bulls,3,5,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,185,173,1,1,20130102,ORL,CHI
+Shot Chart Detail,0021200465,293,2736,Luol Deng,1610612741,Chicago Bulls,3,5,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-198,48,1,1,20130102,ORL,CHI
+Shot Chart Detail,0021200465,383,2736,Luol Deng,1610612741,Chicago Bulls,4,10,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,14,1,1,20130102,ORL,CHI
+Shot Chart Detail,0021200481,15,2736,Luol Deng,1610612741,Chicago Bulls,1,9,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,9,1,1,20130104,MIA,CHI
+Shot Chart Detail,0021200481,297,2736,Luol Deng,1610612741,Chicago Bulls,3,2,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,125,162,1,1,20130104,MIA,CHI
+Shot Chart Detail,0021200506,152,2736,Luol Deng,1610612741,Chicago Bulls,2,10,52,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-231,-13,1,1,20130107,CHI,CLE
+Shot Chart Detail,0021200506,196,2736,Luol Deng,1610612741,Chicago Bulls,2,5,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,217,105,1,1,20130107,CHI,CLE
+Shot Chart Detail,0021200506,323,2736,Luol Deng,1610612741,Chicago Bulls,3,7,49,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,4,1,1,20130107,CHI,CLE
+Shot Chart Detail,0021200506,351,2736,Luol Deng,1610612741,Chicago Bulls,3,5,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,4,20,1,1,20130107,CHI,CLE
+Shot Chart Detail,0021200506,390,2736,Luol Deng,1610612741,Chicago Bulls,3,2,33,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,14,1,1,20130107,CHI,CLE
+Shot Chart Detail,0021200506,436,2736,Luol Deng,1610612741,Chicago Bulls,4,10,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,198,55,1,1,20130107,CHI,CLE
+Shot Chart Detail,0021200506,483,2736,Luol Deng,1610612741,Chicago Bulls,4,5,15,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,9,1,1,20130107,CHI,CLE
+Shot Chart Detail,0021200520,19,2736,Luol Deng,1610612741,Chicago Bulls,1,10,8,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,-3,1,1,20130109,CHI,MIL
+Shot Chart Detail,0021200520,103,2736,Luol Deng,1610612741,Chicago Bulls,1,2,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,7,1,1,20130109,CHI,MIL
+Shot Chart Detail,0021200520,148,2736,Luol Deng,1610612741,Chicago Bulls,2,10,23,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,54,20,1,1,20130109,CHI,MIL
+Shot Chart Detail,0021200520,295,2736,Luol Deng,1610612741,Chicago Bulls,3,8,40,Made Shot,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,34,30,1,1,20130109,CHI,MIL
+Shot Chart Detail,0021200520,334,2736,Luol Deng,1610612741,Chicago Bulls,3,4,37,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-8,20,1,1,20130109,CHI,MIL
+Shot Chart Detail,0021200520,378,2736,Luol Deng,1610612741,Chicago Bulls,3,1,18,Made Shot,Running Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,7,1,1,20130109,CHI,MIL
+Shot Chart Detail,0021200520,395,2736,Luol Deng,1610612741,Chicago Bulls,3,0,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,3,1,1,20130109,CHI,MIL
+Shot Chart Detail,0021200534,7,2736,Luol Deng,1610612741,Chicago Bulls,1,10,50,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,-30,1,1,20130111,NYK,CHI
+Shot Chart Detail,0021200534,108,2736,Luol Deng,1610612741,Chicago Bulls,1,2,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-136,146,1,1,20130111,NYK,CHI
+Shot Chart Detail,0021200534,111,2736,Luol Deng,1610612741,Chicago Bulls,1,2,21,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,0,1,1,20130111,NYK,CHI
+Shot Chart Detail,0021200534,130,2736,Luol Deng,1610612741,Chicago Bulls,1,0,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-177,132,1,1,20130111,NYK,CHI
+Shot Chart Detail,0021200534,143,2736,Luol Deng,1610612741,Chicago Bulls,2,10,41,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,0,1,1,20130111,NYK,CHI
+Shot Chart Detail,0021200534,191,2736,Luol Deng,1610612741,Chicago Bulls,2,6,31,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,-2,1,1,20130111,NYK,CHI
+Shot Chart Detail,0021200534,194,2736,Luol Deng,1610612741,Chicago Bulls,2,6,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,80,236,1,1,20130111,NYK,CHI
+Shot Chart Detail,0021200534,237,2736,Luol Deng,1610612741,Chicago Bulls,2,1,42,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-56,93,1,1,20130111,NYK,CHI
+Shot Chart Detail,0021200534,252,2736,Luol Deng,1610612741,Chicago Bulls,2,0,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,3,1,1,20130111,NYK,CHI
+Shot Chart Detail,0021200534,268,2736,Luol Deng,1610612741,Chicago Bulls,3,11,31,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,1,1,1,20130111,NYK,CHI
+Shot Chart Detail,0021200534,275,2736,Luol Deng,1610612741,Chicago Bulls,3,10,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,0,1,1,20130111,NYK,CHI
+Shot Chart Detail,0021200534,372,2736,Luol Deng,1610612741,Chicago Bulls,3,1,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,136,151,1,1,20130111,NYK,CHI
+Shot Chart Detail,0021200534,457,2736,Luol Deng,1610612741,Chicago Bulls,4,5,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-161,104,1,1,20130111,NYK,CHI
+Shot Chart Detail,0021200546,52,2736,Luol Deng,1610612741,Chicago Bulls,1,6,56,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,6,1,1,20130112,CHI,PHX
+Shot Chart Detail,0021200546,147,2736,Luol Deng,1610612741,Chicago Bulls,2,9,45,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,12,1,1,20130112,CHI,PHX
+Shot Chart Detail,0021200546,256,2736,Luol Deng,1610612741,Chicago Bulls,3,10,49,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-26,7,1,1,20130112,CHI,PHX
+Shot Chart Detail,0021200546,389,2736,Luol Deng,1610612741,Chicago Bulls,3,0,24,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,6,1,1,20130112,CHI,PHX
+Shot Chart Detail,0021200546,454,2736,Luol Deng,1610612741,Chicago Bulls,4,5,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,75,235,1,1,20130112,CHI,PHX
+Shot Chart Detail,0021200558,20,2736,Luol Deng,1610612741,Chicago Bulls,1,9,25,Made Shot,Driving Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,114,3,1,1,20130114,CHI,ATL
+Shot Chart Detail,0021200558,53,2736,Luol Deng,1610612741,Chicago Bulls,1,5,16,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,-5,1,1,20130114,CHI,ATL
+Shot Chart Detail,0021200558,56,2736,Luol Deng,1610612741,Chicago Bulls,1,4,37,Made Shot,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,0,53,1,1,20130114,CHI,ATL
+Shot Chart Detail,0021200558,170,2736,Luol Deng,1610612741,Chicago Bulls,2,7,25,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,4,1,1,20130114,CHI,ATL
+Shot Chart Detail,0021200558,332,2736,Luol Deng,1610612741,Chicago Bulls,3,8,10,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,231,-6,1,1,20130114,CHI,ATL
+Shot Chart Detail,0021200558,418,2736,Luol Deng,1610612741,Chicago Bulls,3,1,3,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,-10,1,1,20130114,CHI,ATL
+Shot Chart Detail,0021200558,436,2736,Luol Deng,1610612741,Chicago Bulls,4,10,34,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,9,1,1,20130114,CHI,ATL
+Shot Chart Detail,0021200570,8,2736,Luol Deng,1610612741,Chicago Bulls,1,10,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,133,110,1,1,20130116,TOR,CHI
+Shot Chart Detail,0021200570,93,2736,Luol Deng,1610612741,Chicago Bulls,1,1,29,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-35,12,1,1,20130116,TOR,CHI
+Shot Chart Detail,0021200570,200,2736,Luol Deng,1610612741,Chicago Bulls,2,3,0,Made Shot,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,1,69,1,1,20130116,TOR,CHI
+Shot Chart Detail,0021200570,486,2736,Luol Deng,1610612741,Chicago Bulls,4,5,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-152,197,1,1,20130116,TOR,CHI
+Shot Chart Detail,0021200570,489,2736,Luol Deng,1610612741,Chicago Bulls,4,4,28,Made Shot,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-16,116,1,1,20130116,TOR,CHI
+Shot Chart Detail,0021200570,677,2736,Luol Deng,1610612741,Chicago Bulls,5,0,3,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,94,151,1,1,20130116,TOR,CHI
+Shot Chart Detail,0021200584,154,2736,Luol Deng,1610612741,Chicago Bulls,2,9,11,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,-10,1,1,20130118,BOS,CHI
+Shot Chart Detail,0021200663,75,2736,Luol Deng,1610612741,Chicago Bulls,1,3,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-185,168,1,1,20130128,CHI,CHA
+Shot Chart Detail,0021200663,85,2736,Luol Deng,1610612741,Chicago Bulls,1,3,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,6,1,1,20130128,CHI,CHA
+Shot Chart Detail,0021200663,188,2736,Luol Deng,1610612741,Chicago Bulls,2,5,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,215,112,1,1,20130128,CHI,CHA
+Shot Chart Detail,0021200676,80,2736,Luol Deng,1610612741,Chicago Bulls,1,4,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,170,26,1,1,20130130,MIL,CHI
+Shot Chart Detail,0021200676,97,2736,Luol Deng,1610612741,Chicago Bulls,1,1,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20130130,MIL,CHI
+Shot Chart Detail,0021200676,334,2736,Luol Deng,1610612741,Chicago Bulls,3,1,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,3,1,1,20130130,MIL,CHI
+Shot Chart Detail,0021200676,390,2736,Luol Deng,1610612741,Chicago Bulls,4,7,52,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,45,7,1,1,20130130,MIL,CHI
+Shot Chart Detail,0021200676,409,2736,Luol Deng,1610612741,Chicago Bulls,4,5,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,0,1,1,20130130,MIL,CHI
+Shot Chart Detail,0021200676,416,2736,Luol Deng,1610612741,Chicago Bulls,4,4,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,7,1,1,20130130,MIL,CHI
+Shot Chart Detail,0021200687,75,2736,Luol Deng,1610612741,Chicago Bulls,1,3,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,6,1,1,20130201,BKN,CHI
+Shot Chart Detail,0021200687,119,2736,Luol Deng,1610612741,Chicago Bulls,2,11,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,28,-8,1,1,20130201,BKN,CHI
+Shot Chart Detail,0021200687,168,2736,Luol Deng,1610612741,Chicago Bulls,2,6,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-130,91,1,1,20130201,BKN,CHI
+Shot Chart Detail,0021200687,208,2736,Luol Deng,1610612741,Chicago Bulls,2,0,51,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,228,31,1,1,20130201,BKN,CHI
+Shot Chart Detail,0021200687,295,2736,Luol Deng,1610612741,Chicago Bulls,3,2,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,-3,1,1,20130201,BKN,CHI
+Shot Chart Detail,0021200687,452,2736,Luol Deng,1610612741,Chicago Bulls,4,0,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,1,1,1,20130201,BKN,CHI
+Shot Chart Detail,0021200696,46,2736,Luol Deng,1610612741,Chicago Bulls,1,7,46,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,6,1,1,20130202,ATL,CHI
+Shot Chart Detail,0021200696,100,2736,Luol Deng,1610612741,Chicago Bulls,1,2,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,40,189,1,1,20130202,ATL,CHI
+Shot Chart Detail,0021200696,109,2736,Luol Deng,1610612741,Chicago Bulls,1,0,46,Made Shot,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-7,53,1,1,20130202,ATL,CHI
+Shot Chart Detail,0021200696,202,2736,Luol Deng,1610612741,Chicago Bulls,2,5,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,127,157,1,1,20130202,ATL,CHI
+Shot Chart Detail,0021200696,218,2736,Luol Deng,1610612741,Chicago Bulls,2,4,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,162,194,1,1,20130202,ATL,CHI
+Shot Chart Detail,0021200696,238,2736,Luol Deng,1610612741,Chicago Bulls,2,1,48,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,11,1,1,20130202,ATL,CHI
+Shot Chart Detail,0021200696,419,2736,Luol Deng,1610612741,Chicago Bulls,4,7,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,204,160,1,1,20130202,ATL,CHI
+Shot Chart Detail,0021200696,434,2736,Luol Deng,1610612741,Chicago Bulls,4,6,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,184,170,1,1,20130202,ATL,CHI
+Shot Chart Detail,0021200696,465,2736,Luol Deng,1610612741,Chicago Bulls,4,2,44,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,37,119,1,1,20130202,ATL,CHI
+Shot Chart Detail,0021200696,480,2736,Luol Deng,1610612741,Chicago Bulls,4,1,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-187,77,1,1,20130202,ATL,CHI
+Shot Chart Detail,0021200734,89,2736,Luol Deng,1610612741,Chicago Bulls,1,2,47,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,0,1,1,20130207,DEN,CHI
+Shot Chart Detail,0021200734,97,2736,Luol Deng,1610612741,Chicago Bulls,1,2,12,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,7,1,1,20130207,DEN,CHI
+Shot Chart Detail,0021200734,153,2736,Luol Deng,1610612741,Chicago Bulls,2,8,52,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,11,1,1,20130207,DEN,CHI
+Shot Chart Detail,0021200734,237,2736,Luol Deng,1610612741,Chicago Bulls,2,1,31,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,0,1,1,20130207,DEN,CHI
+Shot Chart Detail,0021200746,2,2736,Luol Deng,1610612741,Chicago Bulls,1,11,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,168,-16,1,1,20130208,UTA,CHI
+Shot Chart Detail,0021200746,67,2736,Luol Deng,1610612741,Chicago Bulls,1,5,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-24,0,1,1,20130208,UTA,CHI
+Shot Chart Detail,0021200746,104,2736,Luol Deng,1610612741,Chicago Bulls,1,0,17,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,14,1,1,20130208,UTA,CHI
+Shot Chart Detail,0021200746,227,2736,Luol Deng,1610612741,Chicago Bulls,3,10,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-26,0,1,1,20130208,UTA,CHI
+Shot Chart Detail,0021200746,257,2736,Luol Deng,1610612741,Chicago Bulls,3,6,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,1,1,1,20130208,UTA,CHI
+Shot Chart Detail,0021200746,318,2736,Luol Deng,1610612741,Chicago Bulls,4,11,49,Made Shot,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-60,25,1,1,20130208,UTA,CHI
+Shot Chart Detail,0021200766,96,2736,Luol Deng,1610612741,Chicago Bulls,1,0,2,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,0,1,1,20130211,CHI,SAS
+Shot Chart Detail,0021200766,259,2736,Luol Deng,1610612741,Chicago Bulls,3,11,29,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,9,1,1,20130211,CHI,SAS
+Shot Chart Detail,0021200766,297,2736,Luol Deng,1610612741,Chicago Bulls,3,7,23,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,4,1,1,20130211,CHI,SAS
+Shot Chart Detail,0021200766,314,2736,Luol Deng,1610612741,Chicago Bulls,3,5,21,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,4,1,1,20130211,CHI,SAS
+Shot Chart Detail,0021200778,12,2736,Luol Deng,1610612741,Chicago Bulls,1,10,7,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-40,45,1,1,20130213,BOS,CHI
+Shot Chart Detail,0021200778,301,2736,Luol Deng,1610612741,Chicago Bulls,3,4,38,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,58,88,1,1,20130213,BOS,CHI
+Shot Chart Detail,0021200778,338,2736,Luol Deng,1610612741,Chicago Bulls,3,1,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,1,1,1,20130213,BOS,CHI
+Shot Chart Detail,0021200778,458,2736,Luol Deng,1610612741,Chicago Bulls,4,0,49,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-34,39,1,1,20130213,BOS,CHI
+Shot Chart Detail,0021200793,4,2736,Luol Deng,1610612741,Chicago Bulls,1,11,21,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,23,50,1,1,20130219,NOH,CHI
+Shot Chart Detail,0021200793,27,2736,Luol Deng,1610612741,Chicago Bulls,1,8,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,14,1,1,20130219,NOH,CHI
+Shot Chart Detail,0021200793,103,2736,Luol Deng,1610612741,Chicago Bulls,1,0,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-78,239,1,1,20130219,NOH,CHI
+Shot Chart Detail,0021200793,183,2736,Luol Deng,1610612741,Chicago Bulls,2,2,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,1,22,1,1,20130219,NOH,CHI
+Shot Chart Detail,0021200793,366,2736,Luol Deng,1610612741,Chicago Bulls,3,0,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-155,201,1,1,20130219,NOH,CHI
+Shot Chart Detail,0021200793,459,2736,Luol Deng,1610612741,Chicago Bulls,4,4,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,12,1,1,20130219,NOH,CHI
+Shot Chart Detail,0021200793,489,2736,Luol Deng,1610612741,Chicago Bulls,4,0,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,1,148,1,1,20130219,NOH,CHI
+Shot Chart Detail,0021200809,103,2736,Luol Deng,1610612741,Chicago Bulls,1,2,4,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-27,7,1,1,20130221,CHI,MIA
+Shot Chart Detail,0021200809,207,2736,Luol Deng,1610612741,Chicago Bulls,2,1,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-82,192,1,1,20130221,CHI,MIA
+Shot Chart Detail,0021200809,342,2736,Luol Deng,1610612741,Chicago Bulls,3,0,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,7,1,1,20130221,CHI,MIA
+Shot Chart Detail,0021200813,44,2736,Luol Deng,1610612741,Chicago Bulls,1,6,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-123,140,1,1,20130222,CHA,CHI
+Shot Chart Detail,0021200813,71,2736,Luol Deng,1610612741,Chicago Bulls,1,3,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,17,1,1,20130222,CHA,CHI
+Shot Chart Detail,0021200813,267,2736,Luol Deng,1610612741,Chicago Bulls,2,0,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,155,149,1,1,20130222,CHA,CHI
+Shot Chart Detail,0021200813,284,2736,Luol Deng,1610612741,Chicago Bulls,3,11,24,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,6,1,1,20130222,CHA,CHI
+Shot Chart Detail,0021200813,351,2736,Luol Deng,1610612741,Chicago Bulls,3,4,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,4,1,1,20130222,CHA,CHI
+Shot Chart Detail,0021200813,392,2736,Luol Deng,1610612741,Chicago Bulls,3,0,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,94,246,1,1,20130222,CHA,CHI
+Shot Chart Detail,0021200838,26,2736,Luol Deng,1610612741,Chicago Bulls,1,9,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,-2,1,1,20130224,OKC,CHI
+Shot Chart Detail,0021200838,114,2736,Luol Deng,1610612741,Chicago Bulls,1,0,55,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,0,1,1,20130224,OKC,CHI
+Shot Chart Detail,0021200838,120,2736,Luol Deng,1610612741,Chicago Bulls,1,0,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,6,1,1,20130224,OKC,CHI
+Shot Chart Detail,0021200838,293,2736,Luol Deng,1610612741,Chicago Bulls,2,0,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,155,60,1,1,20130224,OKC,CHI
+Shot Chart Detail,0021200838,363,2736,Luol Deng,1610612741,Chicago Bulls,3,6,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,0,1,1,20130224,OKC,CHI
+Shot Chart Detail,0021200838,415,2736,Luol Deng,1610612741,Chicago Bulls,3,0,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,92,227,1,1,20130224,OKC,CHI
+Shot Chart Detail,0021200846,22,2736,Luol Deng,1610612741,Chicago Bulls,1,8,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,171,25,1,1,20130226,CHI,CLE
+Shot Chart Detail,0021200846,30,2736,Luol Deng,1610612741,Chicago Bulls,1,7,19,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,14,1,1,20130226,CHI,CLE
+Shot Chart Detail,0021200846,115,2736,Luol Deng,1610612741,Chicago Bulls,2,10,51,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,64,66,1,1,20130226,CHI,CLE
+Shot Chart Detail,0021200846,199,2736,Luol Deng,1610612741,Chicago Bulls,2,2,4,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,19,1,1,20130226,CHI,CLE
+Shot Chart Detail,0021200846,205,2736,Luol Deng,1610612741,Chicago Bulls,2,1,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,187,168,1,1,20130226,CHI,CLE
+Shot Chart Detail,0021200846,242,2736,Luol Deng,1610612741,Chicago Bulls,3,9,14,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,-5,1,1,20130226,CHI,CLE
+Shot Chart Detail,0021200846,257,2736,Luol Deng,1610612741,Chicago Bulls,3,7,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-187,-6,1,1,20130226,CHI,CLE
+Shot Chart Detail,0021200846,308,2736,Luol Deng,1610612741,Chicago Bulls,3,0,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,17,1,1,20130226,CHI,CLE
+Shot Chart Detail,0021200846,326,2736,Luol Deng,1610612741,Chicago Bulls,4,11,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,17,1,1,20130226,CHI,CLE
+Shot Chart Detail,0021200862,2,2736,Luol Deng,1610612741,Chicago Bulls,1,11,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,177,58,1,1,20130228,CHI,PHI
+Shot Chart Detail,0021200862,18,2736,Luol Deng,1610612741,Chicago Bulls,1,9,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,94,104,1,1,20130228,CHI,PHI
+Shot Chart Detail,0021200862,39,2736,Luol Deng,1610612741,Chicago Bulls,1,7,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-144,146,1,1,20130228,CHI,PHI
+Shot Chart Detail,0021200862,140,2736,Luol Deng,1610612741,Chicago Bulls,2,8,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,9,1,1,20130228,CHI,PHI
+Shot Chart Detail,0021200862,224,2736,Luol Deng,1610612741,Chicago Bulls,2,0,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,11,1,1,20130228,CHI,PHI
+Shot Chart Detail,0021200877,338,2736,Luol Deng,1610612741,Chicago Bulls,3,0,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,166,3,1,1,20130302,CHI,BKN
+Shot Chart Detail,0021200877,391,2736,Luol Deng,1610612741,Chicago Bulls,4,7,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-84,112,1,1,20130302,CHI,BKN
+Shot Chart Detail,0021200877,454,2736,Luol Deng,1610612741,Chicago Bulls,4,2,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-138,119,1,1,20130302,CHI,BKN
+Shot Chart Detail,0021200887,44,2736,Luol Deng,1610612741,Chicago Bulls,1,6,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,22,211,78,1,1,20130303,IND,CHI
+Shot Chart Detail,0021200887,258,2736,Luol Deng,1610612741,Chicago Bulls,3,8,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,113,230,1,1,20130303,IND,CHI
+Shot Chart Detail,0021200887,354,2736,Luol Deng,1610612741,Chicago Bulls,4,11,4,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,7,1,1,20130303,IND,CHI
+Shot Chart Detail,0021200887,362,2736,Luol Deng,1610612741,Chicago Bulls,4,10,28,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-43,72,1,1,20130303,IND,CHI
+Shot Chart Detail,0021200887,436,2736,Luol Deng,1610612741,Chicago Bulls,4,2,31,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-2,1,1,20130303,IND,CHI
+Shot Chart Detail,0021200909,34,2736,Luol Deng,1610612741,Chicago Bulls,1,8,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,-2,1,1,20130306,SAS,CHI
+Shot Chart Detail,0021200909,67,2736,Luol Deng,1610612741,Chicago Bulls,1,4,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,-3,1,1,20130306,SAS,CHI
+Shot Chart Detail,0021200909,83,2736,Luol Deng,1610612741,Chicago Bulls,1,2,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,0,1,1,20130306,SAS,CHI
+Shot Chart Detail,0021200909,136,2736,Luol Deng,1610612741,Chicago Bulls,2,9,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,177,9,1,1,20130306,SAS,CHI
+Shot Chart Detail,0021200909,298,2736,Luol Deng,1610612741,Chicago Bulls,3,4,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,163,-16,1,1,20130306,SAS,CHI
+Shot Chart Detail,0021200909,351,2736,Luol Deng,1610612741,Chicago Bulls,4,9,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,105,230,1,1,20130306,SAS,CHI
+Shot Chart Detail,0021200909,393,2736,Luol Deng,1610612741,Chicago Bulls,4,5,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-174,116,1,1,20130306,SAS,CHI
+Shot Chart Detail,0021200909,396,2736,Luol Deng,1610612741,Chicago Bulls,4,5,20,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,-13,1,1,20130306,SAS,CHI
+Shot Chart Detail,0021200922,45,2736,Luol Deng,1610612741,Chicago Bulls,1,6,9,Made Shot,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-29,39,1,1,20130308,CHI,UTA
+Shot Chart Detail,0021200922,127,2736,Luol Deng,1610612741,Chicago Bulls,2,11,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-62,175,1,1,20130308,CHI,UTA
+Shot Chart Detail,0021200922,224,2736,Luol Deng,1610612741,Chicago Bulls,2,3,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,-3,1,1,20130308,CHI,UTA
+Shot Chart Detail,0021200922,363,2736,Luol Deng,1610612741,Chicago Bulls,3,1,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,4,1,1,20130308,CHI,UTA
+Shot Chart Detail,0021200935,5,2736,Luol Deng,1610612741,Chicago Bulls,1,11,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,151,83,1,1,20130310,LAL,CHI
+Shot Chart Detail,0021200935,194,2736,Luol Deng,1610612741,Chicago Bulls,2,4,49,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,16,1,1,20130310,LAL,CHI
+Shot Chart Detail,0021200935,259,2736,Luol Deng,1610612741,Chicago Bulls,3,9,47,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,18,60,1,1,20130310,LAL,CHI
+Shot Chart Detail,0021200935,362,2736,Luol Deng,1610612741,Chicago Bulls,3,0,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,0,1,1,20130310,LAL,CHI
+Shot Chart Detail,0021200935,460,2736,Luol Deng,1610612741,Chicago Bulls,4,4,9,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,11,1,1,20130310,LAL,CHI
+Shot Chart Detail,0021200963,51,2736,Luol Deng,1610612741,Chicago Bulls,1,6,3,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-26,47,1,1,20130313,SAC,CHI
+Shot Chart Detail,0021200963,187,2736,Luol Deng,1610612741,Chicago Bulls,2,4,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,102,186,1,1,20130313,SAC,CHI
+Shot Chart Detail,0021200963,206,2736,Luol Deng,1610612741,Chicago Bulls,2,2,42,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-16,34,1,1,20130313,SAC,CHI
+Shot Chart Detail,0021200963,261,2736,Luol Deng,1610612741,Chicago Bulls,3,9,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,138,175,1,1,20130313,SAC,CHI
+Shot Chart Detail,0021200963,341,2736,Luol Deng,1610612741,Chicago Bulls,3,1,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,22,-41,222,1,1,20130313,SAC,CHI
+Shot Chart Detail,0021200978,7,2736,Luol Deng,1610612741,Chicago Bulls,1,10,45,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,113,154,1,1,20130315,GSW,CHI
+Shot Chart Detail,0021200978,50,2736,Luol Deng,1610612741,Chicago Bulls,1,5,27,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,11,1,1,20130315,GSW,CHI
+Shot Chart Detail,0021200978,84,2736,Luol Deng,1610612741,Chicago Bulls,1,2,6,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-127,178,1,1,20130315,GSW,CHI
+Shot Chart Detail,0021200978,228,2736,Luol Deng,1610612741,Chicago Bulls,2,0,2,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,136,123,1,1,20130315,GSW,CHI
+Shot Chart Detail,0021200978,272,2736,Luol Deng,1610612741,Chicago Bulls,3,8,40,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,124,145,1,1,20130315,GSW,CHI
+Shot Chart Detail,0021200978,304,2736,Luol Deng,1610612741,Chicago Bulls,3,5,13,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,39,26,1,1,20130315,GSW,CHI
+Shot Chart Detail,0021200978,385,2736,Luol Deng,1610612741,Chicago Bulls,4,11,11,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,190,178,1,1,20130315,GSW,CHI
+Shot Chart Detail,0021200978,396,2736,Luol Deng,1610612741,Chicago Bulls,4,9,59,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-60,162,1,1,20130315,GSW,CHI
+Shot Chart Detail,0021200978,410,2736,Luol Deng,1610612741,Chicago Bulls,4,8,28,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,110,148,1,1,20130315,GSW,CHI
+Shot Chart Detail,0021200999,16,2736,Luol Deng,1610612741,Chicago Bulls,1,10,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,177,97,1,1,20130318,CHI,DEN
+Shot Chart Detail,0021200999,24,2736,Luol Deng,1610612741,Chicago Bulls,1,9,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,11,1,1,20130318,CHI,DEN
+Shot Chart Detail,0021200999,81,2736,Luol Deng,1610612741,Chicago Bulls,1,3,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,130,214,1,1,20130318,CHI,DEN
+Shot Chart Detail,0021200999,163,2736,Luol Deng,1610612741,Chicago Bulls,2,6,39,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,-2,1,1,20130318,CHI,DEN
+Shot Chart Detail,0021200999,174,2736,Luol Deng,1610612741,Chicago Bulls,2,5,12,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,14,1,1,20130318,CHI,DEN
+Shot Chart Detail,0021200999,229,2736,Luol Deng,1610612741,Chicago Bulls,3,11,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,185,94,1,1,20130318,CHI,DEN
+Shot Chart Detail,0021200999,239,2736,Luol Deng,1610612741,Chicago Bulls,3,10,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-171,89,1,1,20130318,CHI,DEN
+Shot Chart Detail,0021200999,376,2736,Luol Deng,1610612741,Chicago Bulls,4,10,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-141,164,1,1,20130318,CHI,DEN
+Shot Chart Detail,0021200999,493,2736,Luol Deng,1610612741,Chicago Bulls,4,1,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,11,1,1,20130318,CHI,DEN
+Shot Chart Detail,0021201019,86,2736,Luol Deng,1610612741,Chicago Bulls,1,1,57,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,231,52,1,1,20130321,CHI,POR
+Shot Chart Detail,0021201019,273,2736,Luol Deng,1610612741,Chicago Bulls,3,6,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-155,75,1,1,20130321,CHI,POR
+Shot Chart Detail,0021201035,6,2736,Luol Deng,1610612741,Chicago Bulls,1,11,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,0,1,1,20130323,CHI,IND
+Shot Chart Detail,0021201035,53,2736,Luol Deng,1610612741,Chicago Bulls,1,4,20,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-24,-3,1,1,20130323,CHI,IND
+Shot Chart Detail,0021201035,149,2736,Luol Deng,1610612741,Chicago Bulls,2,6,57,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-71,56,1,1,20130323,CHI,IND
+Shot Chart Detail,0021201035,166,2736,Luol Deng,1610612741,Chicago Bulls,2,5,39,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,0,39,1,1,20130323,CHI,IND
+Shot Chart Detail,0021201035,180,2736,Luol Deng,1610612741,Chicago Bulls,2,4,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-103,156,1,1,20130323,CHI,IND
+Shot Chart Detail,0021201035,244,2736,Luol Deng,1610612741,Chicago Bulls,3,10,50,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,100,28,1,1,20130323,CHI,IND
+Shot Chart Detail,0021201035,266,2736,Luol Deng,1610612741,Chicago Bulls,3,8,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,6,1,1,20130323,CHI,IND
+Shot Chart Detail,0021201044,35,2736,Luol Deng,1610612741,Chicago Bulls,1,7,41,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,12,1,1,20130324,MIN,CHI
+Shot Chart Detail,0021201044,63,2736,Luol Deng,1610612741,Chicago Bulls,1,4,52,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,9,1,1,20130324,MIN,CHI
+Shot Chart Detail,0021201044,71,2736,Luol Deng,1610612741,Chicago Bulls,1,3,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-153,206,1,1,20130324,MIN,CHI
+Shot Chart Detail,0021201044,78,2736,Luol Deng,1610612741,Chicago Bulls,1,2,11,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-1,22,1,1,20130324,MIN,CHI
+Shot Chart Detail,0021201044,133,2736,Luol Deng,1610612741,Chicago Bulls,2,8,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,171,189,1,1,20130324,MIN,CHI
+Shot Chart Detail,0021201044,187,2736,Luol Deng,1610612741,Chicago Bulls,2,3,2,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,9,104,1,1,20130324,MIN,CHI
+Shot Chart Detail,0021201044,243,2736,Luol Deng,1610612741,Chicago Bulls,3,8,54,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-90,195,1,1,20130324,MIN,CHI
+Shot Chart Detail,0021201062,20,2736,Luol Deng,1610612741,Chicago Bulls,1,9,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,67,170,1,1,20130327,CHI,MIA
+Shot Chart Detail,0021201062,37,2736,Luol Deng,1610612741,Chicago Bulls,1,7,18,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-16,17,1,1,20130327,CHI,MIA
+Shot Chart Detail,0021201062,71,2736,Luol Deng,1610612741,Chicago Bulls,1,4,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,187,186,1,1,20130327,CHI,MIA
+Shot Chart Detail,0021201062,102,2736,Luol Deng,1610612741,Chicago Bulls,1,2,18,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,17,1,1,20130327,CHI,MIA
+Shot Chart Detail,0021201062,127,2736,Luol Deng,1610612741,Chicago Bulls,2,11,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,157,205,1,1,20130327,CHI,MIA
+Shot Chart Detail,0021201062,195,2736,Luol Deng,1610612741,Chicago Bulls,2,1,37,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,6,1,1,20130327,CHI,MIA
+Shot Chart Detail,0021201062,314,2736,Luol Deng,1610612741,Chicago Bulls,3,1,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,0,1,1,20130327,CHI,MIA
+Shot Chart Detail,0021201062,394,2736,Luol Deng,1610612741,Chicago Bulls,4,7,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,168,184,1,1,20130327,CHI,MIA
+Shot Chart Detail,0021201062,401,2736,Luol Deng,1610612741,Chicago Bulls,4,6,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,212,137,1,1,20130327,CHI,MIA
+Shot Chart Detail,0021201062,419,2736,Luol Deng,1610612741,Chicago Bulls,4,4,52,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,11,1,1,20130327,CHI,MIA
+Shot Chart Detail,0021201085,5,2736,Luol Deng,1610612741,Chicago Bulls,1,11,22,Made Shot,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,13,52,1,1,20130330,DAL,CHI
+Shot Chart Detail,0021201085,43,2736,Luol Deng,1610612741,Chicago Bulls,1,5,33,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,-2,1,1,20130330,DAL,CHI
+Shot Chart Detail,0021201085,81,2736,Luol Deng,1610612741,Chicago Bulls,1,2,48,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-86,101,1,1,20130330,DAL,CHI
+Shot Chart Detail,0021201085,140,2736,Luol Deng,1610612741,Chicago Bulls,2,9,48,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,0,1,1,20130330,DAL,CHI
+Shot Chart Detail,0021201085,155,2736,Luol Deng,1610612741,Chicago Bulls,2,8,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,32,244,1,1,20130330,DAL,CHI
+Shot Chart Detail,0021201085,182,2736,Luol Deng,1610612741,Chicago Bulls,2,3,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,141,97,1,1,20130330,DAL,CHI
+Shot Chart Detail,0021201085,291,2736,Luol Deng,1610612741,Chicago Bulls,3,4,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,108,222,1,1,20130330,DAL,CHI
+Shot Chart Detail,0021201085,393,2736,Luol Deng,1610612741,Chicago Bulls,4,6,56,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,15,1,1,20130330,DAL,CHI
+Shot Chart Detail,0021201085,410,2736,Luol Deng,1610612741,Chicago Bulls,4,4,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,119,214,1,1,20130330,DAL,CHI
+Shot Chart Detail,0021201085,416,2736,Luol Deng,1610612741,Chicago Bulls,4,4,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,95,230,1,1,20130330,DAL,CHI
+Shot Chart Detail,0021201097,66,2736,Luol Deng,1610612741,Chicago Bulls,1,5,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,155,195,1,1,20130331,CHI,DET
+Shot Chart Detail,0021201097,71,2736,Luol Deng,1610612741,Chicago Bulls,1,4,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,83,197,1,1,20130331,CHI,DET
+Shot Chart Detail,0021201097,158,2736,Luol Deng,1610612741,Chicago Bulls,2,9,28,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,0,1,1,20130331,CHI,DET
+Shot Chart Detail,0021201097,426,2736,Luol Deng,1610612741,Chicago Bulls,4,10,1,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,6,1,1,20130331,CHI,DET
+Shot Chart Detail,0021201097,458,2736,Luol Deng,1610612741,Chicago Bulls,4,8,38,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,15,1,1,20130331,CHI,DET
+Shot Chart Detail,0021201097,509,2736,Luol Deng,1610612741,Chicago Bulls,4,4,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-168,186,1,1,20130331,CHI,DET
+Shot Chart Detail,0021201097,539,2736,Luol Deng,1610612741,Chicago Bulls,4,1,5,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,7,1,1,20130331,CHI,DET
+Shot Chart Detail,0021201108,2,2736,Luol Deng,1610612741,Chicago Bulls,1,11,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,149,112,1,1,20130402,WAS,CHI
+Shot Chart Detail,0021201108,14,2736,Luol Deng,1610612741,Chicago Bulls,1,9,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-76,189,1,1,20130402,WAS,CHI
+Shot Chart Detail,0021201108,17,2736,Luol Deng,1610612741,Chicago Bulls,1,8,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,6,1,1,20130402,WAS,CHI
+Shot Chart Detail,0021201108,40,2736,Luol Deng,1610612741,Chicago Bulls,1,6,9,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,15,1,1,20130402,WAS,CHI
+Shot Chart Detail,0021201108,348,2736,Luol Deng,1610612741,Chicago Bulls,3,0,24,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,9,47,1,1,20130402,WAS,CHI
+Shot Chart Detail,0021201123,23,2736,Luol Deng,1610612741,Chicago Bulls,1,9,1,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,1,1,1,20130404,BKN,CHI
+Shot Chart Detail,0021201123,76,2736,Luol Deng,1610612741,Chicago Bulls,1,2,32,Made Shot,Driving Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,39,28,1,1,20130404,BKN,CHI
+Shot Chart Detail,0021201123,278,2736,Luol Deng,1610612741,Chicago Bulls,3,7,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,7,1,1,20130404,BKN,CHI
+Shot Chart Detail,0021201123,287,2736,Luol Deng,1610612741,Chicago Bulls,3,6,10,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-10,123,1,1,20130404,BKN,CHI
+Shot Chart Detail,0021201123,294,2736,Luol Deng,1610612741,Chicago Bulls,3,5,39,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,6,1,1,20130404,BKN,CHI
+Shot Chart Detail,0021201123,378,2736,Luol Deng,1610612741,Chicago Bulls,4,10,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,4,1,1,20130404,BKN,CHI
+Shot Chart Detail,0021201123,430,2736,Luol Deng,1610612741,Chicago Bulls,4,5,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,9,1,1,20130404,BKN,CHI
+Shot Chart Detail,0021201123,482,2736,Luol Deng,1610612741,Chicago Bulls,4,0,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-191,-11,1,1,20130404,BKN,CHI
+Shot Chart Detail,0021201131,17,2736,Luol Deng,1610612741,Chicago Bulls,1,10,6,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,1,1,1,20130405,CHI,ORL
+Shot Chart Detail,0021201131,271,2736,Luol Deng,1610612741,Chicago Bulls,3,7,9,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,12,19,1,1,20130405,CHI,ORL
+Shot Chart Detail,0021201131,320,2736,Luol Deng,1610612741,Chicago Bulls,3,1,43,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-30,48,1,1,20130405,CHI,ORL
+Shot Chart Detail,0021201131,361,2736,Luol Deng,1610612741,Chicago Bulls,4,9,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-150,206,1,1,20130405,CHI,ORL
+Shot Chart Detail,0021201131,405,2736,Luol Deng,1610612741,Chicago Bulls,4,4,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,160,187,1,1,20130405,CHI,ORL
+Shot Chart Detail,0021201174,3,2736,Luol Deng,1610612741,Chicago Bulls,1,11,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,70,154,1,1,20130411,CHI,NYK
+Shot Chart Detail,0021201174,31,2736,Luol Deng,1610612741,Chicago Bulls,1,8,19,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,99,75,1,1,20130411,CHI,NYK
+Shot Chart Detail,0021201174,60,2736,Luol Deng,1610612741,Chicago Bulls,1,4,42,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,108,67,1,1,20130411,CHI,NYK
+Shot Chart Detail,0021201174,545,2736,Luol Deng,1610612741,Chicago Bulls,5,4,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-182,172,1,1,20130411,CHI,NYK
+Shot Chart Detail,0021201174,570,2736,Luol Deng,1610612741,Chicago Bulls,5,1,21,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,7,1,1,20130411,CHI,NYK
+Shot Chart Detail,0021201176,25,2736,Luol Deng,1610612741,Chicago Bulls,1,8,30,Made Shot,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,47,36,1,1,20130412,TOR,CHI
+Shot Chart Detail,0021201176,175,2736,Luol Deng,1610612741,Chicago Bulls,2,5,44,Made Shot,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,9,61,1,1,20130412,TOR,CHI
+Shot Chart Detail,0021201176,454,2736,Luol Deng,1610612741,Chicago Bulls,4,4,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-196,143,1,1,20130412,TOR,CHI
+Shot Chart Detail,0021201194,9,2736,Luol Deng,1610612741,Chicago Bulls,1,11,3,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,241,7,1,1,20130414,MIA,CHI
+Shot Chart Detail,0021201194,99,2736,Luol Deng,1610612741,Chicago Bulls,1,3,45,Made Shot,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-2,91,1,1,20130414,MIA,CHI
+Shot Chart Detail,0021201194,114,2736,Luol Deng,1610612741,Chicago Bulls,1,2,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,11,1,1,20130414,MIA,CHI
+Shot Chart Detail,0021201194,144,2736,Luol Deng,1610612741,Chicago Bulls,1,0,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,12,1,1,20130414,MIA,CHI
+Shot Chart Detail,0021201194,237,2736,Luol Deng,1610612741,Chicago Bulls,2,4,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,146,-3,1,1,20130414,MIA,CHI
+Shot Chart Detail,0021201194,352,2736,Luol Deng,1610612741,Chicago Bulls,3,5,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,88,233,1,1,20130414,MIA,CHI
+Shot Chart Detail,0021201194,549,2736,Luol Deng,1610612741,Chicago Bulls,4,2,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,7,1,1,20130414,MIA,CHI
+Shot Chart Detail,0021201194,551,2736,Luol Deng,1610612741,Chicago Bulls,4,2,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-90,9,1,1,20130414,MIA,CHI
+Shot Chart Detail,0021201203,32,2736,Luol Deng,1610612741,Chicago Bulls,1,6,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,0,1,1,20130415,ORL,CHI
+Shot Chart Detail,0021201203,50,2736,Luol Deng,1610612741,Chicago Bulls,1,4,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,160,189,1,1,20130415,ORL,CHI
+Shot Chart Detail,0021201203,61,2736,Luol Deng,1610612741,Chicago Bulls,1,3,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,-3,1,1,20130415,ORL,CHI
+Shot Chart Detail,0021201203,185,2736,Luol Deng,1610612741,Chicago Bulls,2,6,0,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,26,200,1,1,20130415,ORL,CHI
+Shot Chart Detail,0021201203,227,2736,Luol Deng,1610612741,Chicago Bulls,2,2,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,6,1,1,20130415,ORL,CHI
+Shot Chart Detail,0021201203,244,2736,Luol Deng,1610612741,Chicago Bulls,2,0,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-187,172,1,1,20130415,ORL,CHI
+Shot Chart Detail,0021201203,452,2736,Luol Deng,1610612741,Chicago Bulls,4,5,41,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,162,7,1,1,20130415,ORL,CHI
+Shot Chart Detail,0021201203,465,2736,Luol Deng,1610612741,Chicago Bulls,4,3,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,-213,3,1,1,20130415,ORL,CHI
+Shot Chart Detail,0021201222,206,2736,Luol Deng,1610612741,Chicago Bulls,2,3,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,19,1,1,20130417,CHI,WAS
+Shot Chart Detail,0021201222,460,2736,Luol Deng,1610612741,Chicago Bulls,4,1,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,136,217,1,1,20130417,CHI,WAS

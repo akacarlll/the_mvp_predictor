@@ -1,0 +1,414 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0021400018,2,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,11,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,11,1,1,20141030,CLE,NYK
+Shot Chart Detail,0021400018,18,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,8,57,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-231,42,1,1,20141030,CLE,NYK
+Shot Chart Detail,0021400018,56,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,4,21,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,4,1,1,20141030,CLE,NYK
+Shot Chart Detail,0021400018,114,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,0,30,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141030,CLE,NYK
+Shot Chart Detail,0021400018,215,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,2,24,Made Shot,Jump Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,84,41,1,1,20141030,CLE,NYK
+Shot Chart Detail,0021400018,484,201567,Kevin Love,1610612739,Cleveland Cavaliers,4,2,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,1,254,1,1,20141030,CLE,NYK
+Shot Chart Detail,0021400022,72,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,5,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-190,159,1,1,20141031,CHI,CLE
+Shot Chart Detail,0021400022,338,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,3,20,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,4,1,1,20141031,CHI,CLE
+Shot Chart Detail,0021400022,354,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,1,47,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-40,53,1,1,20141031,CHI,CLE
+Shot Chart Detail,0021400022,362,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,0,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,-177,126,1,1,20141031,CHI,CLE
+Shot Chart Detail,0021400022,497,201567,Kevin Love,1610612739,Cleveland Cavaliers,4,1,6,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141031,CHI,CLE
+Shot Chart Detail,0021400055,20,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,9,43,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,1,1,1,20141104,POR,CLE
+Shot Chart Detail,0021400055,22,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,9,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,136,209,1,1,20141104,POR,CLE
+Shot Chart Detail,0021400055,46,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,6,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,192,153,1,1,20141104,POR,CLE
+Shot Chart Detail,0021400055,184,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,5,46,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,0,34,1,1,20141104,POR,CLE
+Shot Chart Detail,0021400055,297,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,6,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-114,222,1,1,20141104,POR,CLE
+Shot Chart Detail,0021400055,322,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,4,34,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,231,11,1,1,20141104,POR,CLE
+Shot Chart Detail,0021400055,428,201567,Kevin Love,1610612739,Cleveland Cavaliers,4,6,52,Made Shot,Jump Bank Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,15,1,1,20141104,POR,CLE
+Shot Chart Detail,0021400066,10,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,9,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-71,192,1,1,20141105,UTA,CLE
+Shot Chart Detail,0021400066,13,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,9,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-179,167,1,1,20141105,UTA,CLE
+Shot Chart Detail,0021400081,3,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,11,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,179,42,1,1,20141107,DEN,CLE
+Shot Chart Detail,0021400081,64,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,6,43,Made Shot,Jump Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,89,9,1,1,20141107,DEN,CLE
+Shot Chart Detail,0021400081,66,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,6,7,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-122,41,1,1,20141107,DEN,CLE
+Shot Chart Detail,0021400081,316,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,8,49,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-51,20,1,1,20141107,DEN,CLE
+Shot Chart Detail,0021400081,337,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,7,4,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,-3,1,1,20141107,DEN,CLE
+Shot Chart Detail,0021400081,459,201567,Kevin Love,1610612739,Cleveland Cavaliers,4,6,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,6,1,1,20141107,DEN,CLE
+Shot Chart Detail,0021400098,14,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,10,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-141,205,1,1,20141110,CLE,NOP
+Shot Chart Detail,0021400098,148,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,9,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,0,1,1,20141110,CLE,NOP
+Shot Chart Detail,0021400098,255,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,0,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,2,244,1,1,20141110,CLE,NOP
+Shot Chart Detail,0021400098,421,201567,Kevin Love,1610612739,Cleveland Cavaliers,4,10,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-187,167,1,1,20141110,CLE,NOP
+Shot Chart Detail,0021400098,423,201567,Kevin Love,1610612739,Cleveland Cavaliers,4,10,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-177,189,1,1,20141110,CLE,NOP
+Shot Chart Detail,0021400098,434,201567,Kevin Love,1610612739,Cleveland Cavaliers,4,8,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,121,220,1,1,20141110,CLE,NOP
+Shot Chart Detail,0021400098,499,201567,Kevin Love,1610612739,Cleveland Cavaliers,4,3,29,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-239,7,1,1,20141110,CLE,NOP
+Shot Chart Detail,0021400125,219,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,4,58,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141114,BOS,CLE
+Shot Chart Detail,0021400125,287,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,10,48,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,-2,1,1,20141114,BOS,CLE
+Shot Chart Detail,0021400133,12,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,9,58,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,1,1,1,20141115,CLE,ATL
+Shot Chart Detail,0021400133,31,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,7,25,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,34,47,1,1,20141115,CLE,ATL
+Shot Chart Detail,0021400133,61,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,3,55,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,20,1,1,20141115,CLE,ATL
+Shot Chart Detail,0021400133,81,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,1,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,95,156,1,1,20141115,CLE,ATL
+Shot Chart Detail,0021400133,233,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,0,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-183,172,1,1,20141115,CLE,ATL
+Shot Chart Detail,0021400147,50,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,6,54,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-138,42,1,1,20141117,CLE,DEN
+Shot Chart Detail,0021400147,73,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,4,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,7,1,1,20141117,CLE,DEN
+Shot Chart Detail,0021400147,114,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,1,20,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,0,52,1,1,20141117,CLE,DEN
+Shot Chart Detail,0021400147,219,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,4,7,Made Shot,Turnaround Bank shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,73,36,1,1,20141117,CLE,DEN
+Shot Chart Detail,0021400147,223,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,3,41,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,0,1,1,20141117,CLE,DEN
+Shot Chart Detail,0021400147,288,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,10,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-86,242,1,1,20141117,CLE,DEN
+Shot Chart Detail,0021400147,290,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,9,56,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-23,72,1,1,20141117,CLE,DEN
+Shot Chart Detail,0021400159,55,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,5,27,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-112,64,1,1,20141119,CLE,SAS
+Shot Chart Detail,0021400159,248,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,11,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,4,1,1,20141119,CLE,SAS
+Shot Chart Detail,0021400159,258,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,10,21,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-158,11,1,1,20141119,CLE,SAS
+Shot Chart Detail,0021400159,266,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,9,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,0,1,1,20141119,CLE,SAS
+Shot Chart Detail,0021400179,78,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,3,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,201,170,1,1,20141121,WAS,CLE
+Shot Chart Detail,0021400179,167,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,6,54,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,157,33,1,1,20141121,WAS,CLE
+Shot Chart Detail,0021400179,186,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,4,53,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,37,1,1,20141121,WAS,CLE
+Shot Chart Detail,0021400186,85,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,5,23,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-158,44,1,1,20141122,CLE,TOR
+Shot Chart Detail,0021400186,92,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,4,34,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-37,69,1,1,20141122,CLE,TOR
+Shot Chart Detail,0021400186,104,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,4,4,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-163,14,1,1,20141122,CLE,TOR
+Shot Chart Detail,0021400186,353,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,9,44,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,2,44,1,1,20141122,CLE,TOR
+Shot Chart Detail,0021400186,357,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,9,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,0,1,1,20141122,CLE,TOR
+Shot Chart Detail,0021400186,375,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,7,4,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,9,1,1,20141122,CLE,TOR
+Shot Chart Detail,0021400186,544,201567,Kevin Love,1610612739,Cleveland Cavaliers,4,5,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,14,1,1,20141122,CLE,TOR
+Shot Chart Detail,0021400186,547,201567,Kevin Love,1610612739,Cleveland Cavaliers,4,5,20,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,23,71,1,1,20141122,CLE,TOR
+Shot Chart Detail,0021400199,67,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,5,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,1,1,1,20141124,CLE,ORL
+Shot Chart Detail,0021400199,181,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,6,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-149,104,1,1,20141124,CLE,ORL
+Shot Chart Detail,0021400199,184,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,5,56,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-150,45,1,1,20141124,CLE,ORL
+Shot Chart Detail,0021400199,210,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,3,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,-8,1,1,20141124,CLE,ORL
+Shot Chart Detail,0021400199,335,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,3,46,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141124,CLE,ORL
+Shot Chart Detail,0021400211,73,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,4,55,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141126,CLE,WAS
+Shot Chart Detail,0021400211,174,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,7,50,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,7,1,1,20141126,CLE,WAS
+Shot Chart Detail,0021400211,211,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,5,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,6,1,1,20141126,CLE,WAS
+Shot Chart Detail,0021400211,284,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,11,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-11,20,1,1,20141126,CLE,WAS
+Shot Chart Detail,0021400211,338,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,7,8,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,25,-239,77,1,1,20141126,CLE,WAS
+Shot Chart Detail,0021400211,450,201567,Kevin Love,1610612739,Cleveland Cavaliers,4,11,13,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,1,1,1,20141126,CLE,WAS
+Shot Chart Detail,0021400211,474,201567,Kevin Love,1610612739,Cleveland Cavaliers,4,9,24,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,86,34,1,1,20141126,CLE,WAS
+Shot Chart Detail,0021400238,2,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,11,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-127,71,1,1,20141129,CLE,IND
+Shot Chart Detail,0021400238,27,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,9,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-119,227,1,1,20141129,CLE,IND
+Shot Chart Detail,0021400238,31,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,8,39,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,14,1,1,20141129,CLE,IND
+Shot Chart Detail,0021400238,38,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,8,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-97,247,1,1,20141129,CLE,IND
+Shot Chart Detail,0021400238,52,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,6,44,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,15,67,1,1,20141129,CLE,IND
+Shot Chart Detail,0021400238,219,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,5,47,Made Shot,Jump Hook Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-81,45,1,1,20141129,CLE,IND
+Shot Chart Detail,0021400238,235,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,3,9,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,1,1,1,20141129,CLE,IND
+Shot Chart Detail,0021400238,286,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,11,25,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-171,42,1,1,20141129,CLE,IND
+Shot Chart Detail,0021400238,382,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,4,25,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-70,78,1,1,20141129,CLE,IND
+Shot Chart Detail,0021400253,29,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,9,15,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,11,1,1,20141202,CLE,MIL
+Shot Chart Detail,0021400253,53,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,7,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,1,1,1,20141202,CLE,MIL
+Shot Chart Detail,0021400253,94,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,3,58,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,-3,1,1,20141202,CLE,MIL
+Shot Chart Detail,0021400253,97,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,3,20,Made Shot,Jump Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,89,14,1,1,20141202,CLE,MIL
+Shot Chart Detail,0021400253,101,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,2,48,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,39,1,1,20141202,CLE,MIL
+Shot Chart Detail,0021400253,123,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,0,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,78,242,1,1,20141202,CLE,MIL
+Shot Chart Detail,0021400253,267,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,0,0,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-3,1,1,20141202,CLE,MIL
+Shot Chart Detail,0021400253,276,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,11,11,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,39,15,1,1,20141202,CLE,MIL
+Shot Chart Detail,0021400253,360,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,3,3,Made Shot,Jump Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,99,9,1,1,20141202,CLE,MIL
+Shot Chart Detail,0021400253,465,201567,Kevin Love,1610612739,Cleveland Cavaliers,4,4,44,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,-2,1,1,20141202,CLE,MIL
+Shot Chart Detail,0021400273,31,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,8,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,6,1,1,20141204,NYK,CLE
+Shot Chart Detail,0021400273,36,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,7,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-166,36,1,1,20141204,NYK,CLE
+Shot Chart Detail,0021400273,55,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,5,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,203,48,1,1,20141204,NYK,CLE
+Shot Chart Detail,0021400273,415,201567,Kevin Love,1610612739,Cleveland Cavaliers,4,6,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,1,1,1,20141204,NYK,CLE
+Shot Chart Detail,0021400281,12,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,10,4,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,231,-17,1,1,20141205,TOR,CLE
+Shot Chart Detail,0021400281,95,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,2,45,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,-11,1,1,20141205,TOR,CLE
+Shot Chart Detail,0021400281,112,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,0,41,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,239,-2,1,1,20141205,TOR,CLE
+Shot Chart Detail,0021400281,231,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,2,26,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,0,1,1,20141205,TOR,CLE
+Shot Chart Detail,0021400281,325,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,5,55,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-34,7,1,1,20141205,TOR,CLE
+Shot Chart Detail,0021400303,4,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,11,23,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-131,88,1,1,20141208,BKN,CLE
+Shot Chart Detail,0021400303,6,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,10,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,184,77,1,1,20141208,BKN,CLE
+Shot Chart Detail,0021400303,53,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,5,41,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-155,7,1,1,20141208,BKN,CLE
+Shot Chart Detail,0021400303,55,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,5,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-19,-2,1,1,20141208,BKN,CLE
+Shot Chart Detail,0021400303,67,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,3,19,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,-13,1,1,20141208,BKN,CLE
+Shot Chart Detail,0021400303,91,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,1,5,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,-10,1,1,20141208,BKN,CLE
+Shot Chart Detail,0021400303,310,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,6,30,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-155,47,1,1,20141208,BKN,CLE
+Shot Chart Detail,0021400308,2,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,11,45,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141209,CLE,TOR
+Shot Chart Detail,0021400308,38,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,7,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,9,1,1,20141209,CLE,TOR
+Shot Chart Detail,0021400308,200,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,3,53,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,1,1,1,20141209,CLE,TOR
+Shot Chart Detail,0021400308,260,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,9,30,Made Shot,Jump Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,113,7,1,1,20141209,CLE,TOR
+Shot Chart Detail,0021400308,265,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,8,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,154,-2,1,1,20141209,CLE,TOR
+Shot Chart Detail,0021400308,451,201567,Kevin Love,1610612739,Cleveland Cavaliers,4,3,50,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,-8,1,1,20141209,CLE,TOR
+Shot Chart Detail,0021400326,48,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,6,37,Made Shot,Turnaround Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,6,39,1,1,20141211,OKC,CLE
+Shot Chart Detail,0021400326,51,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,6,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-160,74,1,1,20141211,OKC,CLE
+Shot Chart Detail,0021400326,82,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,3,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-30,214,1,1,20141211,OKC,CLE
+Shot Chart Detail,0021400326,291,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,9,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-179,175,1,1,20141211,OKC,CLE
+Shot Chart Detail,0021400326,343,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,6,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-130,205,1,1,20141211,OKC,CLE
+Shot Chart Detail,0021400336,37,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,8,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,149,22,1,1,20141212,NOP,CLE
+Shot Chart Detail,0021400336,248,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,5,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,19,1,1,20141212,NOP,CLE
+Shot Chart Detail,0021400336,267,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,3,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,14,1,1,20141212,NOP,CLE
+Shot Chart Detail,0021400336,285,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,1,1,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,12,1,1,20141212,NOP,CLE
+Shot Chart Detail,0021400336,516,201567,Kevin Love,1610612739,Cleveland Cavaliers,4,0,15,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-26,15,1,1,20141212,NOP,CLE
+Shot Chart Detail,0021400355,2,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,11,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-166,30,1,1,20141215,CLE,CHA
+Shot Chart Detail,0021400355,21,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,9,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-160,197,1,1,20141215,CLE,CHA
+Shot Chart Detail,0021400355,48,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,6,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-226,102,1,1,20141215,CLE,CHA
+Shot Chart Detail,0021400355,240,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,10,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,138,7,1,1,20141215,CLE,CHA
+Shot Chart Detail,0021400355,243,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,10,14,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-234,75,1,1,20141215,CLE,CHA
+Shot Chart Detail,0021400355,334,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,1,35,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,34,1,1,20141215,CLE,CHA
+Shot Chart Detail,0021400355,467,201567,Kevin Love,1610612739,Cleveland Cavaliers,4,2,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,3,1,1,20141215,CLE,CHA
+Shot Chart Detail,0021400370,26,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,8,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-11,261,1,1,20141217,CLE,ATL
+Shot Chart Detail,0021400370,38,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,6,40,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-138,75,1,1,20141217,CLE,ATL
+Shot Chart Detail,0021400370,76,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,3,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-223,102,1,1,20141217,CLE,ATL
+Shot Chart Detail,0021400370,315,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,1,29,Made Shot,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,48,36,1,1,20141217,CLE,ATL
+Shot Chart Detail,0021400386,8,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,10,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,12,1,1,20141219,CLE,BKN
+Shot Chart Detail,0021400401,8,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,10,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-179,94,1,1,20141221,CLE,MEM
+Shot Chart Detail,0021400401,37,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,6,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-122,17,1,1,20141221,CLE,MEM
+Shot Chart Detail,0021400401,75,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,2,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-150,33,1,1,20141221,CLE,MEM
+Shot Chart Detail,0021400401,229,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,11,41,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-97,80,1,1,20141221,CLE,MEM
+Shot Chart Detail,0021400416,70,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,5,35,Made Shot,Turnaround Bank Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,70,55,1,1,20141223,CLE,MIN
+Shot Chart Detail,0021400416,89,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,3,57,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,19,1,1,20141223,CLE,MIN
+Shot Chart Detail,0021400416,207,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,5,49,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-19,61,1,1,20141223,CLE,MIN
+Shot Chart Detail,0021400416,416,201567,Kevin Love,1610612739,Cleveland Cavaliers,4,11,49,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,7,1,1,20141223,CLE,MIN
+Shot Chart Detail,0021400416,529,201567,Kevin Love,1610612739,Cleveland Cavaliers,4,5,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,6,1,1,20141223,CLE,MIN
+Shot Chart Detail,0021400429,33,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,7,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,181,0,1,1,20141225,MIA,CLE
+Shot Chart Detail,0021400429,68,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,5,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,1,1,1,20141225,MIA,CLE
+Shot Chart Detail,0021400429,225,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,3,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,11,1,1,20141225,MIA,CLE
+Shot Chart Detail,0021400429,285,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,9,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-142,64,1,1,20141225,MIA,CLE
+Shot Chart Detail,0021400429,304,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,8,29,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,1,61,1,1,20141225,MIA,CLE
+Shot Chart Detail,0021400433,11,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,10,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,223,116,1,1,20141226,ORL,CLE
+Shot Chart Detail,0021400433,25,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,7,20,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141226,ORL,CLE
+Shot Chart Detail,0021400433,32,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,6,23,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-142,69,1,1,20141226,ORL,CLE
+Shot Chart Detail,0021400433,43,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,4,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,1,28,1,1,20141226,ORL,CLE
+Shot Chart Detail,0021400433,88,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,1,25,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,6,1,1,20141226,ORL,CLE
+Shot Chart Detail,0021400433,126,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,9,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,19,1,1,20141226,ORL,CLE
+Shot Chart Detail,0021400433,251,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,11,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,61,239,1,1,20141226,ORL,CLE
+Shot Chart Detail,0021400453,5,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,11,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-163,6,1,1,20141228,CLE,DET
+Shot Chart Detail,0021400453,45,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,6,8,Made Shot,Running Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141228,CLE,DET
+Shot Chart Detail,0021400453,101,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,1,35,Made Shot,Running Bank shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,15,37,1,1,20141228,CLE,DET
+Shot Chart Detail,0021400453,119,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,11,43,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-24,127,1,1,20141228,CLE,DET
+Shot Chart Detail,0021400453,122,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,11,16,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,0,1,1,20141228,CLE,DET
+Shot Chart Detail,0021400453,243,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,0,2,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,52,1,1,20141228,CLE,DET
+Shot Chart Detail,0021400453,285,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,8,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,-6,1,1,20141228,CLE,DET
+Shot Chart Detail,0021400453,300,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,6,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,170,64,1,1,20141228,CLE,DET
+Shot Chart Detail,0021400453,320,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,3,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-125,153,1,1,20141228,CLE,DET
+Shot Chart Detail,0021400466,140,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,11,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-67,242,1,1,20141230,ATL,CLE
+Shot Chart Detail,0021400484,9,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,10,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,83,187,1,1,20150102,CHA,CLE
+Shot Chart Detail,0021400484,14,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,9,47,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150102,CHA,CLE
+Shot Chart Detail,0021400484,173,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,8,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,11,1,1,20150102,CHA,CLE
+Shot Chart Detail,0021400484,277,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,0,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,4,1,1,20150102,CHA,CLE
+Shot Chart Detail,0021400484,298,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,10,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,108,230,1,1,20150102,CHA,CLE
+Shot Chart Detail,0021400484,300,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,9,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,99,238,1,1,20150102,CHA,CLE
+Shot Chart Detail,0021400484,304,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,9,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-180,179,1,1,20150102,CHA,CLE
+Shot Chart Detail,0021400484,458,201567,Kevin Love,1610612739,Cleveland Cavaliers,4,7,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,6,1,1,20150102,CHA,CLE
+Shot Chart Detail,0021400484,549,201567,Kevin Love,1610612739,Cleveland Cavaliers,4,0,23,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-168,15,1,1,20150102,CHA,CLE
+Shot Chart Detail,0021400503,16,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,9,24,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,7,1,1,20150104,CLE,DAL
+Shot Chart Detail,0021400503,35,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,7,25,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150104,CLE,DAL
+Shot Chart Detail,0021400503,46,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,6,9,Made Shot,Turnaround Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,100,45,1,1,20150104,CLE,DAL
+Shot Chart Detail,0021400503,56,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,5,7,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,0,1,1,20150104,CLE,DAL
+Shot Chart Detail,0021400503,60,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,4,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-202,1,1,1,20150104,CLE,DAL
+Shot Chart Detail,0021400503,134,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,9,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-166,31,1,1,20150104,CLE,DAL
+Shot Chart Detail,0021400503,147,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,8,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,31,242,1,1,20150104,CLE,DAL
+Shot Chart Detail,0021400503,197,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,3,54,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,231,14,1,1,20150104,CLE,DAL
+Shot Chart Detail,0021400503,253,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,10,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,23,124,194,1,1,20150104,CLE,DAL
+Shot Chart Detail,0021400503,312,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,4,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,3,1,1,20150104,CLE,DAL
+Shot Chart Detail,0021400503,411,201567,Kevin Love,1610612739,Cleveland Cavaliers,4,8,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,18,252,1,1,20150104,CLE,DAL
+Shot Chart Detail,0021400509,4,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,11,26,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-164,41,1,1,20150105,PHI,CLE
+Shot Chart Detail,0021400509,12,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,10,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,0,1,1,20150105,PHI,CLE
+Shot Chart Detail,0021400509,37,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,7,17,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,1,1,1,20150105,PHI,CLE
+Shot Chart Detail,0021400509,43,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,6,15,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,-6,1,1,20150105,PHI,CLE
+Shot Chart Detail,0021400509,79,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,2,47,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-144,97,1,1,20150105,PHI,CLE
+Shot Chart Detail,0021400509,146,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,8,5,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150105,PHI,CLE
+Shot Chart Detail,0021400509,268,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,8,53,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,47,52,1,1,20150105,PHI,CLE
+Shot Chart Detail,0021400509,468,201567,Kevin Love,1610612739,Cleveland Cavaliers,4,1,9,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150105,PHI,CLE
+Shot Chart Detail,0021400523,277,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,11,26,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-6,1,1,20150107,CLE,HOU
+Shot Chart Detail,0021400523,290,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,9,7,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-21,56,1,1,20150107,CLE,HOU
+Shot Chart Detail,0021400523,308,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,7,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-6,1,1,20150107,CLE,HOU
+Shot Chart Detail,0021400523,366,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,2,4,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,-8,1,1,20150107,CLE,HOU
+Shot Chart Detail,0021400523,391,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,0,30,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150107,CLE,HOU
+Shot Chart Detail,0021400523,493,201567,Kevin Love,1610612739,Cleveland Cavaliers,4,4,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,0,1,1,20150107,CLE,HOU
+Shot Chart Detail,0021400523,547,201567,Kevin Love,1610612739,Cleveland Cavaliers,4,1,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,1,1,1,20150107,CLE,HOU
+Shot Chart Detail,0021400547,25,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,9,6,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150109,GSW,CLE
+Shot Chart Detail,0021400547,212,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,5,44,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,7,1,1,20150109,GSW,CLE
+Shot Chart Detail,0021400547,219,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,5,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-89,143,1,1,20150109,GSW,CLE
+Shot Chart Detail,0021400547,222,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,4,35,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-13,20,1,1,20150109,GSW,CLE
+Shot Chart Detail,0021400547,281,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,10,39,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,7,23,1,1,20150109,GSW,CLE
+Shot Chart Detail,0021400547,439,201567,Kevin Love,1610612739,Cleveland Cavaliers,4,6,44,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,30,-100,285,1,1,20150109,GSW,CLE
+Shot Chart Detail,0021400561,10,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,10,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-144,94,1,1,20150111,SAC,CLE
+Shot Chart Detail,0021400561,13,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,10,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-163,42,1,1,20150111,SAC,CLE
+Shot Chart Detail,0021400561,55,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,4,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-15,219,1,1,20150111,SAC,CLE
+Shot Chart Detail,0021400561,57,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,4,4,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-86,22,1,1,20150111,SAC,CLE
+Shot Chart Detail,0021400561,139,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,7,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-11,156,1,1,20150111,SAC,CLE
+Shot Chart Detail,0021400561,199,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,2,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-201,146,1,1,20150111,SAC,CLE
+Shot Chart Detail,0021400561,254,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,8,1,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,39,55,1,1,20150111,SAC,CLE
+Shot Chart Detail,0021400561,316,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,2,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-166,189,1,1,20150111,SAC,CLE
+Shot Chart Detail,0021400561,318,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,1,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-134,209,1,1,20150111,SAC,CLE
+Shot Chart Detail,0021400561,358,201567,Kevin Love,1610612739,Cleveland Cavaliers,4,9,11,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,0,67,1,1,20150111,SAC,CLE
+Shot Chart Detail,0021400570,41,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,6,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,199,147,1,1,20150113,PHX,CLE
+Shot Chart Detail,0021400570,73,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,4,36,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150113,PHX,CLE
+Shot Chart Detail,0021400570,202,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,3,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,-10,1,1,20150113,PHX,CLE
+Shot Chart Detail,0021400586,12,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,10,36,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-120,80,1,1,20150115,LAL,CLE
+Shot Chart Detail,0021400586,27,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,7,49,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-15,74,1,1,20150115,LAL,CLE
+Shot Chart Detail,0021400586,187,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,6,2,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150115,LAL,CLE
+Shot Chart Detail,0021400586,362,201567,Kevin Love,1610612739,Cleveland Cavaliers,4,11,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-136,206,1,1,20150115,LAL,CLE
+Shot Chart Detail,0021400620,146,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,11,16,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-52,12,1,1,20150119,CLE,CHI
+Shot Chart Detail,0021400620,296,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,11,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-161,195,1,1,20150119,CLE,CHI
+Shot Chart Detail,0021400620,308,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,9,40,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,-2,1,1,20150119,CLE,CHI
+Shot Chart Detail,0021400626,17,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,9,34,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,-2,1,1,20150121,CLE,UTA
+Shot Chart Detail,0021400626,95,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,2,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-92,113,1,1,20150121,CLE,UTA
+Shot Chart Detail,0021400626,325,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,8,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-136,145,1,1,20150121,CLE,UTA
+Shot Chart Detail,0021400626,348,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,5,46,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,3,1,1,20150121,CLE,UTA
+Shot Chart Detail,0021400626,359,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,4,27,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-16,63,1,1,20150121,CLE,UTA
+Shot Chart Detail,0021400626,364,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,4,0,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,-2,1,1,20150121,CLE,UTA
+Shot Chart Detail,0021400626,468,201567,Kevin Love,1610612739,Cleveland Cavaliers,4,5,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,3,1,1,20150121,CLE,UTA
+Shot Chart Detail,0021400643,4,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,11,29,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,-3,1,1,20150123,CLE,CHA
+Shot Chart Detail,0021400643,42,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,6,13,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-169,41,1,1,20150123,CLE,CHA
+Shot Chart Detail,0021400643,181,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,5,48,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,4,1,1,20150123,CLE,CHA
+Shot Chart Detail,0021400658,49,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,7,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,97,225,1,1,20150125,CLE,OKC
+Shot Chart Detail,0021400658,215,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,5,7,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-10,58,1,1,20150125,CLE,OKC
+Shot Chart Detail,0021400658,324,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,7,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,106,224,1,1,20150125,CLE,OKC
+Shot Chart Detail,0021400658,343,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,5,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,138,200,1,1,20150125,CLE,OKC
+Shot Chart Detail,0021400658,395,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,1,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,18,242,1,1,20150125,CLE,OKC
+Shot Chart Detail,0021400658,512,201567,Kevin Love,1610612739,Cleveland Cavaliers,4,3,37,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-231,-16,1,1,20150125,CLE,OKC
+Shot Chart Detail,0021400676,43,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,6,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,7,1,1,20150127,DET,CLE
+Shot Chart Detail,0021400676,199,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,2,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,3,1,1,20150127,DET,CLE
+Shot Chart Detail,0021400676,275,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,6,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-125,211,1,1,20150127,DET,CLE
+Shot Chart Detail,0021400681,5,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,11,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-164,-14,1,1,20150128,CLE,POR
+Shot Chart Detail,0021400681,42,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,6,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-220,149,1,1,20150128,CLE,POR
+Shot Chart Detail,0021400681,52,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,5,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-223,146,1,1,20150128,CLE,POR
+Shot Chart Detail,0021400700,8,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,11,10,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-30,48,1,1,20150130,CLE,SAC
+Shot Chart Detail,0021400700,18,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,9,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-93,138,1,1,20150130,CLE,SAC
+Shot Chart Detail,0021400700,66,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,5,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,106,224,1,1,20150130,CLE,SAC
+Shot Chart Detail,0021400700,73,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,4,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,228,105,1,1,20150130,CLE,SAC
+Shot Chart Detail,0021400700,90,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,2,52,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-2,113,1,1,20150130,CLE,SAC
+Shot Chart Detail,0021400700,96,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,2,13,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,9,74,1,1,20150130,CLE,SAC
+Shot Chart Detail,0021400700,99,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,1,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,-3,1,1,20150130,CLE,SAC
+Shot Chart Detail,0021400700,367,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,4,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,181,-19,1,1,20150130,CLE,SAC
+Shot Chart Detail,0021400700,407,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,2,34,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-4,50,1,1,20150130,CLE,SAC
+Shot Chart Detail,0021400711,6,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,11,13,Made Shot,Jump Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-29,19,1,1,20150131,MIN,CLE
+Shot Chart Detail,0021400711,85,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,3,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-111,216,1,1,20150131,MIN,CLE
+Shot Chart Detail,0021400711,217,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,4,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,0,1,1,20150131,MIN,CLE
+Shot Chart Detail,0021400711,263,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,11,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,3,1,1,20150131,MIN,CLE
+Shot Chart Detail,0021400711,315,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,5,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,1,1,1,20150131,MIN,CLE
+Shot Chart Detail,0021400711,477,201567,Kevin Love,1610612739,Cleveland Cavaliers,4,1,43,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,3,1,1,1,20150131,MIN,CLE
+Shot Chart Detail,0021400718,10,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,10,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-164,192,1,1,20150202,CLE,PHI
+Shot Chart Detail,0021400743,3,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,11,23,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-7,64,1,1,20150205,CLE,LAC
+Shot Chart Detail,0021400743,6,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,11,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-93,228,1,1,20150205,CLE,LAC
+Shot Chart Detail,0021400743,9,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,10,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,110,231,1,1,20150205,CLE,LAC
+Shot Chart Detail,0021400743,22,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,8,49,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-68,41,1,1,20150205,CLE,LAC
+Shot Chart Detail,0021400743,194,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,5,47,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150205,CLE,LAC
+Shot Chart Detail,0021400743,375,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,5,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-81,172,1,1,20150205,CLE,LAC
+Shot Chart Detail,0021400747,8,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,10,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,23,254,1,1,20150206,IND,CLE
+Shot Chart Detail,0021400747,18,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,8,26,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,32,11,1,1,20150206,IND,CLE
+Shot Chart Detail,0021400766,7,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,11,20,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-15,56,1,1,20150208,CLE,LAL
+Shot Chart Detail,0021400766,46,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,7,17,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150208,CLE,LAL
+Shot Chart Detail,0021400766,153,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,9,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,86,238,1,1,20150208,CLE,LAL
+Shot Chart Detail,0021400766,214,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,4,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,4,1,1,20150208,CLE,LAL
+Shot Chart Detail,0021400766,225,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,3,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-34,252,1,1,20150208,CLE,LAL
+Shot Chart Detail,0021400766,228,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,2,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-223,105,1,1,20150208,CLE,LAL
+Shot Chart Detail,0021400766,234,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,2,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,65,239,1,1,20150208,CLE,LAL
+Shot Chart Detail,0021400766,237,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,1,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-229,113,1,1,20150208,CLE,LAL
+Shot Chart Detail,0021400766,267,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,11,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,192,-2,1,1,20150208,CLE,LAL
+Shot Chart Detail,0021400766,392,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,0,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-70,244,1,1,20150208,CLE,LAL
+Shot Chart Detail,0021400766,397,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,0,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-161,203,1,1,20150208,CLE,LAL
+Shot Chart Detail,0021400796,12,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,10,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-160,-16,1,1,20150211,CLE,MIA
+Shot Chart Detail,0021400796,33,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,6,47,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,29,31,1,1,20150211,CLE,MIA
+Shot Chart Detail,0021400796,60,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,4,27,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-26,56,1,1,20150211,CLE,MIA
+Shot Chart Detail,0021400796,78,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,2,52,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,6,1,1,20150211,CLE,MIA
+Shot Chart Detail,0021400796,227,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,1,55,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-161,3,1,1,20150211,CLE,MIA
+Shot Chart Detail,0021400809,11,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,10,39,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,15,14,1,1,20150220,WAS,CLE
+Shot Chart Detail,0021400809,242,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,1,14,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,3,1,1,20150220,WAS,CLE
+Shot Chart Detail,0021400809,347,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,3,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,0,1,1,20150220,WAS,CLE
+Shot Chart Detail,0021400821,9,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,10,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,-5,1,1,20150222,NYK,CLE
+Shot Chart Detail,0021400821,37,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,8,23,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-229,44,1,1,20150222,NYK,CLE
+Shot Chart Detail,0021400821,103,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,2,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150222,NYK,CLE
+Shot Chart Detail,0021400821,172,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,7,58,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-153,82,1,1,20150222,NYK,CLE
+Shot Chart Detail,0021400821,197,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,5,35,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,-2,1,1,20150222,NYK,CLE
+Shot Chart Detail,0021400821,238,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,2,25,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-78,72,1,1,20150222,NYK,CLE
+Shot Chart Detail,0021400821,346,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,2,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,195,165,1,1,20150222,NYK,CLE
+Shot Chart Detail,0021400839,52,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,7,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-198,157,1,1,20150224,DET,CLE
+Shot Chart Detail,0021400839,58,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,6,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-190,162,1,1,20150224,DET,CLE
+Shot Chart Detail,0021400839,70,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,4,36,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,244,20,1,1,20150224,DET,CLE
+Shot Chart Detail,0021400839,197,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,6,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-194,159,1,1,20150224,DET,CLE
+Shot Chart Detail,0021400839,302,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,9,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,187,190,1,1,20150224,DET,CLE
+Shot Chart Detail,0021400839,314,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,8,41,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,233,83,1,1,20150224,DET,CLE
+Shot Chart Detail,0021400839,347,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,5,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,129,233,1,1,20150224,DET,CLE
+Shot Chart Detail,0021400839,349,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,5,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-163,201,1,1,20150224,DET,CLE
+Shot Chart Detail,0021400854,207,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,5,47,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,17,1,1,20150226,CLE,GSW
+Shot Chart Detail,0021400854,257,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,1,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,83,238,1,1,20150226,CLE,GSW
+Shot Chart Detail,0021400854,373,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,4,36,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,37,41,1,1,20150226,CLE,GSW
+Shot Chart Detail,0021400854,471,201567,Kevin Love,1610612739,Cleveland Cavaliers,4,7,56,Made Shot,Running Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,1,37,1,1,20150226,CLE,GSW
+Shot Chart Detail,0021400854,564,201567,Kevin Love,1610612739,Cleveland Cavaliers,4,0,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-190,162,1,1,20150226,CLE,GSW
+Shot Chart Detail,0021400856,33,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,6,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,171,190,1,1,20150227,IND,CLE
+Shot Chart Detail,0021400856,135,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,9,19,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,28,37,1,1,20150227,IND,CLE
+Shot Chart Detail,0021400856,194,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,4,34,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,-3,1,1,20150227,IND,CLE
+Shot Chart Detail,0021400856,271,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,9,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,20,1,1,20150227,IND,CLE
+Shot Chart Detail,0021400856,398,201567,Kevin Love,1610612739,Cleveland Cavaliers,4,10,43,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-62,31,1,1,20150227,IND,CLE
+Shot Chart Detail,0021400856,424,201567,Kevin Love,1610612739,Cleveland Cavaliers,4,7,20,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-35,6,1,1,20150227,IND,CLE
+Shot Chart Detail,0021400883,73,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,3,33,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-43,44,1,1,20150301,HOU,CLE
+Shot Chart Detail,0021400883,77,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,3,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,-5,1,1,20150301,HOU,CLE
+Shot Chart Detail,0021400883,96,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,1,59,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,-8,1,1,20150301,HOU,CLE
+Shot Chart Detail,0021400883,215,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,3,39,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150301,HOU,CLE
+Shot Chart Detail,0021400883,226,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,2,51,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,47,14,1,1,20150301,HOU,CLE
+Shot Chart Detail,0021400883,312,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,8,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-202,154,1,1,20150301,HOU,CLE
+Shot Chart Detail,0021400883,319,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,6,53,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,33,1,1,20150301,HOU,CLE
+Shot Chart Detail,0021400883,331,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,6,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-2,247,1,1,20150301,HOU,CLE
+Shot Chart Detail,0021400891,10,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,10,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,155,201,1,1,20150303,CLE,BOS
+Shot Chart Detail,0021400891,172,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,7,56,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150303,CLE,BOS
+Shot Chart Detail,0021400891,279,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,9,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-160,198,1,1,20150303,CLE,BOS
+Shot Chart Detail,0021400891,282,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,8,58,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,6,1,1,20150303,CLE,BOS
+Shot Chart Detail,0021400900,10,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,10,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,189,66,1,1,20150304,TOR,CLE
+Shot Chart Detail,0021400900,180,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,5,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-87,252,1,1,20150304,TOR,CLE
+Shot Chart Detail,0021400900,193,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,3,58,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,-3,1,1,20150304,TOR,CLE
+Shot Chart Detail,0021400900,208,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,2,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,21,214,6,1,1,20150304,TOR,CLE
+Shot Chart Detail,0021400900,211,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,2,11,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,239,-8,1,1,20150304,TOR,CLE
+Shot Chart Detail,0021400900,255,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,9,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-207,160,1,1,20150304,TOR,CLE
+Shot Chart Detail,0021400915,10,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,10,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-79,236,1,1,20150306,ATL,CLE
+Shot Chart Detail,0021400915,23,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,8,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,105,224,1,1,20150306,ATL,CLE
+Shot Chart Detail,0021400915,187,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,5,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-125,220,1,1,20150306,ATL,CLE
+Shot Chart Detail,0021400915,269,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,9,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-112,217,1,1,20150306,ATL,CLE
+Shot Chart Detail,0021400924,34,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,7,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,138,209,1,1,20150307,CLE,PHX
+Shot Chart Detail,0021400924,46,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,5,48,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,-3,1,1,20150307,CLE,PHX
+Shot Chart Detail,0021400924,68,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,4,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-15,272,1,1,20150307,CLE,PHX
+Shot Chart Detail,0021400948,275,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,3,24,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150310,DAL,CLE
+Shot Chart Detail,0021400948,278,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,2,53,Made Shot,Turnaround Bank Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,45,37,1,1,20150310,DAL,CLE
+Shot Chart Detail,0021400948,350,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,9,0,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150310,DAL,CLE
+Shot Chart Detail,0021400948,369,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,7,18,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-155,50,1,1,20150310,DAL,CLE
+Shot Chart Detail,0021400948,431,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,2,43,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-13,39,1,1,20150310,DAL,CLE
+Shot Chart Detail,0021400948,443,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,1,49,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-4,41,1,1,20150310,DAL,CLE
+Shot Chart Detail,0021400948,489,201567,Kevin Love,1610612739,Cleveland Cavaliers,4,8,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-210,124,1,1,20150310,DAL,CLE
+Shot Chart Detail,0021400948,514,201567,Kevin Love,1610612739,Cleveland Cavaliers,4,6,42,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-224,20,1,1,20150310,DAL,CLE
+Shot Chart Detail,0021400948,523,201567,Kevin Love,1610612739,Cleveland Cavaliers,4,5,59,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-60,85,1,1,20150310,DAL,CLE
+Shot Chart Detail,0021400964,5,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,10,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-95,230,1,1,20150312,SAS,CLE
+Shot Chart Detail,0021400964,19,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,9,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-188,173,1,1,20150312,SAS,CLE
+Shot Chart Detail,0021401005,15,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,9,36,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,77,41,1,1,20150318,CLE,BKN
+Shot Chart Detail,0021401005,117,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,0,43,Made Shot,Jump Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-8,34,1,1,20150318,CLE,BKN
+Shot Chart Detail,0021401005,239,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,0,58,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-57,58,1,1,20150318,CLE,BKN
+Shot Chart Detail,0021401005,269,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,9,29,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,1,1,1,20150318,CLE,BKN
+Shot Chart Detail,0021401023,4,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,11,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,1,1,1,20150320,CLE,IND
+Shot Chart Detail,0021401023,273,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,11,39,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-163,22,1,1,20150320,CLE,IND
+Shot Chart Detail,0021401023,280,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,10,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,88,236,1,1,20150320,CLE,IND
+Shot Chart Detail,0021401037,27,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,8,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,1,1,1,20150322,MIL,CLE
+Shot Chart Detail,0021401037,40,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,6,57,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150322,MIL,CLE
+Shot Chart Detail,0021401037,75,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,2,45,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150322,MIL,CLE
+Shot Chart Detail,0021401037,253,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,8,27,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,244,-6,1,1,20150322,MIL,CLE
+Shot Chart Detail,0021401066,8,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,10,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-190,0,1,1,20150325,MEM,CLE
+Shot Chart Detail,0021401066,13,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,9,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-130,217,1,1,20150325,MEM,CLE
+Shot Chart Detail,0021401066,93,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,2,26,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150325,MEM,CLE
+Shot Chart Detail,0021401066,235,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,1,22,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,-2,1,1,20150325,MEM,CLE
+Shot Chart Detail,0021401066,275,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,9,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,151,142,1,1,20150325,MEM,CLE
+Shot Chart Detail,0021401066,287,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,9,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-183,1,1,1,20150325,MEM,CLE
+Shot Chart Detail,0021401066,296,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,8,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,4,1,1,20150325,MEM,CLE
+Shot Chart Detail,0021401066,307,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,6,46,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,37,69,1,1,20150325,MEM,CLE
+Shot Chart Detail,0021401066,328,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,4,22,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150325,MEM,CLE
+Shot Chart Detail,0021401066,413,201567,Kevin Love,1610612739,Cleveland Cavaliers,4,5,59,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-235,85,1,1,20150325,MEM,CLE
+Shot Chart Detail,0021401078,11,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,10,39,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,1,1,1,20150327,BKN,CLE
+Shot Chart Detail,0021401078,49,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,6,33,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,28,42,1,1,20150327,BKN,CLE
+Shot Chart Detail,0021401078,212,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,1,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,13,25,1,1,20150327,BKN,CLE
+Shot Chart Detail,0021401078,254,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,8,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-172,15,1,1,20150327,BKN,CLE
+Shot Chart Detail,0021401078,261,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,8,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,165,190,1,1,20150327,BKN,CLE
+Shot Chart Detail,0021401078,328,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,2,45,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-29,41,1,1,20150327,BKN,CLE
+Shot Chart Detail,0021401092,4,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,11,23,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-29,66,1,1,20150329,CLE,PHI
+Shot Chart Detail,0021401092,98,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,1,0,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,-3,1,1,20150329,CLE,PHI
+Shot Chart Detail,0021401092,180,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,5,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-180,179,1,1,20150329,CLE,PHI
+Shot Chart Detail,0021401092,311,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,6,26,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-239,48,1,1,20150329,CLE,PHI
+Shot Chart Detail,0021401148,28,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,7,27,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,-5,1,1,20150405,CLE,CHI
+Shot Chart Detail,0021401148,256,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,11,22,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,239,-14,1,1,20150405,CLE,CHI
+Shot Chart Detail,0021401148,278,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,8,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-169,197,1,1,20150405,CLE,CHI
+Shot Chart Detail,0021401148,503,201567,Kevin Love,1610612739,Cleveland Cavaliers,4,1,14,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-231,23,1,1,20150405,CLE,CHI
+Shot Chart Detail,0021401167,11,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,9,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,1,1,1,20150408,MIL,CLE
+Shot Chart Detail,0021401167,20,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,8,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-142,-3,1,1,20150408,MIL,CLE
+Shot Chart Detail,0021401167,80,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,2,26,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,45,-2,1,1,20150408,MIL,CLE
+Shot Chart Detail,0021401167,85,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,1,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,6,1,1,20150408,MIL,CLE
+Shot Chart Detail,0021401167,219,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,2,23,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-158,14,1,1,20150408,MIL,CLE
+Shot Chart Detail,0021401167,271,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,9,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-224,126,1,1,20150408,MIL,CLE
+Shot Chart Detail,0021401167,439,201567,Kevin Love,1610612739,Cleveland Cavaliers,4,3,59,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-3,1,1,20150408,MIL,CLE
+Shot Chart Detail,0021401178,58,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,5,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,160,198,1,1,20150410,CLE,BOS
+Shot Chart Detail,0021401178,192,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,5,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-116,233,1,1,20150410,CLE,BOS
+Shot Chart Detail,0021401178,210,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,3,55,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-112,48,1,1,20150410,CLE,BOS
+Shot Chart Detail,0021401178,229,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,1,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,0,1,1,20150410,CLE,BOS
+Shot Chart Detail,0021401178,294,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,7,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,159,195,1,1,20150410,CLE,BOS
+Shot Chart Detail,0021401178,387,201567,Kevin Love,1610612739,Cleveland Cavaliers,3,1,16,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,42,1,1,20150410,CLE,BOS
+Shot Chart Detail,0021401203,64,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,5,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-8,1,1,20150413,CLE,DET
+Shot Chart Detail,0021401203,117,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,1,39,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-238,56,1,1,20150413,CLE,DET
+Shot Chart Detail,0021401203,409,201567,Kevin Love,1610612739,Cleveland Cavaliers,4,7,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,22,-212,67,1,1,20150413,CLE,DET
+Shot Chart Detail,0021401225,75,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,4,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-174,189,1,1,20150415,CLE,WAS
+Shot Chart Detail,0021401225,80,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,3,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-103,227,1,1,20150415,CLE,WAS
+Shot Chart Detail,0021401225,94,201567,Kevin Love,1610612739,Cleveland Cavaliers,1,2,9,Made Shot,Jump Hook Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-98,55,1,1,20150415,CLE,WAS
+Shot Chart Detail,0021401225,171,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,6,36,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-231,12,1,1,20150415,CLE,WAS
+Shot Chart Detail,0021401225,207,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,4,24,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-242,9,1,1,20150415,CLE,WAS
+Shot Chart Detail,0021401225,230,201567,Kevin Love,1610612739,Cleveland Cavaliers,2,2,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-204,157,1,1,20150415,CLE,WAS

@@ -1,0 +1,488 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0022200007,16,1629639,Tyler Herro,1610612748,Miami Heat,1,11,3,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,145,214,1,1,20221019,MIA,CHI
+Shot Chart Detail,0022200007,22,1629639,Tyler Herro,1610612748,Miami Heat,1,9,58,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,5,81,1,1,20221019,MIA,CHI
+Shot Chart Detail,0022200007,25,1629639,Tyler Herro,1610612748,Miami Heat,1,9,28,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,-6,1,1,20221019,MIA,CHI
+Shot Chart Detail,0022200007,66,1629639,Tyler Herro,1610612748,Miami Heat,1,7,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,190,174,1,1,20221019,MIA,CHI
+Shot Chart Detail,0022200007,272,1629639,Tyler Herro,1610612748,Miami Heat,2,4,45,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,12,1,1,20221019,MIA,CHI
+Shot Chart Detail,0022200007,324,1629639,Tyler Herro,1610612748,Miami Heat,2,0,59,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,7,1,1,20221019,MIA,CHI
+Shot Chart Detail,0022200007,374,1629639,Tyler Herro,1610612748,Miami Heat,3,9,52,Made Shot,Pullup Jump shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,237,56,1,1,20221019,MIA,CHI
+Shot Chart Detail,0022200007,448,1629639,Tyler Herro,1610612748,Miami Heat,3,3,27,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-28,11,1,1,20221019,MIA,CHI
+Shot Chart Detail,0022200022,25,1629639,Tyler Herro,1610612748,Miami Heat,1,10,18,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,19,1,1,20221021,MIA,BOS
+Shot Chart Detail,0022200022,197,1629639,Tyler Herro,1610612748,Miami Heat,2,8,6,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,223,106,1,1,20221021,MIA,BOS
+Shot Chart Detail,0022200022,226,1629639,Tyler Herro,1610612748,Miami Heat,2,6,3,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-50,29,1,1,20221021,MIA,BOS
+Shot Chart Detail,0022200022,240,1629639,Tyler Herro,1610612748,Miami Heat,2,4,42,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,15,1,1,20221021,MIA,BOS
+Shot Chart Detail,0022200022,264,1629639,Tyler Herro,1610612748,Miami Heat,2,3,19,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,15,1,1,20221021,MIA,BOS
+Shot Chart Detail,0022200022,268,1629639,Tyler Herro,1610612748,Miami Heat,2,2,43,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-9,104,1,1,20221021,MIA,BOS
+Shot Chart Detail,0022200022,318,1629639,Tyler Herro,1610612748,Miami Heat,3,10,40,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,1,23,1,1,20221021,MIA,BOS
+Shot Chart Detail,0022200022,330,1629639,Tyler Herro,1610612748,Miami Heat,3,9,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,30,-112,285,1,1,20221021,MIA,BOS
+Shot Chart Detail,0022200022,586,1629639,Tyler Herro,1610612748,Miami Heat,4,2,42,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,6,1,1,20221021,MIA,BOS
+Shot Chart Detail,0022200022,608,1629639,Tyler Herro,1610612748,Miami Heat,4,0,42,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,88,131,1,1,20221021,MIA,BOS
+Shot Chart Detail,0022200031,36,1629639,Tyler Herro,1610612748,Miami Heat,1,9,19,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,213,182,1,1,20221022,MIA,TOR
+Shot Chart Detail,0022200031,136,1629639,Tyler Herro,1610612748,Miami Heat,1,2,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-131,11,1,1,20221022,MIA,TOR
+Shot Chart Detail,0022200031,257,1629639,Tyler Herro,1610612748,Miami Heat,2,5,41,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,16,1,1,20221022,MIA,TOR
+Shot Chart Detail,0022200031,585,1629639,Tyler Herro,1610612748,Miami Heat,4,6,26,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,18,1,1,20221022,MIA,TOR
+Shot Chart Detail,0022200045,14,1629639,Tyler Herro,1610612748,Miami Heat,1,10,29,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-37,34,1,1,20221024,MIA,TOR
+Shot Chart Detail,0022200045,17,1629639,Tyler Herro,1610612748,Miami Heat,1,10,1,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,15,95,1,1,20221024,MIA,TOR
+Shot Chart Detail,0022200045,45,1629639,Tyler Herro,1610612748,Miami Heat,1,6,50,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-27,25,1,1,20221024,MIA,TOR
+Shot Chart Detail,0022200045,111,1629639,Tyler Herro,1610612748,Miami Heat,1,2,18,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-124,1,1,1,20221024,MIA,TOR
+Shot Chart Detail,0022200045,333,1629639,Tyler Herro,1610612748,Miami Heat,3,11,40,Made Shot,Running Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,33,25,1,1,20221024,MIA,TOR
+Shot Chart Detail,0022200045,349,1629639,Tyler Herro,1610612748,Miami Heat,3,10,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-66,256,1,1,20221024,MIA,TOR
+Shot Chart Detail,0022200045,579,1629639,Tyler Herro,1610612748,Miami Heat,4,4,22,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,156,112,1,1,20221024,MIA,TOR
+Shot Chart Detail,0022200045,598,1629639,Tyler Herro,1610612748,Miami Heat,4,1,52,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-156,236,1,1,20221024,MIA,TOR
+Shot Chart Detail,0022200065,256,1629639,Tyler Herro,1610612748,Miami Heat,2,6,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,75,272,1,1,20221026,POR,MIA
+Shot Chart Detail,0022200065,298,1629639,Tyler Herro,1610612748,Miami Heat,2,2,53,Made Shot,Running Pull-Up Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-18,32,1,1,20221026,POR,MIA
+Shot Chart Detail,0022200065,441,1629639,Tyler Herro,1610612748,Miami Heat,3,3,47,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,214,118,1,1,20221026,POR,MIA
+Shot Chart Detail,0022200065,445,1629639,Tyler Herro,1610612748,Miami Heat,3,3,9,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-130,259,1,1,20221026,POR,MIA
+Shot Chart Detail,0022200065,476,1629639,Tyler Herro,1610612748,Miami Heat,3,1,16,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-47,41,1,1,20221026,POR,MIA
+Shot Chart Detail,0022200068,30,1629639,Tyler Herro,1610612748,Miami Heat,1,9,23,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,192,203,1,1,20221027,GSW,MIA
+Shot Chart Detail,0022200068,80,1629639,Tyler Herro,1610612748,Miami Heat,1,5,5,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,12,155,1,1,20221027,GSW,MIA
+Shot Chart Detail,0022200068,462,1629639,Tyler Herro,1610612748,Miami Heat,3,1,25,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-134,111,1,1,20221027,GSW,MIA
+Shot Chart Detail,0022200081,212,1629639,Tyler Herro,1610612748,Miami Heat,2,10,5,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-42,47,1,1,20221029,SAC,MIA
+Shot Chart Detail,0022200081,238,1629639,Tyler Herro,1610612748,Miami Heat,2,8,22,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-167,194,1,1,20221029,SAC,MIA
+Shot Chart Detail,0022200081,268,1629639,Tyler Herro,1610612748,Miami Heat,2,6,9,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,31,258,1,1,20221029,SAC,MIA
+Shot Chart Detail,0022200081,279,1629639,Tyler Herro,1610612748,Miami Heat,2,5,20,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,46,1,1,20221029,SAC,MIA
+Shot Chart Detail,0022200081,385,1629639,Tyler Herro,1610612748,Miami Heat,3,9,59,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,22,8,1,1,20221029,SAC,MIA
+Shot Chart Detail,0022200081,421,1629639,Tyler Herro,1610612748,Miami Heat,3,7,11,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-7,29,1,1,20221029,SAC,MIA
+Shot Chart Detail,0022200081,444,1629639,Tyler Herro,1610612748,Miami Heat,3,5,9,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-31,94,1,1,20221029,SAC,MIA
+Shot Chart Detail,0022200081,543,1629639,Tyler Herro,1610612748,Miami Heat,4,11,12,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,167,16,1,1,20221029,SAC,MIA
+Shot Chart Detail,0022200081,592,1629639,Tyler Herro,1610612748,Miami Heat,4,8,41,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,19,1,1,20221029,SAC,MIA
+Shot Chart Detail,0022200081,596,1629639,Tyler Herro,1610612748,Miami Heat,4,8,7,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-7,252,1,1,20221029,SAC,MIA
+Shot Chart Detail,0022200081,624,1629639,Tyler Herro,1610612748,Miami Heat,4,7,49,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,61,123,1,1,20221029,SAC,MIA
+Shot Chart Detail,0022200081,613,1629639,Tyler Herro,1610612748,Miami Heat,4,7,19,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-188,155,1,1,20221029,SAC,MIA
+Shot Chart Detail,0022200081,658,1629639,Tyler Herro,1610612748,Miami Heat,4,3,47,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,5,11,1,1,20221029,SAC,MIA
+Shot Chart Detail,0022200104,104,1629639,Tyler Herro,1610612748,Miami Heat,1,3,39,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,11,1,1,20221101,MIA,GSW
+Shot Chart Detail,0022200109,19,1629639,Tyler Herro,1610612748,Miami Heat,1,10,29,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,22,15,1,1,20221102,MIA,SAC
+Shot Chart Detail,0022200109,86,1629639,Tyler Herro,1610612748,Miami Heat,1,3,28,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,11,1,1,20221102,MIA,SAC
+Shot Chart Detail,0022200109,104,1629639,Tyler Herro,1610612748,Miami Heat,1,1,55,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-146,0,1,1,20221102,MIA,SAC
+Shot Chart Detail,0022200109,242,1629639,Tyler Herro,1610612748,Miami Heat,2,3,58,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,161,205,1,1,20221102,MIA,SAC
+Shot Chart Detail,0022200109,391,1629639,Tyler Herro,1610612748,Miami Heat,3,4,25,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,22,5,1,1,20221102,MIA,SAC
+Shot Chart Detail,0022200109,398,1629639,Tyler Herro,1610612748,Miami Heat,3,3,21,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,94,121,1,1,20221102,MIA,SAC
+Shot Chart Detail,0022200109,523,1629639,Tyler Herro,1610612748,Miami Heat,4,8,13,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-20,49,1,1,20221102,MIA,SAC
+Shot Chart Detail,0022200109,557,1629639,Tyler Herro,1610612748,Miami Heat,4,5,45,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20221102,MIA,SAC
+Shot Chart Detail,0022200109,570,1629639,Tyler Herro,1610612748,Miami Heat,4,4,39,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-22,116,1,1,20221102,MIA,SAC
+Shot Chart Detail,0022200109,574,1629639,Tyler Herro,1610612748,Miami Heat,4,4,3,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,123,109,1,1,20221102,MIA,SAC
+Shot Chart Detail,0022200109,612,1629639,Tyler Herro,1610612748,Miami Heat,4,0,41,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,4,1,1,20221102,MIA,SAC
+Shot Chart Detail,0022200109,632,1629639,Tyler Herro,1610612748,Miami Heat,4,0,2,Made Shot,Fadeaway Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-70,262,1,1,20221102,MIA,SAC
+Shot Chart Detail,0022200121,22,1629639,Tyler Herro,1610612748,Miami Heat,1,10,17,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,-15,1,1,20221104,IND,MIA
+Shot Chart Detail,0022200121,46,1629639,Tyler Herro,1610612748,Miami Heat,1,7,52,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,48,62,1,1,20221104,IND,MIA
+Shot Chart Detail,0022200121,267,1629639,Tyler Herro,1610612748,Miami Heat,2,5,59,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,17,1,1,20221104,IND,MIA
+Shot Chart Detail,0022200121,270,1629639,Tyler Herro,1610612748,Miami Heat,2,5,31,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-129,239,1,1,20221104,IND,MIA
+Shot Chart Detail,0022200121,358,1629639,Tyler Herro,1610612748,Miami Heat,3,11,30,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,131,246,1,1,20221104,IND,MIA
+Shot Chart Detail,0022200121,375,1629639,Tyler Herro,1610612748,Miami Heat,3,9,52,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,50,55,1,1,20221104,IND,MIA
+Shot Chart Detail,0022200121,388,1629639,Tyler Herro,1610612748,Miami Heat,3,7,59,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-6,283,1,1,20221104,IND,MIA
+Shot Chart Detail,0022200121,420,1629639,Tyler Herro,1610612748,Miami Heat,3,4,36,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,66,49,1,1,20221104,IND,MIA
+Shot Chart Detail,0022200265,381,1629639,Tyler Herro,1610612748,Miami Heat,3,10,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,4,272,1,1,20221123,MIA,WAS
+Shot Chart Detail,0022200265,408,1629639,Tyler Herro,1610612748,Miami Heat,3,8,25,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-4,120,1,1,20221123,MIA,WAS
+Shot Chart Detail,0022200265,522,1629639,Tyler Herro,1610612748,Miami Heat,4,10,25,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,157,236,1,1,20221123,MIA,WAS
+Shot Chart Detail,0022200265,554,1629639,Tyler Herro,1610612748,Miami Heat,4,7,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,195,193,1,1,20221123,MIA,WAS
+Shot Chart Detail,0022200265,604,1629639,Tyler Herro,1610612748,Miami Heat,4,4,0,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-208,156,1,1,20221123,MIA,WAS
+Shot Chart Detail,0022200265,610,1629639,Tyler Herro,1610612748,Miami Heat,4,3,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,6,255,1,1,20221123,MIA,WAS
+Shot Chart Detail,0022200277,67,1629639,Tyler Herro,1610612748,Miami Heat,1,5,59,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-5,264,1,1,20221125,MIA,WAS
+Shot Chart Detail,0022200277,161,1629639,Tyler Herro,1610612748,Miami Heat,1,0,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,164,-5,1,1,20221125,MIA,WAS
+Shot Chart Detail,0022200277,187,1629639,Tyler Herro,1610612748,Miami Heat,2,11,26,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-131,15,1,1,20221125,MIA,WAS
+Shot Chart Detail,0022200277,611,1629639,Tyler Herro,1610612748,Miami Heat,4,4,23,Made Shot,Pullup Jump shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,241,14,1,1,20221125,MIA,WAS
+Shot Chart Detail,0022200293,237,1629639,Tyler Herro,1610612748,Miami Heat,2,5,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,91,187,1,1,20221127,ATL,MIA
+Shot Chart Detail,0022200293,285,1629639,Tyler Herro,1610612748,Miami Heat,2,1,11,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-9,19,1,1,20221127,ATL,MIA
+Shot Chart Detail,0022200293,366,1629639,Tyler Herro,1610612748,Miami Heat,3,6,10,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,0,84,1,1,20221127,ATL,MIA
+Shot Chart Detail,0022200314,34,1629639,Tyler Herro,1610612748,Miami Heat,1,8,56,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,116,163,1,1,20221130,BOS,MIA
+Shot Chart Detail,0022200314,40,1629639,Tyler Herro,1610612748,Miami Heat,1,8,34,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20221130,BOS,MIA
+Shot Chart Detail,0022200314,62,1629639,Tyler Herro,1610612748,Miami Heat,1,6,24,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,16,31,1,1,20221130,BOS,MIA
+Shot Chart Detail,0022200314,167,1629639,Tyler Herro,1610612748,Miami Heat,2,9,41,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-22,20,1,1,20221130,BOS,MIA
+Shot Chart Detail,0022200314,170,1629639,Tyler Herro,1610612748,Miami Heat,2,9,12,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,66,124,1,1,20221130,BOS,MIA
+Shot Chart Detail,0022200314,332,1629639,Tyler Herro,1610612748,Miami Heat,3,10,27,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,13,1,1,20221130,BOS,MIA
+Shot Chart Detail,0022200314,338,1629639,Tyler Herro,1610612748,Miami Heat,3,9,36,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,6,264,1,1,20221130,BOS,MIA
+Shot Chart Detail,0022200314,520,1629639,Tyler Herro,1610612748,Miami Heat,4,9,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,237,101,1,1,20221130,BOS,MIA
+Shot Chart Detail,0022200314,543,1629639,Tyler Herro,1610612748,Miami Heat,4,6,52,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-16,36,1,1,20221130,BOS,MIA
+Shot Chart Detail,0022200328,39,1629639,Tyler Herro,1610612748,Miami Heat,1,8,52,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-189,209,1,1,20221202,BOS,MIA
+Shot Chart Detail,0022200328,49,1629639,Tyler Herro,1610612748,Miami Heat,1,7,46,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-195,10,1,1,20221202,BOS,MIA
+Shot Chart Detail,0022200328,154,1629639,Tyler Herro,1610612748,Miami Heat,1,1,19,Made Shot,Cutting Layup Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,70,55,1,1,20221202,BOS,MIA
+Shot Chart Detail,0022200328,192,1629639,Tyler Herro,1610612748,Miami Heat,2,10,15,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-32,36,1,1,20221202,BOS,MIA
+Shot Chart Detail,0022200328,237,1629639,Tyler Herro,1610612748,Miami Heat,2,7,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,72,255,1,1,20221202,BOS,MIA
+Shot Chart Detail,0022200328,300,1629639,Tyler Herro,1610612748,Miami Heat,2,3,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-201,198,1,1,20221202,BOS,MIA
+Shot Chart Detail,0022200328,317,1629639,Tyler Herro,1610612748,Miami Heat,2,1,34,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,9,284,1,1,20221202,BOS,MIA
+Shot Chart Detail,0022200328,541,1629639,Tyler Herro,1610612748,Miami Heat,4,8,57,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,211,155,1,1,20221202,BOS,MIA
+Shot Chart Detail,0022200328,561,1629639,Tyler Herro,1610612748,Miami Heat,4,7,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-16,281,1,1,20221202,BOS,MIA
+Shot Chart Detail,0022200328,564,1629639,Tyler Herro,1610612748,Miami Heat,4,7,16,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,4,33,1,1,20221202,BOS,MIA
+Shot Chart Detail,0022200357,20,1629639,Tyler Herro,1610612748,Miami Heat,1,10,7,Made Shot,Cutting Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,2,1,1,20221205,MEM,MIA
+Shot Chart Detail,0022200357,45,1629639,Tyler Herro,1610612748,Miami Heat,1,7,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-158,206,1,1,20221205,MEM,MIA
+Shot Chart Detail,0022200357,54,1629639,Tyler Herro,1610612748,Miami Heat,1,6,45,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,80,27,1,1,20221205,MEM,MIA
+Shot Chart Detail,0022200357,182,1629639,Tyler Herro,1610612748,Miami Heat,2,11,11,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,29,88,277,1,1,20221205,MEM,MIA
+Shot Chart Detail,0022200357,298,1629639,Tyler Herro,1610612748,Miami Heat,2,1,32,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,197,149,1,1,20221205,MEM,MIA
+Shot Chart Detail,0022200357,419,1629639,Tyler Herro,1610612748,Miami Heat,3,3,7,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-91,132,1,1,20221205,MEM,MIA
+Shot Chart Detail,0022200357,443,1629639,Tyler Herro,1610612748,Miami Heat,3,1,46,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-17,11,1,1,20221205,MEM,MIA
+Shot Chart Detail,0022200357,515,1629639,Tyler Herro,1610612748,Miami Heat,4,7,27,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,8,1,1,20221205,MEM,MIA
+Shot Chart Detail,0022200361,34,1629639,Tyler Herro,1610612748,Miami Heat,1,8,22,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-67,63,1,1,20221206,MIA,DET
+Shot Chart Detail,0022200361,37,1629639,Tyler Herro,1610612748,Miami Heat,1,8,2,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,153,210,1,1,20221206,MIA,DET
+Shot Chart Detail,0022200361,48,1629639,Tyler Herro,1610612748,Miami Heat,1,6,37,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-33,96,1,1,20221206,MIA,DET
+Shot Chart Detail,0022200361,149,1629639,Tyler Herro,1610612748,Miami Heat,1,0,23,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,164,8,1,1,20221206,MIA,DET
+Shot Chart Detail,0022200361,185,1629639,Tyler Herro,1610612748,Miami Heat,2,9,17,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-55,29,1,1,20221206,MIA,DET
+Shot Chart Detail,0022200361,194,1629639,Tyler Herro,1610612748,Miami Heat,2,8,12,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,54,41,1,1,20221206,MIA,DET
+Shot Chart Detail,0022200361,293,1629639,Tyler Herro,1610612748,Miami Heat,2,1,13,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,194,164,1,1,20221206,MIA,DET
+Shot Chart Detail,0022200361,350,1629639,Tyler Herro,1610612748,Miami Heat,3,9,1,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,27,8,1,1,20221206,MIA,DET
+Shot Chart Detail,0022200361,405,1629639,Tyler Herro,1610612748,Miami Heat,3,4,45,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,2,1,1,20221206,MIA,DET
+Shot Chart Detail,0022200361,468,1629639,Tyler Herro,1610612748,Miami Heat,3,1,1,Made Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,52,134,1,1,20221206,MIA,DET
+Shot Chart Detail,0022200361,525,1629639,Tyler Herro,1610612748,Miami Heat,4,7,43,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,29,89,1,1,20221206,MIA,DET
+Shot Chart Detail,0022200361,578,1629639,Tyler Herro,1610612748,Miami Heat,4,4,1,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,1,1,1,20221206,MIA,DET
+Shot Chart Detail,0022200374,18,1629639,Tyler Herro,1610612748,Miami Heat,1,10,30,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-4,88,1,1,20221208,MIA,LAC
+Shot Chart Detail,0022200374,185,1629639,Tyler Herro,1610612748,Miami Heat,2,7,36,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,-4,1,1,20221208,MIA,LAC
+Shot Chart Detail,0022200374,409,1629639,Tyler Herro,1610612748,Miami Heat,3,2,19,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-196,183,1,1,20221208,MIA,LAC
+Shot Chart Detail,0022200374,460,1629639,Tyler Herro,1610612748,Miami Heat,4,11,15,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,146,53,1,1,20221208,MIA,LAC
+Shot Chart Detail,0022200374,463,1629639,Tyler Herro,1610612748,Miami Heat,4,10,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,130,240,1,1,20221208,MIA,LAC
+Shot Chart Detail,0022200374,546,1629639,Tyler Herro,1610612748,Miami Heat,4,4,20,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-119,256,1,1,20221208,MIA,LAC
+Shot Chart Detail,0022200387,10,1629639,Tyler Herro,1610612748,Miami Heat,1,11,4,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,105,242,1,1,20221210,MIA,SAS
+Shot Chart Detail,0022200387,25,1629639,Tyler Herro,1610612748,Miami Heat,1,9,52,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-4,26,1,1,20221210,MIA,SAS
+Shot Chart Detail,0022200387,193,1629639,Tyler Herro,1610612748,Miami Heat,2,10,21,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,22,1,1,20221210,MIA,SAS
+Shot Chart Detail,0022200387,363,1629639,Tyler Herro,1610612748,Miami Heat,3,11,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,169,191,1,1,20221210,MIA,SAS
+Shot Chart Detail,0022200387,370,1629639,Tyler Herro,1610612748,Miami Heat,3,10,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,92,251,1,1,20221210,MIA,SAS
+Shot Chart Detail,0022200387,378,1629639,Tyler Herro,1610612748,Miami Heat,3,9,9,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-69,281,1,1,20221210,MIA,SAS
+Shot Chart Detail,0022200387,396,1629639,Tyler Herro,1610612748,Miami Heat,3,7,22,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-11,275,1,1,20221210,MIA,SAS
+Shot Chart Detail,0022200387,539,1629639,Tyler Herro,1610612748,Miami Heat,4,8,17,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-145,-19,1,1,20221210,MIA,SAS
+Shot Chart Detail,0022200402,48,1629639,Tyler Herro,1610612748,Miami Heat,1,8,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,62,276,1,1,20221212,IND,MIA
+Shot Chart Detail,0022200402,368,1629639,Tyler Herro,1610612748,Miami Heat,3,7,34,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-15,86,1,1,20221212,IND,MIA
+Shot Chart Detail,0022200402,458,1629639,Tyler Herro,1610612748,Miami Heat,3,1,40,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,4,1,1,20221212,IND,MIA
+Shot Chart Detail,0022200419,62,1629639,Tyler Herro,1610612748,Miami Heat,1,6,13,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-235,100,1,1,20221214,OKC,MIA
+Shot Chart Detail,0022200419,127,1629639,Tyler Herro,1610612748,Miami Heat,1,2,3,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,158,210,1,1,20221214,OKC,MIA
+Shot Chart Detail,0022200419,167,1629639,Tyler Herro,1610612748,Miami Heat,2,11,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-158,227,1,1,20221214,OKC,MIA
+Shot Chart Detail,0022200419,177,1629639,Tyler Herro,1610612748,Miami Heat,2,10,3,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,16,1,1,20221214,OKC,MIA
+Shot Chart Detail,0022200419,182,1629639,Tyler Herro,1610612748,Miami Heat,2,9,42,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,228,-32,1,1,20221214,OKC,MIA
+Shot Chart Detail,0022200419,205,1629639,Tyler Herro,1610612748,Miami Heat,2,8,7,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-183,170,1,1,20221214,OKC,MIA
+Shot Chart Detail,0022200419,348,1629639,Tyler Herro,1610612748,Miami Heat,3,7,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-208,137,1,1,20221214,OKC,MIA
+Shot Chart Detail,0022200419,482,1629639,Tyler Herro,1610612748,Miami Heat,4,10,3,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-127,132,1,1,20221214,OKC,MIA
+Shot Chart Detail,0022200419,544,1629639,Tyler Herro,1610612748,Miami Heat,4,6,16,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-89,-10,1,1,20221214,OKC,MIA
+Shot Chart Detail,0022200419,576,1629639,Tyler Herro,1610612748,Miami Heat,4,3,43,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-81,241,1,1,20221214,OKC,MIA
+Shot Chart Detail,0022200419,598,1629639,Tyler Herro,1610612748,Miami Heat,4,1,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-174,190,1,1,20221214,OKC,MIA
+Shot Chart Detail,0022200419,624,1629639,Tyler Herro,1610612748,Miami Heat,4,0,5,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,148,114,1,1,20221214,OKC,MIA
+Shot Chart Detail,0022200424,43,1629639,Tyler Herro,1610612748,Miami Heat,1,7,48,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-158,200,1,1,20221215,HOU,MIA
+Shot Chart Detail,0022200424,117,1629639,Tyler Herro,1610612748,Miami Heat,1,2,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,47,256,1,1,20221215,HOU,MIA
+Shot Chart Detail,0022200424,143,1629639,Tyler Herro,1610612748,Miami Heat,1,1,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,100,261,1,1,20221215,HOU,MIA
+Shot Chart Detail,0022200424,147,1629639,Tyler Herro,1610612748,Miami Heat,1,1,19,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-33,266,1,1,20221215,HOU,MIA
+Shot Chart Detail,0022200424,222,1629639,Tyler Herro,1610612748,Miami Heat,2,8,11,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-103,92,1,1,20221215,HOU,MIA
+Shot Chart Detail,0022200424,231,1629639,Tyler Herro,1610612748,Miami Heat,2,7,19,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-9,266,1,1,20221215,HOU,MIA
+Shot Chart Detail,0022200424,310,1629639,Tyler Herro,1610612748,Miami Heat,2,0,39,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,-1,1,1,20221215,HOU,MIA
+Shot Chart Detail,0022200424,372,1629639,Tyler Herro,1610612748,Miami Heat,3,9,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-219,143,1,1,20221215,HOU,MIA
+Shot Chart Detail,0022200424,386,1629639,Tyler Herro,1610612748,Miami Heat,3,8,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,29,-150,259,1,1,20221215,HOU,MIA
+Shot Chart Detail,0022200424,488,1629639,Tyler Herro,1610612748,Miami Heat,3,0,59,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,15,1,1,20221215,HOU,MIA
+Shot Chart Detail,0022200424,510,1629639,Tyler Herro,1610612748,Miami Heat,4,11,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-162,210,1,1,20221215,HOU,MIA
+Shot Chart Detail,0022200424,514,1629639,Tyler Herro,1610612748,Miami Heat,4,10,54,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,28,252,1,1,20221215,HOU,MIA
+Shot Chart Detail,0022200424,554,1629639,Tyler Herro,1610612748,Miami Heat,4,8,11,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,13,211,1,1,20221215,HOU,MIA
+Shot Chart Detail,0022200439,11,1629639,Tyler Herro,1610612748,Miami Heat,1,11,6,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-55,52,1,1,20221217,SAS,MIA
+Shot Chart Detail,0022200439,36,1629639,Tyler Herro,1610612748,Miami Heat,1,9,0,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-179,173,1,1,20221217,SAS,MIA
+Shot Chart Detail,0022200439,440,1629639,Tyler Herro,1610612748,Miami Heat,3,5,44,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-5,141,1,1,20221217,SAS,MIA
+Shot Chart Detail,0022200439,443,1629639,Tyler Herro,1610612748,Miami Heat,3,5,25,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,157,205,1,1,20221217,SAS,MIA
+Shot Chart Detail,0022200439,541,1629639,Tyler Herro,1610612748,Miami Heat,4,10,59,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,-1,1,1,20221217,SAS,MIA
+Shot Chart Detail,0022200439,647,1629639,Tyler Herro,1610612748,Miami Heat,4,3,55,Made Shot,Pullup Jump shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,232,77,1,1,20221217,SAS,MIA
+Shot Chart Detail,0022200462,201,1629639,Tyler Herro,1610612748,Miami Heat,2,8,19,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,150,2,1,1,20221220,MIA,CHI
+Shot Chart Detail,0022200462,215,1629639,Tyler Herro,1610612748,Miami Heat,2,6,5,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,11,1,1,20221220,MIA,CHI
+Shot Chart Detail,0022200462,247,1629639,Tyler Herro,1610612748,Miami Heat,2,3,19,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-219,136,1,1,20221220,MIA,CHI
+Shot Chart Detail,0022200462,261,1629639,Tyler Herro,1610612748,Miami Heat,2,1,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,116,228,1,1,20221220,MIA,CHI
+Shot Chart Detail,0022200462,295,1629639,Tyler Herro,1610612748,Miami Heat,3,11,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-216,121,1,1,20221220,MIA,CHI
+Shot Chart Detail,0022200462,387,1629639,Tyler Herro,1610612748,Miami Heat,3,2,7,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,32,39,1,1,20221220,MIA,CHI
+Shot Chart Detail,0022200462,404,1629639,Tyler Herro,1610612748,Miami Heat,3,1,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,49,250,1,1,20221220,MIA,CHI
+Shot Chart Detail,0022200486,20,1629639,Tyler Herro,1610612748,Miami Heat,1,9,56,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-33,53,1,1,20221223,MIA,IND
+Shot Chart Detail,0022200486,133,1629639,Tyler Herro,1610612748,Miami Heat,1,1,38,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,26,1,1,20221223,MIA,IND
+Shot Chart Detail,0022200486,157,1629639,Tyler Herro,1610612748,Miami Heat,2,11,36,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,5,16,1,1,20221223,MIA,IND
+Shot Chart Detail,0022200486,165,1629639,Tyler Herro,1610612748,Miami Heat,2,10,37,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-34,41,1,1,20221223,MIA,IND
+Shot Chart Detail,0022200486,279,1629639,Tyler Herro,1610612748,Miami Heat,2,2,33,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,210,157,1,1,20221223,MIA,IND
+Shot Chart Detail,0022200486,391,1629639,Tyler Herro,1610612748,Miami Heat,3,6,20,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-11,21,1,1,20221223,MIA,IND
+Shot Chart Detail,0022200486,466,1629639,Tyler Herro,1610612748,Miami Heat,3,0,30,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-120,13,1,1,20221223,MIA,IND
+Shot Chart Detail,0022200486,551,1629639,Tyler Herro,1610612748,Miami Heat,4,5,47,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,60,251,1,1,20221223,MIA,IND
+Shot Chart Detail,0022200486,594,1629639,Tyler Herro,1610612748,Miami Heat,4,2,30,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,29,-178,236,1,1,20221223,MIA,IND
+Shot Chart Detail,0022200486,628,1629639,Tyler Herro,1610612748,Miami Heat,4,0,14,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,90,259,1,1,20221223,MIA,IND
+Shot Chart Detail,0022200500,43,1629639,Tyler Herro,1610612748,Miami Heat,1,8,45,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,12,68,1,1,20221226,MIA,MIN
+Shot Chart Detail,0022200500,298,1629639,Tyler Herro,1610612748,Miami Heat,2,1,31,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1,19,1,1,20221226,MIA,MIN
+Shot Chart Detail,0022200500,305,1629639,Tyler Herro,1610612748,Miami Heat,2,0,27,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-48,56,1,1,20221226,MIA,MIN
+Shot Chart Detail,0022200500,361,1629639,Tyler Herro,1610612748,Miami Heat,3,6,41,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,72,80,1,1,20221226,MIA,MIN
+Shot Chart Detail,0022200500,401,1629639,Tyler Herro,1610612748,Miami Heat,3,3,2,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,43,55,1,1,20221226,MIA,MIN
+Shot Chart Detail,0022200500,515,1629639,Tyler Herro,1610612748,Miami Heat,4,5,54,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,15,100,1,1,20221226,MIA,MIN
+Shot Chart Detail,0022200500,592,1629639,Tyler Herro,1610612748,Miami Heat,4,0,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-201,12,1,1,20221226,MIA,MIN
+Shot Chart Detail,0022200518,241,1629639,Tyler Herro,1610612748,Miami Heat,2,6,8,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,1,100,1,1,20221228,MIA,LAL
+Shot Chart Detail,0022200518,248,1629639,Tyler Herro,1610612748,Miami Heat,2,5,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,214,121,1,1,20221228,MIA,LAL
+Shot Chart Detail,0022200518,268,1629639,Tyler Herro,1610612748,Miami Heat,2,2,47,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,2,1,1,20221228,MIA,LAL
+Shot Chart Detail,0022200518,326,1629639,Tyler Herro,1610612748,Miami Heat,3,11,12,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,185,184,1,1,20221228,MIA,LAL
+Shot Chart Detail,0022200518,451,1629639,Tyler Herro,1610612748,Miami Heat,3,0,58,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,55,109,1,1,20221228,MIA,LAL
+Shot Chart Detail,0022200518,587,1629639,Tyler Herro,1610612748,Miami Heat,4,2,0,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,55,1,1,20221228,MIA,LAL
+Shot Chart Detail,0022200535,45,1629639,Tyler Herro,1610612748,Miami Heat,1,7,51,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20221230,DEN,MIA
+Shot Chart Detail,0022200535,313,1629639,Tyler Herro,1610612748,Miami Heat,3,11,18,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,11,1,1,20221230,DEN,MIA
+Shot Chart Detail,0022200535,326,1629639,Tyler Herro,1610612748,Miami Heat,3,10,0,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,194,163,1,1,20221230,DEN,MIA
+Shot Chart Detail,0022200535,354,1629639,Tyler Herro,1610612748,Miami Heat,3,7,36,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-5,191,1,1,20221230,DEN,MIA
+Shot Chart Detail,0022200535,376,1629639,Tyler Herro,1610612748,Miami Heat,3,6,15,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-127,228,1,1,20221230,DEN,MIA
+Shot Chart Detail,0022200535,401,1629639,Tyler Herro,1610612748,Miami Heat,3,4,59,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,64,39,1,1,20221230,DEN,MIA
+Shot Chart Detail,0022200535,566,1629639,Tyler Herro,1610612748,Miami Heat,4,4,53,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,118,160,1,1,20221230,DEN,MIA
+Shot Chart Detail,0022200535,584,1629639,Tyler Herro,1610612748,Miami Heat,4,3,36,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-44,283,1,1,20221230,DEN,MIA
+Shot Chart Detail,0022200535,588,1629639,Tyler Herro,1610612748,Miami Heat,4,2,59,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,13,-67,112,1,1,20221230,DEN,MIA
+Shot Chart Detail,0022200546,267,1629639,Tyler Herro,1610612748,Miami Heat,2,6,1,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-28,111,1,1,20221231,UTA,MIA
+Shot Chart Detail,0022200546,274,1629639,Tyler Herro,1610612748,Miami Heat,2,5,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,154,205,1,1,20221231,UTA,MIA
+Shot Chart Detail,0022200546,291,1629639,Tyler Herro,1610612748,Miami Heat,2,4,3,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,33,82,1,1,20221231,UTA,MIA
+Shot Chart Detail,0022200546,337,1629639,Tyler Herro,1610612748,Miami Heat,2,1,8,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,8,1,1,20221231,UTA,MIA
+Shot Chart Detail,0022200546,404,1629639,Tyler Herro,1610612748,Miami Heat,3,9,11,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-99,74,1,1,20221231,UTA,MIA
+Shot Chart Detail,0022200546,417,1629639,Tyler Herro,1610612748,Miami Heat,3,8,19,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,93,90,1,1,20221231,UTA,MIA
+Shot Chart Detail,0022200546,465,1629639,Tyler Herro,1610612748,Miami Heat,3,4,52,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-51,46,1,1,20221231,UTA,MIA
+Shot Chart Detail,0022200546,474,1629639,Tyler Herro,1610612748,Miami Heat,3,3,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-1,259,1,1,20221231,UTA,MIA
+Shot Chart Detail,0022200546,616,1629639,Tyler Herro,1610612748,Miami Heat,4,5,53,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,22,7,1,1,20221231,UTA,MIA
+Shot Chart Detail,0022200546,739,1629639,Tyler Herro,1610612748,Miami Heat,4,0,0,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,69,241,1,1,20221231,UTA,MIA
+Shot Chart Detail,0022200560,51,1629639,Tyler Herro,1610612748,Miami Heat,1,6,54,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,11,1,1,20230102,LAC,MIA
+Shot Chart Detail,0022200560,207,1629639,Tyler Herro,1610612748,Miami Heat,2,8,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-112,267,1,1,20230102,LAC,MIA
+Shot Chart Detail,0022200560,261,1629639,Tyler Herro,1610612748,Miami Heat,2,4,19,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-7,272,1,1,20230102,LAC,MIA
+Shot Chart Detail,0022200560,274,1629639,Tyler Herro,1610612748,Miami Heat,2,3,5,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,167,215,1,1,20230102,LAC,MIA
+Shot Chart Detail,0022200560,281,1629639,Tyler Herro,1610612748,Miami Heat,2,1,44,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,29,-168,247,1,1,20230102,LAC,MIA
+Shot Chart Detail,0022200560,544,1629639,Tyler Herro,1610612748,Miami Heat,4,4,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,154,230,1,1,20230102,LAC,MIA
+Shot Chart Detail,0022200560,580,1629639,Tyler Herro,1610612748,Miami Heat,4,1,45,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,135,88,1,1,20230102,LAC,MIA
+Shot Chart Detail,0022200574,23,1629639,Tyler Herro,1610612748,Miami Heat,1,10,6,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,26,20,1,1,20230104,LAL,MIA
+Shot Chart Detail,0022200574,203,1629639,Tyler Herro,1610612748,Miami Heat,2,8,42,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,33,21,1,1,20230104,LAL,MIA
+Shot Chart Detail,0022200574,523,1629639,Tyler Herro,1610612748,Miami Heat,4,10,58,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-27,77,1,1,20230104,LAL,MIA
+Shot Chart Detail,0022200574,555,1629639,Tyler Herro,1610612748,Miami Heat,4,8,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,32,282,1,1,20230104,LAL,MIA
+Shot Chart Detail,0022200599,203,1629639,Tyler Herro,1610612748,Miami Heat,2,7,37,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-233,66,1,1,20230108,MIA,BKN
+Shot Chart Detail,0022200599,211,1629639,Tyler Herro,1610612748,Miami Heat,2,7,10,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-87,4,1,1,20230108,MIA,BKN
+Shot Chart Detail,0022200599,229,1629639,Tyler Herro,1610612748,Miami Heat,2,5,32,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,234,78,1,1,20230108,MIA,BKN
+Shot Chart Detail,0022200599,305,1629639,Tyler Herro,1610612748,Miami Heat,2,1,11,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,47,6,1,1,20230108,MIA,BKN
+Shot Chart Detail,0022200599,482,1629639,Tyler Herro,1610612748,Miami Heat,3,0,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-25,270,1,1,20230108,MIA,BKN
+Shot Chart Detail,0022200599,514,1629639,Tyler Herro,1610612748,Miami Heat,4,11,3,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-134,220,1,1,20230108,MIA,BKN
+Shot Chart Detail,0022200599,521,1629639,Tyler Herro,1610612748,Miami Heat,4,9,57,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,39,188,1,1,20230108,MIA,BKN
+Shot Chart Detail,0022200599,597,1629639,Tyler Herro,1610612748,Miami Heat,4,4,18,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,147,215,1,1,20230108,MIA,BKN
+Shot Chart Detail,0022200661,47,1629639,Tyler Herro,1610612748,Miami Heat,1,8,27,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-1,117,1,1,20230116,ATL,MIA
+Shot Chart Detail,0022200661,71,1629639,Tyler Herro,1610612748,Miami Heat,1,6,19,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,2,110,1,1,20230116,ATL,MIA
+Shot Chart Detail,0022200661,314,1629639,Tyler Herro,1610612748,Miami Heat,2,1,6,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-118,11,1,1,20230116,ATL,MIA
+Shot Chart Detail,0022200661,318,1629639,Tyler Herro,1610612748,Miami Heat,2,0,38,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,34,110,1,1,20230116,ATL,MIA
+Shot Chart Detail,0022200661,386,1629639,Tyler Herro,1610612748,Miami Heat,3,6,30,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,18,1,1,20230116,ATL,MIA
+Shot Chart Detail,0022200661,624,1629639,Tyler Herro,1610612748,Miami Heat,4,0,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-230,111,1,1,20230116,ATL,MIA
+Shot Chart Detail,0022200661,628,1629639,Tyler Herro,1610612748,Miami Heat,4,0,34,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-45,84,1,1,20230116,ATL,MIA
+Shot Chart Detail,0022200673,19,1629639,Tyler Herro,1610612748,Miami Heat,1,10,7,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,114,-6,1,1,20230118,NOP,MIA
+Shot Chart Detail,0022200673,41,1629639,Tyler Herro,1610612748,Miami Heat,1,8,21,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,16,129,1,1,20230118,NOP,MIA
+Shot Chart Detail,0022200673,271,1629639,Tyler Herro,1610612748,Miami Heat,2,3,51,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,-2,1,1,20230118,NOP,MIA
+Shot Chart Detail,0022200673,288,1629639,Tyler Herro,1610612748,Miami Heat,2,2,27,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-22,1,1,1,20230118,NOP,MIA
+Shot Chart Detail,0022200673,298,1629639,Tyler Herro,1610612748,Miami Heat,2,1,18,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-92,-2,1,1,20230118,NOP,MIA
+Shot Chart Detail,0022200673,302,1629639,Tyler Herro,1610612748,Miami Heat,2,1,0,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,32,10,1,1,20230118,NOP,MIA
+Shot Chart Detail,0022200686,36,1629639,Tyler Herro,1610612748,Miami Heat,1,8,25,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,23,98,1,1,20230120,DAL,MIA
+Shot Chart Detail,0022200686,200,1629639,Tyler Herro,1610612748,Miami Heat,2,7,18,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,67,87,1,1,20230120,DAL,MIA
+Shot Chart Detail,0022200686,249,1629639,Tyler Herro,1610612748,Miami Heat,2,3,28,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-53,100,1,1,20230120,DAL,MIA
+Shot Chart Detail,0022200686,258,1629639,Tyler Herro,1610612748,Miami Heat,2,2,35,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,14,75,125,1,1,20230120,DAL,MIA
+Shot Chart Detail,0022200686,297,1629639,Tyler Herro,1610612748,Miami Heat,2,0,32,Made Shot,Turnaround Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,25,24,1,1,20230120,DAL,MIA
+Shot Chart Detail,0022200686,496,1629639,Tyler Herro,1610612748,Miami Heat,4,7,34,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-48,76,1,1,20230120,DAL,MIA
+Shot Chart Detail,0022200699,61,1629639,Tyler Herro,1610612748,Miami Heat,1,6,35,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-72,125,1,1,20230122,MIA,NOP
+Shot Chart Detail,0022200699,99,1629639,Tyler Herro,1610612748,Miami Heat,1,3,47,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,7,67,1,1,20230122,MIA,NOP
+Shot Chart Detail,0022200699,108,1629639,Tyler Herro,1610612748,Miami Heat,1,3,23,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-43,14,1,1,20230122,MIA,NOP
+Shot Chart Detail,0022200699,229,1629639,Tyler Herro,1610612748,Miami Heat,2,6,39,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,61,59,1,1,20230122,MIA,NOP
+Shot Chart Detail,0022200699,284,1629639,Tyler Herro,1610612748,Miami Heat,2,1,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-178,194,1,1,20230122,MIA,NOP
+Shot Chart Detail,0022200699,298,1629639,Tyler Herro,1610612748,Miami Heat,2,0,46,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,17,1,1,20230122,MIA,NOP
+Shot Chart Detail,0022200699,387,1629639,Tyler Herro,1610612748,Miami Heat,3,6,38,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-9,111,1,1,20230122,MIA,NOP
+Shot Chart Detail,0022200699,437,1629639,Tyler Herro,1610612748,Miami Heat,3,3,49,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-232,72,1,1,20230122,MIA,NOP
+Shot Chart Detail,0022200699,570,1629639,Tyler Herro,1610612748,Miami Heat,4,6,37,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-150,201,1,1,20230122,MIA,NOP
+Shot Chart Detail,0022200699,593,1629639,Tyler Herro,1610612748,Miami Heat,4,5,2,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,19,1,1,20230122,MIA,NOP
+Shot Chart Detail,0022200714,11,1629639,Tyler Herro,1610612748,Miami Heat,1,10,43,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,61,88,1,1,20230124,MIA,BOS
+Shot Chart Detail,0022200714,73,1629639,Tyler Herro,1610612748,Miami Heat,1,5,41,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-54,38,1,1,20230124,MIA,BOS
+Shot Chart Detail,0022200714,584,1629639,Tyler Herro,1610612748,Miami Heat,4,3,42,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-123,222,1,1,20230124,MIA,BOS
+Shot Chart Detail,0022200714,612,1629639,Tyler Herro,1610612748,Miami Heat,4,0,57,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,60,67,1,1,20230124,MIA,BOS
+Shot Chart Detail,0022200738,125,1629639,Tyler Herro,1610612748,Miami Heat,1,2,23,Made Shot,Running Pull-Up Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-58,53,1,1,20230127,MIA,ORL
+Shot Chart Detail,0022200738,234,1629639,Tyler Herro,1610612748,Miami Heat,2,6,20,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,62,84,1,1,20230127,MIA,ORL
+Shot Chart Detail,0022200738,242,1629639,Tyler Herro,1610612748,Miami Heat,2,6,1,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,29,61,1,1,20230127,MIA,ORL
+Shot Chart Detail,0022200738,364,1629639,Tyler Herro,1610612748,Miami Heat,3,6,58,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,60,6,1,1,20230127,MIA,ORL
+Shot Chart Detail,0022200752,22,1629639,Tyler Herro,1610612748,Miami Heat,1,10,45,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-17,53,1,1,20230129,CHA,MIA
+Shot Chart Detail,0022200752,35,1629639,Tyler Herro,1610612748,Miami Heat,1,9,22,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,9,45,1,1,20230129,CHA,MIA
+Shot Chart Detail,0022200752,84,1629639,Tyler Herro,1610612748,Miami Heat,1,4,56,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,4,183,1,1,20230129,CHA,MIA
+Shot Chart Detail,0022200752,95,1629639,Tyler Herro,1610612748,Miami Heat,1,4,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,112,237,1,1,20230129,CHA,MIA
+Shot Chart Detail,0022200752,270,1629639,Tyler Herro,1610612748,Miami Heat,2,4,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,88,253,1,1,20230129,CHA,MIA
+Shot Chart Detail,0022200752,353,1629639,Tyler Herro,1610612748,Miami Heat,3,10,44,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,13,1,1,20230129,CHA,MIA
+Shot Chart Detail,0022200752,380,1629639,Tyler Herro,1610612748,Miami Heat,3,8,59,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,164,207,1,1,20230129,CHA,MIA
+Shot Chart Detail,0022200752,533,1629639,Tyler Herro,1610612748,Miami Heat,4,7,51,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,0,47,1,1,20230129,CHA,MIA
+Shot Chart Detail,0022200752,624,1629639,Tyler Herro,1610612748,Miami Heat,4,1,0,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,246,-22,1,1,20230129,CHA,MIA
+Shot Chart Detail,0022200764,36,1629639,Tyler Herro,1610612748,Miami Heat,1,8,26,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,169,26,1,1,20230131,CLE,MIA
+Shot Chart Detail,0022200764,255,1629639,Tyler Herro,1610612748,Miami Heat,2,4,28,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-59,51,1,1,20230131,CLE,MIA
+Shot Chart Detail,0022200764,392,1629639,Tyler Herro,1610612748,Miami Heat,3,5,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-148,214,1,1,20230131,CLE,MIA
+Shot Chart Detail,0022200764,403,1629639,Tyler Herro,1610612748,Miami Heat,3,4,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,188,183,1,1,20230131,CLE,MIA
+Shot Chart Detail,0022200764,542,1629639,Tyler Herro,1610612748,Miami Heat,4,7,1,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-62,84,1,1,20230131,CLE,MIA
+Shot Chart Detail,0022200764,544,1629639,Tyler Herro,1610612748,Miami Heat,4,6,35,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-192,206,1,1,20230131,CLE,MIA
+Shot Chart Detail,0022200780,56,1629639,Tyler Herro,1610612748,Miami Heat,1,6,42,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,8,1,1,20230202,NYK,MIA
+Shot Chart Detail,0022200780,143,1629639,Tyler Herro,1610612748,Miami Heat,1,1,7,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-10,31,1,1,20230202,NYK,MIA
+Shot Chart Detail,0022200780,366,1629639,Tyler Herro,1610612748,Miami Heat,3,6,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,134,207,1,1,20230202,NYK,MIA
+Shot Chart Detail,0022200780,369,1629639,Tyler Herro,1610612748,Miami Heat,3,5,57,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,99,236,1,1,20230202,NYK,MIA
+Shot Chart Detail,0022200780,374,1629639,Tyler Herro,1610612748,Miami Heat,3,5,26,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-16,248,1,1,20230202,NYK,MIA
+Shot Chart Detail,0022200780,488,1629639,Tyler Herro,1610612748,Miami Heat,4,9,24,Made Shot,Cutting Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,-1,1,1,20230202,NYK,MIA
+Shot Chart Detail,0022200780,524,1629639,Tyler Herro,1610612748,Miami Heat,4,5,34,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,103,74,1,1,20230202,NYK,MIA
+Shot Chart Detail,0022200780,530,1629639,Tyler Herro,1610612748,Miami Heat,4,4,53,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,2,1,1,20230202,NYK,MIA
+Shot Chart Detail,0022200780,565,1629639,Tyler Herro,1610612748,Miami Heat,4,1,42,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,10,1,1,20230202,NYK,MIA
+Shot Chart Detail,0022200780,569,1629639,Tyler Herro,1610612748,Miami Heat,4,1,11,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-152,64,1,1,20230202,NYK,MIA
+Shot Chart Detail,0022200797,12,1629639,Tyler Herro,1610612748,Miami Heat,1,10,47,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-94,106,1,1,20230204,MIL,MIA
+Shot Chart Detail,0022200797,55,1629639,Tyler Herro,1610612748,Miami Heat,1,7,15,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,55,122,1,1,20230204,MIL,MIA
+Shot Chart Detail,0022200797,148,1629639,Tyler Herro,1610612748,Miami Heat,1,1,2,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,2,1,1,20230204,MIL,MIA
+Shot Chart Detail,0022200797,211,1629639,Tyler Herro,1610612748,Miami Heat,2,8,9,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,104,-8,1,1,20230204,MIL,MIA
+Shot Chart Detail,0022200797,293,1629639,Tyler Herro,1610612748,Miami Heat,2,3,11,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,13,-70,117,1,1,20230204,MIL,MIA
+Shot Chart Detail,0022200797,300,1629639,Tyler Herro,1610612748,Miami Heat,2,2,44,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-64,26,1,1,20230204,MIL,MIA
+Shot Chart Detail,0022200797,326,1629639,Tyler Herro,1610612748,Miami Heat,2,0,56,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,93,252,1,1,20230204,MIL,MIA
+Shot Chart Detail,0022200797,339,1629639,Tyler Herro,1610612748,Miami Heat,2,0,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,184,193,1,1,20230204,MIL,MIA
+Shot Chart Detail,0022200797,414,1629639,Tyler Herro,1610612748,Miami Heat,3,6,29,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-27,35,1,1,20230204,MIL,MIA
+Shot Chart Detail,0022200797,630,1629639,Tyler Herro,1610612748,Miami Heat,4,2,25,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,22,136,1,1,20230204,MIL,MIA
+Shot Chart Detail,0022200825,51,1629639,Tyler Herro,1610612748,Miami Heat,1,7,22,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,1,266,1,1,20230208,MIA,IND
+Shot Chart Detail,0022200825,149,1629639,Tyler Herro,1610612748,Miami Heat,1,0,26,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,15,1,1,20230208,MIA,IND
+Shot Chart Detail,0022200825,489,1629639,Tyler Herro,1610612748,Miami Heat,3,1,22,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,11,1,1,20230208,MIA,IND
+Shot Chart Detail,0022200825,525,1629639,Tyler Herro,1610612748,Miami Heat,4,10,34,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-60,58,1,1,20230208,MIA,IND
+Shot Chart Detail,0022200840,20,1629639,Tyler Herro,1610612748,Miami Heat,1,10,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,25,268,1,1,20230210,MIA,HOU
+Shot Chart Detail,0022200840,56,1629639,Tyler Herro,1610612748,Miami Heat,1,6,59,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-28,27,1,1,20230210,MIA,HOU
+Shot Chart Detail,0022200840,184,1629639,Tyler Herro,1610612748,Miami Heat,2,10,42,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,145,227,1,1,20230210,MIA,HOU
+Shot Chart Detail,0022200840,192,1629639,Tyler Herro,1610612748,Miami Heat,2,9,55,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-36,257,1,1,20230210,MIA,HOU
+Shot Chart Detail,0022200840,319,1629639,Tyler Herro,1610612748,Miami Heat,2,1,52,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,115,105,1,1,20230210,MIA,HOU
+Shot Chart Detail,0022200840,382,1629639,Tyler Herro,1610612748,Miami Heat,3,10,2,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-138,112,1,1,20230210,MIA,HOU
+Shot Chart Detail,0022200840,459,1629639,Tyler Herro,1610612748,Miami Heat,3,3,40,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,10,26,1,1,20230210,MIA,HOU
+Shot Chart Detail,0022200840,470,1629639,Tyler Herro,1610612748,Miami Heat,3,3,11,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,12,1,1,20230210,MIA,HOU
+Shot Chart Detail,0022200840,492,1629639,Tyler Herro,1610612748,Miami Heat,3,1,19,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,18,1,1,20230210,MIA,HOU
+Shot Chart Detail,0022200840,593,1629639,Tyler Herro,1610612748,Miami Heat,4,5,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,38,253,1,1,20230210,MIA,HOU
+Shot Chart Detail,0022200840,662,1629639,Tyler Herro,1610612748,Miami Heat,4,0,24,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,8,1,1,20230210,MIA,HOU
+Shot Chart Detail,0022200848,48,1629639,Tyler Herro,1610612748,Miami Heat,1,7,26,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,99,68,1,1,20230211,ORL,MIA
+Shot Chart Detail,0022200848,90,1629639,Tyler Herro,1610612748,Miami Heat,1,4,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,234,100,1,1,20230211,ORL,MIA
+Shot Chart Detail,0022200848,378,1629639,Tyler Herro,1610612748,Miami Heat,3,8,23,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,38,84,1,1,20230211,ORL,MIA
+Shot Chart Detail,0022200848,451,1629639,Tyler Herro,1610612748,Miami Heat,3,3,35,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,115,32,1,1,20230211,ORL,MIA
+Shot Chart Detail,0022200848,455,1629639,Tyler Herro,1610612748,Miami Heat,3,2,59,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,224,24,1,1,20230211,ORL,MIA
+Shot Chart Detail,0022200848,529,1629639,Tyler Herro,1610612748,Miami Heat,4,9,13,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-51,100,1,1,20230211,ORL,MIA
+Shot Chart Detail,0022200848,599,1629639,Tyler Herro,1610612748,Miami Heat,4,3,20,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,9,120,1,1,20230211,ORL,MIA
+Shot Chart Detail,0022200848,613,1629639,Tyler Herro,1610612748,Miami Heat,4,2,22,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,8,1,1,20230211,ORL,MIA
+Shot Chart Detail,0022200848,668,1629639,Tyler Herro,1610612748,Miami Heat,5,3,33,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,70,79,1,1,20230211,ORL,MIA
+Shot Chart Detail,0022200848,673,1629639,Tyler Herro,1610612748,Miami Heat,5,2,56,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,11,-61,92,1,1,20230211,ORL,MIA
+Shot Chart Detail,0022200897,66,1629639,Tyler Herro,1610612748,Miami Heat,1,6,15,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,15,1,1,20230224,MIL,MIA
+Shot Chart Detail,0022200897,110,1629639,Tyler Herro,1610612748,Miami Heat,1,3,13,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,86,252,1,1,20230224,MIL,MIA
+Shot Chart Detail,0022200897,241,1629639,Tyler Herro,1610612748,Miami Heat,2,7,7,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,16,1,1,20230224,MIL,MIA
+Shot Chart Detail,0022200897,283,1629639,Tyler Herro,1610612748,Miami Heat,2,4,9,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,-17,1,1,20230224,MIL,MIA
+Shot Chart Detail,0022200897,382,1629639,Tyler Herro,1610612748,Miami Heat,3,8,22,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,213,164,1,1,20230224,MIL,MIA
+Shot Chart Detail,0022200904,107,1629639,Tyler Herro,1610612748,Miami Heat,1,4,19,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,15,1,1,20230225,CHA,MIA
+Shot Chart Detail,0022200904,268,1629639,Tyler Herro,1610612748,Miami Heat,2,5,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,113,239,1,1,20230225,CHA,MIA
+Shot Chart Detail,0022200904,274,1629639,Tyler Herro,1610612748,Miami Heat,2,4,58,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,6,1,1,20230225,CHA,MIA
+Shot Chart Detail,0022200904,392,1629639,Tyler Herro,1610612748,Miami Heat,3,9,19,Made Shot,Pullup Jump shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-233,81,1,1,20230225,CHA,MIA
+Shot Chart Detail,0022200904,419,1629639,Tyler Herro,1610612748,Miami Heat,3,7,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,1,31,1,1,20230225,CHA,MIA
+Shot Chart Detail,0022200904,438,1629639,Tyler Herro,1610612748,Miami Heat,3,5,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-207,165,1,1,20230225,CHA,MIA
+Shot Chart Detail,0022200904,501,1629639,Tyler Herro,1610612748,Miami Heat,3,0,46,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,8,1,1,20230225,CHA,MIA
+Shot Chart Detail,0022200904,558,1629639,Tyler Herro,1610612748,Miami Heat,4,8,39,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,25,246,62,1,1,20230225,CHA,MIA
+Shot Chart Detail,0022200904,646,1629639,Tyler Herro,1610612748,Miami Heat,4,3,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,188,190,1,1,20230225,CHA,MIA
+Shot Chart Detail,0022200904,650,1629639,Tyler Herro,1610612748,Miami Heat,4,2,32,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-10,92,1,1,20230225,CHA,MIA
+Shot Chart Detail,0022200920,72,1629639,Tyler Herro,1610612748,Miami Heat,1,5,35,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,7,1,1,20230227,PHI,MIA
+Shot Chart Detail,0022200920,157,1629639,Tyler Herro,1610612748,Miami Heat,2,11,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-201,191,1,1,20230227,PHI,MIA
+Shot Chart Detail,0022200920,480,1629639,Tyler Herro,1610612748,Miami Heat,4,9,27,Made Shot,Fadeaway Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,17,1,1,20230227,PHI,MIA
+Shot Chart Detail,0022200936,36,1629639,Tyler Herro,1610612748,Miami Heat,1,9,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,195,164,1,1,20230301,MIA,PHI
+Shot Chart Detail,0022200936,45,1629639,Tyler Herro,1610612748,Miami Heat,1,8,23,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,14,1,1,20230301,MIA,PHI
+Shot Chart Detail,0022200936,169,1629639,Tyler Herro,1610612748,Miami Heat,2,11,0,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,13,1,1,20230301,MIA,PHI
+Shot Chart Detail,0022200936,353,1629639,Tyler Herro,1610612748,Miami Heat,3,8,15,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,104,53,1,1,20230301,MIA,PHI
+Shot Chart Detail,0022200949,9,1629639,Tyler Herro,1610612748,Miami Heat,1,11,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,185,184,1,1,20230303,MIA,NYK
+Shot Chart Detail,0022200949,56,1629639,Tyler Herro,1610612748,Miami Heat,1,7,17,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,31,95,1,1,20230303,MIA,NYK
+Shot Chart Detail,0022200949,64,1629639,Tyler Herro,1610612748,Miami Heat,1,6,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,17,246,1,1,20230303,MIA,NYK
+Shot Chart Detail,0022200949,218,1629639,Tyler Herro,1610612748,Miami Heat,2,8,34,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,3,1,1,20230303,MIA,NYK
+Shot Chart Detail,0022200949,320,1629639,Tyler Herro,1610612748,Miami Heat,2,0,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,22,17,1,1,20230303,MIA,NYK
+Shot Chart Detail,0022200949,353,1629639,Tyler Herro,1610612748,Miami Heat,3,9,38,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,55,12,1,1,20230303,MIA,NYK
+Shot Chart Detail,0022200949,363,1629639,Tyler Herro,1610612748,Miami Heat,3,8,28,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,92,252,1,1,20230303,MIA,NYK
+Shot Chart Detail,0022200949,389,1629639,Tyler Herro,1610612748,Miami Heat,3,5,42,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,2,64,1,1,20230303,MIA,NYK
+Shot Chart Detail,0022200949,395,1629639,Tyler Herro,1610612748,Miami Heat,3,4,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,130,212,1,1,20230303,MIA,NYK
+Shot Chart Detail,0022200949,424,1629639,Tyler Herro,1610612748,Miami Heat,3,2,22,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,11,269,1,1,20230303,MIA,NYK
+Shot Chart Detail,0022200949,608,1629639,Tyler Herro,1610612748,Miami Heat,4,0,23,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,20,1,1,20230303,MIA,NYK
+Shot Chart Detail,0022200958,22,1629639,Tyler Herro,1610612748,Miami Heat,1,10,19,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-5,127,1,1,20230304,MIA,ATL
+Shot Chart Detail,0022200958,203,1629639,Tyler Herro,1610612748,Miami Heat,2,9,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-20,250,1,1,20230304,MIA,ATL
+Shot Chart Detail,0022200958,310,1629639,Tyler Herro,1610612748,Miami Heat,2,1,47,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,8,1,1,20230304,MIA,ATL
+Shot Chart Detail,0022200958,373,1629639,Tyler Herro,1610612748,Miami Heat,3,8,38,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,49,22,1,1,20230304,MIA,ATL
+Shot Chart Detail,0022200958,509,1629639,Tyler Herro,1610612748,Miami Heat,4,11,21,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,31,130,1,1,20230304,MIA,ATL
+Shot Chart Detail,0022200958,538,1629639,Tyler Herro,1610612748,Miami Heat,4,8,38,Made Shot,Step Back Jump shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-234,54,1,1,20230304,MIA,ATL
+Shot Chart Detail,0022200958,544,1629639,Tyler Herro,1610612748,Miami Heat,4,8,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-208,178,1,1,20230304,MIA,ATL
+Shot Chart Detail,0022200958,585,1629639,Tyler Herro,1610612748,Miami Heat,4,4,49,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-119,47,1,1,20230304,MIA,ATL
+Shot Chart Detail,0022200974,140,1629639,Tyler Herro,1610612748,Miami Heat,1,0,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,218,145,1,1,20230306,MIA,ATL
+Shot Chart Detail,0022200974,381,1629639,Tyler Herro,1610612748,Miami Heat,3,7,44,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,97,86,1,1,20230306,MIA,ATL
+Shot Chart Detail,0022200974,554,1629639,Tyler Herro,1610612748,Miami Heat,4,6,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,197,158,1,1,20230306,MIA,ATL
+Shot Chart Detail,0022200974,573,1629639,Tyler Herro,1610612748,Miami Heat,4,4,31,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,-11,1,1,20230306,MIA,ATL
+Shot Chart Detail,0022200974,607,1629639,Tyler Herro,1610612748,Miami Heat,4,2,29,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,5,1,1,20230306,MIA,ATL
+Shot Chart Detail,0022200987,69,1629639,Tyler Herro,1610612748,Miami Heat,1,6,49,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-50,30,1,1,20230308,MIA,CLE
+Shot Chart Detail,0022200987,80,1629639,Tyler Herro,1610612748,Miami Heat,1,5,4,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,0,1,1,20230308,MIA,CLE
+Shot Chart Detail,0022200987,226,1629639,Tyler Herro,1610612748,Miami Heat,2,6,43,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,131,221,1,1,20230308,MIA,CLE
+Shot Chart Detail,0022200987,330,1629639,Tyler Herro,1610612748,Miami Heat,3,11,5,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,51,41,1,1,20230308,MIA,CLE
+Shot Chart Detail,0022200987,347,1629639,Tyler Herro,1610612748,Miami Heat,3,9,35,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,4,1,1,20230308,MIA,CLE
+Shot Chart Detail,0022200987,522,1629639,Tyler Herro,1610612748,Miami Heat,4,8,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,180,183,1,1,20230308,MIA,CLE
+Shot Chart Detail,0022200987,622,1629639,Tyler Herro,1610612748,Miami Heat,4,0,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-229,106,1,1,20230308,MIA,CLE
+Shot Chart Detail,0022201000,63,1629639,Tyler Herro,1610612748,Miami Heat,1,5,48,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,1,37,1,1,20230310,MIA,CLE
+Shot Chart Detail,0022201000,72,1629639,Tyler Herro,1610612748,Miami Heat,1,5,10,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,8,1,1,20230310,MIA,CLE
+Shot Chart Detail,0022201000,167,1629639,Tyler Herro,1610612748,Miami Heat,2,11,10,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,87,51,1,1,20230310,MIA,CLE
+Shot Chart Detail,0022201000,343,1629639,Tyler Herro,1610612748,Miami Heat,3,9,26,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-221,132,1,1,20230310,MIA,CLE
+Shot Chart Detail,0022201000,377,1629639,Tyler Herro,1610612748,Miami Heat,3,6,35,Made Shot,Pullup Jump shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,240,11,1,1,20230310,MIA,CLE
+Shot Chart Detail,0022201000,510,1629639,Tyler Herro,1610612748,Miami Heat,4,9,11,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,58,1,1,20230310,MIA,CLE
+Shot Chart Detail,0022201000,514,1629639,Tyler Herro,1610612748,Miami Heat,4,8,44,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,168,181,1,1,20230310,MIA,CLE
+Shot Chart Detail,0022201000,601,1629639,Tyler Herro,1610612748,Miami Heat,4,1,35,Made Shot,Step Back Jump shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-234,65,1,1,20230310,MIA,CLE
+Shot Chart Detail,0022201007,18,1629639,Tyler Herro,1610612748,Miami Heat,1,10,16,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-4,164,1,1,20230311,ORL,MIA
+Shot Chart Detail,0022201007,38,1629639,Tyler Herro,1610612748,Miami Heat,1,8,3,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,20,83,1,1,20230311,ORL,MIA
+Shot Chart Detail,0022201007,85,1629639,Tyler Herro,1610612748,Miami Heat,1,3,57,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,54,29,1,1,20230311,ORL,MIA
+Shot Chart Detail,0022201007,384,1629639,Tyler Herro,1610612748,Miami Heat,3,6,37,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,25,1,1,20230311,ORL,MIA
+Shot Chart Detail,0022201007,503,1629639,Tyler Herro,1610612748,Miami Heat,4,10,11,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,36,255,1,1,20230311,ORL,MIA
+Shot Chart Detail,0022201007,512,1629639,Tyler Herro,1610612748,Miami Heat,4,9,36,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-44,80,1,1,20230311,ORL,MIA
+Shot Chart Detail,0022201022,49,1629639,Tyler Herro,1610612748,Miami Heat,1,7,2,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,4,58,1,1,20230313,MIA,UTA
+Shot Chart Detail,0022201022,84,1629639,Tyler Herro,1610612748,Miami Heat,1,4,12,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-12,32,1,1,20230313,MIA,UTA
+Shot Chart Detail,0022201022,232,1629639,Tyler Herro,1610612748,Miami Heat,2,7,4,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-1,38,1,1,20230313,MIA,UTA
+Shot Chart Detail,0022201022,359,1629639,Tyler Herro,1610612748,Miami Heat,3,9,59,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-231,4,1,1,20230313,MIA,UTA
+Shot Chart Detail,0022201022,641,1629639,Tyler Herro,1610612748,Miami Heat,4,0,55,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-62,274,1,1,20230313,MIA,UTA
+Shot Chart Detail,0022201036,134,1629639,Tyler Herro,1610612748,Miami Heat,1,1,13,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,32,60,1,1,20230315,MIA,MEM
+Shot Chart Detail,0022201036,188,1629639,Tyler Herro,1610612748,Miami Heat,2,9,34,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,7,1,1,20230315,MIA,MEM
+Shot Chart Detail,0022201036,214,1629639,Tyler Herro,1610612748,Miami Heat,2,7,10,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-43,136,1,1,20230315,MIA,MEM
+Shot Chart Detail,0022201036,324,1629639,Tyler Herro,1610612748,Miami Heat,3,10,56,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-151,5,1,1,20230315,MIA,MEM
+Shot Chart Detail,0022201036,344,1629639,Tyler Herro,1610612748,Miami Heat,3,9,14,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,15,1,1,20230315,MIA,MEM
+Shot Chart Detail,0022201036,384,1629639,Tyler Herro,1610612748,Miami Heat,3,6,35,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-33,117,1,1,20230315,MIA,MEM
+Shot Chart Detail,0022201036,468,1629639,Tyler Herro,1610612748,Miami Heat,3,0,1,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-99,158,1,1,20230315,MIA,MEM
+Shot Chart Detail,0022201036,512,1629639,Tyler Herro,1610612748,Miami Heat,4,9,13,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-68,17,1,1,20230315,MIA,MEM
+Shot Chart Detail,0022201036,524,1629639,Tyler Herro,1610612748,Miami Heat,4,8,19,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,50,1,1,20230315,MIA,MEM
+Shot Chart Detail,0022201060,42,1629639,Tyler Herro,1610612748,Miami Heat,1,8,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,16,267,1,1,20230318,CHI,MIA
+Shot Chart Detail,0022201060,61,1629639,Tyler Herro,1610612748,Miami Heat,1,6,30,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-6,11,1,1,20230318,CHI,MIA
+Shot Chart Detail,0022201060,220,1629639,Tyler Herro,1610612748,Miami Heat,2,6,55,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,126,6,1,1,20230318,CHI,MIA
+Shot Chart Detail,0022201060,335,1629639,Tyler Herro,1610612748,Miami Heat,3,9,2,Made Shot,Pullup Jump shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-227,56,1,1,20230318,CHI,MIA
+Shot Chart Detail,0022201060,490,1629639,Tyler Herro,1610612748,Miami Heat,4,8,43,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,12,247,1,1,20230318,CHI,MIA
+Shot Chart Detail,0022201066,9,1629639,Tyler Herro,1610612748,Miami Heat,1,11,32,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-9,55,1,1,20230319,DET,MIA
+Shot Chart Detail,0022201066,30,1629639,Tyler Herro,1610612748,Miami Heat,1,9,16,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,53,6,1,1,20230319,DET,MIA
+Shot Chart Detail,0022201066,175,1629639,Tyler Herro,1610612748,Miami Heat,2,8,59,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-83,251,1,1,20230319,DET,MIA
+Shot Chart Detail,0022201066,474,1629639,Tyler Herro,1610612748,Miami Heat,4,9,9,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,124,126,1,1,20230319,DET,MIA
+Shot Chart Detail,0022201066,545,1629639,Tyler Herro,1610612748,Miami Heat,4,3,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-163,215,1,1,20230319,DET,MIA
+Shot Chart Detail,0022201066,557,1629639,Tyler Herro,1610612748,Miami Heat,4,1,49,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-89,158,1,1,20230319,DET,MIA
+Shot Chart Detail,0022201066,563,1629639,Tyler Herro,1610612748,Miami Heat,4,1,10,Made Shot,Fadeaway Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,20,1,1,20230319,DET,MIA
+Shot Chart Detail,0022201084,27,1629639,Tyler Herro,1610612748,Miami Heat,1,9,41,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,67,62,1,1,20230322,MIA,NYK
+Shot Chart Detail,0022201084,189,1629639,Tyler Herro,1610612748,Miami Heat,2,8,46,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,15,1,1,20230322,MIA,NYK
+Shot Chart Detail,0022201084,321,1629639,Tyler Herro,1610612748,Miami Heat,3,11,1,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-45,0,1,1,20230322,MIA,NYK
+Shot Chart Detail,0022201084,477,1629639,Tyler Herro,1610612748,Miami Heat,4,11,17,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,238,-13,1,1,20230322,MIA,NYK
+Shot Chart Detail,0022201084,481,1629639,Tyler Herro,1610612748,Miami Heat,4,10,46,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,105,78,1,1,20230322,MIA,NYK
+Shot Chart Detail,0022201084,536,1629639,Tyler Herro,1610612748,Miami Heat,4,5,10,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,2,1,1,20230322,MIA,NYK
+Shot Chart Detail,0022201084,552,1629639,Tyler Herro,1610612748,Miami Heat,4,3,54,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,11,1,1,20230322,MIA,NYK
+Shot Chart Detail,0022201084,573,1629639,Tyler Herro,1610612748,Miami Heat,4,2,51,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-36,257,1,1,20230322,MIA,NYK
+Shot Chart Detail,0022201108,26,1629639,Tyler Herro,1610612748,Miami Heat,1,10,6,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-96,13,1,1,20230325,MIA,BKN
+Shot Chart Detail,0022201108,38,1629639,Tyler Herro,1610612748,Miami Heat,1,8,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,168,206,1,1,20230325,MIA,BKN
+Shot Chart Detail,0022201108,72,1629639,Tyler Herro,1610612748,Miami Heat,1,5,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,92,247,1,1,20230325,MIA,BKN
+Shot Chart Detail,0022201108,134,1629639,Tyler Herro,1610612748,Miami Heat,1,1,28,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,33,14,1,1,20230325,MIA,BKN
+Shot Chart Detail,0022201108,301,1629639,Tyler Herro,1610612748,Miami Heat,2,0,57,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,12,148,1,1,20230325,MIA,BKN
+Shot Chart Detail,0022201108,336,1629639,Tyler Herro,1610612748,Miami Heat,3,9,59,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-54,14,1,1,20230325,MIA,BKN
+Shot Chart Detail,0022201108,446,1629639,Tyler Herro,1610612748,Miami Heat,3,0,51,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-22,20,1,1,20230325,MIA,BKN
+Shot Chart Detail,0022201108,508,1629639,Tyler Herro,1610612748,Miami Heat,4,8,55,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-104,16,1,1,20230325,MIA,BKN
+Shot Chart Detail,0022201108,548,1629639,Tyler Herro,1610612748,Miami Heat,4,5,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,38,252,1,1,20230325,MIA,BKN
+Shot Chart Detail,0022201132,26,1629639,Tyler Herro,1610612748,Miami Heat,1,9,43,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-7,261,1,1,20230328,TOR,MIA
+Shot Chart Detail,0022201132,158,1629639,Tyler Herro,1610612748,Miami Heat,2,9,50,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-70,240,1,1,20230328,TOR,MIA
+Shot Chart Detail,0022201132,177,1629639,Tyler Herro,1610612748,Miami Heat,2,8,6,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-23,106,1,1,20230328,TOR,MIA
+Shot Chart Detail,0022201132,196,1629639,Tyler Herro,1610612748,Miami Heat,2,7,8,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,156,221,1,1,20230328,TOR,MIA
+Shot Chart Detail,0022201132,271,1629639,Tyler Herro,1610612748,Miami Heat,2,0,48,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,-1,1,1,20230328,TOR,MIA
+Shot Chart Detail,0022201132,319,1629639,Tyler Herro,1610612748,Miami Heat,3,10,38,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,26,158,1,1,20230328,TOR,MIA
+Shot Chart Detail,0022201132,349,1629639,Tyler Herro,1610612748,Miami Heat,3,7,33,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,40,49,1,1,20230328,TOR,MIA
+Shot Chart Detail,0022201132,361,1629639,Tyler Herro,1610612748,Miami Heat,3,6,13,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-43,90,1,1,20230328,TOR,MIA
+Shot Chart Detail,0022201132,384,1629639,Tyler Herro,1610612748,Miami Heat,3,4,26,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-110,174,1,1,20230328,TOR,MIA
+Shot Chart Detail,0022201132,396,1629639,Tyler Herro,1610612748,Miami Heat,3,2,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-195,185,1,1,20230328,TOR,MIA
+Shot Chart Detail,0022201132,408,1629639,Tyler Herro,1610612748,Miami Heat,3,1,40,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-13,94,1,1,20230328,TOR,MIA
+Shot Chart Detail,0022201132,524,1629639,Tyler Herro,1610612748,Miami Heat,4,4,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,29,-152,253,1,1,20230328,TOR,MIA
+Shot Chart Detail,0022201132,535,1629639,Tyler Herro,1610612748,Miami Heat,4,3,25,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,11,-58,95,1,1,20230328,TOR,MIA
+Shot Chart Detail,0022201138,68,1629639,Tyler Herro,1610612748,Miami Heat,1,6,28,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,-1,1,1,20230329,NYK,MIA
+Shot Chart Detail,0022201138,178,1629639,Tyler Herro,1610612748,Miami Heat,2,11,24,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-130,73,1,1,20230329,NYK,MIA
+Shot Chart Detail,0022201138,309,1629639,Tyler Herro,1610612748,Miami Heat,2,0,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,40,248,1,1,20230329,NYK,MIA
+Shot Chart Detail,0022201138,429,1629639,Tyler Herro,1610612748,Miami Heat,3,1,56,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-12,158,1,1,20230329,NYK,MIA
+Shot Chart Detail,0022201138,440,1629639,Tyler Herro,1610612748,Miami Heat,3,0,28,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-143,215,1,1,20230329,NYK,MIA
+Shot Chart Detail,0022201138,531,1629639,Tyler Herro,1610612748,Miami Heat,4,3,15,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,179,91,1,1,20230329,NYK,MIA
+Shot Chart Detail,0022201161,210,1629639,Tyler Herro,1610612748,Miami Heat,2,8,44,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-11,29,1,1,20230401,MIA,DAL
+Shot Chart Detail,0022201161,342,1629639,Tyler Herro,1610612748,Miami Heat,3,9,27,Made Shot,Step Back Jump shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-239,22,1,1,20230401,MIA,DAL
+Shot Chart Detail,0022201161,376,1629639,Tyler Herro,1610612748,Miami Heat,3,6,9,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-11,142,1,1,20230401,MIA,DAL
+Shot Chart Detail,0022201161,480,1629639,Tyler Herro,1610612748,Miami Heat,4,9,41,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,87,236,1,1,20230401,MIA,DAL
+Shot Chart Detail,0022201161,493,1629639,Tyler Herro,1610612748,Miami Heat,4,8,22,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-6,120,1,1,20230401,MIA,DAL
+Shot Chart Detail,0022201177,15,1629639,Tyler Herro,1610612748,Miami Heat,1,10,53,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,53,204,1,1,20230404,DET,MIA
+Shot Chart Detail,0022201177,22,1629639,Tyler Herro,1610612748,Miami Heat,1,10,3,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,13,1,1,20230404,DET,MIA
+Shot Chart Detail,0022201177,137,1629639,Tyler Herro,1610612748,Miami Heat,1,0,41,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,13,62,1,1,20230404,DET,MIA
+Shot Chart Detail,0022201177,169,1629639,Tyler Herro,1610612748,Miami Heat,2,10,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,157,209,1,1,20230404,DET,MIA
+Shot Chart Detail,0022201177,175,1629639,Tyler Herro,1610612748,Miami Heat,2,9,44,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-53,257,1,1,20230404,DET,MIA
+Shot Chart Detail,0022201177,496,1629639,Tyler Herro,1610612748,Miami Heat,4,8,52,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-119,-10,1,1,20230404,DET,MIA
+Shot Chart Detail,0022201177,587,1629639,Tyler Herro,1610612748,Miami Heat,4,0,55,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,1,107,1,1,20230404,DET,MIA
+Shot Chart Detail,0022201198,26,1629639,Tyler Herro,1610612748,Miami Heat,1,9,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,138,249,1,1,20230406,PHI,MIA
+Shot Chart Detail,0022201198,180,1629639,Tyler Herro,1610612748,Miami Heat,2,10,29,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,21,75,1,1,20230406,PHI,MIA
+Shot Chart Detail,0022201198,222,1629639,Tyler Herro,1610612748,Miami Heat,2,7,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,1,267,1,1,20230406,PHI,MIA
+Shot Chart Detail,0022201198,262,1629639,Tyler Herro,1610612748,Miami Heat,2,4,8,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,25,1,1,20230406,PHI,MIA
+Shot Chart Detail,0022201198,434,1629639,Tyler Herro,1610612748,Miami Heat,4,11,16,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,82,58,1,1,20230406,PHI,MIA
+Shot Chart Detail,0022201198,439,1629639,Tyler Herro,1610612748,Miami Heat,4,10,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,112,234,1,1,20230406,PHI,MIA
+Shot Chart Detail,0022201198,451,1629639,Tyler Herro,1610612748,Miami Heat,4,9,50,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-200,168,1,1,20230406,PHI,MIA
+Shot Chart Detail,0022201219,7,1629639,Tyler Herro,1610612748,Miami Heat,1,11,41,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-165,13,1,1,20230409,MIA,ORL
+Shot Chart Detail,0022201219,18,1629639,Tyler Herro,1610612748,Miami Heat,1,10,20,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,70,40,1,1,20230409,MIA,ORL

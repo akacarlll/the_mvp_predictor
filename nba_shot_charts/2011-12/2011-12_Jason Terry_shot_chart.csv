@@ -1,0 +1,358 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0021100002,159,1891,Jason Terry,1610612742,Dallas Mavericks,1,0,16,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,171,20,1,1,20111225,DAL,MIA
+Shot Chart Detail,0021100002,192,1891,Jason Terry,1610612742,Dallas Mavericks,2,9,49,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-15,25,1,1,20111225,DAL,MIA
+Shot Chart Detail,0021100002,219,1891,Jason Terry,1610612742,Dallas Mavericks,2,7,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,177,165,1,1,20111225,DAL,MIA
+Shot Chart Detail,0021100002,393,1891,Jason Terry,1610612742,Dallas Mavericks,3,6,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,170,179,1,1,20111225,DAL,MIA
+Shot Chart Detail,0021100002,460,1891,Jason Terry,1610612742,Dallas Mavericks,3,1,2,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,1,1,1,20111225,DAL,MIA
+Shot Chart Detail,0021100002,513,1891,Jason Terry,1610612742,Dallas Mavericks,4,8,28,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-49,105,1,1,20111225,DAL,MIA
+Shot Chart Detail,0021100002,520,1891,Jason Terry,1610612742,Dallas Mavericks,4,7,45,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,23,-103,206,1,1,20111225,DAL,MIA
+Shot Chart Detail,0021100002,538,1891,Jason Terry,1610612742,Dallas Mavericks,4,6,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,140,200,1,1,20111225,DAL,MIA
+Shot Chart Detail,0021100002,545,1891,Jason Terry,1610612742,Dallas Mavericks,4,5,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-157,14,1,1,20111225,DAL,MIA
+Shot Chart Detail,0021100012,55,1891,Jason Terry,1610612742,Dallas Mavericks,1,6,8,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,7,1,1,20111226,DAL,DEN
+Shot Chart Detail,0021100012,99,1891,Jason Terry,1610612742,Dallas Mavericks,1,1,15,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,141,4,1,1,20111226,DAL,DEN
+Shot Chart Detail,0021100012,159,1891,Jason Terry,1610612742,Dallas Mavericks,2,6,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-172,1,1,1,20111226,DAL,DEN
+Shot Chart Detail,0021100035,116,1891,Jason Terry,1610612742,Dallas Mavericks,1,0,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,110,220,1,1,20111229,OKC,DAL
+Shot Chart Detail,0021100035,130,1891,Jason Terry,1610612742,Dallas Mavericks,1,0,6,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,231,15,1,1,20111229,OKC,DAL
+Shot Chart Detail,0021100035,433,1891,Jason Terry,1610612742,Dallas Mavericks,4,8,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,140,75,1,1,20111229,OKC,DAL
+Shot Chart Detail,0021100035,458,1891,Jason Terry,1610612742,Dallas Mavericks,4,5,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,160,31,1,1,20111229,OKC,DAL
+Shot Chart Detail,0021100035,479,1891,Jason Terry,1610612742,Dallas Mavericks,4,4,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-209,124,1,1,20111229,OKC,DAL
+Shot Chart Detail,0021100035,526,1891,Jason Terry,1610612742,Dallas Mavericks,4,0,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,23,168,170,1,1,20111229,OKC,DAL
+Shot Chart Detail,0021100047,105,1891,Jason Terry,1610612742,Dallas Mavericks,1,2,17,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,23,-177,159,1,1,20111230,DAL,TOR
+Shot Chart Detail,0021100047,412,1891,Jason Terry,1610612742,Dallas Mavericks,4,9,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-87,231,1,1,20111230,DAL,TOR
+Shot Chart Detail,0021100047,433,1891,Jason Terry,1610612742,Dallas Mavericks,4,8,1,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,36,126,1,1,20111230,DAL,TOR
+Shot Chart Detail,0021100047,459,1891,Jason Terry,1610612742,Dallas Mavericks,4,4,40,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,81,142,1,1,20111230,DAL,TOR
+Shot Chart Detail,0021100047,497,1891,Jason Terry,1610612742,Dallas Mavericks,4,1,10,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,91,104,1,1,20111230,DAL,TOR
+Shot Chart Detail,0021100061,258,1891,Jason Terry,1610612742,Dallas Mavericks,2,1,33,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,10,64,1,1,20120101,MIN,DAL
+Shot Chart Detail,0021100061,379,1891,Jason Terry,1610612742,Dallas Mavericks,3,3,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,146,211,1,1,20120101,MIN,DAL
+Shot Chart Detail,0021100061,440,1891,Jason Terry,1610612742,Dallas Mavericks,4,9,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-172,183,1,1,20120101,MIN,DAL
+Shot Chart Detail,0021100061,450,1891,Jason Terry,1610612742,Dallas Mavericks,4,8,9,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-37,108,1,1,20120101,MIN,DAL
+Shot Chart Detail,0021100073,119,1891,Jason Terry,1610612742,Dallas Mavericks,1,0,39,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,28,45,1,1,20120102,DAL,OKC
+Shot Chart Detail,0021100073,162,1891,Jason Terry,1610612742,Dallas Mavericks,2,9,46,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,37,1,1,20120102,DAL,OKC
+Shot Chart Detail,0021100073,230,1891,Jason Terry,1610612742,Dallas Mavericks,2,4,22,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-62,58,1,1,20120102,DAL,OKC
+Shot Chart Detail,0021100073,240,1891,Jason Terry,1610612742,Dallas Mavericks,2,2,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-152,194,1,1,20120102,DAL,OKC
+Shot Chart Detail,0021100073,271,1891,Jason Terry,1610612742,Dallas Mavericks,2,0,9,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-183,14,1,1,20120102,DAL,OKC
+Shot Chart Detail,0021100073,424,1891,Jason Terry,1610612742,Dallas Mavericks,4,7,27,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,11,1,1,20120102,DAL,OKC
+Shot Chart Detail,0021100090,140,1891,Jason Terry,1610612742,Dallas Mavericks,2,11,45,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-188,48,1,1,20120104,DAL,PHX
+Shot Chart Detail,0021100090,356,1891,Jason Terry,1610612742,Dallas Mavericks,3,5,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-111,241,1,1,20120104,DAL,PHX
+Shot Chart Detail,0021100090,422,1891,Jason Terry,1610612742,Dallas Mavericks,3,0,0,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,30,1,1,20120104,DAL,PHX
+Shot Chart Detail,0021100090,428,1891,Jason Terry,1610612742,Dallas Mavericks,4,11,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,9,252,1,1,20120104,DAL,PHX
+Shot Chart Detail,0021100090,440,1891,Jason Terry,1610612742,Dallas Mavericks,4,9,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,192,168,1,1,20120104,DAL,PHX
+Shot Chart Detail,0021100090,454,1891,Jason Terry,1610612742,Dallas Mavericks,4,7,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-213,118,1,1,20120104,DAL,PHX
+Shot Chart Detail,0021100095,42,1891,Jason Terry,1610612742,Dallas Mavericks,1,6,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,125,12,1,1,20120105,SAS,DAL
+Shot Chart Detail,0021100095,136,1891,Jason Terry,1610612742,Dallas Mavericks,2,9,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,36,153,1,1,20120105,SAS,DAL
+Shot Chart Detail,0021100095,170,1891,Jason Terry,1610612742,Dallas Mavericks,2,6,6,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,36,4,1,1,20120105,SAS,DAL
+Shot Chart Detail,0021100095,349,1891,Jason Terry,1610612742,Dallas Mavericks,3,2,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,122,230,1,1,20120105,SAS,DAL
+Shot Chart Detail,0021100117,105,1891,Jason Terry,1610612742,Dallas Mavericks,1,0,46,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,106,64,1,1,20120107,DAL,NOH
+Shot Chart Detail,0021100117,163,1891,Jason Terry,1610612742,Dallas Mavericks,2,7,14,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,12,1,1,20120107,DAL,NOH
+Shot Chart Detail,0021100117,201,1891,Jason Terry,1610612742,Dallas Mavericks,2,4,12,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,129,88,1,1,20120107,DAL,NOH
+Shot Chart Detail,0021100117,490,1891,Jason Terry,1610612742,Dallas Mavericks,4,5,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,154,203,1,1,20120107,DAL,NOH
+Shot Chart Detail,0021100117,516,1891,Jason Terry,1610612742,Dallas Mavericks,4,2,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,129,220,1,1,20120107,DAL,NOH
+Shot Chart Detail,0021100135,106,1891,Jason Terry,1610612742,Dallas Mavericks,1,1,10,Made Shot,Pullup Bank shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,122,6,1,1,20120110,DET,DAL
+Shot Chart Detail,0021100135,124,1891,Jason Terry,1610612742,Dallas Mavericks,2,11,25,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,170,26,1,1,20120110,DET,DAL
+Shot Chart Detail,0021100135,323,1891,Jason Terry,1610612742,Dallas Mavericks,3,3,25,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,171,61,1,1,20120110,DET,DAL
+Shot Chart Detail,0021100135,328,1891,Jason Terry,1610612742,Dallas Mavericks,3,2,29,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,17,1,1,20120110,DET,DAL
+Shot Chart Detail,0021100146,104,1891,Jason Terry,1610612742,Dallas Mavericks,1,0,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-172,77,1,1,20120111,BOS,DAL
+Shot Chart Detail,0021100146,121,1891,Jason Terry,1610612742,Dallas Mavericks,2,11,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,-2,1,1,20120111,BOS,DAL
+Shot Chart Detail,0021100146,204,1891,Jason Terry,1610612742,Dallas Mavericks,2,4,1,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,53,1,1,20120111,BOS,DAL
+Shot Chart Detail,0021100146,382,1891,Jason Terry,1610612742,Dallas Mavericks,3,1,59,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,25,1,1,20120111,BOS,DAL
+Shot Chart Detail,0021100146,504,1891,Jason Terry,1610612742,Dallas Mavericks,4,3,16,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-231,12,1,1,20120111,BOS,DAL
+Shot Chart Detail,0021100146,507,1891,Jason Terry,1610612742,Dallas Mavericks,4,2,42,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,7,1,1,20120111,BOS,DAL
+Shot Chart Detail,0021100146,557,1891,Jason Terry,1610612742,Dallas Mavericks,4,0,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,3,1,1,20120111,BOS,DAL
+Shot Chart Detail,0021100165,100,1891,Jason Terry,1610612742,Dallas Mavericks,1,0,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-179,164,1,1,20120113,DAL,MIL
+Shot Chart Detail,0021100165,102,1891,Jason Terry,1610612742,Dallas Mavericks,1,0,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,138,115,1,1,20120113,DAL,MIL
+Shot Chart Detail,0021100165,148,1891,Jason Terry,1610612742,Dallas Mavericks,2,8,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-133,209,1,1,20120113,DAL,MIL
+Shot Chart Detail,0021100165,352,1891,Jason Terry,1610612742,Dallas Mavericks,3,0,53,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,12,-67,101,1,1,20120113,DAL,MIL
+Shot Chart Detail,0021100165,389,1891,Jason Terry,1610612742,Dallas Mavericks,4,10,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,217,138,1,1,20120113,DAL,MIL
+Shot Chart Detail,0021100178,77,1891,Jason Terry,1610612742,Dallas Mavericks,1,4,52,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,4,1,1,20120114,DAL,SAC
+Shot Chart Detail,0021100178,85,1891,Jason Terry,1610612742,Dallas Mavericks,1,4,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-157,1,1,1,20120114,DAL,SAC
+Shot Chart Detail,0021100178,97,1891,Jason Terry,1610612742,Dallas Mavericks,1,2,20,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,12,108,1,1,20120114,DAL,SAC
+Shot Chart Detail,0021100178,103,1891,Jason Terry,1610612742,Dallas Mavericks,1,1,43,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,152,20,1,1,20120114,DAL,SAC
+Shot Chart Detail,0021100178,244,1891,Jason Terry,1610612742,Dallas Mavericks,2,1,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,127,217,1,1,20120114,DAL,SAC
+Shot Chart Detail,0021100178,394,1891,Jason Terry,1610612742,Dallas Mavericks,3,2,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,157,131,1,1,20120114,DAL,SAC
+Shot Chart Detail,0021100178,465,1891,Jason Terry,1610612742,Dallas Mavericks,4,8,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,217,151,1,1,20120114,DAL,SAC
+Shot Chart Detail,0021100178,474,1891,Jason Terry,1610612742,Dallas Mavericks,4,6,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,140,9,1,1,20120114,DAL,SAC
+Shot Chart Detail,0021100194,139,1891,Jason Terry,1610612742,Dallas Mavericks,2,10,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,86,255,1,1,20120116,LAL,DAL
+Shot Chart Detail,0021100194,381,1891,Jason Terry,1610612742,Dallas Mavericks,4,10,26,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,64,86,1,1,20120116,LAL,DAL
+Shot Chart Detail,0021100194,508,1891,Jason Terry,1610612742,Dallas Mavericks,4,0,9,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,13,-70,119,1,1,20120116,LAL,DAL
+Shot Chart Detail,0021100212,285,1891,Jason Terry,1610612742,Dallas Mavericks,3,8,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,22,12,225,1,1,20120118,LAC,DAL
+Shot Chart Detail,0021100212,338,1891,Jason Terry,1610612742,Dallas Mavericks,3,4,1,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-7,23,1,1,20120118,LAC,DAL
+Shot Chart Detail,0021100212,341,1891,Jason Terry,1610612742,Dallas Mavericks,3,3,42,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,136,148,1,1,20120118,LAC,DAL
+Shot Chart Detail,0021100212,501,1891,Jason Terry,1610612742,Dallas Mavericks,4,0,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-133,249,1,1,20120118,LAC,DAL
+Shot Chart Detail,0021100212,520,1891,Jason Terry,1610612742,Dallas Mavericks,4,0,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,106,236,1,1,20120118,LAC,DAL
+Shot Chart Detail,0021100215,164,1891,Jason Terry,1610612742,Dallas Mavericks,2,7,46,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,6,1,1,20120119,UTA,DAL
+Shot Chart Detail,0021100215,217,1891,Jason Terry,1610612742,Dallas Mavericks,2,3,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-105,230,1,1,20120119,UTA,DAL
+Shot Chart Detail,0021100215,472,1891,Jason Terry,1610612742,Dallas Mavericks,4,2,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-125,222,1,1,20120119,UTA,DAL
+Shot Chart Detail,0021100234,235,1891,Jason Terry,1610612742,Dallas Mavericks,2,0,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-109,165,1,1,20120121,NOH,DAL
+Shot Chart Detail,0021100234,305,1891,Jason Terry,1610612742,Dallas Mavericks,3,5,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,61,146,1,1,20120121,NOH,DAL
+Shot Chart Detail,0021100234,504,1891,Jason Terry,1610612742,Dallas Mavericks,4,2,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-125,112,1,1,20120121,NOH,DAL
+Shot Chart Detail,0021100249,131,1891,Jason Terry,1610612742,Dallas Mavericks,1,0,53,Made Shot,Running Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,3,-1,1,1,20120123,DAL,PHX
+Shot Chart Detail,0021100249,173,1891,Jason Terry,1610612742,Dallas Mavericks,2,8,51,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-187,151,1,1,20120123,DAL,PHX
+Shot Chart Detail,0021100249,251,1891,Jason Terry,1610612742,Dallas Mavericks,2,2,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,59,167,1,1,20120123,DAL,PHX
+Shot Chart Detail,0021100249,368,1891,Jason Terry,1610612742,Dallas Mavericks,3,3,38,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,184,83,1,1,20120123,DAL,PHX
+Shot Chart Detail,0021100249,414,1891,Jason Terry,1610612742,Dallas Mavericks,4,11,20,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,9,1,1,20120123,DAL,PHX
+Shot Chart Detail,0021100264,81,1891,Jason Terry,1610612742,Dallas Mavericks,1,2,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-237,97,1,1,20120125,DAL,MIN
+Shot Chart Detail,0021100264,88,1891,Jason Terry,1610612742,Dallas Mavericks,1,1,48,Made Shot,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-11,64,1,1,20120125,DAL,MIN
+Shot Chart Detail,0021100264,112,1891,Jason Terry,1610612742,Dallas Mavericks,1,0,1,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-34,187,1,1,20120125,DAL,MIN
+Shot Chart Detail,0021100264,116,1891,Jason Terry,1610612742,Dallas Mavericks,2,11,47,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,160,53,1,1,20120125,DAL,MIN
+Shot Chart Detail,0021100264,142,1891,Jason Terry,1610612742,Dallas Mavericks,2,8,26,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,15,1,1,20120125,DAL,MIN
+Shot Chart Detail,0021100264,330,1891,Jason Terry,1610612742,Dallas Mavericks,3,3,23,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,17,1,1,20120125,DAL,MIN
+Shot Chart Detail,0021100264,423,1891,Jason Terry,1610612742,Dallas Mavericks,4,8,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-19,173,1,1,20120125,DAL,MIN
+Shot Chart Detail,0021100264,425,1891,Jason Terry,1610612742,Dallas Mavericks,4,7,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,116,107,1,1,20120125,DAL,MIN
+Shot Chart Detail,0021100281,90,1891,Jason Terry,1610612742,Dallas Mavericks,1,1,40,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,1,156,1,1,20120127,DAL,UTA
+Shot Chart Detail,0021100281,96,1891,Jason Terry,1610612742,Dallas Mavericks,1,0,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-210,129,1,1,20120127,DAL,UTA
+Shot Chart Detail,0021100281,170,1891,Jason Terry,1610612742,Dallas Mavericks,2,6,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,-2,1,1,20120127,DAL,UTA
+Shot Chart Detail,0021100281,290,1891,Jason Terry,1610612742,Dallas Mavericks,3,6,38,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,154,60,1,1,20120127,DAL,UTA
+Shot Chart Detail,0021100281,305,1891,Jason Terry,1610612742,Dallas Mavericks,3,5,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,23,-160,178,1,1,20120127,DAL,UTA
+Shot Chart Detail,0021100281,327,1891,Jason Terry,1610612742,Dallas Mavericks,3,3,55,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,146,121,1,1,20120127,DAL,UTA
+Shot Chart Detail,0021100281,365,1891,Jason Terry,1610612742,Dallas Mavericks,3,0,36,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-175,170,1,1,20120127,DAL,UTA
+Shot Chart Detail,0021100295,79,1891,Jason Terry,1610612742,Dallas Mavericks,1,2,58,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,151,64,1,1,20120129,DAL,SAS
+Shot Chart Detail,0021100295,88,1891,Jason Terry,1610612742,Dallas Mavericks,1,1,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,23,-133,189,1,1,20120129,DAL,SAS
+Shot Chart Detail,0021100295,121,1891,Jason Terry,1610612742,Dallas Mavericks,2,10,6,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,84,194,1,1,20120129,DAL,SAS
+Shot Chart Detail,0021100295,133,1891,Jason Terry,1610612742,Dallas Mavericks,2,8,57,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,4,1,1,20120129,DAL,SAS
+Shot Chart Detail,0021100295,300,1891,Jason Terry,1610612742,Dallas Mavericks,3,6,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,4,148,1,1,20120129,DAL,SAS
+Shot Chart Detail,0021100295,321,1891,Jason Terry,1610612742,Dallas Mavericks,3,4,40,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-7,132,1,1,20120129,DAL,SAS
+Shot Chart Detail,0021100295,323,1891,Jason Terry,1610612742,Dallas Mavericks,3,4,12,Made Shot,Pullup Bank shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,113,31,1,1,20120129,DAL,SAS
+Shot Chart Detail,0021100295,328,1891,Jason Terry,1610612742,Dallas Mavericks,3,3,43,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,129,88,1,1,20120129,DAL,SAS
+Shot Chart Detail,0021100295,350,1891,Jason Terry,1610612742,Dallas Mavericks,3,1,8,Made Shot,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,50,66,1,1,20120129,DAL,SAS
+Shot Chart Detail,0021100295,437,1891,Jason Terry,1610612742,Dallas Mavericks,4,5,12,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,20,94,1,1,20120129,DAL,SAS
+Shot Chart Detail,0021100295,442,1891,Jason Terry,1610612742,Dallas Mavericks,4,3,49,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-229,74,1,1,20120129,DAL,SAS
+Shot Chart Detail,0021100295,466,1891,Jason Terry,1610612742,Dallas Mavericks,4,1,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,28,4,1,1,20120129,DAL,SAS
+Shot Chart Detail,0021100295,485,1891,Jason Terry,1610612742,Dallas Mavericks,4,0,0,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,155,55,1,1,20120129,DAL,SAS
+Shot Chart Detail,0021100295,536,1891,Jason Terry,1610612742,Dallas Mavericks,5,0,41,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-122,14,1,1,20120129,DAL,SAS
+Shot Chart Detail,0021100306,84,1891,Jason Terry,1610612742,Dallas Mavericks,1,1,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-114,239,1,1,20120130,PHX,DAL
+Shot Chart Detail,0021100306,158,1891,Jason Terry,1610612742,Dallas Mavericks,2,5,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-175,178,1,1,20120130,PHX,DAL
+Shot Chart Detail,0021100306,208,1891,Jason Terry,1610612742,Dallas Mavericks,2,0,30,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,-14,1,1,20120130,PHX,DAL
+Shot Chart Detail,0021100306,387,1891,Jason Terry,1610612742,Dallas Mavericks,4,7,31,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,1,89,1,1,20120130,PHX,DAL
+Shot Chart Detail,0021100321,145,1891,Jason Terry,1610612742,Dallas Mavericks,2,9,57,Made Shot,Turnaround Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-43,11,1,1,20120201,DAL,OKC
+Shot Chart Detail,0021100321,188,1891,Jason Terry,1610612742,Dallas Mavericks,2,6,35,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,141,63,1,1,20120201,DAL,OKC
+Shot Chart Detail,0021100321,203,1891,Jason Terry,1610612742,Dallas Mavericks,2,4,59,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-242,31,1,1,20120201,DAL,OKC
+Shot Chart Detail,0021100321,238,1891,Jason Terry,1610612742,Dallas Mavericks,2,1,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-196,151,1,1,20120201,DAL,OKC
+Shot Chart Detail,0021100321,352,1891,Jason Terry,1610612742,Dallas Mavericks,3,3,59,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,160,-2,1,1,20120201,DAL,OKC
+Shot Chart Detail,0021100321,488,1891,Jason Terry,1610612742,Dallas Mavericks,4,6,26,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,11,1,1,20120201,DAL,OKC
+Shot Chart Detail,0021100321,505,1891,Jason Terry,1610612742,Dallas Mavericks,4,4,40,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,12,25,1,1,20120201,DAL,OKC
+Shot Chart Detail,0021100340,141,1891,Jason Terry,1610612742,Dallas Mavericks,2,10,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,159,131,1,1,20120203,DAL,IND
+Shot Chart Detail,0021100340,227,1891,Jason Terry,1610612742,Dallas Mavericks,2,0,58,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,226,-3,1,1,20120203,DAL,IND
+Shot Chart Detail,0021100340,385,1891,Jason Terry,1610612742,Dallas Mavericks,4,11,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,200,143,1,1,20120203,DAL,IND
+Shot Chart Detail,0021100340,475,1891,Jason Terry,1610612742,Dallas Mavericks,4,2,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,1,1,1,20120203,DAL,IND
+Shot Chart Detail,0021100347,136,1891,Jason Terry,1610612742,Dallas Mavericks,2,11,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,130,213,1,1,20120204,CLE,DAL
+Shot Chart Detail,0021100347,156,1891,Jason Terry,1610612742,Dallas Mavericks,2,8,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-127,214,1,1,20120204,CLE,DAL
+Shot Chart Detail,0021100347,226,1891,Jason Terry,1610612742,Dallas Mavericks,2,4,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,4,1,1,20120204,CLE,DAL
+Shot Chart Detail,0021100347,362,1891,Jason Terry,1610612742,Dallas Mavericks,3,3,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-142,225,1,1,20120204,CLE,DAL
+Shot Chart Detail,0021100347,468,1891,Jason Terry,1610612742,Dallas Mavericks,4,4,14,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,233,61,1,1,20120204,CLE,DAL
+Shot Chart Detail,0021100382,140,1891,Jason Terry,1610612742,Dallas Mavericks,2,10,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,165,39,1,1,20120208,DEN,DAL
+Shot Chart Detail,0021100398,147,1891,Jason Terry,1610612742,Dallas Mavericks,2,11,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,114,15,1,1,20120210,MIN,DAL
+Shot Chart Detail,0021100398,164,1891,Jason Terry,1610612742,Dallas Mavericks,2,9,53,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,47,1,1,20120210,MIN,DAL
+Shot Chart Detail,0021100398,217,1891,Jason Terry,1610612742,Dallas Mavericks,2,5,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,12,1,1,20120210,MIN,DAL
+Shot Chart Detail,0021100398,494,1891,Jason Terry,1610612742,Dallas Mavericks,4,9,30,Made Shot,Running Bank shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,86,19,1,1,20120210,MIN,DAL
+Shot Chart Detail,0021100398,501,1891,Jason Terry,1610612742,Dallas Mavericks,4,8,37,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,163,31,1,1,20120210,MIN,DAL
+Shot Chart Detail,0021100398,505,1891,Jason Terry,1610612742,Dallas Mavericks,4,8,16,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-57,26,1,1,20120210,MIN,DAL
+Shot Chart Detail,0021100398,515,1891,Jason Terry,1610612742,Dallas Mavericks,4,7,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,23,206,123,1,1,20120210,MIN,DAL
+Shot Chart Detail,0021100405,56,1891,Jason Terry,1610612742,Dallas Mavericks,1,4,29,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,10,129,1,1,20120211,DAL,POR
+Shot Chart Detail,0021100405,109,1891,Jason Terry,1610612742,Dallas Mavericks,2,11,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-34,254,1,1,20120211,DAL,POR
+Shot Chart Detail,0021100405,115,1891,Jason Terry,1610612742,Dallas Mavericks,2,10,32,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-60,119,1,1,20120211,DAL,POR
+Shot Chart Detail,0021100405,304,1891,Jason Terry,1610612742,Dallas Mavericks,3,4,27,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,22,1,1,20120211,DAL,POR
+Shot Chart Detail,0021100405,377,1891,Jason Terry,1610612742,Dallas Mavericks,4,10,58,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,11,-78,89,1,1,20120211,DAL,POR
+Shot Chart Detail,0021100405,430,1891,Jason Terry,1610612742,Dallas Mavericks,4,5,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,-5,1,1,20120211,DAL,POR
+Shot Chart Detail,0021100405,454,1891,Jason Terry,1610612742,Dallas Mavericks,4,3,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,4,1,1,20120211,DAL,POR
+Shot Chart Detail,0021100405,464,1891,Jason Terry,1610612742,Dallas Mavericks,4,1,22,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,187,82,1,1,20120211,DAL,POR
+Shot Chart Detail,0021100418,145,1891,Jason Terry,1610612742,Dallas Mavericks,2,9,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,23,56,225,1,1,20120213,DAL,LAC
+Shot Chart Detail,0021100418,291,1891,Jason Terry,1610612742,Dallas Mavericks,3,7,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-193,14,1,1,20120213,DAL,LAC
+Shot Chart Detail,0021100418,394,1891,Jason Terry,1610612742,Dallas Mavericks,4,11,7,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-224,30,1,1,20120213,DAL,LAC
+Shot Chart Detail,0021100418,500,1891,Jason Terry,1610612742,Dallas Mavericks,4,2,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20120213,DAL,LAC
+Shot Chart Detail,0021100460,61,1891,Jason Terry,1610612742,Dallas Mavericks,1,5,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,168,209,1,1,20120219,NYK,DAL
+Shot Chart Detail,0021100460,156,1891,Jason Terry,1610612742,Dallas Mavericks,2,8,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-210,134,1,1,20120219,NYK,DAL
+Shot Chart Detail,0021100460,183,1891,Jason Terry,1610612742,Dallas Mavericks,2,5,37,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-89,97,1,1,20120219,NYK,DAL
+Shot Chart Detail,0021100460,396,1891,Jason Terry,1610612742,Dallas Mavericks,4,9,32,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-8,19,1,1,20120219,NYK,DAL
+Shot Chart Detail,0021100460,474,1891,Jason Terry,1610612742,Dallas Mavericks,4,3,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,23,-166,173,1,1,20120219,NYK,DAL
+Shot Chart Detail,0021100474,94,1891,Jason Terry,1610612742,Dallas Mavericks,1,2,7,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,0,1,1,20120220,DAL,BOS
+Shot Chart Detail,0021100474,136,1891,Jason Terry,1610612742,Dallas Mavericks,2,9,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-223,108,1,1,20120220,DAL,BOS
+Shot Chart Detail,0021100474,213,1891,Jason Terry,1610612742,Dallas Mavericks,2,2,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,220,105,1,1,20120220,DAL,BOS
+Shot Chart Detail,0021100474,327,1891,Jason Terry,1610612742,Dallas Mavericks,3,3,29,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,-13,1,1,20120220,DAL,BOS
+Shot Chart Detail,0021100474,370,1891,Jason Terry,1610612742,Dallas Mavericks,4,10,48,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,174,75,1,1,20120220,DAL,BOS
+Shot Chart Detail,0021100474,406,1891,Jason Terry,1610612742,Dallas Mavericks,4,8,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,23,-98,217,1,1,20120220,DAL,BOS
+Shot Chart Detail,0021100497,174,1891,Jason Terry,1610612742,Dallas Mavericks,2,5,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-75,231,1,1,20120222,DAL,LAL
+Shot Chart Detail,0021100497,310,1891,Jason Terry,1610612742,Dallas Mavericks,3,4,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-161,64,1,1,20120222,DAL,LAL
+Shot Chart Detail,0021100497,358,1891,Jason Terry,1610612742,Dallas Mavericks,3,0,47,Made Shot,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,20,71,1,1,20120222,DAL,LAL
+Shot Chart Detail,0021100497,375,1891,Jason Terry,1610612742,Dallas Mavericks,4,10,52,Made Shot,Pullup Bank shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-141,50,1,1,20120222,DAL,LAL
+Shot Chart Detail,0021100497,429,1891,Jason Terry,1610612742,Dallas Mavericks,4,6,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,203,14,1,1,20120222,DAL,LAL
+Shot Chart Detail,0021100497,483,1891,Jason Terry,1610612742,Dallas Mavericks,4,2,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-157,4,1,1,20120222,DAL,LAL
+Shot Chart Detail,0021100497,510,1891,Jason Terry,1610612742,Dallas Mavericks,4,0,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,48,265,1,1,20120222,DAL,LAL
+Shot Chart Detail,0021100509,97,1891,Jason Terry,1610612742,Dallas Mavericks,1,2,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-134,222,1,1,20120228,DAL,NJN
+Shot Chart Detail,0021100509,223,1891,Jason Terry,1610612742,Dallas Mavericks,2,4,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,170,17,1,1,20120228,DAL,NJN
+Shot Chart Detail,0021100509,381,1891,Jason Terry,1610612742,Dallas Mavericks,3,2,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-136,209,1,1,20120228,DAL,NJN
+Shot Chart Detail,0021100509,533,1891,Jason Terry,1610612742,Dallas Mavericks,4,1,22,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,3,1,1,20120228,DAL,NJN
+Shot Chart Detail,0021100518,94,1891,Jason Terry,1610612742,Dallas Mavericks,1,1,48,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,29,78,1,1,20120229,MEM,DAL
+Shot Chart Detail,0021100518,235,1891,Jason Terry,1610612742,Dallas Mavericks,2,0,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,92,254,1,1,20120229,MEM,DAL
+Shot Chart Detail,0021100518,363,1891,Jason Terry,1610612742,Dallas Mavericks,3,0,57,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-21,127,1,1,20120229,MEM,DAL
+Shot Chart Detail,0021100518,438,1891,Jason Terry,1610612742,Dallas Mavericks,4,6,24,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,-5,1,1,20120229,MEM,DAL
+Shot Chart Detail,0021100518,449,1891,Jason Terry,1610612742,Dallas Mavericks,4,4,56,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,9,22,1,1,20120229,MEM,DAL
+Shot Chart Detail,0021100518,461,1891,Jason Terry,1610612742,Dallas Mavericks,4,3,36,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-4,45,1,1,20120229,MEM,DAL
+Shot Chart Detail,0021100518,464,1891,Jason Terry,1610612742,Dallas Mavericks,4,3,0,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-95,7,1,1,20120229,MEM,DAL
+Shot Chart Detail,0021100533,98,1891,Jason Terry,1610612742,Dallas Mavericks,1,1,54,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,28,72,1,1,20120302,NOH,DAL
+Shot Chart Detail,0021100544,75,1891,Jason Terry,1610612742,Dallas Mavericks,1,3,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-171,77,1,1,20120303,DAL,UTA
+Shot Chart Detail,0021100544,99,1891,Jason Terry,1610612742,Dallas Mavericks,1,0,43,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,204,134,1,1,20120303,DAL,UTA
+Shot Chart Detail,0021100544,122,1891,Jason Terry,1610612742,Dallas Mavericks,2,11,16,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-34,72,1,1,20120303,DAL,UTA
+Shot Chart Detail,0021100544,227,1891,Jason Terry,1610612742,Dallas Mavericks,2,0,38,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-158,31,1,1,20120303,DAL,UTA
+Shot Chart Detail,0021100544,329,1891,Jason Terry,1610612742,Dallas Mavericks,3,1,52,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,190,149,1,1,20120303,DAL,UTA
+Shot Chart Detail,0021100544,332,1891,Jason Terry,1610612742,Dallas Mavericks,3,1,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,163,11,1,1,20120303,DAL,UTA
+Shot Chart Detail,0021100544,391,1891,Jason Terry,1610612742,Dallas Mavericks,4,8,44,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,-8,1,1,20120303,DAL,UTA
+Shot Chart Detail,0021100544,489,1891,Jason Terry,1610612742,Dallas Mavericks,4,0,53,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,3,1,1,20120303,DAL,UTA
+Shot Chart Detail,0021100559,104,1891,Jason Terry,1610612742,Dallas Mavericks,1,1,53,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,3,1,1,20120305,OKC,DAL
+Shot Chart Detail,0021100559,132,1891,Jason Terry,1610612742,Dallas Mavericks,2,11,18,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-98,15,1,1,20120305,OKC,DAL
+Shot Chart Detail,0021100559,174,1891,Jason Terry,1610612742,Dallas Mavericks,2,6,51,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,7,1,1,20120305,OKC,DAL
+Shot Chart Detail,0021100559,202,1891,Jason Terry,1610612742,Dallas Mavericks,2,2,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-187,157,1,1,20120305,OKC,DAL
+Shot Chart Detail,0021100559,405,1891,Jason Terry,1610612742,Dallas Mavericks,4,10,58,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-38,47,1,1,20120305,OKC,DAL
+Shot Chart Detail,0021100559,434,1891,Jason Terry,1610612742,Dallas Mavericks,4,8,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,170,176,1,1,20120305,OKC,DAL
+Shot Chart Detail,0021100559,442,1891,Jason Terry,1610612742,Dallas Mavericks,4,7,52,Made Shot,Running Bank shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,81,61,1,1,20120305,OKC,DAL
+Shot Chart Detail,0021100568,127,1891,Jason Terry,1610612742,Dallas Mavericks,2,11,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,100,198,1,1,20120306,DAL,NYK
+Shot Chart Detail,0021100568,179,1891,Jason Terry,1610612742,Dallas Mavericks,2,7,13,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,41,1,1,20120306,DAL,NYK
+Shot Chart Detail,0021100568,376,1891,Jason Terry,1610612742,Dallas Mavericks,3,3,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,181,84,1,1,20120306,DAL,NYK
+Shot Chart Detail,0021100583,100,1891,Jason Terry,1610612742,Dallas Mavericks,2,11,18,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,84,78,1,1,20120308,PHX,DAL
+Shot Chart Detail,0021100583,128,1891,Jason Terry,1610612742,Dallas Mavericks,2,8,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,13,19,1,1,20120308,PHX,DAL
+Shot Chart Detail,0021100583,134,1891,Jason Terry,1610612742,Dallas Mavericks,2,7,20,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,12,1,1,20120308,PHX,DAL
+Shot Chart Detail,0021100593,103,1891,Jason Terry,1610612742,Dallas Mavericks,1,2,7,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,239,12,1,1,20120309,SAC,DAL
+Shot Chart Detail,0021100593,107,1891,Jason Terry,1610612742,Dallas Mavericks,1,1,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,28,7,1,1,20120309,SAC,DAL
+Shot Chart Detail,0021100593,143,1891,Jason Terry,1610612742,Dallas Mavericks,2,11,15,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,4,1,1,20120309,SAC,DAL
+Shot Chart Detail,0021100593,156,1891,Jason Terry,1610612742,Dallas Mavericks,2,9,17,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,78,19,1,1,20120309,SAC,DAL
+Shot Chart Detail,0021100593,179,1891,Jason Terry,1610612742,Dallas Mavericks,2,7,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,106,145,1,1,20120309,SAC,DAL
+Shot Chart Detail,0021100593,339,1891,Jason Terry,1610612742,Dallas Mavericks,3,2,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-106,93,1,1,20120309,SAC,DAL
+Shot Chart Detail,0021100593,353,1891,Jason Terry,1610612742,Dallas Mavericks,3,0,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-123,219,1,1,20120309,SAC,DAL
+Shot Chart Detail,0021100593,373,1891,Jason Terry,1610612742,Dallas Mavericks,4,11,20,Made Shot,Running Bank shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,97,33,1,1,20120309,SAC,DAL
+Shot Chart Detail,0021100593,378,1891,Jason Terry,1610612742,Dallas Mavericks,4,10,53,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,32,12,1,1,20120309,SAC,DAL
+Shot Chart Detail,0021100593,406,1891,Jason Terry,1610612742,Dallas Mavericks,4,7,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,13,23,1,1,20120309,SAC,DAL
+Shot Chart Detail,0021100602,36,1891,Jason Terry,1610612742,Dallas Mavericks,1,7,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,12,1,1,20120310,GSW,DAL
+Shot Chart Detail,0021100602,269,1891,Jason Terry,1610612742,Dallas Mavericks,3,10,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-187,172,1,1,20120310,GSW,DAL
+Shot Chart Detail,0021100602,277,1891,Jason Terry,1610612742,Dallas Mavericks,3,8,47,Made Shot,Jump Bank Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-188,187,1,1,20120310,GSW,DAL
+Shot Chart Detail,0021100602,289,1891,Jason Terry,1610612742,Dallas Mavericks,3,6,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-139,227,1,1,20120310,GSW,DAL
+Shot Chart Detail,0021100602,301,1891,Jason Terry,1610612742,Dallas Mavericks,3,5,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-43,269,1,1,20120310,GSW,DAL
+Shot Chart Detail,0021100623,105,1891,Jason Terry,1610612742,Dallas Mavericks,1,2,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-19,153,1,1,20120313,DAL,WAS
+Shot Chart Detail,0021100623,107,1891,Jason Terry,1610612742,Dallas Mavericks,1,1,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,64,233,1,1,20120313,DAL,WAS
+Shot Chart Detail,0021100623,149,1891,Jason Terry,1610612742,Dallas Mavericks,2,8,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-112,99,1,1,20120313,DAL,WAS
+Shot Chart Detail,0021100623,217,1891,Jason Terry,1610612742,Dallas Mavericks,2,2,18,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,1,1,1,20120313,DAL,WAS
+Shot Chart Detail,0021100623,390,1891,Jason Terry,1610612742,Dallas Mavericks,3,2,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,23,218,89,1,1,20120313,DAL,WAS
+Shot Chart Detail,0021100623,402,1891,Jason Terry,1610612742,Dallas Mavericks,3,0,58,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,159,25,1,1,20120313,DAL,WAS
+Shot Chart Detail,0021100623,436,1891,Jason Terry,1610612742,Dallas Mavericks,4,9,53,Made Shot,Pullup Bank shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-81,28,1,1,20120313,DAL,WAS
+Shot Chart Detail,0021100623,475,1891,Jason Terry,1610612742,Dallas Mavericks,4,7,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,144,116,1,1,20120313,DAL,WAS
+Shot Chart Detail,0021100623,502,1891,Jason Terry,1610612742,Dallas Mavericks,4,4,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-112,214,1,1,20120313,DAL,WAS
+Shot Chart Detail,0021100623,517,1891,Jason Terry,1610612742,Dallas Mavericks,4,3,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,166,88,1,1,20120313,DAL,WAS
+Shot Chart Detail,0021100639,91,1891,Jason Terry,1610612742,Dallas Mavericks,1,1,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,32,246,1,1,20120315,DAL,CHA
+Shot Chart Detail,0021100639,118,1891,Jason Terry,1610612742,Dallas Mavericks,2,11,7,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,14,1,1,20120315,DAL,CHA
+Shot Chart Detail,0021100639,188,1891,Jason Terry,1610612742,Dallas Mavericks,2,4,13,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,7,1,1,20120315,DAL,CHA
+Shot Chart Detail,0021100639,222,1891,Jason Terry,1610612742,Dallas Mavericks,2,1,24,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,133,11,1,1,20120315,DAL,CHA
+Shot Chart Detail,0021100639,341,1891,Jason Terry,1610612742,Dallas Mavericks,3,3,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,168,107,1,1,20120315,DAL,CHA
+Shot Chart Detail,0021100639,445,1891,Jason Terry,1610612742,Dallas Mavericks,4,4,59,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,0,1,1,20120315,DAL,CHA
+Shot Chart Detail,0021100659,100,1891,Jason Terry,1610612742,Dallas Mavericks,1,3,1,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2,22,1,1,20120317,DAL,SAS
+Shot Chart Detail,0021100659,331,1891,Jason Terry,1610612742,Dallas Mavericks,3,5,14,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,3,1,1,20120317,DAL,SAS
+Shot Chart Detail,0021100659,373,1891,Jason Terry,1610612742,Dallas Mavericks,3,2,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,97,123,1,1,20120317,DAL,SAS
+Shot Chart Detail,0021100659,415,1891,Jason Terry,1610612742,Dallas Mavericks,4,10,13,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,7,55,1,1,20120317,DAL,SAS
+Shot Chart Detail,0021100659,487,1891,Jason Terry,1610612742,Dallas Mavericks,4,2,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-34,244,1,1,20120317,DAL,SAS
+Shot Chart Detail,0021100659,504,1891,Jason Terry,1610612742,Dallas Mavericks,4,0,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,81,230,1,1,20120317,DAL,SAS
+Shot Chart Detail,0021100674,72,1891,Jason Terry,1610612742,Dallas Mavericks,1,2,33,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,17,1,1,20120319,DEN,DAL
+Shot Chart Detail,0021100674,101,1891,Jason Terry,1610612742,Dallas Mavericks,2,11,32,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,28,1,1,20120319,DEN,DAL
+Shot Chart Detail,0021100674,196,1891,Jason Terry,1610612742,Dallas Mavericks,2,2,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-146,7,1,1,20120319,DEN,DAL
+Shot Chart Detail,0021100674,359,1891,Jason Terry,1610612742,Dallas Mavericks,3,1,12,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-35,-5,1,1,20120319,DEN,DAL
+Shot Chart Detail,0021100692,87,1891,Jason Terry,1610612742,Dallas Mavericks,1,2,36,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,86,48,1,1,20120321,DAL,LAL
+Shot Chart Detail,0021100692,123,1891,Jason Terry,1610612742,Dallas Mavericks,2,9,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,176,9,1,1,20120321,DAL,LAL
+Shot Chart Detail,0021100692,159,1891,Jason Terry,1610612742,Dallas Mavericks,2,6,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,1,1,1,20120321,DAL,LAL
+Shot Chart Detail,0021100692,211,1891,Jason Terry,1610612742,Dallas Mavericks,2,0,44,Made Shot,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-38,61,1,1,20120321,DAL,LAL
+Shot Chart Detail,0021100692,277,1891,Jason Terry,1610612742,Dallas Mavericks,3,5,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-89,228,1,1,20120321,DAL,LAL
+Shot Chart Detail,0021100692,310,1891,Jason Terry,1610612742,Dallas Mavericks,3,2,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-120,208,1,1,20120321,DAL,LAL
+Shot Chart Detail,0021100692,354,1891,Jason Terry,1610612742,Dallas Mavericks,4,10,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,203,134,1,1,20120321,DAL,LAL
+Shot Chart Detail,0021100692,418,1891,Jason Terry,1610612742,Dallas Mavericks,4,3,45,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-26,20,1,1,20120321,DAL,LAL
+Shot Chart Detail,0021100707,62,1891,Jason Terry,1610612742,Dallas Mavericks,1,4,42,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,225,83,1,1,20120323,SAS,DAL
+Shot Chart Detail,0021100707,98,1891,Jason Terry,1610612742,Dallas Mavericks,1,0,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,225,112,1,1,20120323,SAS,DAL
+Shot Chart Detail,0021100707,125,1891,Jason Terry,1610612742,Dallas Mavericks,2,10,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,149,-19,1,1,20120323,SAS,DAL
+Shot Chart Detail,0021100707,128,1891,Jason Terry,1610612742,Dallas Mavericks,2,10,16,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,228,74,1,1,20120323,SAS,DAL
+Shot Chart Detail,0021100707,302,1891,Jason Terry,1610612742,Dallas Mavericks,3,5,0,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,160,83,1,1,20120323,SAS,DAL
+Shot Chart Detail,0021100707,359,1891,Jason Terry,1610612742,Dallas Mavericks,4,11,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,200,-2,1,1,20120323,SAS,DAL
+Shot Chart Detail,0021100707,447,1891,Jason Terry,1610612742,Dallas Mavericks,4,3,15,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,124,217,1,1,20120323,SAS,DAL
+Shot Chart Detail,0021100716,106,1891,Jason Terry,1610612742,Dallas Mavericks,1,2,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-171,99,1,1,20120324,HOU,DAL
+Shot Chart Detail,0021100716,180,1891,Jason Terry,1610612742,Dallas Mavericks,2,8,26,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,24,34,1,1,20120324,HOU,DAL
+Shot Chart Detail,0021100716,302,1891,Jason Terry,1610612742,Dallas Mavericks,3,7,50,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,4,1,1,20120324,HOU,DAL
+Shot Chart Detail,0021100716,356,1891,Jason Terry,1610612742,Dallas Mavericks,3,1,38,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,204,3,1,1,20120324,HOU,DAL
+Shot Chart Detail,0021100716,404,1891,Jason Terry,1610612742,Dallas Mavericks,4,8,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,135,209,1,1,20120324,HOU,DAL
+Shot Chart Detail,0021100716,464,1891,Jason Terry,1610612742,Dallas Mavericks,4,2,11,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,15,1,1,20120324,HOU,DAL
+Shot Chart Detail,0021100716,469,1891,Jason Terry,1610612742,Dallas Mavericks,4,0,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-24,241,1,1,20120324,HOU,DAL
+Shot Chart Detail,0021100716,524,1891,Jason Terry,1610612742,Dallas Mavericks,5,2,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,124,36,1,1,20120324,HOU,DAL
+Shot Chart Detail,0021100716,544,1891,Jason Terry,1610612742,Dallas Mavericks,5,0,36,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-62,126,1,1,20120324,HOU,DAL
+Shot Chart Detail,0021100739,112,1891,Jason Terry,1610612742,Dallas Mavericks,2,10,45,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,9,189,1,1,20120327,DAL,HOU
+Shot Chart Detail,0021100739,276,1891,Jason Terry,1610612742,Dallas Mavericks,3,6,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,0,1,1,20120327,DAL,HOU
+Shot Chart Detail,0021100739,279,1891,Jason Terry,1610612742,Dallas Mavericks,3,6,11,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,1,1,1,20120327,DAL,HOU
+Shot Chart Detail,0021100739,283,1891,Jason Terry,1610612742,Dallas Mavericks,3,5,39,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-41,244,1,1,20120327,DAL,HOU
+Shot Chart Detail,0021100739,358,1891,Jason Terry,1610612742,Dallas Mavericks,4,9,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,160,200,1,1,20120327,DAL,HOU
+Shot Chart Detail,0021100754,102,1891,Jason Terry,1610612742,Dallas Mavericks,1,0,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,170,178,1,1,20120329,MIA,DAL
+Shot Chart Detail,0021100762,100,1891,Jason Terry,1610612742,Dallas Mavericks,1,2,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-112,126,1,1,20120330,ORL,DAL
+Shot Chart Detail,0021100762,136,1891,Jason Terry,1610612742,Dallas Mavericks,2,11,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,124,39,1,1,20120330,ORL,DAL
+Shot Chart Detail,0021100762,241,1891,Jason Terry,1610612742,Dallas Mavericks,2,1,44,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,11,1,1,20120330,ORL,DAL
+Shot Chart Detail,0021100762,433,1891,Jason Terry,1610612742,Dallas Mavericks,4,8,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,2,168,1,1,20120330,ORL,DAL
+Shot Chart Detail,0021100762,435,1891,Jason Terry,1610612742,Dallas Mavericks,4,7,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-114,224,1,1,20120330,ORL,DAL
+Shot Chart Detail,0021100762,437,1891,Jason Terry,1610612742,Dallas Mavericks,4,7,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,7,19,1,1,20120330,ORL,DAL
+Shot Chart Detail,0021100762,447,1891,Jason Terry,1610612742,Dallas Mavericks,4,6,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,163,88,1,1,20120330,ORL,DAL
+Shot Chart Detail,0021100788,162,1891,Jason Terry,1610612742,Dallas Mavericks,2,7,9,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,0,1,1,20120402,DAL,LAC
+Shot Chart Detail,0021100788,212,1891,Jason Terry,1610612742,Dallas Mavericks,2,1,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-117,211,1,1,20120402,DAL,LAC
+Shot Chart Detail,0021100788,274,1891,Jason Terry,1610612742,Dallas Mavericks,3,8,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-139,17,1,1,20120402,DAL,LAC
+Shot Chart Detail,0021100788,300,1891,Jason Terry,1610612742,Dallas Mavericks,3,4,54,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,170,96,1,1,20120402,DAL,LAC
+Shot Chart Detail,0021100788,402,1891,Jason Terry,1610612742,Dallas Mavericks,4,7,7,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,4,20,1,1,20120402,DAL,LAC
+Shot Chart Detail,0021100788,429,1891,Jason Terry,1610612742,Dallas Mavericks,4,4,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,-5,1,1,20120402,DAL,LAC
+Shot Chart Detail,0021100807,112,1891,Jason Terry,1610612742,Dallas Mavericks,2,11,48,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,108,75,1,1,20120404,DAL,MEM
+Shot Chart Detail,0021100807,116,1891,Jason Terry,1610612742,Dallas Mavericks,2,10,50,Made Shot,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-23,67,1,1,20120404,DAL,MEM
+Shot Chart Detail,0021100807,155,1891,Jason Terry,1610612742,Dallas Mavericks,2,6,54,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,176,3,1,1,20120404,DAL,MEM
+Shot Chart Detail,0021100807,305,1891,Jason Terry,1610612742,Dallas Mavericks,3,3,24,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,6,1,1,20120404,DAL,MEM
+Shot Chart Detail,0021100807,374,1891,Jason Terry,1610612742,Dallas Mavericks,4,9,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,192,41,1,1,20120404,DAL,MEM
+Shot Chart Detail,0021100807,435,1891,Jason Terry,1610612742,Dallas Mavericks,4,4,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,181,168,1,1,20120404,DAL,MEM
+Shot Chart Detail,0021100821,83,1891,Jason Terry,1610612742,Dallas Mavericks,1,3,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,189,4,1,1,20120406,DAL,POR
+Shot Chart Detail,0021100821,108,1891,Jason Terry,1610612742,Dallas Mavericks,1,1,25,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,3,1,1,20120406,DAL,POR
+Shot Chart Detail,0021100821,114,1891,Jason Terry,1610612742,Dallas Mavericks,1,0,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-157,197,1,1,20120406,DAL,POR
+Shot Chart Detail,0021100821,234,1891,Jason Terry,1610612742,Dallas Mavericks,2,0,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-142,197,1,1,20120406,DAL,POR
+Shot Chart Detail,0021100821,380,1891,Jason Terry,1610612742,Dallas Mavericks,4,9,50,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,6,1,1,20120406,DAL,POR
+Shot Chart Detail,0021100821,436,1891,Jason Terry,1610612742,Dallas Mavericks,4,3,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-221,108,1,1,20120406,DAL,POR
+Shot Chart Detail,0021100821,447,1891,Jason Terry,1610612742,Dallas Mavericks,4,2,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,163,183,1,1,20120406,DAL,POR
+Shot Chart Detail,0021100829,211,1891,Jason Terry,1610612742,Dallas Mavericks,2,4,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-139,216,1,1,20120407,MEM,DAL
+Shot Chart Detail,0021100829,223,1891,Jason Terry,1610612742,Dallas Mavericks,2,2,50,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,4,1,1,20120407,MEM,DAL
+Shot Chart Detail,0021100829,238,1891,Jason Terry,1610612742,Dallas Mavericks,2,0,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,119,220,1,1,20120407,MEM,DAL
+Shot Chart Detail,0021100829,385,1891,Jason Terry,1610612742,Dallas Mavericks,4,11,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,149,148,1,1,20120407,MEM,DAL
+Shot Chart Detail,0021100856,118,1891,Jason Terry,1610612742,Dallas Mavericks,1,1,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-160,192,1,1,20120410,DAL,SAC
+Shot Chart Detail,0021100856,237,1891,Jason Terry,1610612742,Dallas Mavericks,2,2,30,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,-5,1,1,20120410,DAL,SAC
+Shot Chart Detail,0021100856,350,1891,Jason Terry,1610612742,Dallas Mavericks,3,4,30,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-226,67,1,1,20120410,DAL,SAC
+Shot Chart Detail,0021100856,532,1891,Jason Terry,1610612742,Dallas Mavericks,4,2,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-205,127,1,1,20120410,DAL,SAC
+Shot Chart Detail,0021100873,88,1891,Jason Terry,1610612742,Dallas Mavericks,1,3,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,165,9,1,1,20120412,GSW,DAL
+Shot Chart Detail,0021100873,159,1891,Jason Terry,1610612742,Dallas Mavericks,2,8,0,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,13,17,1,1,20120412,GSW,DAL
+Shot Chart Detail,0021100873,187,1891,Jason Terry,1610612742,Dallas Mavericks,2,6,28,Made Shot,Pullup Jump shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,234,63,1,1,20120412,GSW,DAL
+Shot Chart Detail,0021100873,425,1891,Jason Terry,1610612742,Dallas Mavericks,4,8,12,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,116,239,1,1,20120412,GSW,DAL
+Shot Chart Detail,0021100873,453,1891,Jason Terry,1610612742,Dallas Mavericks,4,4,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-163,19,1,1,20120412,GSW,DAL
+Shot Chart Detail,0021100873,474,1891,Jason Terry,1610612742,Dallas Mavericks,4,2,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,200,0,1,1,20120412,GSW,DAL
+Shot Chart Detail,0021100885,328,1891,Jason Terry,1610612742,Dallas Mavericks,3,2,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,151,195,1,1,20120413,POR,DAL
+Shot Chart Detail,0021100885,356,1891,Jason Terry,1610612742,Dallas Mavericks,3,0,2,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-8,181,1,1,20120413,POR,DAL
+Shot Chart Detail,0021100885,427,1891,Jason Terry,1610612742,Dallas Mavericks,4,4,11,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,226,0,1,1,20120413,POR,DAL
+Shot Chart Detail,0021100894,69,1891,Jason Terry,1610612742,Dallas Mavericks,1,3,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-128,105,1,1,20120415,LAL,DAL
+Shot Chart Detail,0021100894,167,1891,Jason Terry,1610612742,Dallas Mavericks,2,8,11,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,6,1,1,20120415,LAL,DAL
+Shot Chart Detail,0021100894,248,1891,Jason Terry,1610612742,Dallas Mavericks,2,0,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-35,250,1,1,20120415,LAL,DAL
+Shot Chart Detail,0021100894,365,1891,Jason Terry,1610612742,Dallas Mavericks,3,0,2,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,162,192,1,1,20120415,LAL,DAL
+Shot Chart Detail,0021100894,390,1891,Jason Terry,1610612742,Dallas Mavericks,4,9,6,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,-3,1,1,20120415,LAL,DAL
+Shot Chart Detail,0021100894,464,1891,Jason Terry,1610612742,Dallas Mavericks,4,2,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-95,236,1,1,20120415,LAL,DAL
+Shot Chart Detail,0021100894,480,1891,Jason Terry,1610612742,Dallas Mavericks,4,0,55,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,159,126,1,1,20120415,LAL,DAL
+Shot Chart Detail,0021100894,501,1891,Jason Terry,1610612742,Dallas Mavericks,5,4,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,13,269,1,1,20120415,LAL,DAL
+Shot Chart Detail,0021100909,50,1891,Jason Terry,1610612742,Dallas Mavericks,1,6,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,15,15,1,1,20120416,UTA,DAL
+Shot Chart Detail,0021100909,60,1891,Jason Terry,1610612742,Dallas Mavericks,1,5,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,147,138,1,1,20120416,UTA,DAL
+Shot Chart Detail,0021100909,255,1891,Jason Terry,1610612742,Dallas Mavericks,2,0,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-207,134,1,1,20120416,UTA,DAL
+Shot Chart Detail,0021100909,426,1891,Jason Terry,1610612742,Dallas Mavericks,4,3,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,23,-139,195,1,1,20120416,UTA,DAL
+Shot Chart Detail,0021100909,453,1891,Jason Terry,1610612742,Dallas Mavericks,4,1,8,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-226,17,1,1,20120416,UTA,DAL
+Shot Chart Detail,0021100909,487,1891,Jason Terry,1610612742,Dallas Mavericks,5,4,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,65,233,1,1,20120416,UTA,DAL
+Shot Chart Detail,0021100909,492,1891,Jason Terry,1610612742,Dallas Mavericks,5,3,43,Made Shot,Running Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-4,30,1,1,20120416,UTA,DAL
+Shot Chart Detail,0021100909,527,1891,Jason Terry,1610612742,Dallas Mavericks,5,0,15,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,4,34,1,1,20120416,UTA,DAL
+Shot Chart Detail,0021100909,570,1891,Jason Terry,1610612742,Dallas Mavericks,6,2,48,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-163,108,1,1,20120416,UTA,DAL
+Shot Chart Detail,0021100909,617,1891,Jason Terry,1610612742,Dallas Mavericks,7,3,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-123,107,1,1,20120416,UTA,DAL
+Shot Chart Detail,0021100909,629,1891,Jason Terry,1610612742,Dallas Mavericks,7,1,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,132,132,1,1,20120416,UTA,DAL
+Shot Chart Detail,0021100926,121,1891,Jason Terry,1610612742,Dallas Mavericks,2,11,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,23,-160,176,1,1,20120418,DAL,HOU
+Shot Chart Detail,0021100926,129,1891,Jason Terry,1610612742,Dallas Mavericks,2,10,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,214,116,1,1,20120418,DAL,HOU
+Shot Chart Detail,0021100926,141,1891,Jason Terry,1610612742,Dallas Mavericks,2,8,22,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,97,3,1,1,20120418,DAL,HOU
+Shot Chart Detail,0021100926,144,1891,Jason Terry,1610612742,Dallas Mavericks,2,8,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,3,1,1,20120418,DAL,HOU
+Shot Chart Detail,0021100926,368,1891,Jason Terry,1610612742,Dallas Mavericks,4,11,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,168,99,1,1,20120418,DAL,HOU
+Shot Chart Detail,0021100926,390,1891,Jason Terry,1610612742,Dallas Mavericks,4,7,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,206,127,1,1,20120418,DAL,HOU
+Shot Chart Detail,0021100940,70,1891,Jason Terry,1610612742,Dallas Mavericks,1,4,44,Made Shot,Driving Bank Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,7,26,1,1,20120420,DAL,GSW
+Shot Chart Detail,0021100940,107,1891,Jason Terry,1610612742,Dallas Mavericks,1,2,18,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,9,1,1,20120420,DAL,GSW
+Shot Chart Detail,0021100940,219,1891,Jason Terry,1610612742,Dallas Mavericks,2,4,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,136,102,1,1,20120420,DAL,GSW
+Shot Chart Detail,0021100940,428,1891,Jason Terry,1610612742,Dallas Mavericks,4,8,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,170,181,1,1,20120420,DAL,GSW
+Shot Chart Detail,0021100983,74,1891,Jason Terry,1610612742,Dallas Mavericks,1,2,26,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,-3,1,1,20120426,ATL,DAL
+Shot Chart Detail,0021100983,98,1891,Jason Terry,1610612742,Dallas Mavericks,1,0,35,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-226,12,1,1,20120426,ATL,DAL
+Shot Chart Detail,0021100983,169,1891,Jason Terry,1610612742,Dallas Mavericks,2,6,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,155,134,1,1,20120426,ATL,DAL

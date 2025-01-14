@@ -1,0 +1,31 @@
+City,Team,Conference,ConferenceRecord,Rank,W,L,Win%,Home,Road,Last10,Season,Year,FullTeamName,TEAM_ABBREVIATION
+Cleveland,Cavaliers,East,35-17,1,57,25,0.695,33-8,24-17,6-4,2015-16,2016,Cleveland Cavaliers,CLE
+Golden State,Warriors,West,46-6,1,73,9,0.89,39-2,34-7,8-2,2015-16,2016,Golden State Warriors,GSW
+San Antonio,Spurs,West,43-9,2,67,15,0.817,40-1,27-14,6-4,2015-16,2016,San Antonio Spurs,SAS
+Toronto,Raptors,East,39-13,2,56,26,0.683,32-9,24-17,7-3,2015-16,2016,Toronto Raptors,TOR
+Oklahoma City,Thunder,West,37-15,3,55,27,0.671,32-9,23-18,5-5,2015-16,2016,Oklahoma City Thunder,OKC
+Miami,Heat,East,31-21,3,48,34,0.585,28-13,20-21,6-4,2015-16,2016,Miami Heat,MIA
+Atlanta,Hawks,East,29-23,4,48,34,0.585,27-14,21-20,6-4,2015-16,2016,Atlanta Hawks,ATL
+LA,Clippers,West,31-21,4,53,29,0.646,29-12,24-17,8-2,2015-16,2016,LA Clippers,
+Boston,Celtics,East,31-21,5,48,34,0.585,28-13,20-21,6-4,2015-16,2016,Boston Celtics,BOS
+Portland,Trail Blazers,West,29-23,5,44,38,0.537,28-13,16-25,7-3,2015-16,2016,Portland Trail Blazers,POR
+Dallas,Mavericks,West,27-25,6,42,40,0.512,23-18,19-22,7-3,2015-16,2016,Dallas Mavericks,DAL
+Charlotte,Hornets,East,33-19,6,48,34,0.585,30-11,18-23,7-3,2015-16,2016,Charlotte Hornets,CHA
+Indiana,Pacers,East,30-22,7,45,37,0.549,26-15,19-22,7-3,2015-16,2016,Indiana Pacers,IND
+Memphis,Grizzlies,West,25-27,7,42,40,0.512,26-15,16-25,1-9,2015-16,2016,Memphis Grizzlies,MEM
+Houston,Rockets,West,28-24,8,41,41,0.5,23-18,18-23,6-4,2015-16,2016,Houston Rockets,HOU
+Detroit,Pistons,East,29-23,8,44,38,0.537,26-15,18-23,6-4,2015-16,2016,Detroit Pistons,DET
+Chicago,Bulls,East,25-27,9,42,40,0.512,26-15,16-25,6-4,2015-16,2016,Chicago Bulls,CHI
+Utah,Jazz,West,24-28,9,40,42,0.488,24-17,16-25,5-5,2015-16,2016,Utah Jazz,UTA
+Sacramento,Kings,West,19-33,10,33,49,0.402,18-23,15-26,5-5,2015-16,2016,Sacramento Kings,SAC
+Washington,Wizards,East,30-22,10,41,41,0.5,22-19,19-22,6-4,2015-16,2016,Washington Wizards,WAS
+Denver,Nuggets,West,18-34,11,33,49,0.402,18-23,15-26,3-7,2015-16,2016,Denver Nuggets,DEN
+Orlando,Magic,East,21-31,11,35,47,0.427,23-18,12-29,6-4,2015-16,2016,Orlando Magic,ORL
+Milwaukee,Bucks,East,21-31,12,33,49,0.402,23-18,10-31,3-7,2015-16,2016,Milwaukee Bucks,MIL
+New Orleans,Pelicans,West,20-32,12,30,52,0.366,21-20,9-32,4-6,2015-16,2016,New Orleans Pelicans,NOP
+Minnesota,Timberwolves,West,18-34,13,29,53,0.354,14-27,15-26,5-5,2015-16,2016,Minnesota Timberwolves,MIN
+New York,Knicks,East,21-31,13,32,50,0.39,18-23,14-27,3-7,2015-16,2016,New York Knicks,NYK
+Brooklyn,Nets,East,12-40,14,21,61,0.256,14-27,7-34,0-10,2015-16,2016,Brooklyn Nets,BKN
+Phoenix,Suns,West,17-35,14,23,59,0.28,14-27,9-32,3-7,2015-16,2016,Phoenix Suns,PHX
+Los Angeles,Lakers,West,8-44,15,17,65,0.207,12-29,5-36,2-8,2015-16,2016,Los Angeles Lakers,LAL
+Philadelphia,76ers,East,3-49,15,10,72,0.122,7-34,3-38,1-9,2015-16,2016,Philadelphia 76ers,PHI

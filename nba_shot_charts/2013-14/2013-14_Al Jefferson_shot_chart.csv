@@ -1,0 +1,701 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0021300009,167,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,9,32,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-13,74,1,1,20131030,HOU,CHA
+Shot Chart Detail,0021300009,318,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,9,54,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-9,20,1,1,20131030,HOU,CHA
+Shot Chart Detail,0021300009,329,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,8,38,Made Shot,Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,103,22,1,1,20131030,HOU,CHA
+Shot Chart Detail,0021300009,503,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,4,36,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,72,89,1,1,20131030,HOU,CHA
+Shot Chart Detail,0021300009,514,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,3,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,143,47,1,1,20131030,HOU,CHA
+Shot Chart Detail,0021300009,519,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,2,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,15,1,1,20131030,HOU,CHA
+Shot Chart Detail,0021300098,275,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,10,22,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,6,1,1,20131111,CHA,ATL
+Shot Chart Detail,0021300098,286,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,8,39,Made Shot,Turnaround Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,1,83,1,1,20131111,CHA,ATL
+Shot Chart Detail,0021300098,288,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,8,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,143,94,1,1,20131111,CHA,ATL
+Shot Chart Detail,0021300098,388,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,10,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-49,154,1,1,20131111,CHA,ATL
+Shot Chart Detail,0021300098,445,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,6,33,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-16,50,1,1,20131111,CHA,ATL
+Shot Chart Detail,0021300113,23,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,8,29,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-54,9,1,1,20131113,BOS,CHA
+Shot Chart Detail,0021300113,28,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,7,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,6,1,1,20131113,BOS,CHA
+Shot Chart Detail,0021300113,50,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,5,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,138,118,1,1,20131113,BOS,CHA
+Shot Chart Detail,0021300113,157,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,8,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,7,1,1,20131113,BOS,CHA
+Shot Chart Detail,0021300113,182,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,6,39,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-70,15,1,1,20131113,BOS,CHA
+Shot Chart Detail,0021300113,478,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,6,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,14,1,1,20131113,BOS,CHA
+Shot Chart Detail,0021300113,510,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,2,36,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,4,85,1,1,20131113,BOS,CHA
+Shot Chart Detail,0021300113,550,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,0,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,3,1,1,20131113,BOS,CHA
+Shot Chart Detail,0021300176,150,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,9,16,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,7,1,1,20131122,CHA,PHX
+Shot Chart Detail,0021300176,179,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,6,40,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20131122,CHA,PHX
+Shot Chart Detail,0021300176,198,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,5,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,4,1,1,20131122,CHA,PHX
+Shot Chart Detail,0021300193,6,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,11,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,3,1,1,20131123,MIL,CHA
+Shot Chart Detail,0021300193,9,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,10,30,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,15,1,1,20131123,MIL,CHA
+Shot Chart Detail,0021300193,138,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,7,51,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-70,12,1,1,20131123,MIL,CHA
+Shot Chart Detail,0021300193,255,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,9,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,147,4,1,1,20131123,MIL,CHA
+Shot Chart Detail,0021300193,279,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,6,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,81,102,1,1,20131123,MIL,CHA
+Shot Chart Detail,0021300193,364,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,11,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,3,1,1,20131123,MIL,CHA
+Shot Chart Detail,0021300193,378,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,9,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,0,1,1,20131123,MIL,CHA
+Shot Chart Detail,0021300193,384,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,8,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-13,25,1,1,20131123,MIL,CHA
+Shot Chart Detail,0021300202,25,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,9,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,7,1,1,20131125,CHA,BOS
+Shot Chart Detail,0021300202,48,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,6,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-153,36,1,1,20131125,CHA,BOS
+Shot Chart Detail,0021300202,189,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,6,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,124,118,1,1,20131125,CHA,BOS
+Shot Chart Detail,0021300202,304,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,7,29,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,23,41,1,1,20131125,CHA,BOS
+Shot Chart Detail,0021300202,395,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,8,6,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-4,53,1,1,20131125,CHA,BOS
+Shot Chart Detail,0021300202,445,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,3,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,15,1,1,20131125,CHA,BOS
+Shot Chart Detail,0021300215,137,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,11,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,1,1,1,20131127,CHA,IND
+Shot Chart Detail,0021300215,188,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,6,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-123,53,1,1,20131127,CHA,IND
+Shot Chart Detail,0021300215,197,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,5,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,95,149,1,1,20131127,CHA,IND
+Shot Chart Detail,0021300215,233,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,2,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-108,132,1,1,20131127,CHA,IND
+Shot Chart Detail,0021300215,350,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,5,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-103,129,1,1,20131127,CHA,IND
+Shot Chart Detail,0021300215,508,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,8,13,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,1,30,1,1,20131127,CHA,IND
+Shot Chart Detail,0021300215,522,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,6,30,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,-5,1,1,20131127,CHA,IND
+Shot Chart Detail,0021300228,2,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,11,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,7,1,1,20131129,CHA,MIL
+Shot Chart Detail,0021300228,53,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,6,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,6,1,1,20131129,CHA,MIL
+Shot Chart Detail,0021300228,356,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,5,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,15,1,1,20131129,CHA,MIL
+Shot Chart Detail,0021300228,358,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,4,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,10,156,1,1,20131129,CHA,MIL
+Shot Chart Detail,0021300228,368,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,3,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,105,72,1,1,20131129,CHA,MIL
+Shot Chart Detail,0021300228,429,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,10,29,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,3,1,1,20131129,CHA,MIL
+Shot Chart Detail,0021300228,432,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,10,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-105,127,1,1,20131129,CHA,MIL
+Shot Chart Detail,0021300228,448,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,7,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,9,1,1,20131129,CHA,MIL
+Shot Chart Detail,0021300228,471,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,6,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,17,1,1,20131129,CHA,MIL
+Shot Chart Detail,0021300228,478,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,6,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,9,1,1,20131129,CHA,MIL
+Shot Chart Detail,0021300228,525,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,3,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-138,86,1,1,20131129,CHA,MIL
+Shot Chart Detail,0021300252,11,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,10,12,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,10,55,1,1,20131201,MIA,CHA
+Shot Chart Detail,0021300252,160,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,8,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,6,1,1,20131201,MIA,CHA
+Shot Chart Detail,0021300252,253,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,0,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-194,23,1,1,20131201,MIA,CHA
+Shot Chart Detail,0021300252,270,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,10,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-81,7,1,1,20131201,MIA,CHA
+Shot Chart Detail,0021300252,332,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,3,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-116,107,1,1,20131201,MIA,CHA
+Shot Chart Detail,0021300252,428,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,6,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-100,129,1,1,20131201,MIA,CHA
+Shot Chart Detail,0021300252,461,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,2,18,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,7,1,1,20131201,MIA,CHA
+Shot Chart Detail,0021300266,48,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,7,46,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,12,1,1,20131203,DAL,CHA
+Shot Chart Detail,0021300266,131,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,2,19,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,15,58,1,1,20131203,DAL,CHA
+Shot Chart Detail,0021300266,292,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,11,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,88,26,1,1,20131203,DAL,CHA
+Shot Chart Detail,0021300266,321,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,7,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,40,181,1,1,20131203,DAL,CHA
+Shot Chart Detail,0021300266,455,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,5,20,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-48,28,1,1,20131203,DAL,CHA
+Shot Chart Detail,0021300266,470,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,3,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,17,1,1,20131203,DAL,CHA
+Shot Chart Detail,0021300280,17,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,9,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,9,1,1,20131206,CHA,PHI
+Shot Chart Detail,0021300280,274,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,0,2,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,-3,1,1,20131206,CHA,PHI
+Shot Chart Detail,0021300280,281,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,11,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,7,1,1,20131206,CHA,PHI
+Shot Chart Detail,0021300280,290,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,10,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,147,20,1,1,20131206,CHA,PHI
+Shot Chart Detail,0021300280,339,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,5,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,15,1,1,20131206,CHA,PHI
+Shot Chart Detail,0021300280,463,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,6,43,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-24,41,1,1,20131206,CHA,PHI
+Shot Chart Detail,0021300304,14,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,9,58,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,0,1,1,20131209,CHA,GSW
+Shot Chart Detail,0021300304,37,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,6,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,0,1,1,20131209,CHA,GSW
+Shot Chart Detail,0021300304,263,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,2,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,4,1,1,20131209,CHA,GSW
+Shot Chart Detail,0021300304,296,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,10,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-26,168,1,1,20131209,CHA,GSW
+Shot Chart Detail,0021300304,443,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,9,30,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-76,31,1,1,20131209,CHA,GSW
+Shot Chart Detail,0021300318,240,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,1,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2,26,1,1,20131211,CHA,ORL
+Shot Chart Detail,0021300318,280,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,9,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,14,1,1,20131211,CHA,ORL
+Shot Chart Detail,0021300318,300,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,6,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,2,183,1,1,20131211,CHA,ORL
+Shot Chart Detail,0021300318,395,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,7,55,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,70,41,1,1,20131211,CHA,ORL
+Shot Chart Detail,0021300329,23,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,9,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,73,149,1,1,20131213,IND,CHA
+Shot Chart Detail,0021300329,56,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,4,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-19,12,1,1,20131213,IND,CHA
+Shot Chart Detail,0021300329,263,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,11,29,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-32,131,1,1,20131213,IND,CHA
+Shot Chart Detail,0021300329,271,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,9,53,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,11,-68,96,1,1,20131213,IND,CHA
+Shot Chart Detail,0021300329,273,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,9,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-161,-3,1,1,20131213,IND,CHA
+Shot Chart Detail,0021300329,349,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,0,2,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,108,22,1,1,20131213,IND,CHA
+Shot Chart Detail,0021300329,405,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,6,47,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,14,1,1,20131213,IND,CHA
+Shot Chart Detail,0021300329,411,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,6,4,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,2,72,1,1,20131213,IND,CHA
+Shot Chart Detail,0021300329,452,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,2,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,0,1,1,20131213,IND,CHA
+Shot Chart Detail,0021300342,4,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,11,22,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,45,14,1,1,20131214,CHA,LAL
+Shot Chart Detail,0021300342,25,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,8,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2,25,1,1,20131214,CHA,LAL
+Shot Chart Detail,0021300342,65,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,4,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2,25,1,1,20131214,CHA,LAL
+Shot Chart Detail,0021300342,203,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,3,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,7,1,1,20131214,CHA,LAL
+Shot Chart Detail,0021300342,298,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,5,45,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-8,1,1,20131214,CHA,LAL
+Shot Chart Detail,0021300342,308,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,4,36,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-46,64,1,1,20131214,CHA,LAL
+Shot Chart Detail,0021300342,319,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,3,58,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-109,23,1,1,20131214,CHA,LAL
+Shot Chart Detail,0021300364,6,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,11,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-138,80,1,1,20131217,CHA,SAC
+Shot Chart Detail,0021300364,38,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,7,45,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,9,50,1,1,20131217,CHA,SAC
+Shot Chart Detail,0021300364,69,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,5,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-18,9,1,1,20131217,CHA,SAC
+Shot Chart Detail,0021300364,458,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,6,36,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-68,56,1,1,20131217,CHA,SAC
+Shot Chart Detail,0021300364,491,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,3,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,6,1,1,20131217,CHA,SAC
+Shot Chart Detail,0021300371,15,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,9,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-26,0,1,1,20131218,TOR,CHA
+Shot Chart Detail,0021300371,225,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,2,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,9,1,1,20131218,TOR,CHA
+Shot Chart Detail,0021300371,274,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,10,31,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,4,55,1,1,20131218,TOR,CHA
+Shot Chart Detail,0021300371,287,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,8,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,118,19,1,1,20131218,TOR,CHA
+Shot Chart Detail,0021300371,293,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,8,18,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-86,1,1,1,20131218,TOR,CHA
+Shot Chart Detail,0021300371,373,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,2,0,Made Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-38,17,1,1,20131218,TOR,CHA
+Shot Chart Detail,0021300371,479,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,3,46,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-98,58,1,1,20131218,TOR,CHA
+Shot Chart Detail,0021300371,490,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,2,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-166,9,1,1,20131218,TOR,CHA
+Shot Chart Detail,0021300371,544,2744,Al Jefferson,1610612766,Charlotte Bobcats,5,4,29,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-59,58,1,1,20131218,TOR,CHA
+Shot Chart Detail,0021300386,72,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,3,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,6,1,1,20131220,DET,CHA
+Shot Chart Detail,0021300386,182,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,5,5,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,48,14,1,1,20131220,DET,CHA
+Shot Chart Detail,0021300386,284,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,7,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,6,1,1,20131220,DET,CHA
+Shot Chart Detail,0021300386,329,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,4,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,0,1,1,20131220,DET,CHA
+Shot Chart Detail,0021300386,453,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,5,4,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-32,45,1,1,20131220,DET,CHA
+Shot Chart Detail,0021300386,456,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,4,30,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,39,26,1,1,20131220,DET,CHA
+Shot Chart Detail,0021300386,461,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,4,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,0,1,1,20131220,DET,CHA
+Shot Chart Detail,0021300386,470,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,2,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-114,7,1,1,20131220,DET,CHA
+Shot Chart Detail,0021300386,473,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,2,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,4,1,1,20131220,DET,CHA
+Shot Chart Detail,0021300386,482,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,1,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-202,30,1,1,20131220,DET,CHA
+Shot Chart Detail,0021300386,507,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,0,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,6,1,1,20131220,DET,CHA
+Shot Chart Detail,0021300394,163,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,6,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,9,1,1,20131221,CHA,UTA
+Shot Chart Detail,0021300394,186,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,4,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,165,31,1,1,20131221,CHA,UTA
+Shot Chart Detail,0021300394,202,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,2,48,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,12,42,1,1,20131221,CHA,UTA
+Shot Chart Detail,0021300394,211,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,1,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-144,45,1,1,20131221,CHA,UTA
+Shot Chart Detail,0021300394,219,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,0,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,-6,1,1,20131221,CHA,UTA
+Shot Chart Detail,0021300394,270,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,6,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,3,1,1,20131221,CHA,UTA
+Shot Chart Detail,0021300394,417,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,5,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,19,1,1,20131221,CHA,UTA
+Shot Chart Detail,0021300394,427,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,5,1,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,3,1,1,20131221,CHA,UTA
+Shot Chart Detail,0021300394,446,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,3,3,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,1,1,1,20131221,CHA,UTA
+Shot Chart Detail,0021300407,2,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,11,38,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-38,53,1,1,20131223,CHA,MIL
+Shot Chart Detail,0021300407,36,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,8,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,4,1,1,20131223,CHA,MIL
+Shot Chart Detail,0021300407,70,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,5,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,7,1,1,20131223,CHA,MIL
+Shot Chart Detail,0021300407,86,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,3,53,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-8,36,1,1,20131223,CHA,MIL
+Shot Chart Detail,0021300407,217,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,5,50,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-64,4,1,1,20131223,CHA,MIL
+Shot Chart Detail,0021300407,236,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,3,30,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,24,34,1,1,20131223,CHA,MIL
+Shot Chart Detail,0021300407,261,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,1,35,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-8,44,1,1,20131223,CHA,MIL
+Shot Chart Detail,0021300407,288,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,10,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-141,0,1,1,20131223,CHA,MIL
+Shot Chart Detail,0021300407,303,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,8,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-157,25,1,1,20131223,CHA,MIL
+Shot Chart Detail,0021300407,313,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,6,44,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-93,168,1,1,20131223,CHA,MIL
+Shot Chart Detail,0021300407,316,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,6,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,89,9,1,1,20131223,CHA,MIL
+Shot Chart Detail,0021300407,409,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,7,59,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,4,1,1,20131223,CHA,MIL
+Shot Chart Detail,0021300427,66,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,3,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-101,19,1,1,20131227,CHA,OKC
+Shot Chart Detail,0021300427,183,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,6,23,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-108,7,1,1,20131227,CHA,OKC
+Shot Chart Detail,0021300427,186,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,5,46,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,3,1,1,20131227,CHA,OKC
+Shot Chart Detail,0021300427,204,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,4,26,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-74,12,1,1,20131227,CHA,OKC
+Shot Chart Detail,0021300427,214,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,3,49,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-62,28,1,1,20131227,CHA,OKC
+Shot Chart Detail,0021300427,276,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,8,14,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-51,9,1,1,20131227,CHA,OKC
+Shot Chart Detail,0021300427,439,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,5,59,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,0,1,1,20131227,CHA,OKC
+Shot Chart Detail,0021300440,19,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,9,9,Made Shot,Turnaround Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,7,37,1,1,20131228,ATL,CHA
+Shot Chart Detail,0021300440,30,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,7,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-136,115,1,1,20131228,ATL,CHA
+Shot Chart Detail,0021300440,45,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,6,30,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,7,1,1,20131228,ATL,CHA
+Shot Chart Detail,0021300440,76,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,3,42,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-59,34,1,1,20131228,ATL,CHA
+Shot Chart Detail,0021300440,254,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,1,43,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-48,105,1,1,20131228,ATL,CHA
+Shot Chart Detail,0021300440,323,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,6,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-130,110,1,1,20131228,ATL,CHA
+Shot Chart Detail,0021300440,454,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,6,9,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,28,6,1,1,20131228,ATL,CHA
+Shot Chart Detail,0021300440,504,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,1,13,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-87,110,1,1,20131228,ATL,CHA
+Shot Chart Detail,0021300440,514,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,0,34,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,3,1,1,20131228,ATL,CHA
+Shot Chart Detail,0021300440,579,2744,Al Jefferson,1610612766,Charlotte Bobcats,5,1,43,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,3,1,1,20131228,ATL,CHA
+Shot Chart Detail,0021300458,11,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,10,24,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,0,1,1,20131230,UTA,CHA
+Shot Chart Detail,0021300458,75,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,2,35,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,26,48,1,1,20131230,UTA,CHA
+Shot Chart Detail,0021300458,147,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,6,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,0,172,1,1,20131230,UTA,CHA
+Shot Chart Detail,0021300458,271,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,4,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-52,186,1,1,20131230,UTA,CHA
+Shot Chart Detail,0021300458,374,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,5,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-34,173,1,1,20131230,UTA,CHA
+Shot Chart Detail,0021300458,387,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,4,14,Made Shot,Putback Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,11,1,1,20131230,UTA,CHA
+Shot Chart Detail,0021300458,397,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,2,53,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,1,44,1,1,20131230,UTA,CHA
+Shot Chart Detail,0021300458,437,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,0,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Back Court(BC),Back Court Shot,41,-49,410,1,1,20131230,UTA,CHA
+Shot Chart Detail,0021300472,16,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,10,19,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-60,124,1,1,20140101,LAC,CHA
+Shot Chart Detail,0021300472,48,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,6,38,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-34,55,1,1,20140101,LAC,CHA
+Shot Chart Detail,0021300472,83,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,1,56,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-41,55,1,1,20140101,LAC,CHA
+Shot Chart Detail,0021300472,205,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,2,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,3,1,1,20140101,LAC,CHA
+Shot Chart Detail,0021300472,217,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,1,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,12,1,1,20140101,LAC,CHA
+Shot Chart Detail,0021300472,276,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,7,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,11,1,1,20140101,LAC,CHA
+Shot Chart Detail,0021300472,435,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,4,4,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,15,-79,138,1,1,20140101,LAC,CHA
+Shot Chart Detail,0021300480,3,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,11,39,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,69,33,1,1,20140102,POR,CHA
+Shot Chart Detail,0021300480,36,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,5,54,Made Shot,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,39,14,1,1,20140102,POR,CHA
+Shot Chart Detail,0021300480,38,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,5,7,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,6,56,1,1,20140102,POR,CHA
+Shot Chart Detail,0021300480,184,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,3,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,127,72,1,1,20140102,POR,CHA
+Shot Chart Detail,0021300480,197,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,2,33,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-7,56,1,1,20140102,POR,CHA
+Shot Chart Detail,0021300480,244,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,11,43,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-13,60,1,1,20140102,POR,CHA
+Shot Chart Detail,0021300480,247,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,11,6,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,-6,1,1,20140102,POR,CHA
+Shot Chart Detail,0021300480,288,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,6,46,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-26,0,1,1,20140102,POR,CHA
+Shot Chart Detail,0021300480,343,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,0,50,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,2,45,1,1,20140102,POR,CHA
+Shot Chart Detail,0021300497,2,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,11,46,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-76,69,1,1,20140104,SAC,CHA
+Shot Chart Detail,0021300497,9,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,10,42,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-4,36,1,1,20140104,SAC,CHA
+Shot Chart Detail,0021300497,48,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,4,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,124,23,1,1,20140104,SAC,CHA
+Shot Chart Detail,0021300497,62,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,2,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,182,56,1,1,20140104,SAC,CHA
+Shot Chart Detail,0021300497,146,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,9,17,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-26,58,1,1,20140104,SAC,CHA
+Shot Chart Detail,0021300497,159,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,7,51,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-34,85,1,1,20140104,SAC,CHA
+Shot Chart Detail,0021300497,280,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,8,14,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,73,6,1,1,20140104,SAC,CHA
+Shot Chart Detail,0021300497,462,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,4,17,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,0,37,1,1,20140104,SAC,CHA
+Shot Chart Detail,0021300497,467,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,3,33,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,21,39,1,1,20140104,SAC,CHA
+Shot Chart Detail,0021300497,490,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,1,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,62,165,1,1,20140104,SAC,CHA
+Shot Chart Detail,0021300497,499,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,1,21,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-56,85,1,1,20140104,SAC,CHA
+Shot Chart Detail,0021300508,41,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,8,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,1,1,1,20140107,CHA,WAS
+Shot Chart Detail,0021300508,193,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,4,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-65,153,1,1,20140107,CHA,WAS
+Shot Chart Detail,0021300508,422,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,6,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-127,33,1,1,20140107,CHA,WAS
+Shot Chart Detail,0021300535,50,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,7,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-128,107,1,1,20140110,MIN,CHA
+Shot Chart Detail,0021300535,61,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,5,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,7,1,1,20140110,MIN,CHA
+Shot Chart Detail,0021300535,101,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,0,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,-2,1,1,20140110,MIN,CHA
+Shot Chart Detail,0021300547,138,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,7,47,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,7,61,1,1,20140111,CHI,CHA
+Shot Chart Detail,0021300547,144,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,7,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,4,1,1,20140111,CHI,CHA
+Shot Chart Detail,0021300547,203,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,1,39,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,-5,1,1,20140111,CHI,CHA
+Shot Chart Detail,0021300547,214,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,0,35,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-79,71,1,1,20140111,CHI,CHA
+Shot Chart Detail,0021300547,223,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,11,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,14,1,1,20140111,CHI,CHA
+Shot Chart Detail,0021300547,295,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,3,29,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,7,1,1,20140111,CHI,CHA
+Shot Chart Detail,0021300547,298,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,2,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,91,123,1,1,20140111,CHI,CHA
+Shot Chart Detail,0021300547,301,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,2,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,127,72,1,1,20140111,CHI,CHA
+Shot Chart Detail,0021300547,445,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,1,35,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-35,96,1,1,20140111,CHI,CHA
+Shot Chart Detail,0021300547,476,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,0,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-18,9,1,1,20140111,CHI,CHA
+Shot Chart Detail,0021300562,9,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,10,5,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-43,67,1,1,20140114,CHA,NYK
+Shot Chart Detail,0021300562,29,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,7,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,4,1,1,20140114,CHA,NYK
+Shot Chart Detail,0021300562,51,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,5,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,3,1,1,20140114,CHA,NYK
+Shot Chart Detail,0021300562,69,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,3,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-26,3,1,1,20140114,CHA,NYK
+Shot Chart Detail,0021300562,93,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,0,35,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,4,1,1,20140114,CHA,NYK
+Shot Chart Detail,0021300562,216,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,1,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,129,110,1,1,20140114,CHA,NYK
+Shot Chart Detail,0021300562,226,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,0,27,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,1,1,1,20140114,CHA,NYK
+Shot Chart Detail,0021300562,236,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,11,39,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,32,7,1,1,20140114,CHA,NYK
+Shot Chart Detail,0021300562,313,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,4,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-108,94,1,1,20140114,CHA,NYK
+Shot Chart Detail,0021300562,328,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,3,8,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,3,1,1,20140114,CHA,NYK
+Shot Chart Detail,0021300562,334,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,2,34,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,39,61,1,1,20140114,CHA,NYK
+Shot Chart Detail,0021300562,394,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,8,0,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,18,56,1,1,20140114,CHA,NYK
+Shot Chart Detail,0021300562,481,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,2,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,15,23,1,1,20140114,CHA,NYK
+Shot Chart Detail,0021300562,489,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,1,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,110,6,1,1,20140114,CHA,NYK
+Shot Chart Detail,0021300567,11,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,10,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-98,60,1,1,20140115,PHI,CHA
+Shot Chart Detail,0021300567,27,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,8,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,9,1,1,20140115,PHI,CHA
+Shot Chart Detail,0021300567,43,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,6,50,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,0,48,1,1,20140115,PHI,CHA
+Shot Chart Detail,0021300567,47,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,6,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,143,41,1,1,20140115,PHI,CHA
+Shot Chart Detail,0021300567,64,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,5,3,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,78,34,1,1,20140115,PHI,CHA
+Shot Chart Detail,0021300567,232,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,4,13,Made Shot,Jump Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,92,-6,1,1,20140115,PHI,CHA
+Shot Chart Detail,0021300567,344,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,5,33,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-65,121,1,1,20140115,PHI,CHA
+Shot Chart Detail,0021300567,444,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,9,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-141,7,1,1,20140115,PHI,CHA
+Shot Chart Detail,0021300567,459,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,7,27,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-30,1,1,1,20140115,PHI,CHA
+Shot Chart Detail,0021300567,477,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,5,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-4,25,1,1,20140115,PHI,CHA
+Shot Chart Detail,0021300567,501,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,2,18,Made Shot,Jump Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,130,0,1,1,20140115,PHI,CHA
+Shot Chart Detail,0021300582,8,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,10,21,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-78,0,1,1,20140117,ORL,CHA
+Shot Chart Detail,0021300582,67,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,4,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,1,1,1,20140117,ORL,CHA
+Shot Chart Detail,0021300582,77,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,3,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-26,4,1,1,20140117,ORL,CHA
+Shot Chart Detail,0021300582,244,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,0,25,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-27,0,1,1,20140117,ORL,CHA
+Shot Chart Detail,0021300582,273,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,8,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,9,1,1,20140117,ORL,CHA
+Shot Chart Detail,0021300582,289,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,6,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-95,134,1,1,20140117,ORL,CHA
+Shot Chart Detail,0021300582,320,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,3,42,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,7,39,1,1,20140117,ORL,CHA
+Shot Chart Detail,0021300582,325,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,3,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-149,-8,1,1,20140117,ORL,CHA
+Shot Chart Detail,0021300582,340,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,1,7,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,3,1,1,20140117,ORL,CHA
+Shot Chart Detail,0021300582,421,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,7,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-98,94,1,1,20140117,ORL,CHA
+Shot Chart Detail,0021300582,501,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,2,37,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-100,11,1,1,20140117,ORL,CHA
+Shot Chart Detail,0021300582,520,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,1,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-158,22,1,1,20140117,ORL,CHA
+Shot Chart Detail,0021300582,526,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,1,7,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-161,3,1,1,20140117,ORL,CHA
+Shot Chart Detail,0021300593,11,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,10,38,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-2,83,1,1,20140118,CHA,MIA
+Shot Chart Detail,0021300593,18,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,9,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,6,1,1,20140118,CHA,MIA
+Shot Chart Detail,0021300593,41,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,6,12,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,9,1,1,20140118,CHA,MIA
+Shot Chart Detail,0021300593,47,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,5,17,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-29,58,1,1,20140118,CHA,MIA
+Shot Chart Detail,0021300593,190,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,4,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,17,1,1,20140118,CHA,MIA
+Shot Chart Detail,0021300593,203,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,3,17,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,11,1,1,20140118,CHA,MIA
+Shot Chart Detail,0021300593,254,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,11,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,3,1,1,20140118,CHA,MIA
+Shot Chart Detail,0021300593,303,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,6,8,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-67,36,1,1,20140118,CHA,MIA
+Shot Chart Detail,0021300593,369,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,11,24,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,69,12,1,1,20140118,CHA,MIA
+Shot Chart Detail,0021300593,439,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,3,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,17,1,1,20140118,CHA,MIA
+Shot Chart Detail,0021300608,14,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,10,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-2,167,1,1,20140120,CHA,TOR
+Shot Chart Detail,0021300608,50,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,5,7,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,4,1,1,20140120,CHA,TOR
+Shot Chart Detail,0021300608,64,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,3,15,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,11,1,1,20140120,CHA,TOR
+Shot Chart Detail,0021300608,67,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,2,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,0,1,1,20140120,CHA,TOR
+Shot Chart Detail,0021300608,80,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,1,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-157,26,1,1,20140120,CHA,TOR
+Shot Chart Detail,0021300608,158,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,5,34,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-75,64,1,1,20140120,CHA,TOR
+Shot Chart Detail,0021300608,260,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,7,54,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,15,1,1,20140120,CHA,TOR
+Shot Chart Detail,0021300608,291,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,5,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,189,7,1,1,20140120,CHA,TOR
+Shot Chart Detail,0021300608,394,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,5,49,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-67,23,1,1,20140120,CHA,TOR
+Shot Chart Detail,0021300621,55,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,5,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,132,93,1,1,20140122,CHA,LAC
+Shot Chart Detail,0021300621,90,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,2,4,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,78,25,1,1,20140122,CHA,LAC
+Shot Chart Detail,0021300621,101,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,0,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-8,194,1,1,20140122,CHA,LAC
+Shot Chart Detail,0021300621,186,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,3,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,7,1,1,20140122,CHA,LAC
+Shot Chart Detail,0021300621,196,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,2,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,0,1,1,20140122,CHA,LAC
+Shot Chart Detail,0021300621,224,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,0,10,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,61,12,1,1,20140122,CHA,LAC
+Shot Chart Detail,0021300621,267,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,7,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-116,105,1,1,20140122,CHA,LAC
+Shot Chart Detail,0021300621,293,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,5,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-29,179,1,1,20140122,CHA,LAC
+Shot Chart Detail,0021300621,300,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,4,21,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,6,1,1,20140122,CHA,LAC
+Shot Chart Detail,0021300621,328,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,1,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,92,22,1,1,20140122,CHA,LAC
+Shot Chart Detail,0021300621,432,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,4,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,43,192,1,1,20140122,CHA,LAC
+Shot Chart Detail,0021300621,440,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,3,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-81,25,1,1,20140122,CHA,LAC
+Shot Chart Detail,0021300640,47,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,6,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,28,4,1,1,20140124,NYK,CHA
+Shot Chart Detail,0021300640,63,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,4,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-21,25,1,1,20140124,NYK,CHA
+Shot Chart Detail,0021300640,86,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,1,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,15,1,1,20140124,NYK,CHA
+Shot Chart Detail,0021300640,99,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,0,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-7,30,1,1,20140124,NYK,CHA
+Shot Chart Detail,0021300640,159,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,5,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-19,4,1,1,20140124,NYK,CHA
+Shot Chart Detail,0021300640,174,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,3,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,7,1,1,20140124,NYK,CHA
+Shot Chart Detail,0021300640,204,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,1,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,14,1,1,20140124,NYK,CHA
+Shot Chart Detail,0021300640,226,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,9,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,99,135,1,1,20140124,NYK,CHA
+Shot Chart Detail,0021300640,247,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,6,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,0,1,1,20140124,NYK,CHA
+Shot Chart Detail,0021300640,268,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,2,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,0,1,1,20140124,NYK,CHA
+Shot Chart Detail,0021300640,290,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,0,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,15,1,1,20140124,NYK,CHA
+Shot Chart Detail,0021300646,7,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,10,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,118,105,1,1,20140125,CHA,CHI
+Shot Chart Detail,0021300646,71,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,3,47,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-29,83,1,1,20140125,CHA,CHI
+Shot Chart Detail,0021300646,74,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,3,14,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-112,97,1,1,20140125,CHA,CHI
+Shot Chart Detail,0021300646,90,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,2,2,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-51,45,1,1,20140125,CHA,CHI
+Shot Chart Detail,0021300646,97,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,0,56,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,78,36,1,1,20140125,CHA,CHI
+Shot Chart Detail,0021300646,100,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,0,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,4,172,1,1,20140125,CHA,CHI
+Shot Chart Detail,0021300646,235,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,11,46,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-18,74,1,1,20140125,CHA,CHI
+Shot Chart Detail,0021300646,249,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,9,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,94,39,1,1,20140125,CHA,CHI
+Shot Chart Detail,0021300646,268,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,7,28,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-70,30,1,1,20140125,CHA,CHI
+Shot Chart Detail,0021300646,315,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,2,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-117,127,1,1,20140125,CHA,CHI
+Shot Chart Detail,0021300646,318,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,1,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-70,159,1,1,20140125,CHA,CHI
+Shot Chart Detail,0021300646,417,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,2,46,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,13,48,1,1,20140125,CHA,CHI
+Shot Chart Detail,0021300646,422,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,1,47,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,9,74,1,1,20140125,CHA,CHI
+Shot Chart Detail,0021300646,453,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,0,27,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,1,1,1,20140125,CHA,CHI
+Shot Chart Detail,0021300646,503,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,0,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,33,103,320,1,1,20140125,CHA,CHI
+Shot Chart Detail,0021300682,31,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,9,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,1,1,1,20140129,DEN,CHA
+Shot Chart Detail,0021300682,58,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,7,17,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-52,11,1,1,20140129,DEN,CHA
+Shot Chart Detail,0021300682,62,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,6,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-106,39,1,1,20140129,DEN,CHA
+Shot Chart Detail,0021300682,67,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,6,4,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-15,60,1,1,20140129,DEN,CHA
+Shot Chart Detail,0021300682,222,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,5,47,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-35,3,1,1,20140129,DEN,CHA
+Shot Chart Detail,0021300682,245,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,4,7,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-51,-2,1,1,20140129,DEN,CHA
+Shot Chart Detail,0021300682,263,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,3,5,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-32,33,1,1,20140129,DEN,CHA
+Shot Chart Detail,0021300682,277,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,1,21,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,10,19,1,1,20140129,DEN,CHA
+Shot Chart Detail,0021300682,279,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,0,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-136,44,1,1,20140129,DEN,CHA
+Shot Chart Detail,0021300682,477,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,7,25,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-46,37,1,1,20140129,DEN,CHA
+Shot Chart Detail,0021300682,492,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,5,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-138,97,1,1,20140129,DEN,CHA
+Shot Chart Detail,0021300682,517,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,3,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-122,96,1,1,20140129,DEN,CHA
+Shot Chart Detail,0021300682,556,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,0,23,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-48,82,1,1,20140129,DEN,CHA
+Shot Chart Detail,0021300695,50,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,6,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,0,30,1,1,20140131,LAL,CHA
+Shot Chart Detail,0021300695,118,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,2,25,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,1,39,1,1,20140131,LAL,CHA
+Shot Chart Detail,0021300695,128,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,1,37,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,6,23,1,1,20140131,LAL,CHA
+Shot Chart Detail,0021300695,133,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,1,4,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-4,31,1,1,20140131,LAL,CHA
+Shot Chart Detail,0021300695,136,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,0,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-8,26,1,1,20140131,LAL,CHA
+Shot Chart Detail,0021300695,219,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,5,46,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-27,6,1,1,20140131,LAL,CHA
+Shot Chart Detail,0021300695,245,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,2,53,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,1,37,1,1,20140131,LAL,CHA
+Shot Chart Detail,0021300695,261,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,1,36,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-4,25,1,1,20140131,LAL,CHA
+Shot Chart Detail,0021300695,355,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,5,25,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,12,88,1,1,20140131,LAL,CHA
+Shot Chart Detail,0021300695,376,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,3,42,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,12,20,1,1,20140131,LAL,CHA
+Shot Chart Detail,0021300695,448,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,9,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-35,15,1,1,20140131,LAL,CHA
+Shot Chart Detail,0021300695,453,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,9,14,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-54,17,1,1,20140131,LAL,CHA
+Shot Chart Detail,0021300695,475,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,7,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-166,142,1,1,20140131,LAL,CHA
+Shot Chart Detail,0021300695,484,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,6,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-15,26,1,1,20140131,LAL,CHA
+Shot Chart Detail,0021300695,499,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,4,42,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,23,121,1,1,20140131,LAL,CHA
+Shot Chart Detail,0021300695,513,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,2,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-16,23,1,1,20140131,LAL,CHA
+Shot Chart Detail,0021300695,524,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,1,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,10,23,1,1,20140131,LAL,CHA
+Shot Chart Detail,0021300695,526,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,1,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-84,123,1,1,20140131,LAL,CHA
+Shot Chart Detail,0021300706,6,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,11,4,Made Shot,Jump Bank Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-30,17,1,1,20140201,PHX,CHA
+Shot Chart Detail,0021300706,108,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,1,28,Made Shot,Jump Bank Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-32,19,1,1,20140201,PHX,CHA
+Shot Chart Detail,0021300706,198,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,5,12,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,9,41,1,1,20140201,PHX,CHA
+Shot Chart Detail,0021300706,282,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,8,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,0,1,1,20140201,PHX,CHA
+Shot Chart Detail,0021300724,51,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,5,40,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-141,97,1,1,20140204,GSW,CHA
+Shot Chart Detail,0021300724,86,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,2,49,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-37,101,1,1,20140204,GSW,CHA
+Shot Chart Detail,0021300724,104,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,0,54,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-149,11,1,1,20140204,GSW,CHA
+Shot Chart Detail,0021300724,186,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,7,26,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-70,39,1,1,20140204,GSW,CHA
+Shot Chart Detail,0021300724,239,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,2,37,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,1,1,1,20140204,GSW,CHA
+Shot Chart Detail,0021300724,312,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,7,43,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,113,138,1,1,20140204,GSW,CHA
+Shot Chart Detail,0021300724,323,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,6,17,Made Shot,Turnaround Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-19,26,1,1,20140204,GSW,CHA
+Shot Chart Detail,0021300724,325,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,5,48,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-21,78,1,1,20140204,GSW,CHA
+Shot Chart Detail,0021300724,331,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,5,7,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,97,28,1,1,20140204,GSW,CHA
+Shot Chart Detail,0021300724,343,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,3,34,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-4,48,1,1,20140204,GSW,CHA
+Shot Chart Detail,0021300724,479,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,4,44,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,15,1,1,20140204,GSW,CHA
+Shot Chart Detail,0021300724,493,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,2,24,Made Shot,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-38,31,1,1,20140204,GSW,CHA
+Shot Chart Detail,0021300749,12,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,10,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,13,20,1,1,20140208,CHA,SAS
+Shot Chart Detail,0021300749,20,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,9,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,0,1,1,20140208,CHA,SAS
+Shot Chart Detail,0021300749,23,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,8,52,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,4,78,1,1,20140208,CHA,SAS
+Shot Chart Detail,0021300749,37,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,6,37,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-57,61,1,1,20140208,CHA,SAS
+Shot Chart Detail,0021300749,53,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,4,29,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,1,1,1,20140208,CHA,SAS
+Shot Chart Detail,0021300749,84,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,1,3,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,54,26,1,1,20140208,CHA,SAS
+Shot Chart Detail,0021300749,190,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,3,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,4,1,1,20140208,CHA,SAS
+Shot Chart Detail,0021300749,272,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,8,28,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,4,53,1,1,20140208,CHA,SAS
+Shot Chart Detail,0021300749,400,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,8,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,4,1,1,20140208,CHA,SAS
+Shot Chart Detail,0021300749,423,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,5,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-144,30,1,1,20140208,CHA,SAS
+Shot Chart Detail,0021300749,464,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,1,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,0,1,1,20140208,CHA,SAS
+Shot Chart Detail,0021300749,470,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,1,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-64,140,1,1,20140208,CHA,SAS
+Shot Chart Detail,0021300770,16,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,10,2,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,73,11,1,1,20140211,CHA,DAL
+Shot Chart Detail,0021300770,30,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,7,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,11,1,1,20140211,CHA,DAL
+Shot Chart Detail,0021300770,38,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,6,12,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,69,15,1,1,20140211,CHA,DAL
+Shot Chart Detail,0021300770,76,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,1,39,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-51,19,1,1,20140211,CHA,DAL
+Shot Chart Detail,0021300770,158,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,5,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,14,1,1,20140211,CHA,DAL
+Shot Chart Detail,0021300770,187,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,3,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-146,102,1,1,20140211,CHA,DAL
+Shot Chart Detail,0021300770,209,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,1,29,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-59,6,1,1,20140211,CHA,DAL
+Shot Chart Detail,0021300770,231,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,11,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,3,1,1,20140211,CHA,DAL
+Shot Chart Detail,0021300770,255,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,7,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,6,1,1,20140211,CHA,DAL
+Shot Chart Detail,0021300770,272,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,5,41,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,1,1,1,20140211,CHA,DAL
+Shot Chart Detail,0021300770,305,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,2,53,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,28,50,1,1,20140211,CHA,DAL
+Shot Chart Detail,0021300770,331,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,1,0,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,12,58,1,1,20140211,CHA,DAL
+Shot Chart Detail,0021300770,391,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,6,20,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,2,30,1,1,20140211,CHA,DAL
+Shot Chart Detail,0021300770,405,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,5,6,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,17,50,1,1,20140211,CHA,DAL
+Shot Chart Detail,0021300781,11,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,10,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,0,1,1,20140212,BKN,CHA
+Shot Chart Detail,0021300781,44,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,6,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,3,1,1,20140212,BKN,CHA
+Shot Chart Detail,0021300781,74,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,4,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-18,22,1,1,20140212,BKN,CHA
+Shot Chart Detail,0021300781,105,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,1,30,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,69,23,1,1,20140212,BKN,CHA
+Shot Chart Detail,0021300781,108,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,1,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,6,1,1,20140212,BKN,CHA
+Shot Chart Detail,0021300795,2,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,11,46,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-62,19,1,1,20140218,DET,CHA
+Shot Chart Detail,0021300795,9,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,9,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-191,22,1,1,20140218,DET,CHA
+Shot Chart Detail,0021300795,47,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,5,2,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,0,61,1,1,20140218,DET,CHA
+Shot Chart Detail,0021300795,240,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,2,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,17,1,1,20140218,DET,CHA
+Shot Chart Detail,0021300795,242,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,1,53,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,0,53,1,1,20140218,DET,CHA
+Shot Chart Detail,0021300795,254,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,0,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,9,1,1,20140218,DET,CHA
+Shot Chart Detail,0021300795,294,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,9,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,1,1,1,20140218,DET,CHA
+Shot Chart Detail,0021300795,299,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,8,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,6,1,1,20140218,DET,CHA
+Shot Chart Detail,0021300795,334,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,5,49,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-64,42,1,1,20140218,DET,CHA
+Shot Chart Detail,0021300795,358,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,3,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,-3,1,1,20140218,DET,CHA
+Shot Chart Detail,0021300795,424,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,9,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,3,1,1,20140218,DET,CHA
+Shot Chart Detail,0021300795,496,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,3,3,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-57,17,1,1,20140218,DET,CHA
+Shot Chart Detail,0021300795,500,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,2,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,6,1,1,20140218,DET,CHA
+Shot Chart Detail,0021300795,502,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,1,38,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-46,37,1,1,20140218,DET,CHA
+Shot Chart Detail,0021300795,509,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,1,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-147,37,1,1,20140218,DET,CHA
+Shot Chart Detail,0021300801,18,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,10,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,37,179,1,1,20140219,CHA,DET
+Shot Chart Detail,0021300801,31,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,8,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,116,112,1,1,20140219,CHA,DET
+Shot Chart Detail,0021300801,43,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,6,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-100,172,1,1,20140219,CHA,DET
+Shot Chart Detail,0021300801,255,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,2,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,0,1,1,20140219,CHA,DET
+Shot Chart Detail,0021300801,291,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,11,41,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-7,63,1,1,20140219,CHA,DET
+Shot Chart Detail,0021300801,293,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,11,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-164,26,1,1,20140219,CHA,DET
+Shot Chart Detail,0021300801,331,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,6,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-24,7,1,1,20140219,CHA,DET
+Shot Chart Detail,0021300801,345,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,3,50,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-141,22,1,1,20140219,CHA,DET
+Shot Chart Detail,0021300801,365,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,2,34,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-79,26,1,1,20140219,CHA,DET
+Shot Chart Detail,0021300801,387,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,0,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-71,167,1,1,20140219,CHA,DET
+Shot Chart Detail,0021300801,463,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,5,36,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,26,56,1,1,20140219,CHA,DET
+Shot Chart Detail,0021300801,496,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,3,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,4,1,1,20140219,CHA,DET
+Shot Chart Detail,0021300815,9,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,11,13,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-11,58,1,1,20140221,CHA,NOP
+Shot Chart Detail,0021300815,12,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,10,41,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,147,53,1,1,20140221,CHA,NOP
+Shot Chart Detail,0021300815,37,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,7,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,6,1,1,20140221,CHA,NOP
+Shot Chart Detail,0021300815,40,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,6,39,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,4,1,1,20140221,CHA,NOP
+Shot Chart Detail,0021300815,56,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,5,22,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,11,1,1,20140221,CHA,NOP
+Shot Chart Detail,0021300815,67,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,4,39,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,7,47,1,1,20140221,CHA,NOP
+Shot Chart Detail,0021300815,77,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,3,26,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,32,1,1,1,20140221,CHA,NOP
+Shot Chart Detail,0021300815,207,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,3,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,4,1,1,20140221,CHA,NOP
+Shot Chart Detail,0021300815,223,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,1,58,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,4,1,1,20140221,CHA,NOP
+Shot Chart Detail,0021300815,258,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,10,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,105,159,1,1,20140221,CHA,NOP
+Shot Chart Detail,0021300815,266,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,8,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,95,108,1,1,20140221,CHA,NOP
+Shot Chart Detail,0021300815,278,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,7,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,7,1,1,20140221,CHA,NOP
+Shot Chart Detail,0021300815,344,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,2,26,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,10,39,1,1,20140221,CHA,NOP
+Shot Chart Detail,0021300815,467,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,2,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,0,1,1,20140221,CHA,NOP
+Shot Chart Detail,0021300825,85,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,1,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,9,1,1,20140222,CHA,MEM
+Shot Chart Detail,0021300825,344,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,2,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,0,1,1,20140222,CHA,MEM
+Shot Chart Detail,0021300871,13,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,10,47,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,59,47,1,1,20140228,SAS,CHA
+Shot Chart Detail,0021300871,40,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,7,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,0,1,1,20140228,SAS,CHA
+Shot Chart Detail,0021300871,65,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,4,28,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-23,23,1,1,20140228,SAS,CHA
+Shot Chart Detail,0021300871,75,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,3,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-95,17,1,1,20140228,SAS,CHA
+Shot Chart Detail,0021300871,185,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,3,39,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,47,56,1,1,20140228,SAS,CHA
+Shot Chart Detail,0021300871,205,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,1,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-24,-5,1,1,20140228,SAS,CHA
+Shot Chart Detail,0021300871,251,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,8,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,0,1,1,20140228,SAS,CHA
+Shot Chart Detail,0021300871,307,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,3,9,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,54,25,1,1,20140228,SAS,CHA
+Shot Chart Detail,0021300871,327,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,1,20,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,1,1,1,20140228,SAS,CHA
+Shot Chart Detail,0021300871,410,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,6,20,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,78,17,1,1,20140228,SAS,CHA
+Shot Chart Detail,0021300887,22,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,8,44,Made Shot,Turnaround Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-2,34,1,1,20140302,OKC,CHA
+Shot Chart Detail,0021300887,52,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,5,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-26,-2,1,1,20140302,OKC,CHA
+Shot Chart Detail,0021300887,69,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,3,58,Made Shot,Turnaround Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,2,20,1,1,20140302,OKC,CHA
+Shot Chart Detail,0021300887,88,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,1,51,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-4,132,1,1,20140302,OKC,CHA
+Shot Chart Detail,0021300887,213,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,4,17,Made Shot,Turnaround Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,0,1,1,20140302,OKC,CHA
+Shot Chart Detail,0021300887,223,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,3,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,15,1,1,20140302,OKC,CHA
+Shot Chart Detail,0021300887,246,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,0,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-82,28,1,1,20140302,OKC,CHA
+Shot Chart Detail,0021300887,270,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,11,19,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-52,39,1,1,20140302,OKC,CHA
+Shot Chart Detail,0021300887,418,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,0,26,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,91,22,1,1,20140302,OKC,CHA
+Shot Chart Detail,0021300887,500,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,6,10,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-40,34,1,1,20140302,OKC,CHA
+Shot Chart Detail,0021300893,11,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,10,4,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-37,33,1,1,20140303,MIA,CHA
+Shot Chart Detail,0021300893,16,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,9,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,91,6,1,1,20140303,MIA,CHA
+Shot Chart Detail,0021300893,24,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,7,47,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,14,1,1,20140303,MIA,CHA
+Shot Chart Detail,0021300893,40,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,6,9,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,9,82,1,1,20140303,MIA,CHA
+Shot Chart Detail,0021300893,55,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,4,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-174,28,1,1,20140303,MIA,CHA
+Shot Chart Detail,0021300893,61,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,3,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,4,200,1,1,20140303,MIA,CHA
+Shot Chart Detail,0021300893,68,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,3,9,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,37,19,1,1,20140303,MIA,CHA
+Shot Chart Detail,0021300893,150,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,7,39,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,7,60,1,1,20140303,MIA,CHA
+Shot Chart Detail,0021300893,164,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,5,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,91,104,1,1,20140303,MIA,CHA
+Shot Chart Detail,0021300893,189,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,3,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-127,119,1,1,20140303,MIA,CHA
+Shot Chart Detail,0021300893,191,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,2,26,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,9,1,1,20140303,MIA,CHA
+Shot Chart Detail,0021300893,213,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,0,41,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-60,4,1,1,20140303,MIA,CHA
+Shot Chart Detail,0021300893,247,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,9,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,11,1,1,20140303,MIA,CHA
+Shot Chart Detail,0021300893,280,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,6,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,102,168,1,1,20140303,MIA,CHA
+Shot Chart Detail,0021300893,295,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,4,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-149,30,1,1,20140303,MIA,CHA
+Shot Chart Detail,0021300893,300,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,4,3,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-15,37,1,1,20140303,MIA,CHA
+Shot Chart Detail,0021300893,369,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,10,10,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,-2,1,1,20140303,MIA,CHA
+Shot Chart Detail,0021300893,462,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,2,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,152,67,1,1,20140303,MIA,CHA
+Shot Chart Detail,0021300904,23,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,8,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,7,1,1,20140305,CHA,IND
+Shot Chart Detail,0021300904,31,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,7,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-144,101,1,1,20140305,CHA,IND
+Shot Chart Detail,0021300904,33,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,6,42,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,4,63,1,1,20140305,CHA,IND
+Shot Chart Detail,0021300904,39,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,5,47,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,4,1,1,20140305,CHA,IND
+Shot Chart Detail,0021300904,59,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,4,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-7,26,1,1,20140305,CHA,IND
+Shot Chart Detail,0021300904,63,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,3,29,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-52,15,1,1,20140305,CHA,IND
+Shot Chart Detail,0021300904,162,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,7,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,9,1,1,20140305,CHA,IND
+Shot Chart Detail,0021300904,182,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,4,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-133,77,1,1,20140305,CHA,IND
+Shot Chart Detail,0021300904,188,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,3,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,122,20,1,1,20140305,CHA,IND
+Shot Chart Detail,0021300904,221,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,0,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,7,1,1,20140305,CHA,IND
+Shot Chart Detail,0021300904,283,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,7,2,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,0,56,1,1,20140305,CHA,IND
+Shot Chart Detail,0021300904,294,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,6,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,11,1,1,20140305,CHA,IND
+Shot Chart Detail,0021300904,334,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,2,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-13,167,1,1,20140305,CHA,IND
+Shot Chart Detail,0021300904,354,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,0,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,7,1,1,20140305,CHA,IND
+Shot Chart Detail,0021300904,455,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,4,3,Made Shot,Jump Bank Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,30,-15,307,1,1,20140305,CHA,IND
+Shot Chart Detail,0021300904,479,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,2,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-114,47,1,1,20140305,CHA,IND
+Shot Chart Detail,0021300918,2,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,11,35,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-13,63,1,1,20140307,CHA,CLE
+Shot Chart Detail,0021300918,33,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,6,48,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,0,56,1,1,20140307,CHA,CLE
+Shot Chart Detail,0021300918,77,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,2,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,122,99,1,1,20140307,CHA,CLE
+Shot Chart Detail,0021300918,96,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,0,24,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-2,36,1,1,20140307,CHA,CLE
+Shot Chart Detail,0021300918,158,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,5,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,11,1,1,20140307,CHA,CLE
+Shot Chart Detail,0021300918,171,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,4,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-155,23,1,1,20140307,CHA,CLE
+Shot Chart Detail,0021300918,186,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,3,27,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-60,28,1,1,20140307,CHA,CLE
+Shot Chart Detail,0021300918,197,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,2,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-153,30,1,1,20140307,CHA,CLE
+Shot Chart Detail,0021300918,249,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,8,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,4,1,1,20140307,CHA,CLE
+Shot Chart Detail,0021300918,269,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,5,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-18,181,1,1,20140307,CHA,CLE
+Shot Chart Detail,0021300918,416,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,5,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-78,175,1,1,20140307,CHA,CLE
+Shot Chart Detail,0021300918,433,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,3,8,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,50,80,1,1,20140307,CHA,CLE
+Shot Chart Detail,0021300930,17,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,9,13,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-71,50,1,1,20140308,MEM,CHA
+Shot Chart Detail,0021300930,20,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,8,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-116,48,1,1,20140308,MEM,CHA
+Shot Chart Detail,0021300930,84,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,2,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,7,1,1,20140308,MEM,CHA
+Shot Chart Detail,0021300930,256,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,11,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-153,14,1,1,20140308,MEM,CHA
+Shot Chart Detail,0021300930,279,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,8,54,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-57,41,1,1,20140308,MEM,CHA
+Shot Chart Detail,0021300930,289,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,7,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-103,126,1,1,20140308,MEM,CHA
+Shot Chart Detail,0021300930,331,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,3,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,3,1,1,20140308,MEM,CHA
+Shot Chart Detail,0021300943,21,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,9,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-175,19,1,1,20140310,CHA,DEN
+Shot Chart Detail,0021300943,28,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,8,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-163,4,1,1,20140310,CHA,DEN
+Shot Chart Detail,0021300943,51,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,6,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-82,50,1,1,20140310,CHA,DEN
+Shot Chart Detail,0021300943,53,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,5,50,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,6,1,1,20140310,CHA,DEN
+Shot Chart Detail,0021300943,81,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,2,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-109,131,1,1,20140310,CHA,DEN
+Shot Chart Detail,0021300943,235,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,1,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,4,1,1,20140310,CHA,DEN
+Shot Chart Detail,0021300943,244,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,0,49,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,39,14,1,1,20140310,CHA,DEN
+Shot Chart Detail,0021300943,259,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,10,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-123,105,1,1,20140310,CHA,DEN
+Shot Chart Detail,0021300943,283,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,8,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-79,159,1,1,20140310,CHA,DEN
+Shot Chart Detail,0021300943,289,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,7,9,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-4,97,1,1,20140310,CHA,DEN
+Shot Chart Detail,0021300943,471,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,4,2,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,4,67,1,1,20140310,CHA,DEN
+Shot Chart Detail,0021300943,536,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,0,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,77,156,1,1,20140310,CHA,DEN
+Shot Chart Detail,0021300961,20,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,9,6,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,7,77,1,1,20140312,WAS,CHA
+Shot Chart Detail,0021300961,33,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,6,51,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-11,85,1,1,20140312,WAS,CHA
+Shot Chart Detail,0021300961,42,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,5,41,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,6,1,1,20140312,WAS,CHA
+Shot Chart Detail,0021300961,77,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,2,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,113,0,1,1,20140312,WAS,CHA
+Shot Chart Detail,0021300961,88,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,0,46,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,15,45,1,1,20140312,WAS,CHA
+Shot Chart Detail,0021300961,212,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,1,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,4,1,1,20140312,WAS,CHA
+Shot Chart Detail,0021300961,276,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,6,46,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-56,22,1,1,20140312,WAS,CHA
+Shot Chart Detail,0021300961,279,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,6,5,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-71,0,1,1,20140312,WAS,CHA
+Shot Chart Detail,0021300961,314,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,2,53,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-27,45,1,1,20140312,WAS,CHA
+Shot Chart Detail,0021300961,335,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,0,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-131,23,1,1,20140312,WAS,CHA
+Shot Chart Detail,0021300961,419,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,5,55,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,14,1,1,20140312,WAS,CHA
+Shot Chart Detail,0021300961,426,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,5,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-101,36,1,1,20140312,WAS,CHA
+Shot Chart Detail,0021300961,489,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,0,25,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-2,61,1,1,20140312,WAS,CHA
+Shot Chart Detail,0021300971,33,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,8,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,103,67,1,1,20140314,CHA,MIN
+Shot Chart Detail,0021300971,58,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,5,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-34,156,1,1,20140314,CHA,MIN
+Shot Chart Detail,0021300971,92,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,1,58,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,0,1,1,20140314,CHA,MIN
+Shot Chart Detail,0021300971,110,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,0,16,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-65,39,1,1,20140314,CHA,MIN
+Shot Chart Detail,0021300971,224,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,2,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-155,26,1,1,20140314,CHA,MIN
+Shot Chart Detail,0021300971,251,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,0,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,45,156,1,1,20140314,CHA,MIN
+Shot Chart Detail,0021300971,290,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,8,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,6,1,1,20140314,CHA,MIN
+Shot Chart Detail,0021300971,303,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,6,49,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,6,58,1,1,20140314,CHA,MIN
+Shot Chart Detail,0021300971,307,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,6,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,0,1,1,20140314,CHA,MIN
+Shot Chart Detail,0021300971,319,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,5,13,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-24,64,1,1,20140314,CHA,MIN
+Shot Chart Detail,0021300971,336,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,3,43,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,6,1,1,20140314,CHA,MIN
+Shot Chart Detail,0021300971,360,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,1,56,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,34,72,1,1,20140314,CHA,MIN
+Shot Chart Detail,0021300987,20,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,9,16,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,43,41,1,1,20140316,MIL,CHA
+Shot Chart Detail,0021300987,108,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,0,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,12,1,1,20140316,MIL,CHA
+Shot Chart Detail,0021300987,243,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,9,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-16,187,1,1,20140316,MIL,CHA
+Shot Chart Detail,0021300987,260,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,7,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,1,1,1,20140316,MIL,CHA
+Shot Chart Detail,0021300987,281,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,5,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-169,15,1,1,20140316,MIL,CHA
+Shot Chart Detail,0021300987,296,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,4,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,1,1,1,20140316,MIL,CHA
+Shot Chart Detail,0021300987,316,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,1,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-163,26,1,1,20140316,MIL,CHA
+Shot Chart Detail,0021300987,398,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,5,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,4,1,1,20140316,MIL,CHA
+Shot Chart Detail,0021300987,403,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,5,4,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,42,11,1,1,20140316,MIL,CHA
+Shot Chart Detail,0021300987,443,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,0,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-109,-11,1,1,20140316,MIL,CHA
+Shot Chart Detail,0021300996,23,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,8,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-41,176,1,1,20140317,CHA,ATL
+Shot Chart Detail,0021300996,62,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,5,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-8,25,1,1,20140317,CHA,ATL
+Shot Chart Detail,0021300996,74,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,4,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,48,194,1,1,20140317,CHA,ATL
+Shot Chart Detail,0021300996,87,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,3,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-11,175,1,1,20140317,CHA,ATL
+Shot Chart Detail,0021300996,339,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,3,12,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-2,55,1,1,20140317,CHA,ATL
+Shot Chart Detail,0021300996,448,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,2,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,17,179,1,1,20140317,CHA,ATL
+Shot Chart Detail,0021301010,11,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,10,54,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,89,61,1,1,20140319,BKN,CHA
+Shot Chart Detail,0021301010,14,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,10,20,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-60,58,1,1,20140319,BKN,CHA
+Shot Chart Detail,0021301010,37,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,6,54,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-146,31,1,1,20140319,BKN,CHA
+Shot Chart Detail,0021301010,84,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,2,17,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,17,30,1,1,20140319,BKN,CHA
+Shot Chart Detail,0021301010,228,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,11,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,84,145,1,1,20140319,BKN,CHA
+Shot Chart Detail,0021301010,247,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,9,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-172,75,1,1,20140319,BKN,CHA
+Shot Chart Detail,0021301010,277,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,5,2,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,70,86,1,1,20140319,BKN,CHA
+Shot Chart Detail,0021301010,280,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,4,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-160,6,1,1,20140319,BKN,CHA
+Shot Chart Detail,0021301032,12,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,10,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,12,1,1,20140322,CHA,POR
+Shot Chart Detail,0021301032,26,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,8,26,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,0,56,1,1,20140322,CHA,POR
+Shot Chart Detail,0021301032,29,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,7,56,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,72,25,1,1,20140322,CHA,POR
+Shot Chart Detail,0021301032,58,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,5,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,13,159,1,1,20140322,CHA,POR
+Shot Chart Detail,0021301032,70,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,3,39,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,77,15,1,1,20140322,CHA,POR
+Shot Chart Detail,0021301032,91,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,2,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,7,1,1,20140322,CHA,POR
+Shot Chart Detail,0021301032,98,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,1,2,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,59,129,1,1,20140322,CHA,POR
+Shot Chart Detail,0021301032,106,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,0,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,6,1,1,20140322,CHA,POR
+Shot Chart Detail,0021301032,231,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,1,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,4,1,1,20140322,CHA,POR
+Shot Chart Detail,0021301032,303,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,6,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-112,108,1,1,20140322,CHA,POR
+Shot Chart Detail,0021301032,323,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,3,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,7,1,1,20140322,CHA,POR
+Shot Chart Detail,0021301032,330,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,3,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,7,28,1,1,20140322,CHA,POR
+Shot Chart Detail,0021301032,343,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,1,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,135,110,1,1,20140322,CHA,POR
+Shot Chart Detail,0021301047,42,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,6,12,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-5,50,1,1,20140324,CHA,HOU
+Shot Chart Detail,0021301047,218,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,3,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,6,1,1,20140324,CHA,HOU
+Shot Chart Detail,0021301047,234,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,1,35,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,3,1,1,20140324,CHA,HOU
+Shot Chart Detail,0021301047,283,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,8,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,11,1,1,20140324,CHA,HOU
+Shot Chart Detail,0021301047,305,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,6,1,Made Shot,Turnaround Bank shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-109,48,1,1,20140324,CHA,HOU
+Shot Chart Detail,0021301047,316,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,5,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-134,39,1,1,20140324,CHA,HOU
+Shot Chart Detail,0021301047,407,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,9,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,184,20,1,1,20140324,CHA,HOU
+Shot Chart Detail,0021301047,503,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,2,14,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,4,69,1,1,20140324,CHA,HOU
+Shot Chart Detail,0021301061,18,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,9,1,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,6,1,1,20140326,CHA,BKN
+Shot Chart Detail,0021301061,36,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,6,53,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,0,1,1,20140326,CHA,BKN
+Shot Chart Detail,0021301061,52,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,5,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,7,1,1,20140326,CHA,BKN
+Shot Chart Detail,0021301061,55,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,4,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,138,112,1,1,20140326,CHA,BKN
+Shot Chart Detail,0021301061,63,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,3,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,11,1,1,20140326,CHA,BKN
+Shot Chart Detail,0021301061,219,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,3,15,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-8,78,1,1,20140326,CHA,BKN
+Shot Chart Detail,0021301061,221,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,2,37,Made Shot,Turnaround Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,99,34,1,1,20140326,CHA,BKN
+Shot Chart Detail,0021301061,236,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,1,49,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-64,19,1,1,20140326,CHA,BKN
+Shot Chart Detail,0021301061,242,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,1,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-71,162,1,1,20140326,CHA,BKN
+Shot Chart Detail,0021301061,299,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,6,3,Made Shot,Jump Hook Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-123,66,1,1,20140326,CHA,BKN
+Shot Chart Detail,0021301061,310,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,5,6,Made Shot,Turnaround Hook Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-122,61,1,1,20140326,CHA,BKN
+Shot Chart Detail,0021301061,341,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,1,56,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,0,1,1,20140326,CHA,BKN
+Shot Chart Detail,0021301061,349,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,0,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,0,1,1,20140326,CHA,BKN
+Shot Chart Detail,0021301061,440,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,2,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-128,108,1,1,20140326,CHA,BKN
+Shot Chart Detail,0021301061,480,2744,Al Jefferson,1610612766,Charlotte Bobcats,5,4,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,0,1,1,20140326,CHA,BKN
+Shot Chart Detail,0021301075,10,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,10,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,28,167,1,1,20140328,ORL,CHA
+Shot Chart Detail,0021301075,15,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,9,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,17,1,1,20140328,ORL,CHA
+Shot Chart Detail,0021301075,64,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,3,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,136,82,1,1,20140328,ORL,CHA
+Shot Chart Detail,0021301075,228,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,1,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,4,1,1,20140328,ORL,CHA
+Shot Chart Detail,0021301075,231,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,0,47,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-18,22,1,1,20140328,ORL,CHA
+Shot Chart Detail,0021301075,262,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,10,10,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,73,15,1,1,20140328,ORL,CHA
+Shot Chart Detail,0021301075,284,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,7,36,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,7,1,1,20140328,ORL,CHA
+Shot Chart Detail,0021301075,307,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,4,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,143,60,1,1,20140328,ORL,CHA
+Shot Chart Detail,0021301075,456,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,3,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,12,1,1,20140328,ORL,CHA
+Shot Chart Detail,0021301075,545,2744,Al Jefferson,1610612766,Charlotte Bobcats,5,0,45,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,69,33,1,1,20140328,ORL,CHA
+Shot Chart Detail,0021301101,29,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,8,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,3,1,1,20140331,CHA,WAS
+Shot Chart Detail,0021301101,41,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,7,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-177,1,1,1,20140331,CHA,WAS
+Shot Chart Detail,0021301101,44,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,6,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,0,1,1,20140331,CHA,WAS
+Shot Chart Detail,0021301101,249,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,9,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,7,26,1,1,20140331,CHA,WAS
+Shot Chart Detail,0021301101,375,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,9,53,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-32,52,1,1,20140331,CHA,WAS
+Shot Chart Detail,0021301101,401,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,7,13,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,12,85,1,1,20140331,CHA,WAS
+Shot Chart Detail,0021301101,446,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,3,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,6,1,1,20140331,CHA,WAS
+Shot Chart Detail,0021301101,457,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,2,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,43,160,1,1,20140331,CHA,WAS
+Shot Chart Detail,0021301117,11,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,10,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,108,14,1,1,20140402,PHI,CHA
+Shot Chart Detail,0021301117,38,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,7,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,0,1,1,20140402,PHI,CHA
+Shot Chart Detail,0021301117,42,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,6,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,110,148,1,1,20140402,PHI,CHA
+Shot Chart Detail,0021301117,44,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,5,53,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-164,9,1,1,20140402,PHI,CHA
+Shot Chart Detail,0021301117,69,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,3,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,6,1,1,20140402,PHI,CHA
+Shot Chart Detail,0021301117,215,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,2,21,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-52,9,1,1,20140402,PHI,CHA
+Shot Chart Detail,0021301117,253,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,11,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,7,1,1,20140402,PHI,CHA
+Shot Chart Detail,0021301117,255,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,10,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,4,1,1,20140402,PHI,CHA
+Shot Chart Detail,0021301117,366,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,1,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,10,25,1,1,20140402,PHI,CHA
+Shot Chart Detail,0021301130,6,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,11,21,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-26,31,1,1,20140404,CHA,ORL
+Shot Chart Detail,0021301130,33,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,8,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-179,4,1,1,20140404,CHA,ORL
+Shot Chart Detail,0021301130,38,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,7,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,151,42,1,1,20140404,CHA,ORL
+Shot Chart Detail,0021301130,62,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,4,44,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-67,28,1,1,20140404,CHA,ORL
+Shot Chart Detail,0021301130,90,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,3,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,15,1,1,20140404,CHA,ORL
+Shot Chart Detail,0021301130,196,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,4,22,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-46,34,1,1,20140404,CHA,ORL
+Shot Chart Detail,0021301130,204,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,3,38,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-1,1,1,20140404,CHA,ORL
+Shot Chart Detail,0021301130,213,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,3,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,7,1,1,20140404,CHA,ORL
+Shot Chart Detail,0021301130,229,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,2,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,17,1,1,20140404,CHA,ORL
+Shot Chart Detail,0021301130,254,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,0,26,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-11,20,1,1,20140404,CHA,ORL
+Shot Chart Detail,0021301130,277,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,9,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20140404,CHA,ORL
+Shot Chart Detail,0021301130,321,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,5,10,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-46,30,1,1,20140404,CHA,ORL
+Shot Chart Detail,0021301130,474,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,3,27,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,-2,1,1,20140404,CHA,ORL
+Shot Chart Detail,0021301145,31,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,8,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,0,1,1,20140405,CLE,CHA
+Shot Chart Detail,0021301145,37,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,7,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-127,53,1,1,20140405,CLE,CHA
+Shot Chart Detail,0021301145,248,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,2,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,177,12,1,1,20140405,CLE,CHA
+Shot Chart Detail,0021301145,266,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,0,20,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,-3,1,1,20140405,CLE,CHA
+Shot Chart Detail,0021301145,342,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,4,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,7,1,1,20140405,CLE,CHA
+Shot Chart Detail,0021301145,372,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,2,10,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,0,30,1,1,20140405,CLE,CHA
+Shot Chart Detail,0021301145,392,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,0,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,3,1,1,20140405,CLE,CHA
+Shot Chart Detail,0021301145,500,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,1,35,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,40,37,1,1,20140405,CLE,CHA
+Shot Chart Detail,0021301145,524,2744,Al Jefferson,1610612766,Charlotte Bobcats,5,4,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-158,37,1,1,20140405,CLE,CHA
+Shot Chart Detail,0021301165,23,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,8,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,6,1,1,20140409,WAS,CHA
+Shot Chart Detail,0021301165,47,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,5,41,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,-2,1,1,20140409,WAS,CHA
+Shot Chart Detail,0021301165,220,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,1,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-24,-3,1,1,20140409,WAS,CHA
+Shot Chart Detail,0021301165,278,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,8,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-84,91,1,1,20140409,WAS,CHA
+Shot Chart Detail,0021301165,310,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,5,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,168,56,1,1,20140409,WAS,CHA
+Shot Chart Detail,0021301165,329,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,2,38,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,20,143,1,1,20140409,WAS,CHA
+Shot Chart Detail,0021301165,394,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,7,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,122,94,1,1,20140409,WAS,CHA
+Shot Chart Detail,0021301165,439,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,1,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-5,148,1,1,20140409,WAS,CHA
+Shot Chart Detail,0021301165,458,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,0,3,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,14,1,1,20140409,WAS,CHA
+Shot Chart Detail,0021301178,3,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,11,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-136,77,1,1,20140411,BOS,CHA
+Shot Chart Detail,0021301178,16,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,9,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,4,1,1,20140411,BOS,CHA
+Shot Chart Detail,0021301178,48,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,6,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-131,11,1,1,20140411,BOS,CHA
+Shot Chart Detail,0021301178,55,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,5,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,103,4,1,1,20140411,BOS,CHA
+Shot Chart Detail,0021301178,61,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,4,57,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-71,15,1,1,20140411,BOS,CHA
+Shot Chart Detail,0021301178,78,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,3,21,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,0,50,1,1,20140411,BOS,CHA
+Shot Chart Detail,0021301178,94,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,1,42,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,7,1,1,20140411,BOS,CHA
+Shot Chart Detail,0021301178,201,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,2,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,0,1,1,20140411,BOS,CHA
+Shot Chart Detail,0021301178,231,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,10,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-123,37,1,1,20140411,BOS,CHA
+Shot Chart Detail,0021301178,248,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,8,32,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-27,42,1,1,20140411,BOS,CHA
+Shot Chart Detail,0021301178,279,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,4,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-29,4,1,1,20140411,BOS,CHA
+Shot Chart Detail,0021301178,393,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,7,15,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,0,1,1,20140411,BOS,CHA
+Shot Chart Detail,0021301178,397,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,6,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,-5,1,1,20140411,BOS,CHA
+Shot Chart Detail,0021301178,417,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,4,0,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-60,69,1,1,20140411,BOS,CHA
+Shot Chart Detail,0021301178,441,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,0,51,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,42,17,1,1,20140411,BOS,CHA
+Shot Chart Detail,0021301178,449,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,0,29,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,70,23,1,1,20140411,BOS,CHA
+Shot Chart Detail,0021301190,4,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,11,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-8,19,1,1,20140412,CHA,PHI
+Shot Chart Detail,0021301190,14,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,9,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,9,1,1,20140412,CHA,PHI
+Shot Chart Detail,0021301190,26,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,8,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,-3,1,1,20140412,CHA,PHI
+Shot Chart Detail,0021301190,38,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,7,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,6,1,1,20140412,CHA,PHI
+Shot Chart Detail,0021301190,40,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,6,28,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-59,19,1,1,20140412,CHA,PHI
+Shot Chart Detail,0021301190,60,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,4,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,135,31,1,1,20140412,CHA,PHI
+Shot Chart Detail,0021301190,68,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,2,46,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,6,1,1,20140412,CHA,PHI
+Shot Chart Detail,0021301190,180,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,4,49,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,78,15,1,1,20140412,CHA,PHI
+Shot Chart Detail,0021301190,220,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,1,29,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,0,1,1,20140412,CHA,PHI
+Shot Chart Detail,0021301190,230,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,0,44,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,7,1,1,20140412,CHA,PHI
+Shot Chart Detail,0021301190,308,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,6,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,6,1,1,20140412,CHA,PHI
+Shot Chart Detail,0021301190,322,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,4,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20140412,CHA,PHI
+Shot Chart Detail,0021301190,525,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,2,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-106,37,1,1,20140412,CHA,PHI
+Shot Chart Detail,0021301207,28,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,9,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,168,129,1,1,20140414,ATL,CHA
+Shot Chart Detail,0021301207,37,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,9,6,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,9,39,1,1,20140414,ATL,CHA
+Shot Chart Detail,0021301207,49,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,8,4,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,14,16,1,1,20140414,ATL,CHA
+Shot Chart Detail,0021301207,57,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,7,32,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,17,1,1,20140414,ATL,CHA
+Shot Chart Detail,0021301207,270,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,4,42,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,4,93,1,1,20140414,ATL,CHA
+Shot Chart Detail,0021301207,294,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,1,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-142,25,1,1,20140414,ATL,CHA
+Shot Chart Detail,0021301207,328,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,10,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,12,206,1,1,20140414,ATL,CHA
+Shot Chart Detail,0021301207,411,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,4,8,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,26,101,1,1,20140414,ATL,CHA
+Shot Chart Detail,0021301207,423,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,3,14,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-32,30,1,1,20140414,ATL,CHA
+Shot Chart Detail,0021301207,437,2744,Al Jefferson,1610612766,Charlotte Bobcats,3,1,37,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,23,1,1,20140414,ATL,CHA
+Shot Chart Detail,0021301207,560,2744,Al Jefferson,1610612766,Charlotte Bobcats,4,1,0,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-41,31,1,1,20140414,ATL,CHA
+Shot Chart Detail,0021301223,84,2744,Al Jefferson,1610612766,Charlotte Bobcats,1,2,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,4,1,1,20140416,CHA,CHI
+Shot Chart Detail,0021301223,165,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,5,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,12,1,1,20140416,CHA,CHI
+Shot Chart Detail,0021301223,173,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,4,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,-2,1,1,20140416,CHA,CHI
+Shot Chart Detail,0021301223,195,2744,Al Jefferson,1610612766,Charlotte Bobcats,2,1,9,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-2,44,1,1,20140416,CHA,CHI

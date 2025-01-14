@@ -1,0 +1,251 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0022400004,39,1628384,OG Anunoby,1610612752,New York Knicks,1,7,46,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-148,47,1,1,20241112,PHI,NYK
+Shot Chart Detail,0022400004,56,1628384,OG Anunoby,1610612752,New York Knicks,1,6,47,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,6,1,1,20241112,PHI,NYK
+Shot Chart Detail,0022400004,84,1628384,OG Anunoby,1610612752,New York Knicks,1,4,50,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-6,10,1,1,20241112,PHI,NYK
+Shot Chart Detail,0022400004,161,1628384,OG Anunoby,1610612752,New York Knicks,2,11,30,Made Shot,Cutting Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-34,39,1,1,20241112,PHI,NYK
+Shot Chart Detail,0022400004,285,1628384,OG Anunoby,1610612752,New York Knicks,2,4,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-170,217,1,1,20241112,PHI,NYK
+Shot Chart Detail,0022400004,365,1628384,OG Anunoby,1610612752,New York Knicks,3,10,25,Made Shot,Running Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,0,1,1,20241112,PHI,NYK
+Shot Chart Detail,0022400004,377,1628384,OG Anunoby,1610612752,New York Knicks,3,9,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-181,166,1,1,20241112,PHI,NYK
+Shot Chart Detail,0022400004,549,1628384,OG Anunoby,1610612752,New York Knicks,4,10,37,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,8,1,1,20241112,PHI,NYK
+Shot Chart Detail,0022400004,573,1628384,OG Anunoby,1610612752,New York Knicks,4,8,41,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,0,1,1,20241112,PHI,NYK
+Shot Chart Detail,0022400004,590,1628384,OG Anunoby,1610612752,New York Knicks,4,7,30,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,-1,1,1,20241112,PHI,NYK
+Shot Chart Detail,0022400004,674,1628384,OG Anunoby,1610612752,New York Knicks,4,0,49,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,8,1,1,20241112,PHI,NYK
+Shot Chart Detail,0022400014,7,1628384,OG Anunoby,1610612752,New York Knicks,1,11,38,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,7,1,1,20241115,NYK,BKN
+Shot Chart Detail,0022400014,73,1628384,OG Anunoby,1610612752,New York Knicks,1,5,2,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,10,1,1,20241115,NYK,BKN
+Shot Chart Detail,0022400014,114,1628384,OG Anunoby,1610612752,New York Knicks,1,0,54,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,7,1,1,20241115,NYK,BKN
+Shot Chart Detail,0022400014,123,1628384,OG Anunoby,1610612752,New York Knicks,1,0,18,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,10,1,1,20241115,NYK,BKN
+Shot Chart Detail,0022400014,232,1628384,OG Anunoby,1610612752,New York Knicks,2,4,57,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,7,1,1,20241115,NYK,BKN
+Shot Chart Detail,0022400014,334,1628384,OG Anunoby,1610612752,New York Knicks,3,9,14,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-9,-4,1,1,20241115,NYK,BKN
+Shot Chart Detail,0022400014,385,1628384,OG Anunoby,1610612752,New York Knicks,3,5,47,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,30,1,1,20241115,NYK,BKN
+Shot Chart Detail,0022400014,402,1628384,OG Anunoby,1610612752,New York Knicks,3,4,26,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,11,1,1,20241115,NYK,BKN
+Shot Chart Detail,0022400014,406,1628384,OG Anunoby,1610612752,New York Knicks,3,3,59,Made Shot,Running Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,0,1,1,20241115,NYK,BKN
+Shot Chart Detail,0022400014,575,1628384,OG Anunoby,1610612752,New York Knicks,4,5,37,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,86,30,1,1,20241115,NYK,BKN
+Shot Chart Detail,0022400040,40,1628384,OG Anunoby,1610612752,New York Knicks,1,7,12,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,4,1,1,20241129,CHA,NYK
+Shot Chart Detail,0022400040,207,1628384,OG Anunoby,1610612752,New York Knicks,2,7,13,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-6,13,1,1,20241129,CHA,NYK
+Shot Chart Detail,0022400040,366,1628384,OG Anunoby,1610612752,New York Knicks,3,6,49,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,15,1,1,20241129,CHA,NYK
+Shot Chart Detail,0022400053,54,1628384,OG Anunoby,1610612752,New York Knicks,1,6,25,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,32,1,1,20241203,NYK,ORL
+Shot Chart Detail,0022400053,84,1628384,OG Anunoby,1610612752,New York Knicks,1,4,6,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,8,1,1,20241203,NYK,ORL
+Shot Chart Detail,0022400053,262,1628384,OG Anunoby,1610612752,New York Knicks,2,3,1,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,10,1,1,20241203,NYK,ORL
+Shot Chart Detail,0022400053,293,1628384,OG Anunoby,1610612752,New York Knicks,2,1,3,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,11,1,1,20241203,NYK,ORL
+Shot Chart Detail,0022400053,341,1628384,OG Anunoby,1610612752,New York Knicks,3,10,17,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,20,1,1,20241203,NYK,ORL
+Shot Chart Detail,0022400053,397,1628384,OG Anunoby,1610612752,New York Knicks,3,6,12,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,3,1,1,20241203,NYK,ORL
+Shot Chart Detail,0022400053,587,1628384,OG Anunoby,1610612752,New York Knicks,4,6,6,Made Shot,Running Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,6,1,1,20241203,NYK,ORL
+Shot Chart Detail,0022400061,9,1628384,OG Anunoby,1610612752,New York Knicks,1,11,27,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,36,46,1,1,20241022,BOS,NYK
+Shot Chart Detail,0022400081,22,1628384,OG Anunoby,1610612752,New York Knicks,1,10,22,Made Shot,Fadeaway Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-47,25,1,1,20241025,NYK,IND
+Shot Chart Detail,0022400081,121,1628384,OG Anunoby,1610612752,New York Knicks,1,1,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,212,142,1,1,20241025,NYK,IND
+Shot Chart Detail,0022400081,215,1628384,OG Anunoby,1610612752,New York Knicks,2,7,15,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,0,1,1,20241025,NYK,IND
+Shot Chart Detail,0022400081,269,1628384,OG Anunoby,1610612752,New York Knicks,2,2,27,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-17,15,1,1,20241025,NYK,IND
+Shot Chart Detail,0022400081,337,1628384,OG Anunoby,1610612752,New York Knicks,3,8,44,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,9,1,1,20241025,NYK,IND
+Shot Chart Detail,0022400081,468,1628384,OG Anunoby,1610612752,New York Knicks,4,11,50,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,8,1,1,20241025,NYK,IND
+Shot Chart Detail,0022400106,12,1628384,OG Anunoby,1610612752,New York Knicks,1,10,51,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-61,17,1,1,20241028,NYK,CLE
+Shot Chart Detail,0022400106,56,1628384,OG Anunoby,1610612752,New York Knicks,1,6,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,16,1,1,20241028,NYK,CLE
+Shot Chart Detail,0022400106,173,1628384,OG Anunoby,1610612752,New York Knicks,2,11,38,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,91,108,1,1,20241028,NYK,CLE
+Shot Chart Detail,0022400106,394,1628384,OG Anunoby,1610612752,New York Knicks,3,6,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,15,1,1,20241028,NYK,CLE
+Shot Chart Detail,0022400106,416,1628384,OG Anunoby,1610612752,New York Knicks,3,4,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,172,181,1,1,20241028,NYK,CLE
+Shot Chart Detail,0022400106,507,1628384,OG Anunoby,1610612752,New York Knicks,4,10,49,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,131,59,1,1,20241028,NYK,CLE
+Shot Chart Detail,0022400106,677,1628384,OG Anunoby,1610612752,New York Knicks,4,0,9,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-6,16,1,1,20241028,NYK,CLE
+Shot Chart Detail,0022400122,57,1628384,OG Anunoby,1610612752,New York Knicks,1,6,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,15,263,1,1,20241030,MIA,NYK
+Shot Chart Detail,0022400122,333,1628384,OG Anunoby,1610612752,New York Knicks,3,11,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,157,205,1,1,20241030,MIA,NYK
+Shot Chart Detail,0022400122,385,1628384,OG Anunoby,1610612752,New York Knicks,3,6,7,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-100,232,1,1,20241030,MIA,NYK
+Shot Chart Detail,0022400134,25,1628384,OG Anunoby,1610612752,New York Knicks,1,9,51,Made Shot,Running Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,6,1,1,20241101,DET,NYK
+Shot Chart Detail,0022400134,41,1628384,OG Anunoby,1610612752,New York Knicks,1,8,13,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,190,182,1,1,20241101,DET,NYK
+Shot Chart Detail,0022400134,53,1628384,OG Anunoby,1610612752,New York Knicks,1,7,14,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,6,1,1,20241101,DET,NYK
+Shot Chart Detail,0022400134,64,1628384,OG Anunoby,1610612752,New York Knicks,1,6,3,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,11,-73,90,1,1,20241101,DET,NYK
+Shot Chart Detail,0022400134,297,1628384,OG Anunoby,1610612752,New York Knicks,2,0,44,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,8,1,1,20241101,DET,NYK
+Shot Chart Detail,0022400134,363,1628384,OG Anunoby,1610612752,New York Knicks,3,7,36,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,10,1,1,20241101,DET,NYK
+Shot Chart Detail,0022400134,389,1628384,OG Anunoby,1610612752,New York Knicks,3,4,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-25,256,1,1,20241101,DET,NYK
+Shot Chart Detail,0022400134,483,1628384,OG Anunoby,1610612752,New York Knicks,4,9,33,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,43,1,1,20241101,DET,NYK
+Shot Chart Detail,0022400161,50,1628384,OG Anunoby,1610612752,New York Knicks,1,7,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-228,119,1,1,20241104,HOU,NYK
+Shot Chart Detail,0022400161,119,1628384,OG Anunoby,1610612752,New York Knicks,1,1,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-222,148,1,1,20241104,HOU,NYK
+Shot Chart Detail,0022400161,252,1628384,OG Anunoby,1610612752,New York Knicks,2,4,38,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,9,1,1,20241104,HOU,NYK
+Shot Chart Detail,0022400161,294,1628384,OG Anunoby,1610612752,New York Knicks,2,2,3,Made Shot,Running Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,240,68,1,1,20241104,HOU,NYK
+Shot Chart Detail,0022400161,314,1628384,OG Anunoby,1610612752,New York Knicks,2,0,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,32,16,1,1,20241104,HOU,NYK
+Shot Chart Detail,0022400161,441,1628384,OG Anunoby,1610612752,New York Knicks,3,3,9,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-115,37,1,1,20241104,HOU,NYK
+Shot Chart Detail,0022400161,497,1628384,OG Anunoby,1610612752,New York Knicks,4,11,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,207,162,1,1,20241104,HOU,NYK
+Shot Chart Detail,0022400171,215,1628384,OG Anunoby,1610612752,New York Knicks,2,7,45,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,59,1,1,20241106,ATL,NYK
+Shot Chart Detail,0022400171,224,1628384,OG Anunoby,1610612752,New York Knicks,2,7,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-181,174,1,1,20241106,ATL,NYK
+Shot Chart Detail,0022400171,330,1628384,OG Anunoby,1610612752,New York Knicks,3,10,49,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,2,60,1,1,20241106,ATL,NYK
+Shot Chart Detail,0022400171,334,1628384,OG Anunoby,1610612752,New York Knicks,3,10,24,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,-13,1,1,20241106,ATL,NYK
+Shot Chart Detail,0022400171,372,1628384,OG Anunoby,1610612752,New York Knicks,3,7,9,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,12,1,1,20241106,ATL,NYK
+Shot Chart Detail,0022400189,73,1628384,OG Anunoby,1610612752,New York Knicks,1,6,38,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,-9,1,1,20241108,NYK,MIL
+Shot Chart Detail,0022400189,213,1628384,OG Anunoby,1610612752,New York Knicks,2,7,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-224,127,1,1,20241108,NYK,MIL
+Shot Chart Detail,0022400189,507,1628384,OG Anunoby,1610612752,New York Knicks,4,8,38,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,0,1,1,20241108,NYK,MIL
+Shot Chart Detail,0022400189,561,1628384,OG Anunoby,1610612752,New York Knicks,4,5,53,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,6,1,1,20241108,NYK,MIL
+Shot Chart Detail,0022400203,23,1628384,OG Anunoby,1610612752,New York Knicks,1,10,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-140,209,1,1,20241110,IND,NYK
+Shot Chart Detail,0022400203,50,1628384,OG Anunoby,1610612752,New York Knicks,1,7,41,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-6,1,1,20241110,IND,NYK
+Shot Chart Detail,0022400203,98,1628384,OG Anunoby,1610612752,New York Knicks,1,4,27,Made Shot,Cutting Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,6,21,1,1,20241110,IND,NYK
+Shot Chart Detail,0022400203,184,1628384,OG Anunoby,1610612752,New York Knicks,2,10,16,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,-4,1,1,20241110,IND,NYK
+Shot Chart Detail,0022400203,188,1628384,OG Anunoby,1610612752,New York Knicks,2,9,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,4,29,1,1,20241110,IND,NYK
+Shot Chart Detail,0022400203,238,1628384,OG Anunoby,1610612752,New York Knicks,2,6,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-59,256,1,1,20241110,IND,NYK
+Shot Chart Detail,0022400203,310,1628384,OG Anunoby,1610612752,New York Knicks,2,1,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,121,148,1,1,20241110,IND,NYK
+Shot Chart Detail,0022400203,472,1628384,OG Anunoby,1610612752,New York Knicks,3,1,55,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20241110,IND,NYK
+Shot Chart Detail,0022400203,586,1628384,OG Anunoby,1610612752,New York Knicks,4,5,43,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,11,1,1,20241110,IND,NYK
+Shot Chart Detail,0022400219,82,1628384,OG Anunoby,1610612752,New York Knicks,1,4,49,Made Shot,Step Back Jump shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-222,1,1,1,20241113,NYK,CHI
+Shot Chart Detail,0022400219,425,1628384,OG Anunoby,1610612752,New York Knicks,3,5,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-21,253,1,1,20241113,NYK,CHI
+Shot Chart Detail,0022400219,590,1628384,OG Anunoby,1610612752,New York Knicks,4,4,38,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,7,1,1,20241113,NYK,CHI
+Shot Chart Detail,0022400219,606,1628384,OG Anunoby,1610612752,New York Knicks,4,3,51,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,2,1,1,20241113,NYK,CHI
+Shot Chart Detail,0022400219,628,1628384,OG Anunoby,1610612752,New York Knicks,4,1,37,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,2,1,1,20241113,NYK,CHI
+Shot Chart Detail,0022400240,70,1628384,OG Anunoby,1610612752,New York Knicks,1,6,6,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,6,1,1,20241117,NYK,BKN
+Shot Chart Detail,0022400240,106,1628384,OG Anunoby,1610612752,New York Knicks,1,4,21,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,237,94,1,1,20241117,NYK,BKN
+Shot Chart Detail,0022400240,149,1628384,OG Anunoby,1610612752,New York Knicks,1,1,31,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,-3,1,1,20241117,NYK,BKN
+Shot Chart Detail,0022400240,153,1628384,OG Anunoby,1610612752,New York Knicks,1,1,0,Made Shot,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,7,1,1,20241117,NYK,BKN
+Shot Chart Detail,0022400240,231,1628384,OG Anunoby,1610612752,New York Knicks,2,7,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-224,123,1,1,20241117,NYK,BKN
+Shot Chart Detail,0022400240,270,1628384,OG Anunoby,1610612752,New York Knicks,2,4,17,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,65,248,1,1,20241117,NYK,BKN
+Shot Chart Detail,0022400240,291,1628384,OG Anunoby,1610612752,New York Knicks,2,1,32,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,67,200,1,1,20241117,NYK,BKN
+Shot Chart Detail,0022400240,330,1628384,OG Anunoby,1610612752,New York Knicks,3,10,52,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,4,1,1,20241117,NYK,BKN
+Shot Chart Detail,0022400240,593,1628384,OG Anunoby,1610612752,New York Knicks,4,4,49,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20241117,NYK,BKN
+Shot Chart Detail,0022400246,9,1628384,OG Anunoby,1610612752,New York Knicks,1,11,23,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-22,6,1,1,20241118,NYK,WAS
+Shot Chart Detail,0022400246,100,1628384,OG Anunoby,1610612752,New York Knicks,1,3,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,119,196,1,1,20241118,NYK,WAS
+Shot Chart Detail,0022400246,104,1628384,OG Anunoby,1610612752,New York Knicks,1,3,11,Made Shot,Running Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,1,1,1,20241118,NYK,WAS
+Shot Chart Detail,0022400246,341,1628384,OG Anunoby,1610612752,New York Knicks,3,8,55,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,-1,1,1,20241118,NYK,WAS
+Shot Chart Detail,0022400246,351,1628384,OG Anunoby,1610612752,New York Knicks,3,8,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-134,210,1,1,20241118,NYK,WAS
+Shot Chart Detail,0022400246,355,1628384,OG Anunoby,1610612752,New York Knicks,3,7,31,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,4,1,1,20241118,NYK,WAS
+Shot Chart Detail,0022400257,17,1628384,OG Anunoby,1610612752,New York Knicks,1,10,14,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,162,199,1,1,20241120,PHX,NYK
+Shot Chart Detail,0022400257,79,1628384,OG Anunoby,1610612752,New York Knicks,1,4,38,Made Shot,Running Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,8,1,1,20241120,PHX,NYK
+Shot Chart Detail,0022400257,83,1628384,OG Anunoby,1610612752,New York Knicks,1,4,13,Made Shot,Running Alley Oop Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,4,1,1,20241120,PHX,NYK
+Shot Chart Detail,0022400257,120,1628384,OG Anunoby,1610612752,New York Knicks,1,0,47,Made Shot,Step Back Jump shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-221,87,1,1,20241120,PHX,NYK
+Shot Chart Detail,0022400264,94,1628384,OG Anunoby,1610612752,New York Knicks,1,5,17,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-228,36,1,1,20241123,UTA,NYK
+Shot Chart Detail,0022400264,111,1628384,OG Anunoby,1610612752,New York Knicks,1,4,28,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-229,82,1,1,20241123,UTA,NYK
+Shot Chart Detail,0022400264,118,1628384,OG Anunoby,1610612752,New York Knicks,1,4,0,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,59,1,1,20241123,UTA,NYK
+Shot Chart Detail,0022400264,260,1628384,OG Anunoby,1610612752,New York Knicks,2,6,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-151,208,1,1,20241123,UTA,NYK
+Shot Chart Detail,0022400264,365,1628384,OG Anunoby,1610612752,New York Knicks,3,8,36,Made Shot,Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-32,26,1,1,20241123,UTA,NYK
+Shot Chart Detail,0022400264,413,1628384,OG Anunoby,1610612752,New York Knicks,3,5,59,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-233,62,1,1,20241123,UTA,NYK
+Shot Chart Detail,0022400264,417,1628384,OG Anunoby,1610612752,New York Knicks,3,5,37,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-27,26,1,1,20241123,UTA,NYK
+Shot Chart Detail,0022400264,439,1628384,OG Anunoby,1610612752,New York Knicks,3,4,12,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,1,20,1,1,20241123,UTA,NYK
+Shot Chart Detail,0022400264,447,1628384,OG Anunoby,1610612752,New York Knicks,3,3,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-75,243,1,1,20241123,UTA,NYK
+Shot Chart Detail,0022400264,626,1628384,OG Anunoby,1610612752,New York Knicks,4,1,47,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-229,36,1,1,20241123,UTA,NYK
+Shot Chart Detail,0022400283,32,1628384,OG Anunoby,1610612752,New York Knicks,1,8,31,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,115,61,1,1,20241125,DEN,NYK
+Shot Chart Detail,0022400283,63,1628384,OG Anunoby,1610612752,New York Knicks,1,5,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-75,246,1,1,20241125,DEN,NYK
+Shot Chart Detail,0022400283,86,1628384,OG Anunoby,1610612752,New York Knicks,1,3,32,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-75,167,1,1,20241125,DEN,NYK
+Shot Chart Detail,0022400283,94,1628384,OG Anunoby,1610612752,New York Knicks,1,2,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,55,247,1,1,20241125,DEN,NYK
+Shot Chart Detail,0022400283,131,1628384,OG Anunoby,1610612752,New York Knicks,1,0,2,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,4,35,1,1,20241125,DEN,NYK
+Shot Chart Detail,0022400283,230,1628384,OG Anunoby,1610612752,New York Knicks,2,5,49,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,7,26,1,1,20241125,DEN,NYK
+Shot Chart Detail,0022400283,281,1628384,OG Anunoby,1610612752,New York Knicks,2,2,20,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,16,1,1,20241125,DEN,NYK
+Shot Chart Detail,0022400283,294,1628384,OG Anunoby,1610612752,New York Knicks,2,0,50,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,11,1,1,20241125,DEN,NYK
+Shot Chart Detail,0022400283,347,1628384,OG Anunoby,1610612752,New York Knicks,3,10,8,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,13,1,1,20241125,DEN,NYK
+Shot Chart Detail,0022400283,356,1628384,OG Anunoby,1610612752,New York Knicks,3,9,12,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,12,1,1,20241125,DEN,NYK
+Shot Chart Detail,0022400283,427,1628384,OG Anunoby,1610612752,New York Knicks,3,3,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,4,1,1,20241125,DEN,NYK
+Shot Chart Detail,0022400283,433,1628384,OG Anunoby,1610612752,New York Knicks,3,3,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-178,191,1,1,20241125,DEN,NYK
+Shot Chart Detail,0022400283,452,1628384,OG Anunoby,1610612752,New York Knicks,3,2,16,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,227,83,1,1,20241125,DEN,NYK
+Shot Chart Detail,0022400283,463,1628384,OG Anunoby,1610612752,New York Knicks,3,1,0,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-56,83,1,1,20241125,DEN,NYK
+Shot Chart Detail,0022400283,467,1628384,OG Anunoby,1610612752,New York Knicks,3,0,31,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-239,48,1,1,20241125,DEN,NYK
+Shot Chart Detail,0022400283,591,1628384,OG Anunoby,1610612752,New York Knicks,4,4,4,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,4,1,1,20241125,DEN,NYK
+Shot Chart Detail,0022400292,544,1628384,OG Anunoby,1610612752,New York Knicks,4,7,36,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,13,1,1,20241127,DAL,NYK
+Shot Chart Detail,0022400292,577,1628384,OG Anunoby,1610612752,New York Knicks,4,4,55,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,13,20,1,1,20241127,DAL,NYK
+Shot Chart Detail,0022400292,601,1628384,OG Anunoby,1610612752,New York Knicks,4,2,10,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,0,1,1,20241127,DAL,NYK
+Shot Chart Detail,0022400308,261,1628384,OG Anunoby,1610612752,New York Knicks,2,6,14,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,6,1,1,20241201,NYK,NOP
+Shot Chart Detail,0022400308,296,1628384,OG Anunoby,1610612752,New York Knicks,2,3,49,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,4,1,1,20241201,NYK,NOP
+Shot Chart Detail,0022400327,32,1628384,OG Anunoby,1610612752,New York Knicks,1,9,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,-4,1,1,20241205,NYK,CHA
+Shot Chart Detail,0022400327,230,1628384,OG Anunoby,1610612752,New York Knicks,2,4,29,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-6,11,1,1,20241205,NYK,CHA
+Shot Chart Detail,0022400327,269,1628384,OG Anunoby,1610612752,New York Knicks,2,1,33,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,-4,1,1,20241205,NYK,CHA
+Shot Chart Detail,0022400327,273,1628384,OG Anunoby,1610612752,New York Knicks,2,1,12,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,-6,1,1,20241205,NYK,CHA
+Shot Chart Detail,0022400327,346,1628384,OG Anunoby,1610612752,New York Knicks,3,7,54,Made Shot,Running Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,225,68,1,1,20241205,NYK,CHA
+Shot Chart Detail,0022400327,362,1628384,OG Anunoby,1610612752,New York Knicks,3,6,46,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20241205,NYK,CHA
+Shot Chart Detail,0022400327,366,1628384,OG Anunoby,1610612752,New York Knicks,3,6,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-120,216,1,1,20241205,NYK,CHA
+Shot Chart Detail,0022400327,411,1628384,OG Anunoby,1610612752,New York Knicks,3,2,59,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,-1,1,1,20241205,NYK,CHA
+Shot Chart Detail,0022400327,438,1628384,OG Anunoby,1610612752,New York Knicks,3,1,27,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,229,25,1,1,20241205,NYK,CHA
+Shot Chart Detail,0022400327,558,1628384,OG Anunoby,1610612752,New York Knicks,4,2,47,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,4,1,1,20241205,NYK,CHA
+Shot Chart Detail,0022400343,78,1628384,OG Anunoby,1610612752,New York Knicks,1,5,0,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-229,34,1,1,20241207,NYK,DET
+Shot Chart Detail,0022400343,367,1628384,OG Anunoby,1610612752,New York Knicks,3,7,57,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20241207,NYK,DET
+Shot Chart Detail,0022400343,375,1628384,OG Anunoby,1610612752,New York Knicks,3,7,30,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,9,24,1,1,20241207,NYK,DET
+Shot Chart Detail,0022400343,399,1628384,OG Anunoby,1610612752,New York Knicks,3,5,54,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,9,41,1,1,20241207,NYK,DET
+Shot Chart Detail,0022400343,442,1628384,OG Anunoby,1610612752,New York Knicks,3,2,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,9,1,1,20241207,NYK,DET
+Shot Chart Detail,0022400343,591,1628384,OG Anunoby,1610612752,New York Knicks,4,2,21,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,3,1,1,20241207,NYK,DET
+Shot Chart Detail,0022400359,20,1628384,OG Anunoby,1610612752,New York Knicks,1,9,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-60,243,1,1,20241209,TOR,NYK
+Shot Chart Detail,0022400359,24,1628384,OG Anunoby,1610612752,New York Knicks,1,9,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,6,1,1,20241209,TOR,NYK
+Shot Chart Detail,0022400359,224,1628384,OG Anunoby,1610612752,New York Knicks,2,6,39,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,-4,1,1,20241209,TOR,NYK
+Shot Chart Detail,0022400359,241,1628384,OG Anunoby,1610612752,New York Knicks,2,5,19,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,-16,1,1,20241209,TOR,NYK
+Shot Chart Detail,0022400359,390,1628384,OG Anunoby,1610612752,New York Knicks,3,9,4,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,8,1,1,20241209,TOR,NYK
+Shot Chart Detail,0022400359,481,1628384,OG Anunoby,1610612752,New York Knicks,3,2,33,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,5,1,1,20241209,TOR,NYK
+Shot Chart Detail,0022400367,12,1628384,OG Anunoby,1610612752,New York Knicks,1,10,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-192,155,1,1,20241219,MIN,NYK
+Shot Chart Detail,0022400367,147,1628384,OG Anunoby,1610612752,New York Knicks,1,0,0,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,11,1,1,20241219,MIN,NYK
+Shot Chart Detail,0022400367,293,1628384,OG Anunoby,1610612752,New York Knicks,2,2,22,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-9,1,1,1,20241219,MIN,NYK
+Shot Chart Detail,0022400384,25,1628384,OG Anunoby,1610612752,New York Knicks,1,10,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,3,1,1,20241221,NOP,NYK
+Shot Chart Detail,0022400384,98,1628384,OG Anunoby,1610612752,New York Knicks,1,3,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,132,232,1,1,20241221,NOP,NYK
+Shot Chart Detail,0022400384,239,1628384,OG Anunoby,1610612752,New York Knicks,2,6,35,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,4,1,1,20241221,NOP,NYK
+Shot Chart Detail,0022400384,329,1628384,OG Anunoby,1610612752,New York Knicks,2,0,35,Made Shot,Driving Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,6,1,1,20241221,NOP,NYK
+Shot Chart Detail,0022400384,376,1628384,OG Anunoby,1610612752,New York Knicks,3,9,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,-1,1,1,20241221,NOP,NYK
+Shot Chart Detail,0022400384,405,1628384,OG Anunoby,1610612752,New York Knicks,3,7,16,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,1,1,1,20241221,NOP,NYK
+Shot Chart Detail,0022400397,71,1628384,OG Anunoby,1610612752,New York Knicks,1,5,38,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,-2,1,1,20241223,NYK,TOR
+Shot Chart Detail,0022400397,122,1628384,OG Anunoby,1610612752,New York Knicks,1,2,50,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,10,1,1,20241223,NYK,TOR
+Shot Chart Detail,0022400397,207,1628384,OG Anunoby,1610612752,New York Knicks,2,8,44,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,13,1,1,20241223,NYK,TOR
+Shot Chart Detail,0022400397,229,1628384,OG Anunoby,1610612752,New York Knicks,2,7,26,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,3,1,1,20241223,NYK,TOR
+Shot Chart Detail,0022400397,272,1628384,OG Anunoby,1610612752,New York Knicks,2,4,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,104,231,1,1,20241223,NYK,TOR
+Shot Chart Detail,0022400397,336,1628384,OG Anunoby,1610612752,New York Knicks,2,0,3,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,10,1,1,20241223,NYK,TOR
+Shot Chart Detail,0022400397,384,1628384,OG Anunoby,1610612752,New York Knicks,3,8,27,Made Shot,Running Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,32,1,1,20241223,NYK,TOR
+Shot Chart Detail,0022400397,449,1628384,OG Anunoby,1610612752,New York Knicks,3,4,52,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,4,1,1,20241223,NYK,TOR
+Shot Chart Detail,0022400397,469,1628384,OG Anunoby,1610612752,New York Knicks,3,3,55,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,114,122,1,1,20241223,NYK,TOR
+Shot Chart Detail,0022400397,472,1628384,OG Anunoby,1610612752,New York Knicks,3,3,32,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,239,6,1,1,20241223,NYK,TOR
+Shot Chart Detail,0022400397,477,1628384,OG Anunoby,1610612752,New York Knicks,3,3,3,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-4,44,1,1,20241223,NYK,TOR
+Shot Chart Detail,0022400397,487,1628384,OG Anunoby,1610612752,New York Knicks,3,1,45,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-228,52,1,1,20241223,NYK,TOR
+Shot Chart Detail,0022400397,608,1628384,OG Anunoby,1610612752,New York Knicks,4,6,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,17,1,1,20241223,NYK,TOR
+Shot Chart Detail,0022400405,58,1628384,OG Anunoby,1610612752,New York Knicks,1,7,10,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-17,26,1,1,20241225,NYK,SAS
+Shot Chart Detail,0022400405,397,1628384,OG Anunoby,1610612752,New York Knicks,3,4,50,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,12,1,1,20241225,NYK,SAS
+Shot Chart Detail,0022400405,564,1628384,OG Anunoby,1610612752,New York Knicks,4,4,56,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,238,29,1,1,20241225,NYK,SAS
+Shot Chart Detail,0022400419,15,1628384,OG Anunoby,1610612752,New York Knicks,1,10,43,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,-8,1,1,20241227,ORL,NYK
+Shot Chart Detail,0022400419,30,1628384,OG Anunoby,1610612752,New York Knicks,1,8,38,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,11,-65,99,1,1,20241227,ORL,NYK
+Shot Chart Detail,0022400419,406,1628384,OG Anunoby,1610612752,New York Knicks,3,7,28,Made Shot,Turnaround Bank Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-13,17,1,1,20241227,ORL,NYK
+Shot Chart Detail,0022400419,461,1628384,OG Anunoby,1610612752,New York Knicks,3,3,6,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,15,1,1,20241227,ORL,NYK
+Shot Chart Detail,0022400429,106,1628384,OG Anunoby,1610612752,New York Knicks,1,2,51,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,13,17,1,1,20241228,WAS,NYK
+Shot Chart Detail,0022400429,221,1628384,OG Anunoby,1610612752,New York Knicks,2,6,6,Made Shot,Cutting Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,15,43,1,1,20241228,WAS,NYK
+Shot Chart Detail,0022400429,283,1628384,OG Anunoby,1610612752,New York Knicks,2,1,27,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,15,1,1,20241228,WAS,NYK
+Shot Chart Detail,0022400429,529,1628384,OG Anunoby,1610612752,New York Knicks,4,3,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-154,207,1,1,20241228,WAS,NYK
+Shot Chart Detail,0022400443,79,1628384,OG Anunoby,1610612752,New York Knicks,1,5,56,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-6,27,1,1,20241230,WAS,NYK
+Shot Chart Detail,0022400443,292,1628384,OG Anunoby,1610612752,New York Knicks,2,3,57,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,-16,1,1,20241230,WAS,NYK
+Shot Chart Detail,0022400443,385,1628384,OG Anunoby,1610612752,New York Knicks,3,9,3,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,16,1,1,20241230,WAS,NYK
+Shot Chart Detail,0022400443,391,1628384,OG Anunoby,1610612752,New York Knicks,3,8,32,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-239,-6,1,1,20241230,WAS,NYK
+Shot Chart Detail,0022400443,426,1628384,OG Anunoby,1610612752,New York Knicks,3,5,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,113,228,1,1,20241230,WAS,NYK
+Shot Chart Detail,0022400458,85,1628384,OG Anunoby,1610612752,New York Knicks,1,5,10,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,10,1,1,20250101,NYK,UTA
+Shot Chart Detail,0022400458,97,1628384,OG Anunoby,1610612752,New York Knicks,1,3,38,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,6,1,1,20250101,NYK,UTA
+Shot Chart Detail,0022400458,256,1628384,OG Anunoby,1610612752,New York Knicks,2,4,31,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,5,13,1,1,20250101,NYK,UTA
+Shot Chart Detail,0022400458,329,1628384,OG Anunoby,1610612752,New York Knicks,3,11,17,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,0,31,1,1,20250101,NYK,UTA
+Shot Chart Detail,0022400458,398,1628384,OG Anunoby,1610612752,New York Knicks,3,5,59,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,5,1,1,20250101,NYK,UTA
+Shot Chart Detail,0022400458,407,1628384,OG Anunoby,1610612752,New York Knicks,3,5,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,152,196,1,1,20250101,NYK,UTA
+Shot Chart Detail,0022400458,463,1628384,OG Anunoby,1610612752,New York Knicks,3,2,0,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,-5,1,1,20250101,NYK,UTA
+Shot Chart Detail,0022400458,472,1628384,OG Anunoby,1610612752,New York Knicks,3,1,29,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,1,1,1,20250101,NYK,UTA
+Shot Chart Detail,0022400458,556,1628384,OG Anunoby,1610612752,New York Knicks,4,7,51,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,13,1,1,20250101,NYK,UTA
+Shot Chart Detail,0022400458,638,1628384,OG Anunoby,1610612752,New York Knicks,4,1,51,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,13,1,1,20250101,NYK,UTA
+Shot Chart Detail,0022400473,23,1628384,OG Anunoby,1610612752,New York Knicks,1,9,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-173,199,1,1,20250103,OKC,NYK
+Shot Chart Detail,0022400473,50,1628384,OG Anunoby,1610612752,New York Knicks,1,7,1,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,147,-1,1,1,20250103,OKC,NYK
+Shot Chart Detail,0022400473,86,1628384,OG Anunoby,1610612752,New York Knicks,1,3,58,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,56,29,1,1,20250103,OKC,NYK
+Shot Chart Detail,0022400473,187,1628384,OG Anunoby,1610612752,New York Knicks,2,8,11,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-224,42,1,1,20250103,OKC,NYK
+Shot Chart Detail,0022400473,225,1628384,OG Anunoby,1610612752,New York Knicks,2,5,26,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-228,79,1,1,20250103,OKC,NYK
+Shot Chart Detail,0022400473,370,1628384,OG Anunoby,1610612752,New York Knicks,3,5,55,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1,15,1,1,20250103,OKC,NYK
+Shot Chart Detail,0022400473,402,1628384,OG Anunoby,1610612752,New York Knicks,3,3,59,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,-2,1,1,20250103,OKC,NYK
+Shot Chart Detail,0022400482,13,1628384,OG Anunoby,1610612752,New York Knicks,1,10,57,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,1,1,1,20250104,CHI,NYK
+Shot Chart Detail,0022400482,20,1628384,OG Anunoby,1610612752,New York Knicks,1,10,40,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-138,227,1,1,20250104,CHI,NYK
+Shot Chart Detail,0022400482,143,1628384,OG Anunoby,1610612752,New York Knicks,1,1,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,102,246,1,1,20250104,CHI,NYK
+Shot Chart Detail,0022400482,396,1628384,OG Anunoby,1610612752,New York Knicks,3,6,8,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-17,73,1,1,20250104,CHI,NYK
+Shot Chart Detail,0022400482,626,1628384,OG Anunoby,1610612752,New York Knicks,4,1,58,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-29,35,1,1,20250104,CHI,NYK
+Shot Chart Detail,0022400496,55,1628384,OG Anunoby,1610612752,New York Knicks,1,6,29,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,5,1,1,20250106,NYK,ORL
+Shot Chart Detail,0022400496,294,1628384,OG Anunoby,1610612752,New York Knicks,2,0,14,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-1,28,1,1,20250106,NYK,ORL
+Shot Chart Detail,0022400496,327,1628384,OG Anunoby,1610612752,New York Knicks,3,10,38,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,33,78,1,1,20250106,NYK,ORL
+Shot Chart Detail,0022400496,334,1628384,OG Anunoby,1610612752,New York Knicks,3,9,18,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,9,1,1,20250106,NYK,ORL
+Shot Chart Detail,0022400511,103,1628384,OG Anunoby,1610612752,New York Knicks,1,2,20,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,15,1,1,20250108,NYK,TOR
+Shot Chart Detail,0022400511,208,1628384,OG Anunoby,1610612752,New York Knicks,2,7,47,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,222,5,1,1,20250108,NYK,TOR
+Shot Chart Detail,0022400511,238,1628384,OG Anunoby,1610612752,New York Knicks,2,5,54,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,8,1,1,20250108,NYK,TOR
+Shot Chart Detail,0022400511,253,1628384,OG Anunoby,1610612752,New York Knicks,2,4,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,102,19,1,1,20250108,NYK,TOR
+Shot Chart Detail,0022400511,284,1628384,OG Anunoby,1610612752,New York Knicks,2,1,1,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,-1,1,1,20250108,NYK,TOR
+Shot Chart Detail,0022400511,355,1628384,OG Anunoby,1610612752,New York Knicks,3,7,58,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-225,76,1,1,20250108,NYK,TOR
+Shot Chart Detail,0022400511,546,1628384,OG Anunoby,1610612752,New York Knicks,4,6,39,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,2,1,1,20250108,NYK,TOR
+Shot Chart Detail,0022400511,568,1628384,OG Anunoby,1610612752,New York Knicks,4,5,44,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,12,1,1,20250108,NYK,TOR
+Shot Chart Detail,0022400529,355,1628384,OG Anunoby,1610612752,New York Knicks,3,8,12,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,4,1,1,20250110,NYK,OKC
+Shot Chart Detail,0022400529,534,1628384,OG Anunoby,1610612752,New York Knicks,4,6,37,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20250110,NYK,OKC
+Shot Chart Detail,0022400539,299,1628384,OG Anunoby,1610612752,New York Knicks,2,2,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-233,90,1,1,20250112,NYK,MIL
+Shot Chart Detail,0022400539,329,1628384,OG Anunoby,1610612752,New York Knicks,3,11,8,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,4,1,1,20250112,NYK,MIL
+Shot Chart Detail,0022400539,358,1628384,OG Anunoby,1610612752,New York Knicks,3,8,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,13,1,1,20250112,NYK,MIL
+Shot Chart Detail,0022400539,394,1628384,OG Anunoby,1610612752,New York Knicks,3,6,39,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,9,1,1,20250112,NYK,MIL
+Shot Chart Detail,0022400539,436,1628384,OG Anunoby,1610612752,New York Knicks,3,2,15,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,4,1,1,20250112,NYK,MIL
+Shot Chart Detail,0022400549,73,1628384,OG Anunoby,1610612752,New York Knicks,1,6,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,-206,66,1,1,20250113,NYK,DET
+Shot Chart Detail,0022400549,103,1628384,OG Anunoby,1610612752,New York Knicks,1,3,59,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-36,40,1,1,20250113,NYK,DET
+Shot Chart Detail,0022400549,394,1628384,OG Anunoby,1610612752,New York Knicks,3,8,31,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,30,6,1,1,20250113,NYK,DET
+Shot Chart Detail,0022400549,457,1628384,OG Anunoby,1610612752,New York Knicks,3,2,44,Made Shot,Driving Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-36,36,1,1,20250113,NYK,DET
+Shot Chart Detail,0022400549,591,1628384,OG Anunoby,1610612752,New York Knicks,4,4,53,Made Shot,Tip Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-33,33,1,1,20250113,NYK,DET
+Shot Chart Detail,0022401202,59,1628384,OG Anunoby,1610612752,New York Knicks,1,8,5,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,11,1,1,20241211,NYK,ATL
+Shot Chart Detail,0022401202,205,1628384,OG Anunoby,1610612752,New York Knicks,2,8,55,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,7,1,1,20241211,NYK,ATL
+Shot Chart Detail,0022401202,257,1628384,OG Anunoby,1610612752,New York Knicks,2,5,42,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,8,1,1,20241211,NYK,ATL
+Shot Chart Detail,0022401202,363,1628384,OG Anunoby,1610612752,New York Knicks,3,11,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-104,222,1,1,20241211,NYK,ATL
+Shot Chart Detail,0022401202,415,1628384,OG Anunoby,1610612752,New York Knicks,3,7,34,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,8,1,1,20241211,NYK,ATL
+Shot Chart Detail,0022401227,11,1628384,OG Anunoby,1610612752,New York Knicks,1,11,15,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-16,12,1,1,20241215,ORL,NYK
+Shot Chart Detail,0022401227,328,1628384,OG Anunoby,1610612752,New York Knicks,2,0,11,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,29,1,1,20241215,ORL,NYK
+Shot Chart Detail,0022401227,481,1628384,OG Anunoby,1610612752,New York Knicks,4,11,26,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,26,1,1,20241215,ORL,NYK

@@ -1,0 +1,531 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0022300003,15,1628389,Bam Adebayo,1610612748,Miami Heat,1,10,47,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,13,16,1,1,20231103,MIA,WAS
+Shot Chart Detail,0022300003,19,1628389,Bam Adebayo,1610612748,Miami Heat,1,10,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,0,159,1,1,20231103,MIA,WAS
+Shot Chart Detail,0022300003,209,1628389,Bam Adebayo,1610612748,Miami Heat,2,6,29,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-96,123,1,1,20231103,MIA,WAS
+Shot Chart Detail,0022300003,221,1628389,Bam Adebayo,1610612748,Miami Heat,2,5,22,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,10,1,1,20231103,MIA,WAS
+Shot Chart Detail,0022300003,298,1628389,Bam Adebayo,1610612748,Miami Heat,3,11,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,116,57,1,1,20231103,MIA,WAS
+Shot Chart Detail,0022300003,308,1628389,Bam Adebayo,1610612748,Miami Heat,3,10,18,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,6,1,1,20231103,MIA,WAS
+Shot Chart Detail,0022300003,323,1628389,Bam Adebayo,1610612748,Miami Heat,3,8,51,Made Shot,Jump Bank Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,16,1,1,20231103,MIA,WAS
+Shot Chart Detail,0022300003,391,1628389,Bam Adebayo,1610612748,Miami Heat,3,2,52,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,2,100,1,1,20231103,MIA,WAS
+Shot Chart Detail,0022300017,7,1628389,Bam Adebayo,1610612748,Miami Heat,1,11,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,124,-4,1,1,20231114,CHA,MIA
+Shot Chart Detail,0022300017,70,1628389,Bam Adebayo,1610612748,Miami Heat,1,5,12,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,-2,1,1,20231114,CHA,MIA
+Shot Chart Detail,0022300017,159,1628389,Bam Adebayo,1610612748,Miami Heat,2,11,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,13,1,1,20231114,CHA,MIA
+Shot Chart Detail,0022300017,222,1628389,Bam Adebayo,1610612748,Miami Heat,2,6,43,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-6,16,1,1,20231114,CHA,MIA
+Shot Chart Detail,0022300017,324,1628389,Bam Adebayo,1610612748,Miami Heat,3,11,17,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,23,73,1,1,20231114,CHA,MIA
+Shot Chart Detail,0022300017,328,1628389,Bam Adebayo,1610612748,Miami Heat,3,10,31,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-12,79,1,1,20231114,CHA,MIA
+Shot Chart Detail,0022300017,331,1628389,Bam Adebayo,1610612748,Miami Heat,3,10,8,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,13,1,1,20231114,CHA,MIA
+Shot Chart Detail,0022300017,561,1628389,Bam Adebayo,1610612748,Miami Heat,4,5,51,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,50,102,1,1,20231114,CHA,MIA
+Shot Chart Detail,0022300045,33,1628389,Bam Adebayo,1610612748,Miami Heat,1,8,56,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,3,1,1,20231124,NYK,MIA
+Shot Chart Detail,0022300045,54,1628389,Bam Adebayo,1610612748,Miami Heat,1,7,0,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,102,101,1,1,20231124,NYK,MIA
+Shot Chart Detail,0022300045,61,1628389,Bam Adebayo,1610612748,Miami Heat,1,6,3,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,6,1,1,20231124,NYK,MIA
+Shot Chart Detail,0022300045,169,1628389,Bam Adebayo,1610612748,Miami Heat,2,8,47,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20231124,NYK,MIA
+Shot Chart Detail,0022300045,190,1628389,Bam Adebayo,1610612748,Miami Heat,2,7,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,141,63,1,1,20231124,NYK,MIA
+Shot Chart Detail,0022300045,303,1628389,Bam Adebayo,1610612748,Miami Heat,3,11,29,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-6,99,1,1,20231124,NYK,MIA
+Shot Chart Detail,0022300045,369,1628389,Bam Adebayo,1610612748,Miami Heat,3,5,29,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20231124,NYK,MIA
+Shot Chart Detail,0022300045,523,1628389,Bam Adebayo,1610612748,Miami Heat,4,6,5,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,-4,1,1,20231124,NYK,MIA
+Shot Chart Detail,0022300056,21,1628389,Bam Adebayo,1610612748,Miami Heat,1,10,23,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,42,22,1,1,20231128,MIA,MIL
+Shot Chart Detail,0022300056,120,1628389,Bam Adebayo,1610612748,Miami Heat,1,2,52,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-1,83,1,1,20231128,MIA,MIL
+Shot Chart Detail,0022300056,155,1628389,Bam Adebayo,1610612748,Miami Heat,1,0,27,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20231128,MIA,MIL
+Shot Chart Detail,0022300056,187,1628389,Bam Adebayo,1610612748,Miami Heat,2,10,50,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-58,109,1,1,20231128,MIA,MIL
+Shot Chart Detail,0022300056,196,1628389,Bam Adebayo,1610612748,Miami Heat,2,9,2,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,11,-70,86,1,1,20231128,MIA,MIL
+Shot Chart Detail,0022300056,304,1628389,Bam Adebayo,1610612748,Miami Heat,2,2,11,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,16,1,1,20231128,MIA,MIL
+Shot Chart Detail,0022300056,338,1628389,Bam Adebayo,1610612748,Miami Heat,2,0,31,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,13,-71,112,1,1,20231128,MIA,MIL
+Shot Chart Detail,0022300056,373,1628389,Bam Adebayo,1610612748,Miami Heat,3,9,11,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-17,3,1,1,20231128,MIA,MIL
+Shot Chart Detail,0022300056,411,1628389,Bam Adebayo,1610612748,Miami Heat,3,6,3,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,-1,1,1,20231128,MIA,MIL
+Shot Chart Detail,0022300056,467,1628389,Bam Adebayo,1610612748,Miami Heat,3,2,30,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,13,1,1,20231128,MIA,MIL
+Shot Chart Detail,0022300056,529,1628389,Bam Adebayo,1610612748,Miami Heat,4,9,16,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,58,129,1,1,20231128,MIA,MIL
+Shot Chart Detail,0022300056,584,1628389,Bam Adebayo,1610612748,Miami Heat,4,6,29,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,28,59,1,1,20231128,MIA,MIL
+Shot Chart Detail,0022300056,640,1628389,Bam Adebayo,1610612748,Miami Heat,4,1,5,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-49,9,1,1,20231128,MIA,MIL
+Shot Chart Detail,0022300068,50,1628389,Bam Adebayo,1610612748,Miami Heat,1,8,9,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20231025,MIA,DET
+Shot Chart Detail,0022300068,125,1628389,Bam Adebayo,1610612748,Miami Heat,1,3,13,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,10,1,1,20231025,MIA,DET
+Shot Chart Detail,0022300068,284,1628389,Bam Adebayo,1610612748,Miami Heat,2,4,20,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,20,80,1,1,20231025,MIA,DET
+Shot Chart Detail,0022300068,433,1628389,Bam Adebayo,1610612748,Miami Heat,3,7,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-112,-4,1,1,20231025,MIA,DET
+Shot Chart Detail,0022300068,460,1628389,Bam Adebayo,1610612748,Miami Heat,3,5,25,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,6,56,1,1,20231025,MIA,DET
+Shot Chart Detail,0022300068,472,1628389,Bam Adebayo,1610612748,Miami Heat,3,4,22,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,146,117,1,1,20231025,MIA,DET
+Shot Chart Detail,0022300068,631,1628389,Bam Adebayo,1610612748,Miami Heat,4,5,33,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20231025,MIA,DET
+Shot Chart Detail,0022300080,10,1628389,Bam Adebayo,1610612748,Miami Heat,1,11,26,Made Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,58,79,1,1,20231027,BOS,MIA
+Shot Chart Detail,0022300080,45,1628389,Bam Adebayo,1610612748,Miami Heat,1,8,1,Made Shot,Driving Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,25,41,1,1,20231027,BOS,MIA
+Shot Chart Detail,0022300080,55,1628389,Bam Adebayo,1610612748,Miami Heat,1,7,39,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,25,13,1,1,20231027,BOS,MIA
+Shot Chart Detail,0022300080,230,1628389,Bam Adebayo,1610612748,Miami Heat,2,7,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-131,151,1,1,20231027,BOS,MIA
+Shot Chart Detail,0022300080,260,1628389,Bam Adebayo,1610612748,Miami Heat,2,5,14,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20231027,BOS,MIA
+Shot Chart Detail,0022300080,273,1628389,Bam Adebayo,1610612748,Miami Heat,2,3,52,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,21,115,1,1,20231027,BOS,MIA
+Shot Chart Detail,0022300080,355,1628389,Bam Adebayo,1610612748,Miami Heat,3,10,26,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20231027,BOS,MIA
+Shot Chart Detail,0022300080,390,1628389,Bam Adebayo,1610612748,Miami Heat,3,6,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-134,131,1,1,20231027,BOS,MIA
+Shot Chart Detail,0022300080,394,1628389,Bam Adebayo,1610612748,Miami Heat,3,6,10,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,33,12,1,1,20231027,BOS,MIA
+Shot Chart Detail,0022300080,534,1628389,Bam Adebayo,1610612748,Miami Heat,4,7,32,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,4,1,1,20231027,BOS,MIA
+Shot Chart Detail,0022300093,35,1628389,Bam Adebayo,1610612748,Miami Heat,1,9,12,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-43,65,1,1,20231028,MIN,MIA
+Shot Chart Detail,0022300093,59,1628389,Bam Adebayo,1610612748,Miami Heat,1,6,16,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-33,110,1,1,20231028,MIN,MIA
+Shot Chart Detail,0022300093,73,1628389,Bam Adebayo,1610612748,Miami Heat,1,5,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-178,5,1,1,20231028,MIN,MIA
+Shot Chart Detail,0022300093,270,1628389,Bam Adebayo,1610612748,Miami Heat,2,1,49,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-6,89,1,1,20231028,MIN,MIA
+Shot Chart Detail,0022300093,281,1628389,Bam Adebayo,1610612748,Miami Heat,2,0,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-31,25,1,1,20231028,MIN,MIA
+Shot Chart Detail,0022300093,357,1628389,Bam Adebayo,1610612748,Miami Heat,3,5,43,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-9,125,1,1,20231028,MIN,MIA
+Shot Chart Detail,0022300093,450,1628389,Bam Adebayo,1610612748,Miami Heat,4,9,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-120,-7,1,1,20231028,MIN,MIA
+Shot Chart Detail,0022300119,12,1628389,Bam Adebayo,1610612748,Miami Heat,1,11,19,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,8,1,1,20231101,MIA,BKN
+Shot Chart Detail,0022300119,48,1628389,Bam Adebayo,1610612748,Miami Heat,1,7,54,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,12,1,1,20231101,MIA,BKN
+Shot Chart Detail,0022300119,54,1628389,Bam Adebayo,1610612748,Miami Heat,1,7,29,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20231101,MIA,BKN
+Shot Chart Detail,0022300119,108,1628389,Bam Adebayo,1610612748,Miami Heat,1,4,17,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,2,1,1,20231101,MIA,BKN
+Shot Chart Detail,0022300119,302,1628389,Bam Adebayo,1610612748,Miami Heat,2,3,43,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,102,22,1,1,20231101,MIA,BKN
+Shot Chart Detail,0022300119,386,1628389,Bam Adebayo,1610612748,Miami Heat,3,9,23,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,50,103,1,1,20231101,MIA,BKN
+Shot Chart Detail,0022300119,568,1628389,Bam Adebayo,1610612748,Miami Heat,4,7,38,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,1,20,1,1,20231101,MIA,BKN
+Shot Chart Detail,0022300119,606,1628389,Bam Adebayo,1610612748,Miami Heat,4,4,37,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,4,1,1,20231101,MIA,BKN
+Shot Chart Detail,0022300150,16,1628389,Bam Adebayo,1610612748,Miami Heat,1,10,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,6,174,1,1,20231106,MIA,LAL
+Shot Chart Detail,0022300150,20,1628389,Bam Adebayo,1610612748,Miami Heat,1,10,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-4,252,1,1,20231106,MIA,LAL
+Shot Chart Detail,0022300150,31,1628389,Bam Adebayo,1610612748,Miami Heat,1,8,29,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,-2,1,1,20231106,MIA,LAL
+Shot Chart Detail,0022300150,303,1628389,Bam Adebayo,1610612748,Miami Heat,2,1,1,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,0,62,1,1,20231106,MIA,LAL
+Shot Chart Detail,0022300150,334,1628389,Bam Adebayo,1610612748,Miami Heat,3,10,7,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-5,115,1,1,20231106,MIA,LAL
+Shot Chart Detail,0022300150,350,1628389,Bam Adebayo,1610612748,Miami Heat,3,8,42,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,16,1,1,20231106,MIA,LAL
+Shot Chart Detail,0022300150,389,1628389,Bam Adebayo,1610612748,Miami Heat,3,5,31,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,0,1,1,20231106,MIA,LAL
+Shot Chart Detail,0022300150,402,1628389,Bam Adebayo,1610612748,Miami Heat,3,5,4,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-54,112,1,1,20231106,MIA,LAL
+Shot Chart Detail,0022300150,498,1628389,Bam Adebayo,1610612748,Miami Heat,4,9,50,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,61,95,1,1,20231106,MIA,LAL
+Shot Chart Detail,0022300164,76,1628389,Bam Adebayo,1610612748,Miami Heat,1,6,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,25,141,1,1,20231108,MEM,MIA
+Shot Chart Detail,0022300164,189,1628389,Bam Adebayo,1610612748,Miami Heat,2,11,29,Made Shot,Cutting Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,0,48,1,1,20231108,MEM,MIA
+Shot Chart Detail,0022300164,363,1628389,Bam Adebayo,1610612748,Miami Heat,3,11,23,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,5,126,1,1,20231108,MEM,MIA
+Shot Chart Detail,0022300164,370,1628389,Bam Adebayo,1610612748,Miami Heat,3,10,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,17,159,1,1,20231108,MEM,MIA
+Shot Chart Detail,0022300164,411,1628389,Bam Adebayo,1610612748,Miami Heat,3,8,11,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-20,120,1,1,20231108,MEM,MIA
+Shot Chart Detail,0022300164,573,1628389,Bam Adebayo,1610612748,Miami Heat,4,9,58,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,69,127,1,1,20231108,MEM,MIA
+Shot Chart Detail,0022300164,618,1628389,Bam Adebayo,1610612748,Miami Heat,4,6,48,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-18,87,1,1,20231108,MEM,MIA
+Shot Chart Detail,0022300164,674,1628389,Bam Adebayo,1610612748,Miami Heat,4,3,6,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-69,48,1,1,20231108,MEM,MIA
+Shot Chart Detail,0022300175,16,1628389,Bam Adebayo,1610612748,Miami Heat,1,10,50,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-126,20,1,1,20231111,ATL,MIA
+Shot Chart Detail,0022300175,28,1628389,Bam Adebayo,1610612748,Miami Heat,1,9,28,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,50,95,1,1,20231111,ATL,MIA
+Shot Chart Detail,0022300175,42,1628389,Bam Adebayo,1610612748,Miami Heat,1,7,45,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,17,115,1,1,20231111,ATL,MIA
+Shot Chart Detail,0022300175,45,1628389,Bam Adebayo,1610612748,Miami Heat,1,7,17,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,103,17,1,1,20231111,ATL,MIA
+Shot Chart Detail,0022300175,182,1628389,Bam Adebayo,1610612748,Miami Heat,2,9,47,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-99,14,1,1,20231111,ATL,MIA
+Shot Chart Detail,0022300175,215,1628389,Bam Adebayo,1610612748,Miami Heat,2,6,57,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,48,111,1,1,20231111,ATL,MIA
+Shot Chart Detail,0022300175,220,1628389,Bam Adebayo,1610612748,Miami Heat,2,6,33,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20231111,ATL,MIA
+Shot Chart Detail,0022300175,323,1628389,Bam Adebayo,1610612748,Miami Heat,3,10,40,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,0,1,1,20231111,ATL,MIA
+Shot Chart Detail,0022300175,533,1628389,Bam Adebayo,1610612748,Miami Heat,4,7,18,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,31,126,1,1,20231111,ATL,MIA
+Shot Chart Detail,0022300184,11,1628389,Bam Adebayo,1610612748,Miami Heat,1,11,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-21,152,1,1,20231112,SAS,MIA
+Shot Chart Detail,0022300184,54,1628389,Bam Adebayo,1610612748,Miami Heat,1,7,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,32,180,1,1,20231112,SAS,MIA
+Shot Chart Detail,0022300184,179,1628389,Bam Adebayo,1610612748,Miami Heat,2,10,10,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,8,1,1,20231112,SAS,MIA
+Shot Chart Detail,0022300184,216,1628389,Bam Adebayo,1610612748,Miami Heat,2,7,19,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,33,-1,1,1,20231112,SAS,MIA
+Shot Chart Detail,0022300184,351,1628389,Bam Adebayo,1610612748,Miami Heat,3,10,28,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20231112,SAS,MIA
+Shot Chart Detail,0022300184,506,1628389,Bam Adebayo,1610612748,Miami Heat,4,10,51,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,13,75,109,1,1,20231112,SAS,MIA
+Shot Chart Detail,0022300184,525,1628389,Bam Adebayo,1610612748,Miami Heat,4,9,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,110,81,1,1,20231112,SAS,MIA
+Shot Chart Detail,0022300184,529,1628389,Bam Adebayo,1610612748,Miami Heat,4,8,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,93,78,1,1,20231112,SAS,MIA
+Shot Chart Detail,0022300184,568,1628389,Bam Adebayo,1610612748,Miami Heat,4,5,47,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20231112,SAS,MIA
+Shot Chart Detail,0022300184,582,1628389,Bam Adebayo,1610612748,Miami Heat,4,4,37,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-4,59,1,1,20231112,SAS,MIA
+Shot Chart Detail,0022300200,66,1628389,Bam Adebayo,1610612748,Miami Heat,1,6,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-27,157,1,1,20231116,MIA,BKN
+Shot Chart Detail,0022300200,74,1628389,Bam Adebayo,1610612748,Miami Heat,1,6,13,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-105,122,1,1,20231116,MIA,BKN
+Shot Chart Detail,0022300200,177,1628389,Bam Adebayo,1610612748,Miami Heat,2,11,0,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,12,1,1,20231116,MIA,BKN
+Shot Chart Detail,0022300200,183,1628389,Bam Adebayo,1610612748,Miami Heat,2,10,16,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,2,20,1,1,20231116,MIA,BKN
+Shot Chart Detail,0022300200,340,1628389,Bam Adebayo,1610612748,Miami Heat,3,11,15,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-6,62,1,1,20231116,MIA,BKN
+Shot Chart Detail,0022300200,543,1628389,Bam Adebayo,1610612748,Miami Heat,4,8,37,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,13,1,1,20231116,MIA,BKN
+Shot Chart Detail,0022300200,565,1628389,Bam Adebayo,1610612748,Miami Heat,4,7,36,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,14,1,1,20231116,MIA,BKN
+Shot Chart Detail,0022300200,610,1628389,Bam Adebayo,1610612748,Miami Heat,4,4,23,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,5,1,1,20231116,MIA,BKN
+Shot Chart Detail,0022300204,20,1628389,Bam Adebayo,1610612748,Miami Heat,1,10,14,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-12,64,1,1,20231118,CHI,MIA
+Shot Chart Detail,0022300204,26,1628389,Bam Adebayo,1610612748,Miami Heat,1,9,51,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,7,1,1,20231118,CHI,MIA
+Shot Chart Detail,0022300204,67,1628389,Bam Adebayo,1610612748,Miami Heat,1,6,29,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,118,111,1,1,20231118,CHI,MIA
+Shot Chart Detail,0022300204,152,1628389,Bam Adebayo,1610612748,Miami Heat,1,0,0,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-108,125,1,1,20231118,CHI,MIA
+Shot Chart Detail,0022300204,164,1628389,Bam Adebayo,1610612748,Miami Heat,2,10,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,100,16,1,1,20231118,CHI,MIA
+Shot Chart Detail,0022300204,352,1628389,Bam Adebayo,1610612748,Miami Heat,3,11,19,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,2,162,1,1,20231118,CHI,MIA
+Shot Chart Detail,0022300204,359,1628389,Bam Adebayo,1610612748,Miami Heat,3,10,15,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-148,41,1,1,20231118,CHI,MIA
+Shot Chart Detail,0022300204,363,1628389,Bam Adebayo,1610612748,Miami Heat,3,9,33,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-123,40,1,1,20231118,CHI,MIA
+Shot Chart Detail,0022300220,8,1628389,Bam Adebayo,1610612748,Miami Heat,1,11,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,1,152,1,1,20231120,CHI,MIA
+Shot Chart Detail,0022300220,158,1628389,Bam Adebayo,1610612748,Miami Heat,2,10,22,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,9,39,1,1,20231120,CHI,MIA
+Shot Chart Detail,0022300220,167,1628389,Bam Adebayo,1610612748,Miami Heat,2,9,43,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,13,1,1,20231120,CHI,MIA
+Shot Chart Detail,0022300220,298,1628389,Bam Adebayo,1610612748,Miami Heat,3,11,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,119,122,1,1,20231120,CHI,MIA
+Shot Chart Detail,0022300220,304,1628389,Bam Adebayo,1610612748,Miami Heat,3,10,15,Made Shot,Floating Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,5,13,1,1,20231120,CHI,MIA
+Shot Chart Detail,0022300220,346,1628389,Bam Adebayo,1610612748,Miami Heat,3,6,35,Made Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,33,46,1,1,20231120,CHI,MIA
+Shot Chart Detail,0022300220,476,1628389,Bam Adebayo,1610612748,Miami Heat,4,9,28,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,-1,1,1,20231120,CHI,MIA
+Shot Chart Detail,0022300220,498,1628389,Bam Adebayo,1610612748,Miami Heat,4,7,51,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,1,58,1,1,20231120,CHI,MIA
+Shot Chart Detail,0022300267,47,1628389,Bam Adebayo,1610612748,Miami Heat,1,7,22,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,14,-75,123,1,1,20231130,MIA,IND
+Shot Chart Detail,0022300267,150,1628389,Bam Adebayo,1610612748,Miami Heat,1,0,3,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-21,163,1,1,20231130,MIA,IND
+Shot Chart Detail,0022300267,207,1628389,Bam Adebayo,1610612748,Miami Heat,2,7,35,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,33,34,1,1,20231130,MIA,IND
+Shot Chart Detail,0022300353,11,1628389,Bam Adebayo,1610612748,Miami Heat,1,11,28,Made Shot,Running Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,9,1,1,20231218,MIA,MIN
+Shot Chart Detail,0022300353,65,1628389,Bam Adebayo,1610612748,Miami Heat,1,6,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,9,1,1,20231218,MIA,MIN
+Shot Chart Detail,0022300353,74,1628389,Bam Adebayo,1610612748,Miami Heat,1,5,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,58,161,1,1,20231218,MIA,MIN
+Shot Chart Detail,0022300353,195,1628389,Bam Adebayo,1610612748,Miami Heat,2,10,16,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,8,1,1,20231218,MIA,MIN
+Shot Chart Detail,0022300353,254,1628389,Bam Adebayo,1610612748,Miami Heat,2,6,46,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,37,125,1,1,20231218,MIA,MIN
+Shot Chart Detail,0022300353,374,1628389,Bam Adebayo,1610612748,Miami Heat,3,9,45,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,5,1,1,20231218,MIA,MIN
+Shot Chart Detail,0022300353,467,1628389,Bam Adebayo,1610612748,Miami Heat,3,0,59,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,10,131,1,1,20231218,MIA,MIN
+Shot Chart Detail,0022300353,556,1628389,Bam Adebayo,1610612748,Miami Heat,4,7,7,Made Shot,Running Pull-Up Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-27,128,1,1,20231218,MIA,MIN
+Shot Chart Detail,0022300353,613,1628389,Bam Adebayo,1610612748,Miami Heat,4,1,24,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-32,83,1,1,20231218,MIA,MIN
+Shot Chart Detail,0022300353,633,1628389,Bam Adebayo,1610612748,Miami Heat,4,0,10,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,21,1,1,20231218,MIA,MIN
+Shot Chart Detail,0022300366,50,1628389,Bam Adebayo,1610612748,Miami Heat,1,7,50,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,0,122,1,1,20231220,ORL,MIA
+Shot Chart Detail,0022300366,59,1628389,Bam Adebayo,1610612748,Miami Heat,1,6,49,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,119,39,1,1,20231220,ORL,MIA
+Shot Chart Detail,0022300366,220,1628389,Bam Adebayo,1610612748,Miami Heat,2,7,40,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,47,180,1,1,20231220,ORL,MIA
+Shot Chart Detail,0022300366,354,1628389,Bam Adebayo,1610612748,Miami Heat,3,9,19,Made Shot,Turnaround Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,31,47,1,1,20231220,ORL,MIA
+Shot Chart Detail,0022300366,403,1628389,Bam Adebayo,1610612748,Miami Heat,3,4,55,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,150,69,1,1,20231220,ORL,MIA
+Shot Chart Detail,0022300366,495,1628389,Bam Adebayo,1610612748,Miami Heat,4,10,19,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-37,132,1,1,20231220,ORL,MIA
+Shot Chart Detail,0022300366,497,1628389,Bam Adebayo,1610612748,Miami Heat,4,9,50,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,15,1,1,20231220,ORL,MIA
+Shot Chart Detail,0022300384,27,1628389,Bam Adebayo,1610612748,Miami Heat,1,9,14,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,119,150,1,1,20231222,MIA,ATL
+Shot Chart Detail,0022300384,45,1628389,Bam Adebayo,1610612748,Miami Heat,1,7,14,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,4,126,1,1,20231222,MIA,ATL
+Shot Chart Detail,0022300384,163,1628389,Bam Adebayo,1610612748,Miami Heat,2,11,23,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,48,92,1,1,20231222,MIA,ATL
+Shot Chart Detail,0022300384,186,1628389,Bam Adebayo,1610612748,Miami Heat,2,9,21,Made Shot,Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,20,42,1,1,20231222,MIA,ATL
+Shot Chart Detail,0022300384,196,1628389,Bam Adebayo,1610612748,Miami Heat,2,8,29,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-15,34,1,1,20231222,MIA,ATL
+Shot Chart Detail,0022300404,10,1628389,Bam Adebayo,1610612748,Miami Heat,1,11,38,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,10,116,1,1,20231225,MIA,PHI
+Shot Chart Detail,0022300404,188,1628389,Bam Adebayo,1610612748,Miami Heat,1,0,3,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-60,161,1,1,20231225,MIA,PHI
+Shot Chart Detail,0022300404,221,1628389,Bam Adebayo,1610612748,Miami Heat,2,10,3,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,4,59,1,1,20231225,MIA,PHI
+Shot Chart Detail,0022300404,267,1628389,Bam Adebayo,1610612748,Miami Heat,2,6,53,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,6,1,1,20231225,MIA,PHI
+Shot Chart Detail,0022300404,337,1628389,Bam Adebayo,1610612748,Miami Heat,2,1,46,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,3,1,1,20231225,MIA,PHI
+Shot Chart Detail,0022300404,378,1628389,Bam Adebayo,1610612748,Miami Heat,3,9,23,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,40,105,1,1,20231225,MIA,PHI
+Shot Chart Detail,0022300404,551,1628389,Bam Adebayo,1610612748,Miami Heat,4,9,54,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-12,73,1,1,20231225,MIA,PHI
+Shot Chart Detail,0022300404,652,1628389,Bam Adebayo,1610612748,Miami Heat,4,2,26,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20231225,MIA,PHI
+Shot Chart Detail,0022300404,669,1628389,Bam Adebayo,1610612748,Miami Heat,4,1,9,Made Shot,Hook Bank Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,39,8,1,1,20231225,MIA,PHI
+Shot Chart Detail,0022300426,19,1628389,Bam Adebayo,1610612748,Miami Heat,1,10,33,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,13,105,1,1,20231228,GSW,MIA
+Shot Chart Detail,0022300426,23,1628389,Bam Adebayo,1610612748,Miami Heat,1,9,54,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,14,67,1,1,20231228,GSW,MIA
+Shot Chart Detail,0022300426,167,1628389,Bam Adebayo,1610612748,Miami Heat,2,11,5,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,0,1,1,20231228,GSW,MIA
+Shot Chart Detail,0022300426,335,1628389,Bam Adebayo,1610612748,Miami Heat,2,0,18,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,56,106,1,1,20231228,GSW,MIA
+Shot Chart Detail,0022300426,426,1628389,Bam Adebayo,1610612748,Miami Heat,3,9,5,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-18,18,1,1,20231228,GSW,MIA
+Shot Chart Detail,0022300426,554,1628389,Bam Adebayo,1610612748,Miami Heat,4,9,5,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-33,83,1,1,20231228,GSW,MIA
+Shot Chart Detail,0022300426,639,1628389,Bam Adebayo,1610612748,Miami Heat,4,4,11,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-29,8,1,1,20231228,GSW,MIA
+Shot Chart Detail,0022300439,7,1628389,Bam Adebayo,1610612748,Miami Heat,1,11,37,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-16,50,1,1,20231230,UTA,MIA
+Shot Chart Detail,0022300439,179,1628389,Bam Adebayo,1610612748,Miami Heat,2,11,26,Made Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,49,41,1,1,20231230,UTA,MIA
+Shot Chart Detail,0022300439,215,1628389,Bam Adebayo,1610612748,Miami Heat,2,8,20,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,18,83,1,1,20231230,UTA,MIA
+Shot Chart Detail,0022300439,264,1628389,Bam Adebayo,1610612748,Miami Heat,2,5,47,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-39,80,1,1,20231230,UTA,MIA
+Shot Chart Detail,0022300439,269,1628389,Bam Adebayo,1610612748,Miami Heat,2,5,15,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,13,88,1,1,20231230,UTA,MIA
+Shot Chart Detail,0022300439,410,1628389,Bam Adebayo,1610612748,Miami Heat,3,7,8,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,23,58,1,1,20231230,UTA,MIA
+Shot Chart Detail,0022300439,463,1628389,Bam Adebayo,1610612748,Miami Heat,3,4,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-2,153,1,1,20231230,UTA,MIA
+Shot Chart Detail,0022300458,18,1628389,Bam Adebayo,1610612748,Miami Heat,1,10,1,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-25,95,1,1,20240101,LAC,MIA
+Shot Chart Detail,0022300458,57,1628389,Bam Adebayo,1610612748,Miami Heat,1,5,48,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-22,111,1,1,20240101,LAC,MIA
+Shot Chart Detail,0022300458,308,1628389,Bam Adebayo,1610612748,Miami Heat,3,10,30,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,21,101,1,1,20240101,LAC,MIA
+Shot Chart Detail,0022300458,358,1628389,Bam Adebayo,1610612748,Miami Heat,3,6,53,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-10,47,1,1,20240101,LAC,MIA
+Shot Chart Detail,0022300458,446,1628389,Bam Adebayo,1610612748,Miami Heat,3,1,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,32,15,1,1,20240101,LAC,MIA
+Shot Chart Detail,0022300458,496,1628389,Bam Adebayo,1610612748,Miami Heat,4,9,50,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20240101,LAC,MIA
+Shot Chart Detail,0022300475,44,1628389,Bam Adebayo,1610612748,Miami Heat,1,8,45,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-45,90,1,1,20240103,LAL,MIA
+Shot Chart Detail,0022300475,163,1628389,Bam Adebayo,1610612748,Miami Heat,1,1,10,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,5,10,1,1,20240103,LAL,MIA
+Shot Chart Detail,0022300475,388,1628389,Bam Adebayo,1610612748,Miami Heat,3,9,52,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-25,95,1,1,20240103,LAL,MIA
+Shot Chart Detail,0022300475,501,1628389,Bam Adebayo,1610612748,Miami Heat,3,1,1,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-58,178,1,1,20240103,LAL,MIA
+Shot Chart Detail,0022300475,580,1628389,Bam Adebayo,1610612748,Miami Heat,4,7,3,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-1,59,1,1,20240103,LAL,MIA
+Shot Chart Detail,0022300489,165,1628389,Bam Adebayo,1610612748,Miami Heat,2,10,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,8,1,1,20240105,PHX,MIA
+Shot Chart Detail,0022300489,182,1628389,Bam Adebayo,1610612748,Miami Heat,2,8,52,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,22,4,1,1,20240105,PHX,MIA
+Shot Chart Detail,0022300489,191,1628389,Bam Adebayo,1610612748,Miami Heat,2,8,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-26,158,1,1,20240105,PHX,MIA
+Shot Chart Detail,0022300489,209,1628389,Bam Adebayo,1610612748,Miami Heat,2,7,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-22,5,1,1,20240105,PHX,MIA
+Shot Chart Detail,0022300489,238,1628389,Bam Adebayo,1610612748,Miami Heat,2,4,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-7,152,1,1,20240105,PHX,MIA
+Shot Chart Detail,0022300489,273,1628389,Bam Adebayo,1610612748,Miami Heat,2,2,8,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,1,1,1,20240105,PHX,MIA
+Shot Chart Detail,0022300489,315,1628389,Bam Adebayo,1610612748,Miami Heat,3,11,20,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,6,1,1,20240105,PHX,MIA
+Shot Chart Detail,0022300489,394,1628389,Bam Adebayo,1610612748,Miami Heat,3,4,56,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,21,126,1,1,20240105,PHX,MIA
+Shot Chart Detail,0022300489,508,1628389,Bam Adebayo,1610612748,Miami Heat,4,11,12,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,-6,1,1,20240105,PHX,MIA
+Shot Chart Detail,0022300489,526,1628389,Bam Adebayo,1610612748,Miami Heat,4,9,48,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,12,1,1,20240105,PHX,MIA
+Shot Chart Detail,0022300489,548,1628389,Bam Adebayo,1610612748,Miami Heat,4,7,59,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-21,75,1,1,20240105,PHX,MIA
+Shot Chart Detail,0022300509,22,1628389,Bam Adebayo,1610612748,Miami Heat,1,10,17,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,36,92,1,1,20240108,MIA,HOU
+Shot Chart Detail,0022300509,230,1628389,Bam Adebayo,1610612748,Miami Heat,2,7,16,Made Shot,Cutting Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-32,44,1,1,20240108,MIA,HOU
+Shot Chart Detail,0022300509,381,1628389,Bam Adebayo,1610612748,Miami Heat,3,8,58,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,0,129,1,1,20240108,MIA,HOU
+Shot Chart Detail,0022300509,400,1628389,Bam Adebayo,1610612748,Miami Heat,3,7,18,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,2,96,1,1,20240108,MIA,HOU
+Shot Chart Detail,0022300509,415,1628389,Bam Adebayo,1610612748,Miami Heat,3,5,59,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20240108,MIA,HOU
+Shot Chart Detail,0022300509,423,1628389,Bam Adebayo,1610612748,Miami Heat,3,5,12,Made Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-27,46,1,1,20240108,MIA,HOU
+Shot Chart Detail,0022300509,518,1628389,Bam Adebayo,1610612748,Miami Heat,4,11,25,Made Shot,Running Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,7,58,1,1,20240108,MIA,HOU
+Shot Chart Detail,0022300509,540,1628389,Bam Adebayo,1610612748,Miami Heat,4,9,14,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,0,126,1,1,20240108,MIA,HOU
+Shot Chart Detail,0022300509,562,1628389,Bam Adebayo,1610612748,Miami Heat,4,7,59,Made Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-26,56,1,1,20240108,MIA,HOU
+Shot Chart Detail,0022300522,69,1628389,Bam Adebayo,1610612748,Miami Heat,1,5,48,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,21,84,1,1,20240110,MIA,OKC
+Shot Chart Detail,0022300522,129,1628389,Bam Adebayo,1610612748,Miami Heat,1,0,26,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,20,89,1,1,20240110,MIA,OKC
+Shot Chart Detail,0022300522,160,1628389,Bam Adebayo,1610612748,Miami Heat,2,9,43,Made Shot,Cutting Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-22,46,1,1,20240110,MIA,OKC
+Shot Chart Detail,0022300522,168,1628389,Bam Adebayo,1610612748,Miami Heat,2,8,38,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-1,104,1,1,20240110,MIA,OKC
+Shot Chart Detail,0022300522,536,1628389,Bam Adebayo,1610612748,Miami Heat,4,7,0,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-20,32,1,1,20240110,MIA,OKC
+Shot Chart Detail,0022300522,561,1628389,Bam Adebayo,1610612748,Miami Heat,4,5,42,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,18,41,1,1,20240110,MIA,OKC
+Shot Chart Detail,0022300522,576,1628389,Bam Adebayo,1610612748,Miami Heat,4,4,51,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,0,70,1,1,20240110,MIA,OKC
+Shot Chart Detail,0022300522,590,1628389,Bam Adebayo,1610612748,Miami Heat,4,3,31,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-39,94,1,1,20240110,MIA,OKC
+Shot Chart Detail,0022300522,622,1628389,Bam Adebayo,1610612748,Miami Heat,4,1,9,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20240110,MIA,OKC
+Shot Chart Detail,0022300535,159,1628389,Bam Adebayo,1610612748,Miami Heat,1,0,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,47,151,1,1,20240112,MIA,ORL
+Shot Chart Detail,0022300535,286,1628389,Bam Adebayo,1610612748,Miami Heat,2,3,27,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,11,29,1,1,20240112,MIA,ORL
+Shot Chart Detail,0022300535,364,1628389,Bam Adebayo,1610612748,Miami Heat,3,8,14,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,7,62,1,1,20240112,MIA,ORL
+Shot Chart Detail,0022300535,388,1628389,Bam Adebayo,1610612748,Miami Heat,3,6,41,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,13,99,1,1,20240112,MIA,ORL
+Shot Chart Detail,0022300535,394,1628389,Bam Adebayo,1610612748,Miami Heat,3,6,8,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20240112,MIA,ORL
+Shot Chart Detail,0022300535,529,1628389,Bam Adebayo,1610612748,Miami Heat,4,10,38,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-7,65,1,1,20240112,MIA,ORL
+Shot Chart Detail,0022300535,620,1628389,Bam Adebayo,1610612748,Miami Heat,4,2,19,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-17,8,1,1,20240112,MIA,ORL
+Shot Chart Detail,0022300535,659,1628389,Bam Adebayo,1610612748,Miami Heat,4,0,18,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,5,130,1,1,20240112,MIA,ORL
+Shot Chart Detail,0022300551,79,1628389,Bam Adebayo,1610612748,Miami Heat,1,5,20,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-13,81,1,1,20240114,MIA,CHA
+Shot Chart Detail,0022300551,134,1628389,Bam Adebayo,1610612748,Miami Heat,1,1,9,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-25,10,1,1,20240114,MIA,CHA
+Shot Chart Detail,0022300551,182,1628389,Bam Adebayo,1610612748,Miami Heat,2,9,9,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-17,64,1,1,20240114,MIA,CHA
+Shot Chart Detail,0022300551,219,1628389,Bam Adebayo,1610612748,Miami Heat,2,6,3,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,11,1,1,20240114,MIA,CHA
+Shot Chart Detail,0022300551,345,1628389,Bam Adebayo,1610612748,Miami Heat,3,9,23,Made Shot,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,13,17,1,1,20240114,MIA,CHA
+Shot Chart Detail,0022300551,360,1628389,Bam Adebayo,1610612748,Miami Heat,3,7,48,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,7,22,1,1,20240114,MIA,CHA
+Shot Chart Detail,0022300551,514,1628389,Bam Adebayo,1610612748,Miami Heat,4,8,32,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,58,114,1,1,20240114,MIA,CHA
+Shot Chart Detail,0022300551,547,1628389,Bam Adebayo,1610612748,Miami Heat,4,6,9,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,16,1,1,20240114,MIA,CHA
+Shot Chart Detail,0022300551,566,1628389,Bam Adebayo,1610612748,Miami Heat,4,4,47,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-38,90,1,1,20240114,MIA,CHA
+Shot Chart Detail,0022300562,23,1628389,Bam Adebayo,1610612748,Miami Heat,1,10,1,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,0,1,1,20240115,BKN,MIA
+Shot Chart Detail,0022300562,131,1628389,Bam Adebayo,1610612748,Miami Heat,1,1,11,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,-2,1,1,20240115,BKN,MIA
+Shot Chart Detail,0022300562,168,1628389,Bam Adebayo,1610612748,Miami Heat,2,10,32,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,0,1,1,20240115,BKN,MIA
+Shot Chart Detail,0022300562,462,1628389,Bam Adebayo,1610612748,Miami Heat,4,10,46,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-53,165,1,1,20240115,BKN,MIA
+Shot Chart Detail,0022300562,479,1628389,Bam Adebayo,1610612748,Miami Heat,4,9,22,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20240115,BKN,MIA
+Shot Chart Detail,0022300574,35,1628389,Bam Adebayo,1610612748,Miami Heat,1,9,9,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,6,92,1,1,20240117,TOR,MIA
+Shot Chart Detail,0022300574,66,1628389,Bam Adebayo,1610612748,Miami Heat,1,6,18,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,-1,1,1,20240117,TOR,MIA
+Shot Chart Detail,0022300574,317,1628389,Bam Adebayo,1610612748,Miami Heat,3,10,55,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,53,25,1,1,20240117,TOR,MIA
+Shot Chart Detail,0022300574,334,1628389,Bam Adebayo,1610612748,Miami Heat,3,9,7,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,18,1,1,20240117,TOR,MIA
+Shot Chart Detail,0022300574,478,1628389,Bam Adebayo,1610612748,Miami Heat,4,11,10,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-25,101,1,1,20240117,TOR,MIA
+Shot Chart Detail,0022300574,504,1628389,Bam Adebayo,1610612748,Miami Heat,4,9,20,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,7,1,1,20240117,TOR,MIA
+Shot Chart Detail,0022300574,562,1628389,Bam Adebayo,1610612748,Miami Heat,4,3,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,15,1,1,20240117,TOR,MIA
+Shot Chart Detail,0022300587,65,1628389,Bam Adebayo,1610612748,Miami Heat,1,6,6,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-75,13,1,1,20240119,MIA,ATL
+Shot Chart Detail,0022300587,210,1628389,Bam Adebayo,1610612748,Miami Heat,2,7,51,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,7,106,1,1,20240119,MIA,ATL
+Shot Chart Detail,0022300587,360,1628389,Bam Adebayo,1610612748,Miami Heat,3,7,34,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,7,1,1,20240119,MIA,ATL
+Shot Chart Detail,0022300587,377,1628389,Bam Adebayo,1610612748,Miami Heat,3,6,40,Made Shot,Driving Bank Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,13,1,1,20240119,MIA,ATL
+Shot Chart Detail,0022300587,489,1628389,Bam Adebayo,1610612748,Miami Heat,4,11,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-1,179,1,1,20240119,MIA,ATL
+Shot Chart Detail,0022300587,514,1628389,Bam Adebayo,1610612748,Miami Heat,4,8,31,Made Shot,Running Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,15,1,1,20240119,MIA,ATL
+Shot Chart Detail,0022300587,608,1628389,Bam Adebayo,1610612748,Miami Heat,4,1,6,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-11,65,1,1,20240119,MIA,ATL
+Shot Chart Detail,0022300601,143,1628389,Bam Adebayo,1610612748,Miami Heat,1,0,35,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,-3,1,1,20240121,ORL,MIA
+Shot Chart Detail,0022300601,203,1628389,Bam Adebayo,1610612748,Miami Heat,2,8,4,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-39,84,1,1,20240121,ORL,MIA
+Shot Chart Detail,0022300601,215,1628389,Bam Adebayo,1610612748,Miami Heat,2,6,59,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,4,1,1,20240121,ORL,MIA
+Shot Chart Detail,0022300601,233,1628389,Bam Adebayo,1610612748,Miami Heat,2,6,26,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-22,97,1,1,20240121,ORL,MIA
+Shot Chart Detail,0022300601,356,1628389,Bam Adebayo,1610612748,Miami Heat,3,9,46,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,15,1,1,20240121,ORL,MIA
+Shot Chart Detail,0022300601,488,1628389,Bam Adebayo,1610612748,Miami Heat,3,0,1,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20240121,ORL,MIA
+Shot Chart Detail,0022300601,564,1628389,Bam Adebayo,1610612748,Miami Heat,4,6,40,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20240121,ORL,MIA
+Shot Chart Detail,0022300601,571,1628389,Bam Adebayo,1610612748,Miami Heat,4,5,55,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,10,137,1,1,20240121,ORL,MIA
+Shot Chart Detail,0022300621,30,1628389,Bam Adebayo,1610612748,Miami Heat,1,9,18,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,16,1,1,20240124,MIA,MEM
+Shot Chart Detail,0022300621,336,1628389,Bam Adebayo,1610612748,Miami Heat,3,10,56,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,19,1,1,20240124,MIA,MEM
+Shot Chart Detail,0022300621,480,1628389,Bam Adebayo,1610612748,Miami Heat,3,0,58,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20240124,MIA,MEM
+Shot Chart Detail,0022300621,537,1628389,Bam Adebayo,1610612748,Miami Heat,4,7,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,14,1,1,20240124,MIA,MEM
+Shot Chart Detail,0022300630,49,1628389,Bam Adebayo,1610612748,Miami Heat,1,7,54,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-26,108,1,1,20240125,MIA,BOS
+Shot Chart Detail,0022300630,84,1628389,Bam Adebayo,1610612748,Miami Heat,1,4,21,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,12,70,101,1,1,20240125,MIA,BOS
+Shot Chart Detail,0022300630,178,1628389,Bam Adebayo,1610612748,Miami Heat,2,8,8,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-34,39,1,1,20240125,MIA,BOS
+Shot Chart Detail,0022300630,278,1628389,Bam Adebayo,1610612748,Miami Heat,2,0,55,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,0,48,1,1,20240125,MIA,BOS
+Shot Chart Detail,0022300630,339,1628389,Bam Adebayo,1610612748,Miami Heat,3,8,25,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,51,40,1,1,20240125,MIA,BOS
+Shot Chart Detail,0022300630,342,1628389,Bam Adebayo,1610612748,Miami Heat,3,8,1,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,53,133,1,1,20240125,MIA,BOS
+Shot Chart Detail,0022300630,461,1628389,Bam Adebayo,1610612748,Miami Heat,4,9,4,Made Shot,Driving Bank Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,50,17,1,1,20240125,MIA,BOS
+Shot Chart Detail,0022300630,484,1628389,Bam Adebayo,1610612748,Miami Heat,4,6,47,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20240125,MIA,BOS
+Shot Chart Detail,0022300643,140,1628389,Bam Adebayo,1610612748,Miami Heat,1,0,44,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,8,1,1,20240127,NYK,MIA
+Shot Chart Detail,0022300643,144,1628389,Bam Adebayo,1610612748,Miami Heat,1,0,19,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,11,1,1,20240127,NYK,MIA
+Shot Chart Detail,0022300643,206,1628389,Bam Adebayo,1610612748,Miami Heat,2,7,30,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20240127,NYK,MIA
+Shot Chart Detail,0022300643,319,1628389,Bam Adebayo,1610612748,Miami Heat,3,11,7,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,-1,1,1,20240127,NYK,MIA
+Shot Chart Detail,0022300643,324,1628389,Bam Adebayo,1610612748,Miami Heat,3,10,41,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,-1,1,1,20240127,NYK,MIA
+Shot Chart Detail,0022300643,544,1628389,Bam Adebayo,1610612748,Miami Heat,4,5,19,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-17,83,1,1,20240127,NYK,MIA
+Shot Chart Detail,0022300661,208,1628389,Bam Adebayo,1610612748,Miami Heat,2,9,10,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,11,153,1,1,20240129,MIA,PHX
+Shot Chart Detail,0022300661,562,1628389,Bam Adebayo,1610612748,Miami Heat,4,8,45,Made Shot,Cutting Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,6,41,1,1,20240129,MIA,PHX
+Shot Chart Detail,0022300661,567,1628389,Bam Adebayo,1610612748,Miami Heat,4,7,56,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-26,23,1,1,20240129,MIA,PHX
+Shot Chart Detail,0022300678,215,1628389,Bam Adebayo,1610612748,Miami Heat,2,7,56,Made Shot,Cutting Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-22,55,1,1,20240131,MIA,SAC
+Shot Chart Detail,0022300678,228,1628389,Bam Adebayo,1610612748,Miami Heat,2,6,58,Made Shot,Running Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,27,66,1,1,20240131,MIA,SAC
+Shot Chart Detail,0022300678,273,1628389,Bam Adebayo,1610612748,Miami Heat,2,3,21,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-31,52,1,1,20240131,MIA,SAC
+Shot Chart Detail,0022300678,276,1628389,Bam Adebayo,1610612748,Miami Heat,2,2,54,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-13,53,1,1,20240131,MIA,SAC
+Shot Chart Detail,0022300678,342,1628389,Bam Adebayo,1610612748,Miami Heat,3,9,54,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-40,50,1,1,20240131,MIA,SAC
+Shot Chart Detail,0022300678,362,1628389,Bam Adebayo,1610612748,Miami Heat,3,8,20,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-34,29,1,1,20240131,MIA,SAC
+Shot Chart Detail,0022300678,518,1628389,Bam Adebayo,1610612748,Miami Heat,4,9,19,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-39,29,1,1,20240131,MIA,SAC
+Shot Chart Detail,0022300678,542,1628389,Bam Adebayo,1610612748,Miami Heat,4,7,19,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,25,120,1,1,20240131,MIA,SAC
+Shot Chart Detail,0022300689,49,1628389,Bam Adebayo,1610612748,Miami Heat,1,7,16,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,5,1,1,20240202,WAS,MIA
+Shot Chart Detail,0022300689,54,1628389,Bam Adebayo,1610612748,Miami Heat,1,6,46,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,9,22,1,1,20240202,WAS,MIA
+Shot Chart Detail,0022300689,216,1628389,Bam Adebayo,1610612748,Miami Heat,2,7,40,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,11,119,1,1,20240202,WAS,MIA
+Shot Chart Detail,0022300689,303,1628389,Bam Adebayo,1610612748,Miami Heat,2,2,11,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,14,1,1,20240202,WAS,MIA
+Shot Chart Detail,0022300689,318,1628389,Bam Adebayo,1610612748,Miami Heat,2,1,9,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,15,1,1,20240202,WAS,MIA
+Shot Chart Detail,0022300689,560,1628389,Bam Adebayo,1610612748,Miami Heat,4,7,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-12,34,1,1,20240202,WAS,MIA
+Shot Chart Detail,0022300689,578,1628389,Bam Adebayo,1610612748,Miami Heat,4,6,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,11,1,1,20240202,WAS,MIA
+Shot Chart Detail,0022300689,654,1628389,Bam Adebayo,1610612748,Miami Heat,4,0,57,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-61,90,1,1,20240202,WAS,MIA
+Shot Chart Detail,0022300708,15,1628389,Bam Adebayo,1610612748,Miami Heat,1,10,57,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,12,1,1,20240204,MIA,LAC
+Shot Chart Detail,0022300708,187,1628389,Bam Adebayo,1610612748,Miami Heat,2,7,4,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-49,71,1,1,20240204,MIA,LAC
+Shot Chart Detail,0022300708,261,1628389,Bam Adebayo,1610612748,Miami Heat,2,0,18,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,10,1,1,20240204,MIA,LAC
+Shot Chart Detail,0022300708,310,1628389,Bam Adebayo,1610612748,Miami Heat,3,7,49,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20240204,MIA,LAC
+Shot Chart Detail,0022300708,536,1628389,Bam Adebayo,1610612748,Miami Heat,4,1,10,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,17,1,1,20240204,MIA,LAC
+Shot Chart Detail,0022300721,14,1628389,Bam Adebayo,1610612748,Miami Heat,1,10,33,Made Shot,Driving Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,31,31,1,1,20240206,MIA,ORL
+Shot Chart Detail,0022300721,42,1628389,Bam Adebayo,1610612748,Miami Heat,1,7,49,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2,24,1,1,20240206,MIA,ORL
+Shot Chart Detail,0022300721,353,1628389,Bam Adebayo,1610612748,Miami Heat,3,11,0,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,25,23,1,1,20240206,MIA,ORL
+Shot Chart Detail,0022300721,371,1628389,Bam Adebayo,1610612748,Miami Heat,3,9,23,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,20,39,1,1,20240206,MIA,ORL
+Shot Chart Detail,0022300721,379,1628389,Bam Adebayo,1610612748,Miami Heat,3,8,32,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-6,80,1,1,20240206,MIA,ORL
+Shot Chart Detail,0022300721,383,1628389,Bam Adebayo,1610612748,Miami Heat,3,8,8,Made Shot,Running Pull-Up Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,39,115,1,1,20240206,MIA,ORL
+Shot Chart Detail,0022300721,431,1628389,Bam Adebayo,1610612748,Miami Heat,3,3,52,Made Shot,Driving Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-21,38,1,1,20240206,MIA,ORL
+Shot Chart Detail,0022300730,7,1628389,Bam Adebayo,1610612748,Miami Heat,1,11,42,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,4,68,1,1,20240207,MIA,SAS
+Shot Chart Detail,0022300730,15,1628389,Bam Adebayo,1610612748,Miami Heat,1,11,4,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,32,45,1,1,20240207,MIA,SAS
+Shot Chart Detail,0022300730,41,1628389,Bam Adebayo,1610612748,Miami Heat,1,8,15,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-8,67,1,1,20240207,MIA,SAS
+Shot Chart Detail,0022300730,74,1628389,Bam Adebayo,1610612748,Miami Heat,1,6,4,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,7,59,1,1,20240207,MIA,SAS
+Shot Chart Detail,0022300730,93,1628389,Bam Adebayo,1610612748,Miami Heat,1,4,40,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-11,125,1,1,20240207,MIA,SAS
+Shot Chart Detail,0022300730,281,1628389,Bam Adebayo,1610612748,Miami Heat,2,3,44,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,32,91,1,1,20240207,MIA,SAS
+Shot Chart Detail,0022300730,336,1628389,Bam Adebayo,1610612748,Miami Heat,3,11,37,Made Shot,Cutting Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,29,52,1,1,20240207,MIA,SAS
+Shot Chart Detail,0022300730,364,1628389,Bam Adebayo,1610612748,Miami Heat,3,9,9,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,20,1,1,20240207,MIA,SAS
+Shot Chart Detail,0022300730,371,1628389,Bam Adebayo,1610612748,Miami Heat,3,8,23,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,45,41,1,1,20240207,MIA,SAS
+Shot Chart Detail,0022300730,527,1628389,Bam Adebayo,1610612748,Miami Heat,4,8,34,Made Shot,Running Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-27,19,1,1,20240207,MIA,SAS
+Shot Chart Detail,0022300759,9,1628389,Bam Adebayo,1610612748,Miami Heat,1,11,20,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,51,111,1,1,20240211,MIA,BOS
+Shot Chart Detail,0022300759,283,1628389,Bam Adebayo,1610612748,Miami Heat,2,0,56,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-25,10,1,1,20240211,MIA,BOS
+Shot Chart Detail,0022300759,305,1628389,Bam Adebayo,1610612748,Miami Heat,3,11,43,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,55,87,1,1,20240211,MIA,BOS
+Shot Chart Detail,0022300759,349,1628389,Bam Adebayo,1610612748,Miami Heat,3,7,58,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,0,35,1,1,20240211,MIA,BOS
+Shot Chart Detail,0022300759,509,1628389,Bam Adebayo,1610612748,Miami Heat,4,7,44,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-29,10,1,1,20240211,MIA,BOS
+Shot Chart Detail,0022300759,519,1628389,Bam Adebayo,1610612748,Miami Heat,4,6,59,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-64,58,1,1,20240211,MIA,BOS
+Shot Chart Detail,0022300759,549,1628389,Bam Adebayo,1610612748,Miami Heat,4,3,35,Made Shot,Turnaround Fadeaway Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,49,18,1,1,20240211,MIA,BOS
+Shot Chart Detail,0022300773,26,1628389,Bam Adebayo,1610612748,Miami Heat,1,9,48,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,1,28,1,1,20240213,MIL,MIA
+Shot Chart Detail,0022300773,60,1628389,Bam Adebayo,1610612748,Miami Heat,1,7,16,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,14,129,1,1,20240213,MIL,MIA
+Shot Chart Detail,0022300773,71,1628389,Bam Adebayo,1610612748,Miami Heat,1,5,58,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,4,1,1,20240213,MIL,MIA
+Shot Chart Detail,0022300773,154,1628389,Bam Adebayo,1610612748,Miami Heat,2,11,10,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,8,1,1,20240213,MIL,MIA
+Shot Chart Detail,0022300773,246,1628389,Bam Adebayo,1610612748,Miami Heat,2,3,38,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-59,105,1,1,20240213,MIL,MIA
+Shot Chart Detail,0022300773,276,1628389,Bam Adebayo,1610612748,Miami Heat,2,0,26,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-70,73,1,1,20240213,MIL,MIA
+Shot Chart Detail,0022300773,301,1628389,Bam Adebayo,1610612748,Miami Heat,3,9,36,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,11,1,1,20240213,MIL,MIA
+Shot Chart Detail,0022300773,468,1628389,Bam Adebayo,1610612748,Miami Heat,4,11,22,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,42,106,1,1,20240213,MIL,MIA
+Shot Chart Detail,0022300779,23,1628389,Bam Adebayo,1610612748,Miami Heat,1,9,49,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,8,1,1,20240214,PHI,MIA
+Shot Chart Detail,0022300779,29,1628389,Bam Adebayo,1610612748,Miami Heat,1,9,28,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,1,1,1,20240214,PHI,MIA
+Shot Chart Detail,0022300779,39,1628389,Bam Adebayo,1610612748,Miami Heat,1,8,16,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,37,86,1,1,20240214,PHI,MIA
+Shot Chart Detail,0022300779,42,1628389,Bam Adebayo,1610612748,Miami Heat,1,7,43,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,10,29,1,1,20240214,PHI,MIA
+Shot Chart Detail,0022300779,50,1628389,Bam Adebayo,1610612748,Miami Heat,1,6,38,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-39,80,1,1,20240214,PHI,MIA
+Shot Chart Detail,0022300779,356,1628389,Bam Adebayo,1610612748,Miami Heat,3,8,59,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,16,1,1,20240214,PHI,MIA
+Shot Chart Detail,0022300779,414,1628389,Bam Adebayo,1610612748,Miami Heat,3,4,31,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,16,1,1,20240214,PHI,MIA
+Shot Chart Detail,0022300779,489,1628389,Bam Adebayo,1610612748,Miami Heat,4,9,52,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,15,48,1,1,20240214,PHI,MIA
+Shot Chart Detail,0022300779,537,1628389,Bam Adebayo,1610612748,Miami Heat,4,5,9,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,9,1,1,20240214,PHI,MIA
+Shot Chart Detail,0022300810,10,1628389,Bam Adebayo,1610612748,Miami Heat,1,11,26,Made Shot,Cutting Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-1,50,1,1,20240223,NOP,MIA
+Shot Chart Detail,0022300810,65,1628389,Bam Adebayo,1610612748,Miami Heat,1,6,25,Made Shot,Running Pull-Up Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,7,36,1,1,20240223,NOP,MIA
+Shot Chart Detail,0022300810,361,1628389,Bam Adebayo,1610612748,Miami Heat,3,9,10,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,11,1,1,20240223,NOP,MIA
+Shot Chart Detail,0022300810,378,1628389,Bam Adebayo,1610612748,Miami Heat,3,7,50,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,13,1,1,20240223,NOP,MIA
+Shot Chart Detail,0022300810,395,1628389,Bam Adebayo,1610612748,Miami Heat,3,5,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,23,144,1,1,20240223,NOP,MIA
+Shot Chart Detail,0022300810,530,1628389,Bam Adebayo,1610612748,Miami Heat,4,11,7,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-1,86,1,1,20240223,NOP,MIA
+Shot Chart Detail,0022300810,569,1628389,Bam Adebayo,1610612748,Miami Heat,4,7,37,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-2,49,1,1,20240223,NOP,MIA
+Shot Chart Detail,0022300810,595,1628389,Bam Adebayo,1610612748,Miami Heat,4,5,40,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-5,26,1,1,20240223,NOP,MIA
+Shot Chart Detail,0022300810,642,1628389,Bam Adebayo,1610612748,Miami Heat,4,2,40,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-39,89,1,1,20240223,NOP,MIA
+Shot Chart Detail,0022300810,647,1628389,Bam Adebayo,1610612748,Miami Heat,4,2,3,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-4,69,1,1,20240223,NOP,MIA
+Shot Chart Detail,0022300810,663,1628389,Bam Adebayo,1610612748,Miami Heat,4,0,33,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-37,121,1,1,20240223,NOP,MIA
+Shot Chart Detail,0022300831,18,1628389,Bam Adebayo,1610612748,Miami Heat,1,10,53,Made Shot,Alley Oop Layup shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-44,52,1,1,20240226,SAC,MIA
+Shot Chart Detail,0022300831,40,1628389,Bam Adebayo,1610612748,Miami Heat,1,8,43,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-10,37,1,1,20240226,SAC,MIA
+Shot Chart Detail,0022300831,55,1628389,Bam Adebayo,1610612748,Miami Heat,1,7,42,Made Shot,Putback Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-11,43,1,1,20240226,SAC,MIA
+Shot Chart Detail,0022300831,74,1628389,Bam Adebayo,1610612748,Miami Heat,1,5,49,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-4,79,1,1,20240226,SAC,MIA
+Shot Chart Detail,0022300831,116,1628389,Bam Adebayo,1610612748,Miami Heat,1,3,13,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-6,86,1,1,20240226,SAC,MIA
+Shot Chart Detail,0022300831,260,1628389,Bam Adebayo,1610612748,Miami Heat,2,4,38,Made Shot,Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-22,55,1,1,20240226,SAC,MIA
+Shot Chart Detail,0022300831,284,1628389,Bam Adebayo,1610612748,Miami Heat,2,2,23,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,11,28,1,1,20240226,SAC,MIA
+Shot Chart Detail,0022300831,358,1628389,Bam Adebayo,1610612748,Miami Heat,3,9,16,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,2,71,1,1,20240226,SAC,MIA
+Shot Chart Detail,0022300831,503,1628389,Bam Adebayo,1610612748,Miami Heat,4,9,14,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-54,140,1,1,20240226,SAC,MIA
+Shot Chart Detail,0022300831,562,1628389,Bam Adebayo,1610612748,Miami Heat,4,4,24,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-92,38,1,1,20240226,SAC,MIA
+Shot Chart Detail,0022300831,588,1628389,Bam Adebayo,1610612748,Miami Heat,4,1,16,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,9,124,1,1,20240226,SAC,MIA
+Shot Chart Detail,0022300842,41,1628389,Bam Adebayo,1610612748,Miami Heat,1,8,43,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,7,27,1,1,20240227,POR,MIA
+Shot Chart Detail,0022300842,49,1628389,Bam Adebayo,1610612748,Miami Heat,1,8,8,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-6,24,1,1,20240227,POR,MIA
+Shot Chart Detail,0022300842,236,1628389,Bam Adebayo,1610612748,Miami Heat,2,6,28,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,0,109,1,1,20240227,POR,MIA
+Shot Chart Detail,0022300842,269,1628389,Bam Adebayo,1610612748,Miami Heat,2,4,16,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,9,80,1,1,20240227,POR,MIA
+Shot Chart Detail,0022300842,368,1628389,Bam Adebayo,1610612748,Miami Heat,3,8,12,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,15,1,1,20240227,POR,MIA
+Shot Chart Detail,0022300855,33,1628389,Bam Adebayo,1610612748,Miami Heat,1,8,52,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,92,82,1,1,20240229,DEN,MIA
+Shot Chart Detail,0022300855,225,1628389,Bam Adebayo,1610612748,Miami Heat,2,7,14,Made Shot,Running Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,-15,1,1,20240229,DEN,MIA
+Shot Chart Detail,0022300855,415,1628389,Bam Adebayo,1610612748,Miami Heat,3,6,27,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-25,90,1,1,20240229,DEN,MIA
+Shot Chart Detail,0022300855,438,1628389,Bam Adebayo,1610612748,Miami Heat,3,4,39,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,29,91,1,1,20240229,DEN,MIA
+Shot Chart Detail,0022300855,551,1628389,Bam Adebayo,1610612748,Miami Heat,4,7,58,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-16,47,1,1,20240229,DEN,MIA
+Shot Chart Detail,0022300855,619,1628389,Bam Adebayo,1610612748,Miami Heat,4,3,44,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-1,67,1,1,20240229,DEN,MIA
+Shot Chart Detail,0022300855,634,1628389,Bam Adebayo,1610612748,Miami Heat,4,2,32,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-99,23,1,1,20240229,DEN,MIA
+Shot Chart Detail,0022300855,644,1628389,Bam Adebayo,1610612748,Miami Heat,4,0,52,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,56,81,1,1,20240229,DEN,MIA
+Shot Chart Detail,0022300867,31,1628389,Bam Adebayo,1610612748,Miami Heat,1,8,47,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,26,136,1,1,20240302,MIA,UTA
+Shot Chart Detail,0022300867,84,1628389,Bam Adebayo,1610612748,Miami Heat,1,4,46,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-2,50,1,1,20240302,MIA,UTA
+Shot Chart Detail,0022300867,94,1628389,Bam Adebayo,1610612748,Miami Heat,1,4,14,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,8,1,1,20240302,MIA,UTA
+Shot Chart Detail,0022300867,238,1628389,Bam Adebayo,1610612748,Miami Heat,2,7,13,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-16,49,1,1,20240302,MIA,UTA
+Shot Chart Detail,0022300867,252,1628389,Bam Adebayo,1610612748,Miami Heat,2,5,43,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,2,43,1,1,20240302,MIA,UTA
+Shot Chart Detail,0022300867,276,1628389,Bam Adebayo,1610612748,Miami Heat,2,4,28,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,-4,1,1,20240302,MIA,UTA
+Shot Chart Detail,0022300867,501,1628389,Bam Adebayo,1610612748,Miami Heat,4,11,43,Made Shot,Turnaround Fadeaway Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,54,31,1,1,20240302,MIA,UTA
+Shot Chart Detail,0022300867,559,1628389,Bam Adebayo,1610612748,Miami Heat,4,7,1,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,10,55,1,1,20240302,MIA,UTA
+Shot Chart Detail,0022300867,563,1628389,Bam Adebayo,1610612748,Miami Heat,4,6,14,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,3,1,1,20240302,MIA,UTA
+Shot Chart Detail,0022300867,605,1628389,Bam Adebayo,1610612748,Miami Heat,4,3,48,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20240302,MIA,UTA
+Shot Chart Detail,0022300888,33,1628389,Bam Adebayo,1610612748,Miami Heat,1,9,32,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20240305,MIA,DET
+Shot Chart Detail,0022300888,93,1628389,Bam Adebayo,1610612748,Miami Heat,1,4,32,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,10,70,1,1,20240305,MIA,DET
+Shot Chart Detail,0022300888,258,1628389,Bam Adebayo,1610612748,Miami Heat,2,3,40,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-11,32,1,1,20240305,MIA,DET
+Shot Chart Detail,0022300888,309,1628389,Bam Adebayo,1610612748,Miami Heat,3,10,54,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,59,38,1,1,20240305,MIA,DET
+Shot Chart Detail,0022300888,317,1628389,Bam Adebayo,1610612748,Miami Heat,3,9,57,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,4,63,1,1,20240305,MIA,DET
+Shot Chart Detail,0022300888,321,1628389,Bam Adebayo,1610612748,Miami Heat,3,9,24,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-6,122,1,1,20240305,MIA,DET
+Shot Chart Detail,0022300888,345,1628389,Bam Adebayo,1610612748,Miami Heat,3,7,27,Made Shot,Running Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,18,1,1,20240305,MIA,DET
+Shot Chart Detail,0022300888,435,1628389,Bam Adebayo,1610612748,Miami Heat,3,1,16,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,56,93,1,1,20240305,MIA,DET
+Shot Chart Detail,0022300904,19,1628389,Bam Adebayo,1610612748,Miami Heat,1,10,22,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,3,1,1,20240307,DAL,MIA
+Shot Chart Detail,0022300904,66,1628389,Bam Adebayo,1610612748,Miami Heat,1,6,21,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,11,1,1,20240307,DAL,MIA
+Shot Chart Detail,0022300904,273,1628389,Bam Adebayo,1610612748,Miami Heat,2,3,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,-8,1,1,20240307,DAL,MIA
+Shot Chart Detail,0022300904,352,1628389,Bam Adebayo,1610612748,Miami Heat,3,9,55,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,6,1,1,20240307,DAL,MIA
+Shot Chart Detail,0022300904,443,1628389,Bam Adebayo,1610612748,Miami Heat,3,3,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,5,1,1,20240307,DAL,MIA
+Shot Chart Detail,0022300914,60,1628389,Bam Adebayo,1610612748,Miami Heat,1,6,2,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,23,127,1,1,20240308,OKC,MIA
+Shot Chart Detail,0022300926,27,1628389,Bam Adebayo,1610612748,Miami Heat,1,9,51,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20240310,MIA,WAS
+Shot Chart Detail,0022300926,52,1628389,Bam Adebayo,1610612748,Miami Heat,1,7,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,3,1,1,20240310,MIA,WAS
+Shot Chart Detail,0022300926,76,1628389,Bam Adebayo,1610612748,Miami Heat,1,6,6,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,14,1,1,20240310,MIA,WAS
+Shot Chart Detail,0022300926,100,1628389,Bam Adebayo,1610612748,Miami Heat,1,4,29,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20240310,MIA,WAS
+Shot Chart Detail,0022300926,310,1628389,Bam Adebayo,1610612748,Miami Heat,2,0,13,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,45,26,1,1,20240310,MIA,WAS
+Shot Chart Detail,0022300926,357,1628389,Bam Adebayo,1610612748,Miami Heat,3,7,13,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,6,1,1,20240310,MIA,WAS
+Shot Chart Detail,0022300926,396,1628389,Bam Adebayo,1610612748,Miami Heat,3,4,13,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,11,1,1,20240310,MIA,WAS
+Shot Chart Detail,0022300949,14,1628389,Bam Adebayo,1610612748,Miami Heat,1,10,56,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-1,131,1,1,20240313,MIA,DEN
+Shot Chart Detail,0022300949,271,1628389,Bam Adebayo,1610612748,Miami Heat,2,2,46,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,54,68,1,1,20240313,MIA,DEN
+Shot Chart Detail,0022300949,275,1628389,Bam Adebayo,1610612748,Miami Heat,2,2,13,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,21,80,1,1,20240313,MIA,DEN
+Shot Chart Detail,0022300949,353,1628389,Bam Adebayo,1610612748,Miami Heat,3,5,59,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,25,256,1,1,20240313,MIA,DEN
+Shot Chart Detail,0022300949,371,1628389,Bam Adebayo,1610612748,Miami Heat,3,4,59,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,10,1,1,20240313,MIA,DEN
+Shot Chart Detail,0022300949,386,1628389,Bam Adebayo,1610612748,Miami Heat,3,2,56,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,15,1,1,20240313,MIA,DEN
+Shot Chart Detail,0022300949,535,1628389,Bam Adebayo,1610612748,Miami Heat,4,0,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,2,1,1,20240313,MIA,DEN
+Shot Chart Detail,0022300962,217,1628389,Bam Adebayo,1610612748,Miami Heat,2,9,13,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20240315,DET,MIA
+Shot Chart Detail,0022300962,223,1628389,Bam Adebayo,1610612748,Miami Heat,2,8,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-27,247,1,1,20240315,DET,MIA
+Shot Chart Detail,0022300962,244,1628389,Bam Adebayo,1610612748,Miami Heat,2,6,52,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,7,98,1,1,20240315,DET,MIA
+Shot Chart Detail,0022300962,261,1628389,Bam Adebayo,1610612748,Miami Heat,2,6,33,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,1,31,1,1,20240315,DET,MIA
+Shot Chart Detail,0022300962,266,1628389,Bam Adebayo,1610612748,Miami Heat,2,5,50,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,17,1,1,20240315,DET,MIA
+Shot Chart Detail,0022300962,311,1628389,Bam Adebayo,1610612748,Miami Heat,2,2,25,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,0,1,1,20240315,DET,MIA
+Shot Chart Detail,0022300962,345,1628389,Bam Adebayo,1610612748,Miami Heat,2,0,38,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-1,72,1,1,20240315,DET,MIA
+Shot Chart Detail,0022300962,363,1628389,Bam Adebayo,1610612748,Miami Heat,3,10,31,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,22,29,1,1,20240315,DET,MIA
+Shot Chart Detail,0022300962,367,1628389,Bam Adebayo,1610612748,Miami Heat,3,10,0,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,13,76,107,1,1,20240315,DET,MIA
+Shot Chart Detail,0022300962,378,1628389,Bam Adebayo,1610612748,Miami Heat,3,9,0,Made Shot,Turnaround Bank shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,20,1,1,20240315,DET,MIA
+Shot Chart Detail,0022300977,11,1628389,Bam Adebayo,1610612748,Miami Heat,1,11,9,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,4,40,1,1,20240317,DET,MIA
+Shot Chart Detail,0022300977,38,1628389,Bam Adebayo,1610612748,Miami Heat,1,8,47,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,21,1,1,20240317,DET,MIA
+Shot Chart Detail,0022300977,96,1628389,Bam Adebayo,1610612748,Miami Heat,1,3,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,20,1,1,20240317,DET,MIA
+Shot Chart Detail,0022300977,288,1628389,Bam Adebayo,1610612748,Miami Heat,2,0,36,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,47,82,1,1,20240317,DET,MIA
+Shot Chart Detail,0022300977,322,1628389,Bam Adebayo,1610612748,Miami Heat,3,9,15,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-23,39,1,1,20240317,DET,MIA
+Shot Chart Detail,0022300977,478,1628389,Bam Adebayo,1610612748,Miami Heat,4,9,9,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-27,28,1,1,20240317,DET,MIA
+Shot Chart Detail,0022300977,517,1628389,Bam Adebayo,1610612748,Miami Heat,4,6,43,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20240317,DET,MIA
+Shot Chart Detail,0022300977,538,1628389,Bam Adebayo,1610612748,Miami Heat,4,5,8,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,10,36,1,1,20240317,DET,MIA
+Shot Chart Detail,0022300977,588,1628389,Bam Adebayo,1610612748,Miami Heat,4,0,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,30,10,309,1,1,20240317,DET,MIA
+Shot Chart Detail,0022300985,39,1628389,Bam Adebayo,1610612748,Miami Heat,1,8,11,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-2,157,1,1,20240318,PHI,MIA
+Shot Chart Detail,0022300985,57,1628389,Bam Adebayo,1610612748,Miami Heat,1,6,19,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,8,1,1,20240318,PHI,MIA
+Shot Chart Detail,0022300985,60,1628389,Bam Adebayo,1610612748,Miami Heat,1,5,54,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,-9,1,1,20240318,PHI,MIA
+Shot Chart Detail,0022300985,87,1628389,Bam Adebayo,1610612748,Miami Heat,1,3,52,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20240318,PHI,MIA
+Shot Chart Detail,0022300985,225,1628389,Bam Adebayo,1610612748,Miami Heat,2,6,30,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-58,64,1,1,20240318,PHI,MIA
+Shot Chart Detail,0022300985,271,1628389,Bam Adebayo,1610612748,Miami Heat,2,2,26,Made Shot,Turnaround Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-45,60,1,1,20240318,PHI,MIA
+Shot Chart Detail,0022300985,323,1628389,Bam Adebayo,1610612748,Miami Heat,3,11,6,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-9,109,1,1,20240318,PHI,MIA
+Shot Chart Detail,0022300985,421,1628389,Bam Adebayo,1610612748,Miami Heat,3,3,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,7,282,1,1,20240318,PHI,MIA
+Shot Chart Detail,0022301013,22,1628389,Bam Adebayo,1610612748,Miami Heat,1,9,58,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,42,105,1,1,20240322,MIA,NOP
+Shot Chart Detail,0022301013,37,1628389,Bam Adebayo,1610612748,Miami Heat,1,8,16,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,11,-59,102,1,1,20240322,MIA,NOP
+Shot Chart Detail,0022301013,449,1628389,Bam Adebayo,1610612748,Miami Heat,4,8,20,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-26,38,1,1,20240322,MIA,NOP
+Shot Chart Detail,0022301013,459,1628389,Bam Adebayo,1610612748,Miami Heat,4,7,16,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,245,25,1,1,20240322,MIA,NOP
+Shot Chart Detail,0022301029,15,1628389,Bam Adebayo,1610612748,Miami Heat,1,10,41,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,29,122,1,1,20240324,MIA,CLE
+Shot Chart Detail,0022301029,85,1628389,Bam Adebayo,1610612748,Miami Heat,1,5,10,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-17,52,1,1,20240324,MIA,CLE
+Shot Chart Detail,0022301029,125,1628389,Bam Adebayo,1610612748,Miami Heat,1,1,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-27,27,1,1,20240324,MIA,CLE
+Shot Chart Detail,0022301029,248,1628389,Bam Adebayo,1610612748,Miami Heat,2,4,41,Made Shot,Turnaround Fadeaway Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-64,17,1,1,20240324,MIA,CLE
+Shot Chart Detail,0022301029,251,1628389,Bam Adebayo,1610612748,Miami Heat,2,4,12,Made Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,8,99,1,1,20240324,MIA,CLE
+Shot Chart Detail,0022301029,385,1628389,Bam Adebayo,1610612748,Miami Heat,3,6,23,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20240324,MIA,CLE
+Shot Chart Detail,0022301029,396,1628389,Bam Adebayo,1610612748,Miami Heat,3,5,22,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-7,22,1,1,20240324,MIA,CLE
+Shot Chart Detail,0022301044,85,1628389,Bam Adebayo,1610612748,Miami Heat,1,4,18,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-5,73,1,1,20240326,MIA,GSW
+Shot Chart Detail,0022301044,100,1628389,Bam Adebayo,1610612748,Miami Heat,1,3,25,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-18,47,1,1,20240326,MIA,GSW
+Shot Chart Detail,0022301044,103,1628389,Bam Adebayo,1610612748,Miami Heat,1,3,2,Made Shot,Driving Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,4,1,1,20240326,MIA,GSW
+Shot Chart Detail,0022301044,119,1628389,Bam Adebayo,1610612748,Miami Heat,1,1,22,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,33,246,1,1,20240326,MIA,GSW
+Shot Chart Detail,0022301044,272,1628389,Bam Adebayo,1610612748,Miami Heat,2,0,48,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-17,59,1,1,20240326,MIA,GSW
+Shot Chart Detail,0022301044,279,1628389,Bam Adebayo,1610612748,Miami Heat,2,0,17,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-6,58,1,1,20240326,MIA,GSW
+Shot Chart Detail,0022301044,337,1628389,Bam Adebayo,1610612748,Miami Heat,3,7,42,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,13,1,1,20240326,MIA,GSW
+Shot Chart Detail,0022301044,350,1628389,Bam Adebayo,1610612748,Miami Heat,3,6,46,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,64,126,1,1,20240326,MIA,GSW
+Shot Chart Detail,0022301044,466,1628389,Bam Adebayo,1610612748,Miami Heat,4,11,35,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,76,20,1,1,20240326,MIA,GSW
+Shot Chart Detail,0022301044,490,1628389,Bam Adebayo,1610612748,Miami Heat,4,9,36,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20240326,MIA,GSW
+Shot Chart Detail,0022301068,17,1628389,Bam Adebayo,1610612748,Miami Heat,1,10,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-44,169,1,1,20240329,MIA,POR
+Shot Chart Detail,0022301068,35,1628389,Bam Adebayo,1610612748,Miami Heat,1,8,40,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,53,62,1,1,20240329,MIA,POR
+Shot Chart Detail,0022301068,52,1628389,Bam Adebayo,1610612748,Miami Heat,1,6,54,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-16,98,1,1,20240329,MIA,POR
+Shot Chart Detail,0022301068,62,1628389,Bam Adebayo,1610612748,Miami Heat,1,5,36,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-9,38,1,1,20240329,MIA,POR
+Shot Chart Detail,0022301068,246,1628389,Bam Adebayo,1610612748,Miami Heat,2,4,34,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-1,89,1,1,20240329,MIA,POR
+Shot Chart Detail,0022301068,248,1628389,Bam Adebayo,1610612748,Miami Heat,2,4,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,126,84,1,1,20240329,MIA,POR
+Shot Chart Detail,0022301068,256,1628389,Bam Adebayo,1610612748,Miami Heat,2,3,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-87,253,1,1,20240329,MIA,POR
+Shot Chart Detail,0022301068,260,1628389,Bam Adebayo,1610612748,Miami Heat,2,2,50,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-33,35,1,1,20240329,MIA,POR
+Shot Chart Detail,0022301068,403,1628389,Bam Adebayo,1610612748,Miami Heat,3,3,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-9,253,1,1,20240329,MIA,POR
+Shot Chart Detail,0022301081,98,1628389,Bam Adebayo,1610612748,Miami Heat,1,4,22,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-29,6,1,1,20240331,WAS,MIA
+Shot Chart Detail,0022301081,245,1628389,Bam Adebayo,1610612748,Miami Heat,2,6,26,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-61,38,1,1,20240331,WAS,MIA
+Shot Chart Detail,0022301081,249,1628389,Bam Adebayo,1610612748,Miami Heat,2,5,45,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-1,57,1,1,20240331,WAS,MIA
+Shot Chart Detail,0022301081,291,1628389,Bam Adebayo,1610612748,Miami Heat,2,3,38,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-25,22,1,1,20240331,WAS,MIA
+Shot Chart Detail,0022301081,296,1628389,Bam Adebayo,1610612748,Miami Heat,2,3,20,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-12,117,1,1,20240331,WAS,MIA
+Shot Chart Detail,0022301081,643,1628389,Bam Adebayo,1610612748,Miami Heat,4,2,22,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-5,60,1,1,20240331,WAS,MIA
+Shot Chart Detail,0022301096,259,1628389,Bam Adebayo,1610612748,Miami Heat,2,4,4,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,19,1,1,20240402,MIA,NYK
+Shot Chart Detail,0022301096,333,1628389,Bam Adebayo,1610612748,Miami Heat,3,9,53,Made Shot,Turnaround Fadeaway Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-62,28,1,1,20240402,MIA,NYK
+Shot Chart Detail,0022301096,370,1628389,Bam Adebayo,1610612748,Miami Heat,3,5,54,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,10,1,1,20240402,MIA,NYK
+Shot Chart Detail,0022301096,379,1628389,Bam Adebayo,1610612748,Miami Heat,3,5,11,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-1,55,1,1,20240402,MIA,NYK
+Shot Chart Detail,0022301096,565,1628389,Bam Adebayo,1610612748,Miami Heat,4,2,25,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20240402,MIA,NYK
+Shot Chart Detail,0022301096,583,1628389,Bam Adebayo,1610612748,Miami Heat,4,1,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-61,150,1,1,20240402,MIA,NYK
+Shot Chart Detail,0022301111,31,1628389,Bam Adebayo,1610612748,Miami Heat,1,9,8,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-9,47,1,1,20240404,MIA,PHI
+Shot Chart Detail,0022301111,308,1628389,Bam Adebayo,1610612748,Miami Heat,2,0,44,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,38,27,1,1,20240404,MIA,PHI
+Shot Chart Detail,0022301111,340,1628389,Bam Adebayo,1610612748,Miami Heat,3,10,17,Made Shot,Jump Bank Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,119,246,1,1,20240404,MIA,PHI
+Shot Chart Detail,0022301111,368,1628389,Bam Adebayo,1610612748,Miami Heat,3,7,41,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,90,34,1,1,20240404,MIA,PHI
+Shot Chart Detail,0022301111,377,1628389,Bam Adebayo,1610612748,Miami Heat,3,6,55,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,0,59,1,1,20240404,MIA,PHI
+Shot Chart Detail,0022301111,411,1628389,Bam Adebayo,1610612748,Miami Heat,3,4,28,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-97,47,1,1,20240404,MIA,PHI
+Shot Chart Detail,0022301120,21,1628389,Bam Adebayo,1610612748,Miami Heat,1,10,17,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,58,179,1,1,20240405,HOU,MIA
+Shot Chart Detail,0022301120,168,1628389,Bam Adebayo,1610612748,Miami Heat,2,11,38,Made Shot,Pullup Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,1,38,1,1,20240405,HOU,MIA
+Shot Chart Detail,0022301120,172,1628389,Bam Adebayo,1610612748,Miami Heat,2,10,59,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,4,29,1,1,20240405,HOU,MIA
+Shot Chart Detail,0022301120,199,1628389,Bam Adebayo,1610612748,Miami Heat,2,8,42,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,7,34,1,1,20240405,HOU,MIA
+Shot Chart Detail,0022301120,218,1628389,Bam Adebayo,1610612748,Miami Heat,2,7,21,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,4,1,1,20240405,HOU,MIA
+Shot Chart Detail,0022301120,363,1628389,Bam Adebayo,1610612748,Miami Heat,3,8,45,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,9,47,1,1,20240405,HOU,MIA
+Shot Chart Detail,0022301120,582,1628389,Bam Adebayo,1610612748,Miami Heat,4,4,23,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,115,31,1,1,20240405,HOU,MIA
+Shot Chart Detail,0022301133,62,1628389,Bam Adebayo,1610612748,Miami Heat,1,6,9,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,9,55,1,1,20240407,IND,MIA
+Shot Chart Detail,0022301133,158,1628389,Bam Adebayo,1610612748,Miami Heat,2,11,23,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,36,58,1,1,20240407,IND,MIA
+Shot Chart Detail,0022301133,162,1628389,Bam Adebayo,1610612748,Miami Heat,2,10,32,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,151,-1,1,1,20240407,IND,MIA
+Shot Chart Detail,0022301133,311,1628389,Bam Adebayo,1610612748,Miami Heat,2,0,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,203,151,1,1,20240407,IND,MIA
+Shot Chart Detail,0022301133,339,1628389,Bam Adebayo,1610612748,Miami Heat,3,10,11,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,7,1,1,20240407,IND,MIA
+Shot Chart Detail,0022301133,341,1628389,Bam Adebayo,1610612748,Miami Heat,3,9,37,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-147,86,1,1,20240407,IND,MIA
+Shot Chart Detail,0022301133,502,1628389,Bam Adebayo,1610612748,Miami Heat,4,8,56,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,12,163,1,1,20240407,IND,MIA
+Shot Chart Detail,0022301133,568,1628389,Bam Adebayo,1610612748,Miami Heat,4,5,20,Made Shot,Turnaround Fadeaway Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,9,91,1,1,20240407,IND,MIA
+Shot Chart Detail,0022301147,18,1628389,Bam Adebayo,1610612748,Miami Heat,1,9,59,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,29,1,1,20240409,ATL,MIA
+Shot Chart Detail,0022301147,200,1628389,Bam Adebayo,1610612748,Miami Heat,2,7,33,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,-4,1,1,20240409,ATL,MIA
+Shot Chart Detail,0022301147,273,1628389,Bam Adebayo,1610612748,Miami Heat,2,1,55,Made Shot,Jump Bank Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,50,248,1,1,20240409,ATL,MIA
+Shot Chart Detail,0022301147,306,1628389,Bam Adebayo,1610612748,Miami Heat,3,10,32,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-21,23,1,1,20240409,ATL,MIA
+Shot Chart Detail,0022301161,20,1628389,Bam Adebayo,1610612748,Miami Heat,1,10,30,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-34,59,1,1,20240410,MIA,DAL
+Shot Chart Detail,0022301161,298,1628389,Bam Adebayo,1610612748,Miami Heat,3,11,6,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-6,29,1,1,20240410,MIA,DAL
+Shot Chart Detail,0022301161,333,1628389,Bam Adebayo,1610612748,Miami Heat,3,7,38,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-22,69,1,1,20240410,MIA,DAL
+Shot Chart Detail,0022301176,7,1628389,Bam Adebayo,1610612748,Miami Heat,1,11,39,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,-3,1,1,20240412,MIA,TOR
+Shot Chart Detail,0022301176,47,1628389,Bam Adebayo,1610612748,Miami Heat,1,7,37,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,7,1,1,20240412,MIA,TOR
+Shot Chart Detail,0022301176,210,1628389,Bam Adebayo,1610612748,Miami Heat,2,6,12,Made Shot,Running Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,2,1,1,20240412,MIA,TOR
+Shot Chart Detail,0022301176,233,1628389,Bam Adebayo,1610612748,Miami Heat,2,5,10,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20240412,MIA,TOR
+Shot Chart Detail,0022301176,262,1628389,Bam Adebayo,1610612748,Miami Heat,2,2,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,113,225,1,1,20240412,MIA,TOR
+Shot Chart Detail,0022301176,285,1628389,Bam Adebayo,1610612748,Miami Heat,2,0,50,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,1,1,1,20240412,MIA,TOR
+Shot Chart Detail,0022301176,301,1628389,Bam Adebayo,1610612748,Miami Heat,3,10,52,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-38,105,1,1,20240412,MIA,TOR
+Shot Chart Detail,0022301176,382,1628389,Bam Adebayo,1610612748,Miami Heat,3,4,5,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,6,1,1,20240412,MIA,TOR
+Shot Chart Detail,0022301189,63,1628389,Bam Adebayo,1610612748,Miami Heat,1,7,5,Made Shot,Tip Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,6,47,1,1,20240414,MIA,TOR
+Shot Chart Detail,0022301189,109,1628389,Bam Adebayo,1610612748,Miami Heat,1,4,1,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-17,134,1,1,20240414,MIA,TOR
+Shot Chart Detail,0022301189,264,1628389,Bam Adebayo,1610612748,Miami Heat,2,5,30,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-1,92,1,1,20240414,MIA,TOR
+Shot Chart Detail,0022301189,289,1628389,Bam Adebayo,1610612748,Miami Heat,2,3,33,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,2,52,1,1,20240414,MIA,TOR
+Shot Chart Detail,0022301189,314,1628389,Bam Adebayo,1610612748,Miami Heat,2,1,11,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-88,50,1,1,20240414,MIA,TOR
+Shot Chart Detail,0022301189,356,1628389,Bam Adebayo,1610612748,Miami Heat,3,10,4,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,22,1,1,20240414,MIA,TOR
+Shot Chart Detail,0022301189,375,1628389,Bam Adebayo,1610612748,Miami Heat,3,8,50,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-6,11,1,1,20240414,MIA,TOR
+Shot Chart Detail,0022301189,379,1628389,Bam Adebayo,1610612748,Miami Heat,3,8,14,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,15,1,1,20240414,MIA,TOR

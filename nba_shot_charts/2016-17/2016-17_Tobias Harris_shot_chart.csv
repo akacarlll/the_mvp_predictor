@@ -1,0 +1,512 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0021600007,9,202699,Tobias Harris,1610612765,Detroit Pistons,1,10,36,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-11,47,1,1,20161026,TOR,DET
+Shot Chart Detail,0021600007,100,202699,Tobias Harris,1610612765,Detroit Pistons,1,2,31,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,60,16,1,1,20161026,TOR,DET
+Shot Chart Detail,0021600007,118,202699,Tobias Harris,1610612765,Detroit Pistons,1,1,1,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20161026,TOR,DET
+Shot Chart Detail,0021600007,216,202699,Tobias Harris,1610612765,Detroit Pistons,2,6,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-83,21,1,1,20161026,TOR,DET
+Shot Chart Detail,0021600007,268,202699,Tobias Harris,1610612765,Detroit Pistons,2,3,4,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20161026,TOR,DET
+Shot Chart Detail,0021600007,316,202699,Tobias Harris,1610612765,Detroit Pistons,3,10,10,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-222,3,1,1,20161026,TOR,DET
+Shot Chart Detail,0021600007,384,202699,Tobias Harris,1610612765,Detroit Pistons,3,3,35,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-94,115,1,1,20161026,TOR,DET
+Shot Chart Detail,0021600007,386,202699,Tobias Harris,1610612765,Detroit Pistons,3,3,6,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-107,31,1,1,20161026,TOR,DET
+Shot Chart Detail,0021600020,8,202699,Tobias Harris,1610612765,Detroit Pistons,1,10,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-205,159,1,1,20161028,DET,ORL
+Shot Chart Detail,0021600020,19,202699,Tobias Harris,1610612765,Detroit Pistons,1,9,29,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,-1,1,1,20161028,DET,ORL
+Shot Chart Detail,0021600020,46,202699,Tobias Harris,1610612765,Detroit Pistons,1,6,54,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,16,1,1,20161028,DET,ORL
+Shot Chart Detail,0021600020,200,202699,Tobias Harris,1610612765,Detroit Pistons,2,3,39,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,61,26,1,1,20161028,DET,ORL
+Shot Chart Detail,0021600020,233,202699,Tobias Harris,1610612765,Detroit Pistons,2,0,37,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,33,46,1,1,20161028,DET,ORL
+Shot Chart Detail,0021600020,249,202699,Tobias Harris,1610612765,Detroit Pistons,3,11,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-156,95,1,1,20161028,DET,ORL
+Shot Chart Detail,0021600020,279,202699,Tobias Harris,1610612765,Detroit Pistons,3,7,24,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-4,61,1,1,20161028,DET,ORL
+Shot Chart Detail,0021600020,341,202699,Tobias Harris,1610612765,Detroit Pistons,3,1,13,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20161028,DET,ORL
+Shot Chart Detail,0021600038,9,202699,Tobias Harris,1610612765,Detroit Pistons,1,10,7,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,241,26,1,1,20161030,DET,MIL
+Shot Chart Detail,0021600038,23,202699,Tobias Harris,1610612765,Detroit Pistons,1,7,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-151,213,1,1,20161030,DET,MIL
+Shot Chart Detail,0021600038,26,202699,Tobias Harris,1610612765,Detroit Pistons,1,7,29,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,9,129,1,1,20161030,DET,MIL
+Shot Chart Detail,0021600038,309,202699,Tobias Harris,1610612765,Detroit Pistons,3,3,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,7,1,1,20161030,DET,MIL
+Shot Chart Detail,0021600038,332,202699,Tobias Harris,1610612765,Detroit Pistons,3,0,45,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-1,46,1,1,20161030,DET,MIL
+Shot Chart Detail,0021600038,337,202699,Tobias Harris,1610612765,Detroit Pistons,3,0,1,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20161030,DET,MIL
+Shot Chart Detail,0021600038,410,202699,Tobias Harris,1610612765,Detroit Pistons,4,6,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-153,36,1,1,20161030,DET,MIL
+Shot Chart Detail,0021600050,23,202699,Tobias Harris,1610612765,Detroit Pistons,1,9,10,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,7,1,1,20161101,DET,NYK
+Shot Chart Detail,0021600050,195,202699,Tobias Harris,1610612765,Detroit Pistons,2,6,25,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-27,56,1,1,20161101,DET,NYK
+Shot Chart Detail,0021600050,300,202699,Tobias Harris,1610612765,Detroit Pistons,3,7,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,2,1,1,20161101,DET,NYK
+Shot Chart Detail,0021600050,311,202699,Tobias Harris,1610612765,Detroit Pistons,3,6,8,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,2,1,1,20161101,DET,NYK
+Shot Chart Detail,0021600050,357,202699,Tobias Harris,1610612765,Detroit Pistons,3,2,35,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,11,1,1,20161101,DET,NYK
+Shot Chart Detail,0021600050,395,202699,Tobias Harris,1610612765,Detroit Pistons,4,9,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,112,234,1,1,20161101,DET,NYK
+Shot Chart Detail,0021600050,422,202699,Tobias Harris,1610612765,Detroit Pistons,4,7,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-96,23,1,1,20161101,DET,NYK
+Shot Chart Detail,0021600050,495,202699,Tobias Harris,1610612765,Detroit Pistons,4,1,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,2,1,1,20161101,DET,NYK
+Shot Chart Detail,0021600057,28,202699,Tobias Harris,1610612765,Detroit Pistons,1,7,51,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,-10,1,1,20161102,BKN,DET
+Shot Chart Detail,0021600057,38,202699,Tobias Harris,1610612765,Detroit Pistons,1,7,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,12,144,1,1,20161102,BKN,DET
+Shot Chart Detail,0021600057,206,202699,Tobias Harris,1610612765,Detroit Pistons,2,3,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-17,3,1,1,20161102,BKN,DET
+Shot Chart Detail,0021600057,215,202699,Tobias Harris,1610612765,Detroit Pistons,2,2,26,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,7,1,1,20161102,BKN,DET
+Shot Chart Detail,0021600057,246,202699,Tobias Harris,1610612765,Detroit Pistons,3,10,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-30,-11,1,1,20161102,BKN,DET
+Shot Chart Detail,0021600057,258,202699,Tobias Harris,1610612765,Detroit Pistons,3,8,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,16,1,1,20161102,BKN,DET
+Shot Chart Detail,0021600057,464,202699,Tobias Harris,1610612765,Detroit Pistons,4,3,13,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,33,28,1,1,20161102,BKN,DET
+Shot Chart Detail,0021600057,494,202699,Tobias Harris,1610612765,Detroit Pistons,4,0,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,23,-205,124,1,1,20161102,BKN,DET
+Shot Chart Detail,0021600082,23,202699,Tobias Harris,1610612765,Detroit Pistons,1,9,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-102,72,1,1,20161105,DET,DEN
+Shot Chart Detail,0021600082,42,202699,Tobias Harris,1610612765,Detroit Pistons,1,7,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,0,1,1,20161105,DET,DEN
+Shot Chart Detail,0021600082,234,202699,Tobias Harris,1610612765,Detroit Pistons,2,2,8,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,3,1,1,20161105,DET,DEN
+Shot Chart Detail,0021600082,239,202699,Tobias Harris,1610612765,Detroit Pistons,2,1,42,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,2,62,1,1,20161105,DET,DEN
+Shot Chart Detail,0021600098,19,202699,Tobias Harris,1610612765,Detroit Pistons,1,9,39,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,16,1,1,20161107,LAC,DET
+Shot Chart Detail,0021600098,81,202699,Tobias Harris,1610612765,Detroit Pistons,1,2,18,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,19,36,1,1,20161107,LAC,DET
+Shot Chart Detail,0021600098,166,202699,Tobias Harris,1610612765,Detroit Pistons,2,6,27,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-6,56,1,1,20161107,LAC,DET
+Shot Chart Detail,0021600098,267,202699,Tobias Harris,1610612765,Detroit Pistons,3,10,50,Made Shot,Running Pull-Up Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,35,80,1,1,20161107,LAC,DET
+Shot Chart Detail,0021600098,296,202699,Tobias Harris,1610612765,Detroit Pistons,3,7,17,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,28,33,1,1,20161107,LAC,DET
+Shot Chart Detail,0021600113,16,202699,Tobias Harris,1610612765,Detroit Pistons,1,8,57,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-84,149,1,1,20161109,PHX,DET
+Shot Chart Detail,0021600113,30,202699,Tobias Harris,1610612765,Detroit Pistons,1,8,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-210,134,1,1,20161109,PHX,DET
+Shot Chart Detail,0021600113,45,202699,Tobias Harris,1610612765,Detroit Pistons,1,6,16,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20161109,PHX,DET
+Shot Chart Detail,0021600127,6,202699,Tobias Harris,1610612765,Detroit Pistons,1,10,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,9,174,1,1,20161111,SAS,DET
+Shot Chart Detail,0021600127,16,202699,Tobias Harris,1610612765,Detroit Pistons,1,9,26,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,30,13,1,1,20161111,SAS,DET
+Shot Chart Detail,0021600127,48,202699,Tobias Harris,1610612765,Detroit Pistons,1,5,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-119,11,1,1,20161111,SAS,DET
+Shot Chart Detail,0021600127,268,202699,Tobias Harris,1610612765,Detroit Pistons,3,6,28,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-81,43,1,1,20161111,SAS,DET
+Shot Chart Detail,0021600138,15,202699,Tobias Harris,1610612765,Detroit Pistons,1,10,9,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-61,67,1,1,20161112,DEN,DET
+Shot Chart Detail,0021600138,45,202699,Tobias Harris,1610612765,Detroit Pistons,1,7,47,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,2,46,1,1,20161112,DEN,DET
+Shot Chart Detail,0021600138,184,202699,Tobias Harris,1610612765,Detroit Pistons,2,3,35,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20161112,DEN,DET
+Shot Chart Detail,0021600138,228,202699,Tobias Harris,1610612765,Detroit Pistons,2,0,28,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-40,16,1,1,20161112,DEN,DET
+Shot Chart Detail,0021600138,350,202699,Tobias Harris,1610612765,Detroit Pistons,3,2,33,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,40,23,1,1,20161112,DEN,DET
+Shot Chart Detail,0021600138,385,202699,Tobias Harris,1610612765,Detroit Pistons,4,11,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-112,219,1,1,20161112,DEN,DET
+Shot Chart Detail,0021600138,442,202699,Tobias Harris,1610612765,Detroit Pistons,4,4,4,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,0,41,1,1,20161112,DEN,DET
+Shot Chart Detail,0021600138,465,202699,Tobias Harris,1610612765,Detroit Pistons,4,1,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-92,70,1,1,20161112,DEN,DET
+Shot Chart Detail,0021600147,124,202699,Tobias Harris,1610612765,Detroit Pistons,1,0,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,11,1,1,20161114,DET,OKC
+Shot Chart Detail,0021600147,148,202699,Tobias Harris,1610612765,Detroit Pistons,2,9,53,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,163,11,1,1,20161114,DET,OKC
+Shot Chart Detail,0021600147,159,202699,Tobias Harris,1610612765,Detroit Pistons,2,8,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,2,1,1,20161114,DET,OKC
+Shot Chart Detail,0021600147,217,202699,Tobias Harris,1610612765,Detroit Pistons,2,3,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-99,237,1,1,20161114,DET,OKC
+Shot Chart Detail,0021600147,228,202699,Tobias Harris,1610612765,Detroit Pistons,2,2,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-137,67,1,1,20161114,DET,OKC
+Shot Chart Detail,0021600147,283,202699,Tobias Harris,1610612765,Detroit Pistons,3,11,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-166,47,1,1,20161114,DET,OKC
+Shot Chart Detail,0021600147,375,202699,Tobias Harris,1610612765,Detroit Pistons,3,1,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-178,31,1,1,20161114,DET,OKC
+Shot Chart Detail,0021600147,438,202699,Tobias Harris,1610612765,Detroit Pistons,4,8,53,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,41,1,1,20161114,DET,OKC
+Shot Chart Detail,0021600147,495,202699,Tobias Harris,1610612765,Detroit Pistons,4,2,51,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20161114,DET,OKC
+Shot Chart Detail,0021600162,23,202699,Tobias Harris,1610612765,Detroit Pistons,1,10,3,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,9,43,1,1,20161116,NYK,DET
+Shot Chart Detail,0021600162,58,202699,Tobias Harris,1610612765,Detroit Pistons,1,5,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-27,247,1,1,20161116,NYK,DET
+Shot Chart Detail,0021600162,191,202699,Tobias Harris,1610612765,Detroit Pistons,2,4,8,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,61,120,1,1,20161116,NYK,DET
+Shot Chart Detail,0021600162,279,202699,Tobias Harris,1610612765,Detroit Pistons,3,8,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,11,1,1,20161116,NYK,DET
+Shot Chart Detail,0021600162,282,202699,Tobias Harris,1610612765,Detroit Pistons,3,7,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,0,1,1,20161116,NYK,DET
+Shot Chart Detail,0021600162,357,202699,Tobias Harris,1610612765,Detroit Pistons,4,10,55,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,50,159,1,1,20161116,NYK,DET
+Shot Chart Detail,0021600175,3,202699,Tobias Harris,1610612765,Detroit Pistons,1,11,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,156,195,1,1,20161118,CLE,DET
+Shot Chart Detail,0021600175,29,202699,Tobias Harris,1610612765,Detroit Pistons,1,8,46,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,13,-79,110,1,1,20161118,CLE,DET
+Shot Chart Detail,0021600175,312,202699,Tobias Harris,1610612765,Detroit Pistons,3,6,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-25,151,1,1,20161118,CLE,DET
+Shot Chart Detail,0021600188,10,202699,Tobias Harris,1610612765,Detroit Pistons,1,10,7,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20161119,DET,BOS
+Shot Chart Detail,0021600188,99,202699,Tobias Harris,1610612765,Detroit Pistons,1,0,55,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20161119,DET,BOS
+Shot Chart Detail,0021600188,120,202699,Tobias Harris,1610612765,Detroit Pistons,2,11,30,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-124,90,1,1,20161119,DET,BOS
+Shot Chart Detail,0021600188,157,202699,Tobias Harris,1610612765,Detroit Pistons,2,7,3,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-47,31,1,1,20161119,DET,BOS
+Shot Chart Detail,0021600188,201,202699,Tobias Harris,1610612765,Detroit Pistons,2,2,21,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20161119,DET,BOS
+Shot Chart Detail,0021600188,411,202699,Tobias Harris,1610612765,Detroit Pistons,4,5,14,Made Shot,Driving Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20161119,DET,BOS
+Shot Chart Detail,0021600188,460,202699,Tobias Harris,1610612765,Detroit Pistons,4,0,23,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,3,1,1,20161119,DET,BOS
+Shot Chart Detail,0021600203,25,202699,Tobias Harris,1610612765,Detroit Pistons,1,9,22,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,2,1,1,20161121,DET,HOU
+Shot Chart Detail,0021600203,42,202699,Tobias Harris,1610612765,Detroit Pistons,1,7,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-11,178,1,1,20161121,DET,HOU
+Shot Chart Detail,0021600203,124,202699,Tobias Harris,1610612765,Detroit Pistons,2,11,9,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-56,11,1,1,20161121,DET,HOU
+Shot Chart Detail,0021600203,300,202699,Tobias Harris,1610612765,Detroit Pistons,3,7,43,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-120,11,1,1,20161121,DET,HOU
+Shot Chart Detail,0021600218,26,202699,Tobias Harris,1610612765,Detroit Pistons,1,10,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,0,1,1,20161123,DET,MIA
+Shot Chart Detail,0021600218,32,202699,Tobias Harris,1610612765,Detroit Pistons,1,9,21,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20161123,DET,MIA
+Shot Chart Detail,0021600218,195,202699,Tobias Harris,1610612765,Detroit Pistons,2,5,35,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,7,1,1,20161123,DET,MIA
+Shot Chart Detail,0021600218,299,202699,Tobias Harris,1610612765,Detroit Pistons,3,8,10,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,30,46,1,1,20161123,DET,MIA
+Shot Chart Detail,0021600218,314,202699,Tobias Harris,1610612765,Detroit Pistons,3,6,38,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,0,1,1,20161123,DET,MIA
+Shot Chart Detail,0021600218,430,202699,Tobias Harris,1610612765,Detroit Pistons,4,7,22,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20161123,DET,MIA
+Shot Chart Detail,0021600230,11,202699,Tobias Harris,1610612765,Detroit Pistons,1,10,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-55,262,1,1,20161125,DET,LAC
+Shot Chart Detail,0021600230,18,202699,Tobias Harris,1610612765,Detroit Pistons,1,9,30,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,64,41,1,1,20161125,DET,LAC
+Shot Chart Detail,0021600230,44,202699,Tobias Harris,1610612765,Detroit Pistons,1,5,54,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,107,62,1,1,20161125,DET,LAC
+Shot Chart Detail,0021600230,82,202699,Tobias Harris,1610612765,Detroit Pistons,1,2,20,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,2,1,1,20161125,DET,LAC
+Shot Chart Detail,0021600230,208,202699,Tobias Harris,1610612765,Detroit Pistons,2,3,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-161,21,1,1,20161125,DET,LAC
+Shot Chart Detail,0021600230,212,202699,Tobias Harris,1610612765,Detroit Pistons,2,2,55,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-9,2,1,1,20161125,DET,LAC
+Shot Chart Detail,0021600230,257,202699,Tobias Harris,1610612765,Detroit Pistons,3,8,59,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-91,18,1,1,20161125,DET,LAC
+Shot Chart Detail,0021600242,152,202699,Tobias Harris,1610612765,Detroit Pistons,2,10,55,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,3,1,1,20161126,OKC,DET
+Shot Chart Detail,0021600242,216,202699,Tobias Harris,1610612765,Detroit Pistons,2,5,38,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-124,46,1,1,20161126,OKC,DET
+Shot Chart Detail,0021600242,333,202699,Tobias Harris,1610612765,Detroit Pistons,3,7,46,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,11,1,1,20161126,OKC,DET
+Shot Chart Detail,0021600242,345,202699,Tobias Harris,1610612765,Detroit Pistons,3,6,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-27,244,1,1,20161126,OKC,DET
+Shot Chart Detail,0021600242,410,202699,Tobias Harris,1610612765,Detroit Pistons,4,11,36,Made Shot,Driving Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-47,2,1,1,20161126,OKC,DET
+Shot Chart Detail,0021600242,452,202699,Tobias Harris,1610612765,Detroit Pistons,4,6,46,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,24,46,1,1,20161126,OKC,DET
+Shot Chart Detail,0021600242,454,202699,Tobias Harris,1610612765,Detroit Pistons,4,6,18,Made Shot,Driving Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,40,26,1,1,20161126,OKC,DET
+Shot Chart Detail,0021600242,505,202699,Tobias Harris,1610612765,Detroit Pistons,4,0,32,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-76,7,1,1,20161126,OKC,DET
+Shot Chart Detail,0021600260,4,202699,Tobias Harris,1610612765,Detroit Pistons,1,11,20,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-74,36,1,1,20161129,CHA,DET
+Shot Chart Detail,0021600260,6,202699,Tobias Harris,1610612765,Detroit Pistons,1,10,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-60,234,1,1,20161129,CHA,DET
+Shot Chart Detail,0021600260,24,202699,Tobias Harris,1610612765,Detroit Pistons,1,9,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-78,232,1,1,20161129,CHA,DET
+Shot Chart Detail,0021600260,33,202699,Tobias Harris,1610612765,Detroit Pistons,1,8,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,-1,1,1,20161129,CHA,DET
+Shot Chart Detail,0021600260,69,202699,Tobias Harris,1610612765,Detroit Pistons,1,4,8,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,9,61,1,1,20161129,CHA,DET
+Shot Chart Detail,0021600260,265,202699,Tobias Harris,1610612765,Detroit Pistons,3,10,2,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,2,1,1,20161129,CHA,DET
+Shot Chart Detail,0021600260,275,202699,Tobias Harris,1610612765,Detroit Pistons,3,9,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-2,183,1,1,20161129,CHA,DET
+Shot Chart Detail,0021600260,316,202699,Tobias Harris,1610612765,Detroit Pistons,3,4,39,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,7,1,1,20161129,CHA,DET
+Shot Chart Detail,0021600260,452,202699,Tobias Harris,1610612765,Detroit Pistons,4,4,22,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,238,36,1,1,20161129,CHA,DET
+Shot Chart Detail,0021600267,10,202699,Tobias Harris,1610612765,Detroit Pistons,1,11,9,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-155,56,1,1,20161130,BOS,DET
+Shot Chart Detail,0021600267,55,202699,Tobias Harris,1610612765,Detroit Pistons,1,5,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-153,208,1,1,20161130,BOS,DET
+Shot Chart Detail,0021600267,188,202699,Tobias Harris,1610612765,Detroit Pistons,2,4,57,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,9,31,1,1,20161130,BOS,DET
+Shot Chart Detail,0021600267,201,202699,Tobias Harris,1610612765,Detroit Pistons,2,3,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-29,144,1,1,20161130,BOS,DET
+Shot Chart Detail,0021600267,237,202699,Tobias Harris,1610612765,Detroit Pistons,2,0,22,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-97,13,1,1,20161130,BOS,DET
+Shot Chart Detail,0021600267,259,202699,Tobias Harris,1610612765,Detroit Pistons,3,9,33,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20161130,BOS,DET
+Shot Chart Detail,0021600267,270,202699,Tobias Harris,1610612765,Detroit Pistons,3,7,55,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,28,7,1,1,20161130,BOS,DET
+Shot Chart Detail,0021600267,282,202699,Tobias Harris,1610612765,Detroit Pistons,3,5,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-143,210,1,1,20161130,BOS,DET
+Shot Chart Detail,0021600267,419,202699,Tobias Harris,1610612765,Detroit Pistons,4,5,8,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,2,1,1,20161130,BOS,DET
+Shot Chart Detail,0021600288,24,202699,Tobias Harris,1610612765,Detroit Pistons,1,9,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,91,229,1,1,20161202,ATL,DET
+Shot Chart Detail,0021600288,147,202699,Tobias Harris,1610612765,Detroit Pistons,2,10,7,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-37,75,1,1,20161202,ATL,DET
+Shot Chart Detail,0021600288,204,202699,Tobias Harris,1610612765,Detroit Pistons,2,5,37,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,6,72,1,1,20161202,ATL,DET
+Shot Chart Detail,0021600288,281,202699,Tobias Harris,1610612765,Detroit Pistons,3,9,36,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,22,11,1,1,20161202,ATL,DET
+Shot Chart Detail,0021600288,398,202699,Tobias Harris,1610612765,Detroit Pistons,4,10,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-35,175,1,1,20161202,ATL,DET
+Shot Chart Detail,0021600288,403,202699,Tobias Harris,1610612765,Detroit Pistons,4,10,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-132,90,1,1,20161202,ATL,DET
+Shot Chart Detail,0021600288,440,202699,Tobias Harris,1610612765,Detroit Pistons,4,6,32,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,99,131,1,1,20161202,ATL,DET
+Shot Chart Detail,0021600288,451,202699,Tobias Harris,1610612765,Detroit Pistons,4,5,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-73,237,1,1,20161202,ATL,DET
+Shot Chart Detail,0021600300,119,202699,Tobias Harris,1610612765,Detroit Pistons,2,8,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,-1,1,1,20161204,DET,ORL
+Shot Chart Detail,0021600300,165,202699,Tobias Harris,1610612765,Detroit Pistons,2,4,54,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20161204,DET,ORL
+Shot Chart Detail,0021600300,196,202699,Tobias Harris,1610612765,Detroit Pistons,2,0,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,105,36,1,1,20161204,DET,ORL
+Shot Chart Detail,0021600300,410,202699,Tobias Harris,1610612765,Detroit Pistons,4,2,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,2,1,1,20161204,DET,ORL
+Shot Chart Detail,0021600300,413,202699,Tobias Harris,1610612765,Detroit Pistons,4,1,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-63,262,1,1,20161204,DET,ORL
+Shot Chart Detail,0021600317,15,202699,Tobias Harris,1610612765,Detroit Pistons,1,10,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-106,249,1,1,20161206,DET,CHI
+Shot Chart Detail,0021600317,113,202699,Tobias Harris,1610612765,Detroit Pistons,2,11,30,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,94,11,1,1,20161206,DET,CHI
+Shot Chart Detail,0021600317,149,202699,Tobias Harris,1610612765,Detroit Pistons,2,8,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-79,156,1,1,20161206,DET,CHI
+Shot Chart Detail,0021600317,198,202699,Tobias Harris,1610612765,Detroit Pistons,2,4,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-14,3,1,1,20161206,DET,CHI
+Shot Chart Detail,0021600317,291,202699,Tobias Harris,1610612765,Detroit Pistons,3,7,57,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,61,21,1,1,20161206,DET,CHI
+Shot Chart Detail,0021600317,298,202699,Tobias Harris,1610612765,Detroit Pistons,3,7,26,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-127,51,1,1,20161206,DET,CHI
+Shot Chart Detail,0021600317,377,202699,Tobias Harris,1610612765,Detroit Pistons,4,9,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-22,267,1,1,20161206,DET,CHI
+Shot Chart Detail,0021600317,425,202699,Tobias Harris,1610612765,Detroit Pistons,4,6,20,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,24,65,1,1,20161206,DET,CHI
+Shot Chart Detail,0021600317,488,202699,Tobias Harris,1610612765,Detroit Pistons,4,1,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-119,-1,1,1,20161206,DET,CHI
+Shot Chart Detail,0021600321,155,202699,Tobias Harris,1610612765,Detroit Pistons,2,8,54,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,11,1,1,20161207,CHA,DET
+Shot Chart Detail,0021600321,179,202699,Tobias Harris,1610612765,Detroit Pistons,2,7,6,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-20,57,1,1,20161207,CHA,DET
+Shot Chart Detail,0021600321,216,202699,Tobias Harris,1610612765,Detroit Pistons,2,3,27,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,7,1,1,20161207,CHA,DET
+Shot Chart Detail,0021600321,240,202699,Tobias Harris,1610612765,Detroit Pistons,2,1,23,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,12,43,1,1,20161207,CHA,DET
+Shot Chart Detail,0021600321,261,202699,Tobias Harris,1610612765,Detroit Pistons,3,11,25,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-84,164,1,1,20161207,CHA,DET
+Shot Chart Detail,0021600321,346,202699,Tobias Harris,1610612765,Detroit Pistons,3,2,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-66,159,1,1,20161207,CHA,DET
+Shot Chart Detail,0021600321,442,202699,Tobias Harris,1610612765,Detroit Pistons,4,5,41,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,4,85,1,1,20161207,CHA,DET
+Shot Chart Detail,0021600342,27,202699,Tobias Harris,1610612765,Detroit Pistons,1,9,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,58,237,1,1,20161209,MIN,DET
+Shot Chart Detail,0021600342,190,202699,Tobias Harris,1610612765,Detroit Pistons,2,5,12,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-24,115,1,1,20161209,MIN,DET
+Shot Chart Detail,0021600342,200,202699,Tobias Harris,1610612765,Detroit Pistons,2,3,32,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,1,51,1,1,20161209,MIN,DET
+Shot Chart Detail,0021600342,304,202699,Tobias Harris,1610612765,Detroit Pistons,3,4,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-11,252,1,1,20161209,MIN,DET
+Shot Chart Detail,0021600342,314,202699,Tobias Harris,1610612765,Detroit Pistons,3,3,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-127,213,1,1,20161209,MIN,DET
+Shot Chart Detail,0021600356,158,202699,Tobias Harris,1610612765,Detroit Pistons,2,5,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,115,47,1,1,20161211,DET,PHI
+Shot Chart Detail,0021600356,309,202699,Tobias Harris,1610612765,Detroit Pistons,3,2,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-142,26,1,1,20161211,DET,PHI
+Shot Chart Detail,0021600356,315,202699,Tobias Harris,1610612765,Detroit Pistons,3,1,8,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-76,23,1,1,20161211,DET,PHI
+Shot Chart Detail,0021600381,4,202699,Tobias Harris,1610612765,Detroit Pistons,1,11,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,135,90,1,1,20161214,DAL,DET
+Shot Chart Detail,0021600381,134,202699,Tobias Harris,1610612765,Detroit Pistons,2,8,49,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-38,121,1,1,20161214,DAL,DET
+Shot Chart Detail,0021600381,148,202699,Tobias Harris,1610612765,Detroit Pistons,2,7,36,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-60,70,1,1,20161214,DAL,DET
+Shot Chart Detail,0021600381,262,202699,Tobias Harris,1610612765,Detroit Pistons,3,6,37,Made Shot,Driving Bank shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-101,38,1,1,20161214,DAL,DET
+Shot Chart Detail,0021600381,288,202699,Tobias Harris,1610612765,Detroit Pistons,3,4,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,145,56,1,1,20161214,DAL,DET
+Shot Chart Detail,0021600389,27,202699,Tobias Harris,1610612765,Detroit Pistons,1,8,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,117,178,1,1,20161216,WAS,DET
+Shot Chart Detail,0021600389,132,202699,Tobias Harris,1610612765,Detroit Pistons,1,0,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,11,1,1,20161216,WAS,DET
+Shot Chart Detail,0021600389,155,202699,Tobias Harris,1610612765,Detroit Pistons,2,10,43,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,-6,1,1,20161216,WAS,DET
+Shot Chart Detail,0021600389,165,202699,Tobias Harris,1610612765,Detroit Pistons,2,10,3,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-11,51,1,1,20161216,WAS,DET
+Shot Chart Detail,0021600389,471,202699,Tobias Harris,1610612765,Detroit Pistons,4,9,23,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,13,1,1,20161216,WAS,DET
+Shot Chart Detail,0021600400,24,202699,Tobias Harris,1610612765,Detroit Pistons,1,8,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-125,229,1,1,20161217,DET,IND
+Shot Chart Detail,0021600400,42,202699,Tobias Harris,1610612765,Detroit Pistons,1,5,58,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,11,1,1,20161217,DET,IND
+Shot Chart Detail,0021600400,207,202699,Tobias Harris,1610612765,Detroit Pistons,2,2,34,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20161217,DET,IND
+Shot Chart Detail,0021600400,209,202699,Tobias Harris,1610612765,Detroit Pistons,2,2,4,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-53,46,1,1,20161217,DET,IND
+Shot Chart Detail,0021600400,280,202699,Tobias Harris,1610612765,Detroit Pistons,3,7,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-129,26,1,1,20161217,DET,IND
+Shot Chart Detail,0021600414,30,202699,Tobias Harris,1610612765,Detroit Pistons,1,7,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-84,21,1,1,20161219,CHI,DET
+Shot Chart Detail,0021600414,34,202699,Tobias Harris,1610612765,Detroit Pistons,1,6,58,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-6,85,1,1,20161219,CHI,DET
+Shot Chart Detail,0021600414,52,202699,Tobias Harris,1610612765,Detroit Pistons,1,3,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,46,244,1,1,20161219,CHI,DET
+Shot Chart Detail,0021600414,243,202699,Tobias Harris,1610612765,Detroit Pistons,3,10,17,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-74,141,1,1,20161219,CHI,DET
+Shot Chart Detail,0021600431,14,202699,Tobias Harris,1610612765,Detroit Pistons,1,10,21,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,12,73,100,1,1,20161221,DET,MEM
+Shot Chart Detail,0021600431,17,202699,Tobias Harris,1610612765,Detroit Pistons,1,9,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,218,144,1,1,20161221,DET,MEM
+Shot Chart Detail,0021600431,60,202699,Tobias Harris,1610612765,Detroit Pistons,1,4,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,3,1,1,20161221,DET,MEM
+Shot Chart Detail,0021600446,184,202699,Tobias Harris,1610612765,Detroit Pistons,2,5,44,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,13,1,1,20161223,DET,GSW
+Shot Chart Detail,0021600446,244,202699,Tobias Harris,1610612765,Detroit Pistons,2,0,37,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-34,129,1,1,20161223,DET,GSW
+Shot Chart Detail,0021600446,286,202699,Tobias Harris,1610612765,Detroit Pistons,3,9,4,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,25,136,1,1,20161223,DET,GSW
+Shot Chart Detail,0021600446,349,202699,Tobias Harris,1610612765,Detroit Pistons,3,3,56,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,21,1,1,20161223,DET,GSW
+Shot Chart Detail,0021600446,363,202699,Tobias Harris,1610612765,Detroit Pistons,3,2,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,86,239,1,1,20161223,DET,GSW
+Shot Chart Detail,0021600446,385,202699,Tobias Harris,1610612765,Detroit Pistons,3,0,30,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20161223,DET,GSW
+Shot Chart Detail,0021600446,429,202699,Tobias Harris,1610612765,Detroit Pistons,4,9,24,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20161223,DET,GSW
+Shot Chart Detail,0021600446,487,202699,Tobias Harris,1610612765,Detroit Pistons,4,2,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,150,218,1,1,20161223,DET,GSW
+Shot Chart Detail,0021600464,61,202699,Tobias Harris,1610612765,Detroit Pistons,1,5,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-150,224,1,1,20161226,DET,CLE
+Shot Chart Detail,0021600464,71,202699,Tobias Harris,1610612765,Detroit Pistons,1,4,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,13,1,1,20161226,DET,CLE
+Shot Chart Detail,0021600464,244,202699,Tobias Harris,1610612765,Detroit Pistons,2,1,45,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,2,1,1,20161226,DET,CLE
+Shot Chart Detail,0021600464,330,202699,Tobias Harris,1610612765,Detroit Pistons,3,4,1,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-122,8,1,1,20161226,DET,CLE
+Shot Chart Detail,0021600464,371,202699,Tobias Harris,1610612765,Detroit Pistons,3,1,9,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,46,159,1,1,20161226,DET,CLE
+Shot Chart Detail,0021600464,388,202699,Tobias Harris,1610612765,Detroit Pistons,4,11,16,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,2,1,1,20161226,DET,CLE
+Shot Chart Detail,0021600464,471,202699,Tobias Harris,1610612765,Detroit Pistons,4,3,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,213,139,1,1,20161226,DET,CLE
+Shot Chart Detail,0021600479,64,202699,Tobias Harris,1610612765,Detroit Pistons,1,3,58,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,7,1,1,20161228,DET,MIL
+Shot Chart Detail,0021600479,69,202699,Tobias Harris,1610612765,Detroit Pistons,1,3,22,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-94,21,1,1,20161228,DET,MIL
+Shot Chart Detail,0021600479,144,202699,Tobias Harris,1610612765,Detroit Pistons,2,7,34,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,0,1,1,20161228,DET,MIL
+Shot Chart Detail,0021600479,154,202699,Tobias Harris,1610612765,Detroit Pistons,2,6,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,210,160,1,1,20161228,DET,MIL
+Shot Chart Detail,0021600479,212,202699,Tobias Harris,1610612765,Detroit Pistons,2,1,49,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,66,21,1,1,20161228,DET,MIL
+Shot Chart Detail,0021600479,320,202699,Tobias Harris,1610612765,Detroit Pistons,3,3,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-137,18,1,1,20161228,DET,MIL
+Shot Chart Detail,0021600479,373,202699,Tobias Harris,1610612765,Detroit Pistons,4,9,31,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,50,126,1,1,20161228,DET,MIL
+Shot Chart Detail,0021600479,393,202699,Tobias Harris,1610612765,Detroit Pistons,4,8,2,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20161228,DET,MIL
+Shot Chart Detail,0021600479,410,202699,Tobias Harris,1610612765,Detroit Pistons,4,5,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,4,257,1,1,20161228,DET,MIL
+Shot Chart Detail,0021600498,2,202699,Tobias Harris,1610612765,Detroit Pistons,1,11,42,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-14,144,1,1,20161230,ATL,DET
+Shot Chart Detail,0021600498,132,202699,Tobias Harris,1610612765,Detroit Pistons,2,11,5,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,3,1,1,20161230,ATL,DET
+Shot Chart Detail,0021600498,182,202699,Tobias Harris,1610612765,Detroit Pistons,2,6,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-174,46,1,1,20161230,ATL,DET
+Shot Chart Detail,0021600498,413,202699,Tobias Harris,1610612765,Detroit Pistons,4,10,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,197,139,1,1,20161230,ATL,DET
+Shot Chart Detail,0021600498,451,202699,Tobias Harris,1610612765,Detroit Pistons,4,6,26,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,26,1,1,20161230,ATL,DET
+Shot Chart Detail,0021600509,99,202699,Tobias Harris,1610612765,Detroit Pistons,1,1,26,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-30,13,1,1,20170101,MIA,DET
+Shot Chart Detail,0021600509,109,202699,Tobias Harris,1610612765,Detroit Pistons,1,0,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,16,1,1,20170101,MIA,DET
+Shot Chart Detail,0021600509,120,202699,Tobias Harris,1610612765,Detroit Pistons,2,11,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-81,139,1,1,20170101,MIA,DET
+Shot Chart Detail,0021600509,205,202699,Tobias Harris,1610612765,Detroit Pistons,2,4,13,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,45,77,1,1,20170101,MIA,DET
+Shot Chart Detail,0021600509,365,202699,Tobias Harris,1610612765,Detroit Pistons,3,0,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,205,139,1,1,20170101,MIA,DET
+Shot Chart Detail,0021600523,57,202699,Tobias Harris,1610612765,Detroit Pistons,1,4,18,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,233,65,1,1,20170103,DET,IND
+Shot Chart Detail,0021600523,69,202699,Tobias Harris,1610612765,Detroit Pistons,1,2,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-174,21,1,1,20170103,DET,IND
+Shot Chart Detail,0021600523,159,202699,Tobias Harris,1610612765,Detroit Pistons,2,6,45,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20170103,DET,IND
+Shot Chart Detail,0021600523,207,202699,Tobias Harris,1610612765,Detroit Pistons,2,2,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,14,11,1,1,20170103,DET,IND
+Shot Chart Detail,0021600523,226,202699,Tobias Harris,1610612765,Detroit Pistons,2,0,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,76,242,1,1,20170103,DET,IND
+Shot Chart Detail,0021600523,316,202699,Tobias Harris,1610612765,Detroit Pistons,3,1,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-148,21,1,1,20170103,DET,IND
+Shot Chart Detail,0021600523,362,202699,Tobias Harris,1610612765,Detroit Pistons,4,9,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,-1,1,1,20170103,DET,IND
+Shot Chart Detail,0021600523,397,202699,Tobias Harris,1610612765,Detroit Pistons,4,6,13,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-4,52,1,1,20170103,DET,IND
+Shot Chart Detail,0021600523,447,202699,Tobias Harris,1610612765,Detroit Pistons,4,1,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-169,26,1,1,20170103,DET,IND
+Shot Chart Detail,0021600538,50,202699,Tobias Harris,1610612765,Detroit Pistons,1,7,31,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-20,160,1,1,20170105,DET,CHA
+Shot Chart Detail,0021600538,76,202699,Tobias Harris,1610612765,Detroit Pistons,1,5,36,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,4,43,1,1,20170105,DET,CHA
+Shot Chart Detail,0021600538,107,202699,Tobias Harris,1610612765,Detroit Pistons,1,3,4,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20170105,DET,CHA
+Shot Chart Detail,0021600538,135,202699,Tobias Harris,1610612765,Detroit Pistons,1,1,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-125,237,1,1,20170105,DET,CHA
+Shot Chart Detail,0021600538,189,202699,Tobias Harris,1610612765,Detroit Pistons,2,8,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,164,21,1,1,20170105,DET,CHA
+Shot Chart Detail,0021600538,280,202699,Tobias Harris,1610612765,Detroit Pistons,2,1,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,166,193,1,1,20170105,DET,CHA
+Shot Chart Detail,0021600538,382,202699,Tobias Harris,1610612765,Detroit Pistons,3,4,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,63,154,1,1,20170105,DET,CHA
+Shot Chart Detail,0021600538,448,202699,Tobias Harris,1610612765,Detroit Pistons,3,0,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,7,1,1,20170105,DET,CHA
+Shot Chart Detail,0021600538,473,202699,Tobias Harris,1610612765,Detroit Pistons,4,9,54,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-53,124,1,1,20170105,DET,CHA
+Shot Chart Detail,0021600538,514,202699,Tobias Harris,1610612765,Detroit Pistons,4,5,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-205,160,1,1,20170105,DET,CHA
+Shot Chart Detail,0021600559,57,202699,Tobias Harris,1610612765,Detroit Pistons,1,4,38,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-86,46,1,1,20170108,POR,DET
+Shot Chart Detail,0021600559,68,202699,Tobias Harris,1610612765,Detroit Pistons,1,3,26,Made Shot,Pullup Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-66,16,1,1,20170108,POR,DET
+Shot Chart Detail,0021600559,140,202699,Tobias Harris,1610612765,Detroit Pistons,2,9,14,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20170108,POR,DET
+Shot Chart Detail,0021600559,158,202699,Tobias Harris,1610612765,Detroit Pistons,2,6,38,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-2,124,1,1,20170108,POR,DET
+Shot Chart Detail,0021600559,207,202699,Tobias Harris,1610612765,Detroit Pistons,2,1,36,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-27,134,1,1,20170108,POR,DET
+Shot Chart Detail,0021600559,319,202699,Tobias Harris,1610612765,Detroit Pistons,3,1,11,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,56,33,1,1,20170108,POR,DET
+Shot Chart Detail,0021600559,330,202699,Tobias Harris,1610612765,Detroit Pistons,3,0,18,Made Shot,Pullup Bank shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-114,43,1,1,20170108,POR,DET
+Shot Chart Detail,0021600579,14,202699,Tobias Harris,1610612765,Detroit Pistons,1,10,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-207,124,1,1,20170110,SAC,DET
+Shot Chart Detail,0021600579,37,202699,Tobias Harris,1610612765,Detroit Pistons,1,6,52,Made Shot,Driving Bank shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,82,-1,1,1,20170110,SAC,DET
+Shot Chart Detail,0021600579,61,202699,Tobias Harris,1610612765,Detroit Pistons,1,4,21,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,110,62,1,1,20170110,SAC,DET
+Shot Chart Detail,0021600579,147,202699,Tobias Harris,1610612765,Detroit Pistons,2,9,33,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20170110,SAC,DET
+Shot Chart Detail,0021600579,304,202699,Tobias Harris,1610612765,Detroit Pistons,3,7,10,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-25,11,1,1,20170110,SAC,DET
+Shot Chart Detail,0021600579,307,202699,Tobias Harris,1610612765,Detroit Pistons,3,6,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-2,247,1,1,20170110,SAC,DET
+Shot Chart Detail,0021600579,422,202699,Tobias Harris,1610612765,Detroit Pistons,4,8,14,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-73,77,1,1,20170110,SAC,DET
+Shot Chart Detail,0021600590,12,202699,Tobias Harris,1610612765,Detroit Pistons,1,10,27,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-47,100,1,1,20170112,GSW,DET
+Shot Chart Detail,0021600590,39,202699,Tobias Harris,1610612765,Detroit Pistons,1,7,2,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-68,175,1,1,20170112,GSW,DET
+Shot Chart Detail,0021600590,41,202699,Tobias Harris,1610612765,Detroit Pistons,1,6,35,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-107,61,1,1,20170112,GSW,DET
+Shot Chart Detail,0021600590,70,202699,Tobias Harris,1610612765,Detroit Pistons,1,3,26,Made Shot,Turnaround Bank shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,51,70,1,1,20170112,GSW,DET
+Shot Chart Detail,0021600590,228,202699,Tobias Harris,1610612765,Detroit Pistons,2,0,40,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,16,1,1,20170112,GSW,DET
+Shot Chart Detail,0021600590,265,202699,Tobias Harris,1610612765,Detroit Pistons,3,10,18,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-130,41,1,1,20170112,GSW,DET
+Shot Chart Detail,0021600590,344,202699,Tobias Harris,1610612765,Detroit Pistons,3,3,13,Made Shot,Pullup Jump shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,0,1,1,20170112,GSW,DET
+Shot Chart Detail,0021600590,378,202699,Tobias Harris,1610612765,Detroit Pistons,3,0,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-102,149,1,1,20170112,GSW,DET
+Shot Chart Detail,0021600600,45,202699,Tobias Harris,1610612765,Detroit Pistons,1,6,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,159,193,1,1,20170113,UTA,DET
+Shot Chart Detail,0021600600,69,202699,Tobias Harris,1610612765,Detroit Pistons,1,4,7,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-34,11,1,1,20170113,UTA,DET
+Shot Chart Detail,0021600600,189,202699,Tobias Harris,1610612765,Detroit Pistons,2,3,10,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-42,159,1,1,20170113,UTA,DET
+Shot Chart Detail,0021600600,233,202699,Tobias Harris,1610612765,Detroit Pistons,3,11,0,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-71,7,1,1,20170113,UTA,DET
+Shot Chart Detail,0021600612,95,202699,Tobias Harris,1610612765,Detroit Pistons,1,2,31,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,18,1,1,20170115,LAL,DET
+Shot Chart Detail,0021600612,107,202699,Tobias Harris,1610612765,Detroit Pistons,1,1,41,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20170115,LAL,DET
+Shot Chart Detail,0021600612,127,202699,Tobias Harris,1610612765,Detroit Pistons,1,0,0,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20170115,LAL,DET
+Shot Chart Detail,0021600612,230,202699,Tobias Harris,1610612765,Detroit Pistons,2,3,32,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,231,-5,1,1,20170115,LAL,DET
+Shot Chart Detail,0021600612,253,202699,Tobias Harris,1610612765,Detroit Pistons,2,0,47,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-119,-11,1,1,20170115,LAL,DET
+Shot Chart Detail,0021600612,305,202699,Tobias Harris,1610612765,Detroit Pistons,3,7,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,85,150,1,1,20170115,LAL,DET
+Shot Chart Detail,0021600612,449,202699,Tobias Harris,1610612765,Detroit Pistons,4,6,25,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-13,23,1,1,20170115,LAL,DET
+Shot Chart Detail,0021600612,509,202699,Tobias Harris,1610612765,Detroit Pistons,4,0,30,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,26,1,1,20170115,LAL,DET
+Shot Chart Detail,0021600633,6,202699,Tobias Harris,1610612765,Detroit Pistons,1,11,6,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,15,74,134,1,1,20170118,DET,ATL
+Shot Chart Detail,0021600633,19,202699,Tobias Harris,1610612765,Detroit Pistons,1,9,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,207,159,1,1,20170118,DET,ATL
+Shot Chart Detail,0021600633,40,202699,Tobias Harris,1610612765,Detroit Pistons,1,6,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,91,257,1,1,20170118,DET,ATL
+Shot Chart Detail,0021600633,72,202699,Tobias Harris,1610612765,Detroit Pistons,1,3,46,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20170118,DET,ATL
+Shot Chart Detail,0021600633,95,202699,Tobias Harris,1610612765,Detroit Pistons,1,1,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-156,46,1,1,20170118,DET,ATL
+Shot Chart Detail,0021600633,97,202699,Tobias Harris,1610612765,Detroit Pistons,1,0,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-215,160,1,1,20170118,DET,ATL
+Shot Chart Detail,0021600633,449,202699,Tobias Harris,1610612765,Detroit Pistons,4,8,41,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,11,1,1,20170118,DET,ATL
+Shot Chart Detail,0021600651,42,202699,Tobias Harris,1610612765,Detroit Pistons,1,7,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-53,262,1,1,20170121,DET,WAS
+Shot Chart Detail,0021600651,166,202699,Tobias Harris,1610612765,Detroit Pistons,2,8,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-97,139,1,1,20170121,DET,WAS
+Shot Chart Detail,0021600651,215,202699,Tobias Harris,1610612765,Detroit Pistons,2,5,7,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-76,11,1,1,20170121,DET,WAS
+Shot Chart Detail,0021600651,259,202699,Tobias Harris,1610612765,Detroit Pistons,2,2,7,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,164,97,1,1,20170121,DET,WAS
+Shot Chart Detail,0021600651,322,202699,Tobias Harris,1610612765,Detroit Pistons,3,10,3,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20170121,DET,WAS
+Shot Chart Detail,0021600651,347,202699,Tobias Harris,1610612765,Detroit Pistons,3,7,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,7,1,1,20170121,DET,WAS
+Shot Chart Detail,0021600651,365,202699,Tobias Harris,1610612765,Detroit Pistons,3,5,43,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,46,1,1,20170121,DET,WAS
+Shot Chart Detail,0021600651,374,202699,Tobias Harris,1610612765,Detroit Pistons,3,4,10,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-53,21,1,1,20170121,DET,WAS
+Shot Chart Detail,0021600669,79,202699,Tobias Harris,1610612765,Detroit Pistons,1,2,40,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,2,1,1,20170123,DET,SAC
+Shot Chart Detail,0021600669,89,202699,Tobias Harris,1610612765,Detroit Pistons,1,0,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-4,257,1,1,20170123,DET,SAC
+Shot Chart Detail,0021600669,141,202699,Tobias Harris,1610612765,Detroit Pistons,2,8,6,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20170123,DET,SAC
+Shot Chart Detail,0021600669,230,202699,Tobias Harris,1610612765,Detroit Pistons,2,0,17,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-70,46,1,1,20170123,DET,SAC
+Shot Chart Detail,0021600669,312,202699,Tobias Harris,1610612765,Detroit Pistons,3,5,37,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20170123,DET,SAC
+Shot Chart Detail,0021600669,339,202699,Tobias Harris,1610612765,Detroit Pistons,3,3,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-9,2,1,1,20170123,DET,SAC
+Shot Chart Detail,0021600669,407,202699,Tobias Harris,1610612765,Detroit Pistons,4,9,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-4,154,1,1,20170123,DET,SAC
+Shot Chart Detail,0021600705,105,202699,Tobias Harris,1610612765,Detroit Pistons,1,1,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-35,156,1,1,20170128,MIA,DET
+Shot Chart Detail,0021600705,115,202699,Tobias Harris,1610612765,Detroit Pistons,1,0,39,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-83,97,1,1,20170128,MIA,DET
+Shot Chart Detail,0021600705,160,202699,Tobias Harris,1610612765,Detroit Pistons,2,8,16,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,35,31,1,1,20170128,MIA,DET
+Shot Chart Detail,0021600705,315,202699,Tobias Harris,1610612765,Detroit Pistons,3,3,52,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-17,90,1,1,20170128,MIA,DET
+Shot Chart Detail,0021600705,343,202699,Tobias Harris,1610612765,Detroit Pistons,3,0,54,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,14,7,1,1,20170128,MIA,DET
+Shot Chart Detail,0021600705,370,202699,Tobias Harris,1610612765,Detroit Pistons,4,10,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,50,165,1,1,20170128,MIA,DET
+Shot Chart Detail,0021600705,466,202699,Tobias Harris,1610612765,Detroit Pistons,4,3,22,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-16,47,1,1,20170128,MIA,DET
+Shot Chart Detail,0021600721,63,202699,Tobias Harris,1610612765,Detroit Pistons,1,4,11,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,78,90,1,1,20170130,BOS,DET
+Shot Chart Detail,0021600721,65,202699,Tobias Harris,1610612765,Detroit Pistons,1,3,41,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-60,134,1,1,20170130,BOS,DET
+Shot Chart Detail,0021600721,72,202699,Tobias Harris,1610612765,Detroit Pistons,1,2,39,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,114,139,1,1,20170130,BOS,DET
+Shot Chart Detail,0021600721,351,202699,Tobias Harris,1610612765,Detroit Pistons,3,3,31,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-130,11,1,1,20170130,BOS,DET
+Shot Chart Detail,0021600721,415,202699,Tobias Harris,1610612765,Detroit Pistons,4,9,7,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-32,7,1,1,20170130,BOS,DET
+Shot Chart Detail,0021600721,506,202699,Tobias Harris,1610612765,Detroit Pistons,4,3,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,25,2,1,1,20170130,BOS,DET
+Shot Chart Detail,0021600721,561,202699,Tobias Harris,1610612765,Detroit Pistons,4,1,9,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,3,1,1,20170130,BOS,DET
+Shot Chart Detail,0021600735,90,202699,Tobias Harris,1610612765,Detroit Pistons,1,1,39,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,-10,1,1,20170201,DET,NOP
+Shot Chart Detail,0021600735,103,202699,Tobias Harris,1610612765,Detroit Pistons,2,11,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-99,136,1,1,20170201,DET,NOP
+Shot Chart Detail,0021600735,106,202699,Tobias Harris,1610612765,Detroit Pistons,2,11,12,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-70,13,1,1,20170201,DET,NOP
+Shot Chart Detail,0021600735,116,202699,Tobias Harris,1610612765,Detroit Pistons,2,10,14,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-32,41,1,1,20170201,DET,NOP
+Shot Chart Detail,0021600735,183,202699,Tobias Harris,1610612765,Detroit Pistons,2,2,55,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,78,16,1,1,20170201,DET,NOP
+Shot Chart Detail,0021600735,195,202699,Tobias Harris,1610612765,Detroit Pistons,2,1,1,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20170201,DET,NOP
+Shot Chart Detail,0021600735,301,202699,Tobias Harris,1610612765,Detroit Pistons,3,1,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-9,3,1,1,20170201,DET,NOP
+Shot Chart Detail,0021600735,305,202699,Tobias Harris,1610612765,Detroit Pistons,3,0,34,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-56,13,1,1,20170201,DET,NOP
+Shot Chart Detail,0021600735,348,202699,Tobias Harris,1610612765,Detroit Pistons,4,8,38,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20170201,DET,NOP
+Shot Chart Detail,0021600748,75,202699,Tobias Harris,1610612765,Detroit Pistons,1,4,11,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,58,38,1,1,20170203,DET,MIN
+Shot Chart Detail,0021600748,143,202699,Tobias Harris,1610612765,Detroit Pistons,2,9,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,153,195,1,1,20170203,DET,MIN
+Shot Chart Detail,0021600748,179,202699,Tobias Harris,1610612765,Detroit Pistons,2,6,55,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-63,16,1,1,20170203,DET,MIN
+Shot Chart Detail,0021600748,360,202699,Tobias Harris,1610612765,Detroit Pistons,3,0,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,45,259,1,1,20170203,DET,MIN
+Shot Chart Detail,0021600748,370,202699,Tobias Harris,1610612765,Detroit Pistons,4,11,6,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-27,57,1,1,20170203,DET,MIN
+Shot Chart Detail,0021600757,104,202699,Tobias Harris,1610612765,Detroit Pistons,1,0,34,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-27,24,1,1,20170204,IND,DET
+Shot Chart Detail,0021600757,111,202699,Tobias Harris,1610612765,Detroit Pistons,1,0,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-63,169,1,1,20170204,IND,DET
+Shot Chart Detail,0021600773,154,202699,Tobias Harris,1610612765,Detroit Pistons,2,9,7,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20170206,DET,PHI
+Shot Chart Detail,0021600773,446,202699,Tobias Harris,1610612765,Detroit Pistons,4,7,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-1,151,1,1,20170206,DET,PHI
+Shot Chart Detail,0021600773,470,202699,Tobias Harris,1610612765,Detroit Pistons,4,5,44,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20170206,DET,PHI
+Shot Chart Detail,0021600786,76,202699,Tobias Harris,1610612765,Detroit Pistons,1,4,18,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-228,31,1,1,20170208,DET,LAL
+Shot Chart Detail,0021600786,153,202699,Tobias Harris,1610612765,Detroit Pistons,2,10,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-120,129,1,1,20170208,DET,LAL
+Shot Chart Detail,0021600786,161,202699,Tobias Harris,1610612765,Detroit Pistons,2,10,2,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20170208,DET,LAL
+Shot Chart Detail,0021600786,205,202699,Tobias Harris,1610612765,Detroit Pistons,2,6,2,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,0,1,1,20170208,DET,LAL
+Shot Chart Detail,0021600786,219,202699,Tobias Harris,1610612765,Detroit Pistons,2,4,33,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,155,31,1,1,20170208,DET,LAL
+Shot Chart Detail,0021600786,357,202699,Tobias Harris,1610612765,Detroit Pistons,3,3,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-212,164,1,1,20170208,DET,LAL
+Shot Chart Detail,0021600786,536,202699,Tobias Harris,1610612765,Detroit Pistons,4,0,12,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,11,1,1,20170208,DET,LAL
+Shot Chart Detail,0021600801,73,202699,Tobias Harris,1610612765,Detroit Pistons,1,3,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,7,1,1,20170210,DET,SAS
+Shot Chart Detail,0021600801,165,202699,Tobias Harris,1610612765,Detroit Pistons,2,5,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-163,11,1,1,20170210,DET,SAS
+Shot Chart Detail,0021600801,329,202699,Tobias Harris,1610612765,Detroit Pistons,3,2,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-84,33,1,1,20170210,DET,SAS
+Shot Chart Detail,0021600801,346,202699,Tobias Harris,1610612765,Detroit Pistons,3,1,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,3,1,1,20170210,DET,SAS
+Shot Chart Detail,0021600801,367,202699,Tobias Harris,1610612765,Detroit Pistons,4,11,44,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-83,47,1,1,20170210,DET,SAS
+Shot Chart Detail,0021600801,397,202699,Tobias Harris,1610612765,Detroit Pistons,4,7,29,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,69,18,1,1,20170210,DET,SAS
+Shot Chart Detail,0021600801,458,202699,Tobias Harris,1610612765,Detroit Pistons,4,1,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,0,1,1,20170210,DET,SAS
+Shot Chart Detail,0021600818,93,202699,Tobias Harris,1610612765,Detroit Pistons,1,3,24,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,153,200,1,1,20170212,TOR,DET
+Shot Chart Detail,0021600818,140,202699,Tobias Harris,1610612765,Detroit Pistons,2,11,47,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,7,1,1,20170212,TOR,DET
+Shot Chart Detail,0021600818,236,202699,Tobias Harris,1610612765,Detroit Pistons,2,2,15,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-163,33,1,1,20170212,TOR,DET
+Shot Chart Detail,0021600818,346,202699,Tobias Harris,1610612765,Detroit Pistons,3,4,45,Made Shot,Pullup Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-52,21,1,1,20170212,TOR,DET
+Shot Chart Detail,0021600818,375,202699,Tobias Harris,1610612765,Detroit Pistons,3,2,50,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-14,7,1,1,20170212,TOR,DET
+Shot Chart Detail,0021600818,380,202699,Tobias Harris,1610612765,Detroit Pistons,3,2,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-43,237,1,1,20170212,TOR,DET
+Shot Chart Detail,0021600818,414,202699,Tobias Harris,1610612765,Detroit Pistons,4,9,40,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-155,46,1,1,20170212,TOR,DET
+Shot Chart Detail,0021600818,479,202699,Tobias Harris,1610612765,Detroit Pistons,4,3,54,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-84,121,1,1,20170212,TOR,DET
+Shot Chart Detail,0021600818,496,202699,Tobias Harris,1610612765,Detroit Pistons,4,2,4,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-74,175,1,1,20170212,TOR,DET
+Shot Chart Detail,0021600824,69,202699,Tobias Harris,1610612765,Detroit Pistons,1,3,11,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-37,95,1,1,20170213,MIL,DET
+Shot Chart Detail,0021600824,351,202699,Tobias Harris,1610612765,Detroit Pistons,3,1,50,Made Shot,Pullup Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,28,65,1,1,20170213,MIL,DET
+Shot Chart Detail,0021600824,378,202699,Tobias Harris,1610612765,Detroit Pistons,4,9,56,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,-1,1,1,20170213,MIL,DET
+Shot Chart Detail,0021600839,125,202699,Tobias Harris,1610612765,Detroit Pistons,2,10,43,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,46,1,1,20170215,DET,DAL
+Shot Chart Detail,0021600839,128,202699,Tobias Harris,1610612765,Detroit Pistons,2,10,1,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-37,62,1,1,20170215,DET,DAL
+Shot Chart Detail,0021600839,142,202699,Tobias Harris,1610612765,Detroit Pistons,2,8,23,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-166,21,1,1,20170215,DET,DAL
+Shot Chart Detail,0021600839,311,202699,Tobias Harris,1610612765,Detroit Pistons,3,4,23,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-129,7,1,1,20170215,DET,DAL
+Shot Chart Detail,0021600851,45,202699,Tobias Harris,1610612765,Detroit Pistons,1,5,10,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-58,16,1,1,20170223,DET,CHA
+Shot Chart Detail,0021600851,122,202699,Tobias Harris,1610612765,Detroit Pistons,2,10,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,166,213,1,1,20170223,DET,CHA
+Shot Chart Detail,0021600851,124,202699,Tobias Harris,1610612765,Detroit Pistons,2,9,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-120,228,1,1,20170223,DET,CHA
+Shot Chart Detail,0021600851,149,202699,Tobias Harris,1610612765,Detroit Pistons,2,6,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,3,1,1,20170223,DET,CHA
+Shot Chart Detail,0021600851,228,202699,Tobias Harris,1610612765,Detroit Pistons,2,1,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,177,175,1,1,20170223,DET,CHA
+Shot Chart Detail,0021600851,367,202699,Tobias Harris,1610612765,Detroit Pistons,4,11,45,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,7,1,1,20170223,DET,CHA
+Shot Chart Detail,0021600851,376,202699,Tobias Harris,1610612765,Detroit Pistons,4,10,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-194,175,1,1,20170223,DET,CHA
+Shot Chart Detail,0021600851,416,202699,Tobias Harris,1610612765,Detroit Pistons,4,7,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,3,1,1,20170223,DET,CHA
+Shot Chart Detail,0021600851,444,202699,Tobias Harris,1610612765,Detroit Pistons,4,4,41,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20170223,DET,CHA
+Shot Chart Detail,0021600879,119,202699,Tobias Harris,1610612765,Detroit Pistons,2,11,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-151,61,1,1,20170226,DET,BOS
+Shot Chart Detail,0021600879,333,202699,Tobias Harris,1610612765,Detroit Pistons,3,4,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-17,264,1,1,20170226,DET,BOS
+Shot Chart Detail,0021600890,209,202699,Tobias Harris,1610612765,Detroit Pistons,2,4,21,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20170228,DET,POR
+Shot Chart Detail,0021600890,211,202699,Tobias Harris,1610612765,Detroit Pistons,2,3,45,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,33,1,1,20170228,DET,POR
+Shot Chart Detail,0021600890,382,202699,Tobias Harris,1610612765,Detroit Pistons,4,11,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-104,178,1,1,20170228,DET,POR
+Shot Chart Detail,0021600890,421,202699,Tobias Harris,1610612765,Detroit Pistons,4,7,45,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20170228,DET,POR
+Shot Chart Detail,0021600890,423,202699,Tobias Harris,1610612765,Detroit Pistons,4,7,8,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-42,129,1,1,20170228,DET,POR
+Shot Chart Detail,0021600900,118,202699,Tobias Harris,1610612765,Detroit Pistons,1,1,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-19,-1,1,1,20170301,NOP,DET
+Shot Chart Detail,0021600900,149,202699,Tobias Harris,1610612765,Detroit Pistons,2,10,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-17,160,1,1,20170301,NOP,DET
+Shot Chart Detail,0021600900,155,202699,Tobias Harris,1610612765,Detroit Pistons,2,9,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,107,232,1,1,20170301,NOP,DET
+Shot Chart Detail,0021600900,159,202699,Tobias Harris,1610612765,Detroit Pistons,2,9,26,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-104,144,1,1,20170301,NOP,DET
+Shot Chart Detail,0021600900,374,202699,Tobias Harris,1610612765,Detroit Pistons,3,2,56,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20170301,NOP,DET
+Shot Chart Detail,0021600900,448,202699,Tobias Harris,1610612765,Detroit Pistons,4,10,21,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-94,31,1,1,20170301,NOP,DET
+Shot Chart Detail,0021600919,75,202699,Tobias Harris,1610612765,Detroit Pistons,1,4,25,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-19,0,1,1,20170304,PHI,DET
+Shot Chart Detail,0021600919,109,202699,Tobias Harris,1610612765,Detroit Pistons,1,0,55,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-4,51,1,1,20170304,PHI,DET
+Shot Chart Detail,0021600919,151,202699,Tobias Harris,1610612765,Detroit Pistons,2,9,44,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-1,43,1,1,20170304,PHI,DET
+Shot Chart Detail,0021600919,248,202699,Tobias Harris,1610612765,Detroit Pistons,2,0,55,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,55,41,1,1,20170304,PHI,DET
+Shot Chart Detail,0021600919,251,202699,Tobias Harris,1610612765,Detroit Pistons,2,0,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,-6,1,1,20170304,PHI,DET
+Shot Chart Detail,0021600919,367,202699,Tobias Harris,1610612765,Detroit Pistons,3,0,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,38,242,1,1,20170304,PHI,DET
+Shot Chart Detail,0021600919,435,202699,Tobias Harris,1610612765,Detroit Pistons,4,5,6,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-2,101,1,1,20170304,PHI,DET
+Shot Chart Detail,0021600919,463,202699,Tobias Harris,1610612765,Detroit Pistons,4,1,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-127,232,1,1,20170304,PHI,DET
+Shot Chart Detail,0021600938,149,202699,Tobias Harris,1610612765,Detroit Pistons,2,7,43,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20170306,DET,CHI
+Shot Chart Detail,0021600938,329,202699,Tobias Harris,1610612765,Detroit Pistons,3,2,45,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,0,1,1,20170306,DET,CHI
+Shot Chart Detail,0021600938,359,202699,Tobias Harris,1610612765,Detroit Pistons,3,0,59,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20170306,DET,CHI
+Shot Chart Detail,0021600938,382,202699,Tobias Harris,1610612765,Detroit Pistons,4,11,33,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-66,56,1,1,20170306,DET,CHI
+Shot Chart Detail,0021600938,498,202699,Tobias Harris,1610612765,Detroit Pistons,4,0,40,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,241,-1,1,1,20170306,DET,CHI
+Shot Chart Detail,0021600956,56,202699,Tobias Harris,1610612765,Detroit Pistons,1,6,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,21,1,1,20170308,IND,DET
+Shot Chart Detail,0021600956,104,202699,Tobias Harris,1610612765,Detroit Pistons,1,2,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,0,254,1,1,20170308,IND,DET
+Shot Chart Detail,0021600956,113,202699,Tobias Harris,1610612765,Detroit Pistons,1,1,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,-10,1,1,20170308,IND,DET
+Shot Chart Detail,0021600956,147,202699,Tobias Harris,1610612765,Detroit Pistons,2,9,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-133,65,1,1,20170308,IND,DET
+Shot Chart Detail,0021600956,153,202699,Tobias Harris,1610612765,Detroit Pistons,2,9,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,176,174,1,1,20170308,IND,DET
+Shot Chart Detail,0021600956,182,202699,Tobias Harris,1610612765,Detroit Pistons,2,6,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-155,-16,1,1,20170308,IND,DET
+Shot Chart Detail,0021600956,203,202699,Tobias Harris,1610612765,Detroit Pistons,2,3,50,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20170308,IND,DET
+Shot Chart Detail,0021600956,317,202699,Tobias Harris,1610612765,Detroit Pistons,3,4,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,10,200,1,1,20170308,IND,DET
+Shot Chart Detail,0021600956,368,202699,Tobias Harris,1610612765,Detroit Pistons,4,11,40,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-124,43,1,1,20170308,IND,DET
+Shot Chart Detail,0021600960,156,202699,Tobias Harris,1610612765,Detroit Pistons,2,6,44,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,2,1,1,20170309,DET,CLE
+Shot Chart Detail,0021600960,191,202699,Tobias Harris,1610612765,Detroit Pistons,2,3,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,7,1,1,20170309,DET,CLE
+Shot Chart Detail,0021600960,246,202699,Tobias Harris,1610612765,Detroit Pistons,3,10,15,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-106,2,1,1,20170309,DET,CLE
+Shot Chart Detail,0021600960,346,202699,Tobias Harris,1610612765,Detroit Pistons,3,1,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,8,1,1,20170309,DET,CLE
+Shot Chart Detail,0021600960,415,202699,Tobias Harris,1610612765,Detroit Pistons,4,6,1,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-7,61,1,1,20170309,DET,CLE
+Shot Chart Detail,0021600975,6,202699,Tobias Harris,1610612765,Detroit Pistons,1,11,25,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,28,124,1,1,20170311,DET,NYK
+Shot Chart Detail,0021600975,28,202699,Tobias Harris,1610612765,Detroit Pistons,1,8,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-181,188,1,1,20170311,DET,NYK
+Shot Chart Detail,0021600975,37,202699,Tobias Harris,1610612765,Detroit Pistons,1,7,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,7,1,1,20170311,DET,NYK
+Shot Chart Detail,0021600975,41,202699,Tobias Harris,1610612765,Detroit Pistons,1,6,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-1,169,1,1,20170311,DET,NYK
+Shot Chart Detail,0021600975,161,202699,Tobias Harris,1610612765,Detroit Pistons,2,6,50,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-73,31,1,1,20170311,DET,NYK
+Shot Chart Detail,0021600975,166,202699,Tobias Harris,1610612765,Detroit Pistons,2,6,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-158,195,1,1,20170311,DET,NYK
+Shot Chart Detail,0021600975,171,202699,Tobias Harris,1610612765,Detroit Pistons,2,5,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,227,120,1,1,20170311,DET,NYK
+Shot Chart Detail,0021600975,213,202699,Tobias Harris,1610612765,Detroit Pistons,2,0,59,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,2,1,1,20170311,DET,NYK
+Shot Chart Detail,0021600975,227,202699,Tobias Harris,1610612765,Detroit Pistons,2,0,0,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-150,16,1,1,20170311,DET,NYK
+Shot Chart Detail,0021600975,241,202699,Tobias Harris,1610612765,Detroit Pistons,3,11,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-7,151,1,1,20170311,DET,NYK
+Shot Chart Detail,0021600975,261,202699,Tobias Harris,1610612765,Detroit Pistons,3,8,26,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,3,1,1,20170311,DET,NYK
+Shot Chart Detail,0021600999,27,202699,Tobias Harris,1610612765,Detroit Pistons,1,7,17,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,2,41,1,1,20170314,CLE,DET
+Shot Chart Detail,0021600999,34,202699,Tobias Harris,1610612765,Detroit Pistons,1,6,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-220,106,1,1,20170314,CLE,DET
+Shot Chart Detail,0021600999,36,202699,Tobias Harris,1610612765,Detroit Pistons,1,5,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-122,95,1,1,20170314,CLE,DET
+Shot Chart Detail,0021600999,119,202699,Tobias Harris,1610612765,Detroit Pistons,2,10,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-173,11,1,1,20170314,CLE,DET
+Shot Chart Detail,0021600999,135,202699,Tobias Harris,1610612765,Detroit Pistons,2,9,22,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,92,46,1,1,20170314,CLE,DET
+Shot Chart Detail,0021600999,315,202699,Tobias Harris,1610612765,Detroit Pistons,3,6,10,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-7,52,1,1,20170314,CLE,DET
+Shot Chart Detail,0021601008,77,202699,Tobias Harris,1610612765,Detroit Pistons,1,1,59,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,-1,1,1,20170315,DET,UTA
+Shot Chart Detail,0021601008,107,202699,Tobias Harris,1610612765,Detroit Pistons,2,10,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,7,1,1,20170315,DET,UTA
+Shot Chart Detail,0021601008,283,202699,Tobias Harris,1610612765,Detroit Pistons,3,5,25,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-83,13,1,1,20170315,DET,UTA
+Shot Chart Detail,0021601008,291,202699,Tobias Harris,1610612765,Detroit Pistons,3,4,54,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20170315,DET,UTA
+Shot Chart Detail,0021601008,326,202699,Tobias Harris,1610612765,Detroit Pistons,3,1,42,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,7,1,1,20170315,DET,UTA
+Shot Chart Detail,0021601023,21,202699,Tobias Harris,1610612765,Detroit Pistons,1,10,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,158,8,1,1,20170317,DET,TOR
+Shot Chart Detail,0021601023,65,202699,Tobias Harris,1610612765,Detroit Pistons,1,5,51,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1,11,1,1,20170317,DET,TOR
+Shot Chart Detail,0021601023,282,202699,Tobias Harris,1610612765,Detroit Pistons,3,10,18,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-102,28,1,1,20170317,DET,TOR
+Shot Chart Detail,0021601023,287,202699,Tobias Harris,1610612765,Detroit Pistons,3,8,52,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-12,77,1,1,20170317,DET,TOR
+Shot Chart Detail,0021601023,394,202699,Tobias Harris,1610612765,Detroit Pistons,4,9,31,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,2,1,1,20170317,DET,TOR
+Shot Chart Detail,0021601038,5,202699,Tobias Harris,1610612765,Detroit Pistons,1,11,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-174,178,1,1,20170319,DET,PHX
+Shot Chart Detail,0021601038,240,202699,Tobias Harris,1610612765,Detroit Pistons,2,3,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,46,160,1,1,20170319,DET,PHX
+Shot Chart Detail,0021601052,11,202699,Tobias Harris,1610612765,Detroit Pistons,1,10,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,8,1,1,20170321,BKN,DET
+Shot Chart Detail,0021601052,51,202699,Tobias Harris,1610612765,Detroit Pistons,1,4,55,Made Shot,Driving Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-63,26,1,1,20170321,BKN,DET
+Shot Chart Detail,0021601052,75,202699,Tobias Harris,1610612765,Detroit Pistons,1,3,48,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,25,-6,1,1,20170321,BKN,DET
+Shot Chart Detail,0021601052,92,202699,Tobias Harris,1610612765,Detroit Pistons,1,1,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,7,1,1,20170321,BKN,DET
+Shot Chart Detail,0021601052,98,202699,Tobias Harris,1610612765,Detroit Pistons,1,1,35,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20170321,BKN,DET
+Shot Chart Detail,0021601052,312,202699,Tobias Harris,1610612765,Detroit Pistons,3,4,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,123,-5,1,1,20170321,BKN,DET
+Shot Chart Detail,0021601052,316,202699,Tobias Harris,1610612765,Detroit Pistons,3,4,16,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20170321,BKN,DET
+Shot Chart Detail,0021601052,417,202699,Tobias Harris,1610612765,Detroit Pistons,4,6,11,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-109,95,1,1,20170321,BKN,DET
+Shot Chart Detail,0021601052,429,202699,Tobias Harris,1610612765,Detroit Pistons,4,4,56,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20170321,BKN,DET
+Shot Chart Detail,0021601052,484,202699,Tobias Harris,1610612765,Detroit Pistons,4,0,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-84,7,1,1,20170321,BKN,DET
+Shot Chart Detail,0021601061,50,202699,Tobias Harris,1610612765,Detroit Pistons,1,6,22,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-14,7,1,1,20170322,CHI,DET
+Shot Chart Detail,0021601061,192,202699,Tobias Harris,1610612765,Detroit Pistons,2,4,57,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-142,-6,1,1,20170322,CHI,DET
+Shot Chart Detail,0021601061,206,202699,Tobias Harris,1610612765,Detroit Pistons,2,3,35,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-1,38,1,1,20170322,CHI,DET
+Shot Chart Detail,0021601061,303,202699,Tobias Harris,1610612765,Detroit Pistons,3,6,20,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,7,1,1,20170322,CHI,DET
+Shot Chart Detail,0021601061,383,202699,Tobias Harris,1610612765,Detroit Pistons,4,11,35,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,12,46,1,1,20170322,CHI,DET
+Shot Chart Detail,0021601061,464,202699,Tobias Harris,1610612765,Detroit Pistons,4,4,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-160,198,1,1,20170322,CHI,DET
+Shot Chart Detail,0021601074,67,202699,Tobias Harris,1610612765,Detroit Pistons,1,5,19,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-14,7,1,1,20170324,ORL,DET
+Shot Chart Detail,0021601074,118,202699,Tobias Harris,1610612765,Detroit Pistons,1,0,38,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-130,116,1,1,20170324,ORL,DET
+Shot Chart Detail,0021601074,172,202699,Tobias Harris,1610612765,Detroit Pistons,2,8,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,76,234,1,1,20170324,ORL,DET
+Shot Chart Detail,0021601098,37,202699,Tobias Harris,1610612765,Detroit Pistons,1,8,31,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,0,1,1,20170327,NYK,DET
+Shot Chart Detail,0021601098,204,202699,Tobias Harris,1610612765,Detroit Pistons,2,3,31,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20170327,NYK,DET
+Shot Chart Detail,0021601098,227,202699,Tobias Harris,1610612765,Detroit Pistons,2,0,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,11,1,1,20170327,NYK,DET
+Shot Chart Detail,0021601098,372,202699,Tobias Harris,1610612765,Detroit Pistons,4,9,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,56,154,1,1,20170327,NYK,DET
+Shot Chart Detail,0021601098,387,202699,Tobias Harris,1610612765,Detroit Pistons,4,7,25,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20170327,NYK,DET
+Shot Chart Detail,0021601107,78,202699,Tobias Harris,1610612765,Detroit Pistons,1,4,0,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,2,1,1,20170328,DET,MIA
+Shot Chart Detail,0021601107,88,202699,Tobias Harris,1610612765,Detroit Pistons,1,3,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,212,160,1,1,20170328,DET,MIA
+Shot Chart Detail,0021601107,111,202699,Tobias Harris,1610612765,Detroit Pistons,1,0,52,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,2,1,1,20170328,DET,MIA
+Shot Chart Detail,0021601107,225,202699,Tobias Harris,1610612765,Detroit Pistons,2,2,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-22,252,1,1,20170328,DET,MIA
+Shot Chart Detail,0021601107,227,202699,Tobias Harris,1610612765,Detroit Pistons,2,1,45,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,1,56,1,1,20170328,DET,MIA
+Shot Chart Detail,0021601107,313,202699,Tobias Harris,1610612765,Detroit Pistons,3,5,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,176,200,1,1,20170328,DET,MIA
+Shot Chart Detail,0021601107,405,202699,Tobias Harris,1610612765,Detroit Pistons,4,8,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-6,264,1,1,20170328,DET,MIA
+Shot Chart Detail,0021601121,189,202699,Tobias Harris,1610612765,Detroit Pistons,2,6,11,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20170330,DET,BKN
+Shot Chart Detail,0021601121,371,202699,Tobias Harris,1610612765,Detroit Pistons,4,11,6,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-241,13,1,1,20170330,DET,BKN
+Shot Chart Detail,0021601130,56,202699,Tobias Harris,1610612765,Detroit Pistons,1,5,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,2,1,1,20170331,MIL,DET
+Shot Chart Detail,0021601130,80,202699,Tobias Harris,1610612765,Detroit Pistons,1,3,12,Made Shot,Driving Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,8,1,1,20170331,MIL,DET
+Shot Chart Detail,0021601130,87,202699,Tobias Harris,1610612765,Detroit Pistons,1,2,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,2,159,1,1,20170331,MIL,DET
+Shot Chart Detail,0021601130,138,202699,Tobias Harris,1610612765,Detroit Pistons,2,7,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-153,223,1,1,20170331,MIL,DET
+Shot Chart Detail,0021601130,339,202699,Tobias Harris,1610612765,Detroit Pistons,3,1,22,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-9,2,1,1,20170331,MIL,DET
+Shot Chart Detail,0021601130,350,202699,Tobias Harris,1610612765,Detroit Pistons,3,0,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,97,92,1,1,20170331,MIL,DET
+Shot Chart Detail,0021601130,375,202699,Tobias Harris,1610612765,Detroit Pistons,4,9,46,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,3,1,1,20170331,MIL,DET
+Shot Chart Detail,0021601130,384,202699,Tobias Harris,1610612765,Detroit Pistons,4,9,9,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-35,8,1,1,20170331,MIL,DET
+Shot Chart Detail,0021601130,400,202699,Tobias Harris,1610612765,Detroit Pistons,4,7,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,9,252,1,1,20170331,MIL,DET
+Shot Chart Detail,0021601130,478,202699,Tobias Harris,1610612765,Detroit Pistons,4,1,14,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,2,1,1,20170331,MIL,DET
+Shot Chart Detail,0021601166,64,202699,Tobias Harris,1610612765,Detroit Pistons,1,3,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-109,244,1,1,20170405,DET,TOR
+Shot Chart Detail,0021601166,69,202699,Tobias Harris,1610612765,Detroit Pistons,1,3,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,2,1,1,20170405,DET,TOR
+Shot Chart Detail,0021601166,76,202699,Tobias Harris,1610612765,Detroit Pistons,1,2,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,176,3,1,1,20170405,DET,TOR
+Shot Chart Detail,0021601166,224,202699,Tobias Harris,1610612765,Detroit Pistons,2,0,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,74,139,1,1,20170405,DET,TOR
+Shot Chart Detail,0021601166,390,202699,Tobias Harris,1610612765,Detroit Pistons,4,9,55,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,3,1,1,20170405,DET,TOR
+Shot Chart Detail,0021601166,415,202699,Tobias Harris,1610612765,Detroit Pistons,4,7,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,96,252,1,1,20170405,DET,TOR
+Shot Chart Detail,0021601166,419,202699,Tobias Harris,1610612765,Detroit Pistons,4,6,24,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,8,1,1,20170405,DET,TOR
+Shot Chart Detail,0021601182,141,202699,Tobias Harris,1610612765,Detroit Pistons,2,11,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-71,239,1,1,20170407,HOU,DET
+Shot Chart Detail,0021601182,164,202699,Tobias Harris,1610612765,Detroit Pistons,2,9,10,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,50,36,1,1,20170407,HOU,DET
+Shot Chart Detail,0021601182,188,202699,Tobias Harris,1610612765,Detroit Pistons,2,6,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,153,213,1,1,20170407,HOU,DET
+Shot Chart Detail,0021601182,374,202699,Tobias Harris,1610612765,Detroit Pistons,3,3,9,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-25,82,1,1,20170407,HOU,DET
+Shot Chart Detail,0021601182,383,202699,Tobias Harris,1610612765,Detroit Pistons,3,2,16,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-238,46,1,1,20170407,HOU,DET
+Shot Chart Detail,0021601201,12,202699,Tobias Harris,1610612765,Detroit Pistons,1,9,45,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-50,126,1,1,20170409,MEM,DET
+Shot Chart Detail,0021601201,50,202699,Tobias Harris,1610612765,Detroit Pistons,1,4,51,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-88,7,1,1,20170409,MEM,DET
+Shot Chart Detail,0021601201,56,202699,Tobias Harris,1610612765,Detroit Pistons,1,4,0,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,22,2,1,1,20170409,MEM,DET
+Shot Chart Detail,0021601201,96,202699,Tobias Harris,1610612765,Detroit Pistons,1,1,2,Made Shot,Turnaround Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,71,23,1,1,20170409,MEM,DET
+Shot Chart Detail,0021601201,281,202699,Tobias Harris,1610612765,Detroit Pistons,3,7,17,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,210,134,1,1,20170409,MEM,DET
+Shot Chart Detail,0021601208,119,202699,Tobias Harris,1610612765,Detroit Pistons,2,10,54,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,-1,1,1,20170410,DET,WAS
+Shot Chart Detail,0021601208,148,202699,Tobias Harris,1610612765,Detroit Pistons,2,8,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,194,11,1,1,20170410,DET,WAS
+Shot Chart Detail,0021601208,305,202699,Tobias Harris,1610612765,Detroit Pistons,3,4,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-78,257,1,1,20170410,DET,WAS
+Shot Chart Detail,0021601208,334,202699,Tobias Harris,1610612765,Detroit Pistons,3,0,29,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,23,1,1,20170410,DET,WAS
+Shot Chart Detail,0021601208,365,202699,Tobias Harris,1610612765,Detroit Pistons,4,8,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-169,61,1,1,20170410,DET,WAS
+Shot Chart Detail,0021601208,412,202699,Tobias Harris,1610612765,Detroit Pistons,4,2,53,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,6,72,1,1,20170410,DET,WAS
+Shot Chart Detail,0021601208,418,202699,Tobias Harris,1610612765,Detroit Pistons,4,2,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-197,170,1,1,20170410,DET,WAS
+Shot Chart Detail,0021601208,436,202699,Tobias Harris,1610612765,Detroit Pistons,4,0,27,Made Shot,Driving Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,28,41,1,1,20170410,DET,WAS
+Shot Chart Detail,0021601217,147,202699,Tobias Harris,1610612765,Detroit Pistons,2,11,5,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,7,1,1,20170412,ORL,DET
+Shot Chart Detail,0021601217,241,202699,Tobias Harris,1610612765,Detroit Pistons,2,1,26,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-35,101,1,1,20170412,ORL,DET
+Shot Chart Detail,0021601217,485,202699,Tobias Harris,1610612765,Detroit Pistons,4,5,58,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-25,41,1,1,20170412,ORL,DET

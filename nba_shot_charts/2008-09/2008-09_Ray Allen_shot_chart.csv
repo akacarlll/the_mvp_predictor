@@ -1,0 +1,500 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0020800001,244,951,Ray Allen,1610612738,Boston Celtics,2,1,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,86,176,1,1,20081028,BOS,CLE
+Shot Chart Detail,0020800001,274,951,Ray Allen,1610612738,Boston Celtics,3,10,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-169,178,1,1,20081028,BOS,CLE
+Shot Chart Detail,0020800022,20,951,Ray Allen,1610612738,Boston Celtics,1,10,26,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,47,190,1,1,20081031,BOS,CHI
+Shot Chart Detail,0020800022,297,951,Ray Allen,1610612738,Boston Celtics,3,10,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,234,91,1,1,20081031,BOS,CHI
+Shot Chart Detail,0020800022,306,951,Ray Allen,1610612738,Boston Celtics,3,10,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2,28,1,1,20081031,BOS,CHI
+Shot Chart Detail,0020800022,331,951,Ray Allen,1610612738,Boston Celtics,3,7,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-185,-5,1,1,20081031,BOS,CHI
+Shot Chart Detail,0020800022,355,951,Ray Allen,1610612738,Boston Celtics,3,5,23,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,14,1,1,20081031,BOS,CHI
+Shot Chart Detail,0020800028,26,951,Ray Allen,1610612738,Boston Celtics,1,8,58,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,159,206,1,1,20081101,IND,BOS
+Shot Chart Detail,0020800028,247,951,Ray Allen,1610612738,Boston Celtics,2,2,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,10,208,1,1,20081101,IND,BOS
+Shot Chart Detail,0020800028,301,951,Ray Allen,1610612738,Boston Celtics,3,11,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-171,23,1,1,20081101,IND,BOS
+Shot Chart Detail,0020800028,313,951,Ray Allen,1610612738,Boston Celtics,3,9,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,138,104,1,1,20081101,IND,BOS
+Shot Chart Detail,0020800049,30,951,Ray Allen,1610612738,Boston Celtics,1,8,29,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081104,HOU,BOS
+Shot Chart Detail,0020800049,79,951,Ray Allen,1610612738,Boston Celtics,1,3,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-172,50,1,1,20081104,HOU,BOS
+Shot Chart Detail,0020800049,239,951,Ray Allen,1610612738,Boston Celtics,2,2,35,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,62,119,1,1,20081104,HOU,BOS
+Shot Chart Detail,0020800049,245,951,Ray Allen,1610612738,Boston Celtics,2,2,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,116,231,1,1,20081104,HOU,BOS
+Shot Chart Detail,0020800049,306,951,Ray Allen,1610612738,Boston Celtics,3,8,57,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081104,HOU,BOS
+Shot Chart Detail,0020800049,315,951,Ray Allen,1610612738,Boston Celtics,3,7,56,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,40,93,1,1,20081104,HOU,BOS
+Shot Chart Detail,0020800049,346,951,Ray Allen,1610612738,Boston Celtics,3,2,45,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081104,HOU,BOS
+Shot Chart Detail,0020800049,447,951,Ray Allen,1610612738,Boston Celtics,4,5,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081104,HOU,BOS
+Shot Chart Detail,0020800049,457,951,Ray Allen,1610612738,Boston Celtics,4,5,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-109,145,1,1,20081104,HOU,BOS
+Shot Chart Detail,0020800049,489,951,Ray Allen,1610612738,Boston Celtics,4,2,33,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,36,1,1,20081104,HOU,BOS
+Shot Chart Detail,0020800049,491,951,Ray Allen,1610612738,Boston Celtics,4,1,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,97,127,1,1,20081104,HOU,BOS
+Shot Chart Detail,0020800059,58,951,Ray Allen,1610612738,Boston Celtics,1,4,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,176,170,1,1,20081105,OKC,BOS
+Shot Chart Detail,0020800059,319,951,Ray Allen,1610612738,Boston Celtics,3,11,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,136,88,1,1,20081105,OKC,BOS
+Shot Chart Detail,0020800059,345,951,Ray Allen,1610612738,Boston Celtics,3,8,12,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-226,19,1,1,20081105,OKC,BOS
+Shot Chart Detail,0020800059,387,951,Ray Allen,1610612738,Boston Celtics,3,4,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-179,45,1,1,20081105,OKC,BOS
+Shot Chart Detail,0020800059,402,951,Ray Allen,1610612738,Boston Celtics,3,2,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-87,233,1,1,20081105,OKC,BOS
+Shot Chart Detail,0020800059,517,951,Ray Allen,1610612738,Boston Celtics,4,2,49,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081105,OKC,BOS
+Shot Chart Detail,0020800059,540,951,Ray Allen,1610612738,Boston Celtics,4,1,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081105,OKC,BOS
+Shot Chart Detail,0020800069,41,951,Ray Allen,1610612738,Boston Celtics,1,6,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,12,1,1,20081107,BOS,MIL
+Shot Chart Detail,0020800069,44,951,Ray Allen,1610612738,Boston Celtics,1,6,4,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,1,44,1,1,20081107,BOS,MIL
+Shot Chart Detail,0020800069,59,951,Ray Allen,1610612738,Boston Celtics,1,4,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,0,247,1,1,20081107,BOS,MIL
+Shot Chart Detail,0020800088,99,951,Ray Allen,1610612738,Boston Celtics,1,1,37,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-231,63,1,1,20081109,DET,BOS
+Shot Chart Detail,0020800088,306,951,Ray Allen,1610612738,Boston Celtics,3,10,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081109,DET,BOS
+Shot Chart Detail,0020800088,314,951,Ray Allen,1610612738,Boston Celtics,3,8,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-87,119,1,1,20081109,DET,BOS
+Shot Chart Detail,0020800088,349,951,Ray Allen,1610612738,Boston Celtics,3,4,21,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,17,1,1,20081109,DET,BOS
+Shot Chart Detail,0020800095,37,951,Ray Allen,1610612738,Boston Celtics,1,6,35,Made Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-78,58,1,1,20081110,BOS,TOR
+Shot Chart Detail,0020800095,100,951,Ray Allen,1610612738,Boston Celtics,1,0,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-24,197,1,1,20081110,BOS,TOR
+Shot Chart Detail,0020800095,252,951,Ray Allen,1610612738,Boston Celtics,3,11,40,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,43,134,1,1,20081110,BOS,TOR
+Shot Chart Detail,0020800095,259,951,Ray Allen,1610612738,Boston Celtics,3,10,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,12,1,1,20081110,BOS,TOR
+Shot Chart Detail,0020800095,444,951,Ray Allen,1610612738,Boston Celtics,4,3,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,217,124,1,1,20081110,BOS,TOR
+Shot Chart Detail,0020800107,63,951,Ray Allen,1610612738,Boston Celtics,1,5,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,1,1,1,20081112,BOS,ATL
+Shot Chart Detail,0020800107,114,951,Ray Allen,1610612738,Boston Celtics,1,1,30,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,7,1,1,20081112,BOS,ATL
+Shot Chart Detail,0020800107,191,951,Ray Allen,1610612738,Boston Celtics,2,6,42,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-231,-8,1,1,20081112,BOS,ATL
+Shot Chart Detail,0020800107,200,951,Ray Allen,1610612738,Boston Celtics,2,5,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,11,1,1,20081112,BOS,ATL
+Shot Chart Detail,0020800107,220,951,Ray Allen,1610612738,Boston Celtics,2,3,35,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,4,1,1,20081112,BOS,ATL
+Shot Chart Detail,0020800107,488,951,Ray Allen,1610612738,Boston Celtics,4,8,7,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,103,159,1,1,20081112,BOS,ATL
+Shot Chart Detail,0020800125,7,951,Ray Allen,1610612738,Boston Celtics,1,11,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,92,113,1,1,20081114,BOS,DEN
+Shot Chart Detail,0020800125,20,951,Ray Allen,1610612738,Boston Celtics,1,8,58,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,11,1,1,20081114,BOS,DEN
+Shot Chart Detail,0020800125,31,951,Ray Allen,1610612738,Boston Celtics,1,8,0,Made Shot,Jump Shot,3PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,23,-205,119,1,1,20081114,BOS,DEN
+Shot Chart Detail,0020800125,47,951,Ray Allen,1610612738,Boston Celtics,1,5,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-207,6,1,1,20081114,BOS,DEN
+Shot Chart Detail,0020800125,91,951,Ray Allen,1610612738,Boston Celtics,1,1,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-194,146,1,1,20081114,BOS,DEN
+Shot Chart Detail,0020800125,99,951,Ray Allen,1610612738,Boston Celtics,1,0,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-220,102,1,1,20081114,BOS,DEN
+Shot Chart Detail,0020800125,302,951,Ray Allen,1610612738,Boston Celtics,3,4,12,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-120,72,1,1,20081114,BOS,DEN
+Shot Chart Detail,0020800125,406,951,Ray Allen,1610612738,Boston Celtics,4,5,47,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,15,1,1,20081114,BOS,DEN
+Shot Chart Detail,0020800125,416,951,Ray Allen,1610612738,Boston Celtics,4,4,17,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,-13,1,1,20081114,BOS,DEN
+Shot Chart Detail,0020800139,30,951,Ray Allen,1610612738,Boston Celtics,1,6,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,113,230,1,1,20081115,MIL,BOS
+Shot Chart Detail,0020800139,65,951,Ray Allen,1610612738,Boston Celtics,1,4,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-157,69,1,1,20081115,MIL,BOS
+Shot Chart Detail,0020800139,272,951,Ray Allen,1610612738,Boston Celtics,3,9,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081115,MIL,BOS
+Shot Chart Detail,0020800139,292,951,Ray Allen,1610612738,Boston Celtics,3,8,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081115,MIL,BOS
+Shot Chart Detail,0020800139,311,951,Ray Allen,1610612738,Boston Celtics,3,5,17,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,236,66,1,1,20081115,MIL,BOS
+Shot Chart Detail,0020800139,351,951,Ray Allen,1610612738,Boston Celtics,3,2,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,81,151,1,1,20081115,MIL,BOS
+Shot Chart Detail,0020800139,361,951,Ray Allen,1610612738,Boston Celtics,3,0,29,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081115,MIL,BOS
+Shot Chart Detail,0020800139,458,951,Ray Allen,1610612738,Boston Celtics,4,4,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081115,MIL,BOS
+Shot Chart Detail,0020800153,137,951,Ray Allen,1610612738,Boston Celtics,2,10,6,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,-8,1,1,20081118,BOS,NYK
+Shot Chart Detail,0020800153,183,951,Ray Allen,1610612738,Boston Celtics,2,5,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,-3,1,1,20081118,BOS,NYK
+Shot Chart Detail,0020800153,214,951,Ray Allen,1610612738,Boston Celtics,2,1,8,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,45,164,1,1,20081118,BOS,NYK
+Shot Chart Detail,0020800153,236,951,Ray Allen,1610612738,Boston Celtics,3,11,15,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,32,145,1,1,20081118,BOS,NYK
+Shot Chart Detail,0020800153,242,951,Ray Allen,1610612738,Boston Celtics,3,10,2,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,1,23,1,1,20081118,BOS,NYK
+Shot Chart Detail,0020800169,188,951,Ray Allen,1610612738,Boston Celtics,2,3,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-175,181,1,1,20081120,BOS,DET
+Shot Chart Detail,0020800169,190,951,Ray Allen,1610612738,Boston Celtics,2,2,49,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,7,1,1,20081120,BOS,DET
+Shot Chart Detail,0020800169,257,951,Ray Allen,1610612738,Boston Celtics,3,9,1,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,7,1,1,20081120,BOS,DET
+Shot Chart Detail,0020800176,7,951,Ray Allen,1610612738,Boston Celtics,1,11,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081121,MIN,BOS
+Shot Chart Detail,0020800176,38,951,Ray Allen,1610612738,Boston Celtics,1,7,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081121,MIN,BOS
+Shot Chart Detail,0020800176,99,951,Ray Allen,1610612738,Boston Celtics,1,1,11,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-40,142,1,1,20081121,MIN,BOS
+Shot Chart Detail,0020800176,351,951,Ray Allen,1610612738,Boston Celtics,3,4,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081121,MIN,BOS
+Shot Chart Detail,0020800176,369,951,Ray Allen,1610612738,Boston Celtics,3,3,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-182,83,1,1,20081121,MIN,BOS
+Shot Chart Detail,0020800193,18,951,Ray Allen,1610612738,Boston Celtics,1,10,9,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,7,1,1,20081123,TOR,BOS
+Shot Chart Detail,0020800193,48,951,Ray Allen,1610612738,Boston Celtics,1,6,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,122,216,1,1,20081123,TOR,BOS
+Shot Chart Detail,0020800193,183,951,Ray Allen,1610612738,Boston Celtics,2,6,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081123,TOR,BOS
+Shot Chart Detail,0020800193,198,951,Ray Allen,1610612738,Boston Celtics,2,5,30,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,121,123,1,1,20081123,TOR,BOS
+Shot Chart Detail,0020800193,201,951,Ray Allen,1610612738,Boston Celtics,2,5,3,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,0,1,1,20081123,TOR,BOS
+Shot Chart Detail,0020800193,282,951,Ray Allen,1610612738,Boston Celtics,3,11,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,189,168,1,1,20081123,TOR,BOS
+Shot Chart Detail,0020800193,295,951,Ray Allen,1610612738,Boston Celtics,3,10,25,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,12,1,1,20081123,TOR,BOS
+Shot Chart Detail,0020800193,353,951,Ray Allen,1610612738,Boston Celtics,3,4,30,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081123,TOR,BOS
+Shot Chart Detail,0020800213,37,951,Ray Allen,1610612738,Boston Celtics,1,8,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,168,134,1,1,20081126,BOS,GSW
+Shot Chart Detail,0020800213,39,951,Ray Allen,1610612738,Boston Celtics,1,7,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,140,203,1,1,20081126,BOS,GSW
+Shot Chart Detail,0020800213,44,951,Ray Allen,1610612738,Boston Celtics,1,7,23,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,226,0,1,1,20081126,BOS,GSW
+Shot Chart Detail,0020800213,64,951,Ray Allen,1610612738,Boston Celtics,1,5,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,113,82,1,1,20081126,BOS,GSW
+Shot Chart Detail,0020800213,221,951,Ray Allen,1610612738,Boston Celtics,2,6,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,133,200,1,1,20081126,BOS,GSW
+Shot Chart Detail,0020800213,323,951,Ray Allen,1610612738,Boston Celtics,3,8,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,114,170,1,1,20081126,BOS,GSW
+Shot Chart Detail,0020800213,327,951,Ray Allen,1610612738,Boston Celtics,3,7,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,7,1,1,20081126,BOS,GSW
+Shot Chart Detail,0020800213,344,951,Ray Allen,1610612738,Boston Celtics,3,5,42,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,0,1,1,20081126,BOS,GSW
+Shot Chart Detail,0020800213,467,951,Ray Allen,1610612738,Boston Celtics,4,7,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,13,244,1,1,20081126,BOS,GSW
+Shot Chart Detail,0020800213,527,951,Ray Allen,1610612738,Boston Celtics,4,3,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-215,112,1,1,20081126,BOS,GSW
+Shot Chart Detail,0020800226,83,951,Ray Allen,1610612738,Boston Celtics,1,2,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-62,178,1,1,20081128,BOS,PHI
+Shot Chart Detail,0020800226,108,951,Ray Allen,1610612738,Boston Celtics,2,11,39,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,3,1,1,20081128,BOS,PHI
+Shot Chart Detail,0020800226,120,951,Ray Allen,1610612738,Boston Celtics,2,9,50,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,6,26,1,1,20081128,BOS,PHI
+Shot Chart Detail,0020800226,213,951,Ray Allen,1610612738,Boston Celtics,2,1,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-98,197,1,1,20081128,BOS,PHI
+Shot Chart Detail,0020800226,235,951,Ray Allen,1610612738,Boston Celtics,3,10,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-188,71,1,1,20081128,BOS,PHI
+Shot Chart Detail,0020800226,265,951,Ray Allen,1610612738,Boston Celtics,3,5,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,189,157,1,1,20081128,BOS,PHI
+Shot Chart Detail,0020800226,267,951,Ray Allen,1610612738,Boston Celtics,3,5,21,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-226,47,1,1,20081128,BOS,PHI
+Shot Chart Detail,0020800226,275,951,Ray Allen,1610612738,Boston Celtics,3,4,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,146,208,1,1,20081128,BOS,PHI
+Shot Chart Detail,0020800226,280,951,Ray Allen,1610612738,Boston Celtics,3,3,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,147,148,1,1,20081128,BOS,PHI
+Shot Chart Detail,0020800226,308,951,Ray Allen,1610612738,Boston Celtics,3,1,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,21,189,102,1,1,20081128,BOS,PHI
+Shot Chart Detail,0020800236,207,951,Ray Allen,1610612738,Boston Celtics,2,5,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,119,175,1,1,20081129,CHA,BOS
+Shot Chart Detail,0020800236,227,951,Ray Allen,1610612738,Boston Celtics,2,3,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,144,172,1,1,20081129,CHA,BOS
+Shot Chart Detail,0020800236,257,951,Ray Allen,1610612738,Boston Celtics,2,0,26,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081129,CHA,BOS
+Shot Chart Detail,0020800236,278,951,Ray Allen,1610612738,Boston Celtics,3,9,43,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081129,CHA,BOS
+Shot Chart Detail,0020800236,334,951,Ray Allen,1610612738,Boston Celtics,3,4,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,151,203,1,1,20081129,CHA,BOS
+Shot Chart Detail,0020800253,25,951,Ray Allen,1610612738,Boston Celtics,1,8,41,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,53,146,1,1,20081201,BOS,ORL
+Shot Chart Detail,0020800253,31,951,Ray Allen,1610612738,Boston Celtics,1,7,57,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,3,1,1,20081201,BOS,ORL
+Shot Chart Detail,0020800253,74,951,Ray Allen,1610612738,Boston Celtics,1,3,47,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-204,135,1,1,20081201,BOS,ORL
+Shot Chart Detail,0020800253,129,951,Ray Allen,1610612738,Boston Celtics,2,11,16,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,1,1,1,20081201,BOS,ORL
+Shot Chart Detail,0020800253,184,951,Ray Allen,1610612738,Boston Celtics,2,5,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-217,118,1,1,20081201,BOS,ORL
+Shot Chart Detail,0020800253,319,951,Ray Allen,1610612738,Boston Celtics,3,3,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,176,175,1,1,20081201,BOS,ORL
+Shot Chart Detail,0020800253,375,951,Ray Allen,1610612738,Boston Celtics,4,9,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-171,56,1,1,20081201,BOS,ORL
+Shot Chart Detail,0020800253,453,951,Ray Allen,1610612738,Boston Celtics,4,2,40,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,151,15,1,1,20081201,BOS,ORL
+Shot Chart Detail,0020800269,2,951,Ray Allen,1610612738,Boston Celtics,1,11,54,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,6,1,1,20081203,BOS,IND
+Shot Chart Detail,0020800269,21,951,Ray Allen,1610612738,Boston Celtics,1,10,3,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-224,11,1,1,20081203,BOS,IND
+Shot Chart Detail,0020800269,90,951,Ray Allen,1610612738,Boston Celtics,1,3,37,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,-2,1,1,20081203,BOS,IND
+Shot Chart Detail,0020800269,112,951,Ray Allen,1610612738,Boston Celtics,1,1,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,154,186,1,1,20081203,BOS,IND
+Shot Chart Detail,0020800269,192,951,Ray Allen,1610612738,Boston Celtics,2,5,13,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,6,1,1,20081203,BOS,IND
+Shot Chart Detail,0020800269,215,951,Ray Allen,1610612738,Boston Celtics,2,2,49,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,12,1,1,20081203,BOS,IND
+Shot Chart Detail,0020800269,283,951,Ray Allen,1610612738,Boston Celtics,3,7,46,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,56,129,1,1,20081203,BOS,IND
+Shot Chart Detail,0020800269,296,951,Ray Allen,1610612738,Boston Celtics,3,7,10,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,1,1,1,20081203,BOS,IND
+Shot Chart Detail,0020800269,331,951,Ray Allen,1610612738,Boston Celtics,3,4,5,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,20,1,1,20081203,BOS,IND
+Shot Chart Detail,0020800269,436,951,Ray Allen,1610612738,Boston Celtics,4,7,46,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,231,86,1,1,20081203,BOS,IND
+Shot Chart Detail,0020800269,453,951,Ray Allen,1610612738,Boston Celtics,4,5,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,129,108,1,1,20081203,BOS,IND
+Shot Chart Detail,0020800281,44,951,Ray Allen,1610612738,Boston Celtics,1,5,54,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,31,67,1,1,20081205,BOS,POR
+Shot Chart Detail,0020800281,65,951,Ray Allen,1610612738,Boston Celtics,1,3,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,11,1,1,20081205,BOS,POR
+Shot Chart Detail,0020800281,79,951,Ray Allen,1610612738,Boston Celtics,1,1,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,168,201,1,1,20081205,BOS,POR
+Shot Chart Detail,0020800281,86,951,Ray Allen,1610612738,Boston Celtics,1,0,42,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,12,23,1,1,20081205,BOS,POR
+Shot Chart Detail,0020800281,246,951,Ray Allen,1610612738,Boston Celtics,3,11,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,9,1,1,20081205,BOS,POR
+Shot Chart Detail,0020800281,294,951,Ray Allen,1610612738,Boston Celtics,3,6,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-191,164,1,1,20081205,BOS,POR
+Shot Chart Detail,0020800281,348,951,Ray Allen,1610612738,Boston Celtics,3,1,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,-5,1,1,20081205,BOS,POR
+Shot Chart Detail,0020800299,8,951,Ray Allen,1610612738,Boston Celtics,1,9,53,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,28,105,1,1,20081207,IND,BOS
+Shot Chart Detail,0020800299,33,951,Ray Allen,1610612738,Boston Celtics,1,7,14,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,89,154,1,1,20081207,IND,BOS
+Shot Chart Detail,0020800299,58,951,Ray Allen,1610612738,Boston Celtics,1,5,22,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,19,1,1,20081207,IND,BOS
+Shot Chart Detail,0020800299,66,951,Ray Allen,1610612738,Boston Celtics,1,4,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,92,160,1,1,20081207,IND,BOS
+Shot Chart Detail,0020800299,187,951,Ray Allen,1610612738,Boston Celtics,2,6,22,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-21,78,1,1,20081207,IND,BOS
+Shot Chart Detail,0020800299,209,951,Ray Allen,1610612738,Boston Celtics,2,4,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,157,206,1,1,20081207,IND,BOS
+Shot Chart Detail,0020800299,265,951,Ray Allen,1610612738,Boston Celtics,3,11,1,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-4,86,1,1,20081207,IND,BOS
+Shot Chart Detail,0020800299,269,951,Ray Allen,1610612738,Boston Celtics,3,10,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,147,216,1,1,20081207,IND,BOS
+Shot Chart Detail,0020800299,346,951,Ray Allen,1610612738,Boston Celtics,3,2,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,81,242,1,1,20081207,IND,BOS
+Shot Chart Detail,0020800299,372,951,Ray Allen,1610612738,Boston Celtics,4,11,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,127,220,1,1,20081207,IND,BOS
+Shot Chart Detail,0020800299,461,951,Ray Allen,1610612738,Boston Celtics,4,2,3,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-242,-16,1,1,20081207,IND,BOS
+Shot Chart Detail,0020800299,529,951,Ray Allen,1610612738,Boston Celtics,5,4,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,136,118,1,1,20081207,IND,BOS
+Shot Chart Detail,0020800299,566,951,Ray Allen,1610612738,Boston Celtics,5,0,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-23,263,1,1,20081207,IND,BOS
+Shot Chart Detail,0020800323,23,951,Ray Allen,1610612738,Boston Celtics,1,9,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-217,131,1,1,20081211,WAS,BOS
+Shot Chart Detail,0020800323,41,951,Ray Allen,1610612738,Boston Celtics,1,7,45,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,-24,1,1,20081211,WAS,BOS
+Shot Chart Detail,0020800323,43,951,Ray Allen,1610612738,Boston Celtics,1,7,15,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-229,-28,1,1,20081211,WAS,BOS
+Shot Chart Detail,0020800323,94,951,Ray Allen,1610612738,Boston Celtics,1,3,25,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-242,-30,1,1,20081211,WAS,BOS
+Shot Chart Detail,0020800323,248,951,Ray Allen,1610612738,Boston Celtics,2,3,1,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-15,22,1,1,20081211,WAS,BOS
+Shot Chart Detail,0020800323,327,951,Ray Allen,1610612738,Boston Celtics,3,7,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-147,75,1,1,20081211,WAS,BOS
+Shot Chart Detail,0020800323,339,951,Ray Allen,1610612738,Boston Celtics,3,6,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,4,1,1,20081211,WAS,BOS
+Shot Chart Detail,0020800323,371,951,Ray Allen,1610612738,Boston Celtics,3,3,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,12,1,1,20081211,WAS,BOS
+Shot Chart Detail,0020800329,167,951,Ray Allen,1610612738,Boston Celtics,2,8,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-210,129,1,1,20081212,BOS,NOH
+Shot Chart Detail,0020800329,363,951,Ray Allen,1610612738,Boston Celtics,3,2,37,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-4,86,1,1,20081212,BOS,NOH
+Shot Chart Detail,0020800354,171,951,Ray Allen,1610612738,Boston Celtics,2,7,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,110,137,1,1,20081215,BOS,UTA
+Shot Chart Detail,0020800354,277,951,Ray Allen,1610612738,Boston Celtics,3,9,33,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,-11,1,1,20081215,BOS,UTA
+Shot Chart Detail,0020800354,303,951,Ray Allen,1610612738,Boston Celtics,3,7,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,11,1,1,20081215,BOS,UTA
+Shot Chart Detail,0020800354,496,951,Ray Allen,1610612738,Boston Celtics,4,3,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-196,23,1,1,20081215,BOS,UTA
+Shot Chart Detail,0020800366,18,951,Ray Allen,1610612738,Boston Celtics,1,10,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,111,160,1,1,20081217,ATL,BOS
+Shot Chart Detail,0020800366,213,951,Ray Allen,1610612738,Boston Celtics,2,3,28,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,21,102,1,1,20081217,ATL,BOS
+Shot Chart Detail,0020800366,268,951,Ray Allen,1610612738,Boston Celtics,3,10,34,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081217,ATL,BOS
+Shot Chart Detail,0020800366,361,951,Ray Allen,1610612738,Boston Celtics,3,1,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,129,246,1,1,20081217,ATL,BOS
+Shot Chart Detail,0020800366,433,951,Ray Allen,1610612738,Boston Celtics,4,7,22,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081217,ATL,BOS
+Shot Chart Detail,0020800380,32,951,Ray Allen,1610612738,Boston Celtics,1,8,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,11,1,1,20081219,BOS,CHI
+Shot Chart Detail,0020800380,62,951,Ray Allen,1610612738,Boston Celtics,1,4,50,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-183,31,1,1,20081219,BOS,CHI
+Shot Chart Detail,0020800380,71,951,Ray Allen,1610612738,Boston Celtics,1,3,31,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,15,69,135,1,1,20081219,BOS,CHI
+Shot Chart Detail,0020800380,79,951,Ray Allen,1610612738,Boston Celtics,1,2,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-187,0,1,1,20081219,BOS,CHI
+Shot Chart Detail,0020800380,94,951,Ray Allen,1610612738,Boston Celtics,1,0,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-79,146,1,1,20081219,BOS,CHI
+Shot Chart Detail,0020800380,177,951,Ray Allen,1610612738,Boston Celtics,2,4,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,122,227,1,1,20081219,BOS,CHI
+Shot Chart Detail,0020800380,260,951,Ray Allen,1610612738,Boston Celtics,3,6,9,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,231,-2,1,1,20081219,BOS,CHI
+Shot Chart Detail,0020800380,276,951,Ray Allen,1610612738,Boston Celtics,3,4,27,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,3,1,1,20081219,BOS,CHI
+Shot Chart Detail,0020800380,328,951,Ray Allen,1610612738,Boston Celtics,3,0,9,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,236,4,1,1,20081219,BOS,CHI
+Shot Chart Detail,0020800380,351,951,Ray Allen,1610612738,Boston Celtics,4,10,53,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,241,-2,1,1,20081219,BOS,CHI
+Shot Chart Detail,0020800400,25,951,Ray Allen,1610612738,Boston Celtics,1,8,15,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,29,72,1,1,20081221,BOS,NYK
+Shot Chart Detail,0020800400,38,951,Ray Allen,1610612738,Boston Celtics,1,6,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-119,217,1,1,20081221,BOS,NYK
+Shot Chart Detail,0020800400,76,951,Ray Allen,1610612738,Boston Celtics,1,1,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,122,160,1,1,20081221,BOS,NYK
+Shot Chart Detail,0020800400,103,951,Ray Allen,1610612738,Boston Celtics,2,11,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,135,-6,1,1,20081221,BOS,NYK
+Shot Chart Detail,0020800400,235,951,Ray Allen,1610612738,Boston Celtics,3,11,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,10,247,1,1,20081221,BOS,NYK
+Shot Chart Detail,0020800400,374,951,Ray Allen,1610612738,Boston Celtics,4,11,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,22,195,104,1,1,20081221,BOS,NYK
+Shot Chart Detail,0020800400,377,951,Ray Allen,1610612738,Boston Celtics,4,10,51,Made Shot,Fadeaway Bank shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,133,33,1,1,20081221,BOS,NYK
+Shot Chart Detail,0020800413,32,951,Ray Allen,1610612738,Boston Celtics,1,7,32,Made Shot,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-68,53,1,1,20081223,BOS,PHI
+Shot Chart Detail,0020800413,83,951,Ray Allen,1610612738,Boston Celtics,1,1,33,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-224,-11,1,1,20081223,BOS,PHI
+Shot Chart Detail,0020800413,201,951,Ray Allen,1610612738,Boston Celtics,2,4,33,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,43,19,1,1,20081223,BOS,PHI
+Shot Chart Detail,0020800413,275,951,Ray Allen,1610612738,Boston Celtics,3,10,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,3,1,1,20081223,BOS,PHI
+Shot Chart Detail,0020800413,316,951,Ray Allen,1610612738,Boston Celtics,3,6,49,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-229,42,1,1,20081223,BOS,PHI
+Shot Chart Detail,0020800423,4,951,Ray Allen,1610612738,Boston Celtics,1,11,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-215,135,1,1,20081225,LAL,BOS
+Shot Chart Detail,0020800423,40,951,Ray Allen,1610612738,Boston Celtics,1,6,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081225,LAL,BOS
+Shot Chart Detail,0020800423,75,951,Ray Allen,1610612738,Boston Celtics,1,0,48,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,-14,1,1,20081225,LAL,BOS
+Shot Chart Detail,0020800423,136,951,Ray Allen,1610612738,Boston Celtics,2,8,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,162,186,1,1,20081225,LAL,BOS
+Shot Chart Detail,0020800423,308,951,Ray Allen,1610612738,Boston Celtics,3,4,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081225,LAL,BOS
+Shot Chart Detail,0020800435,214,951,Ray Allen,1610612738,Boston Celtics,2,2,33,Made Shot,Pullup Jump shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,-6,1,1,20081226,GSW,BOS
+Shot Chart Detail,0020800435,228,951,Ray Allen,1610612738,Boston Celtics,2,1,14,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-4,66,1,1,20081226,GSW,BOS
+Shot Chart Detail,0020800435,418,951,Ray Allen,1610612738,Boston Celtics,4,7,18,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-2,108,1,1,20081226,GSW,BOS
+Shot Chart Detail,0020800448,22,951,Ray Allen,1610612738,Boston Celtics,1,9,46,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,226,7,1,1,20081228,SAC,BOS
+Shot Chart Detail,0020800448,87,951,Ray Allen,1610612738,Boston Celtics,1,2,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-155,7,1,1,20081228,SAC,BOS
+Shot Chart Detail,0020800448,162,951,Ray Allen,1610612738,Boston Celtics,2,7,49,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081228,SAC,BOS
+Shot Chart Detail,0020800448,216,951,Ray Allen,1610612738,Boston Celtics,2,4,17,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,114,69,1,1,20081228,SAC,BOS
+Shot Chart Detail,0020800448,275,951,Ray Allen,1610612738,Boston Celtics,2,0,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-196,-6,1,1,20081228,SAC,BOS
+Shot Chart Detail,0020800448,307,951,Ray Allen,1610612738,Boston Celtics,3,8,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,166,186,1,1,20081228,SAC,BOS
+Shot Chart Detail,0020800448,351,951,Ray Allen,1610612738,Boston Celtics,3,3,37,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081228,SAC,BOS
+Shot Chart Detail,0020800465,40,951,Ray Allen,1610612738,Boston Celtics,1,5,37,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-224,-2,1,1,20081230,POR,BOS
+Shot Chart Detail,0020800465,231,951,Ray Allen,1610612738,Boston Celtics,2,1,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-82,227,1,1,20081230,POR,BOS
+Shot Chart Detail,0020800475,169,951,Ray Allen,1610612738,Boston Celtics,2,6,43,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,4,1,1,20090102,BOS,WAS
+Shot Chart Detail,0020800475,204,951,Ray Allen,1610612738,Boston Celtics,2,3,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,168,112,1,1,20090102,BOS,WAS
+Shot Chart Detail,0020800475,251,951,Ray Allen,1610612738,Boston Celtics,3,10,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,91,227,1,1,20090102,BOS,WAS
+Shot Chart Detail,0020800475,341,951,Ray Allen,1610612738,Boston Celtics,3,0,3,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,1,1,1,20090102,BOS,WAS
+Shot Chart Detail,0020800499,40,951,Ray Allen,1610612738,Boston Celtics,1,6,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-194,-3,1,1,20090104,NYK,BOS
+Shot Chart Detail,0020800499,90,951,Ray Allen,1610612738,Boston Celtics,1,2,8,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090104,NYK,BOS
+Shot Chart Detail,0020800499,92,951,Ray Allen,1610612738,Boston Celtics,1,1,47,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090104,NYK,BOS
+Shot Chart Detail,0020800499,170,951,Ray Allen,1610612738,Boston Celtics,2,4,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090104,NYK,BOS
+Shot Chart Detail,0020800499,185,951,Ray Allen,1610612738,Boston Celtics,2,3,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,95,187,1,1,20090104,NYK,BOS
+Shot Chart Detail,0020800499,255,951,Ray Allen,1610612738,Boston Celtics,3,11,44,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090104,NYK,BOS
+Shot Chart Detail,0020800499,316,951,Ray Allen,1610612738,Boston Celtics,3,5,45,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090104,NYK,BOS
+Shot Chart Detail,0020800506,44,951,Ray Allen,1610612738,Boston Celtics,1,7,15,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,23,1,1,20090106,CHA,BOS
+Shot Chart Detail,0020800506,57,951,Ray Allen,1610612738,Boston Celtics,1,5,31,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-231,34,1,1,20090106,CHA,BOS
+Shot Chart Detail,0020800506,144,951,Ray Allen,1610612738,Boston Celtics,1,0,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090106,CHA,BOS
+Shot Chart Detail,0020800506,155,951,Ray Allen,1610612738,Boston Celtics,2,10,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-111,231,1,1,20090106,CHA,BOS
+Shot Chart Detail,0020800506,172,951,Ray Allen,1610612738,Boston Celtics,2,8,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-160,55,1,1,20090106,CHA,BOS
+Shot Chart Detail,0020800506,420,951,Ray Allen,1610612738,Boston Celtics,4,9,11,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090106,CHA,BOS
+Shot Chart Detail,0020800506,468,951,Ray Allen,1610612738,Boston Celtics,4,5,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,113,52,1,1,20090106,CHA,BOS
+Shot Chart Detail,0020800517,24,951,Ray Allen,1610612738,Boston Celtics,1,9,6,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,37,61,1,1,20090107,BOS,HOU
+Shot Chart Detail,0020800517,60,951,Ray Allen,1610612738,Boston Celtics,1,3,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-215,123,1,1,20090107,BOS,HOU
+Shot Chart Detail,0020800517,136,951,Ray Allen,1610612738,Boston Celtics,2,7,18,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,-6,1,1,20090107,BOS,HOU
+Shot Chart Detail,0020800517,229,951,Ray Allen,1610612738,Boston Celtics,3,10,44,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-153,71,1,1,20090107,BOS,HOU
+Shot Chart Detail,0020800531,19,951,Ray Allen,1610612738,Boston Celtics,1,8,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,121,56,1,1,20090109,CLE,BOS
+Shot Chart Detail,0020800531,82,951,Ray Allen,1610612738,Boston Celtics,1,1,19,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-29,75,1,1,20090109,CLE,BOS
+Shot Chart Detail,0020800531,270,951,Ray Allen,1610612738,Boston Celtics,3,4,25,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,233,77,1,1,20090109,CLE,BOS
+Shot Chart Detail,0020800531,305,951,Ray Allen,1610612738,Boston Celtics,3,1,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,99,102,1,1,20090109,CLE,BOS
+Shot Chart Detail,0020800531,404,951,Ray Allen,1610612738,Boston Celtics,4,5,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-139,200,1,1,20090109,CLE,BOS
+Shot Chart Detail,0020800546,25,951,Ray Allen,1610612738,Boston Celtics,1,8,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,193,157,1,1,20090111,TOR,BOS
+Shot Chart Detail,0020800546,28,951,Ray Allen,1610612738,Boston Celtics,1,7,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,231,108,1,1,20090111,TOR,BOS
+Shot Chart Detail,0020800546,42,951,Ray Allen,1610612738,Boston Celtics,1,6,40,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-221,25,1,1,20090111,TOR,BOS
+Shot Chart Detail,0020800546,45,951,Ray Allen,1610612738,Boston Celtics,1,6,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-131,211,1,1,20090111,TOR,BOS
+Shot Chart Detail,0020800546,64,951,Ray Allen,1610612738,Boston Celtics,1,4,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,189,170,1,1,20090111,TOR,BOS
+Shot Chart Detail,0020800546,240,951,Ray Allen,1610612738,Boston Celtics,2,1,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-153,91,1,1,20090111,TOR,BOS
+Shot Chart Detail,0020800546,293,951,Ray Allen,1610612738,Boston Celtics,3,8,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-179,168,1,1,20090111,TOR,BOS
+Shot Chart Detail,0020800546,348,951,Ray Allen,1610612738,Boston Celtics,3,2,33,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090111,TOR,BOS
+Shot Chart Detail,0020800546,428,951,Ray Allen,1610612738,Boston Celtics,4,7,30,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,231,48,1,1,20090111,TOR,BOS
+Shot Chart Detail,0020800546,450,951,Ray Allen,1610612738,Boston Celtics,4,5,15,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,125,55,1,1,20090111,TOR,BOS
+Shot Chart Detail,0020800546,465,951,Ray Allen,1610612738,Boston Celtics,4,3,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,106,224,1,1,20090111,TOR,BOS
+Shot Chart Detail,0020800554,193,951,Ray Allen,1610612738,Boston Celtics,2,3,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,179,28,1,1,20090112,BOS,TOR
+Shot Chart Detail,0020800554,233,951,Ray Allen,1610612738,Boston Celtics,2,0,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,0,1,1,20090112,BOS,TOR
+Shot Chart Detail,0020800554,273,951,Ray Allen,1610612738,Boston Celtics,3,5,12,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,0,1,1,20090112,BOS,TOR
+Shot Chart Detail,0020800554,407,951,Ray Allen,1610612738,Boston Celtics,4,3,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-152,118,1,1,20090112,BOS,TOR
+Shot Chart Detail,0020800554,477,951,Ray Allen,1610612738,Boston Celtics,5,2,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,37,244,1,1,20090112,BOS,TOR
+Shot Chart Detail,0020800569,60,951,Ray Allen,1610612738,Boston Celtics,1,5,55,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-221,4,1,1,20090114,BOS,NJN
+Shot Chart Detail,0020800569,93,951,Ray Allen,1610612738,Boston Celtics,1,2,33,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,7,1,1,20090114,BOS,NJN
+Shot Chart Detail,0020800569,102,951,Ray Allen,1610612738,Boston Celtics,1,1,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,159,66,1,1,20090114,BOS,NJN
+Shot Chart Detail,0020800569,186,951,Ray Allen,1610612738,Boston Celtics,2,7,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,7,1,1,20090114,BOS,NJN
+Shot Chart Detail,0020800569,345,951,Ray Allen,1610612738,Boston Celtics,3,4,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,3,1,1,20090114,BOS,NJN
+Shot Chart Detail,0020800590,8,951,Ray Allen,1610612738,Boston Celtics,1,10,39,Made Shot,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,67,50,1,1,20090117,NJN,BOS
+Shot Chart Detail,0020800590,19,951,Ray Allen,1610612738,Boston Celtics,1,9,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,21,218,23,1,1,20090117,NJN,BOS
+Shot Chart Detail,0020800590,25,951,Ray Allen,1610612738,Boston Celtics,1,8,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-26,213,1,1,20090117,NJN,BOS
+Shot Chart Detail,0020800590,39,951,Ray Allen,1610612738,Boston Celtics,1,6,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090117,NJN,BOS
+Shot Chart Detail,0020800590,95,951,Ray Allen,1610612738,Boston Celtics,1,0,53,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,231,47,1,1,20090117,NJN,BOS
+Shot Chart Detail,0020800590,180,951,Ray Allen,1610612738,Boston Celtics,2,4,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,192,165,1,1,20090117,NJN,BOS
+Shot Chart Detail,0020800590,239,951,Ray Allen,1610612738,Boston Celtics,2,0,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-166,42,1,1,20090117,NJN,BOS
+Shot Chart Detail,0020800590,300,951,Ray Allen,1610612738,Boston Celtics,3,5,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,73,239,1,1,20090117,NJN,BOS
+Shot Chart Detail,0020800610,18,951,Ray Allen,1610612738,Boston Celtics,1,9,29,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,-8,1,1,20090119,BOS,PHX
+Shot Chart Detail,0020800610,34,951,Ray Allen,1610612738,Boston Celtics,1,6,35,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,7,1,1,20090119,BOS,PHX
+Shot Chart Detail,0020800610,63,951,Ray Allen,1610612738,Boston Celtics,1,4,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-196,151,1,1,20090119,BOS,PHX
+Shot Chart Detail,0020800610,69,951,Ray Allen,1610612738,Boston Celtics,1,2,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,4,1,1,20090119,BOS,PHX
+Shot Chart Detail,0020800610,163,951,Ray Allen,1610612738,Boston Celtics,2,4,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-10,23,1,1,20090119,BOS,PHX
+Shot Chart Detail,0020800610,236,951,Ray Allen,1610612738,Boston Celtics,3,11,41,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,39,156,1,1,20090119,BOS,PHX
+Shot Chart Detail,0020800610,273,951,Ray Allen,1610612738,Boston Celtics,3,6,48,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,1,1,1,20090119,BOS,PHX
+Shot Chart Detail,0020800610,309,951,Ray Allen,1610612738,Boston Celtics,3,2,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,223,121,1,1,20090119,BOS,PHX
+Shot Chart Detail,0020800619,2,951,Ray Allen,1610612738,Boston Celtics,1,11,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090121,MIA,BOS
+Shot Chart Detail,0020800619,9,951,Ray Allen,1610612738,Boston Celtics,1,10,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,23,-128,203,1,1,20090121,MIA,BOS
+Shot Chart Detail,0020800619,13,951,Ray Allen,1610612738,Boston Celtics,1,9,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,223,104,1,1,20090121,MIA,BOS
+Shot Chart Detail,0020800619,93,951,Ray Allen,1610612738,Boston Celtics,1,2,41,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,105,33,1,1,20090121,MIA,BOS
+Shot Chart Detail,0020800619,295,951,Ray Allen,1610612738,Boston Celtics,3,5,26,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,26,91,1,1,20090121,MIA,BOS
+Shot Chart Detail,0020800619,315,951,Ray Allen,1610612738,Boston Celtics,3,2,23,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090121,MIA,BOS
+Shot Chart Detail,0020800619,405,951,Ray Allen,1610612738,Boston Celtics,4,4,27,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-239,1,1,1,20090121,MIA,BOS
+Shot Chart Detail,0020800619,408,951,Ray Allen,1610612738,Boston Celtics,4,3,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,43,238,1,1,20090121,MIA,BOS
+Shot Chart Detail,0020800619,417,951,Ray Allen,1610612738,Boston Celtics,4,3,27,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-224,0,1,1,20090121,MIA,BOS
+Shot Chart Detail,0020800628,65,951,Ray Allen,1610612738,Boston Celtics,1,3,46,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,77,34,1,1,20090122,ORL,BOS
+Shot Chart Detail,0020800628,86,951,Ray Allen,1610612738,Boston Celtics,1,1,54,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,67,121,1,1,20090122,ORL,BOS
+Shot Chart Detail,0020800628,185,951,Ray Allen,1610612738,Boston Celtics,2,6,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,23,187,1,1,20090122,ORL,BOS
+Shot Chart Detail,0020800628,229,951,Ray Allen,1610612738,Boston Celtics,2,1,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090122,ORL,BOS
+Shot Chart Detail,0020800628,324,951,Ray Allen,1610612738,Boston Celtics,3,2,39,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,47,88,1,1,20090122,ORL,BOS
+Shot Chart Detail,0020800628,506,951,Ray Allen,1610612738,Boston Celtics,4,0,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090122,ORL,BOS
+Shot Chart Detail,0020800646,11,951,Ray Allen,1610612738,Boston Celtics,1,10,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-78,167,1,1,20090125,BOS,DAL
+Shot Chart Detail,0020800646,28,951,Ray Allen,1610612738,Boston Celtics,1,7,58,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-56,85,1,1,20090125,BOS,DAL
+Shot Chart Detail,0020800646,48,951,Ray Allen,1610612738,Boston Celtics,1,5,29,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-46,164,1,1,20090125,BOS,DAL
+Shot Chart Detail,0020800646,79,951,Ray Allen,1610612738,Boston Celtics,1,2,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,7,1,1,20090125,BOS,DAL
+Shot Chart Detail,0020800646,110,951,Ray Allen,1610612738,Boston Celtics,1,0,22,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,3,1,1,20090125,BOS,DAL
+Shot Chart Detail,0020800646,128,951,Ray Allen,1610612738,Boston Celtics,2,11,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,47,250,1,1,20090125,BOS,DAL
+Shot Chart Detail,0020800646,152,951,Ray Allen,1610612738,Boston Celtics,2,9,10,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,53,131,1,1,20090125,BOS,DAL
+Shot Chart Detail,0020800646,158,951,Ray Allen,1610612738,Boston Celtics,2,8,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,106,216,1,1,20090125,BOS,DAL
+Shot Chart Detail,0020800646,324,951,Ray Allen,1610612738,Boston Celtics,3,4,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-4,257,1,1,20090125,BOS,DAL
+Shot Chart Detail,0020800668,17,951,Ray Allen,1610612738,Boston Celtics,1,9,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,22,-209,88,1,1,20090128,BOS,SAC
+Shot Chart Detail,0020800668,19,951,Ray Allen,1610612738,Boston Celtics,1,9,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,138,170,1,1,20090128,BOS,SAC
+Shot Chart Detail,0020800668,21,951,Ray Allen,1610612738,Boston Celtics,1,8,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,159,4,1,1,20090128,BOS,SAC
+Shot Chart Detail,0020800668,38,951,Ray Allen,1610612738,Boston Celtics,1,6,32,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,3,1,1,20090128,BOS,SAC
+Shot Chart Detail,0020800668,226,951,Ray Allen,1610612738,Boston Celtics,2,3,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,193,153,1,1,20090128,BOS,SAC
+Shot Chart Detail,0020800681,12,951,Ray Allen,1610612738,Boston Celtics,1,9,40,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090130,DET,BOS
+Shot Chart Detail,0020800681,224,951,Ray Allen,1610612738,Boston Celtics,2,0,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-169,11,1,1,20090130,DET,BOS
+Shot Chart Detail,0020800681,276,951,Ray Allen,1610612738,Boston Celtics,3,7,3,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,12,1,1,20090130,DET,BOS
+Shot Chart Detail,0020800681,297,951,Ray Allen,1610612738,Boston Celtics,3,4,43,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090130,DET,BOS
+Shot Chart Detail,0020800702,4,951,Ray Allen,1610612738,Boston Celtics,1,11,24,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,226,31,1,1,20090201,BOS,MIN
+Shot Chart Detail,0020800702,8,951,Ray Allen,1610612738,Boston Celtics,1,10,56,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,7,1,1,20090201,BOS,MIN
+Shot Chart Detail,0020800702,192,951,Ray Allen,1610612738,Boston Celtics,2,5,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,108,217,1,1,20090201,BOS,MIN
+Shot Chart Detail,0020800702,228,951,Ray Allen,1610612738,Boston Celtics,2,2,40,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,-13,1,1,20090201,BOS,MIN
+Shot Chart Detail,0020800702,298,951,Ray Allen,1610612738,Boston Celtics,3,7,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-98,179,1,1,20090201,BOS,MIN
+Shot Chart Detail,0020800702,451,951,Ray Allen,1610612738,Boston Celtics,4,4,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,0,211,1,1,20090201,BOS,MIN
+Shot Chart Detail,0020800702,487,951,Ray Allen,1610612738,Boston Celtics,4,1,52,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,14,1,1,20090201,BOS,MIN
+Shot Chart Detail,0020800716,9,951,Ray Allen,1610612738,Boston Celtics,1,10,39,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090203,PHI,BOS
+Shot Chart Detail,0020800716,41,951,Ray Allen,1610612738,Boston Celtics,1,8,13,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,23,1,1,20090203,PHI,BOS
+Shot Chart Detail,0020800716,188,951,Ray Allen,1610612738,Boston Celtics,2,6,37,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090203,PHI,BOS
+Shot Chart Detail,0020800716,349,951,Ray Allen,1610612738,Boston Celtics,3,3,42,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090203,PHI,BOS
+Shot Chart Detail,0020800716,391,951,Ray Allen,1610612738,Boston Celtics,4,10,47,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-87,85,1,1,20090203,PHI,BOS
+Shot Chart Detail,0020800716,432,951,Ray Allen,1610612738,Boston Celtics,4,6,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,133,86,1,1,20090203,PHI,BOS
+Shot Chart Detail,0020800716,440,951,Ray Allen,1610612738,Boston Celtics,4,5,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,192,36,1,1,20090203,PHI,BOS
+Shot Chart Detail,0020800716,494,951,Ray Allen,1610612738,Boston Celtics,4,0,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-201,176,1,1,20090203,PHI,BOS
+Shot Chart Detail,0020800716,502,951,Ray Allen,1610612738,Boston Celtics,4,0,0,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-226,-8,1,1,20090203,PHI,BOS
+Shot Chart Detail,0020800732,38,951,Ray Allen,1610612738,Boston Celtics,1,7,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-191,86,1,1,20090205,BOS,LAL
+Shot Chart Detail,0020800732,52,951,Ray Allen,1610612738,Boston Celtics,1,5,41,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,4,1,1,20090205,BOS,LAL
+Shot Chart Detail,0020800732,74,951,Ray Allen,1610612738,Boston Celtics,1,3,4,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,97,4,1,1,20090205,BOS,LAL
+Shot Chart Detail,0020800732,229,951,Ray Allen,1610612738,Boston Celtics,2,1,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-138,126,1,1,20090205,BOS,LAL
+Shot Chart Detail,0020800732,267,951,Ray Allen,1610612738,Boston Celtics,3,10,23,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,-3,1,1,20090205,BOS,LAL
+Shot Chart Detail,0020800732,283,951,Ray Allen,1610612738,Boston Celtics,3,8,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-147,89,1,1,20090205,BOS,LAL
+Shot Chart Detail,0020800732,294,951,Ray Allen,1610612738,Boston Celtics,3,7,30,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,11,1,1,20090205,BOS,LAL
+Shot Chart Detail,0020800732,524,951,Ray Allen,1610612738,Boston Celtics,5,3,54,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,9,1,1,20090205,BOS,LAL
+Shot Chart Detail,0020800732,528,951,Ray Allen,1610612738,Boston Celtics,5,3,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,11,1,1,20090205,BOS,LAL
+Shot Chart Detail,0020800736,16,951,Ray Allen,1610612738,Boston Celtics,1,9,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090206,NYK,BOS
+Shot Chart Detail,0020800736,32,951,Ray Allen,1610612738,Boston Celtics,1,8,7,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,-30,1,1,20090206,NYK,BOS
+Shot Chart Detail,0020800736,74,951,Ray Allen,1610612738,Boston Celtics,1,3,6,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,-33,1,1,20090206,NYK,BOS
+Shot Chart Detail,0020800736,462,951,Ray Allen,1610612738,Boston Celtics,4,8,41,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090206,NYK,BOS
+Shot Chart Detail,0020800736,469,951,Ray Allen,1610612738,Boston Celtics,4,8,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,193,157,1,1,20090206,NYK,BOS
+Shot Chart Detail,0020800736,476,951,Ray Allen,1610612738,Boston Celtics,4,6,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,230,99,1,1,20090206,NYK,BOS
+Shot Chart Detail,0020800736,484,951,Ray Allen,1610612738,Boston Celtics,4,6,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090206,NYK,BOS
+Shot Chart Detail,0020800750,9,951,Ray Allen,1610612738,Boston Celtics,1,10,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-73,178,1,1,20090208,BOS,SAS
+Shot Chart Detail,0020800750,39,951,Ray Allen,1610612738,Boston Celtics,1,6,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,12,1,1,20090208,BOS,SAS
+Shot Chart Detail,0020800750,61,951,Ray Allen,1610612738,Boston Celtics,1,4,32,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,1,1,1,20090208,BOS,SAS
+Shot Chart Detail,0020800750,71,951,Ray Allen,1610612738,Boston Celtics,1,2,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-95,156,1,1,20090208,BOS,SAS
+Shot Chart Detail,0020800750,107,951,Ray Allen,1610612738,Boston Celtics,2,11,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-64,235,1,1,20090208,BOS,SAS
+Shot Chart Detail,0020800750,303,951,Ray Allen,1610612738,Boston Celtics,3,2,39,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,133,19,1,1,20090208,BOS,SAS
+Shot Chart Detail,0020800750,306,951,Ray Allen,1610612738,Boston Celtics,3,2,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-155,0,1,1,20090208,BOS,SAS
+Shot Chart Detail,0020800750,409,951,Ray Allen,1610612738,Boston Celtics,4,2,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,103,176,1,1,20090208,BOS,SAS
+Shot Chart Detail,0020800786,169,951,Ray Allen,1610612738,Boston Celtics,2,7,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090212,DAL,BOS
+Shot Chart Detail,0020800786,186,951,Ray Allen,1610612738,Boston Celtics,2,5,21,Made Shot,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,78,39,1,1,20090212,DAL,BOS
+Shot Chart Detail,0020800786,270,951,Ray Allen,1610612738,Boston Celtics,3,11,5,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,65,72,1,1,20090212,DAL,BOS
+Shot Chart Detail,0020800786,359,951,Ray Allen,1610612738,Boston Celtics,3,1,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-185,156,1,1,20090212,DAL,BOS
+Shot Chart Detail,0020800786,395,951,Ray Allen,1610612738,Boston Celtics,4,11,11,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-231,22,1,1,20090212,DAL,BOS
+Shot Chart Detail,0020800810,19,951,Ray Allen,1610612738,Boston Celtics,1,8,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,187,71,1,1,20090219,UTA,BOS
+Shot Chart Detail,0020800810,167,951,Ray Allen,1610612738,Boston Celtics,2,6,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,226,99,1,1,20090219,UTA,BOS
+Shot Chart Detail,0020800810,274,951,Ray Allen,1610612738,Boston Celtics,3,10,54,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,6,78,1,1,20090219,UTA,BOS
+Shot Chart Detail,0020800810,277,951,Ray Allen,1610612738,Boston Celtics,3,10,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,23,195,137,1,1,20090219,UTA,BOS
+Shot Chart Detail,0020800829,19,951,Ray Allen,1610612738,Boston Celtics,1,10,24,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,15,77,131,1,1,20090222,PHX,BOS
+Shot Chart Detail,0020800829,44,951,Ray Allen,1610612738,Boston Celtics,1,8,2,Made Shot,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-75,28,1,1,20090222,PHX,BOS
+Shot Chart Detail,0020800829,48,951,Ray Allen,1610612738,Boston Celtics,1,7,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,206,143,1,1,20090222,PHX,BOS
+Shot Chart Detail,0020800829,62,951,Ray Allen,1610612738,Boston Celtics,1,6,42,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,3,1,1,20090222,PHX,BOS
+Shot Chart Detail,0020800829,99,951,Ray Allen,1610612738,Boston Celtics,1,2,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090222,PHX,BOS
+Shot Chart Detail,0020800829,247,951,Ray Allen,1610612738,Boston Celtics,2,4,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090222,PHX,BOS
+Shot Chart Detail,0020800829,307,951,Ray Allen,1610612738,Boston Celtics,2,0,35,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-71,131,1,1,20090222,PHX,BOS
+Shot Chart Detail,0020800829,375,951,Ray Allen,1610612738,Boston Celtics,3,4,58,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,4,1,1,20090222,PHX,BOS
+Shot Chart Detail,0020800829,410,951,Ray Allen,1610612738,Boston Celtics,3,0,58,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,78,34,1,1,20090222,PHX,BOS
+Shot Chart Detail,0020800829,433,951,Ray Allen,1610612738,Boston Celtics,4,10,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-209,138,1,1,20090222,PHX,BOS
+Shot Chart Detail,0020800838,9,951,Ray Allen,1610612738,Boston Celtics,1,10,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-138,203,1,1,20090223,DEN,BOS
+Shot Chart Detail,0020800838,21,951,Ray Allen,1610612738,Boston Celtics,1,9,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,110,225,1,1,20090223,DEN,BOS
+Shot Chart Detail,0020800838,88,951,Ray Allen,1610612738,Boston Celtics,1,4,2,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090223,DEN,BOS
+Shot Chart Detail,0020800838,192,951,Ray Allen,1610612738,Boston Celtics,2,6,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,233,94,1,1,20090223,DEN,BOS
+Shot Chart Detail,0020800838,237,951,Ray Allen,1610612738,Boston Celtics,2,2,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090223,DEN,BOS
+Shot Chart Detail,0020800838,309,951,Ray Allen,1610612738,Boston Celtics,3,6,47,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,234,55,1,1,20090223,DEN,BOS
+Shot Chart Detail,0020800838,322,951,Ray Allen,1610612738,Boston Celtics,3,5,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,114,230,1,1,20090223,DEN,BOS
+Shot Chart Detail,0020800838,409,951,Ray Allen,1610612738,Boston Celtics,4,10,7,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-228,33,1,1,20090223,DEN,BOS
+Shot Chart Detail,0020800860,4,951,Ray Allen,1610612738,Boston Celtics,1,11,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,122,216,1,1,20090225,LAC,BOS
+Shot Chart Detail,0020800860,71,951,Ray Allen,1610612738,Boston Celtics,1,3,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,43,175,1,1,20090225,LAC,BOS
+Shot Chart Detail,0020800860,91,951,Ray Allen,1610612738,Boston Celtics,1,1,21,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-224,3,1,1,20090225,LAC,BOS
+Shot Chart Detail,0020800860,167,951,Ray Allen,1610612738,Boston Celtics,2,6,44,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-37,25,1,1,20090225,LAC,BOS
+Shot Chart Detail,0020800867,41,951,Ray Allen,1610612738,Boston Celtics,1,7,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-158,146,1,1,20090227,BOS,IND
+Shot Chart Detail,0020800867,44,951,Ray Allen,1610612738,Boston Celtics,1,7,7,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,6,1,1,20090227,BOS,IND
+Shot Chart Detail,0020800867,50,951,Ray Allen,1610612738,Boston Celtics,1,6,7,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,26,1,1,20090227,BOS,IND
+Shot Chart Detail,0020800867,176,951,Ray Allen,1610612738,Boston Celtics,2,6,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-8,145,1,1,20090227,BOS,IND
+Shot Chart Detail,0020800867,206,951,Ray Allen,1610612738,Boston Celtics,2,3,41,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,44,1,1,20090227,BOS,IND
+Shot Chart Detail,0020800867,284,951,Ray Allen,1610612738,Boston Celtics,3,8,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-169,172,1,1,20090227,BOS,IND
+Shot Chart Detail,0020800867,309,951,Ray Allen,1610612738,Boston Celtics,3,5,21,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,61,119,1,1,20090227,BOS,IND
+Shot Chart Detail,0020800867,318,951,Ray Allen,1610612738,Boston Celtics,3,4,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,23,148,1,1,20090227,BOS,IND
+Shot Chart Detail,0020800867,359,951,Ray Allen,1610612738,Boston Celtics,4,11,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,32,242,1,1,20090227,BOS,IND
+Shot Chart Detail,0020800867,366,951,Ray Allen,1610612738,Boston Celtics,4,11,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,113,168,1,1,20090227,BOS,IND
+Shot Chart Detail,0020800867,371,951,Ray Allen,1610612738,Boston Celtics,4,10,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,200,154,1,1,20090227,BOS,IND
+Shot Chart Detail,0020800883,5,951,Ray Allen,1610612738,Boston Celtics,1,11,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-160,153,1,1,20090301,BOS,DET
+Shot Chart Detail,0020800883,333,951,Ray Allen,1610612738,Boston Celtics,3,4,45,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,9,19,1,1,20090301,BOS,DET
+Shot Chart Detail,0020800907,31,951,Ray Allen,1610612738,Boston Celtics,1,7,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,1,252,1,1,20090304,NJN,BOS
+Shot Chart Detail,0020800907,100,951,Ray Allen,1610612738,Boston Celtics,1,2,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,149,224,1,1,20090304,NJN,BOS
+Shot Chart Detail,0020800907,484,951,Ray Allen,1610612738,Boston Celtics,4,1,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-202,148,1,1,20090304,NJN,BOS
+Shot Chart Detail,0020800920,218,951,Ray Allen,1610612738,Boston Celtics,3,11,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,45,159,1,1,20090306,BOS,CLE
+Shot Chart Detail,0020800920,234,951,Ray Allen,1610612738,Boston Celtics,3,10,20,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,1,1,1,20090306,BOS,CLE
+Shot Chart Detail,0020800920,273,951,Ray Allen,1610612738,Boston Celtics,3,6,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,23,-188,146,1,1,20090306,BOS,CLE
+Shot Chart Detail,0020800920,278,951,Ray Allen,1610612738,Boston Celtics,3,5,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,6,1,1,20090306,BOS,CLE
+Shot Chart Detail,0020800920,448,951,Ray Allen,1610612738,Boston Celtics,4,2,36,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-4,127,1,1,20090306,BOS,CLE
+Shot Chart Detail,0020800920,470,951,Ray Allen,1610612738,Boston Celtics,4,1,5,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-221,0,1,1,20090306,BOS,CLE
+Shot Chart Detail,0020800936,38,951,Ray Allen,1610612738,Boston Celtics,1,6,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,36,140,1,1,20090308,BOS,ORL
+Shot Chart Detail,0020800936,80,951,Ray Allen,1610612738,Boston Celtics,1,1,47,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,6,1,1,20090308,BOS,ORL
+Shot Chart Detail,0020800936,176,951,Ray Allen,1610612738,Boston Celtics,2,4,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,-11,1,1,20090308,BOS,ORL
+Shot Chart Detail,0020800936,183,951,Ray Allen,1610612738,Boston Celtics,2,3,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-84,148,1,1,20090308,BOS,ORL
+Shot Chart Detail,0020800936,242,951,Ray Allen,1610612738,Boston Celtics,3,10,42,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,9,1,1,20090308,BOS,ORL
+Shot Chart Detail,0020800936,250,951,Ray Allen,1610612738,Boston Celtics,3,9,32,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,7,1,1,20090308,BOS,ORL
+Shot Chart Detail,0020800936,362,951,Ray Allen,1610612738,Boston Celtics,4,10,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-204,15,1,1,20090308,BOS,ORL
+Shot Chart Detail,0020800936,375,951,Ray Allen,1610612738,Boston Celtics,4,8,47,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,11,1,1,20090308,BOS,ORL
+Shot Chart Detail,0020800936,392,951,Ray Allen,1610612738,Boston Celtics,4,7,3,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,56,86,1,1,20090308,BOS,ORL
+Shot Chart Detail,0020800936,430,951,Ray Allen,1610612738,Boston Celtics,4,3,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-89,12,1,1,20090308,BOS,ORL
+Shot Chart Detail,0020800936,433,951,Ray Allen,1610612738,Boston Celtics,4,3,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-134,201,1,1,20090308,BOS,ORL
+Shot Chart Detail,0020800936,440,951,Ray Allen,1610612738,Boston Celtics,4,2,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,0,1,1,20090308,BOS,ORL
+Shot Chart Detail,0020800960,21,951,Ray Allen,1610612738,Boston Celtics,1,9,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,23,-75,227,1,1,20090311,MIA,BOS
+Shot Chart Detail,0020800960,48,951,Ray Allen,1610612738,Boston Celtics,1,7,19,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,100,64,1,1,20090311,MIA,BOS
+Shot Chart Detail,0020800960,57,951,Ray Allen,1610612738,Boston Celtics,1,6,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-130,127,1,1,20090311,MIA,BOS
+Shot Chart Detail,0020800960,68,951,Ray Allen,1610612738,Boston Celtics,1,5,1,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090311,MIA,BOS
+Shot Chart Detail,0020800960,140,951,Ray Allen,1610612738,Boston Celtics,1,0,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-116,129,1,1,20090311,MIA,BOS
+Shot Chart Detail,0020800960,153,951,Ray Allen,1610612738,Boston Celtics,2,11,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,23,-171,165,1,1,20090311,MIA,BOS
+Shot Chart Detail,0020800960,243,951,Ray Allen,1610612738,Boston Celtics,2,3,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,159,186,1,1,20090311,MIA,BOS
+Shot Chart Detail,0020800960,249,951,Ray Allen,1610612738,Boston Celtics,2,2,40,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,20,1,1,20090311,MIA,BOS
+Shot Chart Detail,0020800960,257,951,Ray Allen,1610612738,Boston Celtics,2,2,9,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,56,39,1,1,20090311,MIA,BOS
+Shot Chart Detail,0020800960,315,951,Ray Allen,1610612738,Boston Celtics,3,7,41,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,1,1,1,20090311,MIA,BOS
+Shot Chart Detail,0020800973,15,951,Ray Allen,1610612738,Boston Celtics,1,9,45,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,6,1,1,20090313,BOS,MEM
+Shot Chart Detail,0020800973,18,951,Ray Allen,1610612738,Boston Celtics,1,9,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,75,217,1,1,20090313,BOS,MEM
+Shot Chart Detail,0020800973,262,951,Ray Allen,1610612738,Boston Celtics,2,0,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,3,1,1,20090313,BOS,MEM
+Shot Chart Detail,0020800973,339,951,Ray Allen,1610612738,Boston Celtics,3,5,6,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,12,1,1,20090313,BOS,MEM
+Shot Chart Detail,0020800973,349,951,Ray Allen,1610612738,Boston Celtics,3,3,44,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,18,121,1,1,20090313,BOS,MEM
+Shot Chart Detail,0020800973,355,951,Ray Allen,1610612738,Boston Celtics,3,2,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,2,242,1,1,20090313,BOS,MEM
+Shot Chart Detail,0020800973,368,951,Ray Allen,1610612738,Boston Celtics,3,1,20,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-226,0,1,1,20090313,BOS,MEM
+Shot Chart Detail,0020800973,384,951,Ray Allen,1610612738,Boston Celtics,4,11,43,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,4,121,1,1,20090313,BOS,MEM
+Shot Chart Detail,0020800988,49,951,Ray Allen,1610612738,Boston Celtics,1,6,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090315,MIL,BOS
+Shot Chart Detail,0020800988,473,951,Ray Allen,1610612738,Boston Celtics,4,8,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-109,34,1,1,20090315,MIL,BOS
+Shot Chart Detail,0020801003,44,951,Ray Allen,1610612738,Boston Celtics,1,6,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,155,201,1,1,20090317,CHI,BOS
+Shot Chart Detail,0020801003,170,951,Ray Allen,1610612738,Boston Celtics,2,7,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-209,135,1,1,20090317,CHI,BOS
+Shot Chart Detail,0020801003,219,951,Ray Allen,1610612738,Boston Celtics,2,3,13,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,26,113,1,1,20090317,CHI,BOS
+Shot Chart Detail,0020801003,276,951,Ray Allen,1610612738,Boston Celtics,3,11,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-171,179,1,1,20090317,CHI,BOS
+Shot Chart Detail,0020801003,320,951,Ray Allen,1610612738,Boston Celtics,3,7,5,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,244,48,1,1,20090317,CHI,BOS
+Shot Chart Detail,0020801031,110,951,Ray Allen,1610612738,Boston Celtics,1,0,0,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,9,1,1,20090320,SAS,BOS
+Shot Chart Detail,0020801031,167,951,Ray Allen,1610612738,Boston Celtics,2,6,18,Made Shot,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,67,20,1,1,20090320,SAS,BOS
+Shot Chart Detail,0020801031,186,951,Ray Allen,1610612738,Boston Celtics,2,2,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,47,151,1,1,20090320,SAS,BOS
+Shot Chart Detail,0020801031,234,951,Ray Allen,1610612738,Boston Celtics,3,10,38,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,3,1,1,20090320,SAS,BOS
+Shot Chart Detail,0020801031,270,951,Ray Allen,1610612738,Boston Celtics,3,6,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,179,165,1,1,20090320,SAS,BOS
+Shot Chart Detail,0020801031,397,951,Ray Allen,1610612738,Boston Celtics,4,5,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,147,142,1,1,20090320,SAS,BOS
+Shot Chart Detail,0020801031,405,951,Ray Allen,1610612738,Boston Celtics,4,4,13,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,13,-78,113,1,1,20090320,SAS,BOS
+Shot Chart Detail,0020801037,13,951,Ray Allen,1610612738,Boston Celtics,1,10,23,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,15,1,1,20090321,MEM,BOS
+Shot Chart Detail,0020801037,64,951,Ray Allen,1610612738,Boston Celtics,1,4,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-188,77,1,1,20090321,MEM,BOS
+Shot Chart Detail,0020801037,180,951,Ray Allen,1610612738,Boston Celtics,2,5,8,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,4,1,1,20090321,MEM,BOS
+Shot Chart Detail,0020801037,183,951,Ray Allen,1610612738,Boston Celtics,2,4,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,108,228,1,1,20090321,MEM,BOS
+Shot Chart Detail,0020801037,268,951,Ray Allen,1610612738,Boston Celtics,3,11,13,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-130,149,1,1,20090321,MEM,BOS
+Shot Chart Detail,0020801037,282,951,Ray Allen,1610612738,Boston Celtics,3,8,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090321,MEM,BOS
+Shot Chart Detail,0020801037,300,951,Ray Allen,1610612738,Boston Celtics,3,6,28,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090321,MEM,BOS
+Shot Chart Detail,0020801050,24,951,Ray Allen,1610612738,Boston Celtics,1,8,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,196,47,1,1,20090323,BOS,LAC
+Shot Chart Detail,0020801050,182,951,Ray Allen,1610612738,Boston Celtics,2,4,16,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,231,-2,1,1,20090323,BOS,LAC
+Shot Chart Detail,0020801050,219,951,Ray Allen,1610612738,Boston Celtics,2,0,37,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,-6,1,1,20090323,BOS,LAC
+Shot Chart Detail,0020801050,264,951,Ray Allen,1610612738,Boston Celtics,3,8,36,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,9,1,1,20090323,BOS,LAC
+Shot Chart Detail,0020801050,287,951,Ray Allen,1610612738,Boston Celtics,3,5,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,61,179,1,1,20090323,BOS,LAC
+Shot Chart Detail,0020801050,294,951,Ray Allen,1610612738,Boston Celtics,3,4,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,7,1,1,20090323,BOS,LAC
+Shot Chart Detail,0020801050,305,951,Ray Allen,1610612738,Boston Celtics,3,2,53,Made Shot,Jump Shot,3PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,23,-209,112,1,1,20090323,BOS,LAC
+Shot Chart Detail,0020801050,362,951,Ray Allen,1610612738,Boston Celtics,4,7,31,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,0,1,1,20090323,BOS,LAC
+Shot Chart Detail,0020801067,41,951,Ray Allen,1610612738,Boston Celtics,1,8,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-120,148,1,1,20090325,ORL,BOS
+Shot Chart Detail,0020801067,44,951,Ray Allen,1610612738,Boston Celtics,1,7,32,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-228,36,1,1,20090325,ORL,BOS
+Shot Chart Detail,0020801067,292,951,Ray Allen,1610612738,Boston Celtics,3,7,1,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-2,93,1,1,20090325,ORL,BOS
+Shot Chart Detail,0020801067,301,951,Ray Allen,1610612738,Boston Celtics,3,5,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,83,168,1,1,20090325,ORL,BOS
+Shot Chart Detail,0020801067,407,951,Ray Allen,1610612738,Boston Celtics,4,6,41,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,42,82,1,1,20090325,ORL,BOS
+Shot Chart Detail,0020801067,446,951,Ray Allen,1610612738,Boston Celtics,4,3,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,29,274,1,1,20090325,ORL,BOS
+Shot Chart Detail,0020801076,3,951,Ray Allen,1610612738,Boston Celtics,1,11,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-215,160,1,1,20090327,ATL,BOS
+Shot Chart Detail,0020801076,20,951,Ray Allen,1610612738,Boston Celtics,1,10,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-127,121,1,1,20090327,ATL,BOS
+Shot Chart Detail,0020801076,127,951,Ray Allen,1610612738,Boston Celtics,1,0,38,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-19,12,1,1,20090327,ATL,BOS
+Shot Chart Detail,0020801076,281,951,Ray Allen,1610612738,Boston Celtics,3,9,22,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,48,112,1,1,20090327,ATL,BOS
+Shot Chart Detail,0020801076,352,951,Ray Allen,1610612738,Boston Celtics,3,2,31,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,25,244,64,1,1,20090327,ATL,BOS
+Shot Chart Detail,0020801076,441,951,Ray Allen,1610612738,Boston Celtics,4,6,7,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-229,39,1,1,20090327,ATL,BOS
+Shot Chart Detail,0020801076,485,951,Ray Allen,1610612738,Boston Celtics,4,2,21,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-40,20,1,1,20090327,ATL,BOS
+Shot Chart Detail,0020801076,495,951,Ray Allen,1610612738,Boston Celtics,4,1,16,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-52,105,1,1,20090327,ATL,BOS
+Shot Chart Detail,0020801096,24,951,Ray Allen,1610612738,Boston Celtics,1,9,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-166,198,1,1,20090329,BOS,OKC
+Shot Chart Detail,0020801096,57,951,Ray Allen,1610612738,Boston Celtics,1,5,27,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,236,3,1,1,20090329,BOS,OKC
+Shot Chart Detail,0020801096,79,951,Ray Allen,1610612738,Boston Celtics,1,3,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,136,222,1,1,20090329,BOS,OKC
+Shot Chart Detail,0020801096,215,951,Ray Allen,1610612738,Boston Celtics,2,3,0,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-228,78,1,1,20090329,BOS,OKC
+Shot Chart Detail,0020801096,284,951,Ray Allen,1610612738,Boston Celtics,3,9,1,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-169,78,1,1,20090329,BOS,OKC
+Shot Chart Detail,0020801114,57,951,Ray Allen,1610612738,Boston Celtics,1,4,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,17,258,1,1,20090401,BOS,CHA
+Shot Chart Detail,0020801114,147,951,Ray Allen,1610612738,Boston Celtics,2,6,28,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-23,20,1,1,20090401,BOS,CHA
+Shot Chart Detail,0020801114,197,951,Ray Allen,1610612738,Boston Celtics,2,1,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,7,1,1,20090401,BOS,CHA
+Shot Chart Detail,0020801114,236,951,Ray Allen,1610612738,Boston Celtics,3,10,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-84,228,1,1,20090401,BOS,CHA
+Shot Chart Detail,0020801114,463,951,Ray Allen,1610612738,Boston Celtics,5,3,56,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,45,132,1,1,20090401,BOS,CHA
+Shot Chart Detail,0020801114,490,951,Ray Allen,1610612738,Boston Celtics,5,0,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,103,230,1,1,20090401,BOS,CHA
+Shot Chart Detail,0020801114,509,951,Ray Allen,1610612738,Boston Celtics,6,2,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,116,233,1,1,20090401,BOS,CHA
+Shot Chart Detail,0020801114,526,951,Ray Allen,1610612738,Boston Celtics,6,0,2,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,3,1,1,20090401,BOS,CHA
+Shot Chart Detail,0020801127,7,951,Ray Allen,1610612738,Boston Celtics,1,10,53,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,0,1,1,20090403,BOS,ATL
+Shot Chart Detail,0020801127,51,951,Ray Allen,1610612738,Boston Celtics,1,5,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,0,1,1,20090403,BOS,ATL
+Shot Chart Detail,0020801127,132,951,Ray Allen,1610612738,Boston Celtics,2,11,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-185,-6,1,1,20090403,BOS,ATL
+Shot Chart Detail,0020801127,297,951,Ray Allen,1610612738,Boston Celtics,3,9,19,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,236,6,1,1,20090403,BOS,ATL
+Shot Chart Detail,0020801165,51,951,Ray Allen,1610612738,Boston Celtics,1,4,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,124,164,1,1,20090408,BOS,NJN
+Shot Chart Detail,0020801165,59,951,Ray Allen,1610612738,Boston Celtics,1,3,29,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-226,-10,1,1,20090408,BOS,NJN
+Shot Chart Detail,0020801165,179,951,Ray Allen,1610612738,Boston Celtics,2,4,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-19,0,1,1,20090408,BOS,NJN
+Shot Chart Detail,0020801165,199,951,Ray Allen,1610612738,Boston Celtics,2,2,2,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,0,1,1,20090408,BOS,NJN
+Shot Chart Detail,0020801179,18,951,Ray Allen,1610612738,Boston Celtics,1,9,46,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,15,1,1,20090410,BOS,MIA
+Shot Chart Detail,0020801179,65,951,Ray Allen,1610612738,Boston Celtics,1,3,28,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,226,31,1,1,20090410,BOS,MIA
+Shot Chart Detail,0020801179,166,951,Ray Allen,1610612738,Boston Celtics,2,7,20,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-2,75,1,1,20090410,BOS,MIA
+Shot Chart Detail,0020801179,219,951,Ray Allen,1610612738,Boston Celtics,2,3,11,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,15,1,1,20090410,BOS,MIA
+Shot Chart Detail,0020801179,288,951,Ray Allen,1610612738,Boston Celtics,3,6,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-205,134,1,1,20090410,BOS,MIA
+Shot Chart Detail,0020801179,413,951,Ray Allen,1610612738,Boston Celtics,4,6,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-73,236,1,1,20090410,BOS,MIA
+Shot Chart Detail,0020801197,275,951,Ray Allen,1610612738,Boston Celtics,2,0,25,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-231,22,1,1,20090412,CLE,BOS
+Shot Chart Detail,0020801197,302,951,Ray Allen,1610612738,Boston Celtics,3,9,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-175,176,1,1,20090412,CLE,BOS

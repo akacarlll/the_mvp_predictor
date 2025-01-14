@@ -1,0 +1,31 @@
+City,Team,Conference,ConferenceRecord,Rank,W,L,Win%,Home,Road,Last10,Season,Year,FullTeamName,TEAM_ABBREVIATION
+Houston,Rockets,West,41-11,1,65,17,0.793,34-7,31-10,7-3,2017-18,2018,Houston Rockets,HOU
+Toronto,Raptors,East,40-12,1,59,23,0.72,34-7,25-16,6-4,2017-18,2018,Toronto Raptors,TOR
+Boston,Celtics,East,33-19,2,55,27,0.671,27-14,28-13,6-4,2017-18,2018,Boston Celtics,BOS
+Golden State,Warriors,West,34-18,2,58,24,0.707,29-12,29-12,4-6,2017-18,2018,Golden State Warriors,GSW
+Philadelphia,76ers,East,34-18,3,52,30,0.634,30-11,22-19,10-0,2017-18,2018,Philadelphia 76ers,PHI
+Portland,Trail Blazers,West,31-21,3,49,33,0.598,28-13,21-20,5-5,2017-18,2018,Portland Trail Blazers,POR
+Oklahoma City,Thunder,West,28-24,4,48,34,0.585,27-14,21-20,5-5,2017-18,2018,Oklahoma City Thunder,OKC
+Cleveland,Cavaliers,East,35-17,4,50,32,0.61,29-12,21-20,7-3,2017-18,2018,Cleveland Cavaliers,CLE
+Indiana,Pacers,East,32-20,5,48,34,0.585,27-14,21-20,7-3,2017-18,2018,Indiana Pacers,IND
+Utah,Jazz,West,34-18,5,48,34,0.585,28-13,20-21,7-3,2017-18,2018,Utah Jazz,UTA
+New Orleans,Pelicans,West,27-25,6,48,34,0.585,24-17,24-17,6-4,2017-18,2018,New Orleans Pelicans,NOP
+Miami,Heat,East,31-21,6,44,38,0.537,26-15,18-23,5-5,2017-18,2018,Miami Heat,MIA
+San Antonio,Spurs,West,29-23,7,47,35,0.573,33-8,14-27,5-5,2017-18,2018,San Antonio Spurs,SAS
+Milwaukee,Bucks,East,27-25,7,44,38,0.537,25-16,19-22,6-4,2017-18,2018,Milwaukee Bucks,MIL
+Minnesota,Timberwolves,West,34-18,8,47,35,0.573,30-11,17-24,6-4,2017-18,2018,Minnesota Timberwolves,MIN
+Washington,Wizards,East,28-24,8,43,39,0.524,23-18,20-21,3-7,2017-18,2018,Washington Wizards,WAS
+Denver,Nuggets,West,28-24,9,46,36,0.561,31-10,15-26,7-3,2017-18,2018,Denver Nuggets,DEN
+Detroit,Pistons,East,24-28,9,39,43,0.476,25-16,14-27,7-3,2017-18,2018,Detroit Pistons,DET
+LA,Clippers,West,24-28,10,42,40,0.512,22-19,20-21,4-6,2017-18,2018,LA Clippers,
+Charlotte,Hornets,East,22-30,10,36,46,0.439,21-20,15-26,5-5,2017-18,2018,Charlotte Hornets,CHA
+Los Angeles,Lakers,West,19-33,11,35,47,0.427,20-21,15-26,3-7,2017-18,2018,Los Angeles Lakers,LAL
+New York,Knicks,East,17-35,11,29,53,0.354,19-22,10-31,3-7,2017-18,2018,New York Knicks,NYK
+Brooklyn,Nets,East,19-33,12,28,54,0.341,15-26,13-28,5-5,2017-18,2018,Brooklyn Nets,BKN
+Sacramento,Kings,West,14-38,12,27,55,0.329,14-27,13-28,4-6,2017-18,2018,Sacramento Kings,SAC
+Chicago,Bulls,East,21-31,13,27,55,0.329,17-24,10-31,3-7,2017-18,2018,Chicago Bulls,CHI
+Dallas,Mavericks,West,14-38,13,24,58,0.293,15-26,9-32,2-8,2017-18,2018,Dallas Mavericks,DAL
+Orlando,Magic,East,15-37,14,25,57,0.305,17-24,8-33,4-6,2017-18,2018,Orlando Magic,ORL
+Memphis,Grizzlies,West,18-34,14,22,60,0.268,16-25,6-35,3-7,2017-18,2018,Memphis Grizzlies,MEM
+Atlanta,Hawks,East,12-40,15,24,58,0.293,16-25,8-33,3-7,2017-18,2018,Atlanta Hawks,ATL
+Phoenix,Suns,West,15-37,15,21,61,0.256,10-31,11-30,2-8,2017-18,2018,Phoenix Suns,PHX

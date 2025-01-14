@@ -1,0 +1,525 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0021300014,3,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,11,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-141,121,1,1,20131030,UTA,OKC
+Shot Chart Detail,0021300014,195,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,6,34,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,58,14,1,1,20131030,UTA,OKC
+Shot Chart Detail,0021300014,220,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,4,13,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,72,15,1,1,20131030,UTA,OKC
+Shot Chart Detail,0021300014,274,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,11,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,135,45,1,1,20131030,UTA,OKC
+Shot Chart Detail,0021300027,6,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,11,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,22,-35,219,1,1,20131101,MIN,OKC
+Shot Chart Detail,0021300027,282,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,1,9,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-226,17,1,1,20131101,MIN,OKC
+Shot Chart Detail,0021300027,310,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,9,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-142,134,1,1,20131101,MIN,OKC
+Shot Chart Detail,0021300044,26,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,9,13,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,15,-79,135,1,1,20131103,OKC,PHX
+Shot Chart Detail,0021300044,41,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,6,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,1,186,1,1,20131103,OKC,PHX
+Shot Chart Detail,0021300044,271,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,11,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,23,190,1,1,20131103,OKC,PHX
+Shot Chart Detail,0021300044,519,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,3,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,0,1,1,20131103,OKC,PHX
+Shot Chart Detail,0021300069,75,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,4,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-155,6,1,1,20131106,OKC,DAL
+Shot Chart Detail,0021300069,80,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,3,40,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,23,1,1,20131106,OKC,DAL
+Shot Chart Detail,0021300069,108,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,1,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,-2,1,1,20131106,OKC,DAL
+Shot Chart Detail,0021300069,210,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,4,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,171,23,1,1,20131106,OKC,DAL
+Shot Chart Detail,0021300069,266,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,10,4,Made Shot,Turnaround Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,13,30,1,1,20131106,OKC,DAL
+Shot Chart Detail,0021300069,274,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,9,6,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,1,1,1,20131106,OKC,DAL
+Shot Chart Detail,0021300069,301,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,6,6,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,-2,1,1,20131106,OKC,DAL
+Shot Chart Detail,0021300069,451,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,6,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-123,86,1,1,20131106,OKC,DAL
+Shot Chart Detail,0021300078,13,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,10,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-105,82,1,1,20131108,DET,OKC
+Shot Chart Detail,0021300078,15,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,9,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20131108,DET,OKC
+Shot Chart Detail,0021300078,180,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,6,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,9,1,1,20131108,DET,OKC
+Shot Chart Detail,0021300078,304,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,9,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,1,1,1,20131108,DET,OKC
+Shot Chart Detail,0021300078,536,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,2,20,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,-2,1,1,20131108,DET,OKC
+Shot Chart Detail,0021300095,15,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,10,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-130,132,1,1,20131110,OKC,WAS
+Shot Chart Detail,0021300095,58,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,6,34,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,3,1,1,20131110,OKC,WAS
+Shot Chart Detail,0021300095,81,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,4,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,10,190,1,1,20131110,OKC,WAS
+Shot Chart Detail,0021300095,233,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,4,59,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,6,1,1,20131110,OKC,WAS
+Shot Chart Detail,0021300095,372,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,3,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-158,39,1,1,20131110,OKC,WAS
+Shot Chart Detail,0021300095,386,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,2,33,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,4,1,1,20131110,OKC,WAS
+Shot Chart Detail,0021300095,426,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,10,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,62,178,1,1,20131110,OKC,WAS
+Shot Chart Detail,0021300095,514,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,2,10,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,37,48,1,1,20131110,OKC,WAS
+Shot Chart Detail,0021300095,526,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,1,10,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,3,1,1,20131110,OKC,WAS
+Shot Chart Detail,0021300095,534,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,0,34,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,1,1,1,20131110,OKC,WAS
+Shot Chart Detail,0021300095,585,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,5,1,7,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,0,1,1,20131110,OKC,WAS
+Shot Chart Detail,0021300122,38,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,8,5,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,15,1,1,20131113,LAC,OKC
+Shot Chart Detail,0021300122,62,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,5,32,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-7,22,1,1,20131113,LAC,OKC
+Shot Chart Detail,0021300122,70,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,4,40,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,0,33,1,1,20131113,LAC,OKC
+Shot Chart Detail,0021300122,79,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,2,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,15,1,1,20131113,LAC,OKC
+Shot Chart Detail,0021300122,198,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,6,51,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,43,123,1,1,20131113,LAC,OKC
+Shot Chart Detail,0021300122,240,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,2,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2,25,1,1,20131113,LAC,OKC
+Shot Chart Detail,0021300124,14,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,9,30,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-10,20,1,1,20131114,GSW,OKC
+Shot Chart Detail,0021300124,64,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,4,13,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-130,20,1,1,20131114,GSW,OKC
+Shot Chart Detail,0021300124,109,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,0,37,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,4,53,1,1,20131114,GSW,OKC
+Shot Chart Detail,0021300124,186,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,5,5,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-32,168,1,1,20131114,GSW,OKC
+Shot Chart Detail,0021300124,271,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,9,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,7,19,1,1,20131114,GSW,OKC
+Shot Chart Detail,0021300124,287,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,7,10,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-18,19,1,1,20131114,GSW,OKC
+Shot Chart Detail,0021300124,321,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,3,45,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-136,110,1,1,20131114,GSW,OKC
+Shot Chart Detail,0021300124,428,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,6,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,114,131,1,1,20131114,GSW,OKC
+Shot Chart Detail,0021300124,458,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,4,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,2,20,1,1,20131114,GSW,OKC
+Shot Chart Detail,0021300144,9,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,10,39,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,-6,1,1,20131116,MIL,OKC
+Shot Chart Detail,0021300144,158,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,6,32,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-46,29,1,1,20131116,MIL,OKC
+Shot Chart Detail,0021300144,321,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,8,47,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-19,3,1,1,20131116,MIL,OKC
+Shot Chart Detail,0021300144,338,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,6,43,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-26,44,1,1,20131116,MIL,OKC
+Shot Chart Detail,0021300144,482,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,4,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,89,-28,1,1,20131116,MIL,OKC
+Shot Chart Detail,0021300144,530,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,0,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,0,167,1,1,20131116,MIL,OKC
+Shot Chart Detail,0021300152,21,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,8,53,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,-6,1,1,20131118,OKC,DEN
+Shot Chart Detail,0021300152,258,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,2,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,0,1,1,20131118,OKC,DEN
+Shot Chart Detail,0021300152,540,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,4,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,-8,1,1,20131118,OKC,DEN
+Shot Chart Detail,0021300174,20,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,9,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-19,-2,1,1,20131121,OKC,LAC
+Shot Chart Detail,0021300174,33,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,6,57,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-57,108,1,1,20131121,OKC,LAC
+Shot Chart Detail,0021300174,169,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,6,14,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,11,1,1,20131121,OKC,LAC
+Shot Chart Detail,0021300174,267,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,10,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,129,30,1,1,20131121,OKC,LAC
+Shot Chart Detail,0021300174,275,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,9,49,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-8,33,1,1,20131121,OKC,LAC
+Shot Chart Detail,0021300174,314,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,5,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-150,116,1,1,20131121,OKC,LAC
+Shot Chart Detail,0021300174,332,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,3,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-153,3,1,1,20131121,OKC,LAC
+Shot Chart Detail,0021300174,471,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,3,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,1,1,1,20131121,OKC,LAC
+Shot Chart Detail,0021300200,77,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,3,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,14,1,1,20131124,OKC,UTA
+Shot Chart Detail,0021300200,89,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,1,44,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,95,44,1,1,20131124,OKC,UTA
+Shot Chart Detail,0021300200,97,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,0,50,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,4,1,1,20131124,OKC,UTA
+Shot Chart Detail,0021300200,210,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,1,15,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,6,1,1,20131124,OKC,UTA
+Shot Chart Detail,0021300200,214,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,0,47,Made Shot,Turnaround Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,0,30,1,1,20131124,OKC,UTA
+Shot Chart Detail,0021300200,255,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,9,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,141,91,1,1,20131124,OKC,UTA
+Shot Chart Detail,0021300200,274,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,6,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,20,176,1,1,20131124,OKC,UTA
+Shot Chart Detail,0021300200,312,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,3,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,62,168,1,1,20131124,OKC,UTA
+Shot Chart Detail,0021300224,28,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,8,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,135,0,1,1,20131127,OKC,SAS
+Shot Chart Detail,0021300224,236,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,11,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-116,135,1,1,20131127,OKC,SAS
+Shot Chart Detail,0021300224,242,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,10,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,12,1,1,20131127,OKC,SAS
+Shot Chart Detail,0021300224,252,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,9,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,129,137,1,1,20131127,OKC,SAS
+Shot Chart Detail,0021300224,262,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,8,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,14,1,1,20131127,OKC,SAS
+Shot Chart Detail,0021300224,264,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,7,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,144,97,1,1,20131127,OKC,SAS
+Shot Chart Detail,0021300224,422,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,4,13,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,3,1,1,20131127,OKC,SAS
+Shot Chart Detail,0021300235,193,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,5,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,149,47,1,1,20131129,OKC,GSW
+Shot Chart Detail,0021300235,212,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,3,53,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,11,1,1,20131129,OKC,GSW
+Shot Chart Detail,0021300235,239,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,1,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,160,9,1,1,20131129,OKC,GSW
+Shot Chart Detail,0021300235,364,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,3,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,7,1,1,20131129,OKC,GSW
+Shot Chart Detail,0021300235,453,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,8,33,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,0,1,1,20131129,OKC,GSW
+Shot Chart Detail,0021300235,536,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,2,19,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,12,1,1,20131129,OKC,GSW
+Shot Chart Detail,0021300253,14,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,10,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,20,1,1,20131201,OKC,MIN
+Shot Chart Detail,0021300253,93,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,2,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,23,190,1,1,20131201,OKC,MIN
+Shot Chart Detail,0021300253,128,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,11,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,0,1,1,20131201,OKC,MIN
+Shot Chart Detail,0021300253,230,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,0,47,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,3,1,1,20131201,OKC,MIN
+Shot Chart Detail,0021300253,250,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,11,27,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,3,1,1,20131201,OKC,MIN
+Shot Chart Detail,0021300253,305,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,6,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,-8,1,1,20131201,OKC,MIN
+Shot Chart Detail,0021300253,445,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,4,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-19,0,1,1,20131201,OKC,MIN
+Shot Chart Detail,0021300267,47,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,7,5,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-26,11,1,1,20131203,SAC,OKC
+Shot Chart Detail,0021300267,50,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,6,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-101,186,1,1,20131203,SAC,OKC
+Shot Chart Detail,0021300267,203,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,5,32,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,20,1,1,20131203,SAC,OKC
+Shot Chart Detail,0021300267,224,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,3,38,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-12,29,1,1,20131203,SAC,OKC
+Shot Chart Detail,0021300267,260,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,11,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,31,181,1,1,20131203,SAC,OKC
+Shot Chart Detail,0021300267,305,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,6,47,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-229,30,1,1,20131203,SAC,OKC
+Shot Chart Detail,0021300276,39,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,7,23,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,72,131,1,1,20131204,POR,OKC
+Shot Chart Detail,0021300276,105,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,1,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-29,6,1,1,20131204,POR,OKC
+Shot Chart Detail,0021300276,189,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,5,18,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,1,1,1,20131204,POR,OKC
+Shot Chart Detail,0021300276,235,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,0,53,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,0,1,1,20131204,POR,OKC
+Shot Chart Detail,0021300276,307,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,8,4,Made Shot,Running Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,0,39,1,1,20131204,POR,OKC
+Shot Chart Detail,0021300276,447,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,7,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,-8,1,1,20131204,POR,OKC
+Shot Chart Detail,0021300286,80,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,2,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,154,12,1,1,20131206,NOP,OKC
+Shot Chart Detail,0021300286,143,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,9,17,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,0,1,1,20131206,NOP,OKC
+Shot Chart Detail,0021300286,298,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,8,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,136,14,1,1,20131206,NOP,OKC
+Shot Chart Detail,0021300286,357,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,4,0,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,0,1,1,20131206,NOP,OKC
+Shot Chart Detail,0021300286,434,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,11,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,136,28,1,1,20131206,NOP,OKC
+Shot Chart Detail,0021300302,71,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,3,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,1,178,1,1,20131208,OKC,IND
+Shot Chart Detail,0021300302,74,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,3,8,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,1,1,1,20131208,OKC,IND
+Shot Chart Detail,0021300302,96,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,1,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,94,11,1,1,20131208,OKC,IND
+Shot Chart Detail,0021300302,187,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,5,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,0,183,1,1,20131208,OKC,IND
+Shot Chart Detail,0021300302,266,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,10,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-4,178,1,1,20131208,OKC,IND
+Shot Chart Detail,0021300302,279,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,8,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,12,181,1,1,20131208,OKC,IND
+Shot Chart Detail,0021300313,33,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,8,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,187,61,1,1,20131210,ATL,OKC
+Shot Chart Detail,0021300313,149,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,9,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,0,1,1,20131210,ATL,OKC
+Shot Chart Detail,0021300313,329,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,9,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-46,178,1,1,20131210,ATL,OKC
+Shot Chart Detail,0021300313,331,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,8,42,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,4,48,1,1,20131210,ATL,OKC
+Shot Chart Detail,0021300313,491,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,8,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,190,58,1,1,20131210,ATL,OKC
+Shot Chart Detail,0021300313,515,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,7,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-123,115,1,1,20131210,ATL,OKC
+Shot Chart Detail,0021300313,531,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,5,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,61,172,1,1,20131210,ATL,OKC
+Shot Chart Detail,0021300320,51,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,6,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-49,170,1,1,20131211,MEM,OKC
+Shot Chart Detail,0021300320,264,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,1,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,133,101,1,1,20131211,MEM,OKC
+Shot Chart Detail,0021300320,278,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,11,46,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,65,37,1,1,20131211,MEM,OKC
+Shot Chart Detail,0021300320,298,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,9,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-164,7,1,1,20131211,MEM,OKC
+Shot Chart Detail,0021300320,389,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,2,11,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-68,23,1,1,20131211,MEM,OKC
+Shot Chart Detail,0021300320,449,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,6,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,157,67,1,1,20131211,MEM,OKC
+Shot Chart Detail,0021300336,33,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,8,20,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,15,1,1,20131213,OKC,LAL
+Shot Chart Detail,0021300336,63,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,5,45,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,83,28,1,1,20131213,OKC,LAL
+Shot Chart Detail,0021300336,77,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,4,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-123,53,1,1,20131213,OKC,LAL
+Shot Chart Detail,0021300336,93,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,3,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,-2,1,1,20131213,OKC,LAL
+Shot Chart Detail,0021300336,266,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,1,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,154,4,1,1,20131213,OKC,LAL
+Shot Chart Detail,0021300336,300,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,10,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,3,1,1,20131213,OKC,LAL
+Shot Chart Detail,0021300336,313,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,8,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-109,116,1,1,20131213,OKC,LAL
+Shot Chart Detail,0021300336,343,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,6,26,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,0,1,1,20131213,OKC,LAL
+Shot Chart Detail,0021300353,160,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,7,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,-8,1,1,20131215,OKC,ORL
+Shot Chart Detail,0021300353,256,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,11,18,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,6,41,1,1,20131215,OKC,ORL
+Shot Chart Detail,0021300367,2,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,11,47,Made Shot,Jump Bank Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,28,17,1,1,20131217,DEN,OKC
+Shot Chart Detail,0021300367,9,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,11,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-16,176,1,1,20131217,DEN,OKC
+Shot Chart Detail,0021300367,20,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,9,54,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,6,1,1,20131217,DEN,OKC
+Shot Chart Detail,0021300367,41,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,8,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,190,69,1,1,20131217,DEN,OKC
+Shot Chart Detail,0021300367,52,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,7,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,4,170,1,1,20131217,DEN,OKC
+Shot Chart Detail,0021300367,241,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,2,49,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,12,1,1,20131217,DEN,OKC
+Shot Chart Detail,0021300367,512,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,3,57,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,28,3,1,1,20131217,DEN,OKC
+Shot Chart Detail,0021300381,310,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,9,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-105,142,1,1,20131219,OKC,CHI
+Shot Chart Detail,0021300381,320,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,8,19,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-224,7,1,1,20131219,OKC,CHI
+Shot Chart Detail,0021300399,3,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,11,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,18,173,1,1,20131221,SAS,OKC
+Shot Chart Detail,0021300399,57,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,5,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,133,31,1,1,20131221,SAS,OKC
+Shot Chart Detail,0021300399,188,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,4,0,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,11,1,1,20131221,SAS,OKC
+Shot Chart Detail,0021300399,208,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,2,12,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,14,1,1,20131221,SAS,OKC
+Shot Chart Detail,0021300399,475,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,3,36,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-231,-11,1,1,20131221,SAS,OKC
+Shot Chart Detail,0021300399,500,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,1,11,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,-14,1,1,20131221,SAS,OKC
+Shot Chart Detail,0021300405,3,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,11,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-134,36,1,1,20131222,OKC,TOR
+Shot Chart Detail,0021300405,51,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,6,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,127,99,1,1,20131222,OKC,TOR
+Shot Chart Detail,0021300405,305,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,10,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,6,1,1,20131222,OKC,TOR
+Shot Chart Detail,0021300405,336,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,8,11,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-224,3,1,1,20131222,OKC,TOR
+Shot Chart Detail,0021300419,6,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,10,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,166,110,1,1,20131225,NYK,OKC
+Shot Chart Detail,0021300419,49,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,6,55,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-38,9,1,1,20131225,NYK,OKC
+Shot Chart Detail,0021300419,76,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,3,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,125,118,1,1,20131225,NYK,OKC
+Shot Chart Detail,0021300419,152,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,7,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-73,167,1,1,20131225,NYK,OKC
+Shot Chart Detail,0021300419,162,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,6,32,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,4,1,1,20131225,NYK,OKC
+Shot Chart Detail,0021300419,178,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,5,21,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,9,1,1,20131225,NYK,OKC
+Shot Chart Detail,0021300419,200,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,3,28,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-34,37,1,1,20131225,NYK,OKC
+Shot Chart Detail,0021300419,229,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,0,40,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,6,1,1,20131225,NYK,OKC
+Shot Chart Detail,0021300419,265,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,9,41,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,11,1,1,20131225,NYK,OKC
+Shot Chart Detail,0021300419,312,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,5,42,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,-24,1,1,20131225,NYK,OKC
+Shot Chart Detail,0021300427,8,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,10,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,182,28,1,1,20131227,CHA,OKC
+Shot Chart Detail,0021300427,10,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,10,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,9,1,1,20131227,CHA,OKC
+Shot Chart Detail,0021300427,63,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,3,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-142,74,1,1,20131227,CHA,OKC
+Shot Chart Detail,0021300427,67,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,3,10,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,146,11,1,1,20131227,CHA,OKC
+Shot Chart Detail,0021300427,255,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,11,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-142,121,1,1,20131227,CHA,OKC
+Shot Chart Detail,0021300427,320,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,3,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-198,26,1,1,20131227,CHA,OKC
+Shot Chart Detail,0021300450,37,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,8,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-136,85,1,1,20131229,OKC,HOU
+Shot Chart Detail,0021300450,155,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,9,6,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,4,1,1,20131229,OKC,HOU
+Shot Chart Detail,0021300450,280,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,10,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,9,1,1,20131229,OKC,HOU
+Shot Chart Detail,0021300450,294,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,8,50,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,1,1,1,20131229,OKC,HOU
+Shot Chart Detail,0021300466,2,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,11,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-23,186,1,1,20131231,OKC,POR
+Shot Chart Detail,0021300466,5,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,11,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-11,187,1,1,20131231,OKC,POR
+Shot Chart Detail,0021300466,28,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,6,56,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,1,1,1,20131231,OKC,POR
+Shot Chart Detail,0021300466,168,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,6,26,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,12,42,1,1,20131231,OKC,POR
+Shot Chart Detail,0021300466,204,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,3,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,11,1,1,20131231,OKC,POR
+Shot Chart Detail,0021300466,209,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,3,0,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-79,52,1,1,20131231,OKC,POR
+Shot Chart Detail,0021300466,258,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,10,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,86,156,1,1,20131231,OKC,POR
+Shot Chart Detail,0021300466,264,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,8,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,4,1,1,20131231,OKC,POR
+Shot Chart Detail,0021300476,66,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,5,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,-8,1,1,20140102,OKC,BKN
+Shot Chart Detail,0021300476,197,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,6,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,6,1,1,20140102,OKC,BKN
+Shot Chart Detail,0021300476,206,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,6,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,4,1,1,20140102,OKC,BKN
+Shot Chart Detail,0021300476,354,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,4,47,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-30,33,1,1,20140102,OKC,BKN
+Shot Chart Detail,0021300476,521,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,0,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,-2,1,1,20140102,OKC,BKN
+Shot Chart Detail,0021300493,21,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,10,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,56,197,1,1,20140104,MIN,OKC
+Shot Chart Detail,0021300493,65,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,5,52,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,1,1,1,20140104,MIN,OKC
+Shot Chart Detail,0021300493,222,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,4,40,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,-2,1,1,20140104,MIN,OKC
+Shot Chart Detail,0021300493,303,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,10,30,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,11,1,1,20140104,MIN,OKC
+Shot Chart Detail,0021300493,358,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,4,30,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,1,1,1,20140104,MIN,OKC
+Shot Chart Detail,0021300493,495,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,4,45,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,58,11,1,1,20140104,MIN,OKC
+Shot Chart Detail,0021300502,45,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,7,16,Made Shot,Turnaround Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,50,28,1,1,20140105,OKC,BOS
+Shot Chart Detail,0021300502,106,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,1,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,143,39,1,1,20140105,OKC,BOS
+Shot Chart Detail,0021300502,286,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,11,4,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,6,1,1,20140105,OKC,BOS
+Shot Chart Detail,0021300502,376,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,2,37,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,-2,1,1,20140105,OKC,BOS
+Shot Chart Detail,0021300502,417,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,11,42,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,-3,1,1,20140105,OKC,BOS
+Shot Chart Detail,0021300502,432,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,9,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-161,4,1,1,20140105,OKC,BOS
+Shot Chart Detail,0021300502,457,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,8,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-105,156,1,1,20140105,OKC,BOS
+Shot Chart Detail,0021300502,461,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,7,35,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,6,1,1,20140105,OKC,BOS
+Shot Chart Detail,0021300530,11,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,10,37,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,9,1,1,20140109,DEN,OKC
+Shot Chart Detail,0021300530,200,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,7,50,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,4,1,1,20140109,DEN,OKC
+Shot Chart Detail,0021300530,228,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,5,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,89,86,1,1,20140109,DEN,OKC
+Shot Chart Detail,0021300548,5,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,11,30,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,0,1,1,20140111,OKC,MIL
+Shot Chart Detail,0021300548,186,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,6,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-164,36,1,1,20140111,OKC,MIL
+Shot Chart Detail,0021300548,291,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,11,29,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-226,4,1,1,20140111,OKC,MIL
+Shot Chart Detail,0021300548,346,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,6,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,3,1,1,20140111,OKC,MIL
+Shot Chart Detail,0021300548,357,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,5,12,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,4,1,1,20140111,OKC,MIL
+Shot Chart Detail,0021300548,375,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,3,19,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,7,1,1,20140111,OKC,MIL
+Shot Chart Detail,0021300548,496,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,5,3,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-29,1,1,1,20140111,OKC,MIL
+Shot Chart Detail,0021300564,20,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,9,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,1,1,1,20140114,MEM,OKC
+Shot Chart Detail,0021300564,34,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,7,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,146,127,1,1,20140114,MEM,OKC
+Shot Chart Detail,0021300564,326,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,5,54,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,-3,1,1,20140114,MEM,OKC
+Shot Chart Detail,0021300564,342,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,4,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,14,1,1,20140114,MEM,OKC
+Shot Chart Detail,0021300564,537,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,0,4,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,220,105,1,1,20140114,MEM,OKC
+Shot Chart Detail,0021300580,3,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,11,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,129,154,1,1,20140116,HOU,OKC
+Shot Chart Detail,0021300580,6,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,10,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,32,146,1,1,20140116,HOU,OKC
+Shot Chart Detail,0021300580,17,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,9,29,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,-3,1,1,20140116,HOU,OKC
+Shot Chart Detail,0021300580,48,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,5,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,-3,1,1,20140116,HOU,OKC
+Shot Chart Detail,0021300580,57,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,4,22,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-56,9,1,1,20140116,HOU,OKC
+Shot Chart Detail,0021300580,298,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,10,43,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,28,48,1,1,20140116,HOU,OKC
+Shot Chart Detail,0021300580,377,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,3,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-8,190,1,1,20140116,HOU,OKC
+Shot Chart Detail,0021300580,380,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,3,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,7,1,1,20140116,HOU,OKC
+Shot Chart Detail,0021300580,409,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,0,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,209,126,1,1,20140116,HOU,OKC
+Shot Chart Detail,0021300580,522,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,1,57,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,12,-67,108,1,1,20140116,HOU,OKC
+Shot Chart Detail,0021300592,2,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,11,40,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,91,96,1,1,20140117,OKC,GSW
+Shot Chart Detail,0021300592,5,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,10,59,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,7,1,1,20140117,OKC,GSW
+Shot Chart Detail,0021300592,12,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,9,33,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-34,91,1,1,20140117,OKC,GSW
+Shot Chart Detail,0021300592,231,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,3,1,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,-3,1,1,20140117,OKC,GSW
+Shot Chart Detail,0021300592,350,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,9,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-164,61,1,1,20140117,OKC,GSW
+Shot Chart Detail,0021300592,396,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,4,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,4,140,1,1,20140117,OKC,GSW
+Shot Chart Detail,0021300592,511,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,8,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-26,176,1,1,20140117,OKC,GSW
+Shot Chart Detail,0021300592,582,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,2,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,-3,1,1,20140117,OKC,GSW
+Shot Chart Detail,0021300603,7,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,10,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,92,39,1,1,20140119,OKC,SAC
+Shot Chart Detail,0021300603,58,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,5,43,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,-3,1,1,20140119,OKC,SAC
+Shot Chart Detail,0021300603,79,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,3,13,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,1,1,1,20140119,OKC,SAC
+Shot Chart Detail,0021300603,218,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,2,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,3,1,1,20140119,OKC,SAC
+Shot Chart Detail,0021300603,226,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,1,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,0,1,1,20140119,OKC,SAC
+Shot Chart Detail,0021300603,232,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,1,24,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,1,1,1,20140119,OKC,SAC
+Shot Chart Detail,0021300603,276,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,10,18,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,-5,1,1,20140119,OKC,SAC
+Shot Chart Detail,0021300603,303,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,7,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-153,86,1,1,20140119,OKC,SAC
+Shot Chart Detail,0021300603,316,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,5,37,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,84,33,1,1,20140119,OKC,SAC
+Shot Chart Detail,0021300619,66,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,3,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,127,145,1,1,20140121,OKC,POR
+Shot Chart Detail,0021300619,173,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,4,29,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,0,1,1,20140121,OKC,POR
+Shot Chart Detail,0021300619,192,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,1,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,4,190,1,1,20140121,OKC,POR
+Shot Chart Detail,0021300619,228,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,9,31,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,10,131,1,1,20140121,OKC,POR
+Shot Chart Detail,0021300630,4,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,11,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-24,200,1,1,20140122,SAS,OKC
+Shot Chart Detail,0021300630,29,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,8,27,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,11,1,1,20140122,SAS,OKC
+Shot Chart Detail,0021300630,47,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,5,21,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,102,170,1,1,20140122,SAS,OKC
+Shot Chart Detail,0021300630,49,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,4,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-152,47,1,1,20140122,SAS,OKC
+Shot Chart Detail,0021300630,338,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,2,20,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,17,1,1,20140122,SAS,OKC
+Shot Chart Detail,0021300630,347,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,1,29,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,-8,1,1,20140122,SAS,OKC
+Shot Chart Detail,0021300630,452,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,1,46,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-18,23,1,1,20140122,SAS,OKC
+Shot Chart Detail,0021300636,7,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,10,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,7,1,1,20140124,BOS,OKC
+Shot Chart Detail,0021300636,9,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,10,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-119,165,1,1,20140124,BOS,OKC
+Shot Chart Detail,0021300636,179,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,4,15,Made Shot,Running Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,3,1,1,20140124,BOS,OKC
+Shot Chart Detail,0021300636,228,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,11,25,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,15,1,1,20140124,BOS,OKC
+Shot Chart Detail,0021300636,285,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,5,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,-6,1,1,20140124,BOS,OKC
+Shot Chart Detail,0021300636,303,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,4,21,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,4,1,1,20140124,BOS,OKC
+Shot Chart Detail,0021300636,306,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,3,55,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,2,44,1,1,20140124,BOS,OKC
+Shot Chart Detail,0021300636,431,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,3,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-97,162,1,1,20140124,BOS,OKC
+Shot Chart Detail,0021300636,435,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,2,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,29,140,1,1,20140124,BOS,OKC
+Shot Chart Detail,0021300648,2,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,11,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-125,137,1,1,20140125,PHI,OKC
+Shot Chart Detail,0021300648,14,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,10,33,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,0,1,1,20140125,PHI,OKC
+Shot Chart Detail,0021300648,20,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,9,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-138,85,1,1,20140125,PHI,OKC
+Shot Chart Detail,0021300648,53,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,6,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,152,47,1,1,20140125,PHI,OKC
+Shot Chart Detail,0021300648,56,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,6,24,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,72,44,1,1,20140125,PHI,OKC
+Shot Chart Detail,0021300648,94,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,2,27,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-169,50,1,1,20140125,PHI,OKC
+Shot Chart Detail,0021300648,237,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,3,2,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,138,11,1,1,20140125,PHI,OKC
+Shot Chart Detail,0021300648,254,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,2,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,4,1,1,20140125,PHI,OKC
+Shot Chart Detail,0021300648,304,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,10,18,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,36,184,1,1,20140125,PHI,OKC
+Shot Chart Detail,0021300648,361,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,3,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-7,186,1,1,20140125,PHI,OKC
+Shot Chart Detail,0021300648,456,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,7,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-180,-21,1,1,20140125,PHI,OKC
+Shot Chart Detail,0021300648,487,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,3,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,9,186,1,1,20140125,PHI,OKC
+Shot Chart Detail,0021300666,185,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,3,36,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,226,7,1,1,20140127,OKC,ATL
+Shot Chart Detail,0021300666,214,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,11,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,83,154,1,1,20140127,OKC,ATL
+Shot Chart Detail,0021300666,256,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,7,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-11,142,1,1,20140127,OKC,ATL
+Shot Chart Detail,0021300666,406,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,7,28,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,0,1,1,20140127,OKC,ATL
+Shot Chart Detail,0021300675,2,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,11,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,34,200,1,1,20140129,MIA,OKC
+Shot Chart Detail,0021300675,41,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,6,49,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,6,1,1,20140129,MIA,OKC
+Shot Chart Detail,0021300675,83,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,3,40,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-62,3,1,1,20140129,MIA,OKC
+Shot Chart Detail,0021300675,202,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,6,21,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,4,1,1,20140129,MIA,OKC
+Shot Chart Detail,0021300675,248,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,1,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,6,1,1,20140129,MIA,OKC
+Shot Chart Detail,0021300675,251,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,0,23,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-3,-1,1,1,20140129,MIA,OKC
+Shot Chart Detail,0021300675,305,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,7,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,102,159,1,1,20140129,MIA,OKC
+Shot Chart Detail,0021300675,339,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,4,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,121,134,1,1,20140129,MIA,OKC
+Shot Chart Detail,0021300675,481,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,2,30,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,59,132,1,1,20140129,MIA,OKC
+Shot Chart Detail,0021300675,485,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,1,46,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,3,1,1,20140129,MIA,OKC
+Shot Chart Detail,0021300692,35,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,7,50,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-19,4,1,1,20140131,BKN,OKC
+Shot Chart Detail,0021300692,37,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,7,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,69,183,1,1,20140131,BKN,OKC
+Shot Chart Detail,0021300692,60,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,3,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,157,1,1,1,20140131,BKN,OKC
+Shot Chart Detail,0021300692,63,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,3,17,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,0,1,1,20140131,BKN,OKC
+Shot Chart Detail,0021300692,71,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,2,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,162,6,1,1,20140131,BKN,OKC
+Shot Chart Detail,0021300692,80,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,1,41,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,9,1,1,20140131,BKN,OKC
+Shot Chart Detail,0021300692,207,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,3,7,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,9,1,1,20140131,BKN,OKC
+Shot Chart Detail,0021300692,236,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,0,29,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,9,1,1,20140131,BKN,OKC
+Shot Chart Detail,0021300692,268,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,8,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,165,15,1,1,20140131,BKN,OKC
+Shot Chart Detail,0021300692,276,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,8,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,23,1,1,20140131,BKN,OKC
+Shot Chart Detail,0021300692,325,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,2,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-16,12,1,1,20140131,BKN,OKC
+Shot Chart Detail,0021300692,334,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,1,35,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-52,93,1,1,20140131,BKN,OKC
+Shot Chart Detail,0021300698,5,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,11,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,32,162,1,1,20140201,WAS,OKC
+Shot Chart Detail,0021300698,92,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,3,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-4,149,1,1,20140201,WAS,OKC
+Shot Chart Detail,0021300698,194,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,5,25,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-65,113,1,1,20140201,WAS,OKC
+Shot Chart Detail,0021300698,262,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,11,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,40,167,1,1,20140201,WAS,OKC
+Shot Chart Detail,0021300698,277,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,9,28,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,15,1,1,20140201,WAS,OKC
+Shot Chart Detail,0021300698,287,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,7,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,141,112,1,1,20140201,WAS,OKC
+Shot Chart Detail,0021300716,15,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,9,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,7,170,1,1,20140203,OKC,MEM
+Shot Chart Detail,0021300716,31,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,7,46,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,-8,1,1,20140203,OKC,MEM
+Shot Chart Detail,0021300716,44,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,5,16,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-51,137,1,1,20140203,OKC,MEM
+Shot Chart Detail,0021300716,81,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,1,12,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,0,1,1,20140203,OKC,MEM
+Shot Chart Detail,0021300716,218,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,3,57,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-40,1,1,1,20140203,OKC,MEM
+Shot Chart Detail,0021300716,242,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,1,56,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,28,0,1,1,20140203,OKC,MEM
+Shot Chart Detail,0021300716,292,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,9,57,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,-5,1,1,20140203,OKC,MEM
+Shot Chart Detail,0021300716,309,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,7,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,0,1,1,20140203,OKC,MEM
+Shot Chart Detail,0021300716,331,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,4,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,157,22,1,1,20140203,OKC,MEM
+Shot Chart Detail,0021300716,436,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,7,43,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,12,132,1,1,20140203,OKC,MEM
+Shot Chart Detail,0021300732,23,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,8,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,9,1,1,20140205,OKC,MIN
+Shot Chart Detail,0021300732,68,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,3,19,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,89,34,1,1,20140205,OKC,MIN
+Shot Chart Detail,0021300732,212,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,1,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,155,77,1,1,20140205,OKC,MIN
+Shot Chart Detail,0021300732,214,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,1,16,Made Shot,Turnaround Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-2,31,1,1,20140205,OKC,MIN
+Shot Chart Detail,0021300732,269,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,8,32,Made Shot,Turnaround Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,2,23,1,1,20140205,OKC,MIN
+Shot Chart Detail,0021300732,271,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,7,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-24,192,1,1,20140205,OKC,MIN
+Shot Chart Detail,0021300732,490,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,1,26,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,-2,1,1,20140205,OKC,MIN
+Shot Chart Detail,0021300740,22,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,8,32,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,13,-79,115,1,1,20140207,ORL,OKC
+Shot Chart Detail,0021300740,24,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,8,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-141,123,1,1,20140207,ORL,OKC
+Shot Chart Detail,0021300740,78,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,3,6,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,4,1,1,20140207,ORL,OKC
+Shot Chart Detail,0021300740,90,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,1,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-92,131,1,1,20140207,ORL,OKC
+Shot Chart Detail,0021300740,162,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,6,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,200,-3,1,1,20140207,ORL,OKC
+Shot Chart Detail,0021300740,252,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,11,12,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,4,1,1,20140207,ORL,OKC
+Shot Chart Detail,0021300740,274,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,8,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,140,9,1,1,20140207,ORL,OKC
+Shot Chart Detail,0021300740,279,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,7,41,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-229,25,1,1,20140207,ORL,OKC
+Shot Chart Detail,0021300740,333,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,2,17,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,14,1,1,20140207,ORL,OKC
+Shot Chart Detail,0021300740,426,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,6,57,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,-10,1,1,20140207,ORL,OKC
+Shot Chart Detail,0021300756,74,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,3,3,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,0,1,1,20140209,OKC,NYK
+Shot Chart Detail,0021300756,157,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,7,33,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,11,1,1,20140209,OKC,NYK
+Shot Chart Detail,0021300756,185,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,5,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,147,85,1,1,20140209,OKC,NYK
+Shot Chart Detail,0021300756,216,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,2,14,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,1,1,1,20140209,OKC,NYK
+Shot Chart Detail,0021300756,302,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,6,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-103,149,1,1,20140209,OKC,NYK
+Shot Chart Detail,0021300756,354,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,1,23,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,6,1,1,20140209,OKC,NYK
+Shot Chart Detail,0021300756,467,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,4,19,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,1,1,1,20140209,OKC,NYK
+Shot Chart Detail,0021300756,482,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,2,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,32,194,1,1,20140209,OKC,NYK
+Shot Chart Detail,0021300775,269,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,9,20,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-226,6,1,1,20140211,POR,OKC
+Shot Chart Detail,0021300775,282,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,7,35,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,1,1,1,20140211,POR,OKC
+Shot Chart Detail,0021300775,346,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,2,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,17,192,1,1,20140211,POR,OKC
+Shot Chart Detail,0021300791,45,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,6,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,3,1,1,20140213,LAL,OKC
+Shot Chart Detail,0021300791,196,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,5,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-150,12,1,1,20140213,LAL,OKC
+Shot Chart Detail,0021300791,330,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,4,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,149,17,1,1,20140213,LAL,OKC
+Shot Chart Detail,0021300791,346,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,2,45,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,-3,1,1,20140213,LAL,OKC
+Shot Chart Detail,0021300813,8,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,11,0,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,9,1,1,20140220,OKC,MIA
+Shot Chart Detail,0021300813,15,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,9,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,1,1,1,20140220,OKC,MIA
+Shot Chart Detail,0021300813,57,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,4,52,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,0,1,1,20140220,OKC,MIA
+Shot Chart Detail,0021300813,83,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,2,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-89,113,1,1,20140220,OKC,MIA
+Shot Chart Detail,0021300813,281,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,11,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,0,1,1,20140220,OKC,MIA
+Shot Chart Detail,0021300833,32,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,8,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-82,113,1,1,20140223,OKC,LAC
+Shot Chart Detail,0021300833,50,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,7,14,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,12,1,1,20140223,OKC,LAC
+Shot Chart Detail,0021300833,67,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,5,37,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-40,82,1,1,20140223,OKC,LAC
+Shot Chart Detail,0021300833,101,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,2,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-10,142,1,1,20140223,OKC,LAC
+Shot Chart Detail,0021300833,116,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,1,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,159,47,1,1,20140223,OKC,LAC
+Shot Chart Detail,0021300833,190,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,6,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,3,1,1,20140223,OKC,LAC
+Shot Chart Detail,0021300833,230,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,4,22,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,4,1,1,20140223,OKC,LAC
+Shot Chart Detail,0021300833,250,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,3,3,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,-2,1,1,20140223,OKC,LAC
+Shot Chart Detail,0021300833,305,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,11,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,147,37,1,1,20140223,OKC,LAC
+Shot Chart Detail,0021300833,347,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,7,0,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,0,1,1,20140223,OKC,LAC
+Shot Chart Detail,0021300858,62,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,3,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-146,44,1,1,20140226,OKC,CLE
+Shot Chart Detail,0021300858,181,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,6,1,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,3,1,1,20140226,OKC,CLE
+Shot Chart Detail,0021300858,193,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,4,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-13,145,1,1,20140226,OKC,CLE
+Shot Chart Detail,0021300858,264,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,9,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-19,140,1,1,20140226,OKC,CLE
+Shot Chart Detail,0021300858,271,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,8,22,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-4,116,1,1,20140226,OKC,CLE
+Shot Chart Detail,0021300858,376,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,10,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,157,39,1,1,20140226,OKC,CLE
+Shot Chart Detail,0021300858,422,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,6,47,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,1,1,1,20140226,OKC,CLE
+Shot Chart Detail,0021300858,512,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,0,17,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-19,6,1,1,20140226,OKC,CLE
+Shot Chart Detail,0021300868,14,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,9,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-86,108,1,1,20140228,OKC,MEM
+Shot Chart Detail,0021300868,17,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,9,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,114,148,1,1,20140228,OKC,MEM
+Shot Chart Detail,0021300868,58,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,5,35,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,1,1,1,20140228,OKC,MEM
+Shot Chart Detail,0021300868,256,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,3,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-141,0,1,1,20140228,OKC,MEM
+Shot Chart Detail,0021300868,289,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,0,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,170,3,1,1,20140228,OKC,MEM
+Shot Chart Detail,0021300868,339,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,6,38,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,-5,1,1,20140228,OKC,MEM
+Shot Chart Detail,0021300868,470,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,5,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,9,1,1,20140228,OKC,MEM
+Shot Chart Detail,0021300887,58,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,4,54,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-10,123,1,1,20140302,OKC,CHA
+Shot Chart Detail,0021300887,172,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,7,54,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,-3,1,1,20140302,OKC,CHA
+Shot Chart Detail,0021300887,194,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,6,1,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,6,1,1,20140302,OKC,CHA
+Shot Chart Detail,0021300887,510,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,4,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,0,1,1,20140302,OKC,CHA
+Shot Chart Detail,0021300887,526,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,3,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-43,244,1,1,20140302,OKC,CHA
+Shot Chart Detail,0021300901,3,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,11,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,3,1,1,20140304,OKC,PHI
+Shot Chart Detail,0021300901,53,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,6,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-120,112,1,1,20140304,OKC,PHI
+Shot Chart Detail,0021300901,254,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,4,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,4,1,1,20140304,OKC,PHI
+Shot Chart Detail,0021300901,313,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,11,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,6,1,1,20140304,OKC,PHI
+Shot Chart Detail,0021300901,386,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,5,56,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,6,1,1,20140304,OKC,PHI
+Shot Chart Detail,0021300915,5,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,11,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,26,187,1,1,20140306,PHX,OKC
+Shot Chart Detail,0021300915,7,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,10,51,Made Shot,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,67,22,1,1,20140306,PHX,OKC
+Shot Chart Detail,0021300915,37,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,8,24,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,1,1,1,20140306,PHX,OKC
+Shot Chart Detail,0021300915,263,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,11,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,129,146,1,1,20140306,PHX,OKC
+Shot Chart Detail,0021300915,307,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,6,44,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,1,1,1,20140306,PHX,OKC
+Shot Chart Detail,0021300915,448,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,7,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-89,176,1,1,20140306,PHX,OKC
+Shot Chart Detail,0021300915,484,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,4,10,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,1,1,1,20140306,PHX,OKC
+Shot Chart Detail,0021300935,24,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,9,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,12,1,1,20140309,LAL,OKC
+Shot Chart Detail,0021300935,29,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,8,38,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-73,50,1,1,20140309,LAL,OKC
+Shot Chart Detail,0021300935,54,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,6,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,59,160,1,1,20140309,LAL,OKC
+Shot Chart Detail,0021300935,68,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,4,53,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,2,127,1,1,20140309,LAL,OKC
+Shot Chart Detail,0021300935,213,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,5,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,11,1,1,20140309,LAL,OKC
+Shot Chart Detail,0021300935,264,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,2,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-146,101,1,1,20140309,LAL,OKC
+Shot Chart Detail,0021300935,304,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,0,1,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,-2,1,1,20140309,LAL,OKC
+Shot Chart Detail,0021300935,313,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,11,14,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,0,1,1,20140309,LAL,OKC
+Shot Chart Detail,0021300935,516,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,6,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,4,1,1,20140309,LAL,OKC
+Shot Chart Detail,0021300955,27,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,9,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,99,126,1,1,20140311,OKC,HOU
+Shot Chart Detail,0021300955,209,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,9,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-100,86,1,1,20140311,OKC,HOU
+Shot Chart Detail,0021300955,388,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,7,50,Made Shot,Hook Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-92,-6,1,1,20140311,OKC,HOU
+Shot Chart Detail,0021300955,491,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,9,1,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-19,135,1,1,20140311,OKC,HOU
+Shot Chart Detail,0021300955,551,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,3,44,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,11,1,1,20140311,OKC,HOU
+Shot Chart Detail,0021300955,595,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,0,25,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-48,17,1,1,20140311,OKC,HOU
+Shot Chart Detail,0021300970,66,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,4,47,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,0,1,1,20140313,OKC,LAL
+Shot Chart Detail,0021300970,78,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,4,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,26,246,1,1,20140313,OKC,LAL
+Shot Chart Detail,0021300970,202,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,5,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,-11,1,1,20140313,OKC,LAL
+Shot Chart Detail,0021300970,228,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,1,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,0,1,1,20140313,OKC,LAL
+Shot Chart Detail,0021300970,274,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,11,37,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,9,1,1,20140313,OKC,LAL
+Shot Chart Detail,0021300970,330,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,6,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-103,157,1,1,20140313,OKC,LAL
+Shot Chart Detail,0021300992,19,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,10,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-152,56,1,1,20140316,OKC,DAL
+Shot Chart Detail,0021300992,31,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,9,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,95,165,1,1,20140316,OKC,DAL
+Shot Chart Detail,0021300992,145,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,10,10,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,28,77,1,1,20140316,OKC,DAL
+Shot Chart Detail,0021300992,165,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,8,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-92,101,1,1,20140316,OKC,DAL
+Shot Chart Detail,0021300992,197,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,6,15,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,17,1,1,20140316,OKC,DAL
+Shot Chart Detail,0021300992,283,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,8,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,77,143,1,1,20140316,OKC,DAL
+Shot Chart Detail,0021300992,285,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,8,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-127,71,1,1,20140316,OKC,DAL
+Shot Chart Detail,0021300992,358,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,2,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,0,1,1,20140316,OKC,DAL
+Shot Chart Detail,0021300999,24,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,9,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,91,72,1,1,20140317,CHI,OKC
+Shot Chart Detail,0021300999,89,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,3,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-152,78,1,1,20140317,CHI,OKC
+Shot Chart Detail,0021300999,218,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,4,9,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,14,1,1,20140317,CHI,OKC
+Shot Chart Detail,0021300999,301,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,7,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-34,192,1,1,20140317,CHI,OKC
+Shot Chart Detail,0021300999,431,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,7,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-5,26,1,1,20140317,CHI,OKC
+Shot Chart Detail,0021300999,483,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,3,13,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,-10,1,1,20140317,CHI,OKC
+Shot Chart Detail,0021301018,263,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,0,33,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,31,44,1,1,20140320,CLE,OKC
+Shot Chart Detail,0021301018,300,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,7,11,Made Shot,Turnaround Bank shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,73,45,1,1,20140320,CLE,OKC
+Shot Chart Detail,0021301018,333,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,4,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-92,160,1,1,20140320,CLE,OKC
+Shot Chart Detail,0021301018,341,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,3,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,146,75,1,1,20140320,CLE,OKC
+Shot Chart Detail,0021301018,446,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,7,35,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,15,1,1,20140320,CLE,OKC
+Shot Chart Detail,0021301018,511,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,1,54,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,1,1,1,20140320,CLE,OKC
+Shot Chart Detail,0021301024,18,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,9,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,130,115,1,1,20140321,TOR,OKC
+Shot Chart Detail,0021301024,38,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,7,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-2,170,1,1,20140321,TOR,OKC
+Shot Chart Detail,0021301024,220,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,4,59,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,10,31,1,1,20140321,TOR,OKC
+Shot Chart Detail,0021301024,399,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,5,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-187,41,1,1,20140321,TOR,OKC
+Shot Chart Detail,0021301024,497,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,6,0,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,37,20,1,1,20140321,TOR,OKC
+Shot Chart Detail,0021301024,584,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,5,4,9,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,22,1,1,20140321,TOR,OKC
+Shot Chart Detail,0021301053,10,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,10,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,12,143,1,1,20140324,OKC,DEN
+Shot Chart Detail,0021301053,32,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,8,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,155,112,1,1,20140324,OKC,DEN
+Shot Chart Detail,0021301053,79,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,3,46,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,3,1,1,20140324,OKC,DEN
+Shot Chart Detail,0021301053,85,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,3,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-139,36,1,1,20140324,OKC,DEN
+Shot Chart Detail,0021301053,174,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,8,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,143,37,1,1,20140324,OKC,DEN
+Shot Chart Detail,0021301053,201,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,5,58,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,3,1,1,20140324,OKC,DEN
+Shot Chart Detail,0021301053,251,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,1,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,23,21,239,1,1,20140324,OKC,DEN
+Shot Chart Detail,0021301059,140,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,10,52,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,19,1,1,20140325,DAL,OKC
+Shot Chart Detail,0021301059,152,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,8,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,4,1,1,20140325,DAL,OKC
+Shot Chart Detail,0021301059,207,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,2,53,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,3,1,1,20140325,DAL,OKC
+Shot Chart Detail,0021301059,404,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,9,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-163,52,1,1,20140325,DAL,OKC
+Shot Chart Detail,0021301059,551,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,5,3,1,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,-6,1,1,20140325,DAL,OKC
+Shot Chart Detail,0021301083,48,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,7,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,4,178,1,1,20140328,OKC,SAC
+Shot Chart Detail,0021301083,189,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,6,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,15,194,1,1,20140328,OKC,SAC
+Shot Chart Detail,0021301093,73,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,5,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,13,189,1,1,20140330,OKC,UTA
+Shot Chart Detail,0021301093,182,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,5,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-138,56,1,1,20140330,OKC,UTA
+Shot Chart Detail,0021301093,247,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,11,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-10,151,1,1,20140330,OKC,UTA
+Shot Chart Detail,0021301093,253,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,10,24,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,0,134,1,1,20140330,OKC,UTA
+Shot Chart Detail,0021301093,267,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,8,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,2,189,1,1,20140330,OKC,UTA
+Shot Chart Detail,0021301093,295,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,5,37,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,9,1,1,20140330,OKC,UTA
+Shot Chart Detail,0021301093,442,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,7,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,36,181,1,1,20140330,OKC,UTA
+Shot Chart Detail,0021301127,146,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,9,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-131,96,1,1,20140403,OKC,SAS
+Shot Chart Detail,0021301127,270,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,11,0,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,9,1,1,20140403,OKC,SAS
+Shot Chart Detail,0021301127,283,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,9,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,7,176,1,1,20140403,OKC,SAS
+Shot Chart Detail,0021301127,323,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,5,28,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,1,1,1,20140403,OKC,SAS
+Shot Chart Detail,0021301127,448,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,5,48,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-13,99,1,1,20140403,OKC,SAS
+Shot Chart Detail,0021301139,9,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,10,49,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,11,1,1,20140404,HOU,OKC
+Shot Chart Detail,0021301139,32,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,8,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,166,78,1,1,20140404,HOU,OKC
+Shot Chart Detail,0021301139,194,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,4,43,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,0,1,1,20140404,HOU,OKC
+Shot Chart Detail,0021301139,208,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,3,15,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,4,1,1,20140404,HOU,OKC
+Shot Chart Detail,0021301139,221,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,2,8,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,1,1,1,20140404,HOU,OKC
+Shot Chart Detail,0021301139,275,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,11,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-19,3,1,1,20140404,HOU,OKC
+Shot Chart Detail,0021301139,288,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,9,46,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,1,1,1,20140404,HOU,OKC
+Shot Chart Detail,0021301139,305,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,8,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-117,140,1,1,20140404,HOU,OKC
+Shot Chart Detail,0021301139,316,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,6,19,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,6,1,1,20140404,HOU,OKC
+Shot Chart Detail,0021301139,325,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,5,28,Made Shot,Jump Bank Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-2,255,1,1,20140404,HOU,OKC
+Shot Chart Detail,0021301139,437,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,7,29,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,6,1,1,20140404,HOU,OKC
+Shot Chart Detail,0021301156,36,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,7,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-37,186,1,1,20140406,PHX,OKC
+Shot Chart Detail,0021301156,82,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,2,53,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,9,1,1,20140406,PHX,OKC
+Shot Chart Detail,0021301156,324,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,5,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,12,1,1,20140406,PHX,OKC
+Shot Chart Detail,0021301160,7,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,10,42,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,32,11,1,1,20140408,SAC,OKC
+Shot Chart Detail,0021301160,10,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,10,11,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-5,48,1,1,20140408,SAC,OKC
+Shot Chart Detail,0021301160,56,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,4,42,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,15,1,1,20140408,SAC,OKC
+Shot Chart Detail,0021301160,162,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,6,53,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,10,41,1,1,20140408,SAC,OKC
+Shot Chart Detail,0021301160,181,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,5,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-7,190,1,1,20140408,SAC,OKC
+Shot Chart Detail,0021301160,187,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,4,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,6,1,1,20140408,SAC,OKC
+Shot Chart Detail,0021301160,204,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,1,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,7,1,1,20140408,SAC,OKC
+Shot Chart Detail,0021301160,291,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,9,8,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,45,15,1,1,20140408,SAC,OKC
+Shot Chart Detail,0021301173,211,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,6,35,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,-3,1,1,20140409,LAC,OKC
+Shot Chart Detail,0021301173,321,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,9,59,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,-8,1,1,20140409,LAC,OKC
+Shot Chart Detail,0021301173,339,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,7,27,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,-8,1,1,20140409,LAC,OKC
+Shot Chart Detail,0021301173,461,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,10,2,Made Shot,Driving Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,-10,1,1,20140409,LAC,OKC
+Shot Chart Detail,0021301173,485,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,7,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-106,151,1,1,20140409,LAC,OKC
+Shot Chart Detail,0021301184,2,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,11,46,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,1,1,1,20140411,OKC,NOP
+Shot Chart Detail,0021301184,4,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,11,8,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-2,134,1,1,20140411,OKC,NOP
+Shot Chart Detail,0021301184,19,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,9,31,Made Shot,Jump Bank Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,0,1,1,20140411,OKC,NOP
+Shot Chart Detail,0021301184,202,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,3,59,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,11,1,1,20140411,OKC,NOP
+Shot Chart Detail,0021301184,297,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,6,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,121,143,1,1,20140411,OKC,NOP
+Shot Chart Detail,0021301184,399,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,10,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,-3,1,1,20140411,OKC,NOP
+Shot Chart Detail,0021301200,203,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,5,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,0,1,1,20140413,IND,OKC
+Shot Chart Detail,0021301200,263,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,11,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,157,0,1,1,20140413,IND,OKC
+Shot Chart Detail,0021301200,432,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,4,24,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,4,1,1,20140413,IND,OKC
+Shot Chart Detail,0021301200,480,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,0,16,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-231,-6,1,1,20140413,IND,OKC
+Shot Chart Detail,0021301210,13,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,9,52,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-13,37,1,1,20140414,NOP,OKC
+Shot Chart Detail,0021301210,15,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,9,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-112,189,1,1,20140414,NOP,OKC
+Shot Chart Detail,0021301210,32,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,7,29,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,9,37,1,1,20140414,NOP,OKC
+Shot Chart Detail,0021301210,34,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,6,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,152,39,1,1,20140414,NOP,OKC
+Shot Chart Detail,0021301210,212,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,2,1,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-75,160,1,1,20140414,NOP,OKC
+Shot Chart Detail,0021301210,266,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,9,29,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,4,1,1,20140414,NOP,OKC
+Shot Chart Detail,0021301210,466,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,5,9,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-2,1,1,20140414,NOP,OKC
+Shot Chart Detail,0021301220,9,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,11,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,3,1,1,20140416,OKC,DET
+Shot Chart Detail,0021301220,20,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,1,10,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,17,206,1,1,20140416,OKC,DET
+Shot Chart Detail,0021301220,292,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,10,24,Made Shot,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,3,1,1,20140416,OKC,DET
+Shot Chart Detail,0021301220,311,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,3,9,17,Made Shot,Driving Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,1,1,1,20140416,OKC,DET
+Shot Chart Detail,0021301220,475,201586,Serge Ibaka,1610612760,Oklahoma City Thunder,4,9,22,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,0,1,1,20140416,OKC,DET

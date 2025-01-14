@@ -1,0 +1,31 @@
+City,Team,Conference,ConferenceRecord,Rank,W,L,Win%,Home,Road,Last10,Season,Year,FullTeamName,TEAM_ABBREVIATION
+Los Angeles,Lakers,West,36-10,1,52,19,0.732,25-10,27-9,4-6,2019-20,2020,Los Angeles Lakers,LAL
+Milwaukee,Bucks,East,37-7,1,56,17,0.767,30-5,26-12,3-7,2019-20,2020,Milwaukee Bucks,MIL
+LA,Clippers,West,32-16,2,49,23,0.681,27-9,22-14,6-4,2019-20,2020,LA Clippers,
+Toronto,Raptors,East,34-11,2,53,19,0.736,26-10,27-9,9-1,2019-20,2020,Toronto Raptors,TOR
+Boston,Celtics,East,30-13,3,48,24,0.667,26-10,22-14,6-4,2019-20,2020,Boston Celtics,BOS
+Denver,Nuggets,West,29-16,3,46,27,0.63,26-11,20-16,4-6,2019-20,2020,Denver Nuggets,DEN
+Indiana,Pacers,East,28-19,4,45,28,0.616,25-11,20-17,7-3,2019-20,2020,Indiana Pacers,IND
+Houston,Rockets,West,28-19,4,44,28,0.611,24-12,20-16,5-5,2019-20,2020,Houston Rockets,HOU
+Oklahoma City,Thunder,West,27-19,5,44,28,0.611,23-14,21-14,6-4,2019-20,2020,Oklahoma City Thunder,OKC
+Miami,Heat,East,30-13,5,44,29,0.603,29-7,15-22,4-6,2019-20,2020,Miami Heat,MIA
+Philadelphia,76ers,East,28-18,6,43,30,0.589,31-4,12-26,5-5,2019-20,2020,Philadelphia 76ers,PHI
+Utah,Jazz,West,24-21,6,44,28,0.611,23-12,21-16,4-6,2019-20,2020,Utah Jazz,UTA
+Brooklyn,Nets,East,23-23,7,35,37,0.486,20-16,15-21,7-3,2019-20,2020,Brooklyn Nets,BKN
+Dallas,Mavericks,West,27-20,7,43,32,0.573,20-18,23-14,4-6,2019-20,2020,Dallas Mavericks,DAL
+Orlando,Magic,East,20-23,8,33,40,0.452,18-17,15-23,5-5,2019-20,2020,Orlando Magic,ORL
+Portland,Trail Blazers,West,20-27,8,35,39,0.473,21-15,14-24,7-3,2019-20,2020,Portland Trail Blazers,POR
+Memphis,Grizzlies,West,20-26,9,34,39,0.466,20-17,14-22,3-7,2019-20,2020,Memphis Grizzlies,MEM
+Washington,Wizards,East,18-27,9,25,47,0.347,16-20,9-27,2-8,2019-20,2020,Washington Wizards,WAS
+Charlotte,Hornets,East,16-24,10,23,42,0.354,10-21,13-21,4-6,2019-20,2020,Charlotte Hornets,CHA
+Phoenix,Suns,West,19-27,10,34,39,0.466,17-22,17-17,9-1,2019-20,2020,Phoenix Suns,PHX
+San Antonio,Spurs,West,20-23,11,32,39,0.451,19-15,13-24,6-4,2019-20,2020,San Antonio Spurs,SAS
+Chicago,Bulls,East,15-28,11,22,43,0.338,14-20,8-23,3-7,2019-20,2020,Chicago Bulls,CHI
+New York,Knicks,East,15-28,12,21,45,0.318,11-22,10-23,4-6,2019-20,2020,New York Knicks,NYK
+Sacramento,Kings,West,23-23,12,31,41,0.431,16-19,15-22,4-6,2019-20,2020,Sacramento Kings,SAC
+Detroit,Pistons,East,12-31,13,20,46,0.303,11-22,9-24,1-9,2019-20,2020,Detroit Pistons,DET
+New Orleans,Pelicans,West,18-30,13,30,42,0.417,15-21,15-21,4-6,2019-20,2020,New Orleans Pelicans,NOP
+Atlanta,Hawks,East,11-32,14,20,47,0.299,14-20,6-27,4-6,2019-20,2020,Atlanta Hawks,ATL
+Minnesota,Timberwolves,West,9-30,14,19,45,0.297,8-24,11-21,3-7,2019-20,2020,Minnesota Timberwolves,MIN
+Cleveland,Cavaliers,East,12-32,15,19,46,0.292,11-25,8-21,4-6,2019-20,2020,Cleveland Cavaliers,CLE
+Golden State,Warriors,West,9-34,15,15,50,0.231,8-26,7-24,3-7,2019-20,2020,Golden State Warriors,GSW

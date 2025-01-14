@@ -1,0 +1,464 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0020800100,51,101114,Deron Williams,1610612762,Utah Jazz,1,7,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,168,186,1,1,20081111,PHI,UTA
+Shot Chart Detail,0020800114,58,101114,Deron Williams,1610612762,Utah Jazz,1,4,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,36,268,1,1,20081112,WAS,UTA
+Shot Chart Detail,0020800114,173,101114,Deron Williams,1610612762,Utah Jazz,2,6,26,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,0,113,1,1,20081112,WAS,UTA
+Shot Chart Detail,0020800114,220,101114,Deron Williams,1610612762,Utah Jazz,2,1,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-108,227,1,1,20081112,WAS,UTA
+Shot Chart Detail,0020800219,36,101114,Deron Williams,1610612762,Utah Jazz,1,7,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,118,194,1,1,20081126,UTA,MEM
+Shot Chart Detail,0020800219,56,101114,Deron Williams,1610612762,Utah Jazz,1,4,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,143,209,1,1,20081126,UTA,MEM
+Shot Chart Detail,0020800219,218,101114,Deron Williams,1610612762,Utah Jazz,2,3,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-116,194,1,1,20081126,UTA,MEM
+Shot Chart Detail,0020800219,284,101114,Deron Williams,1610612762,Utah Jazz,3,10,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-13,26,1,1,20081126,UTA,MEM
+Shot Chart Detail,0020800233,3,101114,Deron Williams,1610612762,Utah Jazz,1,11,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,129,149,1,1,20081128,UTA,SAC
+Shot Chart Detail,0020800233,30,101114,Deron Williams,1610612762,Utah Jazz,1,7,38,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081128,UTA,SAC
+Shot Chart Detail,0020800233,41,101114,Deron Williams,1610612762,Utah Jazz,1,6,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,7,249,1,1,20081128,UTA,SAC
+Shot Chart Detail,0020800233,196,101114,Deron Williams,1610612762,Utah Jazz,2,3,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-89,249,1,1,20081128,UTA,SAC
+Shot Chart Detail,0020800244,68,101114,Deron Williams,1610612762,Utah Jazz,1,6,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-164,99,1,1,20081129,UTA,NJN
+Shot Chart Detail,0020800244,266,101114,Deron Williams,1610612762,Utah Jazz,2,0,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,22,-54,217,1,1,20081129,UTA,NJN
+Shot Chart Detail,0020800244,439,101114,Deron Williams,1610612762,Utah Jazz,4,8,20,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081129,UTA,NJN
+Shot Chart Detail,0020800262,240,101114,Deron Williams,1610612762,Utah Jazz,2,1,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,177,19,1,1,20081202,SAC,UTA
+Shot Chart Detail,0020800262,270,101114,Deron Williams,1610612762,Utah Jazz,3,10,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-150,118,1,1,20081202,SAC,UTA
+Shot Chart Detail,0020800262,272,101114,Deron Williams,1610612762,Utah Jazz,3,10,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-100,167,1,1,20081202,SAC,UTA
+Shot Chart Detail,0020800262,530,101114,Deron Williams,1610612762,Utah Jazz,4,1,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081202,SAC,UTA
+Shot Chart Detail,0020800262,533,101114,Deron Williams,1610612762,Utah Jazz,4,0,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,92,143,1,1,20081202,SAC,UTA
+Shot Chart Detail,0020800273,6,101114,Deron Williams,1610612762,Utah Jazz,1,11,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-166,138,1,1,20081203,UTA,MIA
+Shot Chart Detail,0020800273,312,101114,Deron Williams,1610612762,Utah Jazz,3,3,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081203,UTA,MIA
+Shot Chart Detail,0020800273,467,101114,Deron Williams,1610612762,Utah Jazz,4,4,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,1,206,1,1,20081203,UTA,MIA
+Shot Chart Detail,0020800273,494,101114,Deron Williams,1610612762,Utah Jazz,4,1,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,75,238,1,1,20081203,UTA,MIA
+Shot Chart Detail,0020800286,22,101114,Deron Williams,1610612762,Utah Jazz,1,9,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081205,UTA,TOR
+Shot Chart Detail,0020800286,30,101114,Deron Williams,1610612762,Utah Jazz,1,8,29,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081205,UTA,TOR
+Shot Chart Detail,0020800286,44,101114,Deron Williams,1610612762,Utah Jazz,1,7,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,18,181,1,1,20081205,UTA,TOR
+Shot Chart Detail,0020800286,60,101114,Deron Williams,1610612762,Utah Jazz,1,5,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081205,UTA,TOR
+Shot Chart Detail,0020800286,73,101114,Deron Williams,1610612762,Utah Jazz,1,4,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081205,UTA,TOR
+Shot Chart Detail,0020800286,210,101114,Deron Williams,1610612762,Utah Jazz,2,3,10,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081205,UTA,TOR
+Shot Chart Detail,0020800286,296,101114,Deron Williams,1610612762,Utah Jazz,3,6,2,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081205,UTA,TOR
+Shot Chart Detail,0020800295,10,101114,Deron Williams,1610612762,Utah Jazz,1,10,20,Made Shot,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,54,28,1,1,20081206,PHX,UTA
+Shot Chart Detail,0020800295,188,101114,Deron Williams,1610612762,Utah Jazz,2,4,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-169,33,1,1,20081206,PHX,UTA
+Shot Chart Detail,0020800295,232,101114,Deron Williams,1610612762,Utah Jazz,2,0,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-73,187,1,1,20081206,PHX,UTA
+Shot Chart Detail,0020800295,235,101114,Deron Williams,1610612762,Utah Jazz,2,0,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,113,148,1,1,20081206,PHX,UTA
+Shot Chart Detail,0020800295,283,101114,Deron Williams,1610612762,Utah Jazz,3,8,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,195,178,1,1,20081206,PHX,UTA
+Shot Chart Detail,0020800295,291,101114,Deron Williams,1610612762,Utah Jazz,3,7,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,114,34,1,1,20081206,PHX,UTA
+Shot Chart Detail,0020800307,294,101114,Deron Williams,1610612762,Utah Jazz,3,9,55,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081209,MIN,UTA
+Shot Chart Detail,0020800307,493,101114,Deron Williams,1610612762,Utah Jazz,4,5,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081209,MIN,UTA
+Shot Chart Detail,0020800325,8,101114,Deron Williams,1610612762,Utah Jazz,1,10,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,47,179,1,1,20081211,UTA,POR
+Shot Chart Detail,0020800325,185,101114,Deron Williams,1610612762,Utah Jazz,2,3,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081211,UTA,POR
+Shot Chart Detail,0020800325,282,101114,Deron Williams,1610612762,Utah Jazz,3,5,57,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081211,UTA,POR
+Shot Chart Detail,0020800325,298,101114,Deron Williams,1610612762,Utah Jazz,3,4,20,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-26,127,1,1,20081211,UTA,POR
+Shot Chart Detail,0020800325,437,101114,Deron Williams,1610612762,Utah Jazz,4,1,57,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081211,UTA,POR
+Shot Chart Detail,0020800344,38,101114,Deron Williams,1610612762,Utah Jazz,1,8,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-7,246,1,1,20081213,UTA,ORL
+Shot Chart Detail,0020800344,214,101114,Deron Williams,1610612762,Utah Jazz,2,5,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,4,194,1,1,20081213,UTA,ORL
+Shot Chart Detail,0020800344,231,101114,Deron Williams,1610612762,Utah Jazz,2,3,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,40,162,1,1,20081213,UTA,ORL
+Shot Chart Detail,0020800344,245,101114,Deron Williams,1610612762,Utah Jazz,2,1,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-136,208,1,1,20081213,UTA,ORL
+Shot Chart Detail,0020800344,325,101114,Deron Williams,1610612762,Utah Jazz,3,4,51,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-2,129,1,1,20081213,UTA,ORL
+Shot Chart Detail,0020800344,497,101114,Deron Williams,1610612762,Utah Jazz,4,1,20,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081213,UTA,ORL
+Shot Chart Detail,0020800354,6,101114,Deron Williams,1610612762,Utah Jazz,1,10,44,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,1,47,1,1,20081215,BOS,UTA
+Shot Chart Detail,0020800354,46,101114,Deron Williams,1610612762,Utah Jazz,1,5,43,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,-6,1,1,20081215,BOS,UTA
+Shot Chart Detail,0020800354,460,101114,Deron Williams,1610612762,Utah Jazz,4,7,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,23,94,216,1,1,20081215,BOS,UTA
+Shot Chart Detail,0020800354,497,101114,Deron Williams,1610612762,Utah Jazz,4,3,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,192,160,1,1,20081215,BOS,UTA
+Shot Chart Detail,0020800354,499,101114,Deron Williams,1610612762,Utah Jazz,4,2,59,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,1,1,1,20081215,BOS,UTA
+Shot Chart Detail,0020800354,511,101114,Deron Williams,1610612762,Utah Jazz,4,1,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,43,156,1,1,20081215,BOS,UTA
+Shot Chart Detail,0020800371,284,101114,Deron Williams,1610612762,Utah Jazz,3,9,6,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081217,NJN,UTA
+Shot Chart Detail,0020800371,316,101114,Deron Williams,1610612762,Utah Jazz,3,6,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,155,107,1,1,20081217,NJN,UTA
+Shot Chart Detail,0020800371,339,101114,Deron Williams,1610612762,Utah Jazz,3,4,16,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081217,NJN,UTA
+Shot Chart Detail,0020800371,346,101114,Deron Williams,1610612762,Utah Jazz,3,3,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-54,178,1,1,20081217,NJN,UTA
+Shot Chart Detail,0020800371,369,101114,Deron Williams,1610612762,Utah Jazz,3,1,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,177,181,1,1,20081217,NJN,UTA
+Shot Chart Detail,0020800371,432,101114,Deron Williams,1610612762,Utah Jazz,4,7,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081217,NJN,UTA
+Shot Chart Detail,0020800383,11,101114,Deron Williams,1610612762,Utah Jazz,1,10,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,144,149,1,1,20081219,DET,UTA
+Shot Chart Detail,0020800383,155,101114,Deron Williams,1610612762,Utah Jazz,2,5,18,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081219,DET,UTA
+Shot Chart Detail,0020800383,165,101114,Deron Williams,1610612762,Utah Jazz,2,4,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,22,189,118,1,1,20081219,DET,UTA
+Shot Chart Detail,0020800383,193,101114,Deron Williams,1610612762,Utah Jazz,2,2,15,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081219,DET,UTA
+Shot Chart Detail,0020800383,204,101114,Deron Williams,1610612762,Utah Jazz,2,1,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,211,142,1,1,20081219,DET,UTA
+Shot Chart Detail,0020800383,208,101114,Deron Williams,1610612762,Utah Jazz,2,0,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-37,276,1,1,20081219,DET,UTA
+Shot Chart Detail,0020800383,316,101114,Deron Williams,1610612762,Utah Jazz,3,2,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-49,209,1,1,20081219,DET,UTA
+Shot Chart Detail,0020800383,410,101114,Deron Williams,1610612762,Utah Jazz,4,4,59,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081219,DET,UTA
+Shot Chart Detail,0020800383,438,101114,Deron Williams,1610612762,Utah Jazz,4,1,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081219,DET,UTA
+Shot Chart Detail,0020800383,462,101114,Deron Williams,1610612762,Utah Jazz,4,0,2,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-161,64,1,1,20081219,DET,UTA
+Shot Chart Detail,0020800383,521,101114,Deron Williams,1610612762,Utah Jazz,5,0,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,97,148,1,1,20081219,DET,UTA
+Shot Chart Detail,0020800395,7,101114,Deron Williams,1610612762,Utah Jazz,1,10,56,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081220,CHI,UTA
+Shot Chart Detail,0020800395,27,101114,Deron Williams,1610612762,Utah Jazz,1,9,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081220,CHI,UTA
+Shot Chart Detail,0020800395,171,101114,Deron Williams,1610612762,Utah Jazz,2,6,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,15,151,1,1,20081220,CHI,UTA
+Shot Chart Detail,0020800395,216,101114,Deron Williams,1610612762,Utah Jazz,2,2,3,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081220,CHI,UTA
+Shot Chart Detail,0020800395,261,101114,Deron Williams,1610612762,Utah Jazz,3,9,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,162,127,1,1,20081220,CHI,UTA
+Shot Chart Detail,0020800395,267,101114,Deron Williams,1610612762,Utah Jazz,3,8,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,78,244,1,1,20081220,CHI,UTA
+Shot Chart Detail,0020800395,339,101114,Deron Williams,1610612762,Utah Jazz,3,1,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,127,220,1,1,20081220,CHI,UTA
+Shot Chart Detail,0020800416,10,101114,Deron Williams,1610612762,Utah Jazz,1,10,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081223,MIL,UTA
+Shot Chart Detail,0020800416,46,101114,Deron Williams,1610612762,Utah Jazz,1,6,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-150,89,1,1,20081223,MIL,UTA
+Shot Chart Detail,0020800416,400,101114,Deron Williams,1610612762,Utah Jazz,3,0,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081223,MIL,UTA
+Shot Chart Detail,0020800416,431,101114,Deron Williams,1610612762,Utah Jazz,4,9,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,147,0,1,1,20081223,MIL,UTA
+Shot Chart Detail,0020800416,439,101114,Deron Williams,1610612762,Utah Jazz,4,7,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,171,194,1,1,20081223,MIL,UTA
+Shot Chart Detail,0020800433,11,101114,Deron Williams,1610612762,Utah Jazz,1,10,42,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,64,123,1,1,20081226,UTA,DAL
+Shot Chart Detail,0020800433,26,101114,Deron Williams,1610612762,Utah Jazz,1,8,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,127,74,1,1,20081226,UTA,DAL
+Shot Chart Detail,0020800433,68,101114,Deron Williams,1610612762,Utah Jazz,1,4,49,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-46,131,1,1,20081226,UTA,DAL
+Shot Chart Detail,0020800433,283,101114,Deron Williams,1610612762,Utah Jazz,3,7,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081226,UTA,DAL
+Shot Chart Detail,0020800433,453,101114,Deron Williams,1610612762,Utah Jazz,4,4,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081226,UTA,DAL
+Shot Chart Detail,0020800433,455,101114,Deron Williams,1610612762,Utah Jazz,4,4,39,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081226,UTA,DAL
+Shot Chart Detail,0020800440,185,101114,Deron Williams,1610612762,Utah Jazz,2,3,35,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-5,132,1,1,20081227,HOU,UTA
+Shot Chart Detail,0020800440,205,101114,Deron Williams,1610612762,Utah Jazz,2,1,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-171,14,1,1,20081227,HOU,UTA
+Shot Chart Detail,0020800440,264,101114,Deron Williams,1610612762,Utah Jazz,3,6,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081227,HOU,UTA
+Shot Chart Detail,0020800440,436,101114,Deron Williams,1610612762,Utah Jazz,4,1,41,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,2,162,1,1,20081227,HOU,UTA
+Shot Chart Detail,0020800440,450,101114,Deron Williams,1610612762,Utah Jazz,4,0,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,144,135,1,1,20081227,HOU,UTA
+Shot Chart Detail,0020800440,471,101114,Deron Williams,1610612762,Utah Jazz,4,0,12,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081227,HOU,UTA
+Shot Chart Detail,0020800440,497,101114,Deron Williams,1610612762,Utah Jazz,5,3,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-108,187,1,1,20081227,HOU,UTA
+Shot Chart Detail,0020800456,66,101114,Deron Williams,1610612762,Utah Jazz,1,4,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,22,-191,115,1,1,20081229,UTA,PHI
+Shot Chart Detail,0020800456,78,101114,Deron Williams,1610612762,Utah Jazz,1,2,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-122,214,1,1,20081229,UTA,PHI
+Shot Chart Detail,0020800456,194,101114,Deron Williams,1610612762,Utah Jazz,2,3,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081229,UTA,PHI
+Shot Chart Detail,0020800456,200,101114,Deron Williams,1610612762,Utah Jazz,2,2,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-19,216,1,1,20081229,UTA,PHI
+Shot Chart Detail,0020800456,211,101114,Deron Williams,1610612762,Utah Jazz,2,1,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081229,UTA,PHI
+Shot Chart Detail,0020800456,223,101114,Deron Williams,1610612762,Utah Jazz,2,0,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,20,242,1,1,20081229,UTA,PHI
+Shot Chart Detail,0020800456,241,101114,Deron Williams,1610612762,Utah Jazz,3,10,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,147,197,1,1,20081229,UTA,PHI
+Shot Chart Detail,0020800456,252,101114,Deron Williams,1610612762,Utah Jazz,3,9,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,146,203,1,1,20081229,UTA,PHI
+Shot Chart Detail,0020800456,280,101114,Deron Williams,1610612762,Utah Jazz,3,6,10,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,72,20,1,1,20081229,UTA,PHI
+Shot Chart Detail,0020800456,311,101114,Deron Williams,1610612762,Utah Jazz,3,3,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-116,187,1,1,20081229,UTA,PHI
+Shot Chart Detail,0020800456,422,101114,Deron Williams,1610612762,Utah Jazz,4,6,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,22,-46,219,1,1,20081229,UTA,PHI
+Shot Chart Detail,0020800487,163,101114,Deron Williams,1610612762,Utah Jazz,2,9,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-11,200,1,1,20090102,LAL,UTA
+Shot Chart Detail,0020800487,325,101114,Deron Williams,1610612762,Utah Jazz,3,8,4,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090102,LAL,UTA
+Shot Chart Detail,0020800487,465,101114,Deron Williams,1610612762,Utah Jazz,4,7,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,129,-2,1,1,20090102,LAL,UTA
+Shot Chart Detail,0020800487,515,101114,Deron Williams,1610612762,Utah Jazz,4,4,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,22,58,214,1,1,20090102,LAL,UTA
+Shot Chart Detail,0020800505,58,101114,Deron Williams,1610612762,Utah Jazz,1,4,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-87,228,1,1,20090105,UTA,GSW
+Shot Chart Detail,0020800505,71,101114,Deron Williams,1610612762,Utah Jazz,1,3,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,34,238,1,1,20090105,UTA,GSW
+Shot Chart Detail,0020800505,170,101114,Deron Williams,1610612762,Utah Jazz,2,8,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,0,194,1,1,20090105,UTA,GSW
+Shot Chart Detail,0020800505,195,101114,Deron Williams,1610612762,Utah Jazz,2,5,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090105,UTA,GSW
+Shot Chart Detail,0020800505,217,101114,Deron Williams,1610612762,Utah Jazz,2,2,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-108,183,1,1,20090105,UTA,GSW
+Shot Chart Detail,0020800505,236,101114,Deron Williams,1610612762,Utah Jazz,2,1,33,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090105,UTA,GSW
+Shot Chart Detail,0020800505,258,101114,Deron Williams,1610612762,Utah Jazz,2,0,0,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,8,0,80,1,1,20090105,UTA,GSW
+Shot Chart Detail,0020800505,277,101114,Deron Williams,1610612762,Utah Jazz,3,10,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090105,UTA,GSW
+Shot Chart Detail,0020800505,319,101114,Deron Williams,1610612762,Utah Jazz,3,6,1,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-2,56,1,1,20090105,UTA,GSW
+Shot Chart Detail,0020800523,78,101114,Deron Williams,1610612762,Utah Jazz,1,2,58,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090107,UTA,NOH
+Shot Chart Detail,0020800523,200,101114,Deron Williams,1610612762,Utah Jazz,2,4,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,1,198,1,1,20090107,UTA,NOH
+Shot Chart Detail,0020800523,304,101114,Deron Williams,1610612762,Utah Jazz,3,5,32,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090107,UTA,NOH
+Shot Chart Detail,0020800544,28,101114,Deron Williams,1610612762,Utah Jazz,1,8,8,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,3,1,1,20090110,UTA,DET
+Shot Chart Detail,0020800544,149,101114,Deron Williams,1610612762,Utah Jazz,2,8,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-84,154,1,1,20090110,UTA,DET
+Shot Chart Detail,0020800544,309,101114,Deron Williams,1610612762,Utah Jazz,3,5,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-54,189,1,1,20090110,UTA,DET
+Shot Chart Detail,0020800558,8,101114,Deron Williams,1610612762,Utah Jazz,1,11,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090112,UTA,IND
+Shot Chart Detail,0020800558,77,101114,Deron Williams,1610612762,Utah Jazz,1,2,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-160,116,1,1,20090112,UTA,IND
+Shot Chart Detail,0020800558,165,101114,Deron Williams,1610612762,Utah Jazz,2,7,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-70,156,1,1,20090112,UTA,IND
+Shot Chart Detail,0020800558,237,101114,Deron Williams,1610612762,Utah Jazz,2,2,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-84,236,1,1,20090112,UTA,IND
+Shot Chart Detail,0020800558,286,101114,Deron Williams,1610612762,Utah Jazz,3,10,32,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090112,UTA,IND
+Shot Chart Detail,0020800558,450,101114,Deron Williams,1610612762,Utah Jazz,4,9,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,37,187,1,1,20090112,UTA,IND
+Shot Chart Detail,0020800558,530,101114,Deron Williams,1610612762,Utah Jazz,4,1,59,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090112,UTA,IND
+Shot Chart Detail,0020800558,532,101114,Deron Williams,1610612762,Utah Jazz,4,1,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,0,287,1,1,20090112,UTA,IND
+Shot Chart Detail,0020800572,69,101114,Deron Williams,1610612762,Utah Jazz,1,4,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090114,OKC,UTA
+Shot Chart Detail,0020800572,203,101114,Deron Williams,1610612762,Utah Jazz,2,2,57,Made Shot,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,31,33,1,1,20090114,OKC,UTA
+Shot Chart Detail,0020800572,205,101114,Deron Williams,1610612762,Utah Jazz,2,2,35,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090114,OKC,UTA
+Shot Chart Detail,0020800572,222,101114,Deron Williams,1610612762,Utah Jazz,2,0,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090114,OKC,UTA
+Shot Chart Detail,0020800572,248,101114,Deron Williams,1610612762,Utah Jazz,3,10,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090114,OKC,UTA
+Shot Chart Detail,0020800572,268,101114,Deron Williams,1610612762,Utah Jazz,3,8,15,Made Shot,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,43,41,1,1,20090114,OKC,UTA
+Shot Chart Detail,0020800572,350,101114,Deron Williams,1610612762,Utah Jazz,3,2,41,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090114,OKC,UTA
+Shot Chart Detail,0020800572,378,101114,Deron Williams,1610612762,Utah Jazz,3,0,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,143,137,1,1,20090114,OKC,UTA
+Shot Chart Detail,0020800572,445,101114,Deron Williams,1610612762,Utah Jazz,4,6,53,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090114,OKC,UTA
+Shot Chart Detail,0020800584,19,101114,Deron Williams,1610612762,Utah Jazz,1,9,54,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090116,MEM,UTA
+Shot Chart Detail,0020800584,24,101114,Deron Williams,1610612762,Utah Jazz,1,9,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,12,272,1,1,20090116,MEM,UTA
+Shot Chart Detail,0020800584,32,101114,Deron Williams,1610612762,Utah Jazz,1,7,47,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090116,MEM,UTA
+Shot Chart Detail,0020800584,239,101114,Deron Williams,1610612762,Utah Jazz,2,0,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,48,261,1,1,20090116,MEM,UTA
+Shot Chart Detail,0020800584,260,101114,Deron Williams,1610612762,Utah Jazz,3,10,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,9,258,1,1,20090116,MEM,UTA
+Shot Chart Detail,0020800584,467,101114,Deron Williams,1610612762,Utah Jazz,4,3,54,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090116,MEM,UTA
+Shot Chart Detail,0020800584,490,101114,Deron Williams,1610612762,Utah Jazz,4,2,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,22,31,219,1,1,20090116,MEM,UTA
+Shot Chart Detail,0020800584,492,101114,Deron Williams,1610612762,Utah Jazz,4,1,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-166,198,1,1,20090116,MEM,UTA
+Shot Chart Detail,0020800596,29,101114,Deron Williams,1610612762,Utah Jazz,1,8,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,116,145,1,1,20090117,DAL,UTA
+Shot Chart Detail,0020800596,178,101114,Deron Williams,1610612762,Utah Jazz,2,5,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,23,-123,206,1,1,20090117,DAL,UTA
+Shot Chart Detail,0020800596,194,101114,Deron Williams,1610612762,Utah Jazz,2,3,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-139,126,1,1,20090117,DAL,UTA
+Shot Chart Detail,0020800596,210,101114,Deron Williams,1610612762,Utah Jazz,2,1,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-120,236,1,1,20090117,DAL,UTA
+Shot Chart Detail,0020800596,214,101114,Deron Williams,1610612762,Utah Jazz,2,0,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,0,241,1,1,20090117,DAL,UTA
+Shot Chart Detail,0020800596,247,101114,Deron Williams,1610612762,Utah Jazz,3,9,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,165,112,1,1,20090117,DAL,UTA
+Shot Chart Detail,0020800596,264,101114,Deron Williams,1610612762,Utah Jazz,3,8,1,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090117,DAL,UTA
+Shot Chart Detail,0020800596,284,101114,Deron Williams,1610612762,Utah Jazz,3,5,53,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090117,DAL,UTA
+Shot Chart Detail,0020800616,60,101114,Deron Williams,1610612762,Utah Jazz,1,5,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,129,-33,1,1,20090120,UTA,MIN
+Shot Chart Detail,0020800616,261,101114,Deron Williams,1610612762,Utah Jazz,3,7,42,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-51,45,1,1,20090120,UTA,MIN
+Shot Chart Detail,0020800616,312,101114,Deron Williams,1610612762,Utah Jazz,3,2,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090120,UTA,MIN
+Shot Chart Detail,0020800616,470,101114,Deron Williams,1610612762,Utah Jazz,4,0,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,103,172,1,1,20090120,UTA,MIN
+Shot Chart Detail,0020800623,170,101114,Deron Williams,1610612762,Utah Jazz,2,4,59,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-73,56,1,1,20090121,HOU,UTA
+Shot Chart Detail,0020800623,230,101114,Deron Williams,1610612762,Utah Jazz,2,0,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090121,HOU,UTA
+Shot Chart Detail,0020800623,262,101114,Deron Williams,1610612762,Utah Jazz,3,9,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090121,HOU,UTA
+Shot Chart Detail,0020800623,279,101114,Deron Williams,1610612762,Utah Jazz,3,7,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090121,HOU,UTA
+Shot Chart Detail,0020800623,290,101114,Deron Williams,1610612762,Utah Jazz,3,5,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-131,220,1,1,20090121,HOU,UTA
+Shot Chart Detail,0020800623,344,101114,Deron Williams,1610612762,Utah Jazz,3,1,12,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090121,HOU,UTA
+Shot Chart Detail,0020800623,444,101114,Deron Williams,1610612762,Utah Jazz,4,3,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-136,208,1,1,20090121,HOU,UTA
+Shot Chart Detail,0020800623,447,101114,Deron Williams,1610612762,Utah Jazz,4,3,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090121,HOU,UTA
+Shot Chart Detail,0020800623,518,101114,Deron Williams,1610612762,Utah Jazz,4,0,27,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090121,HOU,UTA
+Shot Chart Detail,0020800623,528,101114,Deron Williams,1610612762,Utah Jazz,4,0,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090121,HOU,UTA
+Shot Chart Detail,0020800644,15,101114,Deron Williams,1610612762,Utah Jazz,1,10,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,23,-73,228,1,1,20090124,UTA,CLE
+Shot Chart Detail,0020800644,221,101114,Deron Williams,1610612762,Utah Jazz,2,3,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-10,195,1,1,20090124,UTA,CLE
+Shot Chart Detail,0020800644,307,101114,Deron Williams,1610612762,Utah Jazz,3,6,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090124,UTA,CLE
+Shot Chart Detail,0020800644,323,101114,Deron Williams,1610612762,Utah Jazz,3,4,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090124,UTA,CLE
+Shot Chart Detail,0020800644,436,101114,Deron Williams,1610612762,Utah Jazz,4,3,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090124,UTA,CLE
+Shot Chart Detail,0020800653,5,101114,Deron Williams,1610612762,Utah Jazz,1,11,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090125,DEN,UTA
+Shot Chart Detail,0020800653,94,101114,Deron Williams,1610612762,Utah Jazz,1,3,30,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090125,DEN,UTA
+Shot Chart Detail,0020800653,235,101114,Deron Williams,1610612762,Utah Jazz,2,4,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090125,DEN,UTA
+Shot Chart Detail,0020800653,336,101114,Deron Williams,1610612762,Utah Jazz,3,8,36,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090125,DEN,UTA
+Shot Chart Detail,0020800653,438,101114,Deron Williams,1610612762,Utah Jazz,3,1,59,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090125,DEN,UTA
+Shot Chart Detail,0020800653,448,101114,Deron Williams,1610612762,Utah Jazz,3,1,6,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090125,DEN,UTA
+Shot Chart Detail,0020800665,16,101114,Deron Williams,1610612762,Utah Jazz,1,9,41,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090127,UTA,SAS
+Shot Chart Detail,0020800665,102,101114,Deron Williams,1610612762,Utah Jazz,1,1,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,118,131,1,1,20090127,UTA,SAS
+Shot Chart Detail,0020800665,246,101114,Deron Williams,1610612762,Utah Jazz,3,11,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,116,83,1,1,20090127,UTA,SAS
+Shot Chart Detail,0020800665,272,101114,Deron Williams,1610612762,Utah Jazz,3,7,20,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,0,42,1,1,20090127,UTA,SAS
+Shot Chart Detail,0020800665,289,101114,Deron Williams,1610612762,Utah Jazz,3,5,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,143,211,1,1,20090127,UTA,SAS
+Shot Chart Detail,0020800665,314,101114,Deron Williams,1610612762,Utah Jazz,3,2,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-171,17,1,1,20090127,UTA,SAS
+Shot Chart Detail,0020800665,408,101114,Deron Williams,1610612762,Utah Jazz,4,6,22,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-4,121,1,1,20090127,UTA,SAS
+Shot Chart Detail,0020800665,466,101114,Deron Williams,1610612762,Utah Jazz,4,0,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-146,121,1,1,20090127,UTA,SAS
+Shot Chart Detail,0020800689,22,101114,Deron Williams,1610612762,Utah Jazz,1,9,54,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090130,UTA,OKC
+Shot Chart Detail,0020800689,168,101114,Deron Williams,1610612762,Utah Jazz,2,8,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-18,200,1,1,20090130,UTA,OKC
+Shot Chart Detail,0020800689,238,101114,Deron Williams,1610612762,Utah Jazz,2,2,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,111,176,1,1,20090130,UTA,OKC
+Shot Chart Detail,0020800689,258,101114,Deron Williams,1610612762,Utah Jazz,2,0,57,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,22,1,1,20090130,UTA,OKC
+Shot Chart Detail,0020800689,264,101114,Deron Williams,1610612762,Utah Jazz,2,0,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-133,213,1,1,20090130,UTA,OKC
+Shot Chart Detail,0020800689,293,101114,Deron Williams,1610612762,Utah Jazz,3,9,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,17,242,1,1,20090130,UTA,OKC
+Shot Chart Detail,0020800689,321,101114,Deron Williams,1610612762,Utah Jazz,3,5,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-79,142,1,1,20090130,UTA,OKC
+Shot Chart Detail,0020800689,330,101114,Deron Williams,1610612762,Utah Jazz,3,4,50,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090130,UTA,OKC
+Shot Chart Detail,0020800689,456,101114,Deron Williams,1610612762,Utah Jazz,4,3,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,54,249,1,1,20090130,UTA,OKC
+Shot Chart Detail,0020800701,74,101114,Deron Williams,1610612762,Utah Jazz,1,4,10,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090131,POR,UTA
+Shot Chart Detail,0020800701,148,101114,Deron Williams,1610612762,Utah Jazz,2,8,53,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090131,POR,UTA
+Shot Chart Detail,0020800701,164,101114,Deron Williams,1610612762,Utah Jazz,2,7,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,26,242,1,1,20090131,POR,UTA
+Shot Chart Detail,0020800701,188,101114,Deron Williams,1610612762,Utah Jazz,2,4,55,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,47,239,1,1,20090131,POR,UTA
+Shot Chart Detail,0020800701,218,101114,Deron Williams,1610612762,Utah Jazz,2,2,40,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090131,POR,UTA
+Shot Chart Detail,0020800701,224,101114,Deron Williams,1610612762,Utah Jazz,2,1,57,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090131,POR,UTA
+Shot Chart Detail,0020800701,256,101114,Deron Williams,1610612762,Utah Jazz,3,10,57,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,130,105,1,1,20090131,POR,UTA
+Shot Chart Detail,0020800701,280,101114,Deron Williams,1610612762,Utah Jazz,3,8,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-45,192,1,1,20090131,POR,UTA
+Shot Chart Detail,0020800701,294,101114,Deron Williams,1610612762,Utah Jazz,3,6,14,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,110,1,1,1,20090131,POR,UTA
+Shot Chart Detail,0020800701,437,101114,Deron Williams,1610612762,Utah Jazz,4,7,4,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090131,POR,UTA
+Shot Chart Detail,0020800701,444,101114,Deron Williams,1610612762,Utah Jazz,4,6,39,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,40,187,1,1,20090131,POR,UTA
+Shot Chart Detail,0020800701,469,101114,Deron Williams,1610612762,Utah Jazz,4,5,47,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-163,131,1,1,20090131,POR,UTA
+Shot Chart Detail,0020800733,18,101114,Deron Williams,1610612762,Utah Jazz,1,10,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,32,179,1,1,20090205,UTA,DAL
+Shot Chart Detail,0020800733,26,101114,Deron Williams,1610612762,Utah Jazz,1,8,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,21,242,1,1,20090205,UTA,DAL
+Shot Chart Detail,0020800733,49,101114,Deron Williams,1610612762,Utah Jazz,1,6,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-7,154,1,1,20090205,UTA,DAL
+Shot Chart Detail,0020800733,186,101114,Deron Williams,1610612762,Utah Jazz,2,6,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090205,UTA,DAL
+Shot Chart Detail,0020800733,208,101114,Deron Williams,1610612762,Utah Jazz,2,4,14,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090205,UTA,DAL
+Shot Chart Detail,0020800733,244,101114,Deron Williams,1610612762,Utah Jazz,2,0,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-111,220,1,1,20090205,UTA,DAL
+Shot Chart Detail,0020800733,318,101114,Deron Williams,1610612762,Utah Jazz,3,5,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-56,242,1,1,20090205,UTA,DAL
+Shot Chart Detail,0020800733,331,101114,Deron Williams,1610612762,Utah Jazz,3,4,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-90,227,1,1,20090205,UTA,DAL
+Shot Chart Detail,0020800733,333,101114,Deron Williams,1610612762,Utah Jazz,3,3,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-54,241,1,1,20090205,UTA,DAL
+Shot Chart Detail,0020800733,417,101114,Deron Williams,1610612762,Utah Jazz,4,9,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,146,36,1,1,20090205,UTA,DAL
+Shot Chart Detail,0020800733,424,101114,Deron Williams,1610612762,Utah Jazz,4,7,38,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,0,41,1,1,20090205,UTA,DAL
+Shot Chart Detail,0020800741,2,101114,Deron Williams,1610612762,Utah Jazz,1,11,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090206,SAC,UTA
+Shot Chart Detail,0020800741,5,101114,Deron Williams,1610612762,Utah Jazz,1,11,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090206,SAC,UTA
+Shot Chart Detail,0020800741,24,101114,Deron Williams,1610612762,Utah Jazz,1,9,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,37,159,1,1,20090206,SAC,UTA
+Shot Chart Detail,0020800741,49,101114,Deron Williams,1610612762,Utah Jazz,1,6,25,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,56,17,1,1,20090206,SAC,UTA
+Shot Chart Detail,0020800741,51,101114,Deron Williams,1610612762,Utah Jazz,1,5,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-29,216,1,1,20090206,SAC,UTA
+Shot Chart Detail,0020800741,157,101114,Deron Williams,1610612762,Utah Jazz,2,8,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090206,SAC,UTA
+Shot Chart Detail,0020800741,171,101114,Deron Williams,1610612762,Utah Jazz,2,6,51,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090206,SAC,UTA
+Shot Chart Detail,0020800741,499,101114,Deron Williams,1610612762,Utah Jazz,4,4,32,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,53,67,1,1,20090206,SAC,UTA
+Shot Chart Detail,0020800741,508,101114,Deron Williams,1610612762,Utah Jazz,4,3,54,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-51,172,1,1,20090206,SAC,UTA
+Shot Chart Detail,0020800741,519,101114,Deron Williams,1610612762,Utah Jazz,4,2,47,Made Shot,Running Bank shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-146,71,1,1,20090206,SAC,UTA
+Shot Chart Detail,0020800741,556,101114,Deron Williams,1610612762,Utah Jazz,4,0,20,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090206,SAC,UTA
+Shot Chart Detail,0020800759,28,101114,Deron Williams,1610612762,Utah Jazz,1,8,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,1,1,1,20090208,GSW,UTA
+Shot Chart Detail,0020800759,80,101114,Deron Williams,1610612762,Utah Jazz,1,2,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,4,1,1,20090208,GSW,UTA
+Shot Chart Detail,0020800759,146,101114,Deron Williams,1610612762,Utah Jazz,2,7,59,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,14,-76,118,1,1,20090208,GSW,UTA
+Shot Chart Detail,0020800759,178,101114,Deron Williams,1610612762,Utah Jazz,2,4,44,Made Shot,Running Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,34,6,1,1,20090208,GSW,UTA
+Shot Chart Detail,0020800759,188,101114,Deron Williams,1610612762,Utah Jazz,2,3,21,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,13,23,1,1,20090208,GSW,UTA
+Shot Chart Detail,0020800759,218,101114,Deron Williams,1610612762,Utah Jazz,2,0,33,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-41,179,1,1,20090208,GSW,UTA
+Shot Chart Detail,0020800759,242,101114,Deron Williams,1610612762,Utah Jazz,3,9,6,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,7,1,1,20090208,GSW,UTA
+Shot Chart Detail,0020800759,249,101114,Deron Williams,1610612762,Utah Jazz,3,7,54,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,12,1,1,20090208,GSW,UTA
+Shot Chart Detail,0020800759,395,101114,Deron Williams,1610612762,Utah Jazz,4,10,8,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,-3,1,1,20090208,GSW,UTA
+Shot Chart Detail,0020800759,397,101114,Deron Williams,1610612762,Utah Jazz,4,9,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,9,1,1,20090208,GSW,UTA
+Shot Chart Detail,0020800759,427,101114,Deron Williams,1610612762,Utah Jazz,4,7,25,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-8,28,1,1,20090208,GSW,UTA
+Shot Chart Detail,0020800759,455,101114,Deron Williams,1610612762,Utah Jazz,4,5,9,Made Shot,Driving Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,12,1,1,20090208,GSW,UTA
+Shot Chart Detail,0020800782,6,101114,Deron Williams,1610612762,Utah Jazz,1,11,4,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090211,UTA,LAL
+Shot Chart Detail,0020800782,64,101114,Deron Williams,1610612762,Utah Jazz,1,4,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,86,149,1,1,20090211,UTA,LAL
+Shot Chart Detail,0020800782,137,101114,Deron Williams,1610612762,Utah Jazz,2,9,51,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090211,UTA,LAL
+Shot Chart Detail,0020800782,160,101114,Deron Williams,1610612762,Utah Jazz,2,6,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,84,149,1,1,20090211,UTA,LAL
+Shot Chart Detail,0020800782,186,101114,Deron Williams,1610612762,Utah Jazz,2,4,33,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,12,1,1,20090211,UTA,LAL
+Shot Chart Detail,0020800782,233,101114,Deron Williams,1610612762,Utah Jazz,2,1,12,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,1,86,1,1,20090211,UTA,LAL
+Shot Chart Detail,0020800782,246,101114,Deron Williams,1610612762,Utah Jazz,2,0,26,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,15,75,131,1,1,20090211,UTA,LAL
+Shot Chart Detail,0020800782,333,101114,Deron Williams,1610612762,Utah Jazz,3,4,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090211,UTA,LAL
+Shot Chart Detail,0020800782,342,101114,Deron Williams,1610612762,Utah Jazz,3,3,26,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090211,UTA,LAL
+Shot Chart Detail,0020800782,348,101114,Deron Williams,1610612762,Utah Jazz,3,2,55,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,15,77,134,1,1,20090211,UTA,LAL
+Shot Chart Detail,0020800782,402,101114,Deron Williams,1610612762,Utah Jazz,4,11,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090211,UTA,LAL
+Shot Chart Detail,0020800782,408,101114,Deron Williams,1610612762,Utah Jazz,4,10,38,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-30,82,1,1,20090211,UTA,LAL
+Shot Chart Detail,0020800796,58,101114,Deron Williams,1610612762,Utah Jazz,1,5,40,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,15,118,1,1,20090217,UTA,MEM
+Shot Chart Detail,0020800796,61,101114,Deron Williams,1610612762,Utah Jazz,1,5,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,88,175,1,1,20090217,UTA,MEM
+Shot Chart Detail,0020800796,240,101114,Deron Williams,1610612762,Utah Jazz,2,3,44,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-18,58,1,1,20090217,UTA,MEM
+Shot Chart Detail,0020800796,263,101114,Deron Williams,1610612762,Utah Jazz,2,1,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-97,233,1,1,20090217,UTA,MEM
+Shot Chart Detail,0020800796,337,101114,Deron Williams,1610612762,Utah Jazz,3,5,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-51,179,1,1,20090217,UTA,MEM
+Shot Chart Detail,0020800796,348,101114,Deron Williams,1610612762,Utah Jazz,3,3,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-23,216,1,1,20090217,UTA,MEM
+Shot Chart Detail,0020800796,454,101114,Deron Williams,1610612762,Utah Jazz,4,6,27,Made Shot,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-40,19,1,1,20090217,UTA,MEM
+Shot Chart Detail,0020800810,67,101114,Deron Williams,1610612762,Utah Jazz,1,3,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-82,56,1,1,20090219,UTA,BOS
+Shot Chart Detail,0020800810,157,101114,Deron Williams,1610612762,Utah Jazz,2,7,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,160,131,1,1,20090219,UTA,BOS
+Shot Chart Detail,0020800810,215,101114,Deron Williams,1610612762,Utah Jazz,2,2,45,Made Shot,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,34,25,1,1,20090219,UTA,BOS
+Shot Chart Detail,0020800810,388,101114,Deron Williams,1610612762,Utah Jazz,3,0,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-149,99,1,1,20090219,UTA,BOS
+Shot Chart Detail,0020800810,427,101114,Deron Williams,1610612762,Utah Jazz,4,9,24,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090219,UTA,BOS
+Shot Chart Detail,0020800810,517,101114,Deron Williams,1610612762,Utah Jazz,4,0,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,0,143,1,1,20090219,UTA,BOS
+Shot Chart Detail,0020800825,29,101114,Deron Williams,1610612762,Utah Jazz,1,8,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,155,197,1,1,20090221,UTA,NOH
+Shot Chart Detail,0020800825,43,101114,Deron Williams,1610612762,Utah Jazz,1,7,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090221,UTA,NOH
+Shot Chart Detail,0020800825,76,101114,Deron Williams,1610612762,Utah Jazz,1,3,24,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090221,UTA,NOH
+Shot Chart Detail,0020800825,159,101114,Deron Williams,1610612762,Utah Jazz,2,7,33,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,84,47,1,1,20090221,UTA,NOH
+Shot Chart Detail,0020800825,260,101114,Deron Williams,1610612762,Utah Jazz,3,9,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090221,UTA,NOH
+Shot Chart Detail,0020800825,262,101114,Deron Williams,1610612762,Utah Jazz,3,8,50,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090221,UTA,NOH
+Shot Chart Detail,0020800825,388,101114,Deron Williams,1610612762,Utah Jazz,4,7,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,102,187,1,1,20090221,UTA,NOH
+Shot Chart Detail,0020800825,391,101114,Deron Williams,1610612762,Utah Jazz,4,6,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,81,235,1,1,20090221,UTA,NOH
+Shot Chart Detail,0020800825,460,101114,Deron Williams,1610612762,Utah Jazz,4,0,25,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,14,78,127,1,1,20090221,UTA,NOH
+Shot Chart Detail,0020800839,22,101114,Deron Williams,1610612762,Utah Jazz,1,7,43,Made Shot,Floating Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-10,30,1,1,20090223,UTA,ATL
+Shot Chart Detail,0020800839,28,101114,Deron Williams,1610612762,Utah Jazz,1,6,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,40,184,1,1,20090223,UTA,ATL
+Shot Chart Detail,0020800839,58,101114,Deron Williams,1610612762,Utah Jazz,1,3,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090223,UTA,ATL
+Shot Chart Detail,0020800839,156,101114,Deron Williams,1610612762,Utah Jazz,2,7,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-125,249,1,1,20090223,UTA,ATL
+Shot Chart Detail,0020800839,168,101114,Deron Williams,1610612762,Utah Jazz,2,5,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090223,UTA,ATL
+Shot Chart Detail,0020800839,190,101114,Deron Williams,1610612762,Utah Jazz,2,1,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-19,209,1,1,20090223,UTA,ATL
+Shot Chart Detail,0020800839,224,101114,Deron Williams,1610612762,Utah Jazz,3,9,14,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090223,UTA,ATL
+Shot Chart Detail,0020800854,13,101114,Deron Williams,1610612762,Utah Jazz,1,10,31,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090225,MIN,UTA
+Shot Chart Detail,0020800854,264,101114,Deron Williams,1610612762,Utah Jazz,3,10,29,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090225,MIN,UTA
+Shot Chart Detail,0020800854,423,101114,Deron Williams,1610612762,Utah Jazz,4,8,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-130,99,1,1,20090225,MIN,UTA
+Shot Chart Detail,0020800854,472,101114,Deron Williams,1610612762,Utah Jazz,4,4,1,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090225,MIN,UTA
+Shot Chart Detail,0020800881,4,101114,Deron Williams,1610612762,Utah Jazz,1,11,14,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090228,UTA,SAC
+Shot Chart Detail,0020800881,7,101114,Deron Williams,1610612762,Utah Jazz,1,10,44,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090228,UTA,SAC
+Shot Chart Detail,0020800881,14,101114,Deron Williams,1610612762,Utah Jazz,1,9,8,Made Shot,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,39,25,1,1,20090228,UTA,SAC
+Shot Chart Detail,0020800881,160,101114,Deron Williams,1610612762,Utah Jazz,2,7,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090228,UTA,SAC
+Shot Chart Detail,0020800881,221,101114,Deron Williams,1610612762,Utah Jazz,2,0,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-82,233,1,1,20090228,UTA,SAC
+Shot Chart Detail,0020800891,100,101114,Deron Williams,1610612762,Utah Jazz,1,1,38,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,14,1,1,20090301,GSW,UTA
+Shot Chart Detail,0020800891,248,101114,Deron Williams,1610612762,Utah Jazz,2,1,6,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-19,1,1,1,20090301,GSW,UTA
+Shot Chart Detail,0020800891,513,101114,Deron Williams,1610612762,Utah Jazz,4,3,6,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,10,173,1,1,20090301,GSW,UTA
+Shot Chart Detail,0020800912,85,101114,Deron Williams,1610612762,Utah Jazz,1,1,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,43,179,1,1,20090304,UTA,HOU
+Shot Chart Detail,0020800912,152,101114,Deron Williams,1610612762,Utah Jazz,2,7,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,23,-127,203,1,1,20090304,UTA,HOU
+Shot Chart Detail,0020800912,162,101114,Deron Williams,1610612762,Utah Jazz,2,6,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090304,UTA,HOU
+Shot Chart Detail,0020800912,186,101114,Deron Williams,1610612762,Utah Jazz,2,4,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,146,195,1,1,20090304,UTA,HOU
+Shot Chart Detail,0020800912,193,101114,Deron Williams,1610612762,Utah Jazz,2,3,7,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,31,42,1,1,20090304,UTA,HOU
+Shot Chart Detail,0020800912,250,101114,Deron Williams,1610612762,Utah Jazz,3,9,55,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-67,121,1,1,20090304,UTA,HOU
+Shot Chart Detail,0020800912,287,101114,Deron Williams,1610612762,Utah Jazz,3,5,36,Made Shot,Running Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,2,33,1,1,20090304,UTA,HOU
+Shot Chart Detail,0020800912,400,101114,Deron Williams,1610612762,Utah Jazz,4,7,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-190,7,1,1,20090304,UTA,HOU
+Shot Chart Detail,0020800912,408,101114,Deron Williams,1610612762,Utah Jazz,4,7,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090304,UTA,HOU
+Shot Chart Detail,0020800912,475,101114,Deron Williams,1610612762,Utah Jazz,4,0,56,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,50,123,1,1,20090304,UTA,HOU
+Shot Chart Detail,0020800912,477,101114,Deron Williams,1610612762,Utah Jazz,4,0,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-120,156,1,1,20090304,UTA,HOU
+Shot Chart Detail,0020800926,37,101114,Deron Williams,1610612762,Utah Jazz,1,8,6,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090306,UTA,DEN
+Shot Chart Detail,0020800926,62,101114,Deron Williams,1610612762,Utah Jazz,1,4,6,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090306,UTA,DEN
+Shot Chart Detail,0020800926,154,101114,Deron Williams,1610612762,Utah Jazz,2,8,36,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090306,UTA,DEN
+Shot Chart Detail,0020800926,189,101114,Deron Williams,1610612762,Utah Jazz,2,5,43,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090306,UTA,DEN
+Shot Chart Detail,0020800926,362,101114,Deron Williams,1610612762,Utah Jazz,3,5,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-150,129,1,1,20090306,UTA,DEN
+Shot Chart Detail,0020800926,388,101114,Deron Williams,1610612762,Utah Jazz,3,3,11,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,0,74,1,1,20090306,UTA,DEN
+Shot Chart Detail,0020800926,410,101114,Deron Williams,1610612762,Utah Jazz,3,1,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-38,186,1,1,20090306,UTA,DEN
+Shot Chart Detail,0020800926,525,101114,Deron Williams,1610612762,Utah Jazz,4,4,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,127,170,1,1,20090306,UTA,DEN
+Shot Chart Detail,0020800937,31,101114,Deron Williams,1610612762,Utah Jazz,1,7,44,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090308,TOR,UTA
+Shot Chart Detail,0020800937,54,101114,Deron Williams,1610612762,Utah Jazz,1,5,32,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-51,104,1,1,20090308,TOR,UTA
+Shot Chart Detail,0020800937,242,101114,Deron Williams,1610612762,Utah Jazz,2,0,2,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,14,75,121,1,1,20090308,TOR,UTA
+Shot Chart Detail,0020800937,276,101114,Deron Williams,1610612762,Utah Jazz,3,8,12,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,92,184,1,1,20090308,TOR,UTA
+Shot Chart Detail,0020800937,297,101114,Deron Williams,1610612762,Utah Jazz,3,5,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-8,246,1,1,20090308,TOR,UTA
+Shot Chart Detail,0020800937,313,101114,Deron Williams,1610612762,Utah Jazz,3,4,42,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-86,160,1,1,20090308,TOR,UTA
+Shot Chart Detail,0020800937,358,101114,Deron Williams,1610612762,Utah Jazz,3,1,51,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090308,TOR,UTA
+Shot Chart Detail,0020800937,435,101114,Deron Williams,1610612762,Utah Jazz,4,7,13,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090308,TOR,UTA
+Shot Chart Detail,0020800937,451,101114,Deron Williams,1610612762,Utah Jazz,4,5,22,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090308,TOR,UTA
+Shot Chart Detail,0020800937,488,101114,Deron Williams,1610612762,Utah Jazz,4,1,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,62,208,1,1,20090308,TOR,UTA
+Shot Chart Detail,0020800949,232,101114,Deron Williams,1610612762,Utah Jazz,2,0,37,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,100,126,1,1,20090310,IND,UTA
+Shot Chart Detail,0020800955,26,101114,Deron Williams,1610612762,Utah Jazz,1,9,7,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,54,184,1,1,20090311,ATL,UTA
+Shot Chart Detail,0020800955,179,101114,Deron Williams,1610612762,Utah Jazz,2,7,47,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,12,1,1,20090311,ATL,UTA
+Shot Chart Detail,0020800955,195,101114,Deron Williams,1610612762,Utah Jazz,2,5,32,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,7,1,1,20090311,ATL,UTA
+Shot Chart Detail,0020800955,201,101114,Deron Williams,1610612762,Utah Jazz,2,4,41,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090311,ATL,UTA
+Shot Chart Detail,0020800955,248,101114,Deron Williams,1610612762,Utah Jazz,2,0,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-43,268,1,1,20090311,ATL,UTA
+Shot Chart Detail,0020800955,342,101114,Deron Williams,1610612762,Utah Jazz,3,3,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-87,149,1,1,20090311,ATL,UTA
+Shot Chart Detail,0020800955,345,101114,Deron Williams,1610612762,Utah Jazz,3,2,20,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,3,1,1,20090311,ATL,UTA
+Shot Chart Detail,0020800955,360,101114,Deron Williams,1610612762,Utah Jazz,3,1,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-122,145,1,1,20090311,ATL,UTA
+Shot Chart Detail,0020800955,391,101114,Deron Williams,1610612762,Utah Jazz,4,10,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,116,146,1,1,20090311,ATL,UTA
+Shot Chart Detail,0020800979,8,101114,Deron Williams,1610612762,Utah Jazz,1,10,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090314,MIA,UTA
+Shot Chart Detail,0020800979,27,101114,Deron Williams,1610612762,Utah Jazz,1,7,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,174,112,1,1,20090314,MIA,UTA
+Shot Chart Detail,0020800979,69,101114,Deron Williams,1610612762,Utah Jazz,1,3,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090314,MIA,UTA
+Shot Chart Detail,0020800979,150,101114,Deron Williams,1610612762,Utah Jazz,2,6,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,84,116,1,1,20090314,MIA,UTA
+Shot Chart Detail,0020800979,202,101114,Deron Williams,1610612762,Utah Jazz,2,2,37,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,75,15,1,1,20090314,MIA,UTA
+Shot Chart Detail,0020800979,236,101114,Deron Williams,1610612762,Utah Jazz,3,11,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-120,154,1,1,20090314,MIA,UTA
+Shot Chart Detail,0020800979,261,101114,Deron Williams,1610612762,Utah Jazz,3,9,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-160,187,1,1,20090314,MIA,UTA
+Shot Chart Detail,0020800979,314,101114,Deron Williams,1610612762,Utah Jazz,3,5,9,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,0,48,1,1,20090314,MIA,UTA
+Shot Chart Detail,0020800979,432,101114,Deron Williams,1610612762,Utah Jazz,4,6,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090314,MIA,UTA
+Shot Chart Detail,0020800979,584,101114,Deron Williams,1610612762,Utah Jazz,6,4,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,105,165,1,1,20090314,MIA,UTA
+Shot Chart Detail,0020800979,593,101114,Deron Williams,1610612762,Utah Jazz,6,2,44,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090314,MIA,UTA
+Shot Chart Detail,0020800979,617,101114,Deron Williams,1610612762,Utah Jazz,6,0,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,132,168,1,1,20090314,MIA,UTA
+Shot Chart Detail,0020800992,135,101114,Deron Williams,1610612762,Utah Jazz,1,2,10,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090315,ORL,UTA
+Shot Chart Detail,0020800992,306,101114,Deron Williams,1610612762,Utah Jazz,3,9,40,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,18,56,1,1,20090315,ORL,UTA
+Shot Chart Detail,0020800992,369,101114,Deron Williams,1610612762,Utah Jazz,3,4,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-185,71,1,1,20090315,ORL,UTA
+Shot Chart Detail,0020801006,35,101114,Deron Williams,1610612762,Utah Jazz,1,8,36,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090317,UTA,WAS
+Shot Chart Detail,0020801006,38,101114,Deron Williams,1610612762,Utah Jazz,1,8,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090317,UTA,WAS
+Shot Chart Detail,0020801006,322,101114,Deron Williams,1610612762,Utah Jazz,3,8,58,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090317,UTA,WAS
+Shot Chart Detail,0020801006,404,101114,Deron Williams,1610612762,Utah Jazz,3,2,39,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090317,UTA,WAS
+Shot Chart Detail,0020801029,205,101114,Deron Williams,1610612762,Utah Jazz,2,2,7,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,95,36,1,1,20090320,OKC,UTA
+Shot Chart Detail,0020801029,234,101114,Deron Williams,1610612762,Utah Jazz,2,0,30,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090320,OKC,UTA
+Shot Chart Detail,0020801029,261,101114,Deron Williams,1610612762,Utah Jazz,3,9,27,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090320,OKC,UTA
+Shot Chart Detail,0020801029,265,101114,Deron Williams,1610612762,Utah Jazz,3,8,18,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090320,OKC,UTA
+Shot Chart Detail,0020801029,268,101114,Deron Williams,1610612762,Utah Jazz,3,7,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-142,94,1,1,20090320,OKC,UTA
+Shot Chart Detail,0020801029,283,101114,Deron Williams,1610612762,Utah Jazz,3,6,9,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090320,OKC,UTA
+Shot Chart Detail,0020801029,285,101114,Deron Williams,1610612762,Utah Jazz,3,5,39,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090320,OKC,UTA
+Shot Chart Detail,0020801029,323,101114,Deron Williams,1610612762,Utah Jazz,3,1,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,143,129,1,1,20090320,OKC,UTA
+Shot Chart Detail,0020801029,377,101114,Deron Williams,1610612762,Utah Jazz,4,9,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,151,129,1,1,20090320,OKC,UTA
+Shot Chart Detail,0020801029,432,101114,Deron Williams,1610612762,Utah Jazz,4,4,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-163,85,1,1,20090320,OKC,UTA
+Shot Chart Detail,0020801029,450,101114,Deron Williams,1610612762,Utah Jazz,4,2,24,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090320,OKC,UTA
+Shot Chart Detail,0020801058,42,101114,Deron Williams,1610612762,Utah Jazz,1,7,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,7,165,1,1,20090324,UTA,HOU
+Shot Chart Detail,0020801058,67,101114,Deron Williams,1610612762,Utah Jazz,1,4,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-157,189,1,1,20090324,UTA,HOU
+Shot Chart Detail,0020801058,213,101114,Deron Williams,1610612762,Utah Jazz,2,1,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,147,9,1,1,20090324,UTA,HOU
+Shot Chart Detail,0020801058,258,101114,Deron Williams,1610612762,Utah Jazz,3,9,14,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090324,UTA,HOU
+Shot Chart Detail,0020801058,271,101114,Deron Williams,1610612762,Utah Jazz,3,7,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090324,UTA,HOU
+Shot Chart Detail,0020801058,471,101114,Deron Williams,1610612762,Utah Jazz,4,2,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-87,145,1,1,20090324,UTA,HOU
+Shot Chart Detail,0020801058,494,101114,Deron Williams,1610612762,Utah Jazz,4,0,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090324,UTA,HOU
+Shot Chart Detail,0020801069,39,101114,Deron Williams,1610612762,Utah Jazz,1,8,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,146,78,1,1,20090325,PHX,UTA
+Shot Chart Detail,0020801069,43,101114,Deron Williams,1610612762,Utah Jazz,1,7,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,78,153,1,1,20090325,PHX,UTA
+Shot Chart Detail,0020801069,70,101114,Deron Williams,1610612762,Utah Jazz,1,4,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,0,274,1,1,20090325,PHX,UTA
+Shot Chart Detail,0020801069,195,101114,Deron Williams,1610612762,Utah Jazz,2,4,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-166,53,1,1,20090325,PHX,UTA
+Shot Chart Detail,0020801069,207,101114,Deron Williams,1610612762,Utah Jazz,2,2,54,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090325,PHX,UTA
+Shot Chart Detail,0020801069,215,101114,Deron Williams,1610612762,Utah Jazz,2,1,20,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090325,PHX,UTA
+Shot Chart Detail,0020801069,383,101114,Deron Williams,1610612762,Utah Jazz,4,11,27,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090325,PHX,UTA
+Shot Chart Detail,0020801069,472,101114,Deron Williams,1610612762,Utah Jazz,4,4,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,6,247,1,1,20090325,PHX,UTA
+Shot Chart Detail,0020801069,475,101114,Deron Williams,1610612762,Utah Jazz,4,3,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,4,258,1,1,20090325,PHX,UTA
+Shot Chart Detail,0020801089,46,101114,Deron Williams,1610612762,Utah Jazz,1,6,37,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090328,UTA,PHX
+Shot Chart Detail,0020801089,232,101114,Deron Williams,1610612762,Utah Jazz,2,4,29,Made Shot,Floating Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,1,28,1,1,20090328,UTA,PHX
+Shot Chart Detail,0020801089,249,101114,Deron Williams,1610612762,Utah Jazz,2,2,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,83,30,1,1,20090328,UTA,PHX
+Shot Chart Detail,0020801089,533,101114,Deron Williams,1610612762,Utah Jazz,4,0,25,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-158,6,1,1,20090328,UTA,PHX
+Shot Chart Detail,0020801089,540,101114,Deron Williams,1610612762,Utah Jazz,4,0,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,0,179,1,1,20090328,UTA,PHX
+Shot Chart Detail,0020801089,573,101114,Deron Williams,1610612762,Utah Jazz,5,3,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090328,UTA,PHX
+Shot Chart Detail,0020801102,16,101114,Deron Williams,1610612762,Utah Jazz,1,9,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090330,UTA,NYK
+Shot Chart Detail,0020801102,69,101114,Deron Williams,1610612762,Utah Jazz,1,4,21,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-158,83,1,1,20090330,UTA,NYK
+Shot Chart Detail,0020801102,90,101114,Deron Williams,1610612762,Utah Jazz,1,1,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-179,82,1,1,20090330,UTA,NYK
+Shot Chart Detail,0020801102,149,101114,Deron Williams,1610612762,Utah Jazz,2,7,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090330,UTA,NYK
+Shot Chart Detail,0020801102,203,101114,Deron Williams,1610612762,Utah Jazz,2,3,20,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090330,UTA,NYK
+Shot Chart Detail,0020801102,223,101114,Deron Williams,1610612762,Utah Jazz,2,1,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-153,42,1,1,20090330,UTA,NYK
+Shot Chart Detail,0020801102,226,101114,Deron Williams,1610612762,Utah Jazz,2,0,37,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,15,80,137,1,1,20090330,UTA,NYK
+Shot Chart Detail,0020801102,285,101114,Deron Williams,1610612762,Utah Jazz,3,9,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,47,176,1,1,20090330,UTA,NYK
+Shot Chart Detail,0020801102,391,101114,Deron Williams,1610612762,Utah Jazz,4,10,4,Made Shot,Running Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-4,33,1,1,20090330,UTA,NYK
+Shot Chart Detail,0020801102,439,101114,Deron Williams,1610612762,Utah Jazz,4,6,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090330,UTA,NYK
+Shot Chart Detail,0020801111,154,101114,Deron Williams,1610612762,Utah Jazz,2,8,26,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090331,POR,UTA
+Shot Chart Detail,0020801111,159,101114,Deron Williams,1610612762,Utah Jazz,2,7,12,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,23,184,151,1,1,20090331,POR,UTA
+Shot Chart Detail,0020801111,186,101114,Deron Williams,1610612762,Utah Jazz,2,4,16,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090331,POR,UTA
+Shot Chart Detail,0020801111,452,101114,Deron Williams,1610612762,Utah Jazz,4,3,19,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090331,POR,UTA
+Shot Chart Detail,0020801124,29,101114,Deron Williams,1610612762,Utah Jazz,1,8,51,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090402,DEN,UTA
+Shot Chart Detail,0020801124,503,101114,Deron Williams,1610612762,Utah Jazz,4,8,30,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090402,DEN,UTA
+Shot Chart Detail,0020801124,546,101114,Deron Williams,1610612762,Utah Jazz,4,5,31,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090402,DEN,UTA
+Shot Chart Detail,0020801124,603,101114,Deron Williams,1610612762,Utah Jazz,4,1,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090402,DEN,UTA
+Shot Chart Detail,0020801124,623,101114,Deron Williams,1610612762,Utah Jazz,4,0,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090402,DEN,UTA
+Shot Chart Detail,0020801131,27,101114,Deron Williams,1610612762,Utah Jazz,1,8,35,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,7,138,1,1,20090403,UTA,MIN
+Shot Chart Detail,0020801131,51,101114,Deron Williams,1610612762,Utah Jazz,1,6,10,Made Shot,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,37,19,1,1,20090403,UTA,MIN
+Shot Chart Detail,0020801131,73,101114,Deron Williams,1610612762,Utah Jazz,1,4,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090403,UTA,MIN
+Shot Chart Detail,0020801131,121,101114,Deron Williams,1610612762,Utah Jazz,1,0,29,Made Shot,Jump Shot,3PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,23,-90,219,1,1,20090403,UTA,MIN
+Shot Chart Detail,0020801131,192,101114,Deron Williams,1610612762,Utah Jazz,2,4,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090403,UTA,MIN
+Shot Chart Detail,0020801131,197,101114,Deron Williams,1610612762,Utah Jazz,2,3,41,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090403,UTA,MIN
+Shot Chart Detail,0020801131,208,101114,Deron Williams,1610612762,Utah Jazz,2,2,39,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-52,25,1,1,20090403,UTA,MIN
+Shot Chart Detail,0020801131,226,101114,Deron Williams,1610612762,Utah Jazz,2,0,8,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090403,UTA,MIN
+Shot Chart Detail,0020801131,244,101114,Deron Williams,1610612762,Utah Jazz,3,10,46,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090403,UTA,MIN
+Shot Chart Detail,0020801131,327,101114,Deron Williams,1610612762,Utah Jazz,3,0,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-10,244,1,1,20090403,UTA,MIN
+Shot Chart Detail,0020801131,378,101114,Deron Williams,1610612762,Utah Jazz,4,8,8,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,13,75,110,1,1,20090403,UTA,MIN
+Shot Chart Detail,0020801131,457,101114,Deron Williams,1610612762,Utah Jazz,4,0,27,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090403,UTA,MIN
+Shot Chart Detail,0020801148,28,101114,Deron Williams,1610612762,Utah Jazz,1,7,27,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090405,NOH,UTA
+Shot Chart Detail,0020801148,55,101114,Deron Williams,1610612762,Utah Jazz,1,4,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090405,NOH,UTA
+Shot Chart Detail,0020801148,69,101114,Deron Williams,1610612762,Utah Jazz,1,3,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090405,NOH,UTA
+Shot Chart Detail,0020801148,258,101114,Deron Williams,1610612762,Utah Jazz,3,9,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,102,143,1,1,20090405,NOH,UTA
+Shot Chart Detail,0020801148,269,101114,Deron Williams,1610612762,Utah Jazz,3,8,30,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090405,NOH,UTA
+Shot Chart Detail,0020801148,288,101114,Deron Williams,1610612762,Utah Jazz,3,5,29,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090405,NOH,UTA
+Shot Chart Detail,0020801148,309,101114,Deron Williams,1610612762,Utah Jazz,3,3,52,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,110,142,1,1,20090405,NOH,UTA
+Shot Chart Detail,0020801148,460,101114,Deron Williams,1610612762,Utah Jazz,4,2,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,177,179,1,1,20090405,NOH,UTA
+Shot Chart Detail,0020801171,77,101114,Deron Williams,1610612762,Utah Jazz,1,3,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-155,192,1,1,20090408,DAL,UTA
+Shot Chart Detail,0020801171,254,101114,Deron Williams,1610612762,Utah Jazz,2,0,3,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090408,DAL,UTA
+Shot Chart Detail,0020801171,326,101114,Deron Williams,1610612762,Utah Jazz,3,7,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,86,231,1,1,20090408,DAL,UTA
+Shot Chart Detail,0020801171,334,101114,Deron Williams,1610612762,Utah Jazz,3,6,4,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090408,DAL,UTA
+Shot Chart Detail,0020801171,367,101114,Deron Williams,1610612762,Utah Jazz,3,3,16,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090408,DAL,UTA
+Shot Chart Detail,0020801185,22,101114,Deron Williams,1610612762,Utah Jazz,1,8,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,133,205,1,1,20090410,SAS,UTA
+Shot Chart Detail,0020801185,72,101114,Deron Williams,1610612762,Utah Jazz,1,3,1,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,1,1,1,20090410,SAS,UTA
+Shot Chart Detail,0020801185,187,101114,Deron Williams,1610612762,Utah Jazz,2,3,48,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-106,142,1,1,20090410,SAS,UTA
+Shot Chart Detail,0020801185,203,101114,Deron Williams,1610612762,Utah Jazz,2,1,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,-2,1,1,20090410,SAS,UTA
+Shot Chart Detail,0020801185,236,101114,Deron Williams,1610612762,Utah Jazz,3,9,42,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-5,30,1,1,20090410,SAS,UTA
+Shot Chart Detail,0020801185,376,101114,Deron Williams,1610612762,Utah Jazz,4,10,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,15,1,1,20090410,SAS,UTA
+Shot Chart Detail,0020801185,392,101114,Deron Williams,1610612762,Utah Jazz,4,8,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,7,1,1,20090410,SAS,UTA
+Shot Chart Detail,0020801185,468,101114,Deron Williams,1610612762,Utah Jazz,4,3,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,1,1,1,20090410,SAS,UTA
+Shot Chart Detail,0020801185,522,101114,Deron Williams,1610612762,Utah Jazz,4,0,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,11,1,1,20090410,SAS,UTA
+Shot Chart Detail,0020801194,40,101114,Deron Williams,1610612762,Utah Jazz,1,8,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-112,216,1,1,20090411,UTA,GSW
+Shot Chart Detail,0020801194,52,101114,Deron Williams,1610612762,Utah Jazz,1,7,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,84,156,1,1,20090411,UTA,GSW
+Shot Chart Detail,0020801194,74,101114,Deron Williams,1610612762,Utah Jazz,1,4,37,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090411,UTA,GSW
+Shot Chart Detail,0020801194,99,101114,Deron Williams,1610612762,Utah Jazz,1,2,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,23,-112,211,1,1,20090411,UTA,GSW
+Shot Chart Detail,0020801194,299,101114,Deron Williams,1610612762,Utah Jazz,3,7,42,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,10,45,1,1,20090411,UTA,GSW
+Shot Chart Detail,0020801194,426,101114,Deron Williams,1610612762,Utah Jazz,4,8,39,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090411,UTA,GSW
+Shot Chart Detail,0020801210,111,101114,Deron Williams,1610612762,Utah Jazz,1,0,26,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,12,73,104,1,1,20090413,UTA,LAC
+Shot Chart Detail,0020801210,281,101114,Deron Williams,1610612762,Utah Jazz,3,10,31,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,69,74,1,1,20090413,UTA,LAC
+Shot Chart Detail,0020801210,315,101114,Deron Williams,1610612762,Utah Jazz,3,7,34,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090413,UTA,LAC
+Shot Chart Detail,0020801216,45,101114,Deron Williams,1610612762,Utah Jazz,1,7,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090414,LAL,UTA
+Shot Chart Detail,0020801216,78,101114,Deron Williams,1610612762,Utah Jazz,1,3,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-53,207,1,1,20090414,LAL,UTA
+Shot Chart Detail,0020801216,307,101114,Deron Williams,1610612762,Utah Jazz,3,10,10,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090414,LAL,UTA
+Shot Chart Detail,0020801216,342,101114,Deron Williams,1610612762,Utah Jazz,3,6,51,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090414,LAL,UTA
+Shot Chart Detail,0020801216,357,101114,Deron Williams,1610612762,Utah Jazz,3,5,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090414,LAL,UTA
+Shot Chart Detail,0020801216,394,101114,Deron Williams,1610612762,Utah Jazz,3,2,58,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090414,LAL,UTA
+Shot Chart Detail,0020801216,417,101114,Deron Williams,1610612762,Utah Jazz,3,1,35,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-19,77,1,1,20090414,LAL,UTA
+Shot Chart Detail,0020801216,532,101114,Deron Williams,1610612762,Utah Jazz,4,3,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090414,LAL,UTA

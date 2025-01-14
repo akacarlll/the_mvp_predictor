@@ -1,0 +1,31 @@
+City,Team,Conference,ConferenceRecord,Rank,W,L,Win%,Home,Road,Last10,Season,Year,FullTeamName,TEAM_ABBREVIATION
+San Antonio,Spurs,West,38-14,1,61,21,0.744,36-5,25-16,4-6,2010-11,2011,San Antonio Spurs,SAS
+Chicago,Bulls,East,39-13,1,62,20,0.756,36-5,26-15,9-1,2010-11,2011,Chicago Bulls,CHI
+Los Angeles,Lakers,West,36-16,2,57,25,0.695,30-11,27-14,5-5,2010-11,2011,Los Angeles Lakers,LAL
+Miami,Heat,East,38-14,2,58,24,0.707,30-11,28-13,8-2,2010-11,2011,Miami Heat,MIA
+Boston,Celtics,East,37-15,3,56,26,0.683,33-8,23-18,5-5,2010-11,2011,Boston Celtics,BOS
+Dallas,Mavericks,West,35-17,3,57,25,0.695,29-12,28-13,6-4,2010-11,2011,Dallas Mavericks,DAL
+Oklahoma City,Thunder,West,33-19,4,55,27,0.671,30-11,25-16,7-3,2010-11,2011,Oklahoma City Thunder,OKC
+Orlando,Magic,East,36-16,4,52,30,0.634,29-12,23-18,6-4,2010-11,2011,Orlando Magic,ORL
+Denver,Nuggets,West,30-22,5,50,32,0.61,33-8,17-24,7-3,2010-11,2011,Denver Nuggets,DEN
+Atlanta,Hawks,East,31-21,5,44,38,0.537,24-17,20-21,4-6,2010-11,2011,Atlanta Hawks,ATL
+New York,Knicks,East,28-24,6,42,40,0.512,23-18,19-22,7-3,2010-11,2011,New York Knicks,NYK
+Portland,Trail Blazers,West,30-22,6,48,34,0.585,30-11,18-23,6-4,2010-11,2011,Portland Trail Blazers,POR
+Philadelphia,76ers,East,25-27,7,41,41,0.5,26-15,15-26,4-6,2010-11,2011,Philadelphia 76ers,PHI
+New Orleans,Hornets,West,27-25,7,46,36,0.561,28-13,18-23,5-5,2010-11,2011,New Orleans Hornets,
+Indiana,Pacers,East,28-24,8,37,45,0.451,24-17,13-28,5-5,2010-11,2011,Indiana Pacers,IND
+Memphis,Grizzlies,West,30-22,8,46,36,0.561,30-11,16-25,6-4,2010-11,2011,Memphis Grizzlies,MEM
+Houston,Rockets,West,25-27,9,43,39,0.524,25-16,18-23,5-5,2010-11,2011,Houston Rockets,HOU
+Milwaukee,Bucks,East,26-26,9,35,47,0.427,22-19,13-28,6-4,2010-11,2011,Milwaukee Bucks,MIL
+Phoenix,Suns,West,23-29,10,40,42,0.488,23-18,17-24,4-6,2010-11,2011,Phoenix Suns,PHX
+Charlotte,Bobcats,East,22-30,10,34,48,0.415,21-20,13-28,4-6,2010-11,2011,Charlotte Bobcats,
+Detroit,Pistons,East,22-30,11,30,52,0.366,21-20,9-32,5-5,2010-11,2011,Detroit Pistons,DET
+Utah,Jazz,West,21-31,11,39,43,0.476,21-20,18-23,3-7,2010-11,2011,Utah Jazz,UTA
+New Jersey,Nets,East,13-39,12,24,58,0.293,19-22,5-36,1-9,2010-11,2011,New Jersey Nets,
+Golden State,Warriors,West,21-31,12,36,46,0.439,26-15,10-31,6-4,2010-11,2011,Golden State Warriors,GSW
+Los Angeles,Clippers,West,19-33,13,32,50,0.39,23-18,9-32,4-6,2010-11,2011,Los Angeles Clippers,LAC
+Washington,Wizards,East,16-36,13,23,59,0.28,20-21,3-38,6-4,2010-11,2011,Washington Wizards,WAS
+Sacramento,Kings,West,15-37,14,24,58,0.293,11-30,13-28,4-6,2010-11,2011,Sacramento Kings,SAC
+Toronto,Raptors,East,14-38,14,22,60,0.268,16-25,6-35,2-8,2010-11,2011,Toronto Raptors,TOR
+Cleveland,Cavaliers,East,15-37,15,19,63,0.232,12-29,7-34,5-5,2010-11,2011,Cleveland Cavaliers,CLE
+Minnesota,Timberwolves,West,7-45,15,17,65,0.207,12-29,5-36,0-10,2010-11,2011,Minnesota Timberwolves,MIN
