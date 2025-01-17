@@ -1,0 +1,538 @@
+RK,NAME,TEAM,SALARY,YEAR,Pos
+1,Kobe Bryant,Los Angeles Lakers,24806250,2011,SF
+2,Rashard Lewis,Washington Wizards,19573711,2011,PF
+3,Tim Duncan,San Antonio Spurs,18835381,2011,C
+4,Kevin Garnett,Boston Celtics,18832044,2011,PF
+5,Michael Redd,Milwaukee Bucks,18300000,2011,SG
+6,Pau Gasol,Los Angeles Lakers,17823000,2011,PF
+7,Andrei Kirilenko,Utah Jazz,17823000,2011,SF
+8,Gilbert Arenas,Orlando Magic,17730694,2011,PG
+9,Yao Ming,Houston Rockets,17686100,2011,C
+10,Zach Randolph,Memphis Grizzlies,17666666,2011,F
+11,Vince Carter,Phoenix Suns,17522375,2011,G
+12,Dirk Nowitzki,Dallas Mavericks,17278618,2011,F
+13,Carmelo Anthony,New York Knicks,17149243,2011,PF
+14,Dwight Howard,Orlando Magic,16647180,2011,C
+15,Kenyon Martin,Denver Nuggets,16545454,2011,F
+16,Amar'e Stoudemire,New York Knicks,16486611,2011,C
+17,Joe Johnson,Atlanta Hawks,16324500,2011,G
+18,Elton Brand,Philadelphia 76ers,15959099,2011,PF
+19,Chris Paul,New Orleans Hornets,14940153,2011,PG
+20,Deron Williams,New Jersey Nets,14940153,2011,PG
+21,Chris Bosh,Miami Heat,14500000,2011,PF
+22,LeBron James,Miami Heat,14500000,2011,SF
+23,Jason Richardson,Orlando Magic,14444443,2011,SG
+24,Carlos Boozer,Chicago Bulls,14400000,2011,PF
+25,Dwyane Wade,Miami Heat,14200000,2011,G
+26,Baron Davis,Cleveland Cavaliers,14000000,2011,PG
+27,Paul Pierce,Boston Celtics,13876321,2011,SF
+28,Andrew Bynum,Los Angeles Lakers,13700000,2011,C
+29,Brandon Roy,Portland Trail Blazers,13603750,2011,SG
+30,Rudy Gay,Memphis Grizzlies,13603750,2011,SF
+31,Tony Parker,San Antonio Spurs,13500000,2011,G
+32,Samuel Dalembert,Sacramento Kings,13428129,2011,C
+33,Antawn Jamison,Cleveland Cavaliers,13358905,2011,PF
+34,Nick Collison,Oklahoma City Thunder,13270000,2011,F
+35,Chauncey Billups,New York Knicks,13150000,2011,PG
+36,Al Jefferson,Utah Jazz,13000000,2011,C
+37,Tyson Chandler,Dallas Mavericks,12600000,2011,C
+38,Richard Hamilton,Detroit Pistons,12500000,2011,SG
+39,Andre Iguodala,Philadelphia 76ers,12345250,2011,F
+40,Manu Ginobili,San Antonio Spurs,11854584,2011,G
+41,Chris Kaman,LA Clippers,11800000,2011,C
+42,Marcus Camby,Portland Trail Blazers,11749832,2011,C
+43,Josh Smith,Atlanta Hawks,11700000,2011,PF
+44,Eddy Curry,Dallas Mavericks,11530592,2011,NA
+45,Emeka Okafor,New Orleans Hornets,11495000,2011,C
+46,Nene Hilario,Denver Nuggets,11360000,2011,C
+47,Luol Deng,Chicago Bulls,11345000,2011,F
+48,LaMarcus Aldridge,Portland Trail Blazers,11244000,2011,C
+49,Tayshaun Prince,Detroit Pistons,11148760,2011,SF
+50,Monta Ellis,Golden State Warriors,11000000,2011,SG
+51,Andrew Bogut,Milwaukee Bucks,11000000,2011,C
+52,Danny Granger,Indiana Pacers,10973202,2011,SF
+53,David Lee,Golden State Warriors,10800000,2011,PF
+54,Jamal Crawford,Atlanta Hawks,10800000,2011,G
+55,Ben Gordon,Detroit Pistons,10800000,2011,SG
+56,Kevin Martin,Houston Rockets,10600005,2011,SG
+57,Mike Dunleavy,Indiana Pacers,10561984,2011,SG
+58,Caron Butler,Dallas Mavericks,10561960,2011,SF
+59,Gerald Wallace,Portland Trail Blazers,10500000,2011,SF
+60,Steve Nash,Phoenix Suns,10310938,2011,PG
+61,Hedo Turkoglu,Orlando Magic,10215850,2011,SF
+62,Ray Allen,Boston Celtics,10000000,2011,SG
+63,Mehmet Okur,Utah Jazz,9945000,2011,C
+64,Jason Terry,Dallas Mavericks,9873000,2011,G
+65,Corey Maggette,Milwaukee Bucks,9600000,2011,SF
+66,Cuttino Mobley,LA Clippers,9500000,2011,SG
+67,Mo Williams,LA Clippers,9300000,2011,PG
+68,Kirk Hinrich,Atlanta Hawks,9100000,2011,SG
+69,Rajon Rondo,Boston Celtics,9090911,2011,PG
+70,Andris Biedrins,Golden State Warriors,9000000,2011,C
+71,Boris Diaw,Charlotte Bobcats,9000000,2011,C
+72,Jose Calderon,Toronto Raptors,9000000,2011,G
+73,Devin Harris,Utah Jazz,8981000,2011,G
+74,Jason Kidd,Dallas Mavericks,8610500,2011,PG
+75,Andrea Bargnani,Toronto Raptors,8500000,2011,C
+76,T.J. Ford,Indiana Pacers,8500000,2011,PG
+77,Stephen Jackson,Charlotte Bobcats,8453250,2011,SF
+78,Richard Jefferson,San Antonio Spurs,8400000,2011,F
+79,David West,New Orleans Hornets,8287500,2011,F
+80,Lamar Odom,Los Angeles Lakers,8200000,2011,PF
+81,John Salmons,Milwaukee Bucks,8000000,2011,SF
+82,Mark Blount,Miami Heat,7967375,2011,C
+83,Jameer Nelson,Orlando Magic,7800000,2011,G
+84,Luis Scola,Houston Rockets,7775378,2011,F
+85,Joel Przybilla,Charlotte Bobcats,7725470,2011,C
+86,Paul Millsap,Utah Jazz,7600000,2011,PF
+87,Shane Battier,Memphis Grizzlies,7354500,2011,SF
+88,Anderson Varejao,Cleveland Cavaliers,7281818,2011,C
+89,Andre Miller,Portland Trail Blazers,7269264,2011,PG
+90,Marvin Williams,Atlanta Hawks,7262500,2011,F
+91,JJ Redick,Orlando Magic,7250000,2011,SG
+92,Dan Gadzuric,New Jersey Nets,7248325,2011,C
+93,James Posey,Indiana Pacers,7148800,2011,SF
+94,Leandro Barbosa,Toronto Raptors,7100000,2011,G
+95,Marko Jaric,Brooklyn Nets,7100000,2011,PG
+96,Shawn Marion,Dallas Mavericks,7055500,2011,SG
+97,Charlie Villanueva,Detroit Pistons,7020000,2011,PF
+98,Raymond Felton,Denver Nuggets,7000000,2011,G
+99,Travis Outlaw,New Jersey Nets,7000000,2011,SF
+100,Brendan Haywood,Dallas Mavericks,6900000,2011,C
+101,Nazr Mohammed,Oklahoma City Thunder,6883800,2011,C
+102,Vladimir Radmanovic,Golden State Warriors,6883800,2011,SF
+103,Andres Nocioni,Philadelphia 76ers,6850000,2011,SF
+104,Greg Oden,Miami Heat,6760524,2011,C
+105,JR Smith,Denver Nuggets,6757851,2011,G
+106,Kendrick Perkins,Oklahoma City Thunder,6696720,2011,C
+107,Morris Peterson,Oklahoma City Thunder,6665000,2011,SG
+108,Jeff Foster,Indiana Pacers,6655000,2011,PF
+109,Jason Kapono,Philadelphia 76ers,6641440,2011,SG
+110,Tyrus Thomas,Charlotte Bobcats,6611570,2011,PF
+111,Jerome James,Chicago Bulls,6600000,2011,C
+112,Josh Childress,Phoenix Suns,6500000,2011,F
+113,Beno Udrih,Sacramento Kings,6478600,2011,PG
+114,DeSagana Diop,Charlotte Bobcats,6478600,2011,C
+115,Mike James,Chicago Bulls,6466600,2011,PG
+116,Rasheed Wallace,New York Knicks,6322320,2011,PF
+117,Trevor Ariza,New Orleans Hornets,6322320,2011,SF
+118,Metta World Peace,Los Angeles Lakers,6322320,2011,SF
+119,Marcin Gortat,Phoenix Suns,6322320,2011,C
+120,Kevin Durant,Oklahoma City Thunder,6053663,2011,PF
+121,Andray Blatche,Washington Wizards,5904152,2011,C
+122,Drew Gooden,Milwaukee Bucks,5765000,2011,PF
+123,Al Harrington,Denver Nuggets,5765000,2011,PF
+124,Jermaine O'Neal,Boston Celtics,5765000,2011,C
+125,Wesley Matthews,Portland Trail Blazers,5765000,2011,SG
+126,Kyle Lowry,Houston Rockets,5750000,2011,PG
+127,Derrick Rose,Chicago Bulls,5546160,2011,PG
+128,Nenad Krstic,Boston Celtics,5543116,2011,C
+129,Francisco Garcia,Sacramento Kings,5500000,2011,SG
+130,Sasha Vujacic,New Jersey Nets,5475113,2011,SG
+131,Al Horford,Atlanta Hawks,5444857,2011,C
+132,Blake Griffin,LA Clippers,5357280,2011,PF
+133,Mickael Pietrus,Phoenix Suns,5300000,2011,SF
+134,Luke Walton,Los Angeles Lakers,5260000,2011,SF
+135,Speedy Claxton,Atlanta Hawks,5209454,2011,PG
+136,Channing Frye,Phoenix Suns,5200000,2011,F
+137,John Wall,Washington Wizards,5144280,2011,PG
+138,Reggie Evans,Toronto Raptors,5080000,2011,C
+139,Jason Maxiell,Detroit Pistons,5000000,2011,PF
+140,Amir Johnson,Toronto Raptors,5000000,2011,F
+141,Kyle Korver,Chicago Bulls,5000000,2011,G
+142,Mike Miller,Miami Heat,5000000,2011,SG
+143,Lou Williams,Philadelphia 76ers,5000000,2011,SG
+144,Linas Kleiza,Toronto Raptors,4995000,2011,SF
+145,Michael Beasley,Minnesota Timberwolves,4962240,2011,F
+146,Mike Conley,Memphis Grizzlies,4913077,2011,PG
+147,Antonio McDyess,San Antonio Spurs,4860000,2011,PF
+148,Marcus Banks,Toronto Raptors,4847586,2011,PG
+149,Darius Songaila,Philadelphia 76ers,4818000,2011,PF
+150,Martell Webster,Minnesota Timberwolves,4800000,2011,SF
+151,Hasheem Thabeet,Houston Rockets,4793280,2011,C
+152,Ronnie Brewer,Chicago Bulls,4790000,2011,SF
+153,Evan Turner,Philadelphia 76ers,4602720,2011,G
+154,Jarrett Jack,New Orleans Hornets,4600000,2011,G
+155,Chris Andersen,Denver Nuggets,4533300,2011,PF
+156,O.J. Mayo,Memphis Grizzlies,4456200,2011,SG
+157,Jeff Green,Boston Celtics,4455988,2011,PF
+158,Charlie Bell,Golden State Warriors,4447792,2011,SG
+159,Brad Miller,Houston Rockets,4400000,2011,C
+160,Darko Milicic,Minnesota Timberwolves,4325000,2011,C
+161,James Harden,Oklahoma City Thunder,4304520,2011,SG
+162,Matt Carroll,Charlotte Bobcats,4300000,2011,SG
+163,Nikola Pekovic,Minnesota Timberwolves,4275000,2011,C
+164,Zaza Pachulia,Atlanta Hawks,4251250,2011,C
+165,Hakim Warrick,Phoenix Suns,4250000,2011,PF
+166,Randy Foye,LA Clippers,4250000,2011,SG
+167,Nate Robinson,Oklahoma City Thunder,4200000,2011,PG
+168,DeShawn Stevenson,Dallas Mavericks,4151786,2011,SG
+169,Derrick Favors,Utah Jazz,4133280,2011,F
+170,Bruce Bowen,San Antonio Spurs,4100000,2011,SF
+171,Greg Buckner,Memphis Grizzlies,4080915,2011,SG
+172,Yi Jianlian,Washington Wizards,4050499,2011,SF
+173,Russell Westbrook,Oklahoma City Thunder,4017720,2011,PG
+174,Daniel Gibson,Cleveland Cavaliers,4015334,2011,SG
+175,Luke Ridnour,Minnesota Timberwolves,4000000,2011,PG
+176,Anthony Morrow,New Jersey Nets,4000000,2011,SG
+177,Ronny Turiaf,New York Knicks,4000000,2011,C
+178,Brandon Bass,Orlando Magic,4000000,2011,PF
+179,Steve Blake,Los Angeles Lakers,4000000,2011,PG
+180,Ryan Gomes,LA Clippers,4000000,2011,SF
+181,Willie Green,New Orleans Hornets,3976000,2011,SG
+182,Ramon Sessions,Cleveland Cavaliers,3964320,2011,G
+183,Tyreke Evans,Sacramento Kings,3880920,2011,G
+184,Corey Brewer,Dallas Mavericks,3875000,2011,F
+185,Jordan Farmar,New Jersey Nets,3750000,2011,PG
+186,Wesley Johnson,Minnesota Timberwolves,3726600,2011,F
+187,Derek Fisher,Los Angeles Lakers,3700000,2011,PG
+188,CJ Miles,Utah Jazz,3700000,2011,G
+189,Kevin Love,Minnesota Timberwolves,3638280,2011,PF
+190,C.J. Watson,Chicago Bulls,3600000,2011,PG
+191,Marc Gasol,Memphis Grizzlies,3573333,2011,C
+192,Timofey Mozgov,Denver Nuggets,3567096,2011,C
+193,Dorell Wright,Golden State Warriors,3540000,2011,SF
+194,Udonis Haslem,Miami Heat,3500000,2011,PF
+195,Chris Duhon,Orlando Magic,3500000,2011,PG
+196,Carlos Delfino,Milwaukee Bucks,3500000,2011,SG
+197,Shaun Livingston,Charlotte Bobcats,3500000,2011,G
+198,Tiago Splitter,San Antonio Spurs,3400000,2011,C
+199,Brandan Wright,New Jersey Nets,3398072,2011,F
+200,DeMarcus Cousins,Sacramento Kings,3374640,2011,C
+201,Danilo Gallinari,Denver Nuggets,3304560,2011,PF
+202,Kelenna Azubuike,Cleveland Cavaliers,3300000,2011,SF
+203,Thabo Sefolosha,Oklahoma City Thunder,3250000,2011,F
+204,Will Bynum,Detroit Pistons,3250000,2011,PG
+205,Johan Petro,New Jersey Nets,3250000,2011,C
+206,Grant Hill,Phoenix Suns,3240000,2011,SF
+207,Kris Humphries,New Jersey Nets,3200000,2011,PF
+208,Jonny Flynn,Minnesota Timberwolves,3192000,2011,PG
+209,Joakim Noah,Chicago Bulls,3128536,2011,C
+210,Ekpe Udoh,Golden State Warriors,3065040,2011,F
+211,Matt Bonner,San Antonio Spurs,3050000,2011,C
+212,Eric Gordon,LA Clippers,3016680,2011,SG
+213,Glen Davis,Boston Celtics,3000004,2011,PF
+214,Jamario Moon,LA Clippers,3000000,2011,SF
+215,Eduardo Najera,Charlotte Bobcats,3000000,2011,PF
+216,Raja Bell,Utah Jazz,3000000,2011,SG
+217,Josh Howard,Washington Wizards,3000000,2011,SF
+218,Carl Landry,New Orleans Hornets,3000000,2011,PF
+219,Tony Allen,Memphis Grizzlies,3000000,2011,SG
+220,Chris Wilcox,Detroit Pistons,3000000,2011,PF
+221,Spencer Hawes,Philadelphia 76ers,2974320,2011,PF
+222,Stephen Curry,Golden State Warriors,2913840,2011,PG
+223,Thaddeus Young,Philadelphia 76ers,2901241,2011,F
+224,Julian Wright,Toronto Raptors,2858057,2011,SF
+225,Anthony Parker,Cleveland Cavaliers,2855769,2011,SG
+226,Mark Madsen,Minnesota Timberwolves,2840000,2011,PF
+227,Greg Monroe,Detroit Pistons,2798040,2011,C
+228,Rodney Stuckey,Detroit Pistons,2767126,2011,PG
+229,Sebastian Telfair,Minnesota Timberwolves,2700000,2011,PG
+230,Jordan Hill,Houston Rockets,2669520,2011,C
+231,Nick Young,Washington Wizards,2630503,2011,G
+232,Al-Farouq Aminu,LA Clippers,2563320,2011,SF
+233,D.J. Augustin,Charlotte Bobcats,2540000,2011,G
+234,Maurice Evans,Washington Wizards,2500000,2011,SG
+235,Dahntay Jones,Indiana Pacers,2500000,2011,SG
+236,David Andersen,New Orleans Hornets,2500000,2011,C
+237,DeMar DeRozan,Toronto Raptors,2453880,2011,SF
+238,Brook Lopez,New Jersey Nets,2413320,2011,C
+239,Ricky Davis,LA Clippers,2400000,2011,SG
+240,Marquis Daniels,Boston Celtics,2388000,2011,SG
+241,Marco Belinelli,New Orleans Hornets,2380270,2011,G
+242,Gordon Hayward,Utah Jazz,2356320,2011,SF
+243,Ryan Hollins,Cleveland Cavaliers,2333333,2011,C
+244,Brandon Jennings,Milwaukee Bucks,2331120,2011,G
+245,Ersan Ilyasova,Milwaukee Bucks,2320500,2011,PF
+246,Craig Smith,LA Clippers,2300000,2011,PF
+247,Jerryd Bayless,Toronto Raptors,2292600,2011,G
+248,Quentin Richardson,Orlando Magic,2265000,2011,SF
+249,Paul George,Indiana Pacers,2238360,2011,F
+250,Lou Amundson,Golden State Warriors,2225000,2011,PF
+251,Terrence Williams,Houston Rockets,2214480,2011,SG
+252,Anthony Tolliver,Minnesota Timberwolves,2200000,2011,PF
+253,Jason Smith,New Orleans Hornets,2187913,2011,F
+254,Jason Thompson,Sacramento Kings,2178000,2011,PF
+255,Daequan Cook,Oklahoma City Thunder,2169857,2011,SG
+256,Jared Dudley,Phoenix Suns,2151068,2011,SF
+257,Shannon Brown,Los Angeles Lakers,2149200,2011,PG
+258,Wilson Chandler,Denver Nuggets,2130482,2011,F
+259,Cole Aldrich,Oklahoma City Thunder,2126520,2011,C
+260,Gerald Henderson,Charlotte Bobcats,2103840,2011,SG
+261,Keyon Dooling,Milwaukee Bucks,2080000,2011,PG
+262,Ben Wallace,Detroit Pistons,2080000,2011,PF
+263,Anthony Johnson,Orlando Magic,2062800,2011,PG
+264,Brent Barry,Houston Rockets,2062800,2011,SG
+265,Xavier Henry,Memphis Grizzlies,2020200,2011,SG
+266,Aaron Brooks,Phoenix Suns,2016692,2011,G
+267,Tyler Hansbrough,Indiana Pacers,1998600,2011,PF
+268,Rasho Nesterovic,Toronto Raptors,1990000,2011,C
+269,Chuck Hayes,Houston Rockets,1972500,2011,PF
+270,Goran Dragic,Houston Rockets,1972000,2011,PG
+271,Anthony Randolph,Minnesota Timberwolves,1965720,2011,SF
+272,Arron Afflalo,Denver Nuggets,1959577,2011,G
+273,Ed Davis,Toronto Raptors,1919160,2011,C
+274,Earl Clark,Orlando Magic,1898760,2011,SF
+275,Robin Lopez,Phoenix Suns,1867320,2011,C
+276,Patrick Patterson,Houston Rockets,1823280,2011,PF
+277,Dikembe Mutombo,Houston Rockets,1823280,2011,C
+278,J.J. Barea,Dallas Mavericks,1815000,2011,G
+279,Austin Daye,Detroit Pistons,1803720,2011,SF
+280,Kurt Thomas,Chicago Bulls,1800000,2011,PF
+281,Marreese Speights,Philadelphia 76ers,1773960,2011,F
+282,Matt Barnes,Los Angeles Lakers,1765000,2011,SF
+283,Larry Sanders,Milwaukee Bucks,1731960,2011,PF
+284,Omer Asik,Chicago Bulls,1721000,2011,C
+285,James Johnson,Toronto Raptors,1713600,2011,PF
+286,Roy Hibbert,Indiana Pacers,1685280,2011,C
+287,Renaldo Balkman,New York Knicks,1675000,2011,SF
+288,Luke Babbitt,Portland Trail Blazers,1645440,2011,F
+289,Sean Williams,Boston Celtics,1629120,2011,PF
+290,Jrue Holiday,Philadelphia 76ers,1627920,2011,PG
+291,JaVale McGee,Washington Wizards,1601040,2011,C
+292,Hamed Ehaddadi,Memphis Grizzlies,1600000,2011,C
+293,Keith Bogans,Chicago Bulls,1600000,2011,SG
+294,Kevin Seraphin,Washington Wizards,1563120,2011,C
+295,Ty Lawson,Denver Nuggets,1546560,2011,G
+296,JJ Hickson,Cleveland Cavaliers,1528920,2011,C
+297,Solomon Jones,Indiana Pacers,1500000,2011,PF
+298,Eric Bledsoe,LA Clippers,1485000,2011,SG
+299,Jeff Teague,Atlanta Hawks,1476840,2011,PG
+300,Alexis Ajinca,Toronto Raptors,1467840,2011,C
+301,Avery Bradley,Boston Celtics,1418160,2011,PG
+302,Eric Maynor,Oklahoma City Thunder,1417800,2011,PG
+303,Ryan Anderson,Orlando Magic,1409040,2011,PF
+304,Roger Mason Jr.,New York Knicks,1400000,2011,SG
+305,Ronnie Price,Utah Jazz,1381250,2011,PG
+306,James Anderson,San Antonio Spurs,1361400,2011,SG
+307,Darren Collison,Indiana Pacers,1361040,2011,PG
+308,Courtney Lee,Houston Rockets,1352640,2011,G
+309,Zydrunas Ilgauskas,Miami Heat,1352181,2011,C
+310,Eddie House,Miami Heat,1352181,2011,SG
+311,Shaquille O'Neal,Boston Celtics,1352181,2011,C
+312,Roko-Leni Ukic,Milwaukee Bucks,1350000,2011,PG
+313,Craig Brackins,Philadelphia 76ers,1306920,2011,PF
+314,Kosta Koufos,Denver Nuggets,1298640,2011,C
+315,Elliot Williams,Golden State Warriors,1254720,2011,SG
+316,Omri Casspi,Sacramento Kings,1254480,2011,F
+317,Trevor Booker,Washington Wizards,1204560,2011,F
+318,Byron Mullens,Oklahoma City Thunder,1204200,2011,C
+319,Serge Ibaka,Oklahoma City Thunder,1204200,2011,F
+320,Royal Ivey,Oklahoma City Thunder,1200000,2011,PG
+321,Nicolas Batum,Portland Trail Blazers,1196760,2011,PF
+322,Damion James,New Jersey Nets,1156320,2011,SF
+323,Rodrigue Beaubois,Dallas Mavericks,1156080,2011,PG
+324,Brian Cook,LA Clippers,1146337,2011,PF
+325,James Jones,Miami Heat,1146337,2011,SG
+326,Darrell Arthur,Memphis Grizzlies,1123680,2011,F
+327,Taj Gibson,Chicago Bulls,1117680,2011,F
+328,Dominique Jones,Dallas Mavericks,1110120,2011,SG
+329,D.J. White,Charlotte Bobcats,1108680,2011,PF
+330,Kyrylo Fesenko,Utah Jazz,1087500,2011,C
+331,DeMarre Carroll,Houston Rockets,1085400,2011,F
+332,Wayne Ellington,Minnesota Timberwolves,1078800,2011,SG
+333,Quincy Pondexter,New Orleans Hornets,1073280,2011,F
+334,Alando Tucker,Minnesota Timberwolves,1071720,2011,SF
+335,Toney Douglas,New York Knicks,1071000,2011,PG
+336,Jordan Crawford,Washington Wizards,1042320,2011,G
+337,Greivis Vasquez,Memphis Grizzlies,1035960,2011,PG
+338,Quinton Ross,New Jersey Nets,1033342,2011,SF
+339,James Singleton,Washington Wizards,1030189,2011,F
+340,Jawad Williams,Cleveland Cavaliers,1029389,2011,SF
+341,Aaron Gray,New Orleans Hornets,1028840,2011,C
+342,Daniel Orton,Washington Wizards,1028400,2011,C
+343,Christian Eyenga,Cleveland Cavaliers,1020960,2011,SF
+344,Lazar Hayward,Minnesota Timberwolves,1020960,2011,SF
+345,Jon Brockman,Milwaukee Bucks,1000000,2011,PF
+346,Stephen Graham,New Jersey Nets,992680,2011,SF
+347,Shavlik Randolph,Denver Nuggets,992680,2011,PF
+348,Joey Graham,Cleveland Cavaliers,992680,2011,SF
+349,Patty Mills,Portland Trail Blazers,937195,2011,PG
+350,Donte Greene,Sacramento Kings,930700,2011,SF
+351,DeJuan Blair,San Antonio Spurs,918000,2011,C
+352,Sam Young,Memphis Grizzlies,886000,2011,SF
+353,Ian Mahinmi,Dallas Mavericks,885120,2011,C
+354,Alexander Johnson,Miami Heat,885120,2011,SF
+355,Pops Mensah-Bonsu,New Orleans Hornets,885120,2011,PF
+356,Josh McRoberts,Indiana Pacers,885120,2011,PF
+357,Salim Stoudamire,Atlanta Hawks,884881,2011,SG
+358,Quincy Douby,Sacramento Kings,855189,2011,SG
+359,Marcus Haislip,San Antonio Spurs,855189,2011,F
+360,Mouhamed Sene,New York Knicks,855189,2011,C
+361,Anthony Roberson,Chicago Bulls,855189,2011,SG
+362,Tarence Kinsey,Golden State Warriors,855189,2011,SG
+363,Javaris Crittenton,Washington Wizards,854389,2011,PG
+364,Darius Miles,Memphis Grizzlies,854389,2011,SF
+365,Kyle Weaver,Utah Jazz,854389,2011,SG
+366,Luke Jackson,Miami Heat,854389,2011,SF
+367,Kenny Thomas,Sacramento Kings,854389,2011,PF
+368,Jamaal Magloire,Miami Heat,854389,2011,C
+369,Melvin Ely,Denver Nuggets,854389,2011,C
+370,Mike Harris,Houston Rockets,854389,2011,SF
+371,Dwayne Jones II,Utah Jazz,854389,2011,PF
+372,Malik Hairston,San Antonio Spurs,854389,2011,SG
+373,Tracy McGrady,Detroit Pistons,854389,2011,SG
+374,Antoine Wright,Sacramento Kings,854389,2011,SF
+375,Sean May,Sacramento Kings,854389,2011,C
+376,Luther Head,Sacramento Kings,854389,2011,PG
+377,Coby Karl,Denver Nuggets,854389,2011,PG
+378,Fabricio Oberto,Portland Trail Blazers,854389,2011,C
+379,Earl Watson,Utah Jazz,854389,2011,PG
+380,Sonny Weems,Toronto Raptors,854389,2011,SG
+381,Kwame Brown,Charlotte Bobcats,854389,2011,C
+382,Francisco Elson,Utah Jazz,854389,2011,C
+383,Tony Battie,Philadelphia 76ers,854389,2011,C
+384,Von Wafer,Boston Celtics,854389,2011,SG
+385,Malik Allen,Orlando Magic,854389,2011,PF
+386,Didier Ilunga-Mbenga,New Orleans Hornets,854389,2011,C
+387,Jason Collins,Atlanta Hawks,854389,2011,C
+388,Jerry Stackhouse,Miami Heat,854389,2011,SF
+389,Shelden Williams,New York Knicks,854389,2011,C
+390,Shawne Williams,New York Knicks,854389,2011,SF
+391,Maurice Ager,Minnesota Timberwolves,854389,2011,SF
+392,Josh Powell,Atlanta Hawks,854389,2011,PF
+393,Henry Walker,New York Knicks,854389,2011,SF
+394,Mario Chalmers,Miami Heat,854389,2011,G
+395,Juwan Howard,Miami Heat,854389,2011,PF
+396,Joe Smith,Los Angeles Lakers,854389,2011,PF
+397,Theo Ratliff,Los Angeles Lakers,854389,2011,C
+398,Bobby Simmons,San Antonio Spurs,854389,2011,SF
+399,Darnell Jackson,Sacramento Kings,854389,2011,PF
+400,George Hill,San Antonio Spurs,854389,2011,PG
+401,Luc Mbah a Moute,Milwaukee Bucks,854389,2011,F
+402,Earl Boykins,Milwaukee Bucks,854389,2011,PG
+403,Joe Alexander,Golden State Warriors,854389,2011,SF
+404,Hilton Armstrong,Atlanta Hawks,854389,2011,PF
+405,Cartier Martin,Washington Wizards,854389,2011,PF
+406,DeAndre Jordan,LA Clippers,854389,2011,C
+407,Joey Dorsey,Toronto Raptors,854389,2011,PF
+408,Anthony Carter,New York Knicks,854389,2011,PG
+409,Delonte West,Boston Celtics,854389,2011,SG
+410,Tim Thomas,Dallas Mavericks,854389,2011,PF
+411,Brian Cardinal,Dallas Mavericks,854389,2011,PF
+412,Chris Richard,Chicago Bulls,854389,2011,PF
+413,Brian Scalabrine,Chicago Bulls,854389,2011,PF
+414,Chris Douglas-Roberts,Milwaukee Bucks,854389,2011,SG
+415,D.J. Strawberry,Phoenix Suns,854389,2011,SG
+416,Etan Thomas,Atlanta Hawks,854389,2011,C
+417,Paul Davis,Washington Wizards,825497,2011,C
+418,Kevin Ollie,Oklahoma City Thunder,825497,2011,PG
+419,Ryan Bowen,Oklahoma City Thunder,825497,2011,SF
+420,Desmond Mason,Sacramento Kings,825497,2011,SF
+421,Mikki Moore,Golden State Warriors,825497,2011,C
+422,Linton Johnson,Chicago Bulls,825497,2011,PF
+423,James White,New York Knicks,825497,2011,SG
+424,Jason Hart,New Orleans Pelicans,825497,2011,PG
+425,Kareem Rush,LA Clippers,825497,2011,SG
+426,Jermareo Davidson,Golden State Warriors,825497,2011,PF
+427,Marcus Williams,Denver Nuggets,825497,2011,SG
+428,Lindsey Hunter,Phoenix Suns,825497,2011,SG
+429,Gabe Pruitt,Boston Celtics,825497,2011,PG
+430,Chris Quinn,San Antonio Spurs,804131,2011,PG
+431,Sean Marks,Portland Trail Blazers,799105,2011,PF
+432,Chase Budinger,Houston Rockets,780871,2011,SF
+433,Jermaine Taylor,Sacramento Kings,780871,2011,SG
+434,Tony Gaffney,Memphis Grizzlies,762195,2011,SF
+435,Jodie Meeks,Philadelphia 76ers,762195,2011,G
+436,Brian Butch,Utah Jazz,762195,2011,C
+437,Dante Cunningham,Charlotte Bobcats,762195,2011,F
+438,Derrick Brown,New York Knicks,762195,2011,SF
+439,Darryl Watkins,New Orleans Pelicans,762195,2011,C
+440,Greg Stiemsma,Portland Trail Blazers,762195,2011,C
+441,A.J. Price,Indiana Pacers,762195,2011,PG
+442,Taylor Griffin,Phoenix Suns,762195,2011,PF
+443,DaJuan Summers,Detroit Pistons,762195,2011,SF
+444,Marcus Thornton,Sacramento Kings,762195,2011,SG
+445,Kenny Hasbrouck,null Unknown,762195,2011,NA
+446,Jeff Ayres,LA Clippers,762195,2011,F
+447,Jonas Jerebko,Golden State Warriors,762195,2011,F
+448,Reggie Williams,Golden State Warriors,762195,2011,SF
+449,Curtis Jerrells,null Unknown,762195,2011,NA
+450,Oliver Lafayette,Milan Olimpia,762195,2011,G
+451,Lance Stephenson,Indiana Pacers,750000,2011,G
+452,Dontell Jefferson,Charlotte Hornets,736420,2011,SG
+453,Mike Taylor,LA Clippers,736420,2011,PG
+454,Joe Crawford,New York Knicks,736420,2011,SG
+455,Sun Yue,Los Angeles Lakers,736420,2011,SG
+456,Walter Sharpe,Detroit Pistons,736420,2011,PF
+457,DeMarcus Nelson,Chicago Bulls,736420,2011,SG
+458,Othello Hunter,Madrid Real Madrid,736420,2011,SF
+459,Hassan Whiteside,Sacramento Kings,730437,2011,C
+460,Erick Dampier,Miami Heat,713666,2011,C
+461,Ime Udoka,San Antonio Spurs,708640,2011,F
+462,Mike Wilks,Oklahoma City Thunder,679821,2011,PG
+463,Solomon Alabi,Toronto Raptors,670000,2011,C
+464,Brian Skinner,Milwaukee Bucks,668434,2011,PF
+465,Allen Iverson,Philadelphia 76ers,650686,2011,SG
+466,Alonzo Gee,Cleveland Cavaliers,641141,2011,SF
+467,Acie Law,Golden State Warriors,633253,2011,PG
+468,Andy Rautins,New York Knicks,600000,2011,SG
+469,Ike Diogu,LA Clippers,567917,2011,PF
+470,Gary Neal,San Antonio Spurs,525000,2011,PG
+471,Jason Williams,Memphis Grizzlies,524964,2011,PG
+472,Lester Hudson,Washington Wizards,515603,2011,SG
+473,Willie Warren,LA Clippers,500000,2011,SG
+474,Samardo Samuels,Cleveland Cavaliers,500000,2011,PF
+475,Damien Wilkins,Atlanta Hawks,482478,2011,SG
+476,Ish Smith,Memphis Grizzlies,473604,2011,PG
+477,Jeremy Lin,Golden State Warriors,473604,2011,G
+478,Landry Fields,New York Knicks,473604,2011,SG
+479,Sherron Collins,Charlotte Bobcats,473604,2011,PG
+480,Hamady Ndiaye,Washington Wizards,473604,2011,C
+481,Pooh Jeter,Sacramento Kings,473604,2011,PG
+482,Terrico White,Perth Perth,473604,2011,G
+483,Garret Siler,Phoenix Suns,473604,2011,C
+484,Armon Johnson,Portland Trail Blazers,473604,2011,PG
+485,Stanley Robinson,null Unknown,473604,2011,NA
+486,Brian Zoubek,null Unknown,473604,2011,NA
+487,Darington Hobson,Milwaukee Bucks,473604,2011,SG
+488,Tiny Gallon,null Unknown,473604,2011,NA
+489,Patrick Beverley,Milwaukee Bucks,473604,2011,PG
+490,Derrick Caracter,Los Angeles Lakers,473604,2011,PF
+491,Gary Forbes,Denver Nuggets,473604,2011,F
+492,Donald Sloan,Denver Nuggets,473604,2011,G
+493,Matt Janning,Denver Nuggets,473604,2011,SG
+494,Ben Uzoh,New Jersey Nets,473604,2011,PG
+495,Manny Harris,Cleveland Cavaliers,473604,2011,PG
+496,Devin Ebanks,Los Angeles Lakers,473604,2011,SF
+497,Luke Harangody,Cleveland Cavaliers,473604,2011,PF
+498,Semih Erden,Cleveland Cavaliers,473604,2011,C
+499,Jeremy Evans,Utah Jazz,473604,2011,F
+500,Pape Sy,Atlanta Hawks,473604,2011,SF
+501,Dexter Pittman,Miami Heat,473604,2011,C
+502,Derrick Byars,Memphis Grizzlies,457588,2011,SF
+503,Trey Gilder,Utah Jazz,457588,2011,SF
+504,Marcus Landry,Milwaukee Bucks,457588,2011,SF
+505,Deron Washington,null Unknown,457588,2011,NA
+506,Peja Stojakovic,Dallas Mavericks,402065,2011,SF
+507,Steve Novak,San Antonio Spurs,306575,2011,SF
+508,Mustafa Shakur,Washington Wizards,226162,2011,PG
+509,Jared Jeffries,New York Knicks,221136,2011,PF
+510,Mike Bibby,Miami Heat,216110,2011,PG
+511,Troy Murphy,Boston Celtics,216110,2011,PF
+512,Dominic McGuire,Charlotte Bobcats,211084,2011,PF
+513,Sasha Pavlovic,Boston Celtics,211084,2011,SG
+514,Rasual Butler,Chicago Bulls,211084,2011,SF
+515,Al Thornton,Golden State Warriors,211084,2011,SF
+516,Travis Diener,Portland Trail Blazers,208802,2011,PG
+517,Leon Powe,Memphis Grizzlies,201033,2011,PF
+518,Carlos Arroyo,Boston Celtics,196007,2011,PG
+519,Zabian Dowdell,Phoenix Suns,186656,2011,PG
+520,Jannero Pargo,Charlotte Hornets,168579,2011,PG
+521,John Lucas III,Chicago Bulls,130165,2011,PG
+522,Danny Green,San Antonio Spurs,130022,2011,F
+523,Da'Sean Butler,null Unknown,125000,2011,NA
+524,Sundiata Gaines,New Jersey Nets,112088,2011,PG
+525,Chris Johnson,Boston Celtics,88363,2011,C
+526,Garrett Temple,Charlotte Bobcats,80703,2011,SF
+527,Cedric Jackson,Cleveland Cavaliers,40375,2011,G
+528,Othyus Jeffers,Washington Wizards,35868,2011,SG
+529,Patrick Ewing Jr.,New Orleans Hornets,25073,2011,SF
+530,Marcus Cousin,Utah Jazz,25000,2011,C
+531,Larry Owens,Washington Wizards,22287,2011,SF
+532,Mario West,New Jersey Nets,20103,2011,SG
+533,Marqus Blakely,Houston Rockets,15000,2011,SF
+534,Robert Vaden,San Antonio Spurs,13930,2011,SG
+535,Earl Barron,Portland Trail Blazers,11679,2011,C
+536,Trey Johnson,Toronto Raptors,8967,2011,SG
+537,Magnum Rolle,null Unknown,8358,2011,NA

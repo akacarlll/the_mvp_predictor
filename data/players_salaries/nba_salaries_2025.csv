@@ -1,0 +1,469 @@
+RK,NAME,TEAM,SALARY,YEAR,Pos
+1,Stephen Curry,Golden State Warriors,55761216,2025,PG
+2,Joel Embiid,Philadelphia 76ers,51415938,2025,C
+3,Nikola Jokic,Denver Nuggets,51415938,2025,C
+4,Kevin Durant,Phoenix Suns,51179021,2025,PF
+5,Bradley Beal,Phoenix Suns,50203930,2025,SG
+6,Kawhi Leonard,LA Clippers,49350000,2025,SF
+7,Devin Booker,Phoenix Suns,49205800,2025,SG
+8,Paul George,Philadelphia 76ers,49205800,2025,F
+9,Karl-Anthony Towns,New York Knicks,49205800,2025,C
+10,Jaylen Brown,Boston Celtics,49205800,2025,SG
+11,Jimmy Butler,Miami Heat,48798677,2025,SF
+12,Giannis Antetokounmpo,Milwaukee Bucks,48787676,2025,PF
+13,Damian Lillard,Milwaukee Bucks,48787676,2025,PG
+14,LeBron James,Los Angeles Lakers,48728845,2025,SF
+15,Rudy Gobert,Minnesota Timberwolves,43827587,2025,C
+16,Anthony Davis,Los Angeles Lakers,43219440,2025,PF
+17,Luka Doncic,Dallas Mavericks,43031940,2025,PG
+18,Zach LaVine,Chicago Bulls,43031940,2025,SG
+19,Trae Young,Atlanta Hawks,43031940,2025,PG
+20,Fred VanVleet,Houston Rockets,42846615,2025,PG
+21,Lauri Markkanen,Utah Jazz,42176400,2025,PF
+22,Anthony Edwards,Minnesota Timberwolves,42176400,2025,SG
+23,Tyrese Haliburton,Indiana Pacers,42176000,2025,PG
+24,Pascal Siakam,Indiana Pacers,42176000,2025,PF
+25,Kyrie Irving,Dallas Mavericks,41000000,2025,PG
+26,Domantas Sabonis,Sacramento Kings,40500000,2025,PF
+27,Ben Simmons,Brooklyn Nets,40338144,2025,PG
+28,Ja Morant,Memphis Grizzlies,36725670,2025,PG
+29,Darius Garland,Cleveland Cavaliers,36725670,2025,PG
+30,Zion Williamson,New Orleans Pelicans,36725670,2025,PF
+31,OG Anunoby,New York Knicks,36637931,2025,SF
+32,Jamal Murray,Denver Nuggets,36016200,2025,PG
+33,Brandon Ingram,New Orleans Pelicans,36016200,2025,SF
+34,Shai Gilgeous-Alexander,Oklahoma City Thunder,35859950,2025,PG
+35,Michael Porter Jr.,Denver Nuggets,35859950,2025,SF
+36,Donovan Mitchell,Cleveland Cavaliers,35410310,2025,SG
+37,LaMelo Ball,Charlotte Hornets,35147000,2025,PG
+38,Tyrese Maxey,Philadelphia 76ers,35147000,2025,PG
+39,De'Aaron Fox,Sacramento Kings,34848340,2025,PG
+40,Bam Adebayo,Miami Heat,34848340,2025,C
+41,Jayson Tatum,Boston Celtics,34848340,2025,SF
+42,Desmond Bane,Memphis Grizzlies,34005250,2025,SG
+43,Deandre Ayton,Portland Trail Blazers,34005126,2025,C
+44,James Harden,LA Clippers,33653846,2025,SG
+45,CJ McCollum,New Orleans Pelicans,33333333,2025,SG
+46,Julius Randle,Minnesota Timberwolves,33073920,2025,PF
+47,Immanuel Quickley,Toronto Raptors,32500000,2025,SG
+48,Khris Middleton,Milwaukee Bucks,31666676,2025,SF
+49,Isaiah Hartenstein,Oklahoma City Thunder,30000000,2025,C
+50,Jrue Holiday,Boston Celtics,30000000,2025,PG
+51,Jerami Grant,Portland Trail Blazers,29793104,2025,SF
+52,Jordan Poole,Washington Wizards,29651786,2025,SG
+53,Dejounte Murray,New Orleans Pelicans,29535801,2025,SG
+54,Devin Vassell,San Antonio Spurs,29347826,2025,SG
+55,Kristaps Porzingis,Boston Celtics,29268293,2025,C
+56,Tyler Herro,Miami Heat,29000000,2025,PG
+57,Nic Claxton,Brooklyn Nets,27556817,2025,C
+58,Miles Bridges,Charlotte Hornets,27173913,2025,SF
+59,John Collins,Utah Jazz,26580000,2025,PF
+60,Andrew Wiggins,Golden State Warriors,26276786,2025,SF
+61,Anfernee Simons,Portland Trail Blazers,25892857,2025,SG
+62,RJ Barrett,Toronto Raptors,25794643,2025,SG
+63,Tobias Harris,Detroit Pistons,25365854,2025,F
+64,Jaren Jackson Jr.,Memphis Grizzlies,25257798,2025,PF
+65,Jonathan Isaac,Orlando Magic,25000000,2025,PF
+66,Jalen Brunson,New York Knicks,24960001,2025,PG
+67,Terry Rozier,Miami Heat,24924126,2025,SG
+68,Draymond Green,Golden State Warriors,24107143,2025,PF
+69,Kyle Kuzma,Washington Wizards,23522727,2025,SF
+70,DeMar DeRozan,Sacramento Kings,23400000,2025,SF
+71,Mikal Bridges,New York Knicks,23300000,2025,SF
+72,Jaden McDaniels,Minnesota Timberwolves,23017242,2025,PF
+73,Bruce Brown,Toronto Raptors,23000000,2025,SF
+74,Brook Lopez,Milwaukee Bucks,23000000,2025,C
+75,Aaron Gordon,Denver Nuggets,22841455,2025,PF
+76,Kentavious Caldwell-Pope,Orlando Magic,22757000,2025,SG
+77,Malcolm Brogdon,Washington Wizards,22500000,2025,PG
+78,Cameron Johnson,Brooklyn Nets,22500000,2025,SF
+79,Clint Capela,Atlanta Hawks,22265280,2025,C
+80,Dillon Brooks,Houston Rockets,22255493,2025,SF
+81,De'Andre Hunter,Atlanta Hawks,21696429,2025,SF
+82,Lonzo Ball,Chicago Bulls,21395348,2025,PG
+83,Marcus Smart,Memphis Grizzlies,20210285,2025,PG
+84,Derrick White,Boston Celtics,20017429,2025,PG
+85,Jarrett Allen,Cleveland Cavaliers,20000000,2025,C
+86,Nikola Vucevic,Chicago Bulls,20000000,2025,C
+87,Myles Turner,Indiana Pacers,19928500,2025,C
+88,Jakob Poeltl,Toronto Raptors,19500000,2025,C
+89,Duncan Robinson,Miami Heat,19406000,2025,F
+90,Norman Powell,LA Clippers,19241379,2025,G
+91,Bojan Bogdanovic,Brooklyn Nets,19032850,2025,SF
+92,Keldon Johnson,San Antonio Spurs,19000000,2025,SF
+93,D'Angelo Russell,Brooklyn Nets,18692307,2025,G
+94,Patrick Williams,Chicago Bulls,18500000,2025,PF
+95,Collin Sexton,Utah Jazz,18350000,2025,PG
+96,Josh Hart,New York Knicks,18144000,2025,SG
+97,Jusuf Nurkic,Phoenix Suns,18125000,2025,C
+98,Harrison Barnes,San Antonio Spurs,18000000,2025,SF
+99,Malik Monk,Sacramento Kings,17405202,2025,SG
+100,Bogdan Bogdanovic,Atlanta Hawks,17260000,2025,SG
+101,Rui Hachimura,Los Angeles Lakers,17000000,2025,PF
+102,Kevin Huerter,Sacramento Kings,16830357,2025,SG
+103,Zach Collins,San Antonio Spurs,16741200,2025,PF
+104,Caris LeVert,Cleveland Cavaliers,16615384,2025,SG
+105,Luguentz Dort,Oklahoma City Thunder,16500000,2025,G
+106,Tim Hardaway Jr.,Detroit Pistons,16193183,2025,SF
+107,Davis Bertans,Charlotte Hornets,16000000,2025,SF
+108,Klay Thompson,Dallas Mavericks,15873016,2025,SG
+109,Deni Avdija,Portland Trail Blazers,15625000,2025,SF
+110,Grayson Allen,Phoenix Suns,15625000,2025,SG
+111,P.J. Washington,Dallas Mavericks,15500000,2025,PF
+112,Max Strus,Cleveland Cavaliers,15212068,2025,SG
+113,Isaiah Stewart,Detroit Pistons,15000000,2025,C
+114,Dorian Finney-Smith,Los Angeles Lakers,14924168,2025,PF
+115,Mitchell Robinson,New York Knicks,14318182,2025,C
+116,Jordan Clarkson,Utah Jazz,14092577,2025,PG
+117,Onyeka Okongwu,Atlanta Hawks,14000000,2025,PF
+118,Naz Reid,Minnesota Timberwolves,13986432,2025,C
+119,Cade Cunningham,Detroit Pistons,13940658,2025,PG
+120,Daniel Gafford,Dallas Mavericks,13394160,2025,C
+121,Grant Williams,Charlotte Hornets,13025250,2025,PF
+122,Dennis Schroder,Golden State Warriors,13025250,2025,PG
+123,Isaiah Joe,Oklahoma City Thunder,12991650,2025,SG
+124,Austin Reaves,Los Angeles Lakers,12976362,2025,SG
+125,Herbert Jones,New Orleans Pelicans,12976362,2025,SF
+126,Obi Toppin,Indiana Pacers,12946429,2025,PF
+127,Cole Anthony,Orlando Magic,12900000,2025,PG
+128,De'Anthony Melton,Golden State Warriors,12822000,2025,SG
+129,Kelly Olynyk,Toronto Raptors,12804878,2025,PF
+130,Victor Wembanyama,San Antonio Spurs,12768960,2025,C
+131,Josh Green,Charlotte Hornets,12654321,2025,SG
+132,Devonte' Graham,Portland Trail Blazers,12650000,2025,PG
+133,Richaun Holmes,Washington Wizards,12648321,2025,F
+134,Steven Adams,Houston Rockets,12600000,2025,C
+135,Bobby Portis,Milwaukee Bucks,12578286,2025,F
+136,Zaccharie Risacher,Atlanta Hawks,12569040,2025,PF
+137,Brandon Clarke,Memphis Grizzlies,12500000,2025,PF
+138,Marvin Bagley III,Washington Wizards,12500000,2025,PF
+139,Jalen Green,Houston Rockets,12483048,2025,SG
+140,Robert Williams III,Portland Trail Blazers,12428571,2025,C
+141,Paolo Banchero,Orlando Magic,12160800,2025,PF
+142,Coby White,Chicago Bulls,12000000,2025,PG
+143,Wendell Carter Jr.,Orlando Magic,11950000,2025,C
+144,Ivica Zubac,LA Clippers,11743210,2025,C
+145,P.J. Tucker,LA Clippers,11539000,2025,PF
+146,Donte DiVincenzo,Minnesota Timberwolves,11445000,2025,SG
+147,Brandon Miller,Charlotte Hornets,11424600,2025,F
+148,Terance Mann,LA Clippers,11423077,2025,SG
+149,Alexandre Sarr,Washington Wizards,11245680,2025,PF
+150,Evan Mobley,Cleveland Cavaliers,11227809,2025,PF
+151,Larry Nance Jr.,Atlanta Hawks,11205000,2025,PF
+152,Matisse Thybulle,Portland Trail Blazers,11025160,2025,SG
+153,Moritz Wagner,Orlando Magic,11000000,2025,C
+154,Gabe Vincent,Los Angeles Lakers,11000000,2025,PG
+155,Aaron Nesmith,Indiana Pacers,11000000,2025,SF
+156,Maxi Kleber,Dallas Mavericks,11000000,2025,PF
+157,Chet Holmgren,Oklahoma City Thunder,10880640,2025,PF
+158,Chris Boucher,Toronto Raptors,10810000,2025,PF
+159,Jarred Vanderbilt,Los Angeles Lakers,10714286,2025,PF
+160,Aaron Wiggins,Oklahoma City Thunder,10514017,2025,SG
+161,Chris Paul,San Antonio Spurs,10460000,2025,PG
+162,Scoot Henderson,Portland Trail Blazers,10259160,2025,G
+163,Isaac Okoro,Cleveland Cavaliers,10185185,2025,SF
+164,Scottie Barnes,Toronto Raptors,10130980,2025,SF
+165,Reed Sheppard,Houston Rockets,10098960,2025,G
+166,Mike Conley,Minnesota Timberwolves,9975962,2025,PG
+167,Jonas Valanciunas,Washington Wizards,9900000,2025,C
+168,Alex Caruso,Oklahoma City Thunder,9890000,2025,SG
+169,Royce O'Neale,Phoenix Suns,9821429,2025,PF
+170,Jabari Smith Jr.,Houston Rockets,9770880,2025,PF
+171,Derrick Jones Jr.,LA Clippers,9523810,2025,SF
+172,Al Horford,Boston Celtics,9500000,2025,C
+173,Pat Connaughton,Milwaukee Bucks,9423869,2025,SG
+174,T.J. McConnell,Indiana Pacers,9300000,2025,PG
+175,Luke Kennard,Memphis Grizzlies,9250000,2025,SG
+176,Amen Thompson,Houston Rockets,9249960,2025,F
+177,Jalen Suggs,Orlando Magic,9188385,2025,SG
+178,Stephon Castle,San Antonio Spurs,9131760,2025,G
+179,Gary Payton II,Golden State Warriors,9130000,2025,SG
+180,Tre Jones,San Antonio Spurs,9104167,2025,PG
+181,Goga Bitadze,Orlando Magic,9057971,2025,C
+182,Zeke Nnaji,Denver Nuggets,8888889,2025,PF
+183,Keegan Murray,Sacramento Kings,8809560,2025,SF
+184,Kyle Anderson,Golden State Warriors,8780488,2025,SF
+185,Buddy Hield,Golden State Warriors,8780488,2025,SG
+186,Naji Marshall,Dallas Mavericks,8571429,2025,SF
+187,Jalen Smith,Chicago Bulls,8571429,2025,PF
+188,Georges Niang,Cleveland Cavaliers,8500000,2025,SF
+189,Ausar Thompson,Detroit Pistons,8376000,2025,F
+190,Josh Giddey,Chicago Bulls,8352367,2025,SG
+191,Josh Okogie,Phoenix Suns,8250000,2025,SF
+192,Ronald Holland II,Detroit Pistons,8245320,2025,F
+193,Caleb Martin,Philadelphia 76ers,8149001,2025,SF
+194,Cody Martin,Charlotte Hornets,8120000,2025,SF
+195,Trey Lyles,Sacramento Kings,8000000,2025,PF
+196,Jock Landale,Houston Rockets,8000000,2025,C
+197,Jeff Green,Houston Rockets,8000000,2025,PF
+198,Kevon Looney,Golden State Warriors,8000000,2025,F
+199,Kelly Oubre Jr.,Philadelphia 76ers,7983000,2025,SG
+200,Jaden Ivey,Detroit Pistons,7977240,2025,PG
+201,KJ Martin,Philadelphia 76ers,7975000,2025,F
+202,Vasilije Micic,Charlotte Hornets,7723000,2025,G
+203,Simone Fontecchio,Detroit Pistons,7692308,2025,F
+204,Jonathan Kuminga,Golden State Warriors,7636154,2025,PF
+205,Anthony Black,Orlando Magic,7607760,2025,G
+206,Jae'Sean Tate,Houston Rockets,7565217,2025,SF
+207,Tidjane Salaun,Charlotte Hornets,7488720,2025,F
+208,Bennedict Mathurin,Indiana Pacers,7245720,2025,SG
+209,Max Christie,Los Angeles Lakers,7142857,2025,G
+210,Franz Wagner,Orlando Magic,7007092,2025,SF
+211,Ayo Dosunmu,Chicago Bulls,7000000,2025,SG
+212,Bilal Coulibaly,Washington Wizards,6945240,2025,SG
+213,Nassir Little,Miami Heat,6750000,2025,SF
+214,Gary Harris,Orlando Magic,6730769,2025,SG
+215,Payton Pritchard,Boston Celtics,6696429,2025,PG
+216,Kenrich Williams,Oklahoma City Thunder,6669000,2025,SF
+217,Sasha Vezenkov,Toronto Raptors,6658536,2025,F
+218,Shaedon Sharpe,Portland Trail Blazers,6614160,2025,SG
+219,Donovan Clingan,Portland Trail Blazers,6586440,2025,C
+220,Jevon Carter,Chicago Bulls,6500000,2025,PG
+221,Davion Mitchell,Toronto Raptors,6451230,2025,PG
+222,Saddiq Bey,Washington Wizards,6440678,2025,SF
+223,Jarace Walker,Indiana Pacers,6362520,2025,F
+224,Rob Dillingham,Minnesota Timberwolves,6262920,2025,G
+225,Dean Wade,Cleveland Cavaliers,6166667,2025,PF
+226,John Konchar,Memphis Grizzlies,6165000,2025,SG
+227,Ziaire Williams,Brooklyn Nets,6133005,2025,F
+228,Dyson Daniels,Atlanta Hawks,6059520,2025,G
+229,Precious Achiuwa,New York Knicks,6000000,2025,PF
+230,Malik Beasley,Detroit Pistons,6000000,2025,SG
+231,Chris Duarte,Chicago Bulls,5893768,2025,SG
+232,Taylor Hendricks,Utah Jazz,5848680,2025,F
+233,Moses Moody,Golden State Warriors,5803269,2025,SG
+234,Zach Edey,Memphis Grizzlies,5756880,2025,C
+235,Corey Kispert,Washington Wizards,5705888,2025,SF
+236,Jeremy Sochan,San Antonio Spurs,5570040,2025,F
+237,Cason Wallace,Oklahoma City Thunder,5555880,2025,G
+238,Cody Williams,Utah Jazz,5485080,2025,F
+239,Alperen Sengun,Houston Rockets,5424654,2025,C
+240,Johnny Davis,Washington Wizards,5291160,2025,G
+241,Jett Howard,Orlando Magic,5278320,2025,G
+242,Haywood Highsmith,Miami Heat,5200000,2025,F
+243,Matas Buzelis,Chicago Bulls,5195520,2025,F
+244,Kris Dunn,LA Clippers,5168000,2025,G
+245,Dario Saric,Denver Nuggets,5168000,2025,PF
+246,Trey Murphy III,New Orleans Pelicans,5159855,2025,SG
+247,Ousmane Dieng,Oklahoma City Thunder,5027040,2025,F
+248,Dereck Lively II,Dallas Mavericks,5014560,2025,C
+249,Drew Eubanks,Utah Jazz,5000000,2025,PF
+250,Nick Richards,Charlotte Hornets,5000000,2025,C
+251,Andre Drummond,Philadelphia 76ers,5000000,2025,C
+252,Nikola Topic,Oklahoma City Thunder,4935960,2025,G
+253,Tre Mann,Charlotte Hornets,4908189,2025,PG
+254,Jalen Williams,Oklahoma City Thunder,4775760,2025,F
+255,Gradey Dick,Toronto Raptors,4763760,2025,G
+256,Jalen McDaniels,San Antonio Spurs,4741800,2025,PF
+257,Miles McBride,New York Knicks,4710144,2025,PG
+258,Devin Carter,Sacramento Kings,4702800,2025,G
+259,Nicolas Batum,LA Clippers,4668000,2025,PF
+260,Aaron Holiday,Houston Rockets,4668000,2025,G
+261,Jalen Duren,Detroit Pistons,4536840,2025,C
+262,Jordan Hawkins,New Orleans Pelicans,4525680,2025,G
+263,Jalen Johnson,Atlanta Hawks,4510905,2025,SF
+264,Carlton Carrington,Washington Wizards,4454880,2025,G
+265,Isaiah Jackson,Indiana Pacers,4435381,2025,SF
+266,Nickeil Alexander-Walker,Minnesota Timberwolves,4312500,2025,SG
+267,Ochai Agbaji,Toronto Raptors,4310280,2025,G
+268,Kobe Bufkin,Atlanta Hawks,4299000,2025,G
+269,Quentin Grimes,Dallas Mavericks,4296615,2025,SG
+270,Kel'el Ware,Miami Heat,4231800,2025,C
+271,Bones Hyland,LA Clippers,4158439,2025,PG
+272,Mark Williams,Charlotte Hornets,4094280,2025,C
+273,Keyonte George,Utah Jazz,4084200,2025,G
+274,Cam Thomas,Brooklyn Nets,4041249,2025,SG
+275,Jared McCain,Philadelphia 76ers,4032240,2025,G
+276,Jaden Springer,Boston Celtics,4018580,2025,G
+277,Dwight Powell,Dallas Mavericks,4000000,2025,C
+278,Day'Ron Sharpe,Brooklyn Nets,3989122,2025,C
+279,Santi Aldama,Memphis Grizzlies,3960531,2025,PF
+280,Amir Coffey,LA Clippers,3938271,2025,SG
+281,AJ Griffin,Houston Rockets,3889920,2025,F
+282,Jalen Hood-Schifino,Los Angeles Lakers,3879840,2025,G
+283,Kevin Love,Miami Heat,3850000,2025,PF
+284,Dalton Knecht,Los Angeles Lakers,3819120,2025,G
+285,Tari Eason,Houston Rockets,3695160,2025,F
+286,Jaime Jaquez Jr.,Miami Heat,3685800,2025,G
+287,Tristan da Silva,Orlando Magic,3628440,2025,F
+288,Ja'Kobe Walter,Toronto Raptors,3565000,2025,G
+289,Brandin Podziemski,Golden State Warriors,3519960,2025,G
+290,Dalen Terry,Chicago Bulls,3510480,2025,F
+291,Svi Mykhailiuk,Utah Jazz,3500000,2025,SG
+292,Cody Zeller,Atlanta Hawks,3500000,2025,C
+293,Cam Whitmore,Houston Rockets,3379080,2025,F
+294,Derrick Rose,Memphis Grizzlies,3356271,2025,PG
+295,Jake LaRavia,Memphis Grizzlies,3352680,2025,F
+296,Jaylon Tyson,Cleveland Cavaliers,3326160,2025,F
+297,Eric Gordon,Philadelphia 76ers,3303771,2025,SG
+298,Cory Joseph,Orlando Magic,3303771,2025,PG
+299,Russell Westbrook,Denver Nuggets,3303771,2025,PG
+300,Noah Clowney,Brooklyn Nets,3244080,2025,F
+301,Malaki Branham,San Antonio Spurs,3217920,2025,G
+302,Yves Missi,New Orleans Pelicans,3202560,2025,C
+303,Dante Exum,Dallas Mavericks,3150000,2025,G
+304,Dariq Whitehead,Brooklyn Nets,3114240,2025,F
+305,Christian Braun,Denver Nuggets,3089640,2025,G
+306,Johnny Juzang,Utah Jazz,3087519,2025,G
+307,DaRon Holmes II,Denver Nuggets,3065640,2025,C
+308,Josh Richardson,Miami Heat,3051153,2025,SG
+309,Christian Wood,Los Angeles Lakers,3036040,2025,F
+310,Kyle Filipowski,Utah Jazz,3000000,2025,F
+311,Julian Champagnie,San Antonio Spurs,3000000,2025,F
+312,Kris Murray,Portland Trail Blazers,2990040,2025,F
+313,Walker Kessler,Utah Jazz,2965920,2025,C
+314,Shake Milton,Los Angeles Lakers,2875000,2025,SG
+315,Olivier-Maxence Prosper,Dallas Mavericks,2869920,2025,F
+316,David Roddy,Atlanta Hawks,2847240,2025,F
+317,Torrey Craig,Chicago Bulls,2845342,2025,SF
+318,Kyshawn George,Washington Wizards,2825520,2025,F
+319,AJ Johnson,Milwaukee Bucks,2795294,2025,G
+320,Marcus Sasser,Detroit Pistons,2755080,2025,G
+321,MarJon Beauchamp,Milwaukee Bucks,2733720,2025,F
+322,Trendon Watford,Brooklyn Nets,2726603,2025,PF
+323,Ben Sheppard,Indiana Pacers,2663880,2025,G
+324,Omer Yurtseven,Utah Jazz,2660000,2025,C
+325,Keita Bates-Diop,Minnesota Timberwolves,2654644,2025,SF
+326,Blake Wesley,San Antonio Spurs,2624280,2025,G
+327,Dillon Jones,Oklahoma City Thunder,2622360,2025,F
+328,Nick Smith Jr.,Charlotte Hornets,2587200,2025,G
+329,Brice Sensabaugh,Utah Jazz,2571480,2025,F
+330,Ty Jerome,Cleveland Cavaliers,2560975,2025,SG
+331,Julian Strawther,Denver Nuggets,2552520,2025,G
+332,Terrence Shannon Jr.,Minnesota Timberwolves,2546640,2025,G
+333,Ryan Dunn,Phoenix Suns,2538240,2025,F
+334,Wendell Moore Jr.,Detroit Pistons,2537040,2025,G
+335,Kobe Brown,LA Clippers,2533920,2025,G
+336,Isaiah Collier,Utah Jazz,2520120,2025,G
+337,Baylor Scheierman,Boston Celtics,2494320,2025,F
+338,Nikola Jovic,Miami Heat,2464200,2025,F
+339,Darius Bazley,Utah Jazz,2463946,2025,F
+340,Jaxson Hayes,Los Angeles Lakers,2463946,2025,C
+341,Cam Reddish,Los Angeles Lakers,2463946,2025,SF
+342,Patrick Baldwin Jr.,Washington Wizards,2448840,2025,F
+343,DaQuan Jeffries,Charlotte Hornets,2425204,2025,SG
+344,Tristan Vukcevic,Washington Wizards,2424892,2025,PF
+345,Peyton Watson,Denver Nuggets,2413560,2025,F
+346,Aleksej Pokusevski,Charlotte Hornets,2273252,2025,F
+347,Mamadi Diakite,Phoenix Suns,2273252,2025,F
+348,Charlie Brown Jr.,Charlotte Hornets,2237692,2025,G
+349,Anthony Gill,Washington Wizards,2237691,2025,PF
+350,Kevin Porter Jr.,LA Clippers,2237691,2025,G
+351,James Wiseman,Indiana Pacers,2237691,2025,C
+352,Xavier Tillman,Boston Celtics,2237691,2025,F
+353,Garrison Mathews,Atlanta Hawks,2230253,2025,SG
+354,Eugene Omoruyi,Toronto Raptors,2196970,2025,F
+355,Jared Butler,Washington Wizards,2196970,2025,SG
+356,Dalano Banton,Portland Trail Blazers,2196970,2025,G
+357,Jeff Dowtin Jr.,Philadelphia 76ers,2196970,2025,G
+358,Kai Jones,LA Clippers,2196970,2025,PF
+359,Lindy Waters III,Golden State Warriors,2196970,2025,F
+360,Jeremiah Robinson-Earl,New Orleans Pelicans,2196970,2025,F
+361,Sam Merrill,Cleveland Cavaliers,2164993,2025,SG
+362,Duane Washington Jr.,Charlotte Hornets,2162607,2025,PG
+363,Keon Johnson,Brooklyn Nets,2162606,2025,G
+364,Luka Garza,Minnesota Timberwolves,2162606,2025,C
+365,Neemias Queta,Boston Celtics,2162606,2025,C
+366,Vit Krejci,Atlanta Hawks,2162606,2025,G
+367,Vince Williams Jr.,Memphis Grizzlies,2120693,2025,G
+368,A.J. Lawson,Toronto Raptors,2120693,2025,G
+369,Keon Ellis,Sacramento Kings,2120693,2025,G
+370,Colby Jones,Sacramento Kings,2120693,2025,G
+371,AJ Green,Milwaukee Bucks,2120693,2025,G
+372,Stanley Umude,Milwaukee Bucks,2120693,2025,G
+373,Kendall Brown,Indiana Pacers,2120693,2025,SG
+374,E.J. Liddell,Chicago Bulls,2120693,2025,F
+375,Jericho Sims,New York Knicks,2092344,2025,C
+376,Sam Hauser,Boston Celtics,2092344,2025,SF
+377,Jay Huff,Memphis Grizzlies,2088033,2025,C
+378,Seth Curry,Charlotte Hornets,2087519,2025,SG
+379,Taj Gibson,Charlotte Hornets,2087519,2025,F
+380,Scotty Pippen Jr.,Memphis Grizzlies,2087519,2025,G
+381,Bruno Fernando,Toronto Raptors,2087519,2025,F
+382,Garrett Temple,Toronto Raptors,2087519,2025,SF
+383,Patty Mills,Utah Jazz,2087519,2025,PG
+384,Charles Bassey,San Antonio Spurs,2087519,2025,C
+385,Sandro Mamukelashvili,San Antonio Spurs,2087519,2025,PF
+386,Orlando Robinson,Sacramento Kings,2087519,2025,C
+387,Jordan McLaughlin,Sacramento Kings,2087519,2025,PG
+388,Alex Len,Sacramento Kings,2087519,2025,C
+389,Doug McDermott,Sacramento Kings,2087519,2025,SF
+390,Bol Bol,Phoenix Suns,2087519,2025,C
+391,Tyus Jones,Phoenix Suns,2087519,2025,PG
+392,Monte Morris,Phoenix Suns,2087519,2025,PG
+393,Damion Lee,Phoenix Suns,2087519,2025,SG
+394,Mason Plumlee,Phoenix Suns,2087519,2025,C
+395,Guerschon Yabusele,Philadelphia 76ers,2087519,2025,F
+396,Reggie Jackson,Philadelphia 76ers,2087519,2025,PG
+397,Kyle Lowry,Philadelphia 76ers,2087519,2025,PG
+398,Tyler Kolek,New York Knicks,2087519,2025,G
+399,Cameron Payne,New York Knicks,2087519,2025,PG
+400,PJ Dozier,Minnesota Timberwolves,2087519,2025,G
+401,Joe Ingles,Minnesota Timberwolves,2087519,2025,SG
+402,Gary Trent Jr.,Milwaukee Bucks,2087519,2025,SG
+403,Delon Wright,Milwaukee Bucks,2087519,2025,SG
+404,Taurean Prince,Milwaukee Bucks,2087519,2025,PF
+405,Alec Burks,Miami Heat,2087519,2025,SG
+406,Mo Bamba,LA Clippers,2087519,2025,C
+407,Thomas Bryant,Indiana Pacers,2087519,2025,C
+408,James Johnson,Indiana Pacers,2087519,2025,PF
+409,Vlatko Cancar,Denver Nuggets,2087519,2025,SF
+410,DeAndre Jordan,Denver Nuggets,2087519,2025,C
+411,Spencer Dinwiddie,Dallas Mavericks,2087519,2025,PG
+412,Markieff Morris,Dallas Mavericks,2087519,2025,PF
+413,Tristan Thompson,Cleveland Cavaliers,2087519,2025,C
+414,Talen Horton-Tucker,Chicago Bulls,2087519,2025,SF
+415,Javonte Green,New Orleans Pelicans,2087519,2025,G
+416,Daniel Theis,New Orleans Pelicans,2087519,2025,C
+417,Lonnie Walker IV,Boston Celtics,2087519,2025,G
+418,Luke Kornet,Boston Celtics,2087519,2025,C
+419,Duop Reath,Portland Trail Blazers,2048780,2025,C
+420,Jaylin Williams,Oklahoma City Thunder,2019699,2025,F
+421,Bryce McGowens,Portland Trail Blazers,2019699,2025,G
+422,Jabari Walker,Portland Trail Blazers,2019699,2025,F
+423,Josh Minott,Minnesota Timberwolves,2019699,2025,F
+424,Andrew Nembhard,Indiana Pacers,2019699,2025,PG
+425,Jaden Hardy,Dallas Mavericks,2019699,2025,G
+426,Caleb Houstan,Orlando Magic,2019693,2025,G
+427,JT Thor,Cleveland Cavaliers,1988598,2025,F
+428,Jose Alvarado,New Orleans Pelicans,1988598,2025,PG
+429,Matt Ryan,New York Knicks,1919558,2025,F
+430,Mouhamed Gueye,Atlanta Hawks,1891858,2025,F
+431,GG Jackson II,Memphis Grizzlies,1891857,2025,F
+432,Javon Freeman-Liberty,Toronto Raptors,1891857,2025,G
+433,Sidy Cissoko,San Antonio Spurs,1891857,2025,G
+434,Rayan Rupert,Portland Trail Blazers,1891857,2025,G
+435,Toumani Camara,Portland Trail Blazers,1891857,2025,F
+436,Ricky Council IV,Philadelphia 76ers,1891857,2025,G
+437,Maxwell Lewis,Brooklyn Nets,1891857,2025,F
+438,Jalen Wilson,Brooklyn Nets,1891857,2025,F
+439,Leonard Miller,Minnesota Timberwolves,1891857,2025,F
+440,Chris Livingston,Milwaukee Bucks,1891857,2025,F
+441,Andre Jackson Jr.,Milwaukee Bucks,1891857,2025,G
+442,Gui Santos,Golden State Warriors,1891857,2025,F
+443,Trayce Jackson-Davis,Golden State Warriors,1891857,2025,F
+444,Jalen Pickett,Denver Nuggets,1891857,2025,G
+445,Hunter Tyson,Denver Nuggets,1891857,2025,F
+446,Craig Porter Jr.,Cleveland Cavaliers,1891857,2025,G
+447,Julian Phillips,Chicago Bulls,1891857,2025,F
+448,Onuralp Bitim,Chicago Bulls,1891857,2025,SF
+449,Jordan Walsh,Boston Celtics,1891857,2025,G
+450,Jonathan Mogbo,Toronto Raptors,1862265,2025,F
+451,Jamal Shead,Toronto Raptors,1862265,2025,G
+452,Johnny Furphy,Indiana Pacers,1850842,2025,F
+453,Pacome Dadiet,New York Knicks,1808080,2025,G
+454,Jae Crowder,Sacramento Kings,1655619,2025,PF
+455,Paul Reed,Detroit Pistons,1427671,2025,F
+456,Karlo Matkovic,New Orleans Pelicans,1407153,2025,C
+457,Landry Shamet,New York Knicks,1343690,2025,SG
+458,Bobi Klintman,Detroit Pistons,1257153,2025,F
+459,Jaylen Wells,Memphis Grizzlies,1157153,2025,F
+460,Oso Ighodaro,Phoenix Suns,1157153,2025,C
+461,Adem Bona,Philadelphia 76ers,1157153,2025,C
+462,Tyler Smith,Milwaukee Bucks,1157153,2025,F
+463,Bronny James,Los Angeles Lakers,1157153,2025,G
+464,Cam Christie,LA Clippers,1157153,2025,G
+465,Antonio Reeves,New Orleans Pelicans,1157153,2025,G
+466,Pelle Larsson,Miami Heat,1157143,2025,G
+467,Ariel Hukporti,New York Knicks,1064558,2025,C
+468,Branden Carlson,Oklahoma City Thunder,990895,2025,C

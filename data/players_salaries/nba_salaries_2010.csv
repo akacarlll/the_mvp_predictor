@@ -1,0 +1,479 @@
+RK,NAME,TEAM,SALARY,YEAR,Pos
+1,Kobe Bryant,Los Angeles Lakers,23034375,2010,SF
+2,Jermaine O'Neal,Miami Heat,23016000,2010,C
+3,Tracy McGrady,New York Knicks,22843124,2010,SG
+4,Tim Duncan,San Antonio Spurs,22183220,2010,C
+5,Shaquille O'Neal,Cleveland Cavaliers,21000000,2010,C
+6,Dirk Nowitzki,Dallas Mavericks,19795714,2010,F
+7,Paul Pierce,Boston Celtics,19795712,2010,SF
+8,Ray Allen,Boston Celtics,18776860,2010,SG
+9,Rashard Lewis,Orlando Magic,18010791,2010,PF
+10,Michael Redd,Milwaukee Bucks,17040000,2010,SG
+11,Pau Gasol,Los Angeles Lakers,16452000,2010,PF
+12,Andrei Kirilenko,Utah Jazz,16452000,2010,SF
+13,Kevin Garnett,Boston Celtics,16417044,2010,PF
+14,Amar'e Stoudemire,Phoenix Suns,16378325,2010,C
+15,Yao Ming,Houston Rockets,16378325,2010,C
+16,Gilbert Arenas,Washington Wizards,16192080,2010,PG
+17,Vince Carter,Orlando Magic,16123250,2010,G
+18,Zach Randolph,Memphis Grizzlies,16000000,2010,F
+19,Kenyon Martin,Denver Nuggets,15852511,2010,F
+20,Dwyane Wade,Miami Heat,15779912,2010,G
+21,Chris Bosh,Toronto Raptors,15779912,2010,PF
+22,Carmelo Anthony,Denver Nuggets,15779912,2010,PF
+23,LeBron James,Cleveland Cavaliers,15779912,2010,SF
+24,Dwight Howard,Orlando Magic,15202590,2010,C
+25,Joe Johnson,Atlanta Hawks,14976754,2010,G
+26,Elton Brand,Philadelphia 76ers,14858472,2010,PF
+27,Richard Jefferson,San Antonio Spurs,14200000,2010,F
+28,Chris Paul,New Orleans Hornets,13520500,2010,PG
+29,Deron Williams,Utah Jazz,13520500,2010,PG
+30,Peja Stojakovic,New Orleans Hornets,13392000,2010,SF
+31,Jason Richardson,Phoenix Suns,13333332,2010,SG
+32,Steve Nash,Phoenix Suns,13125000,2010,PG
+33,Tony Parker,San Antonio Spurs,12600000,2010,G
+34,Andrew Bynum,Los Angeles Lakers,12500000,2010,C
+35,Carlos Boozer,Utah Jazz,12323900,2010,PF
+36,Brad Miller,Chicago Bulls,12250000,2010,C
+37,Andre Iguodala,Philadelphia 76ers,12200000,2010,F
+38,Erick Dampier,Dallas Mavericks,12115500,2010,C
+39,Baron Davis,LA Clippers,12100000,2010,PG
+40,Chauncey Billups,Denver Nuggets,12100000,2010,PG
+41,Samuel Dalembert,Philadelphia 76ers,12025694,2010,C
+42,Al Jefferson,Minnesota Timberwolves,12000000,2010,C
+43,Tyson Chandler,Charlotte Bobcats,11700000,2010,C
+44,Antawn Jamison,Cleveland Cavaliers,11641095,2010,PF
+45,Richard Hamilton,Detroit Pistons,11375000,2010,SG
+46,Bobby Simmons,New Jersey Nets,11242666,2010,SF
+47,Troy Murphy,Indiana Pacers,11047619,2010,PF
+48,Monta Ellis,Golden State Warriors,11000000,2010,SG
+49,Josh Howard,Washington Wizards,10890000,2010,SF
+50,Josh Smith,Atlanta Hawks,10800000,2010,PF
+51,Emeka Okafor,New Orleans Hornets,10797500,2010,C
+52,Manu Ginobili,San Antonio Spurs,10728130,2010,G
+53,Nene Hilario,Denver Nuggets,10520000,2010,C
+54,Eddy Curry,New York Knicks,10500423,2010,NA
+55,Chris Kaman,LA Clippers,10400000,2010,C
+56,Luol Deng,Chicago Bulls,10365000,2010,F
+57,Tayshaun Prince,Detroit Pistons,10324380,2010,SF
+58,Danny Granger,Indiana Pacers,10130500,2010,SF
+59,Al Harrington,New York Knicks,10026875,2010,PF
+60,Andrew Bogut,Milwaukee Bucks,10000000,2010,C
+61,Ben Gordon,Detroit Pistons,10000000,2010,SG
+62,Mike Dunleavy,Indiana Pacers,9780992,2010,SG
+63,Caron Butler,Dallas Mavericks,9780970,2010,SF
+64,Mike Miller,Washington Wizards,9780937,2010,SG
+65,Kevin Martin,Houston Rockets,9680170,2010,SG
+66,Gerald Wallace,Charlotte Bobcats,9500000,2010,SF
+67,Cuttino Mobley,LA Clippers,9500000,2010,SG
+68,Kirk Hinrich,Chicago Bulls,9500000,2010,SG
+69,Jamal Crawford,Atlanta Hawks,9360000,2010,G
+70,Marcus Camby,Portland Trail Blazers,9150000,2010,C
+71,Jason Terry,Dallas Mavericks,9075000,2010,G
+72,David West,New Orleans Hornets,9075000,2010,F
+73,Andris Biedrins,Golden State Warriors,9000000,2010,C
+74,Boris Diaw,Charlotte Bobcats,9000000,2010,C
+75,Mehmet Okur,Utah Jazz,9000000,2010,C
+76,Hedo Turkoglu,Toronto Raptors,9000000,2010,SF
+77,Corey Maggette,Golden State Warriors,8937931,2010,SF
+78,Mo Williams,Cleveland Cavaliers,8860000,2010,PG
+79,Kenny Thomas,Sacramento Kings,8775000,2010,PF
+80,Quentin Richardson,Miami Heat,8700000,2010,SF
+81,T.J. Ford,Indiana Pacers,8500000,2010,PG
+82,Devin Harris,New Jersey Nets,8400000,2010,G
+83,Jose Calderon,Toronto Raptors,8219009,2010,G
+84,Jason Kidd,Dallas Mavericks,8100000,2010,PG
+85,Jameer Nelson,Orlando Magic,8100000,2010,G
+86,Mark Blount,Miami Heat,7967375,2010,C
+87,Etan Thomas,Oklahoma City Thunder,7906088,2010,C
+88,Paul Millsap,Utah Jazz,7692932,2010,PF
+89,Stephen Jackson,Charlotte Bobcats,7650000,2010,SF
+90,Darko Milicic,Minnesota Timberwolves,7540000,2010,C
+91,Andres Nocioni,Sacramento Kings,7500000,2010,SF
+92,Lamar Odom,Los Angeles Lakers,7500000,2010,PF
+93,Marvin Williams,Atlanta Hawks,7500000,2010,F
+94,Marko Jaric,Brooklyn Nets,7100000,2010,PG
+95,Udonis Haslem,Miami Heat,7100000,2010,PF
+96,David Lee,New York Knicks,7000000,2010,PF
+97,Shane Battier,Houston Rockets,6939200,2010,SF
+98,Joel Przybilla,Portland Trail Blazers,6857725,2010,C
+99,Dan Gadzuric,Milwaukee Bucks,6749260,2010,C
+100,Andre Miller,Portland Trail Blazers,6730800,2010,PG
+101,Shawn Marion,Dallas Mavericks,6635068,2010,SG
+102,Tony Battie,New Jersey Nets,6606600,2010,C
+103,Leandro Barbosa,Phoenix Suns,6600000,2010,G
+104,Antonio Daniels,Philadelphia 76ers,6600000,2010,PG
+105,Jerome James,Chicago Bulls,6600000,2010,C
+106,Andrea Bargnani,Toronto Raptors,6527491,2010,C
+107,Luke Ridnour,Milwaukee Bucks,6500000,2010,PG
+108,Charlie Villanueva,Detroit Pistons,6500000,2010,PF
+109,Nazr Mohammed,Charlotte Bobcats,6466600,2010,C
+110,Jared Jeffries,Houston Rockets,6466600,2010,PF
+111,Mike James,Washington Wizards,6466600,2010,PG
+112,Vladimir Radmanovic,Golden State Warriors,6466600,2010,SF
+113,John Salmons,Milwaukee Bucks,6429151,2010,SF
+114,Anderson Varejao,Cleveland Cavaliers,6363636,2010,C
+115,Nick Collison,Oklahoma City Thunder,6250000,2010,F
+116,Mike Bibby,Atlanta Hawks,6217617,2010,PG
+117,Jason Kapono,Philadelphia 76ers,6212960,2010,SG
+118,JR Smith,Denver Nuggets,6171426,2010,G
+119,Jeff Foster,Indiana Pacers,6077500,2010,PF
+120,Chris Duhon,New York Knicks,6031800,2010,PG
+121,James Posey,New Orleans Hornets,6031800,2010,SF
+122,Beno Udrih,Sacramento Kings,6031800,2010,PG
+123,DeSagana Diop,Charlotte Bobcats,6031800,2010,C
+124,Brendan Haywood,Dallas Mavericks,6000000,2010,C
+125,Rasheed Wallace,Boston Celtics,5854000,2010,PF
+126,Trevor Ariza,Houston Rockets,5854000,2010,SF
+127,Metta World Peace,Los Angeles Lakers,5854000,2010,SF
+128,Marcin Gortat,Orlando Magic,5854000,2010,C
+129,LaMarcus Aldridge,Portland Trail Blazers,5844827,2010,C
+130,Morris Peterson,New Orleans Hornets,5800000,2010,SG
+131,Francisco Garcia,Sacramento Kings,5800000,2010,SG
+132,Raymond Felton,Charlotte Bobcats,5501196,2010,G
+133,Greg Oden,Portland Trail Blazers,5361240,2010,C
+134,Mickael Pietrus,Orlando Magic,5300000,2010,SF
+135,Adam Morrison,Los Angeles Lakers,5257229,2010,SF
+136,Raja Bell,Golden State Warriors,5250000,2010,SG
+137,Speedy Claxton,Atlanta Hawks,5209454,2010,PG
+138,Derrick Rose,Chicago Bulls,5184480,2010,PG
+139,Kyle Korver,Utah Jazz,5163636,2010,G
+140,Nenad Krstic,Oklahoma City Thunder,5160832,2010,C
+141,Derek Fisher,Los Angeles Lakers,5048000,2010,PG
+142,Jason Maxiell,Detroit Pistons,5000000,2010,PF
+143,Sasha Vujacic,Los Angeles Lakers,5000000,2010,SG
+144,Nate Robinson,Boston Celtics,5000000,2010,PG
+145,Jarrett Jack,Toronto Raptors,5000000,2010,G
+146,Blake Griffin,Boston Celtics,4983480,2010,PF
+147,Lou Williams,Philadelphia 76ers,4972500,2010,SG
+148,Reggie Evans,Toronto Raptors,4960000,2010,C
+149,Luke Walton,Los Angeles Lakers,4840000,2010,SF
+150,Kevin Durant,Oklahoma City Thunder,4796880,2010,PF
+151,Zaza Pachulia,Atlanta Hawks,4750000,2010,C
+152,Tyrus Thomas,Charlotte Bobcats,4743598,2010,PF
+153,Matt Carroll,Dallas Mavericks,4700000,2010,SG
+154,Michael Beasley,Miami Heat,4638600,2010,F
+155,Drew Gooden,LA Clippers,4580735,2010,PF
+156,Marcus Banks,Toronto Raptors,4553793,2010,PG
+157,Darius Songaila,New Orleans Hornets,4526000,2010,PF
+158,Antonio McDyess,San Antonio Spurs,4500000,2010,PF
+159,Kendrick Perkins,Boston Celtics,4500000,2010,C
+160,Hasheem Thabeet,Memphis Grizzlies,4458840,2010,C
+161,Trenton Hassell,New Jersey Nets,4350000,2010,SF
+162,Martell Webster,Portland Trail Blazers,4344000,2010,SF
+163,James Jones,Miami Heat,4330000,2010,SG
+164,Al Horford,Atlanta Hawks,4307640,2010,C
+165,Delonte West,Cleveland Cavaliers,4254250,2010,SG
+166,O.J. Mayo,Memphis Grizzlies,4165560,2010,SG
+167,Ronny Turiaf,Golden State Warriors,4140000,2010,C
+168,Bruce Bowen,San Antonio Spurs,4100000,2010,SF
+169,Daniel Gibson,Cleveland Cavaliers,4088500,2010,SG
+170,Greg Buckner,Memphis Grizzlies,4080915,2010,SG
+171,James Harden,Oklahoma City Thunder,4004160,2010,SG
+172,Kwame Brown,Detroit Pistons,4000000,2010,C
+173,Brandon Bass,Orlando Magic,4000000,2010,PF
+174,Steve Blake,LA Clippers,4000000,2010,PG
+175,Rasual Butler,LA Clippers,3945000,2010,SF
+176,Amir Johnson,Toronto Raptors,3941667,2010,F
+177,Brandon Roy,Portland Trail Blazers,3910816,2010,SG
+178,Ryan Gomes,Minnesota Timberwolves,3892500,2010,SF
+179,DeShawn Stevenson,Dallas Mavericks,3883929,2010,SG
+180,Mike Conley,Memphis Grizzlies,3883800,2010,PG
+181,Kurt Thomas,Milwaukee Bucks,3800000,2010,PF
+182,Roger Mason Jr.,San Antonio Spurs,3780000,2010,SG
+183,Russell Westbrook,Oklahoma City Thunder,3755640,2010,PG
+184,CJ Miles,Utah Jazz,3700000,2010,G
+185,Steven Hunter,Memphis Grizzlies,3696000,2010,C
+186,Willie Green,Philadelphia 76ers,3682000,2010,SG
+187,Ramon Sessions,Minnesota Timberwolves,3670667,2010,G
+188,Chris Andersen,Denver Nuggets,3650000,2010,PF
+189,Damien Wilkins,Minnesota Timberwolves,3630000,2010,SG
+190,Tyreke Evans,Sacramento Kings,3610080,2010,G
+191,Charlie Bell,Milwaukee Bucks,3602960,2010,SG
+192,Travis Outlaw,LA Clippers,3600000,2010,SF
+193,Randy Foye,Washington Wizards,3575761,2010,SG
+194,Keyon Dooling,New Jersey Nets,3564000,2010,PG
+195,Jeff Green,Oklahoma City Thunder,3516960,2010,PF
+196,Carlos Delfino,Milwaukee Bucks,3500000,2010,SG
+197,Brian Cook,Houston Rockets,3500000,2010,PF
+198,Brian Scalabrine,Boston Celtics,3413793,2010,PF
+199,Kevin Love,Minnesota Timberwolves,3401040,2010,PF
+200,Marc Gasol,Memphis Grizzlies,3333333,2010,C
+201,Luis Scola,Houston Rockets,3284667,2010,F
+202,Rudy Gay,Memphis Grizzlies,3280997,2010,SF
+203,Matt Bonner,San Antonio Spurs,3256500,2010,C
+204,Yi Jianlian,New Jersey Nets,3194400,2010,SF
+205,Kelenna Azubuike,Golden State Warriors,3100000,2010,SF
+206,Danilo Gallinari,New York Knicks,3089040,2010,PF
+207,Glen Davis,Boston Celtics,3000004,2010,PF
+208,Jamario Moon,Cleveland Cavaliers,3000000,2010,SF
+209,Eduardo Najera,Dallas Mavericks,3000000,2010,PF
+210,Carl Landry,Sacramento Kings,3000000,2010,PF
+211,Hakim Warrick,Chicago Bulls,3000000,2010,PF
+212,Andray Blatche,Washington Wizards,3000000,2010,C
+213,Grant Hill,Phoenix Suns,3000000,2010,SF
+214,Chris Wilcox,Detroit Pistons,3000000,2010,PF
+215,Jonny Flynn,Minnesota Timberwolves,2969280,2010,PG
+216,Corey Brewer,Minnesota Timberwolves,2916120,2010,F
+217,Kris Humphries,New Jersey Nets,2900000,2010,PF
+218,Dorell Wright,Miami Heat,2887165,2010,SF
+219,Eddie House,New York Knicks,2862000,2010,SG
+220,Mark Madsen,Minnesota Timberwolves,2840000,2010,PF
+221,JJ Redick,Orlando Magic,2839408,2010,SG
+222,Eric Gordon,LA Clippers,2819880,2010,SG
+223,Hilton Armstrong,Houston Rockets,2801198,2010,PF
+224,Earl Watson,Indiana Pacers,2800000,2010,PG
+225,Thabo Sefolosha,Oklahoma City Thunder,2759628,2010,F
+226,Ronnie Brewer,Memphis Grizzlies,2717161,2010,SF
+227,Stephen Curry,Golden State Warriors,2710560,2010,PG
+228,Brandan Wright,Houston Rockets,2671440,2010,F
+229,Anthony Parker,Cleveland Cavaliers,2644231,2010,SG
+230,Joe Alexander,Chicago Bulls,2583360,2010,SF
+231,Maurice Evans,Atlanta Hawks,2500000,2010,SG
+232,Sebastian Telfair,Cleveland Cavaliers,2500000,2010,PG
+233,Dahntay Jones,Indiana Pacers,2500000,2010,SG
+234,Tony Allen,Boston Celtics,2500000,2010,SG
+235,Michael Finley,Boston Celtics,2500000,2010,SG
+236,Jordan Hill,Houston Rockets,2483280,2010,C
+237,Joakim Noah,Chicago Bulls,2455680,2010,C
+238,Shawne Williams,Minnesota Timberwolves,2416067,2010,SF
+239,Ricky Davis,LA Clippers,2400000,2010,SG
+240,D.J. Augustin,Charlotte Bobcats,2374680,2010,G
+241,Spencer Hawes,Sacramento Kings,2332800,2010,PF
+242,David Andersen,Houston Rockets,2314815,2010,C
+243,Craig Smith,LA Clippers,2300000,2010,PF
+244,DeMar DeRozan,Toronto Raptors,2282640,2010,SF
+245,Brook Lopez,New Jersey Nets,2255880,2010,C
+246,Acie Law,Chicago Bulls,2216160,2010,PG
+247,Ryan Hollins,Minnesota Timberwolves,2183333,2010,C
+248,Brandon Jennings,Milwaukee Bucks,2168520,2010,G
+249,Chuck Hayes,Houston Rockets,2147750,2010,PF
+250,Jerryd Bayless,Portland Trail Blazers,2143080,2010,G
+251,Renaldo Balkman,Denver Nuggets,2112417,2010,SF
+252,Thaddeus Young,Philadelphia 76ers,2105400,2010,F
+253,Ersan Ilyasova,Milwaukee Bucks,2100000,2010,PF
+254,Rajon Rondo,Boston Celtics,2094923,2010,PG
+255,Anthony Johnson,Orlando Magic,2062800,2010,PG
+256,Jarvis Hayes,New Jersey Nets,2062800,2010,SF
+257,Brent Barry,Houston Rockets,2062800,2010,SG
+258,Terrence Williams,New Jersey Nets,2060040,2010,SG
+259,Josh Boone,New Jersey Nets,2056968,2010,C
+260,Jason Thompson,Sacramento Kings,2035920,2010,PF
+261,Kyle Lowry,Houston Rockets,2034996,2010,PG
+262,Julian Wright,New Orleans Hornets,2000040,2010,SF
+263,Jannero Pargo,Chicago Bulls,1990000,2010,PG
+264,Ronald Murray,Chicago Bulls,1990000,2010,SG
+265,Rasho Nesterovic,Toronto Raptors,1990000,2010,C
+266,Fabricio Oberto,Washington Wizards,1990000,2010,C
+267,Marquis Daniels,Boston Celtics,1990000,2010,SG
+268,Shannon Brown,Los Angeles Lakers,1990000,2010,PG
+269,Channing Frye,Phoenix Suns,1990000,2010,F
+270,Gerald Henderson,Charlotte Bobcats,1957080,2010,SG
+271,Jordan Farmar,Los Angeles Lakers,1947240,2010,PG
+272,Al Thornton,Washington Wizards,1900200,2010,SF
+273,Mardy Collins,LA Clippers,1867742,2010,PG
+274,Tyler Hansbrough,Indiana Pacers,1859160,2010,PF
+275,Anthony Randolph,Golden State Warriors,1837560,2010,SF
+276,Goran Dragic,Phoenix Suns,1836000,2010,PG
+277,Rodney Stuckey,Detroit Pistons,1805040,2010,PG
+278,Antoine Wright,Toronto Raptors,1800000,2010,SF
+279,Earl Clark,Phoenix Suns,1766280,2010,SF
+280,Robin Lopez,Phoenix Suns,1745520,2010,C
+281,Nick Young,Washington Wizards,1714800,2010,G
+282,Francisco Elson,Philadelphia 76ers,1700000,2010,C
+283,Austin Daye,Detroit Pistons,1677840,2010,SF
+284,Marreese Speights,Philadelphia 76ers,1658280,2010,F
+285,J.J. Barea,Dallas Mavericks,1657500,2010,G
+286,Sean Williams,New Jersey Nets,1629120,2010,PF
+287,Hamed Ehaddadi,Memphis Grizzlies,1627779,2010,C
+288,Solomon Jones,Indiana Pacers,1620000,2010,PF
+289,Matt Barnes,Orlando Magic,1600000,2010,SF
+290,Devean George,Golden State Warriors,1600000,2010,SF
+291,James Johnson,Chicago Bulls,1594080,2010,PF
+292,Roy Hibbert,Indiana Pacers,1575360,2010,C
+293,Marco Belinelli,Toronto Raptors,1547640,2010,G
+294,Oleksiy Pecherov,Minnesota Timberwolves,1547640,2010,C
+295,Jrue Holiday,Philadelphia 76ers,1514280,2010,PG
+296,Sasha Pavlovic,Minnesota Timberwolves,1500000,2010,SG
+297,JaVale McGee,Washington Wizards,1496640,2010,C
+298,Javaris Crittenton,Washington Wizards,1477920,2010,PG
+299,Ty Lawson,Denver Nuggets,1438680,2010,G
+300,JJ Hickson,Cleveland Cavaliers,1429200,2010,C
+301,Jason Smith,Philadelphia 76ers,1418880,2010,F
+302,Jeff Teague,Atlanta Hawks,1373880,2010,PG
+303,Alexis Ajinca,Charlotte Bobcats,1372080,2010,C
+304,Daequan Cook,Miami Heat,1362120,2010,SG
+305,Roko-Leni Ukic,Milwaukee Bucks,1350000,2010,PG
+306,Eric Maynor,Oklahoma City Thunder,1318920,2010,PG
+307,Ryan Anderson,Orlando Magic,1317120,2010,PF
+308,Jared Dudley,Phoenix Suns,1307640,2010,SF
+309,Malik Allen,Denver Nuggets,1300000,2010,PF
+310,Darren Collison,New Orleans Hornets,1266120,2010,PG
+311,Courtney Lee,New Jersey Nets,1264440,2010,G
+312,Wilson Chandler,New York Knicks,1255440,2010,F
+313,Ronnie Price,Utah Jazz,1250000,2010,PG
+314,Kosta Koufos,Utah Jazz,1214040,2010,C
+315,Omri Casspi,Sacramento Kings,1167000,2010,F
+316,Byron Mullens,Oklahoma City Thunder,1120200,2010,C
+317,Serge Ibaka,Oklahoma City Thunder,1120200,2010,F
+318,Nicolas Batum,Portland Trail Blazers,1118760,2010,PF
+319,Aaron Brooks,Houston Rockets,1118520,2010,G
+320,Devin Brown,Chicago Bulls,1107572,2010,SG
+321,Arron Afflalo,Denver Nuggets,1086240,2010,G
+322,George Hill,San Antonio Spurs,1081680,2010,PG
+323,Rodrigue Beaubois,Dallas Mavericks,1075440,2010,PG
+324,Alando Tucker,Minnesota Timberwolves,1071720,2010,SF
+325,Darrell Arthur,Memphis Grizzlies,1050480,2010,F
+326,Chris Quinn,New Jersey Nets,1050387,2010,PG
+327,Royal Ivey,Milwaukee Bucks,1050000,2010,PG
+328,Taj Gibson,Chicago Bulls,1039800,2010,F
+329,D.J. White,Oklahoma City Thunder,1036440,2010,PF
+330,Quinton Ross,Washington Wizards,1033342,2010,SF
+331,Steve Novak,LA Clippers,1031000,2010,SF
+332,James Singleton,Washington Wizards,1030189,2010,F
+333,J.R. Giddens,New York Knicks,1028880,2010,SG
+334,DeMarre Carroll,Memphis Grizzlies,1009680,2010,F
+335,Wayne Ellington,Minnesota Timberwolves,1003560,2010,SG
+336,C.J. Watson,Golden State Warriors,1000497,2010,PG
+337,Aaron Gray,New Orleans Hornets,1000497,2010,C
+338,Toney Douglas,New York Knicks,996240,2010,PG
+339,Ian Mahinmi,San Antonio Spurs,989670,2010,C
+340,Didier Ilunga-Mbenga,Los Angeles Lakers,959111,2010,C
+341,Josh Powell,Los Angeles Lakers,959111,2010,PF
+342,Yakhouba Diawara,Miami Heat,945000,2010,SG
+343,Zydrunas Ilgauskas,Cleveland Cavaliers,925000,2010,C
+344,Salim Stoudamire,Atlanta Hawks,884881,2010,SG
+345,Kyle Weaver,Oklahoma City Thunder,870968,2010,SG
+346,Kyrylo Fesenko,Utah Jazz,870000,2010,C
+347,Donte Greene,Sacramento Kings,870000,2010,SF
+348,Patrick O'Bryant,Toronto Raptors,855189,2010,C
+349,Leon Powe,Cleveland Cavaliers,855189,2010,PF
+350,Quincy Douby,Sacramento Kings,855189,2010,SG
+351,Marcus Haislip,San Antonio Spurs,855189,2010,F
+352,Lou Amundson,Phoenix Suns,855189,2010,PF
+353,Mouhamed Sene,New York Knicks,855189,2010,C
+354,Anthony Roberson,Chicago Bulls,855189,2010,SG
+355,Tarence Kinsey,Golden State Warriors,855189,2010,SG
+356,Randolph Morris,Atlanta Hawks,855189,2010,C
+357,DeJuan Blair,San Antonio Spurs,850000,2010,C
+358,Sean Marks,New Orleans Hornets,825497,2010,PF
+359,Jason Williams,Orlando Magic,825497,2010,PG
+360,Brian Skinner,LA Clippers,825497,2010,PF
+361,Jamaal Magloire,Miami Heat,825497,2010,C
+362,Paul Davis,Washington Wizards,825497,2010,C
+363,Dominic McGuire,Sacramento Kings,825497,2010,PF
+364,Kevin Ollie,Oklahoma City Thunder,825497,2010,PG
+365,Ryan Bowen,Oklahoma City Thunder,825497,2010,SF
+366,Marcus Williams,Memphis Grizzlies,825497,2010,PG
+367,Luther Head,Indiana Pacers,825497,2010,PG
+368,Desmond Mason,Sacramento Kings,825497,2010,SF
+369,Jarron Collins,Phoenix Suns,825497,2010,C
+370,Chucky Atkins,Detroit Pistons,825497,2010,PG
+371,Keith Bogans,San Antonio Spurs,825497,2010,SG
+372,Mikki Moore,Golden State Warriors,825497,2010,C
+373,Linton Johnson,Chicago Bulls,825497,2010,PF
+374,Adonal Foyle,Orlando Magic,825497,2010,C
+375,James White,New York Knicks,825497,2010,SG
+376,Ike Diogu,New York Knicks,825497,2010,PF
+377,Jason Collins,Atlanta Hawks,825497,2010,C
+378,Shelden Williams,Boston Celtics,825497,2010,C
+379,Jason Hart,New Orleans Hornets,825497,2010,PG
+380,Stephen Graham,Charlotte Bobcats,825497,2010,SF
+381,Primoz Brezec,Milwaukee Bucks,825497,2010,C
+382,Juwan Howard,Portland Trail Blazers,825497,2010,PF
+383,Joe Smith,Atlanta Hawks,825497,2010,PF
+384,Theo Ratliff,Charlotte Bobcats,825497,2010,C
+385,Kareem Rush,LA Clippers,825497,2010,SG
+386,Jermareo Davidson,Golden State Warriors,825497,2010,PF
+387,Ben Wallace,Detroit Pistons,825497,2010,PF
+388,Marcus Williams,Denver Nuggets,825497,2010,SG
+389,Pops Mensah-Bonsu,Toronto Raptors,825497,2010,PF
+390,Anthony Carter,Denver Nuggets,825497,2010,PG
+391,Josh McRoberts,Indiana Pacers,825497,2010,PF
+392,Tim Thomas,Dallas Mavericks,825497,2010,PF
+393,Joey Graham,Denver Nuggets,825497,2010,SF
+394,Lindsey Hunter,Chicago Bulls,825497,2010,SG
+395,Rodney Carney,Philadelphia 76ers,825497,2010,SG
+396,Gabe Pruitt,Boston Celtics,825497,2010,PG
+397,Carlos Arroyo,Miami Heat,825497,2010,PG
+398,Will Bynum,Detroit Pistons,825497,2010,PG
+399,Johan Petro,Denver Nuggets,825497,2010,C
+400,Sean May,Sacramento Kings,825479,2010,C
+401,Sam Young,Memphis Grizzlies,824200,2010,SF
+402,Ime Udoka,Sacramento Kings,786650,2010,F
+403,Mario Chalmers,Miami Heat,756000,2010,G
+404,Earl Boykins,Washington Wizards,752659,2010,PG
+405,Jamaal Tinsley,Memphis Grizzlies,738091,2010,PG
+406,Dontell Jefferson,Charlotte Hornets,736420,2010,SG
+407,Mike Taylor,LA Clippers,736420,2010,PG
+408,Malik Hairston,San Antonio Spurs,736420,2010,SG
+409,Joe Crawford,New York Knicks,736420,2010,SG
+410,Anthony Morrow,Golden State Warriors,736420,2010,SG
+411,Sonny Weems,Toronto Raptors,736420,2010,SG
+412,Sun Yue,Los Angeles Lakers,736420,2010,SG
+413,Nathan Jawai,Minnesota Timberwolves,736420,2010,C
+414,Walter Sharpe,Detroit Pistons,736420,2010,PF
+415,Henry Walker,New York Knicks,736420,2010,SF
+416,Darnell Jackson,Milwaukee Bucks,736420,2010,PF
+417,Bobby Brown,LA Clippers,736420,2010,PG
+418,Luc Mbah a Moute,Milwaukee Bucks,736420,2010,F
+419,DeAndre Jordan,LA Clippers,736420,2010,C
+420,Jawad Williams,Cleveland Cavaliers,736420,2010,SF
+421,DeMarcus Nelson,Chicago Bulls,736420,2010,SG
+422,Chris Douglas-Roberts,New Jersey Nets,736420,2010,SG
+423,Othello Hunter,Atlanta Hawks,736420,2010,SF
+424,Chase Budinger,Houston Rockets,725000,2010,SF
+425,Jermaine Taylor,Houston Rockets,725000,2010,SG
+426,Mike Wilks,Oklahoma City Thunder,679821,2010,PG
+427,Allen Iverson,Philadelphia 76ers,650686,2010,SG
+428,Jodie Meeks,Philadelphia 76ers,650000,2010,G
+429,Chris Hunter,Golden State Warriors,632455,2010,C
+430,Jonathan Bender,New York Knicks,597271,2010,SF
+431,Rafer Alston,Miami Heat,475875,2010,PG
+432,Derrick Byars,Memphis Grizzlies,457588,2010,SF
+433,Trey Gilder,Memphis Grizzlies,457588,2010,SF
+434,Dante Cunningham,Portland Trail Blazers,457588,2010,F
+435,Derrick Brown,Charlotte Bobcats,457588,2010,SF
+436,A.J. Price,Indiana Pacers,457588,2010,PG
+437,Taylor Griffin,Phoenix Suns,457588,2010,PF
+438,Danny Green,Cleveland Cavaliers,457588,2010,F
+439,DaJuan Summers,Detroit Pistons,457588,2010,SF
+440,Marcus Thornton,New Orleans Hornets,457588,2010,SG
+441,Marcus Landry,Boston Celtics,457588,2010,SF
+442,Patty Mills,Portland Trail Blazers,457588,2010,PG
+443,Jeff Ayres,Portland Trail Blazers,457588,2010,F
+444,Lester Hudson,Memphis Grizzlies,457588,2010,SG
+445,Jon Brockman,Sacramento Kings,457588,2010,PF
+446,Jonas Jerebko,Detroit Pistons,457588,2010,F
+447,Deron Washington,null Unknown,457588,2010,NA
+448,Wesley Matthews,Utah Jazz,457588,2010,SG
+449,Mario West,Atlanta Hawks,451595,2010,SG
+450,Anthony Tolliver,Golden State Warriors,427316,2010,PF
+451,Jerry Stackhouse,Milwaukee Bucks,422460,2010,SF
+452,Sundiata Gaines,Utah Jazz,269169,2010,PG
+453,Shaun Livingston,Washington Wizards,228226,2010,G
+454,Travis Diener,Portland Trail Blazers,208802,2010,PG
+455,Chris Richard,Chicago Bulls,186271,2010,PF
+456,Larry Hughes,Charlotte Bobcats,160244,2010,SG
+457,Reggie Williams,Golden State Warriors,118435,2010,SF
+458,Othyus Jeffers,Utah Jazz,113051,2010,SG
+459,Brian Cardinal,Minnesota Timberwolves,111685,2010,PF
+460,Mike Harris,Washington Wizards,95301,2010,SF
+461,Garrett Temple,San Antonio Spurs,88826,2010,SF
+462,Kenny Hasbrouck,null Unknown,75476,2010,NA
+463,Cartier Martin,Washington Wizards,69310,2010,PF
+464,Earl Barron,New York Knicks,63127,2010,C
+465,Curtis Jerrells,null Unknown,59217,2010,NA
+466,Dwayne Jones II,Phoenix Suns,48559,2010,PF
+467,Joey Dorsey,Sacramento Kings,47651,2010,PF
+468,Alonzo Gee,Washington Wizards,45759,2010,SF
+469,Shavlik Randolph,Portland Trail Blazers,43703,2010,PF
+470,Mustafa Shakur,Oklahoma City Thunder,40375,2010,PG
+471,Cedric Jackson,Washington Wizards,40375,2010,G
+472,Alexander Johnson,Miami Heat,29135,2010,SF
+473,Rob Kurz,Boston Celtics,25991,2010,SF
+474,Coby Karl,Golden State Warriors,17328,2010,PG
+475,Brian Butch,Utah Jazz,10767,2010,C
+476,Greg Stiemsma,Portland Trail Blazers,5383,2010,C
+477,Tony Gaffney,Memphis Grizzlies,2692,2010,SF
+478,Oliver Lafayette,Boston Celtics,2692,2010,G
